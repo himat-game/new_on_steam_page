@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Steam 新規ストア公開RSS + ストア更新イベントRSS（画像・説明・価格・言語対応 / ローリング全件クロール）
+Steam 新規ストア公開RSS + ストア更新イベントRSS
+（画像・説明・価格・言語対応 / ローリング全件クロール / 変更点はタイトル要約 / 新規は「（新規追加）」）
 
 - 新規公開RSS: steam_new_store.xml
-  * 画像 (<enclosure> / media:thumbnail) / 本文HTML (content:encoded) / short_description（日本語→無ければ英語）
+  * タイトルに「（新規追加）」を付与
+  * 画像 (<enclosure> / media:thumbnail) / 本文HTML (content:encoded)
+  * short_description（日本語→無ければ英語フォールバック）
 - 更新イベントRSS: steam_store_updates.xml
-  * ストアメタの差分を検知して通知（価格・対応言語を含む）
-- ローリング全件クロール: 毎回 --crawl-batch 件ずつ appdetails を巡回し、数日で全アプリを一巡
-- レート配慮: 1件ごとに 0.2〜0.25秒スリープ、429検知の簡易バックオフ
+  * メタの差分（価格・対応言語含む）を検知
+  * 変更内容の要約をタイトルにも付与（例: Dota 2（価格 ¥1,480 → ¥980 / 言語 +japanese））
+- ローリング全件クロール: 毎回 --crawl-batch 件を巡回し、数日で全体を一巡
+- レート配慮: 1件ごとに 0.2〜0.25秒スリープ、429/503 簡易バックオフ
 
 初回:
   python steam_new_store_rss.py --state state.json --rss-out steam_new_store.xml --baseline-if-empty
@@ -39,14 +43,14 @@ def http_get_raw(url: str, params: Optional[Dict[str, str]] = None, timeout: int
     if params:
         url = url + ("?" + urllib.parse.urlencode(params))
     req = urllib.request.Request(url, headers={
-        "User-Agent": "steam-new-store-rss/2.0 (+https://example.com)"
+        "User-Agent": "steam-new-store-rss/2.1 (+https://example.com)"
     })
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return resp.read()
     except urllib.error.HTTPError as e:
-        # 簡易バックオフ（429など）
-        if e.code == 429 or e.code == 503:
+        # 簡易バックオフ（429/503）
+        if e.code in (429, 503):
             time.sleep(5)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read()
@@ -167,21 +171,17 @@ LANG_TAG_RE = re.compile(r"<.*?>")
 SEP_RE = re.compile(r"[;,/｜|]")
 
 def normalize_languages(s: Optional[str]) -> List[str]:
-    """supported_languages は HTML入りの文字列。タグ除去→区切りで分割→整形→小文字→重複排除→ソート"""
+    """supported_languages は HTML入り。タグ除去→分割→整形→小文字→重複排除→ソート"""
     if not s: return []
     txt = LANG_TAG_RE.sub("", s)
     parts = [p.strip().lower() for p in SEP_RE.split(txt) if p.strip()]
-    # よくある冗長ワードを削る
     cleaned = []
     for p in parts:
         p = p.replace("full audio", "").replace("interface", "").replace("subtitles","").strip()
-        if not p: continue
-        cleaned.append(p)
-    uniq = sorted(set(cleaned))
-    return uniq
+        if p: cleaned.append(p)
+    return sorted(set(cleaned))
 
 def extract_snapshot(data: dict) -> dict:
-    """差分比較用のスナップショットを抽出（価格・言語・主要メタ）"""
     price = (data.get("price_overview") or {}).get("final_formatted")
     langs = normalize_languages(data.get("supported_languages"))
     genres = [g.get("description","") for g in (data.get("genres") or [])]
@@ -193,7 +193,7 @@ def extract_snapshot(data: dict) -> dict:
         "capsule_imagev5": data.get("capsule_imagev5"),
         "is_free": data.get("is_free"),
         "price": price or ("Free" if data.get("is_free") else ""),
-        "supported_languages": langs,
+        "supported_languages": sorted(set([x for x in langs if x])),
         "genres": sorted(set([g for g in genres if g])),
         "platforms": json.dumps(data.get("platforms", {}), sort_keys=True),
         "release": json.dumps(data.get("release_date", {}), sort_keys=True),
@@ -229,11 +229,12 @@ def choose_image(data: dict) -> Optional[str]:
             or data.get("background"))
 
 def build_new_item(appid: int, data: dict, now_iso: str) -> Dict:
-    title = data.get("name", f"App {appid}")
+    base_name = data.get("name", f"App {appid}")
+    title = f"{base_name}（新規追加）"  # ← 新規公開はタイトルに印を付ける
     link = f"https://store.steampowered.com/app/{appid}/"
     image = choose_image(data)
     desc = get_short_description(appid, data)
-    guid = f"steam-store-published-{appid}"  # 安定GUID（重複追加防止）
+    guid = f"steam-store-published-{appid}"  # 安定GUID（重複防止）
     return {
         "title": title, "link": link, "guid": guid, "pubDate": now_iso,
         "description": desc, "image": image,
@@ -248,17 +249,43 @@ def pretty_change_label(k: str) -> str:
         "capsule_imagev5": "カプセル画像",
         "is_free": "無料フラグ",
         "price": "価格",
-        "supported_languages": "対応言語",
+        "supported_languages": "言語",
         "genres": "ジャンル",
         "platforms": "対応OS",
-        "release": "リリース情報",
+        "release": "リリース",
     }.get(k, k)
 
+def summarize_changes_for_title(changes: List[Tuple[str,str,str]], max_items: int = 3, max_len: int = 80) -> str:
+    """タイトル向けの短い要約。優先度: 価格/言語/説明/画像/タイトル/その他"""
+    priority = {"price": 1, "supported_languages": 2, "short_description": 3, "header_image": 4, "name": 5}
+    ordered = sorted(changes, key=lambda t: priority.get(t[0], 9))
+    parts = []
+    for k, ov, nv in ordered[:max_items]:
+        if k == "price":
+            if ov and nv and ov != nv:
+                parts.append(f"価格 {ov} → {nv}")
+            else:
+                parts.append("価格変更")
+        elif k == "supported_languages":
+            old = set([x.strip() for x in ov.split(",") if x.strip()]) if ov else set()
+            new = set([x.strip() for x in nv.split(",") if x.strip()]) if nv else set()
+            added = sorted(new - old)
+            removed = sorted(old - new)
+            detail = []
+            if added:   detail.append("+" + ",".join(added[:3]))
+            if removed: detail.append("-" + ",".join(removed[:3]))
+            parts.append(f"言語 {'/'.join(detail) if detail else '変更'}")
+        else:
+            parts.append(f"{pretty_change_label(k)}更新")
+    summary = " / ".join(parts)
+    return summary if len(summary) <= max_len else (summary[: max_len - 1] + "…")
+
 def build_update_item(appid: int, data: dict, changes: List[Tuple[str,str,str]], now_iso: str) -> Dict:
-    title = f"Updated: {data.get('name', f'App {appid}')}"
+    base_name = data.get('name', f'App {appid}')
+    summary_title = summarize_changes_for_title(changes)
+    title = f"{base_name}（{summary_title}）" if summary_title else f"{base_name}（更新）"
     link = f"https://store.steampowered.com/app/{appid}/"
     image = choose_image(data)
-    # 価格＆言語は読みやすく
     parts = []
     for k, ov, nv in changes:
         label = pretty_change_label(k)
@@ -294,7 +321,7 @@ def save_state(path: str, state: Dict) -> None:
 # ---- Main --------------------------------------------------------------------
 
 def main():
-    ap = argparse.ArgumentParser(description="Steam new-store & store-updates RSS generator (images, price, languages, rolling crawl).")
+    ap = argparse.ArgumentParser(description="Steam new-store & store-updates RSS generator (images, price, languages, rolling crawl, title summary, new flag).")
     ap.add_argument("--state", default="state.json", help="State JSON path")
     ap.add_argument("--rss-out", default="steam_new_store.xml", help="New store RSS output")
     ap.add_argument("--updates-out", default="steam_store_updates.xml", help="Store updates RSS output")
@@ -333,7 +360,6 @@ def main():
             state["seen"][str(appid)] = {"published": False, "detected_at": None}
         state["applist"] = appids
         state["crawl_cursor"] = 0
-        # 空の2本を出力
         with open(args.rss_out, "w", encoding="utf-8") as f:
             f.write(build_rss(args.channel_title, args.channel_link, args.channel_desc, []))
         with open(args.updates_out, "w", encoding="utf-8") as f:
@@ -365,11 +391,9 @@ def main():
 
         if ok:
             item = build_new_item(appid, data, now_iso)
-            # 既に同appidのアイテムがあれば重複追加しない
             if not any(("/app/%d/" % appid) in it.get("link","") for it in state["items"]):
                 published_events.append(item)
             state["seen"][str(appid)] = {"published": True, "detected_at": now_iso}
-            # スナップショット更新 & 差分（初回は前回なし）
             snap = extract_snapshot(data)
             state.setdefault("snapshots", {})[str(appid)] = snap
         else:
@@ -410,7 +434,6 @@ def main():
     n = args.crawl_batch
     if len(appids) > 0 and n > 0:
         start = state["crawl_cursor"] % len(appids)
-        # wrap-around なスライス
         batch = appids[start:start+n] if start+n <= len(appids) else appids[start:] + appids[:(start+n) % len(appids)]
         processed = 0
         for appid in batch:
@@ -423,7 +446,6 @@ def main():
                 continue
             if not ok or not data:
                 continue
-            # スナップショット差分
             snap = extract_snapshot(data)
             prev = state.setdefault("snapshots", {}).get(str(appid))
             if prev:
