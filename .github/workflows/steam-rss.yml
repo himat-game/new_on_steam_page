@@ -28,6 +28,22 @@ jobs:
       - name: Jitter
         run: python -c "import time, random; time.sleep(random.uniform(0,30))"
 
+      - name: (ONE-TIME) Retitle past new-store items with suffix
+        run: |
+          python -c "import json,os; p='state.json'; \
+s=json.load(open(p,encoding='utf-8')) if os.path.exists(p) else None; \
+cnt=0; \
+if s: \
+    for it in s.get('items', []): \
+        g=str(it.get('guid','')); \
+        if g.startswith('steam-store-published-'): \
+            t=it.get('title') or '(no title)'; \
+            if '新規追加' not in t: \
+                it['title']=t+'（新規追加）'; cnt+=1; \
+    json.dump(s, open(p,'w',encoding='utf-8'), ensure_ascii=False, indent=2); \
+print('retitled',cnt,'items')"
+
+
       - name: Run detector (baseline on first run)
         run: |
           python steam_new_store_rss.py \
