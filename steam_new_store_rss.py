@@ -3,16 +3,7 @@
 """
 Steam 新規ストア公開RSS + ストア更新イベントRSS
 （画像・説明・価格・言語対応 / ローリング全件クロール / 変更点はタイトル要約 / 新規は「（新規追加）」）
-
-- 新規公開RSS: steam_new_store.xml
-  * タイトルに「（新規追加）」を付与
-  * 画像 (<enclosure> / media:thumbnail) / 本文HTML (content:encoded)
-  * short_description（日本語→無ければ英語フォールバック）
-- 更新イベントRSS: steam_store_updates.xml
-  * メタの差分（価格・対応言語含む）を検知
-  * 変更内容の要約をタイトルにも付与（例: Dota 2（価格 ¥1,480 → ¥980 / 言語 +japanese））
-- ローリング全件クロール: 毎回 --crawl-batch 件を巡回し、数日で全体を一巡
-- レート配慮: 1件ごとに 0.2〜0.25秒スリープ、429/503 簡易バックオフ
+＋ 429/502/503/504 に強い HTTP 再試行（指数バックオフ＆スローモード）
 
 初回:
   python steam_new_store_rss.py --state state.json --rss-out steam_new_store.xml --baseline-if-empty
@@ -32,29 +23,70 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from urllib.error import HTTPError, URLError
 from typing import Dict, List, Optional, Tuple
 
 STEAM_APP_LIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
 APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 
-# ---- HTTP helpers ------------------------------------------------------------
+# =========================
+# HTTP helpers（堅牢版）
+# =========================
+
+# 通常時の最小間隔 / 429後のスロー間隔 / スローモード継続時間（秒）
+RATE_MIN_SEC = 0.30
+RATE_SLOW_SEC = 0.80
+SLOW_MODE_SECONDS = 300
+
+_last_request_ts = 0.0
+_slow_mode_until = 0.0
+
+def _polite_sleep():
+    """直前から一定時間を空ける（429検知後はスローモード）"""
+    global _last_request_ts, _slow_mode_until
+    now = time.time()
+    min_gap = RATE_SLOW_SEC if now < _slow_mode_until else RATE_MIN_SEC
+    wait = (_last_request_ts + min_gap) - now
+    if wait > 0:
+        time.sleep(wait)
 
 def http_get_raw(url: str, params: Optional[Dict[str, str]] = None, timeout: int = 20) -> bytes:
+    """429/5xxに強い取得：指数バックオフ＋ジッター＋一時スローモード"""
+    global _last_request_ts, _slow_mode_until
     if params:
         url = url + ("?" + urllib.parse.urlencode(params))
     req = urllib.request.Request(url, headers={
-        "User-Agent": "steam-new-store-rss/2.1 (+https://example.com)"
+        "User-Agent": "steam-new-store-rss/2.3 (+https://example.com)"
     })
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return resp.read()
-    except urllib.error.HTTPError as e:
-        # 簡易バックオフ（429/503）
-        if e.code in (429, 503):
-            time.sleep(5)
+
+    max_retries = 6
+    base_sleep = 1.5  # 秒
+    for attempt in range(max_retries + 1):
+        _polite_sleep()
+        try:
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return resp.read()
-        raise
+                data = resp.read()
+                _last_request_ts = time.time()
+                return data
+        except HTTPError as e:
+            code = e.code
+            if code in (429, 502, 503, 504) and attempt < max_retries:
+                if code == 429:
+                    _slow_mode_until = time.time() + SLOW_MODE_SECONDS
+                sleep_sec = base_sleep * (2 ** attempt) * random.uniform(0.8, 1.3)
+                sleep_sec = min(sleep_sec, 60)
+                print(f"[RETRY] {code} on {url} -> sleep {sleep_sec:.1f}s (attempt {attempt+1}/{max_retries})")
+                time.sleep(sleep_sec)
+                continue
+            raise
+        except URLError:
+            if attempt < max_retries:
+                sleep_sec = base_sleep * (2 ** attempt) * random.uniform(0.8, 1.3)
+                sleep_sec = min(sleep_sec, 30)
+                print(f"[RETRY] URLError on {url} -> sleep {sleep_sec:.1f}s (attempt {attempt+1}/{max_retries})")
+                time.sleep(sleep_sec)
+                continue
+            raise
 
 def http_get_json(url: str, params: Optional[Dict[str, str]] = None, timeout: int = 20):
     data = http_get_raw(url, params=params, timeout=timeout)
@@ -63,7 +95,9 @@ def http_get_json(url: str, params: Optional[Dict[str, str]] = None, timeout: in
     except Exception:
         return json.loads(data)
 
-# ---- RSS helpers -------------------------------------------------------------
+# =========================
+# RSS helpers
+# =========================
 
 def guess_mime(url: str) -> str:
     if not url:
@@ -82,7 +116,6 @@ def truncate(text: str, limit: int = 600) -> str:
     return text if len(text) <= limit else (text[: limit - 1] + "…")
 
 def build_rss(channel_title: str, channel_link: str, channel_desc: str, items: List[Dict], lang: str = "ja-jp") -> str:
-    # lastBuildDate は最新アイテムの日時（無ければ現在）
     if items:
         last = items[0]["pubDate"]
         last_dt = dt.datetime.fromisoformat(last.replace("Z","+00:00")).astimezone(dt.timezone.utc)
@@ -139,7 +172,9 @@ def build_rss(channel_title: str, channel_link: str, channel_desc: str, items: L
     out.write('</rss>\n')
     return out.getvalue()
 
-# ---- Storefront helpers ------------------------------------------------------
+# =========================
+# Storefront helpers
+# =========================
 
 def fetch_app_list() -> List[Dict]:
     js = http_get_json(STEAM_APP_LIST_URL)
@@ -165,13 +200,14 @@ def fetch_appdetails(appid: int, cc_primary: str, lang_primary: str) -> Tuple[bo
             pass
     return False, None
 
-# ---- Diff helpers（価格・言語など） -----------------------------------------
+# =========================
+# Diff helpers（価格・言語）
+# =========================
 
 LANG_TAG_RE = re.compile(r"<.*?>")
 SEP_RE = re.compile(r"[;,/｜|]")
 
 def normalize_languages(s: Optional[str]) -> List[str]:
-    """supported_languages は HTML入り。タグ除去→分割→整形→小文字→重複排除→ソート"""
     if not s: return []
     txt = LANG_TAG_RE.sub("", s)
     parts = [p.strip().lower() for p in SEP_RE.split(txt) if p.strip()]
@@ -211,7 +247,9 @@ def diff_snap(old: dict, new: dict) -> List[Tuple[str,str,str]]:
             changes.append((k, str(ov) if ov is not None else "", str(nv) if nv is not None else ""))
     return changes
 
-# ---- Item builders -----------------------------------------------------------
+# =========================
+# Item builders
+# =========================
 
 def get_short_description(appid: int, primary_data: dict) -> str:
     desc = primary_data.get("short_description")
@@ -230,7 +268,7 @@ def choose_image(data: dict) -> Optional[str]:
 
 def build_new_item(appid: int, data: dict, now_iso: str) -> Dict:
     base_name = data.get("name", f"App {appid}")
-    title = f"{base_name}（新規追加）"  # ← 新規公開はタイトルに印を付ける
+    title = f"{base_name}（新規追加）"  # 新規公開の印
     link = f"https://store.steampowered.com/app/{appid}/"
     image = choose_image(data)
     desc = get_short_description(appid, data)
@@ -256,7 +294,6 @@ def pretty_change_label(k: str) -> str:
     }.get(k, k)
 
 def summarize_changes_for_title(changes: List[Tuple[str,str,str]], max_items: int = 3, max_len: int = 80) -> str:
-    """タイトル向けの短い要約。優先度: 価格/言語/説明/画像/タイトル/その他"""
     priority = {"price": 1, "supported_languages": 2, "short_description": 3, "header_image": 4, "name": 5}
     ordered = sorted(changes, key=lambda t: priority.get(t[0], 9))
     parts = []
@@ -300,7 +337,9 @@ def build_update_item(appid: int, data: dict, changes: List[Tuple[str,str,str]],
         "description": desc, "image": image,
     }
 
-# ---- State I/O ---------------------------------------------------------------
+# =========================
+# State I/O
+# =========================
 
 def load_state(path: str) -> Dict:
     if not os.path.exists(path):
@@ -318,10 +357,12 @@ def save_state(path: str, state: Dict) -> None:
         json.dump(state, f, ensure_ascii=False, indent=2)
     os.replace(tmp, path)
 
-# ---- Main --------------------------------------------------------------------
+# =========================
+# Main
+# =========================
 
 def main():
-    ap = argparse.ArgumentParser(description="Steam new-store & store-updates RSS generator (images, price, languages, rolling crawl, title summary, new flag).")
+    ap = argparse.ArgumentParser(description="Steam new-store & store-updates RSS generator (robust HTTP backoff).")
     ap.add_argument("--state", default="state.json", help="State JSON path")
     ap.add_argument("--rss-out", default="steam_new_store.xml", help="New store RSS output")
     ap.add_argument("--updates-out", default="steam_store_updates.xml", help="Store updates RSS output")
@@ -336,7 +377,7 @@ def main():
     ap.add_argument("--max-updates", type=int, default=500, help="Max update items")
     ap.add_argument("--max-new", type=int, default=200, help="Per run: max brand-new appids to check")
     ap.add_argument("--pending-retry", type=int, default=100, help="Per run: recheck pending appids")
-    ap.add_argument("--crawl-batch", type=int, default=600, help="Per run: rolling crawl batch size")
+    ap.add_argument("--crawl-batch", type=int, default=300, help="Per run: rolling crawl batch size")
     ap.add_argument("--baseline-if-empty", action="store_true", help="If state empty, baseline existing apps")
     args = ap.parse_args()
 
