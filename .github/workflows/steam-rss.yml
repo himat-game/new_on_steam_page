@@ -17,24 +17,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          
-      - name: (ONE-TIME) Insert known app to pending for verification
-        run: |
-          python - <<'PY'
-          import json, os
-          P = 'state.json'
-          if os.path.exists(P):
-              s = json.load(open(P, encoding='utf-8'))
-          else:
-              s = {"seen": {}, "pending": [], "items": []}
-          # Dota 2 (570) を pending に入れる（存在しなければ）
-          if 570 not in s.get("pending", []):
-              s.setdefault("pending", []).append(570)
-          s.setdefault("seen", {}).setdefault("570", {"published": False, "detected_at": None})
-          json.dump(s, open(P, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
-          print("Inserted 570 into pending")
-          PY
-          
+                    
       - name: Run detector (baseline on first run)
         run: |
           python steam_new_store_rss.py \
