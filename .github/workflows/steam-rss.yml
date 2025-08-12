@@ -28,30 +28,6 @@ jobs:
       - name: Jitter
         run: python -c "import time, random; time.sleep(random.uniform(0,30))"
 
-      # ★ワンタイム：既存の新規公開アイテムに（新規追加）を付ける
-      # 実行して反映を確認できたら、このブロックを削除してください。
-      - name: (ONE-TIME) Retitle past new-store items with suffix
-        run: |
-          python - <<'PY'
-          import json, os
-          p = 'state.json'
-          if not os.path.exists(p):
-              print('no state.json'); raise SystemExit(0)
-          with open(p, encoding='utf-8') as f:
-              s = json.load(f)
-          cnt = 0
-          for it in s.get('items', []):
-              g = str(it.get('guid', ''))
-              if g.startswith('steam-store-published-'):
-                  t = it.get('title') or '(no title)'
-                  if '新規追加' not in t:
-                      it['title'] = t + '（新規追加）'
-                      cnt += 1
-          with open(p, 'w', encoding='utf-8') as f:
-              json.dump(s, f, ensure_ascii=False, indent=2)
-          print('retitled', cnt, 'items')
-          PY
-
       - name: Run detector (baseline on first run)
         run: |
           python steam_new_store_rss.py \
