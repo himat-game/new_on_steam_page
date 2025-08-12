@@ -24,11 +24,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 軽いジッター（毎回同時刻集中を避ける・任意）
+      # 軽いジッター（毎回同時刻集中を避ける）
       - name: Jitter
-        run: python - <<'PY'
-import time, random; time.sleep(random.uniform(0,30))
-PY
+        run: python -c "import time, random; time.sleep(random.uniform(0,30))"
 
       - name: Run detector (baseline on first run)
         run: |
