@@ -3,7 +3,7 @@ name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30分おき
+    - cron: "*/30 * * * *"   # 1時間分おき
   workflow_dispatch:
 
 # 同時実行を防ぐ（前回が長引いたら新しい方を優先）
@@ -38,7 +38,7 @@ jobs:
             --pending-retry 100 \
             --max-new 200 \
             --crawl-batch 400 \
-            --crawl-seconds 1500 \
+            --crawl-seconds 1300 \
             --baseline-if-empty \
             --cc jp --lang ja \
             --channel-title "Himat版 Steam 新規ストア公開（画像＋説明）" \
