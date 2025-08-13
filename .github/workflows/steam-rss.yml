@@ -1,9 +1,8 @@
-# nudge: refresh schedule now
 name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 1時間分おき
+    - cron: "*/30 * * * *"   # 30分おき
   workflow_dispatch:
 
 # 同時実行を防ぐ（前回が長引いたら新しい方を優先）
