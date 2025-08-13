@@ -4,11 +4,12 @@
 Steam 新規ストア公開RSS + ストア更新イベントRSS
 （画像・説明・価格・言語対応 / ローリング全件クロール / 変更点はタイトル要約 / 新規は「（新規追加）」）
 ＋ 429/502/503/504 に強い HTTP 再試行（指数バックオフ＆スローモード）
+＋ クロール時間上限（--crawl-seconds）で長時間実行を回避
 
 初回:
   python steam_new_store_rss.py --state state.json --rss-out steam_new_store.xml --baseline-if-empty
 通常:
-  python steam_new_store_rss.py --state state.json --rss-out steam_new_store.xml --pending-retry 100 --max-new 200 --crawl-batch 600
+  python steam_new_store_rss.py --state state.json --rss-out steam_new_store.xml --pending-retry 100 --max-new 200 --crawl-batch 400 --crawl-seconds 1500
 """
 import argparse
 import datetime as dt
@@ -36,7 +37,7 @@ APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 # 通常時の最小間隔 / 429後のスロー間隔 / スローモード継続時間（秒）
 RATE_MIN_SEC = 0.30
 RATE_SLOW_SEC = 0.80
-SLOW_MODE_SECONDS = 300
+SLOW_MODE_SECONDS = 180  # ← 3分（短め）
 
 _last_request_ts = 0.0
 _slow_mode_until = 0.0
@@ -56,11 +57,11 @@ def http_get_raw(url: str, params: Optional[Dict[str, str]] = None, timeout: int
     if params:
         url = url + ("?" + urllib.parse.urlencode(params))
     req = urllib.request.Request(url, headers={
-        "User-Agent": "steam-new-store-rss/2.3 (+https://example.com)"
+        "User-Agent": "steam-new-store-rss/2.4 (+https://example.com)"
     })
 
-    max_retries = 6
-    base_sleep = 1.5  # 秒
+    max_retries = 4           # ← 少し控えめに
+    base_sleep = 1.5          # 秒
     for attempt in range(max_retries + 1):
         _polite_sleep()
         try:
@@ -362,7 +363,7 @@ def save_state(path: str, state: Dict) -> None:
 # =========================
 
 def main():
-    ap = argparse.ArgumentParser(description="Steam new-store & store-updates RSS generator (robust HTTP backoff).")
+    ap = argparse.ArgumentParser(description="Steam new-store & store-updates RSS generator (robust HTTP backoff & time-bounded crawl).")
     ap.add_argument("--state", default="state.json", help="State JSON path")
     ap.add_argument("--rss-out", default="steam_new_store.xml", help="New store RSS output")
     ap.add_argument("--updates-out", default="steam_store_updates.xml", help="Store updates RSS output")
@@ -377,7 +378,8 @@ def main():
     ap.add_argument("--max-updates", type=int, default=500, help="Max update items")
     ap.add_argument("--max-new", type=int, default=200, help="Per run: max brand-new appids to check")
     ap.add_argument("--pending-retry", type=int, default=100, help="Per run: recheck pending appids")
-    ap.add_argument("--crawl-batch", type=int, default=300, help="Per run: rolling crawl batch size")
+    ap.add_argument("--crawl-batch", type=int, default=400, help="Per run: rolling crawl batch size")
+    ap.add_argument("--crawl-seconds", type=int, default=1500, help="Soft time budget for rolling crawl (seconds)")
     ap.add_argument("--baseline-if-empty", action="store_true", help="If state empty, baseline existing apps")
     args = ap.parse_args()
 
@@ -426,10 +428,9 @@ def main():
         ok, data = False, None
         try:
             ok, data = fetch_appdetails(appid, args.cc, args.lang)
-            time.sleep(0.2)
         except Exception as e:
             print(f"[WARN] appdetails error (new) {appid}: {e}")
-
+            ok = False
         if ok:
             item = build_new_item(appid, data, now_iso)
             if not any(("/app/%d/" % appid) in it.get("link","") for it in state["items"]):
@@ -450,10 +451,9 @@ def main():
             ok, data = False, None
             try:
                 ok, data = fetch_appdetails(appid, args.cc, args.lang)
-                time.sleep(0.25)
             except Exception as e:
                 print(f"[WARN] pending appdetails error {appid}: {e}")
-
+                ok = False
             if ok:
                 item = build_new_item(appid, data, now_iso)
                 if not any(("/app/%d/" % appid) in it.get("link","") for it in state["items"]):
@@ -471,17 +471,21 @@ def main():
         remain.extend(state["pending"][args.pending_retry:])
         state["pending"] = remain
 
-    # 4) ローリング全件クロール（差分監視）
+    # 4) ローリング全件クロール（差分監視・時間上限あり）
     n = args.crawl_batch
+    crawl_deadline = time.time() + args.crawl_seconds if args.crawl_seconds and args.crawl_seconds > 0 else None
     if len(appids) > 0 and n > 0:
         start = state["crawl_cursor"] % len(appids)
         batch = appids[start:start+n] if start+n <= len(appids) else appids[start:] + appids[:(start+n) % len(appids)]
         processed = 0
         for appid in batch:
+            # 時間上限（ソフト）に達したら次回に持ち越し
+            if crawl_deadline and time.time() >= crawl_deadline:
+                print("[INFO] crawl time budget reached, stopping this run")
+                break
             processed += 1
             try:
                 ok, data = fetch_appdetails(appid, args.cc, args.lang)
-                time.sleep(0.2)
             except Exception as e:
                 print(f"[WARN] crawl appdetails error {appid}: {e}")
                 continue
