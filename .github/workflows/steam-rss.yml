@@ -36,7 +36,8 @@ jobs:
             --updates-out steam_store_updates.xml \
             --pending-retry 100 \
             --max-new 200 \
-            --crawl-batch 600 \
+            --crawl-batch 400 \
+            --crawl-seconds 1500 \
             --baseline-if-empty \
             --cc jp --lang ja \
             --channel-title "Himat版 Steam 新規ストア公開（画像＋説明）" \
