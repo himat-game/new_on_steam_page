@@ -2,29 +2,36 @@ name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30分おき
+    - cron: "*/30 * * * *"   # 30分おき（UTC基準）
   workflow_dispatch:
 
-# 同時実行を防ぐ（前回が長引いたら新しい方を優先）
 concurrency:
   group: steam-rss
   cancel-in-progress: true
 
 permissions:
-  contents: write  # GITHUB_TOKEN で push するため
+  contents: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - name: Show trigger & times
+        run: |
+          echo "event=${{ github.event_name }}"
+          echo "schedule=${{ github.event.schedule }}"
+          echo "UTC:   $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "Local: $(date    '+%Y-%m-%d %H:%M:%S')"
+
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 任意
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 軽いジッター（毎回同時刻集中を避ける）
       - name: Jitter
         run: python -c "import time, random; time.sleep(random.uniform(0,30))"
 
@@ -47,9 +54,12 @@ jobs:
       - name: Commit & push if changed
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "github-actions[bot]"
+            git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add state.json steam_new_store.xml steam_store_updates.xml
             git commit -m "Update RSS: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+            git pull --rebase --autostash || true
             git push
+          else
+            echo "No changes to commit."
           fi
