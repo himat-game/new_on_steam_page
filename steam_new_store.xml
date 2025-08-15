@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 15 Aug 2025 22:40:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Aug 2025 23:33:14 +0000</lastBuildDate>
+<item>
+  <title>DARKODAI Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3954810/</link>
+  <guid isPermaLink="false">steam-store-published-3954810</guid>
+  <pubDate>Fri, 15 Aug 2025 23:33:14 +0000</pubDate>
+  <description>The land was absolved, it fell to an ancient darkness, a spell cast by a mysterious force. Two beings from a pure realm of light are the only hope for this consumed land. Many adventures against the darkness await you in this small, RPG adventure known as DARKODAI!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954810/2f3e4d3dad509e8580f668996648ce07589b25b6/header.jpg?t=1755297378" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954810/2f3e4d3dad509e8580f668996648ce07589b25b6/header.jpg?t=1755297378" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954810/2f3e4d3dad509e8580f668996648ce07589b25b6/header.jpg?t=1755297378" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3954810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954810/2f3e4d3dad509e8580f668996648ce07589b25b6/header.jpg?t=1755297378" alt="DARKODAI Demo（新規追加）" /></a></p><p>The land was absolved, it fell to an ancient darkness, a spell cast by a mysterious force. Two beings from a pure realm of light are the only hope for this consumed land. Many adventures against the darkness await you in this small, RPG adventure known as DARKODAI!</p><p><a href="https://store.steampowered.com/app/3954810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>HELL OF FEAR: Mind Breach Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3944880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573950/4526b82e1391e134e49ca9139d54e673c939f7a8/header.jpg?t=1755181430" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573950/4526b82e1391e134e49ca9139d54e673c939f7a8/header.jpg?t=1755181430" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3573950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573950/4526b82e1391e134e49ca9139d54e673c939f7a8/header.jpg?t=1755181430" alt="Dawn of the abyss Artbook（新規追加）" /></a></p><p>&amp;quot;Dawn of The Abyss&amp;quot; Art Book – 110 pages of content, featuring concept art of settings, monsters, and more, lore along with a complete narrative background summary.</p><p><a href="https://store.steampowered.com/app/3573950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bastionfall（新規追加）</title>
-  <link>https://store.steampowered.com/app/3936830/</link>
-  <guid isPermaLink="false">steam-store-published-3936830</guid>
-  <pubDate>Thu, 14 Aug 2025 15:41:33 +0000</pubDate>
-  <description>Bastionfall is a challenging third-person Action RPG featuring skill-based combat and a unique online co-op follower system. Explore a fallen kingdom, master parries and dodges, and command loyal companions in epic boss battles to reclaim a legendary sword.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936830/b2ac30ac054da3a137b73174b58e55175ad489c9/header.jpg?t=1755181037" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936830/b2ac30ac054da3a137b73174b58e55175ad489c9/header.jpg?t=1755181037" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936830/b2ac30ac054da3a137b73174b58e55175ad489c9/header.jpg?t=1755181037" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3936830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936830/b2ac30ac054da3a137b73174b58e55175ad489c9/header.jpg?t=1755181037" alt="Bastionfall（新規追加）" /></a></p><p>Bastionfall is a challenging third-person Action RPG featuring skill-based combat and a unique online co-op follower system. Explore a fallen kingdom, master parries and dodges, and command loyal companions in epic boss battles to reclaim a legendary sword.</p><p><a href="https://store.steampowered.com/app/3936830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
