@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 15 Aug 2025 03:44:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Aug 2025 04:54:26 +0000</lastBuildDate>
+<item>
+  <title>Laurel&#x27;s Day（新規追加）</title>
+  <link>https://store.steampowered.com/app/3952110/</link>
+  <guid isPermaLink="false">steam-store-published-3952110</guid>
+  <pubDate>Fri, 15 Aug 2025 04:54:26 +0000</pubDate>
+  <description>Play through a school day with Laurel to get back her locket from the &#x27;monster&#x27; that stole it. Navigate through a concerned community and classroom questions to find out what really happened and why Laurel bares so much guilt.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952110/af1e778fde97e1af78deea1b1082b302bb83d5df/header.jpg?t=1755229447" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952110/af1e778fde97e1af78deea1b1082b302bb83d5df/header.jpg?t=1755229447" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952110/af1e778fde97e1af78deea1b1082b302bb83d5df/header.jpg?t=1755229447" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3952110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952110/af1e778fde97e1af78deea1b1082b302bb83d5df/header.jpg?t=1755229447" alt="Laurel&#x27;s Day（新規追加）" /></a></p><p>Play through a school day with Laurel to get back her locket from the &#x27;monster&#x27; that stole it. Navigate through a concerned community and classroom questions to find out what really happened and why Laurel bares so much guilt.</p><p><a href="https://store.steampowered.com/app/3952110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Waking of Haven（新規追加）</title>
   <link>https://store.steampowered.com/app/3918390/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3918900/d96c40db0afa0dba2e1c81a1e16edc55a36db07d/header.jpg?t=1755119812" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3918900/d96c40db0afa0dba2e1c81a1e16edc55a36db07d/header.jpg?t=1755119812" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3918900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3918900/d96c40db0afa0dba2e1c81a1e16edc55a36db07d/header.jpg?t=1755119812" alt="Unspoken Soundtrack（新規追加）" /></a></p><p>The soundtrack of Unspoken, a roller-coaster of emotions, from happy to sad, to depressing and worrying. Having some element of horror. With the game&#x27;s theme song being 4 Mins long. With more than 1 song as a background song!</p><p><a href="https://store.steampowered.com/app/3918900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Slaparoo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3938340/</link>
-  <guid isPermaLink="false">steam-store-published-3938340</guid>
-  <pubDate>Wed, 13 Aug 2025 22:38:46 +0000</pubDate>
-  <description>A fast-paced roguelike inspired by the classic card-game Egyptian Rat Screw. Play cards into a pile until a match appears. Then, quickly slap the pile to collect your points! Spend the money you earn from each round in the shop where you&#x27;ll find a variety of powerful items to enhance your run!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938340/04b9452806d3191c942b57631a732c40c24e3f4d/header.jpg?t=1755123442" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938340/04b9452806d3191c942b57631a732c40c24e3f4d/header.jpg?t=1755123442" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938340/04b9452806d3191c942b57631a732c40c24e3f4d/header.jpg?t=1755123442" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3938340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938340/04b9452806d3191c942b57631a732c40c24e3f4d/header.jpg?t=1755123442" alt="Slaparoo（新規追加）" /></a></p><p>A fast-paced roguelike inspired by the classic card-game Egyptian Rat Screw. Play cards into a pile until a match appears. Then, quickly slap the pile to collect your points! Spend the money you earn from each round in the shop where you&#x27;ll find a variety of powerful items to enhance your run!</p><p><a href="https://store.steampowered.com/app/3938340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
