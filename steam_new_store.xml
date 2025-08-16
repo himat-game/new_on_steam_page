@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 16 Aug 2025 13:18:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 Aug 2025 13:46:25 +0000</lastBuildDate>
+<item>
+  <title>Polariball Soundtrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/3906620/</link>
+  <guid isPermaLink="false">steam-store-published-3906620</guid>
+  <pubDate>Sat, 16 Aug 2025 13:46:25 +0000</pubDate>
+  <description>This is additional content for Polariball, but does not include the base game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3906620/f44768aa70691d5f365c626b8daee0baec709e20/header.jpg?t=1755348969" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3906620/f44768aa70691d5f365c626b8daee0baec709e20/header.jpg?t=1755348969" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3906620/f44768aa70691d5f365c626b8daee0baec709e20/header.jpg?t=1755348969" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3906620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3906620/f44768aa70691d5f365c626b8daee0baec709e20/header.jpg?t=1755348969" alt="Polariball Soundtrack（新規追加）" /></a></p><p>This is additional content for Polariball, but does not include the base game.</p><p><a href="https://store.steampowered.com/app/3906620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>The Pool Game（新規追加）</title>
+  <link>https://store.steampowered.com/app/3886800/</link>
+  <guid isPermaLink="false">steam-store-published-3886800</guid>
+  <pubDate>Sat, 16 Aug 2025 13:46:25 +0000</pubDate>
+  <description>A fun simple pool game that you can play with your friends. Move freely around the table and use the mouse to aim and move the cue.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886800/75bcc7f51a3111af3acf0a69ed1af5189691f90d/header.jpg?t=1755348762" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886800/75bcc7f51a3111af3acf0a69ed1af5189691f90d/header.jpg?t=1755348762" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886800/75bcc7f51a3111af3acf0a69ed1af5189691f90d/header.jpg?t=1755348762" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3886800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886800/75bcc7f51a3111af3acf0a69ed1af5189691f90d/header.jpg?t=1755348762" alt="The Pool Game（新規追加）" /></a></p><p>A fun simple pool game that you can play with your friends. Move freely around the table and use the mouse to aim and move the cue.</p><p><a href="https://store.steampowered.com/app/3886800/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Lure Of Passion Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3925070/</link>
+  <guid isPermaLink="false">steam-store-published-3925070</guid>
+  <pubDate>Sat, 16 Aug 2025 13:46:25 +0000</pubDate>
+  <description>type=demo, appid=3925070</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3925070/1916305e99e702daa9266f240201f62baf14d49d/header.jpg?t=1755347355" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3925070/1916305e99e702daa9266f240201f62baf14d49d/header.jpg?t=1755347355" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3925070/1916305e99e702daa9266f240201f62baf14d49d/header.jpg?t=1755347355" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3925070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3925070/1916305e99e702daa9266f240201f62baf14d49d/header.jpg?t=1755347355" alt="Lure Of Passion Demo（新規追加）" /></a></p><p>type=demo, appid=3925070</p><p><a href="https://store.steampowered.com/app/3925070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Conquer the Tower（新規追加）</title>
   <link>https://store.steampowered.com/app/3896860/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3713410/89684a76ee5b96c37aec4470109facc102331a0c/header.jpg?t=1755219820" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3713410/89684a76ee5b96c37aec4470109facc102331a0c/header.jpg?t=1755219820" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3713410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3713410/89684a76ee5b96c37aec4470109facc102331a0c/header.jpg?t=1755219820" alt="G-MODEアーカイブス+ 真・女神転生 東京鎮魂歌（新規追加）" /></a></p><p>Christmas Eve, 201X. Ash fell where snow should have; a demon rose from the ruins. Tokyo&#x27;s silent night was shattered.</p><p><a href="https://store.steampowered.com/app/3713410/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Vein-Weaver Knitting Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3947090/</link>
-  <guid isPermaLink="false">steam-store-published-3947090</guid>
-  <pubDate>Fri, 15 Aug 2025 03:44:55 +0000</pubDate>
-  <description>Activate Objects, Jump, Bomb, Out Run Bosses, Acquire Power Ups, Speed Run, Pull Levers, Out Smart Enemies, And Unravel The Beginning of The Story And Strategize Your Plan To Defeat This Sick And Twisted Place.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947090/44344f08997a99de68bee571855c1c15854196c7/header.jpg?t=1755223706" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947090/44344f08997a99de68bee571855c1c15854196c7/header.jpg?t=1755223706" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947090/44344f08997a99de68bee571855c1c15854196c7/header.jpg?t=1755223706" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3947090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947090/44344f08997a99de68bee571855c1c15854196c7/header.jpg?t=1755223706" alt="Vein-Weaver Knitting Demo（新規追加）" /></a></p><p>Activate Objects, Jump, Bomb, Out Run Bosses, Acquire Power Ups, Speed Run, Pull Levers, Out Smart Enemies, And Unravel The Beginning of The Story And Strategize Your Plan To Defeat This Sick And Twisted Place.</p><p><a href="https://store.steampowered.com/app/3947090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Infinite Einstein Tiles2（新規追加）</title>
-  <link>https://store.steampowered.com/app/3893930/</link>
-  <guid isPermaLink="false">steam-store-published-3893930</guid>
-  <pubDate>Fri, 15 Aug 2025 03:44:55 +0000</pubDate>
-  <description>Infinite Einstein Tiles2 is a casual puzzle game themed around another mysterious tile discovered by David Smith. When you have solved all the puzzles, you may understand the relationship between the two tiles.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893930/3ba7a4e4969320fc66a7f29007c42cd7e0a39600/header.jpg?t=1755217561" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893930/3ba7a4e4969320fc66a7f29007c42cd7e0a39600/header.jpg?t=1755217561" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893930/3ba7a4e4969320fc66a7f29007c42cd7e0a39600/header.jpg?t=1755217561" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3893930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893930/3ba7a4e4969320fc66a7f29007c42cd7e0a39600/header.jpg?t=1755217561" alt="Infinite Einstein Tiles2（新規追加）" /></a></p><p>Infinite Einstein Tiles2 is a casual puzzle game themed around another mysterious tile discovered by David Smith. When you have solved all the puzzles, you may understand the relationship between the two tiles.</p><p><a href="https://store.steampowered.com/app/3893930/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Joy of Hand Washing（新規追加）</title>
-  <link>https://store.steampowered.com/app/3933400/</link>
-  <guid isPermaLink="false">steam-store-published-3933400</guid>
-  <pubDate>Fri, 15 Aug 2025 03:44:55 +0000</pubDate>
-  <description>The Joy of Hand Washing is a short clicker game where you learn fun facts about washing your hands with Gary! He&#x27;ll teach you all about hygiene and the proper way to wash your hands!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933400/e8f0a1c0ca418d3af0f7fd74f5220eb1ebe210ce/header.jpg?t=1755215357" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933400/e8f0a1c0ca418d3af0f7fd74f5220eb1ebe210ce/header.jpg?t=1755215357" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933400/e8f0a1c0ca418d3af0f7fd74f5220eb1ebe210ce/header.jpg?t=1755215357" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3933400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933400/e8f0a1c0ca418d3af0f7fd74f5220eb1ebe210ce/header.jpg?t=1755215357" alt="The Joy of Hand Washing（新規追加）" /></a></p><p>The Joy of Hand Washing is a short clicker game where you learn fun facts about washing your hands with Gary! He&#x27;ll teach you all about hygiene and the proper way to wash your hands!</p><p><a href="https://store.steampowered.com/app/3933400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
