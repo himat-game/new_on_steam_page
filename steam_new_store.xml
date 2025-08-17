@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 17 Aug 2025 06:53:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Aug 2025 07:30:38 +0000</lastBuildDate>
+<item>
+  <title>Faint Echo Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3946710/</link>
+  <guid isPermaLink="false">steam-store-published-3946710</guid>
+  <pubDate>Sun, 17 Aug 2025 07:30:38 +0000</pubDate>
+  <description>type=demo, appid=3946710</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946710/c14302c34b56cc8cf0b874e1efebeab9bdbee13d/header.jpg?t=1755413015" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946710/c14302c34b56cc8cf0b874e1efebeab9bdbee13d/header.jpg?t=1755413015" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946710/c14302c34b56cc8cf0b874e1efebeab9bdbee13d/header.jpg?t=1755413015" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3946710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946710/c14302c34b56cc8cf0b874e1efebeab9bdbee13d/header.jpg?t=1755413015" alt="Faint Echo Demo（新規追加）" /></a></p><p>type=demo, appid=3946710</p><p><a href="https://store.steampowered.com/app/3946710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sloop（新規追加）</title>
   <link>https://store.steampowered.com/app/3948910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917030/89ee827f58687a6c62f39eb4b96d1ca193d78d62/header.jpg?t=1755249737" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917030/89ee827f58687a6c62f39eb4b96d1ca193d78d62/header.jpg?t=1755249737" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3917030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917030/89ee827f58687a6c62f39eb4b96d1ca193d78d62/header.jpg?t=1755249737" alt="Cosmic Cocktails（新規追加）" /></a></p><p>✨Open a bar among the stars, mix drinks for humans and aliens, and listen to their stories. Grow &amp;quot;Prometheus-9&amp;quot;, build relationships, and uncover the secrets of a distant sector. This is more than just a bar - it&#x27;s a crossroads of fate.✨</p><p><a href="https://store.steampowered.com/app/3917030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Shadow Corridor 2  DLC - ヒグラシの回廊・追加カルタ（新規追加）</title>
-  <link>https://store.steampowered.com/app/3929690/</link>
-  <guid isPermaLink="false">steam-store-published-3929690</guid>
-  <pubDate>Fri, 15 Aug 2025 08:51:43 +0000</pubDate>
-  <description>Shadow Corridor 2 long-awaited downloadable content. Explore the additional stage &amp;quot;Corridor of the Evening Cicadas -Eternity-&amp;quot; and obtain 10 powerful and unique Karuta cards.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929690/2946b3ca706f956ef931991aa4e4b96ffa9ebe0e/header.jpg?t=1755244922" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929690/2946b3ca706f956ef931991aa4e4b96ffa9ebe0e/header.jpg?t=1755244922" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929690/2946b3ca706f956ef931991aa4e4b96ffa9ebe0e/header.jpg?t=1755244922" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3929690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929690/2946b3ca706f956ef931991aa4e4b96ffa9ebe0e/header.jpg?t=1755244922" alt="Shadow Corridor 2  DLC - ヒグラシの回廊・追加カルタ（新規追加）" /></a></p><p>Shadow Corridor 2 long-awaited downloadable content. Explore the additional stage &amp;quot;Corridor of the Evening Cicadas -Eternity-&amp;quot; and obtain 10 powerful and unique Karuta cards.</p><p><a href="https://store.steampowered.com/app/3929690/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
