@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 17 Aug 2025 08:46:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Aug 2025 09:33:21 +0000</lastBuildDate>
+<item>
+  <title>Spooky Monster Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3661010/</link>
+  <guid isPermaLink="false">steam-store-published-3661010</guid>
+  <pubDate>Sun, 17 Aug 2025 09:33:21 +0000</pubDate>
+  <description>The story is about a young woman who has been forcibly taken by a demon to another world, crawling with various monsters: zombies, ghosts, vampires, fairies. Now she must coexist with them until she can return home.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3661010/1f8eb4477db3b4135b47b95216c3aa2b747df6b8/header.jpg?t=1755420119" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3661010/1f8eb4477db3b4135b47b95216c3aa2b747df6b8/header.jpg?t=1755420119" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3661010/1f8eb4477db3b4135b47b95216c3aa2b747df6b8/header.jpg?t=1755420119" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3661010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3661010/1f8eb4477db3b4135b47b95216c3aa2b747df6b8/header.jpg?t=1755420119" alt="Spooky Monster Demo（新規追加）" /></a></p><p>The story is about a young woman who has been forcibly taken by a demon to another world, crawling with various monsters: zombies, ghosts, vampires, fairies. Now she must coexist with them until she can return home.</p><p><a href="https://store.steampowered.com/app/3661010/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>我只是想让她们都幸福（新規追加）</title>
   <link>https://store.steampowered.com/app/3734680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953610/416f092d8d456bfaa52dfd789ffb9fa076560cbb/header.jpg?t=1755247427" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953610/416f092d8d456bfaa52dfd789ffb9fa076560cbb/header.jpg?t=1755247427" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953610/416f092d8d456bfaa52dfd789ffb9fa076560cbb/header.jpg?t=1755247427" alt="100 Cats Lost In USA Find &amp; Color Demo（新規追加）" /></a></p><p>type=demo, appid=3953610</p><p><a href="https://store.steampowered.com/app/3953610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>100 Cats Lost in China Find &amp; Color Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3953620/</link>
-  <guid isPermaLink="false">steam-store-published-3953620</guid>
-  <pubDate>Fri, 15 Aug 2025 09:38:46 +0000</pubDate>
-  <description>type=demo, appid=3953620</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953620/b7d5a70d085745f7a3c005ccb3eb13879803d017/header.jpg?t=1755247430" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953620/b7d5a70d085745f7a3c005ccb3eb13879803d017/header.jpg?t=1755247430" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953620/b7d5a70d085745f7a3c005ccb3eb13879803d017/header.jpg?t=1755247430" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953620/b7d5a70d085745f7a3c005ccb3eb13879803d017/header.jpg?t=1755247430" alt="100 Cats Lost in China Find &amp; Color Demo（新規追加）" /></a></p><p>type=demo, appid=3953620</p><p><a href="https://store.steampowered.com/app/3953620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
