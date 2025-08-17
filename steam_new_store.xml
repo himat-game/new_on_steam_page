@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 17 Aug 2025 18:51:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 Aug 2025 20:38:14 +0000</lastBuildDate>
+<item>
+  <title>Sonorous | Deep Down Below Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3853450/</link>
+  <guid isPermaLink="false">steam-store-published-3853450</guid>
+  <pubDate>Sun, 17 Aug 2025 20:38:14 +0000</pubDate>
+  <description>type=game, appid=3853450</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853450/02e61268486eab3ea4fdf2f8c890cab80b835b3f/header.jpg?t=1755459645" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853450/02e61268486eab3ea4fdf2f8c890cab80b835b3f/header.jpg?t=1755459645" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853450/02e61268486eab3ea4fdf2f8c890cab80b835b3f/header.jpg?t=1755459645" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3853450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853450/02e61268486eab3ea4fdf2f8c890cab80b835b3f/header.jpg?t=1755459645" alt="Sonorous | Deep Down Below Playtest（新規追加）" /></a></p><p>type=game, appid=3853450</p><p><a href="https://store.steampowered.com/app/3853450/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Last Antagonist（新規追加）</title>
   <link>https://store.steampowered.com/app/3946060/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903560/050ffecb7d4196a8faf150e838ebde28c4896b01/header.jpg?t=1755262642" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903560/050ffecb7d4196a8faf150e838ebde28c4896b01/header.jpg?t=1755262642" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3903560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3903560/050ffecb7d4196a8faf150e838ebde28c4896b01/header.jpg?t=1755262642" alt="Discounty – The Original Soundtrack（新規追加）" /></a></p><p>Immerse yourself in the cosy world of Discounty with the official soundtrack, a relaxing, feel-good collection of tracks from the game’s charming shop floor, quiet corners and lively community moments.</p><p><a href="https://store.steampowered.com/app/3903560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Where is My Son? Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3947000/</link>
-  <guid isPermaLink="false">steam-store-published-3947000</guid>
-  <pubDate>Fri, 15 Aug 2025 13:39:03 +0000</pubDate>
-  <description>Step into a story of mystery, drama and the supernatural as a father searches for his missing son. Solve puzzles, follow clues and uncover the hidden truth.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947000/557f8299c7407a1bf3ceef80777c635052545f58/header.jpg?t=1755257378" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947000/557f8299c7407a1bf3ceef80777c635052545f58/header.jpg?t=1755257378" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947000/557f8299c7407a1bf3ceef80777c635052545f58/header.jpg?t=1755257378" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3947000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947000/557f8299c7407a1bf3ceef80777c635052545f58/header.jpg?t=1755257378" alt="Where is My Son? Demo（新規追加）" /></a></p><p>Step into a story of mystery, drama and the supernatural as a father searches for his missing son. Solve puzzles, follow clues and uncover the hidden truth.</p><p><a href="https://store.steampowered.com/app/3947000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
