@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 18 Aug 2025 03:54:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 05:52:21 +0000</lastBuildDate>
+<item>
+  <title>Echoes of Shadows: The Last Jinyiwei（新規追加）</title>
+  <link>https://store.steampowered.com/app/3644850/</link>
+  <guid isPermaLink="false">steam-store-published-3644850</guid>
+  <pubDate>Mon, 18 Aug 2025 05:52:21 +0000</pubDate>
+  <description>As plague spreads and the empire crumbles, you are a disgraced Jinyiwei tasked with escorting a girl immune to the disease. Through stealth and assassination, you’ll uncover layers of conspiracy and shape the fate of the world.“Stealth through the darkness, reveal the truth by the blade.”</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644850/4c9ff24d79eb275479c1046b021bf2f2c32faf50/header.jpg?t=1755492821" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644850/4c9ff24d79eb275479c1046b021bf2f2c32faf50/header.jpg?t=1755492821" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644850/4c9ff24d79eb275479c1046b021bf2f2c32faf50/header.jpg?t=1755492821" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3644850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644850/4c9ff24d79eb275479c1046b021bf2f2c32faf50/header.jpg?t=1755492821" alt="Echoes of Shadows: The Last Jinyiwei（新規追加）" /></a></p><p>As plague spreads and the empire crumbles, you are a disgraced Jinyiwei tasked with escorting a girl immune to the disease. Through stealth and assassination, you’ll uncover layers of conspiracy and shape the fate of the world.“Stealth through the darkness, reveal the truth by the blade.”</p><p><a href="https://store.steampowered.com/app/3644850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ashen Destiny Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3929070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900080/ff65d3115bf918a5dccbef49b0e470ade33c2617/header.jpg?t=1755268420" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900080/ff65d3115bf918a5dccbef49b0e470ade33c2617/header.jpg?t=1755268420" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3900080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900080/ff65d3115bf918a5dccbef49b0e470ade33c2617/header.jpg?t=1755268420" alt="The Tale of Oath（新規追加）" /></a></p><p>Uncover ancient magic in The Tale of Oath, a student-built action-adventure where you wield elemental spells, solve puzzles, and battle dark druids in a mystical, atmospheric world.</p><p><a href="https://store.steampowered.com/app/3900080/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Golden Gambit（新規追加）</title>
-  <link>https://store.steampowered.com/app/3839000/</link>
-  <guid isPermaLink="false">steam-store-published-3839000</guid>
-  <pubDate>Fri, 15 Aug 2025 14:42:10 +0000</pubDate>
-  <description>Spin. Gamble. Conquer the Machine. Golden Gambit is a slot machine roguelite where every choice is a gamble. Build insane combos, unlock risky modifiers, and push your luck to the limit… or crash and burn trying. Use unique powers with each slot machine to win the Golden Gambit.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839000/20a5c02a635e8df39c805f152639f6362020e115/header.jpg?t=1755267292" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839000/20a5c02a635e8df39c805f152639f6362020e115/header.jpg?t=1755267292" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839000/20a5c02a635e8df39c805f152639f6362020e115/header.jpg?t=1755267292" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3839000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839000/20a5c02a635e8df39c805f152639f6362020e115/header.jpg?t=1755267292" alt="Golden Gambit（新規追加）" /></a></p><p>Spin. Gamble. Conquer the Machine. Golden Gambit is a slot machine roguelite where every choice is a gamble. Build insane combos, unlock risky modifiers, and push your luck to the limit… or crash and burn trying. Use unique powers with each slot machine to win the Golden Gambit.</p><p><a href="https://store.steampowered.com/app/3839000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
