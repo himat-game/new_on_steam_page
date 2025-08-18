@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 18 Aug 2025 13:48:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 14:49:08 +0000</lastBuildDate>
+<item>
+  <title>Towa and the Guardians of the Sacred Tree Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3260280/</link>
+  <guid isPermaLink="false">steam-store-published-3260280</guid>
+  <pubDate>Mon, 18 Aug 2025 14:49:08 +0000</pubDate>
+  <description>In this Roguelite adventure set in a far-off mystic realm, ancient forces stir, and untold dangers await. As Towa, lead the guardians of the sacred tree in forging strong relationships and powerful swords to fight Magatsu’s forces and determine the future of Shinju Village.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3260280/5e3642abc37afdac67b922816cf93f6b259b01a6/header.jpg?t=1755525649" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3260280/5e3642abc37afdac67b922816cf93f6b259b01a6/header.jpg?t=1755525649" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3260280/5e3642abc37afdac67b922816cf93f6b259b01a6/header.jpg?t=1755525649" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3260280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3260280/5e3642abc37afdac67b922816cf93f6b259b01a6/header.jpg?t=1755525649" alt="Towa and the Guardians of the Sacred Tree Demo（新規追加）" /></a></p><p>In this Roguelite adventure set in a far-off mystic realm, ancient forces stir, and untold dangers await. As Towa, lead the guardians of the sacred tree in forging strong relationships and powerful swords to fight Magatsu’s forces and determine the future of Shinju Village.</p><p><a href="https://store.steampowered.com/app/3260280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Power the Future Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3955810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910050/505bf1d57f7d96e3e88bb9deddca04196b95eb27/header.jpg?t=1755279493" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910050/505bf1d57f7d96e3e88bb9deddca04196b95eb27/header.jpg?t=1755279493" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3910050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910050/505bf1d57f7d96e3e88bb9deddca04196b95eb27/header.jpg?t=1755279493" alt="Lillium（新規追加）" /></a></p><p>Master precise parries, devastating counters, and dynamic spell combos as you confront celestial enemies and unravel a truth buried beneath holy lies. Every strike is a statement: every spell, a rebellion.</p><p><a href="https://store.steampowered.com/app/3910050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Wind and the Wisp Soundtrack（新規追加）</title>
-  <link>https://store.steampowered.com/app/3954880/</link>
-  <guid isPermaLink="false">steam-store-published-3954880</guid>
-  <pubDate>Fri, 15 Aug 2025 18:54:28 +0000</pubDate>
-  <description>Music composed, produced, and mixed by Justin Shin. “Petunia” composed and produced by Johannah &amp;quot;johh&amp;quot; Chung. Album mastered by Justin Shin. Album artwork by Tian Yang.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954880/b3e31b843aef75c11a0d0d0e931f659507e1825b/header.jpg?t=1755279020" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954880/b3e31b843aef75c11a0d0d0e931f659507e1825b/header.jpg?t=1755279020" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954880/b3e31b843aef75c11a0d0d0e931f659507e1825b/header.jpg?t=1755279020" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3954880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954880/b3e31b843aef75c11a0d0d0e931f659507e1825b/header.jpg?t=1755279020" alt="The Wind and the Wisp Soundtrack（新規追加）" /></a></p><p>Music composed, produced, and mixed by Justin Shin. “Petunia” composed and produced by Johannah &amp;quot;johh&amp;quot; Chung. Album mastered by Justin Shin. Album artwork by Tian Yang.</p><p><a href="https://store.steampowered.com/app/3954880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
