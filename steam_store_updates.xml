@@ -5,17 +5,6 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 22 Aug 2025 03:28:42 +0000</lastBuildDate>
-<item>
-  <title>Retrowave Soundtrack（価格変更 / ヘッダー画像更新 / カプセル画像更新）</title>
-  <link>https://store.steampowered.com/app/1393200/</link>
-  <guid isPermaLink="false">steam-store-update-1393200-1755833386</guid>
-  <pubDate>Fri, 22 Aug 2025 03:28:42 +0000</pubDate>
-  <description>カプセル画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/daf38d844d8f4a3e02428905584e0291bf1c4926/capsule_184x69.jpg?t=1755040763 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/daf38d844d8f4a3e02428905584e0291bf1c4926/capsule_184x69.jpg?t=1755653375; ヘッダー画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755040763 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755653375; 価…</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755653375" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755653375" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755653375" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1393200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755653375" alt="Retrowave Soundtrack（価格変更 / ヘッダー画像更新 / カプセル画像更新）" /></a></p><p>カプセル画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/daf38d844d8f4a3e02428905584e0291bf1c4926/capsule_184x69.jpg?t=1755040763 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/daf38d844d8f4a3e02428905584e0291bf1c4926/capsule_184x69.jpg?t=1755653375; ヘッダー画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755040763 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1755653375; 価…</p><p><a href="https://store.steampowered.com/app/1393200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
+<lastBuildDate>Sat, 23 Aug 2025 06:15:54 +0000</lastBuildDate>
 </channel>
 </rss>
