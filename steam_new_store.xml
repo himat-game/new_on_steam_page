@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 23 Aug 2025 13:41:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 23 Aug 2025 14:45:44 +0000</lastBuildDate>
+<item>
+  <title>Devose Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3930540/</link>
+  <guid isPermaLink="false">steam-store-published-3930540</guid>
+  <pubDate>Sat, 23 Aug 2025 14:45:44 +0000</pubDate>
+  <description>DEVOSE is a 1–4 player co-op horror game. Explore, find evidence, and survive. Every corridor is a trap. Every sound can betray you. Coordinate—or die alone.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930540/ec3a97469f0a0df256895cde215a027da7eea5cf/header.jpg?t=1755956967" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930540/ec3a97469f0a0df256895cde215a027da7eea5cf/header.jpg?t=1755956967" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930540/ec3a97469f0a0df256895cde215a027da7eea5cf/header.jpg?t=1755956967" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3930540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930540/ec3a97469f0a0df256895cde215a027da7eea5cf/header.jpg?t=1755956967" alt="Devose Demo（新規追加）" /></a></p><p>DEVOSE is a 1–4 player co-op horror game. Explore, find evidence, and survive. Every corridor is a trap. Every sound can betray you. Coordinate—or die alone.</p><p><a href="https://store.steampowered.com/app/3930540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pondlings Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3960300/</link>
