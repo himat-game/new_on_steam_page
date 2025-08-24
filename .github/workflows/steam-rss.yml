@@ -71,17 +71,20 @@ jobs:
             echo "No state.json produced."
           fi
 
-      # ▼ 変更があれば必要物だけコミットして push（state.json は含めない）
-      - name: Commit & push if changed
-        run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            # ← 必要な成果物だけをホワイトリストで追加
-            git add steam_new_store.xml steam_store_updates.xml state.json.gz
-            git commit -m "Update RSS: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-            git pull --rebase --autostash || true
-            git push
-          else
-            echo "No changes to commit."
-          fi
+- name: Commit & push if changed
+  run: |
+    git config user.name  "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    # 生成物だけをホワイトリストでステージ
+    git add state.json feed_new.xml feed_updates.xml \
+            snapshots/new/*.jsonl.gz snapshots/updates/*.jsonl.gz 2>/dev/null || true
+
+    # 何かステージされていればコミット＆プッシュ
+    if git diff --cached --quiet; then
+      echo "No changes to commit."
+    else
+      git commit -m "update feeds/state/snapshots: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+      git pull --rebase --autostash || true
+      git push
+    fi
