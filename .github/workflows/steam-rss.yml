@@ -5,10 +5,10 @@ on:
     - cron: "*/20 * * * *"   # 20分おき（UTC基準）
   workflow_dispatch:
 
-# ワークフロー全体で直列化
+# 同時実行を避けつつ、キャンセルはしない（新しいものはキューで待機）
 concurrency:
   group: steam-rss
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -64,12 +64,10 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # 存在チェックしてから個別に add（無いときはスキップ）
+          # 生成物だけをホワイトリストでステージ
           for f in state.json feed_new.xml feed_updates.xml; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
-
-          # 日次スナップショット（無いときは黙ってスキップ）
           git add "snapshots/new/*.jsonl.gz"      2>/dev/null || true
           git add "snapshots/updates/*.jsonl.gz"  2>/dev/null || true
 
