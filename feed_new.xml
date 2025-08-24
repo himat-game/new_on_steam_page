@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 17:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 17:57:53 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -474,6 +474,126 @@
       <link>https://store.steampowered.com/app/2610</link>
       <guid isPermaLink="false">new:appid:2610:new</guid>
       <pubDate>Sun, 24 Aug 2025 17:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The History Channel®: Civil War</title>
+      <link>https://store.steampowered.com/app/2680</link>
+      <guid isPermaLink="false">new:appid:2680:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Empires: Dawn of the Modern World</title>
+      <link>https://store.steampowered.com/app/2690</link>
+      <guid isPermaLink="false">new:appid:2690:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>RollerCoaster Tycoon® 3: Platinum</title>
+      <link>https://store.steampowered.com/app/2700</link>
+      <guid isPermaLink="false">new:appid:2700:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Act of War: Direct Action</title>
+      <link>https://store.steampowered.com/app/2710</link>
+      <guid isPermaLink="false">new:appid:2710:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreadSpace: Hyperbol</title>
+      <link>https://store.steampowered.com/app/2720</link>
+      <guid isPermaLink="false">new:appid:2720:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:48:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThreadSpace: Hyperbol Demo</title>
+      <link>https://store.steampowered.com/app/2730</link>
+      <guid isPermaLink="false">new:appid:2730:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neverwinter Nights™ 2 Platinum</title>
+      <link>https://store.steampowered.com/app/2760</link>
+      <guid isPermaLink="false">new:appid:2760:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARMA: Combat Operations</title>
+      <link>https://store.steampowered.com/app/2780</link>
+      <guid isPermaLink="false">new:appid:2780:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atari 80 Classics in One</title>
+      <link>https://store.steampowered.com/app/2790</link>
+      <guid isPermaLink="false">new:appid:2790:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>X2: The Threat</title>
+      <link>https://store.steampowered.com/app/2800</link>
+      <guid isPermaLink="false">new:appid:2800:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>X3: Reunion</title>
+      <link>https://store.steampowered.com/app/2810</link>
+      <guid isPermaLink="false">new:appid:2810:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>X3: Terran Conflict</title>
+      <link>https://store.steampowered.com/app/2820</link>
+      <guid isPermaLink="false">new:appid:2820:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>X: Beyond the Frontier</title>
+      <link>https://store.steampowered.com/app/2840</link>
+      <guid isPermaLink="false">new:appid:2840:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>X: Tension</title>
+      <link>https://store.steampowered.com/app/2850</link>
+      <guid isPermaLink="false">new:appid:2850:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>X Rebirth</title>
+      <link>https://store.steampowered.com/app/2870</link>
+      <guid isPermaLink="false">new:appid:2870:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>FlatOut 2</title>
+      <link>https://store.steampowered.com/app/2990</link>
+      <guid isPermaLink="false">new:appid:2990:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:53:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xpand Rally</title>
+      <link>https://store.steampowered.com/app/3010</link>
+      <guid isPermaLink="false">new:appid:3010:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Call of Juarez</title>
+      <link>https://store.steampowered.com/app/3020</link>
+      <guid isPermaLink="false">new:appid:3020:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:54:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xpand Rally Xtreme</title>
+      <link>https://store.steampowered.com/app/3050</link>
+      <guid isPermaLink="false">new:appid:3050:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Men of War: Red Tide</title>
+      <link>https://store.steampowered.com/app/3130</link>
+      <guid isPermaLink="false">new:appid:3130:new</guid>
+      <pubDate>Sun, 24 Aug 2025 17:54:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
