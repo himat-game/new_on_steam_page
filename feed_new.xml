@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 23:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 23:59:14 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -1626,6 +1626,144 @@
       <link>https://store.steampowered.com/app/8500</link>
       <guid isPermaLink="false">new:appid:8500:new</guid>
       <pubDate>Sun, 24 Aug 2025 23:39:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>RACE 07</title>
+      <link>https://store.steampowered.com/app/8600</link>
+      <guid isPermaLink="false">new:appid:8600:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>RACE On</title>
+      <link>https://store.steampowered.com/app/8640</link>
+      <guid isPermaLink="false">new:appid:8640:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>RACE 07: Andy Priaulx Crowne Plaza Raceway (Free DLC)</title>
+      <link>https://store.steampowered.com/app/8650</link>
+      <guid isPermaLink="false">new:appid:8650:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>GTR Evolution Expansion Pack for RACE 07</title>
+      <link>https://store.steampowered.com/app/8660</link>
+      <guid isPermaLink="false">new:appid:8660:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>STCC - The Game 1 - Expansion Pack for RACE 07</title>
+      <link>https://store.steampowered.com/app/8690</link>
+      <guid isPermaLink="false">new:appid:8690:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>STCC - The Game Demo</title>
+      <link>https://store.steampowered.com/app/8700</link>
+      <guid isPermaLink="false">new:appid:8700:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>GTR Evolution Demo</title>
+      <link>https://store.steampowered.com/app/8720</link>
+      <guid isPermaLink="false">new:appid:8720:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Puzzlegeddon Demo</title>
+      <link>https://store.steampowered.com/app/8750</link>
+      <guid isPermaLink="false">new:appid:8750:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>RACE On Demo</title>
+      <link>https://store.steampowered.com/app/8760</link>
+      <guid isPermaLink="false">new:appid:8760:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>BioShock Infinite</title>
+      <link>https://store.steampowered.com/app/8870</link>
+      <guid isPermaLink="false">new:appid:8870:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freedom Force</title>
+      <link>https://store.steampowered.com/app/8880</link>
+      <guid isPermaLink="false">new:appid:8880:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freedom Force vs. the Third Reich</title>
+      <link>https://store.steampowered.com/app/8890</link>
+      <guid isPermaLink="false">new:appid:8890:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freedom Force Demo</title>
+      <link>https://store.steampowered.com/app/8900</link>
+      <guid isPermaLink="false">new:appid:8900:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freedom Force vs. the Third Reich Demo</title>
+      <link>https://store.steampowered.com/app/8910</link>
+      <guid isPermaLink="false">new:appid:8910:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sid Meier's Civilization® V</title>
+      <link>https://store.steampowered.com/app/8930</link>
+      <guid isPermaLink="false">new:appid:8930:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axel &amp; Pixel</title>
+      <link>https://store.steampowered.com/app/8970</link>
+      <guid isPermaLink="false">new:appid:8970:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borderlands Game of the Year</title>
+      <link>https://store.steampowered.com/app/8980</link>
+      <guid isPermaLink="false">new:appid:8980:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Borderlands: The Zombie Island of Dr. Ned</title>
+      <link>https://store.steampowered.com/app/8990</link>
+      <guid isPermaLink="false">new:appid:8990:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spear of Destiny</title>
+      <link>https://store.steampowered.com/app/9000</link>
+      <guid isPermaLink="false">new:appid:9000:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Return to Castle Wolfenstein</title>
+      <link>https://store.steampowered.com/app/9010</link>
+      <guid isPermaLink="false">new:appid:9010:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>QUAKE Mission Pack 2: Dissolution of Eternity</title>
+      <link>https://store.steampowered.com/app/9030</link>
+      <guid isPermaLink="false">new:appid:9030:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>QUAKE Mission Pack 1: Scourge of Armagon</title>
+      <link>https://store.steampowered.com/app/9040</link>
+      <guid isPermaLink="false">new:appid:9040:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOOM 3</title>
+      <link>https://store.steampowered.com/app/9050</link>
+      <guid isPermaLink="false">new:appid:9050:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:55:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
