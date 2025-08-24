@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 19:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 19:34:26 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -882,6 +882,78 @@
       <link>https://store.steampowered.com/app/3622</link>
       <guid isPermaLink="false">new:appid:3622:new</guid>
       <pubDate>Sun, 24 Aug 2025 19:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advent Rising</title>
+      <link>https://store.steampowered.com/app/3800</link>
+      <guid isPermaLink="false">new:appid:3800:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>BloodRayne (Legacy)</title>
+      <link>https://store.steampowered.com/app/3810</link>
+      <guid isPermaLink="false">new:appid:3810:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>BloodRayne 2 (Legacy)</title>
+      <link>https://store.steampowered.com/app/3820</link>
+      <guid isPermaLink="false">new:appid:3820:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Psychonauts</title>
+      <link>https://store.steampowered.com/app/3830</link>
+      <guid isPermaLink="false">new:appid:3830:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Psychonauts Original Soundtrack</title>
+      <link>https://store.steampowered.com/app/3838</link>
+      <guid isPermaLink="false">new:appid:3838:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Psychonauts Original Score</title>
+      <link>https://store.steampowered.com/app/3839</link>
+      <guid isPermaLink="false">new:appid:3839:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>BloodRayne 2 Demo</title>
+      <link>https://store.steampowered.com/app/3850</link>
+      <guid isPermaLink="false">new:appid:3850:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sid Meier's Civilization® IV</title>
+      <link>https://store.steampowered.com/app/3900</link>
+      <guid isPermaLink="false">new:appid:3900:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sid Meier's Civilization® III Complete</title>
+      <link>https://store.steampowered.com/app/3910</link>
+      <guid isPermaLink="false">new:appid:3910:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sid Meier's Pirates!</title>
+      <link>https://store.steampowered.com/app/3920</link>
+      <guid isPermaLink="false">new:appid:3920:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poker Superstars II</title>
+      <link>https://store.steampowered.com/app/4100</link>
+      <guid isPermaLink="false">new:appid:4100:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poker Superstars II Demo</title>
+      <link>https://store.steampowered.com/app/4102</link>
+      <guid isPermaLink="false">new:appid:4102:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:30:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
