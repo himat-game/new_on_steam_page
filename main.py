@@ -1,4 +1,5 @@
 # main.py（例：なければ新規作成、既にあるなら丸ごと置き換えでもOK）
+import json, time, urllib.request, urllib.error, html, re
 import time
 
 from safe_state import load_state, save_state, is_already_emitted, remember_emitted
@@ -6,28 +7,112 @@ from snaplite import append_snapshot, prune
 from feed_build import write_feed
 from app_db import init_db, get_app, upsert_app, compute_langs_hash, has_japanese
 
-# ===== ここをあなたの既存取得処理で置き換える =====
+# ===== Steam から実データを取る実装（外部ライブラリ不要） =====
+STEAM_ENDPOINT = "https://store.steampowered.com/api/appdetails?appids={appid}&l=english&cc=jp"
+UA = "Mozilla/5.0 (compatible; steam-rss-bot/1.0)"
+
+def _http_get_json(url, retries=3, backoff=1.0):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    for i in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw = resp.read().decode("utf-8", errors="replace")
+                return json.loads(raw)
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
+            # 429/5xx を含むネットワーク系は待ってリトライ
+            if i < retries - 1:
+                time.sleep(backoff)
+                backoff *= 2
+                continue
+            # 最後まで駄目なら published=False で返す
+            return None
+        except json.JSONDecodeError:
+            return None
+    return None
+
+# "supported_languages" は HTML 断片（<strong>や <br> を含む）なので整形する
+_LANG_SPLIT_RE = re.compile(r"[,\n/;]+")
+_TAG_RE = re.compile(r"<.*?>")
+
+def _parse_langs(supported_languages_text):
+    if not supported_languages_text:
+        return []
+    # HTMLタグ除去 → HTML実体参照をデコード
+    txt = _TAG_RE.sub("", supported_languages_text)
+    txt = html.unescape(txt)
+    # 改行も区切りにして、英小文字で正規化
+    parts = [p.strip().lower() for p in _LANG_SPLIT_RE.split(txt) if p.strip()]
+    # 代表的な表記ゆれを正規化
+    norm = {
+        "english": "english",
+        "japanese": "japanese",
+        "japanes": "japanese",   # 稀なtypo対策
+        "simplified chinese": "schinese",
+        "traditional chinese": "tchinese",
+        "schinese": "schinese",
+        "tchinese": "tchinese",
+        "korean": "korean",
+        "french": "french",
+        "german": "german",
+        "spanish - spain": "spanish",
+        "spanish - latin america": "latam_spanish",
+        # 必要に応じて増やせます
+    }
+    langs = []
+    for p in parts:
+        langs.append(norm.get(p, p))  # 未知はそのまま
+    # 重複削除
+    return sorted(set(langs))
+
 def fetch_app_info(appid):
     """
-    必要な戻り値:
+    戻り値の仕様:
       {
-        "published": bool,              # ストアページが公開中か
-        "title": "Game Title",          # 任意（あると見栄え良い）
+        "published": bool,              # ストアページが存在・取得成功なら True
+        "title": "Game Title",
         "url":   "https://store.steampowered.com/app/<appid>",
-        "langs": ["english","japanese",...],  # 小文字の英語表記でOK
-        "price_cents": 1480,            # 通貨の最小単位（JPYなら円）
+        "langs": ["english","japanese",...],  # 小文字
+        "price_cents": 1480,            # 最小単位（JPYなら円そのもの）
         "currency": "JPY"
       }
-    取れない項目は適当なデフォルトで埋めてOK
+    取れない場合は "published": False を返す。
     """
-    # --- ダミー（テスト用）。本番ではあなたの処理に差し替え ---
+    url = STEAM_ENDPOINT.format(appid=appid)
+    data = _http_get_json(url, retries=3, backoff=1.0)
+    if not data:
+        return {"published": False}
+
+    # レスポンスは { "<appid>": { "success": true, "data": {...} } } の形
+    node = data.get(str(appid))
+    if not node or not node.get("success"):
+        return {"published": False}
+
+    info = node.get("data") or {}
+    # data が空のケース（非公開など）を除外
+    if not info:
+        return {"published": False}
+
+    # タイトルとURL
+    title = info.get("name") or f"AppID {appid}"
+    url   = f"https://store.steampowered.com/app/{appid}"
+
+    # 言語（HTML断片から抽出）
+    langs_text = info.get("supported_languages", "")
+    langs = _parse_langs(langs_text)
+
+    # 価格（cc=jp を付けているので、JPY想定 / 無料なら price_overview 無し）
+    pov = info.get("price_overview") or {}
+    price_cents = int(pov.get("final", 0))      # JPYなら“円”。USDなら“セント”
+    currency    = pov.get("currency", "JPY")    # 取れなければ JPY に寄せる
+
+    # ストアページが「存在しているか」を published とする（新着は別途スナップショットで管理）
     return {
         "published": True,
-        "title": f"Dummy {appid}",
-        "url": f"https://store.steampowered.com/app/{appid}",
-        "langs": ["english"],
-        "price_cents": 0,
-        "currency": "JPY",
+        "title": title,
+        "url": url,
+        "langs": langs,
+        "price_cents": price_cents,
+        "currency": currency,
     }
 # =======================================================
 
