@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 22:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 22:58:58 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -1380,6 +1380,114 @@
       <link>https://store.steampowered.com/app/7440</link>
       <guid isPermaLink="false">new:appid:7440:new</guid>
       <pubDate>Sun, 24 Aug 2025 22:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-Blades</title>
+      <link>https://store.steampowered.com/app/7510</link>
+      <guid isPermaLink="false">new:appid:7510:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Worlds II HD</title>
+      <link>https://store.steampowered.com/app/7520</link>
+      <guid isPermaLink="false">new:appid:7520:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:50:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Worlds II Castle Defense</title>
+      <link>https://store.steampowered.com/app/7530</link>
+      <guid isPermaLink="false">new:appid:7530:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sid Meier's Railroads!</title>
+      <link>https://store.steampowered.com/app/7600</link>
+      <guid isPermaLink="false">new:appid:7600:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:50:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-COM: Terror From the Deep</title>
+      <link>https://store.steampowered.com/app/7650</link>
+      <guid isPermaLink="false">new:appid:7650:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-COM: Apocalypse</title>
+      <link>https://store.steampowered.com/app/7660</link>
+      <guid isPermaLink="false">new:appid:7660:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:50:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>BioShock™</title>
+      <link>https://store.steampowered.com/app/7670</link>
+      <guid isPermaLink="false">new:appid:7670:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:50:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>MLB® Front Office Manager</title>
+      <link>https://store.steampowered.com/app/7780</link>
+      <guid isPermaLink="false">new:appid:7780:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:54:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stubbs the Zombie in Rebel Without a Pulse</title>
+      <link>https://store.steampowered.com/app/7800</link>
+      <guid isPermaLink="false">new:appid:7800:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Spin 2</title>
+      <link>https://store.steampowered.com/app/7810</link>
+      <guid isPermaLink="false">new:appid:7810:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Men of War™</title>
+      <link>https://store.steampowered.com/app/7830</link>
+      <guid isPermaLink="false">new:appid:7830:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Death Track®: Resurrection</title>
+      <link>https://store.steampowered.com/app/7840</link>
+      <guid isPermaLink="false">new:appid:7840:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>NecroVision</title>
+      <link>https://store.steampowered.com/app/7860</link>
+      <guid isPermaLink="false">new:appid:7860:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>1701 A.D.: Sunken Dragon</title>
+      <link>https://store.steampowered.com/app/7880</link>
+      <guid isPermaLink="false">new:appid:7880:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Men of War™ Demo</title>
+      <link>https://store.steampowered.com/app/7890</link>
+      <guid isPermaLink="false">new:appid:7890:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Movies</title>
+      <link>https://store.steampowered.com/app/7900</link>
+      <guid isPermaLink="false">new:appid:7900:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Movies: Stunts and Effects </title>
+      <link>https://store.steampowered.com/app/7910</link>
+      <guid isPermaLink="false">new:appid:7910:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Call of Duty® 4: Modern Warfare® (2007)</title>
+      <link>https://store.steampowered.com/app/7940</link>
+      <guid isPermaLink="false">new:appid:7940:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:55:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
