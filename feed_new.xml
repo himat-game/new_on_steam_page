@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 19:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 20:44:51 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -1038,6 +1038,54 @@
       <link>https://store.steampowered.com/app/4700</link>
       <guid isPermaLink="false">new:appid:4700:new</guid>
       <pubDate>Sun, 24 Aug 2025 19:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cossacks: Back to War</title>
+      <link>https://store.steampowered.com/app/4850</link>
+      <guid isPermaLink="false">new:appid:4850:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cossacks: Campaign Expansion</title>
+      <link>https://store.steampowered.com/app/4856</link>
+      <guid isPermaLink="false">new:appid:4856:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:35:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cossacks: Art of War</title>
+      <link>https://store.steampowered.com/app/4870</link>
+      <guid isPermaLink="false">new:appid:4870:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cossacks: European Wars</title>
+      <link>https://store.steampowered.com/app/4880</link>
+      <guid isPermaLink="false">new:appid:4880:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cossacks II: Battle for Europe</title>
+      <link>https://store.steampowered.com/app/4890</link>
+      <guid isPermaLink="false">new:appid:4890:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zen of Sudoku</title>
+      <link>https://store.steampowered.com/app/4900</link>
+      <guid isPermaLink="false">new:appid:4900:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:36:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Natural Selection 2</title>
+      <link>https://store.steampowered.com/app/4920</link>
+      <guid isPermaLink="false">new:appid:4920:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Natural Selection 2</title>
+      <link>https://store.steampowered.com/app/4932</link>
+      <guid isPermaLink="false">new:appid:4932:new</guid>
+      <pubDate>Sun, 24 Aug 2025 20:36:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
