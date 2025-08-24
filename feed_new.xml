@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 21:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 22:47:45 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -1290,6 +1290,96 @@
       <link>https://store.steampowered.com/app/6900</link>
       <guid isPermaLink="false">new:appid:6900:new</guid>
       <pubDate>Sun, 24 Aug 2025 21:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thief: Deadly Shadows</title>
+      <link>https://store.steampowered.com/app/6980</link>
+      <guid isPermaLink="false">new:appid:6980:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tomb Raider: Legend</title>
+      <link>https://store.steampowered.com/app/7000</link>
+      <guid isPermaLink="false">new:appid:7000:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:38:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project: Snowblind</title>
+      <link>https://store.steampowered.com/app/7010</link>
+      <guid isPermaLink="false">new:appid:7010:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:38:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rogue Trooper</title>
+      <link>https://store.steampowered.com/app/7020</link>
+      <guid isPermaLink="false">new:appid:7020:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tomb Raider: Legend Demo</title>
+      <link>https://store.steampowered.com/app/7030</link>
+      <guid isPermaLink="false">new:appid:7030:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Project: Snowblind Demo</title>
+      <link>https://store.steampowered.com/app/7050</link>
+      <guid isPermaLink="false">new:appid:7050:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jade Empire™: Special Edition</title>
+      <link>https://store.steampowered.com/app/7110</link>
+      <guid isPermaLink="false">new:appid:7110:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:39:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loki</title>
+      <link>https://store.steampowered.com/app/7260</link>
+      <guid isPermaLink="false">new:appid:7260:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loki Demo - Egyptian Sorcerer</title>
+      <link>https://store.steampowered.com/app/7280</link>
+      <guid isPermaLink="false">new:appid:7280:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:43:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azada</title>
+      <link>https://store.steampowered.com/app/7340</link>
+      <guid isPermaLink="false">new:appid:7340:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ricochet: Lost Worlds</title>
+      <link>https://store.steampowered.com/app/7400</link>
+      <guid isPermaLink="false">new:appid:7400:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ricochet: Lost Worlds</title>
+      <link>https://store.steampowered.com/app/7410</link>
+      <guid isPermaLink="false">new:appid:7410:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:44:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wik™ &amp; The Fable of Souls</title>
+      <link>https://store.steampowered.com/app/7420</link>
+      <guid isPermaLink="false">new:appid:7420:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wik™ &amp; The Fable of Souls</title>
+      <link>https://store.steampowered.com/app/7430</link>
+      <guid isPermaLink="false">new:appid:7430:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Kahuna Reef</title>
+      <link>https://store.steampowered.com/app/7440</link>
+      <guid isPermaLink="false">new:appid:7440:new</guid>
+      <pubDate>Sun, 24 Aug 2025 22:44:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
