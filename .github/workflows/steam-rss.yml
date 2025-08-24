@@ -5,6 +5,7 @@ on:
     - cron: "*/20 * * * *"   # 20分おき（UTC基準）
   workflow_dispatch:
 
+# ワークフロー全体で直列化（ここだけに concurrency を置く）
 concurrency:
   group: steam-rss
   cancel-in-progress: true
@@ -16,9 +17,6 @@ jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    concurrency:
-      group: steam-rss
-      cancel-in-progress: true
 
     steps:
       - name: Show trigger & times
