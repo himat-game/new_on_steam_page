@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 22:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 23:43:00 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -1488,6 +1488,144 @@
       <link>https://store.steampowered.com/app/7940</link>
       <guid isPermaLink="false">new:appid:7940:new</guid>
       <pubDate>Sun, 24 Aug 2025 22:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Championship Manager 2007</title>
+      <link>https://store.steampowered.com/app/8040</link>
+      <guid isPermaLink="false">new:appid:8040:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Championship Manager 2008</title>
+      <link>https://store.steampowered.com/app/8060</link>
+      <guid isPermaLink="false">new:appid:8060:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kane and Lynch: Dead Men™</title>
+      <link>https://store.steampowered.com/app/8080</link>
+      <guid isPermaLink="false">new:appid:8080:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conflict: Denied Ops Demo</title>
+      <link>https://store.steampowered.com/app/8090</link>
+      <guid isPermaLink="false">new:appid:8090:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conflict: Denied Ops</title>
+      <link>https://store.steampowered.com/app/8100</link>
+      <guid isPermaLink="false">new:appid:8100:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tomb Raider: Underworld</title>
+      <link>https://store.steampowered.com/app/8140</link>
+      <guid isPermaLink="false">new:appid:8140:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tomb Raider: Underworld Demo</title>
+      <link>https://store.steampowered.com/app/8150</link>
+      <guid isPermaLink="false">new:appid:8150:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Battlestations Pacific</title>
+      <link>https://store.steampowered.com/app/8170</link>
+      <guid isPermaLink="false">new:appid:8170:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Battlestations Pacific Demo</title>
+      <link>https://store.steampowered.com/app/8180</link>
+      <guid isPermaLink="false">new:appid:8180:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just Cause 2</title>
+      <link>https://store.steampowered.com/app/8190</link>
+      <guid isPermaLink="false">new:appid:8190:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam &amp; Max 101: Culture Shock</title>
+      <link>https://store.steampowered.com/app/8200</link>
+      <guid isPermaLink="false">new:appid:8200:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam &amp; Max 102: Situation: Comedy</title>
+      <link>https://store.steampowered.com/app/8210</link>
+      <guid isPermaLink="false">new:appid:8210:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam &amp; Max 103: The Mole, the Mob and the Meatball</title>
+      <link>https://store.steampowered.com/app/8220</link>
+      <guid isPermaLink="false">new:appid:8220:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam &amp; Max 104: Abe Lincoln Must Die!</title>
+      <link>https://store.steampowered.com/app/8230</link>
+      <guid isPermaLink="false">new:appid:8230:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:34:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bone: The Great Cow Race</title>
+      <link>https://store.steampowered.com/app/8320</link>
+      <guid isPermaLink="false">new:appid:8320:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:38:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telltale Texas Hold ‘Em</title>
+      <link>https://store.steampowered.com/app/8330</link>
+      <guid isPermaLink="false">new:appid:8330:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strong Bad's Cool Game for Attractive People: Season 1</title>
+      <link>https://store.steampowered.com/app/8340</link>
+      <guid isPermaLink="false">new:appid:8340:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strong Bad's Cool Game for Attractive People: Episode 2</title>
+      <link>https://store.steampowered.com/app/8350</link>
+      <guid isPermaLink="false">new:appid:8350:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strong Bad's Cool Game for Attractive People: Episode 3</title>
+      <link>https://store.steampowered.com/app/8360</link>
+      <guid isPermaLink="false">new:appid:8360:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strong Bad's Cool Game for Attractive People: Episode 4</title>
+      <link>https://store.steampowered.com/app/8370</link>
+      <guid isPermaLink="false">new:appid:8370:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strong Bad's Cool Game for Attractive People: Episode 5</title>
+      <link>https://store.steampowered.com/app/8380</link>
+      <guid isPermaLink="false">new:appid:8380:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geometry Wars: Retro Evolved</title>
+      <link>https://store.steampowered.com/app/8400</link>
+      <guid isPermaLink="false">new:appid:8400:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>EVE Online</title>
+      <link>https://store.steampowered.com/app/8500</link>
+      <guid isPermaLink="false">new:appid:8500:new</guid>
+      <pubDate>Sun, 24 Aug 2025 23:39:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
