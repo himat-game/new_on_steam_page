@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 19:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 19:56:50 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -954,6 +954,90 @@
       <link>https://store.steampowered.com/app/4102</link>
       <guid isPermaLink="false">new:appid:4102:new</guid>
       <pubDate>Sun, 24 Aug 2025 19:30:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>RACE: Caterham Expansion</title>
+      <link>https://store.steampowered.com/app/4290</link>
+      <guid isPermaLink="false">new:appid:4290:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>RoboBlitz</title>
+      <link>https://store.steampowered.com/app/4300</link>
+      <guid isPermaLink="false">new:appid:4300:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:47:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>RoboBlitz Demo</title>
+      <link>https://store.steampowered.com/app/4310</link>
+      <guid isPermaLink="false">new:appid:4310:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:47:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>STAR TREK®: D-A-C</title>
+      <link>https://store.steampowered.com/app/4320</link>
+      <guid isPermaLink="false">new:appid:4320:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>City Life</title>
+      <link>https://store.steampowered.com/app/4400</link>
+      <guid isPermaLink="false">new:appid:4400:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>City Life Deluxe</title>
+      <link>https://store.steampowered.com/app/4410</link>
+      <guid isPermaLink="false">new:appid:4410:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:48:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silverfall</title>
+      <link>https://store.steampowered.com/app/4420</link>
+      <guid isPermaLink="false">new:appid:4420:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:48:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silverfall Demo</title>
+      <link>https://store.steampowered.com/app/4440</link>
+      <guid isPermaLink="false">new:appid:4440:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:48:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>City Life 2008</title>
+      <link>https://store.steampowered.com/app/4460</link>
+      <guid isPermaLink="false">new:appid:4460:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silverfall: Earth Awakening</title>
+      <link>https://store.steampowered.com/app/4470</link>
+      <guid isPermaLink="false">new:appid:4470:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warhammer 40,000: Dawn of War - Anniversary Edition</title>
+      <link>https://store.steampowered.com/app/4570</link>
+      <guid isPermaLink="false">new:appid:4570:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:52:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warhammer® 40,000: Dawn of War® - Dark Crusade</title>
+      <link>https://store.steampowered.com/app/4580</link>
+      <guid isPermaLink="false">new:appid:4580:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Full Pipe</title>
+      <link>https://store.steampowered.com/app/4600</link>
+      <guid isPermaLink="false">new:appid:4600:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Total War: MEDIEVAL II – Definitive Edition</title>
+      <link>https://store.steampowered.com/app/4700</link>
+      <guid isPermaLink="false">new:appid:4700:new</guid>
+      <pubDate>Sun, 24 Aug 2025 19:53:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
