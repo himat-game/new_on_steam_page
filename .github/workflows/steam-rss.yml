@@ -15,6 +15,11 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: steam-rss
+      cancel-in-progress: true
+
     steps:
       - name: Show trigger & times
         run: |
@@ -23,7 +28,8 @@ jobs:
           echo "UTC:   $(date -u '+%Y-%m-%d %H:%M:%S')"
           echo "Local: $(date    '+%Y-%m-%d %H:%M:%S')"
 
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -32,59 +38,24 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Jitter
-        run: python -c "import time, random; time.sleep(random.uniform(0,30))"
-
-      # ▼ 過去の状態があれば解凍して復元
-      - name: Restore state (if exists)
+      - name: Run crawler
         run: |
-          if [ -f state.json.gz ]; then
-            gzip -dc state.json.gz > state.json
-            echo "Restored state.json from state.json.gz"
+          python main.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 生成物だけをホワイトリストでステージ（初回でも失敗しないように2>/dev/nullを付与）
+          git add state.json feed_new.xml feed_updates.xml
+          git add "snapshots/new/*.jsonl.gz" "snapshots/updates/*.jsonl.gz" 2>/dev/null || true
+
+          # 何かステージされていればコミット＆プッシュ
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-            echo "No previous state found. Starting fresh."
+            git commit -m "update feeds/state/snapshots: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+            git pull --rebase --autostash || true
+            git push
           fi
-
-      - name: Run detector (baseline on first run)
-        run: |
-          python steam_new_store_rss.py \
-            --state state.json \
-            --rss-out steam_new_store.xml \
-            --updates-out steam_store_updates.xml \
-            --pending-retry 100 \
-            --max-new 200 \
-            --crawl-batch 400 \
-            --crawl-seconds 1300 \
-            --baseline-if-empty \
-            --cc jp --lang ja \
-            --channel-title "Himat版 Steam 新規ストア公開（画像＋説明）" \
-            --updates-title "Steam Store 更新イベント（価格・言語含む）" \
-            --updates-desc "Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知"
-
-      # ▼ 実行後に state を圧縮保存（100MB超え防止）
-      - name: Save state (compress)
-        run: |
-          if [ -f state.json ]; then
-            gzip -9 -c state.json > state.json.gz
-            echo "Compressed state.json -> state.json.gz"
-          else
-            echo "No state.json produced."
-          fi
-
-- name: Commit & push if changed
-  run: |
-    git config user.name  "github-actions[bot]"
-    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-    # 生成物だけをホワイトリストでステージ
-    git add state.json feed_new.xml feed_updates.xml \
-            snapshots/new/*.jsonl.gz snapshots/updates/*.jsonl.gz 2>/dev/null || true
-
-    # 何かステージされていればコミット＆プッシュ
-    if git diff --cached --quiet; then
-      echo "No changes to commit."
-    else
-      git commit -m "update feeds/state/snapshots: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-      git pull --rebase --autostash || true
-      git push
-    fi
