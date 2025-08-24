@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 15:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 16:54:17 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -276,6 +276,72 @@
       <link>https://store.steampowered.com/app/1540</link>
       <guid isPermaLink="false">new:appid:1540:new</guid>
       <pubDate>Sun, 24 Aug 2025 15:54:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Space Empires IV Deluxe</title>
+      <link>https://store.steampowered.com/app/1610</link>
+      <guid isPermaLink="false">new:appid:1610:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jagged Alliance 2 Gold</title>
+      <link>https://store.steampowered.com/app/1620</link>
+      <guid isPermaLink="false">new:appid:1620:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disciples II: Rise of the Elves </title>
+      <link>https://store.steampowered.com/app/1630</link>
+      <guid isPermaLink="false">new:appid:1630:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disciples II: Gallean's Return</title>
+      <link>https://store.steampowered.com/app/1640</link>
+      <guid isPermaLink="false">new:appid:1640:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iron Warriors: T - 72 Tank Command </title>
+      <link>https://store.steampowered.com/app/1670</link>
+      <guid isPermaLink="false">new:appid:1670:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Space Empires V</title>
+      <link>https://store.steampowered.com/app/1690</link>
+      <guid isPermaLink="false">new:appid:1690:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arx Fatalis</title>
+      <link>https://store.steampowered.com/app/1700</link>
+      <guid isPermaLink="false">new:appid:1700:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arx Fatalis Demo</title>
+      <link>https://store.steampowered.com/app/1710</link>
+      <guid isPermaLink="false">new:appid:1710:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:45:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth 2160</title>
+      <link>https://store.steampowered.com/app/1900</link>
+      <guid isPermaLink="false">new:appid:1900:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:50:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Worlds</title>
+      <link>https://store.steampowered.com/app/1920</link>
+      <guid isPermaLink="false">new:appid:1920:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:50:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two Worlds Epic Edition</title>
+      <link>https://store.steampowered.com/app/1930</link>
+      <guid isPermaLink="false">new:appid:1930:new</guid>
+      <pubDate>Sun, 24 Aug 2025 16:50:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
