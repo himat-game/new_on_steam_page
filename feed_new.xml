@@ -6,7 +6,7 @@
     <description>Newly published Steam store pages detected by crawler.</description>
     <language>en-us</language>
     <ttl>30</ttl>
-    <lastBuildDate>Sun, 24 Aug 2025 21:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 21:56:42 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike</title>
       <link>https://store.steampowered.com/app/10</link>
@@ -1212,6 +1212,84 @@
       <link>https://store.steampowered.com/app/6370</link>
       <guid isPermaLink="false">new:appid:6370:new</guid>
       <pubDate>Sun, 24 Aug 2025 21:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lost Planet™: Extreme Condition</title>
+      <link>https://store.steampowered.com/app/6510</link>
+      <guid isPermaLink="false">new:appid:6510:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Devil May Cry® 3 Special Edition</title>
+      <link>https://store.steampowered.com/app/6550</link>
+      <guid isPermaLink="false">new:appid:6550:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:48:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lost Planet Demo</title>
+      <link>https://store.steampowered.com/app/6580</link>
+      <guid isPermaLink="false">new:appid:6580:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:48:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bullet Candy</title>
+      <link>https://store.steampowered.com/app/6600</link>
+      <guid isPermaLink="false">new:appid:6600:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:48:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commandos: Behind Enemy Lines</title>
+      <link>https://store.steampowered.com/app/6800</link>
+      <guid isPermaLink="false">new:appid:6800:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:52:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commandos: Beyond the Call of Duty</title>
+      <link>https://store.steampowered.com/app/6810</link>
+      <guid isPermaLink="false">new:appid:6810:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:52:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commandos 2: Men of Courage</title>
+      <link>https://store.steampowered.com/app/6830</link>
+      <guid isPermaLink="false">new:appid:6830:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:52:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commandos 3: Destination Berlin</title>
+      <link>https://store.steampowered.com/app/6840</link>
+      <guid isPermaLink="false">new:appid:6840:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitman 2: Silent Assassin</title>
+      <link>https://store.steampowered.com/app/6850</link>
+      <guid isPermaLink="false">new:appid:6850:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitman: Blood Money</title>
+      <link>https://store.steampowered.com/app/6860</link>
+      <guid isPermaLink="false">new:appid:6860:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Battlestations: Midway</title>
+      <link>https://store.steampowered.com/app/6870</link>
+      <guid isPermaLink="false">new:appid:6870:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just Cause</title>
+      <link>https://store.steampowered.com/app/6880</link>
+      <guid isPermaLink="false">new:appid:6880:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitman: Codename 47</title>
+      <link>https://store.steampowered.com/app/6900</link>
+      <guid isPermaLink="false">new:appid:6900:new</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
