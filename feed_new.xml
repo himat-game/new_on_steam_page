@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Steam: Newly Published Store Pages</title>
+    <link>https://store.steampowered.com/</link>
+    <description>Newly published Steam store pages detected by crawler.</description>
+    <language>en-us</language>
+    <ttl>30</ttl>
+    <lastBuildDate>Sun, 24 Aug 2025 14:58:08 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike</title>
+      <link>https://store.steampowered.com/app/10</link>
+      <guid isPermaLink="false">new:appid:10:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Team Fortress Classic</title>
+      <link>https://store.steampowered.com/app/20</link>
+      <guid isPermaLink="false">new:appid:20:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Day of Defeat</title>
+      <link>https://store.steampowered.com/app/30</link>
+      <guid isPermaLink="false">new:appid:30:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deathmatch Classic</title>
+      <link>https://store.steampowered.com/app/40</link>
+      <guid isPermaLink="false">new:appid:40:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life: Opposing Force</title>
+      <link>https://store.steampowered.com/app/50</link>
+      <guid isPermaLink="false">new:appid:50:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ricochet</title>
+      <link>https://store.steampowered.com/app/60</link>
+      <guid isPermaLink="false">new:appid:60:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life</title>
+      <link>https://store.steampowered.com/app/70</link>
+      <guid isPermaLink="false">new:appid:70:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike: Condition Zero</title>
+      <link>https://store.steampowered.com/app/80</link>
+      <guid isPermaLink="false">new:appid:80:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codename Gordon</title>
+      <link>https://store.steampowered.com/app/92</link>
+      <guid isPermaLink="false">new:appid:92:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike: Condition Zero</title>
+      <link>https://store.steampowered.com/app/100</link>
+      <guid isPermaLink="false">new:appid:100:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life: Blue Shift</title>
+      <link>https://store.steampowered.com/app/130</link>
+      <guid isPermaLink="false">new:appid:130:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike Beta</title>
+      <link>https://store.steampowered.com/app/150</link>
+      <guid isPermaLink="false">new:appid:150:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life: Source</title>
+      <link>https://store.steampowered.com/app/280</link>
+      <guid isPermaLink="false">new:appid:280:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Day of Defeat: Source</title>
+      <link>https://store.steampowered.com/app/300</link>
+      <guid isPermaLink="false">new:appid:300:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life 2: Deathmatch</title>
+      <link>https://store.steampowered.com/app/320</link>
+      <guid isPermaLink="false">new:appid:320:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life 2: Lost Coast</title>
+      <link>https://store.steampowered.com/app/340</link>
+      <guid isPermaLink="false">new:appid:340:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life Deathmatch: Source</title>
+      <link>https://store.steampowered.com/app/360</link>
+      <guid isPermaLink="false">new:appid:360:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life 2: Episode One</title>
+      <link>https://store.steampowered.com/app/380</link>
+      <guid isPermaLink="false">new:appid:380:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Portal</title>
+      <link>https://store.steampowered.com/app/400</link>
+      <guid isPermaLink="false">new:appid:400:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Portal: First Slice</title>
+      <link>https://store.steampowered.com/app/410</link>
+      <guid isPermaLink="false">new:appid:410:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Half-Life 2: Episode Two</title>
+      <link>https://store.steampowered.com/app/420</link>
+      <guid isPermaLink="false">new:appid:420:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Team Fortress 2</title>
+      <link>https://store.steampowered.com/app/440</link>
+      <guid isPermaLink="false">new:appid:440:new</guid>
+      <pubDate>Sun, 24 Aug 2025 14:54:37 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

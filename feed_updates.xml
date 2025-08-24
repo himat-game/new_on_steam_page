@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Steam: Updates (Japanese added / Price changed)</title>
+    <link>https://store.steampowered.com/</link>
+    <description>Steam store updates: language additions and price changes.</description>
+    <language>en-us</language>
+    <ttl>30</ttl>
+    <lastBuildDate>Sun, 24 Aug 2025 14:58:08 +0000</lastBuildDate>
+
+  </channel>
+</rss>
