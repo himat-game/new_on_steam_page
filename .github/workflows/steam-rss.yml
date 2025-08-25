@@ -1,14 +1,13 @@
-name: steam-new-store-rss
+name: steam-rss
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # 20分おき（UTC基準）
+    - cron: "*/20 * * * *"   # 30分おき（UTC）
   workflow_dispatch:
 
-# 同時実行を避けつつ、キャンセルはしない（新しいものはキューで待機）
 concurrency:
   group: steam-rss
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -16,18 +15,15 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-
     steps:
       - name: Show trigger & times
         run: |
           echo "event=${{ github.event_name }}"
           echo "schedule=${{ github.event.schedule }}"
           echo "UTC:   $(date -u '+%Y-%m-%d %H:%M:%S')"
-          echo "Local: $(date    '+%Y-%m-%d %H:%M:%S')"
+          echo "Local: $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')"
 
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -36,46 +32,19 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run crawler
+      # （requests等が不要ならこのステップは削ってOK）
+      - name: Install deps
         run: |
-          set -euxo pipefail
-          python -V
-          python main.py
+          python -m pip install -U pip
+          pip install -r requirements.txt || true
 
-      - name: List outputs (debug)
-        run: |
-          echo "== repo root =="
-          ls -lah || true
-          echo "== snapshots =="
-          ls -lah snapshots || true
-          echo "== snapshots/new =="
-          ls -lah snapshots/new || true
-          echo "== snapshots/updates =="
-          ls -lah snapshots/updates || true
-          echo "== show head of feeds =="
-          head -n 20 feed_new.xml || true
-          head -n 20 feed_updates.xml || true
-          echo "== show state =="
-          head -n 50 state.json || true
+      - name: Run
+        run: python steam_new_store_rss.py
 
-      - name: Commit & push if changed
+      - name: Commit outputs (if changed)
         run: |
-          set -euxo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # 生成物だけをホワイトリストでステージ
-          for f in state.json feed_new.xml feed_updates.xml; do
-            if [ -f "$f" ]; then git add "$f"; fi
-          done
-          git add "snapshots/new/*.jsonl.gz"      2>/dev/null || true
-          git add "snapshots/updates/*.jsonl.gz"  2>/dev/null || true
-
-          # 何かステージされていればコミット＆プッシュ
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "update feeds/state/snapshots: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-            git pull --rebase --autostash || true
-            git push
-          fi
+          git add -A
+          git diff --cached --quiet || git commit -m "update feeds & state [skip ci]"
+          git push
