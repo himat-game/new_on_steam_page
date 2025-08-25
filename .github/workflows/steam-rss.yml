@@ -10,8 +10,8 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: write     # RSSをcommit/push
-  actions: read       # 過去ランのArtifactを取得
+  contents: write
+  actions: read
 
 jobs:
   run:
@@ -27,18 +27,13 @@ jobs:
           mkdir -p state
           gh run download -n state -D state || echo "no previous state"
 
-      # （初回移行用・任意）repo直下の state.json があれば一度だけ種にする
+      # 2) 初回移行用（任意）：repo直下の state.json を一度だけ gzip化して種にする
       - name: Seed from repo state.json (one-time, optional)
+        if: ${{ hashFiles('state.json') != '' }}
         run: |
-          if [ -f state.json ] && [ ! -f state/state.json.gz ]; then
+          if [ ! -f state/state.json.gz ]; then
             mkdir -p state
-            python - <<'PY'
-import json, gzip
-with open('state.json','r',encoding='utf-8') as f:
-    s=json.load(f)
-with gzip.open('state/state.json.gz','wt',encoding='utf-8') as g:
-    import json; g.write(json.dumps(s, ensure_ascii=False, separators=(',',':')))
-PY
+            python -c "import json,gzip,os; s=json.load(open('state.json','r',encoding='utf-8')); os.makedirs('state',exist_ok=True); f=gzip.open('state/state.json.gz','wt',encoding='utf-8'); json.dump(s,f,ensure_ascii=False,separators=(',',':')); f.close()"
           fi
 
       - name: Set up Python
@@ -47,12 +42,13 @@ PY
           python-version: "3.11"
 
       - name: Install deps
-        run: pip install -r requirements.txt
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run script
         run: python steam_new_store_rss.py --state-path "state/state.json.gz"
 
-      # 2) 今回のstateを保存（同一ジョブ内で同名に複数回アップは不可）
+      # 3) 今回のstateを保存
       - name: Save state as artifact
         uses: actions/upload-artifact@v4
         with:
@@ -60,11 +56,12 @@ PY
           path: state/state.json.gz
           retention-days: 90
 
-      # 3) RSSのみcommit/push（Pages更新用）
+      # 4) RSSのみcommit/push（Pages更新用）
       - name: Commit & Push RSS
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add steam_new_store.xml feed_*.xml || true
           git commit -m "update feeds [skip ci]" || true
+          git pull --rebase || true
           git push
