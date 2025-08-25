@@ -2,7 +2,7 @@ name: steam-rss
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # 30分おき（UTC）
+    - cron: "*/30 * * * *"   # 30分おき（UTC）
   workflow_dispatch:
 
 concurrency:
