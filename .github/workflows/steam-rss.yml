@@ -2,15 +2,16 @@ name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30分おき（UTC基準）
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 concurrency:
   group: steam-rss
-  cancel-in-progress: true   # 次の実行が来たら前回をキャンセル
+  cancel-in-progress: true
 
 permissions:
-  contents: write
+  contents: write     # RSSをcommit/push
+  actions: read       # 過去ランのArtifactを取得
 
 jobs:
   run:
@@ -18,37 +19,52 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 1) 前回のstateをArtifactから復元（無ければスキップ）
+      - name: Restore state from latest artifact (if exists)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p state
+          gh run download -n state -D state || echo "no previous state"
+
+      # （初回移行用・任意）repo直下の state.json があれば一度だけ種にする
+      - name: Seed from repo state.json (one-time, optional)
+        run: |
+          if [ -f state.json ] && [ ! -f state/state.json.gz ]; then
+            mkdir -p state
+            python - <<'PY'
+import json, gzip
+with open('state.json','r',encoding='utf-8') as f:
+    s=json.load(f)
+with gzip.open('state/state.json.gz','wt',encoding='utf-8') as g:
+    import json; g.write(json.dumps(s, ensure_ascii=False, separators=(',',':')))
+PY
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 同時刻集中を避ける（0〜120秒）
-      - name: Jitter
-        run: python -c "import time,random; time.sleep(random.uniform(0,120))"
+      - name: Install deps
+        run: pip install -r requirements.txt
 
-      - name: Run detector (baseline on first run)
-        run: |
-          python steam_new_store_rss.py \
-            --state state.json \
-            --rss-out steam_new_store.xml \
-            --updates-out steam_store_updates.xml \
-            --pending-retry 100 \
-            --max-new 200 \
-            --crawl-batch 300 \
-            --crawl-seconds 1200 \
-            --baseline-if-empty \
-            --cc jp --lang ja \
-            --channel-title "Himat版 Steam 新規ストア公開（画像＋説明）" \
-            --updates-title "Steam Store 更新イベント（価格・言語含む）" \
-            --updates-desc "Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知"
+      - name: Run script
+        run: python steam_new_store_rss.py --state-path "state/state.json.gz"
 
-      - name: Commit & push if changed
+      # 2) 今回のstateを保存（同一ジョブ内で同名に複数回アップは不可）
+      - name: Save state as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: state
+          path: state/state.json.gz
+          retention-days: 90
+
+      # 3) RSSのみcommit/push（Pages更新用）
+      - name: Commit & Push RSS
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add state.json steam_new_store.xml steam_store_updates.xml
-            git commit -m "Update RSS: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-            git push
-          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add steam_new_store.xml feed_*.xml || true
+          git commit -m "update feeds [skip ci]" || true
+          git push
