@@ -1,14 +1,13 @@
-# nudge: refresh schedule
-name: steam-rss
+name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30分おき（UTC）
+    - cron: "*/30 * * * *"   # 30分おき（UTC基準）
   workflow_dispatch:
 
 concurrency:
   group: steam-rss
-  cancel-in-progress: true
+  cancel-in-progress: true   # 次の実行が来たら前回をキャンセル
 
 permissions:
   contents: write
@@ -17,35 +16,39 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - name: Show trigger & times
-        run: |
-          echo "event=${{ github.event_name }}"
-          echo "schedule=${{ github.event.schedule }}"
-          echo "UTC:   $(date -u '+%Y-%m-%d %H:%M:%S')"
-          echo "Local: $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')"
-
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # （requests等が不要ならこのステップは削ってOK）
-      - name: Install deps
-        run: |
-          python -m pip install -U pip
-          pip install -r requirements.txt || true
+      # 同時刻集中を避ける（0〜120秒）
+      - name: Jitter
+        run: python -c "import time,random; time.sleep(random.uniform(0,120))"
 
-      - name: Run
-        run: python steam_new_store_rss.py
-
-      - name: Commit outputs (if changed)
+      - name: Run detector (baseline on first run)
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "update feeds & state [skip ci]"
-          git push
+          python steam_new_store_rss.py \
+            --state state.json \
+            --rss-out steam_new_store.xml \
+            --updates-out steam_store_updates.xml \
+            --pending-retry 100 \
+            --max-new 200 \
+            --crawl-batch 300 \
+            --crawl-seconds 1200 \
+            --baseline-if-empty \
+            --cc jp --lang ja \
+            --channel-title "Himat版 Steam 新規ストア公開（画像＋説明）" \
+            --updates-title "Steam Store 更新イベント（価格・言語含む）" \
+            --updates-desc "Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知"
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state.json steam_new_store.xml steam_store_updates.xml
+            git commit -m "Update RSS: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
