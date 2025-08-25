@@ -26,6 +26,9 @@ import urllib.parse
 import urllib.request
 from urllib.error import HTTPError, URLError
 from typing import Dict, List, Optional, Tuple
+import hashlib
+def sha1(s: str) -> str:
+    return hashlib.sha1(s.encode('utf-8')).hexdigest()
 
 STEAM_APP_LIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
 APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
@@ -222,16 +225,28 @@ def extract_snapshot(data: dict) -> dict:
     price = (data.get("price_overview") or {}).get("final_formatted")
     langs = normalize_languages(data.get("supported_languages"))
     genres = [g.get("description","") for g in (data.get("genres") or [])]
+
+    # 長いフィールドはハッシュのみに（実データは持たない）
+    short_desc_hash = sha1(data.get("short_description","") or "")
+    name = data.get("name") or ""
+
+    # 画像URLはクエリを落として揺れを減らす
+    from urllib.parse import urlsplit, urlunsplit
+    def strip_q(u): 
+        if not u: return u
+        sp=urlsplit(u); return urlunsplit((sp.scheme,sp.netloc,sp.path,"",""))
+
     snap = {
-        "name": data.get("name"),
-        "short_description": data.get("short_description"),
+        "name": name,
+        "name_hash": sha1(name),
+        "short_description_hash": short_desc_hash,
         "type": data.get("type"),
-        "header_image": data.get("header_image"),
-        "capsule_imagev5": data.get("capsule_imagev5"),
+        "header_image": strip_q(data.get("header_image")),
+        "capsule_imagev5": strip_q(data.get("capsule_imagev5")),
         "is_free": data.get("is_free"),
         "price": price or ("Free" if data.get("is_free") else ""),
         "supported_languages": sorted(set([x for x in langs if x])),
-        "genres": sorted(set([g for g in genres if g])),
+        "genres_hash": sha1(",".join(sorted(set([g for g in genres if g])))),
         "platforms": json.dumps(data.get("platforms", {}), sort_keys=True),
         "release": json.dumps(data.get("release_date", {}), sort_keys=True),
     }
@@ -282,14 +297,15 @@ def build_new_item(appid: int, data: dict, now_iso: str) -> Dict:
 def pretty_change_label(k: str) -> str:
     return {
         "name": "タイトル",
-        "short_description": "説明",
+        "name_hash": "タイトル",
+        "short_description_hash": "説明",
         "type": "タイプ",
         "header_image": "ヘッダー画像",
         "capsule_imagev5": "カプセル画像",
         "is_free": "無料フラグ",
         "price": "価格",
         "supported_languages": "言語",
-        "genres": "ジャンル",
+        "genres_hash": "ジャンル",
         "platforms": "対応OS",
         "release": "リリース",
     }.get(k, k)
