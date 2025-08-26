@@ -45,6 +45,40 @@ jobs:
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+- name: Fast-forward state cursor (hot tail)
+  env:
+    STATE_PATH: state/state.json.gz        # --state-path と合わせる
+    HOT_TAIL_START: '262000'               # 末尾の少し手前（例：cursor_max-20000）
+  run: |
+    python - <<'PY'
+    import os, json, gzip, pathlib, sys
+    state_path = os.environ.get("STATE_PATH", "state/state.json.gz")
+    target = int(os.environ.get("HOT_TAIL_START", "262000"))  # 例示値
+
+    def load(path):
+      if not os.path.exists(path): return {}
+      if path.endswith(".gz"):
+        with gzip.open(path, "rt", encoding="utf-8") as f: return json.load(f)
+      with open(path, "r", encoding="utf-8") as f: return json.load(f)
+
+    def dump(path, data):
+      pathlib.Path(os.path.dirname(path) or ".").mkdir(parents=True, exist_ok=True)
+      if path.endswith(".gz"):
+        with gzip.open(path, "wt", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
+      else:
+        with open(path, "w", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
+
+    st = load(state_path) or {}
+    st.setdefault("seen", {})
+    st.setdefault("cursor", 0)
+    before = st["cursor"]
+    if before < target:
+      st["cursor"] = target
+    dump(state_path, st)
+    print(f"cursor: {before} -> {st['cursor']}  (seen={len(st['seen'])})")
+    PY
+
+
       - name: Run script
         run: python steam_new_store_rss.py --state-path "state/state.json.gz"
 
