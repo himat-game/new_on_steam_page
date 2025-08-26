@@ -2,7 +2,7 @@ name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/3 * * * *"   # 5分おき（UTC）
+    - cron: "*/5 * * * *"   # 5分おき（UTC）
   workflow_dispatch:
 
 concurrency:
