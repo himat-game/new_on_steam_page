@@ -1,219 +1,527 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+Steam 新規ストア公開RSS + ストア更新イベントRSS
+（画像・説明・価格・言語対応 / ローリング全件クロール / 変更点はタイトル要約 / 新規は「（新規追加）」）
+＋ 429/502/503/504 に強い HTTP 再試行（指数バックオフ＆スローモード）
+＋ クロール時間上限（--crawl-seconds）で長時間実行を回避
 
+初回:
+  python steam_new_store_rss.py --state state.json --rss-out steam_new_store.xml --baseline-if-empty
+通常:
+  python steam_new_store_rss.py --state state.json --rss-out steam_new_store.xml --pending-retry 100 --max-new 200 --crawl-batch 400 --crawl-seconds 1500
+"""
 import argparse
+import datetime as dt
+import html
+import io
 import json
 import os
+import random
+import re
+import sys
 import time
-import hashlib
-import requests
-from datetime import datetime, timezone
-from email.utils import formatdate
-from html import escape
+import urllib.error
+import urllib.parse
+import urllib.request
+from urllib.error import HTTPError, URLError
+from typing import Dict, List, Optional, Tuple
 
-# ===== 設定（軽量） =====
-BATCH_SIZE = 300                 # 1ランで見る appid 数
-LOOKBACK_SEC_FOR_NEW = 48*3600   # 初見時に「新規扱い」にする許容窓（48時間）
-TIMEOUT = 12                     # HTTPタイムアウト秒
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; SteamWatchLite/1.0)",
-    "Accept-Language": "en-US,en;q=0.9"
-}
-APPDETAILS_URL = "https://store.steampowered.com/api/appdetails?cc=us&l=en&appids={appid}"
-APPLIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
+STEAM_APP_LIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
+APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 
-# ===== 便利関数 =====
-def now_ts() -> int:
-    return int(time.time())
+# =========================
+# HTTP helpers（堅牢版）
+# =========================
 
-def load_state(path: str) -> dict:
-    if os.path.exists(path):
-        with open(path, "r", encoding="utf-8") as f:
-            try:
-                st = json.load(f)
-            except Exception:
-                st = {}
+# 通常時の最小間隔 / 429後のスロー間隔 / スローモード継続時間（秒）
+RATE_MIN_SEC = 0.30
+RATE_SLOW_SEC = 0.80
+SLOW_MODE_SECONDS = 180  # ← 3分（短め）
+
+_last_request_ts = 0.0
+_slow_mode_until = 0.0
+
+def _polite_sleep():
+    """直前から一定時間を空ける（429検知後はスローモード）"""
+    global _last_request_ts, _slow_mode_until
+    now = time.time()
+    min_gap = RATE_SLOW_SEC if now < _slow_mode_until else RATE_MIN_SEC
+    wait = (_last_request_ts + min_gap) - now
+    if wait > 0:
+        time.sleep(wait)
+
+def http_get_raw(url: str, params: Optional[Dict[str, str]] = None, timeout: int = 20) -> bytes:
+    """429/5xxに強い取得：指数バックオフ＋ジッター＋一時スローモード"""
+    global _last_request_ts, _slow_mode_until
+    if params:
+        url = url + ("?" + urllib.parse.urlencode(params))
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "steam-new-store-rss/2.4 (+https://example.com)"
+    })
+
+    max_retries = 4           # ← 少し控えめに
+    base_sleep = 1.5          # 秒
+    for attempt in range(max_retries + 1):
+        _polite_sleep()
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                data = resp.read()
+                _last_request_ts = time.time()
+                return data
+        except HTTPError as e:
+            code = e.code
+            if code in (429, 502, 503, 504) and attempt < max_retries:
+                if code == 429:
+                    _slow_mode_until = time.time() + SLOW_MODE_SECONDS
+                sleep_sec = base_sleep * (2 ** attempt) * random.uniform(0.8, 1.3)
+                sleep_sec = min(sleep_sec, 60)
+                print(f"[RETRY] {code} on {url} -> sleep {sleep_sec:.1f}s (attempt {attempt+1}/{max_retries})")
+                time.sleep(sleep_sec)
+                continue
+            raise
+        except URLError:
+            if attempt < max_retries:
+                sleep_sec = base_sleep * (2 ** attempt) * random.uniform(0.8, 1.3)
+                sleep_sec = min(sleep_sec, 30)
+                print(f"[RETRY] URLError on {url} -> sleep {sleep_sec:.1f}s (attempt {attempt+1}/{max_retries})")
+                time.sleep(sleep_sec)
+                continue
+            raise
+
+def http_get_json(url: str, params: Optional[Dict[str, str]] = None, timeout: int = 20):
+    data = http_get_raw(url, params=params, timeout=timeout)
+    try:
+        return json.loads(data.decode("utf-8"))
+    except Exception:
+        return json.loads(data)
+
+# =========================
+# RSS helpers
+# =========================
+
+def guess_mime(url: str) -> str:
+    if not url:
+        return "image/jpeg"
+    u = url.lower()
+    if u.endswith(".png"): return "image/png"
+    if u.endswith(".webp"): return "image/webp"
+    if u.endswith(".jpg") or u.endswith(".jpeg"): return "image/jpeg"
+    return "image/jpeg"
+
+def rfc822(dt_utc: dt.datetime) -> str:
+    return dt_utc.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+def truncate(text: str, limit: int = 600) -> str:
+    if not text: return ""
+    return text if len(text) <= limit else (text[: limit - 1] + "…")
+
+def build_rss(channel_title: str, channel_link: str, channel_desc: str, items: List[Dict], lang: str = "ja-jp") -> str:
+    if items:
+        last = items[0]["pubDate"]
+        last_dt = dt.datetime.fromisoformat(last.replace("Z","+00:00")).astimezone(dt.timezone.utc)
     else:
-        st = {}
-    # 既定値
-    st.setdefault("cursor", 0)
-    st.setdefault("seen", {})          # {appid: true}
-    st.setdefault("snapshots", {})     # {appid: sha1}
-    st.setdefault("events", [])        # [{ts, appid, kind, title, link, summary}]
-    return st
+        last_dt = dt.datetime.utcnow()
 
-def save_state(path: str, st: dict):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(st, f, ensure_ascii=False, indent=2)
+    out = io.StringIO()
+    out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+    out.write('<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" '
+              'xmlns:content="http://purl.org/rss/1.0/modules/content/" '
+              'xmlns:atom="http://www.w3.org/2005/Atom">\n')
+    out.write('<channel>\n')
+    out.write(f'<title>{html.escape(channel_title)}</title>\n')
+    out.write(f'<link>{html.escape(channel_link)}</link>\n')
+    out.write(f'<description>{html.escape(channel_desc)}</description>\n')
+    out.write(f'<language>{html.escape(lang)}</language>\n')
+    out.write(f'<lastBuildDate>{rfc822(last_dt)}</lastBuildDate>\n')
 
-def get_cursor_max() -> int:
-    # 最新の appid 上限（ざっくり）を取得
-    try:
-        r = requests.get(APPLIST_URL, headers=HEADERS, timeout=TIMEOUT)
-        r.raise_for_status()
-        data = r.json()
-        apps = data.get("applist", {}).get("apps", [])
-        if not apps:
-            return max(300000, 0)  # フォールバック
-        return max(a.get("appid", 0) for a in apps)
-    except Exception:
-        # ネットワーク不調時のフォールバック（安全に大きめ）
-        return 300000
-
-def fetch_appdetails(appid: int) -> dict | None:
-    try:
-        r = requests.get(APPDETAILS_URL.format(appid=appid), headers=HEADERS, timeout=TIMEOUT)
-        r.raise_for_status()
-        jd = r.json()
-        node = jd.get(str(appid))
-        if not node or not node.get("success"):
-            return None
-        return node.get("data") or None
-    except Exception:
-        return None
-
-def snapshot_fields(data: dict) -> dict:
-    """差分検知に使う軽量フィールドのみ抽出（膨張しすぎないように）"""
-    return {
-        "type": data.get("type"),
-        "name": data.get("name"),
-        "is_free": data.get("is_free"),
-        "release_date": {
-            "coming_soon": data.get("release_date", {}).get("coming_soon"),
-            "date": data.get("release_date", {}).get("date"),
-        },
-        "price_final": (data.get("price_overview", {}) or {}).get("final"),
-        "supported_languages": data.get("supported_languages"),
-        "metacritic": (data.get("metacritic", {}) or {}).get("score"),
-        "developers": data.get("developers"),
-        "publishers": data.get("publishers"),
-        "genres": [g.get("description") for g in (data.get("genres") or []) if isinstance(g, dict)],
-        "header_image": data.get("header_image"),
-        "website": data.get("website"),
-    }
-
-def digest(obj: dict) -> str:
-    s = json.dumps(obj, sort_keys=True, ensure_ascii=False)
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
-
-def make_event(appid: int, kind: str, title: str, summary: str) -> dict:
-    return {
-        "ts": now_ts(),
-        "appid": appid,
-        "kind": kind,  # "new" | "update"
-        "title": title,
-        "link": f"https://store.steampowered.com/app/{appid}/",
-        "summary": summary,
-    }
-
-def limit_events(events: list, cap: int = 1200) -> list:
-    if len(events) <= cap:
-        return events
-    return events[-cap:]  # 末尾を残す
-
-def to_rss(items: list[dict], title: str, link: str, description: str) -> str:
-    # items: [{title, link, ts, summary}]
-    pub_now = formatdate(timeval=now_ts(), usegmt=True)
-    parts = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<rss version="2.0">',
-        "<channel>",
-        f"<title>{escape(title)}</title>",
-        f"<link>{escape(link)}</link>",
-        f"<description>{escape(description)}</description>",
-        f"<lastBuildDate>{pub_now}</lastBuildDate>",
-    ]
     for it in items:
-        parts += [
-            "<item>",
-            f"<title>{escape(it['title'])}</title>",
-            f"<link>{escape(it['link'])}</link>",
-            f"<pubDate>{formatdate(it['ts'], usegmt=True)}</pubDate>",
-            f"<description>{escape(it.get('summary',''))}</description>",
-            "</item>",
-        ]
-    parts += ["</channel>", "</rss>"]
-    return "\n".join(parts)
+        title = it.get("title", "(no title)")
+        link = it.get("link", "")
+        guid = it.get("guid", str(random.random()))
+        pub = it.get("pubDate")
+        pub_dt = dt.datetime.fromisoformat(pub.replace("Z", "+00:00")).astimezone(dt.timezone.utc)
+        desc_plain = truncate(it.get("description", ""))
+        image = it.get("image")
 
-# ===== メイン =====
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--state-path", default="state.json")
-    args = parser.parse_args()
+        out.write('<item>\n')
+        out.write(f'  <title>{html.escape(title)}</title>\n')
+        out.write(f'  <link>{html.escape(link)}</link>\n')
+        out.write(f'  <guid isPermaLink="false">{html.escape(guid)}</guid>\n')
+        out.write(f'  <pubDate>{rfc822(pub_dt)}</pubDate>\n')
+        if desc_plain:
+            out.write(f'  <description>{html.escape(desc_plain)}</description>\n')
 
-    state = load_state(args.state_path)
-    cursor = int(state.get("cursor", 0))
-    cursor_max = get_cursor_max()
+        if image:
+            mime = guess_mime(image)
+            out.write(f'  <enclosure url="{html.escape(image)}" type="{mime}" />\n')
+            out.write(f'  <media:content url="{html.escape(image)}" type="{mime}" />\n')
+            out.write(f'  <media:thumbnail url="{html.escape(image)}" />\n')
 
-    start = cursor
-    end = min(cursor + BATCH_SIZE, cursor_max)
-    appids = list(range(start, end))
-    if start >= cursor_max:
-        # 末尾に達していたら先頭へ
-        appids = list(range(0, min(BATCH_SIZE, cursor_max)))
-        start = 0
-        end = len(appids)
+        html_parts = []
+        if image:
+            html_parts.append(f'<p><a href="{html.escape(link)}"><img src="{html.escape(image)}" alt="{html.escape(title)}" /></a></p>')
+        if desc_plain:
+            html_parts.append(f'<p>{html.escape(desc_plain)}</p>')
+        html_parts.append(f'<p><a href="{html.escape(link)}">Steamでページを開く</a></p>')
+        html_block = "".join(html_parts)
+        out.write('  <content:encoded><![CDATA[' + html_block + ']]></content:encoded>\n')
 
-    published_now = 0
-    updates_now = 0
-    checked = 0
+        out.write('</item>\n')
 
-    for appid in appids:
-        checked += 1
-        data = fetch_appdetails(appid)
-        if not data:
-            continue
-        # 有効なストアページのみ
-        name = data.get("name")
-        if not name:
-            continue
+    out.write('</channel>\n')
+    out.write('</rss>\n')
+    return out.getvalue()
 
-        snap = snapshot_fields(data)
-        dig = digest(snap)
-        prev = state["snapshots"].get(str(appid))
+# =========================
+# Storefront helpers
+# =========================
 
-        if prev is None:
-            # 初見
-            state["snapshots"][str(appid)] = dig
-            # 「新規扱い」にするか（直近48h以内に見つけたもの）
-            if (now_ts() - LOOKBACK_SEC_FOR_NEW) <= now_ts():
-                summary = (data.get("short_description") or "")[:400]
-                ev = make_event(appid, "new", f"[NEW] {name}", summary)
-                state["events"].append(ev)
-                state["seen"][str(appid)] = True
-                published_now += 1
+def fetch_app_list() -> List[Dict]:
+    js = http_get_json(STEAM_APP_LIST_URL)
+    return js.get("applist", {}).get("apps", [])
+
+def fetch_appdetails_once(appid: int, cc: str, lang: str) -> Tuple[bool, Optional[Dict]]:
+    js = http_get_json(APPDETAILS_URL, params={"appids": str(appid), "cc": cc, "l": lang})
+    node = js.get(str(appid))
+    if not node or not node.get("success"): return False, None
+    data = node.get("data")
+    if not data: return False, None
+    return True, data
+
+def fetch_appdetails(appid: int, cc_primary: str, lang_primary: str) -> Tuple[bool, Optional[Dict]]:
+    ok, data = fetch_appdetails_once(appid, cc_primary, lang_primary)
+    if ok: return True, data
+    for cc, lang in [("jp","ja"), ("us","en"), ("de","de"), ("gb","en")]:
+        if cc == cc_primary and lang == lang_primary: continue
+        try:
+            ok, data = fetch_appdetails_once(appid, cc, lang)
+            if ok: return True, data
+        except Exception:
+            pass
+    return False, None
+
+# =========================
+# Diff helpers（価格・言語）
+# =========================
+
+LANG_TAG_RE = re.compile(r"<.*?>")
+SEP_RE = re.compile(r"[;,/｜|]")
+
+def normalize_languages(s: Optional[str]) -> List[str]:
+    if not s: return []
+    txt = LANG_TAG_RE.sub("", s)
+    parts = [p.strip().lower() for p in SEP_RE.split(txt) if p.strip()]
+    cleaned = []
+    for p in parts:
+        p = p.replace("full audio", "").replace("interface", "").replace("subtitles","").strip()
+        if p: cleaned.append(p)
+    return sorted(set(cleaned))
+
+def extract_snapshot(data: dict) -> dict:
+    price = (data.get("price_overview") or {}).get("final_formatted")
+    langs = normalize_languages(data.get("supported_languages"))
+    genres = [g.get("description","") for g in (data.get("genres") or [])]
+    snap = {
+        "name": data.get("name"),
+        "short_description": data.get("short_description"),
+        "type": data.get("type"),
+        "header_image": data.get("header_image"),
+        "capsule_imagev5": data.get("capsule_imagev5"),
+        "is_free": data.get("is_free"),
+        "price": price or ("Free" if data.get("is_free") else ""),
+        "supported_languages": sorted(set([x for x in langs if x])),
+        "genres": sorted(set([g for g in genres if g])),
+        "platforms": json.dumps(data.get("platforms", {}), sort_keys=True),
+        "release": json.dumps(data.get("release_date", {}), sort_keys=True),
+    }
+    return snap
+
+def diff_snap(old: dict, new: dict) -> List[Tuple[str,str,str]]:
+    changes = []
+    keys = set(old.keys()) | set(new.keys())
+    for k in sorted(keys):
+        ov, nv = old.get(k), new.get(k)
+        if ov != nv:
+            if isinstance(ov, list): ov = ", ".join(ov)
+            if isinstance(nv, list): nv = ", ".join(nv)
+            changes.append((k, str(ov) if ov is not None else "", str(nv) if nv is not None else ""))
+    return changes
+
+# =========================
+# Item builders
+# =========================
+
+def get_short_description(appid: int, primary_data: dict) -> str:
+    desc = primary_data.get("short_description")
+    if desc: return desc
+    ok, en = fetch_appdetails_once(appid, "us", "en")
+    if ok and en and en.get("short_description"):
+        return en["short_description"]
+    return f"type={primary_data.get('type')}, appid={appid}"
+
+def choose_image(data: dict) -> Optional[str]:
+    return (data.get("header_image")
+            or data.get("capsule_imagev5")
+            or data.get("capsule_image")
+            or (data.get("screenshots") or [{}])[0].get("path_full")
+            or data.get("background"))
+
+def build_new_item(appid: int, data: dict, now_iso: str) -> Dict:
+    base_name = data.get("name", f"App {appid}")
+    title = f"{base_name}（新規追加）"  # 新規公開の印
+    link = f"https://store.steampowered.com/app/{appid}/"
+    image = choose_image(data)
+    desc = get_short_description(appid, data)
+    guid = f"steam-store-published-{appid}"  # 安定GUID（重複防止）
+    return {
+        "title": title, "link": link, "guid": guid, "pubDate": now_iso,
+        "description": desc, "image": image,
+    }
+
+def pretty_change_label(k: str) -> str:
+    return {
+        "name": "タイトル",
+        "short_description": "説明",
+        "type": "タイプ",
+        "header_image": "ヘッダー画像",
+        "capsule_imagev5": "カプセル画像",
+        "is_free": "無料フラグ",
+        "price": "価格",
+        "supported_languages": "言語",
+        "genres": "ジャンル",
+        "platforms": "対応OS",
+        "release": "リリース",
+    }.get(k, k)
+
+def summarize_changes_for_title(changes: List[Tuple[str,str,str]], max_items: int = 3, max_len: int = 80) -> str:
+    priority = {"price": 1, "supported_languages": 2, "short_description": 3, "header_image": 4, "name": 5}
+    ordered = sorted(changes, key=lambda t: priority.get(t[0], 9))
+    parts = []
+    for k, ov, nv in ordered[:max_items]:
+        if k == "price":
+            if ov and nv and ov != nv:
+                parts.append(f"価格 {ov} → {nv}")
+            else:
+                parts.append("価格変更")
+        elif k == "supported_languages":
+            old = set([x.strip() for x in ov.split(",") if x.strip()]) if ov else set()
+            new = set([x.strip() for x in nv.split(",") if x.strip()]) if nv else set()
+            added = sorted(new - old)
+            removed = sorted(old - new)
+            detail = []
+            if added:   detail.append("+" + ",".join(added[:3]))
+            if removed: detail.append("-" + ",".join(removed[:3]))
+            parts.append(f"言語 {'/'.join(detail) if detail else '変更'}")
         else:
-            if prev != dig:
-                state["snapshots"][str(appid)] = dig
-                summary = "Store page updated."
-                ev = make_event(appid, "update", f"[UPDATE] {name}", summary)
-                state["events"].append(ev)
-                updates_now += 1
+            parts.append(f"{pretty_change_label(k)}更新")
+    summary = " / ".join(parts)
+    return summary if len(summary) <= max_len else (summary[: max_len - 1] + "…")
 
-    # イベントを制限
-    state["events"] = limit_events(state["events"], cap=1200)
+def build_update_item(appid: int, data: dict, changes: List[Tuple[str,str,str]], now_iso: str) -> Dict:
+    base_name = data.get('name', f'App {appid}')
+    summary_title = summarize_changes_for_title(changes)
+    title = f"{base_name}（{summary_title}）" if summary_title else f"{base_name}（更新）"
+    link = f"https://store.steampowered.com/app/{appid}/"
+    image = choose_image(data)
+    parts = []
+    for k, ov, nv in changes:
+        label = pretty_change_label(k)
+        if k == "supported_languages":
+            ov = ov or "-"
+            nv = nv or "-"
+        parts.append(f"{label}: {ov} → {nv}")
+    desc = "; ".join(parts)
+    guid = f"steam-store-update-{appid}-{int(time.time())}"
+    return {
+        "title": title, "link": link, "guid": guid, "pubDate": now_iso,
+        "description": desc, "image": image,
+    }
 
-    # RSS 出力（直近の新規/更新をそれぞれ最大300件）
-    new_items = [e for e in reversed(state["events"]) if e["kind"] == "new"][:300]
-    upd_items = [e for e in reversed(state["events"]) if e["kind"] == "update"][:300]
+# =========================
+# State I/O
+# =========================
 
-    feed_new = to_rss(new_items, "New on Steam (detected)", "https://store.steampowered.com/", "Newly detected store pages")
-    feed_updates = to_rss(upd_items, "Steam store updates (detected)", "https://store.steampowered.com/", "Detected store page updates")
+def load_state(path: str) -> Dict:
+    if not os.path.exists(path):
+        return {
+            "seen": {}, "pending": [], "items": [],
+            "updates": [], "snapshots": {},
+            "applist": [], "crawl_cursor": 0
+        }
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-    with open("feed_new.xml", "w", encoding="utf-8") as f:
-        f.write(feed_new)
-    with open("feed_updates.xml", "w", encoding="utf-8") as f:
-        f.write(feed_updates)
+def save_state(path: str, state: Dict) -> None:
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, path)
 
-    # カーソル更新
-    state["cursor"] = end if end < cursor_max else cursor_max
+# =========================
+# Main
+# =========================
 
-    # 保存
-    save_state(args.state_path, state)
+def main():
+    ap = argparse.ArgumentParser(description="Steam new-store & store-updates RSS generator (robust HTTP backoff & time-bounded crawl).")
+    ap.add_argument("--state", default="state.json", help="State JSON path")
+    ap.add_argument("--rss-out", default="steam_new_store.xml", help="New store RSS output")
+    ap.add_argument("--updates-out", default="steam_store_updates.xml", help="Store updates RSS output")
+    ap.add_argument("--channel-title", default="Steam: Newly Published Store Pages", help="New store RSS channel title")
+    ap.add_argument("--channel-link", default="https://store.steampowered.com/", help="RSS channel link")
+    ap.add_argument("--channel-desc", default="Games whose Steam store page just went public (detected)", help="RSS channel desc")
+    ap.add_argument("--updates-title", default="Steam Store 更新イベント", help="Updates RSS channel title")
+    ap.add_argument("--updates-desc", default="Steamストアのメタデータ変更を検知して通知", help="Updates RSS channel desc")
+    ap.add_argument("--cc", default="jp", help="Primary country code")
+    ap.add_argument("--lang", default="ja", help="Primary language")
+    ap.add_argument("--max-items", type=int, default=300, help="Max new-store items")
+    ap.add_argument("--max-updates", type=int, default=500, help="Max update items")
+    ap.add_argument("--max-new", type=int, default=200, help="Per run: max brand-new appids to check")
+    ap.add_argument("--pending-retry", type=int, default=100, help="Per run: recheck pending appids")
+    ap.add_argument("--crawl-batch", type=int, default=400, help="Per run: rolling crawl batch size")
+    ap.add_argument("--crawl-seconds", type=int, default=1500, help="Soft time budget for rolling crawl (seconds)")
+    ap.add_argument("--baseline-if-empty", action="store_true", help="If state empty, baseline existing apps")
+    args = ap.parse_args()
 
-    # 統計出力（ログの最後に見やすく）
-    snapshots_cnt = len(state.get("snapshots", {}))
-    print(f"new_ids_checked={checked} published_now={published_now} items={BATCH_SIZE} updates_now={updates_now} snapshots={snapshots_cnt} cursor={state['cursor']}/{cursor_max}")
+    state = load_state(args.state)
+    now_iso = dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+
+    # 1) Get full app list
+    try:
+        apps = fetch_app_list()
+    except Exception as e:
+        print(f"[ERROR] fetch_app_list failed: {e}", file=sys.stderr)
+        sys.exit(1)
+
+    appids = [int(a["appid"]) for a in apps if "appid" in a]
+    current_ids = set(appids)
+    seen_ids = set(int(x) for x in state["seen"].keys())
+
+    # 初回ベースライン
+    if not state["seen"] and args.baseline_if_empty:
+        for appid in current_ids:
+            state["seen"][str(appid)] = {"published": False, "detected_at": None}
+        state["applist"] = appids
+        state["crawl_cursor"] = 0
+        with open(args.rss_out, "w", encoding="utf-8") as f:
+            f.write(build_rss(args.channel_title, args.channel_link, args.channel_desc, []))
+        with open(args.updates_out, "w", encoding="utf-8") as f:
+            f.write(build_rss(args.updates_title, args.channel_link, args.updates_desc, []))
+        save_state(args.state, state)
+        print("Initialized baseline (no notifications). Next runs will track new appids.")
+        return
+
+    # applist を保存＆カーソル更新
+    state["applist"] = appids
+    if not isinstance(state.get("crawl_cursor"), int) or state["crawl_cursor"] >= len(appids):
+        state["crawl_cursor"] = 0
+
+    published_events: List[Dict] = []
+    update_events: List[Dict] = []
+
+    # 2) 新規に出現した AppID をチェック
+    new_ids = list(current_ids - seen_ids)
+    if new_ids:
+        random.shuffle(new_ids)
+        new_ids = new_ids[: args.max_new]
+    for appid in new_ids:
+        ok, data = False, None
+        try:
+            ok, data = fetch_appdetails(appid, args.cc, args.lang)
+        except Exception as e:
+            print(f"[WARN] appdetails error (new) {appid}: {e}")
+            ok = False
+        if ok:
+            item = build_new_item(appid, data, now_iso)
+            if not any(("/app/%d/" % appid) in it.get("link","") for it in state["items"]):
+                published_events.append(item)
+            state["seen"][str(appid)] = {"published": True, "detected_at": now_iso}
+            snap = extract_snapshot(data)
+            state.setdefault("snapshots", {})[str(appid)] = snap
+        else:
+            state["seen"][str(appid)] = {"published": False, "detected_at": None}
+            state["pending"].append(appid)
+
+    # 3) pending 再チェック
+    if state["pending"]:
+        random.shuffle(state["pending"])
+        to_check = state["pending"][: args.pending_retry]
+        remain = []
+        for appid in to_check:
+            ok, data = False, None
+            try:
+                ok, data = fetch_appdetails(appid, args.cc, args.lang)
+            except Exception as e:
+                print(f"[WARN] pending appdetails error {appid}: {e}")
+                ok = False
+            if ok:
+                item = build_new_item(appid, data, now_iso)
+                if not any(("/app/%d/" % appid) in it.get("link","") for it in state["items"]):
+                    published_events.append(item)
+                state["seen"][str(appid)] = {"published": True, "detected_at": now_iso}
+                snap = extract_snapshot(data)
+                prev = state.setdefault("snapshots", {}).get(str(appid))
+                if prev:
+                    changes = diff_snap(prev, snap)
+                    if changes:
+                        update_events.append(build_update_item(appid, data, changes, now_iso))
+                state["snapshots"][str(appid)] = snap
+            else:
+                remain.append(appid)
+        remain.extend(state["pending"][args.pending_retry:])
+        state["pending"] = remain
+
+    # 4) ローリング全件クロール（差分監視・時間上限あり）
+    n = args.crawl_batch
+    crawl_deadline = time.time() + args.crawl_seconds if args.crawl_seconds and args.crawl_seconds > 0 else None
+    if len(appids) > 0 and n > 0:
+        start = state["crawl_cursor"] % len(appids)
+        batch = appids[start:start+n] if start+n <= len(appids) else appids[start:] + appids[:(start+n) % len(appids)]
+        processed = 0
+        for appid in batch:
+            # 時間上限（ソフト）に達したら次回に持ち越し
+            if crawl_deadline and time.time() >= crawl_deadline:
+                print("[INFO] crawl time budget reached, stopping this run")
+                break
+            processed += 1
+            try:
+                ok, data = fetch_appdetails(appid, args.cc, args.lang)
+            except Exception as e:
+                print(f"[WARN] crawl appdetails error {appid}: {e}")
+                continue
+            if not ok or not data:
+                continue
+            snap = extract_snapshot(data)
+            prev = state.setdefault("snapshots", {}).get(str(appid))
+            if prev:
+                changes = diff_snap(prev, snap)
+                if changes:
+                    update_events.append(build_update_item(appid, data, changes, now_iso))
+            state["snapshots"][str(appid)] = snap
+        state["crawl_cursor"] = (start + processed) % len(appids)
+
+    # 5) RSS items 更新
+    if published_events:
+        state["items"] = (published_events + state["items"])[: args.max_items]
+    if update_events:
+        state["updates"] = (update_events + state.get("updates", []))[: args.max_updates]
+
+    # 6) RSS 書き出し（2本）
+    rss_xml = build_rss(args.channel_title, args.channel_link, args.channel_desc, state["items"])
+    with open(args.rss_out, "w", encoding="utf-8") as f:
+        f.write(rss_xml)
+
+    updates_xml = build_rss(args.updates_title, args.channel_link, args.updates_desc, state.get("updates", []))
+    with open(args.updates_out, "w", encoding="utf-8") as f:
+        f.write(updates_xml)
+
+    # 7) state 保存
+    save_state(args.state, state)
+
+    print(f"new_ids_checked={len(new_ids)} published_now={len(published_events)} "
+          f"pending={len(state['pending'])} items={len(state['items'])} "
+          f"updates_now={len(update_events)} snapshots={len(state['snapshots'])} "
+          f"cursor={state['crawl_cursor']}/{len(appids)}")
 
 if __name__ == "__main__":
     main()
