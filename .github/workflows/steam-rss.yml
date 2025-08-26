@@ -2,7 +2,7 @@ name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/3 * * * *"   # 5分おき（UTC）
   workflow_dispatch:
 
 concurrency:
@@ -11,91 +11,81 @@ concurrency:
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - name: Show trigger and times
+        run: |
+          echo "event=${{ github.event_name }}"
+          echo "UTC:   $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "Local: $(date    '+%Y-%m-%d %H:%M:%S')"
+
       - uses: actions/checkout@v4
-
-      # 1) 前回のstateをArtifactから復元（無ければスキップ）
-      - name: Restore state from latest artifact (if exists)
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          mkdir -p state
-          gh run download -n state -D state || echo "no previous state"
-
-      # 2) 初回移行用（任意）：repo直下の state.json を一度だけ gzip化して種にする
-      - name: Seed from repo state.json (one-time, optional)
-        if: ${{ hashFiles('state.json') != '' }}
-        run: |
-          if [ ! -f state/state.json.gz ]; then
-            mkdir -p state
-            python -c "import json,gzip,os; s=json.load(open('state.json','r',encoding='utf-8')); os.makedirs('state',exist_ok=True); f=gzip.open('state/state.json.gz','wt',encoding='utf-8'); json.dump(s,f,ensure_ascii=False,separators=(',',':')); f.close()"
-          fi
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install deps (light)
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          python3 -m pip install -U pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install requests; fi
 
-- name: Fast-forward state cursor (hot tail)
-  env:
-    STATE_PATH: state/state.json.gz        # --state-path と合わせる
-    HOT_TAIL_START: '262000'               # 末尾の少し手前（例：cursor_max-20000）
-  run: |
-    python - <<'PY'
-    import os, json, gzip, pathlib, sys
-    state_path = os.environ.get("STATE_PATH", "state/state.json.gz")
-    target = int(os.environ.get("HOT_TAIL_START", "262000"))  # 例示値
+      - name: Restore state (if any)
+        uses: actions/download-artifact@v4
+        with:
+          name: state
+          path: state
+        continue-on-error: true
 
-    def load(path):
-      if not os.path.exists(path): return {}
-      if path.endswith(".gz"):
-        with gzip.open(path, "rt", encoding="utf-8") as f: return json.load(f)
-      with open(path, "r", encoding="utf-8") as f: return json.load(f)
+      - name: Ensure state dir
+        run: mkdir -p state
 
-    def dump(path, data):
-      pathlib.Path(os.path.dirname(path) or ".").mkdir(parents=True, exist_ok=True)
-      if path.endswith(".gz"):
-        with gzip.open(path, "wt", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
-      else:
-        with open(path, "w", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
+      - name: Fast-forward state cursor (hot tail)
+        env:
+          STATE_PATH: state/state.json.gz
+          HOT_TAIL_START: "262000"   # 直近ログの cursor_max(=262804) の少し手前
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import os, json, gzip, pathlib
+          state_path = os.environ.get("STATE_PATH", "state/state.json.gz")
+          target = int(os.environ.get("HOT_TAIL_START", "262000"))
 
-    st = load(state_path) or {}
-    st.setdefault("seen", {})
-    st.setdefault("cursor", 0)
-    before = st["cursor"]
-    if before < target:
-      st["cursor"] = target
-    dump(state_path, st)
-    print(f"cursor: {before} -> {st['cursor']}  (seen={len(st['seen'])})")
-    PY
+          def load(path):
+              if not os.path.exists(path): return {}
+              if path.endswith(".gz"):
+                  with gzip.open(path, "rt", encoding="utf-8") as f: return json.load(f)
+              with open(path, "r", encoding="utf-8") as f: return json.load(f)
 
+          def dump(path, data):
+              pathlib.Path(os.path.dirname(path) or ".").mkdir(parents=True, exist_ok=True)
+              if path.endswith(".gz"):
+                  with gzip.open(path, "wt", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
+              else:
+                  with open(path, "w", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
+
+          st = load(state_path) or {}
+          st.setdefault("seen", {})
+          st.setdefault("cursor", 0)
+          before = st["cursor"]
+          if before < target:
+              st["cursor"] = target
+          dump(state_path, st)
+          print(f"cursor: {before} -> {st['cursor']}  (seen={len(st['seen'])})")
+          PY
 
       - name: Run script
-        run: python steam_new_store_rss.py --state-path "state/state.json.gz"
+        run: python3 steam_new_store_rss.py --state-path "state/state.json.gz"
 
-      # 3) 今回のstateを保存
-      - name: Save state as artifact
+      - name: Upload state
         uses: actions/upload-artifact@v4
         with:
           name: state
           path: state/state.json.gz
-          retention-days: 90
-
-      # 4) RSSのみcommit/push（Pages更新用）
-      - name: Commit & Push RSS
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add steam_new_store.xml feed_*.xml || true
-          git commit -m "update feeds [skip ci]" || true
-          git pull --rebase || true
-          git push
+          if-no-files-found: warn
