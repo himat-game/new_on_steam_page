@@ -2,9 +2,10 @@ name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # 5分おき（UTC）
+    - cron: "*/30 * * * *"   # 30分おき（UTC基準）
   workflow_dispatch:
 
+# 同時実行を防止（長引いた場合は新しい方を優先）
 concurrency:
   group: steam-rss
   cancel-in-progress: true
@@ -16,13 +17,14 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - name: Show trigger and times
+      - name: Show trigger & times
         run: |
           echo "event=${{ github.event_name }}"
           echo "UTC:   $(date -u '+%Y-%m-%d %H:%M:%S')"
           echo "Local: $(date    '+%Y-%m-%d %H:%M:%S')"
 
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -31,61 +33,35 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps (light)
+      - name: Install dependencies
         run: |
-          python3 -m pip install -U pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install requests; fi
+          python -m pip install -U pip
+          pip install requests
 
-      - name: Restore state (if any)
-        uses: actions/download-artifact@v4
-        with:
-          name: state
-          path: state
-        continue-on-error: true
-
-      - name: Ensure state dir
-        run: mkdir -p state
-
-      - name: Fast-forward state cursor (hot tail)
-        env:
-          STATE_PATH: state/state.json.gz
-          HOT_TAIL_START: "262000"   # 直近ログの cursor_max(=262804) の少し手前
-        shell: bash
+      - name: Run steam_new_store_rss.py
         run: |
-          python3 - <<'PY'
-          import os, json, gzip, pathlib
-          state_path = os.environ.get("STATE_PATH", "state/state.json.gz")
-          target = int(os.environ.get("HOT_TAIL_START", "262000"))
+          python steam_new_store_rss.py
 
-          def load(path):
-              if not os.path.exists(path): return {}
-              if path.endswith(".gz"):
-                  with gzip.open(path, "rt", encoding="utf-8") as f: return json.load(f)
-              with open(path, "r", encoding="utf-8") as f: return json.load(f)
+      - name: Show outputs
+        run: |
+          ls -l
+          tail -n +1 feed_new.xml feed_updates.xml | head -n 50 || true
 
-          def dump(path, data):
-              pathlib.Path(os.path.dirname(path) or ".").mkdir(parents=True, exist_ok=True)
-              if path.endswith(".gz"):
-                  with gzip.open(path, "wt", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
-              else:
-                  with open(path, "w", encoding="utf-8") as f: json.dump(data, f, ensure_ascii=False)
+      - name: Commit & Push
+        run: |
+          set -euxo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          st = load(state_path) or {}
-          st.setdefault("seen", {})
-          st.setdefault("cursor", 0)
-          before = st["cursor"]
-          if before < target:
-              st["cursor"] = target
-          dump(state_path, st)
-          print(f"cursor: {before} -> {st['cursor']}  (seen={len(st['seen'])})")
-          PY
+          # .gitignoreにstate.jsonが書かれていても強制追加
+          git add -f state.json feed_new.xml feed_updates.xml || true
 
-      - name: Run script
-        run: python3 steam_new_store_rss.py --state-path "state/state.json.gz"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-      - name: Upload state
-        uses: actions/upload-artifact@v4
-        with:
-          name: state
-          path: state/state.json.gz
-          if-no-files-found: warn
+          git commit -m "update feeds & state [skip ci]" || true
+          git fetch origin
+          git pull --rebase
+          git push
