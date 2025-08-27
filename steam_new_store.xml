@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 27 Aug 2025 16:45:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 Aug 2025 17:32:16 +0000</lastBuildDate>
+<item>
+  <title>戦国英雄譚-Samurai Heroes-（新規追加）</title>
+  <link>https://store.steampowered.com/app/3891910/</link>
+  <guid isPermaLink="false">steam-store-published-3891910</guid>
+  <pubDate>Wed, 27 Aug 2025 17:32:16 +0000</pubDate>
+  <description>This is a highly flexible command RPG set in Japan&#x27;s Warring States period. There are over 85 playable factions and over 300 generals! All items have random titles and qualities! Enjoy collecting generals and items, and freely forming your troops!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891910/863585ed64bea4402d9c4670e9b13cc53ad7671e/header.jpg?t=1756312725" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891910/863585ed64bea4402d9c4670e9b13cc53ad7671e/header.jpg?t=1756312725" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891910/863585ed64bea4402d9c4670e9b13cc53ad7671e/header.jpg?t=1756312725" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3891910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891910/863585ed64bea4402d9c4670e9b13cc53ad7671e/header.jpg?t=1756312725" alt="戦国英雄譚-Samurai Heroes-（新規追加）" /></a></p><p>This is a highly flexible command RPG set in Japan&#x27;s Warring States period. There are over 85 playable factions and over 300 generals! All items have random titles and qualities! Enjoy collecting generals and items, and freely forming your troops!</p><p><a href="https://store.steampowered.com/app/3891910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Gravity Was A Mistake（新規追加）</title>
   <link>https://store.steampowered.com/app/3835630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976170/2d0f304153ed665ad199770b67e7cfd5a4920c85/header.jpg?t=1756228984" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976170/2d0f304153ed665ad199770b67e7cfd5a4920c85/header.jpg?t=1756228984" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3976170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976170/2d0f304153ed665ad199770b67e7cfd5a4920c85/header.jpg?t=1756228984" alt="Cube Game Server Boss（新規追加）" /></a></p><p>Feel the thrill of running you own cube game server! Experience the journey of building your server from the ground up by upgrading gamemodes, hiring staff, and more!</p><p><a href="https://store.steampowered.com/app/3976170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Train Sim World® 6: West Cornwall Local: Penzance - St Austell &amp; St Ives Route Add-On（新規追加）</title>
-  <link>https://store.steampowered.com/app/3662660/</link>
-  <guid isPermaLink="false">steam-store-published-3662660</guid>
-  <pubDate>Tue, 26 Aug 2025 18:48:13 +0000</pubDate>
-  <description>Take on a new steam-hauled challenge in Train Sim World®, tackle the Cornish countryside with regulator at full blast, race through forestry and power to the end of the line at Penzance in Rivet Games’ West Cornwall Steam Railtour Add-On!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662660/fe7c4053c652228cbd891090fca4dff06867b6a1/header.jpg?t=1756229512" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662660/fe7c4053c652228cbd891090fca4dff06867b6a1/header.jpg?t=1756229512" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662660/fe7c4053c652228cbd891090fca4dff06867b6a1/header.jpg?t=1756229512" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3662660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662660/fe7c4053c652228cbd891090fca4dff06867b6a1/header.jpg?t=1756229512" alt="Train Sim World® 6: West Cornwall Local: Penzance - St Austell &amp; St Ives Route Add-On（新規追加）" /></a></p><p>Take on a new steam-hauled challenge in Train Sim World®, tackle the Cornish countryside with regulator at full blast, race through forestry and power to the end of the line at Penzance in Rivet Games’ West Cornwall Steam Railtour Add-On!</p><p><a href="https://store.steampowered.com/app/3662660/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
