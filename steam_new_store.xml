@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 28 Aug 2025 05:35:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 Aug 2025 06:51:26 +0000</lastBuildDate>
+<item>
+  <title>Gorilla vs Yeti（新規追加）</title>
+  <link>https://store.steampowered.com/app/3952260/</link>
+  <guid isPermaLink="false">steam-store-published-3952260</guid>
+  <pubDate>Thu, 28 Aug 2025 06:51:26 +0000</pubDate>
+  <description>A nostalgic banana-throwing battle! Play as Gorilla or Yeti in turn-based, city-smashing chaos. Adjust your aim, topple skyscrapers, and relive a ‘90s classic—reborn with fresh visuals, destructible terrain, and pure arcade fun.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952260/8934ff9ddf41d30cd324ced9841b111aab6486c5/header.jpg?t=1756359933" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952260/8934ff9ddf41d30cd324ced9841b111aab6486c5/header.jpg?t=1756359933" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952260/8934ff9ddf41d30cd324ced9841b111aab6486c5/header.jpg?t=1756359933" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3952260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952260/8934ff9ddf41d30cd324ced9841b111aab6486c5/header.jpg?t=1756359933" alt="Gorilla vs Yeti（新規追加）" /></a></p><p>A nostalgic banana-throwing battle! Play as Gorilla or Yeti in turn-based, city-smashing chaos. Adjust your aim, topple skyscrapers, and relive a ‘90s classic—reborn with fresh visuals, destructible terrain, and pure arcade fun.</p><p><a href="https://store.steampowered.com/app/3952260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Zaxoid（新規追加）</title>
   <link>https://store.steampowered.com/app/2124050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725750/54c8c60f7bf94e413d0dc9651857044236ace12d/header.jpg?t=1756231745" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725750/54c8c60f7bf94e413d0dc9651857044236ace12d/header.jpg?t=1756231745" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3725750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725750/54c8c60f7bf94e413d0dc9651857044236ace12d/header.jpg?t=1756231745" alt="Satanic Puppeteer Orchestra: Phantom Quests（新規追加）" /></a></p><p>A story-first comedy adventure game about a robot, his human creator, and their band, who travel through strange towns (and time!) completing even stranger quests.</p><p><a href="https://store.steampowered.com/app/3725750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Virtual Reader (Personal VR Library)（新規追加）</title>
-  <link>https://store.steampowered.com/app/3917050/</link>
-  <guid isPermaLink="false">steam-store-published-3917050</guid>
-  <pubDate>Tue, 26 Aug 2025 19:38:50 +0000</pubDate>
-  <description>Read books in VR</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917050/e5afa72e8c2f4f2263332403e53510b5585a7d70/header.jpg?t=1756235398" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917050/e5afa72e8c2f4f2263332403e53510b5585a7d70/header.jpg?t=1756235398" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917050/e5afa72e8c2f4f2263332403e53510b5585a7d70/header.jpg?t=1756235398" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3917050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917050/e5afa72e8c2f4f2263332403e53510b5585a7d70/header.jpg?t=1756235398" alt="Virtual Reader (Personal VR Library)（新規追加）" /></a></p><p>Read books in VR</p><p><a href="https://store.steampowered.com/app/3917050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
