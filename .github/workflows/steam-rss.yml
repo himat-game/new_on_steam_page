@@ -2,7 +2,7 @@ name: steam-new-store-rss
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30分おき
+    - cron: "*/20 * * * *"   # 20分おき
   workflow_dispatch:
 
 # 同時実行を防ぐ（前回が長引いたら新しい方を優先）
