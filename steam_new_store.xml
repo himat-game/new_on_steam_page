@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 30 Aug 2025 10:45:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 Aug 2025 11:22:53 +0000</lastBuildDate>
+<item>
+  <title>Antro Soundtrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/3544360/</link>
+  <guid isPermaLink="false">steam-store-published-3544360</guid>
+  <pubDate>Sat, 30 Aug 2025 11:22:53 +0000</pubDate>
+  <description>ANTRO. The underground revolution. Join Nittch and Los Discordantes in the race to overthrow La Cúpula. In this rhythm, action, puzzle and 2.5D platforming game, music will be your ally! A rhythm and music-driven experience isn’t complete without its original soundtrack!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3544360/adca470fbfb275e082943011ceb756ae6f039559/header.jpg?t=1756549738" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3544360/adca470fbfb275e082943011ceb756ae6f039559/header.jpg?t=1756549738" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3544360/adca470fbfb275e082943011ceb756ae6f039559/header.jpg?t=1756549738" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3544360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3544360/adca470fbfb275e082943011ceb756ae6f039559/header.jpg?t=1756549738" alt="Antro Soundtrack（新規追加）" /></a></p><p>ANTRO. The underground revolution. Join Nittch and Los Discordantes in the race to overthrow La Cúpula. In this rhythm, action, puzzle and 2.5D platforming game, music will be your ally! A rhythm and music-driven experience isn’t complete without its original soundtrack!</p><p><a href="https://store.steampowered.com/app/3544360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Project S.U.N.D.I.A.L（新規追加）</title>
   <link>https://store.steampowered.com/app/3847450/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984790/c0834ec188b7ec6990fc0cfe530fe21049b07856/header.jpg?t=1756418581" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984790/c0834ec188b7ec6990fc0cfe530fe21049b07856/header.jpg?t=1756418581" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3984790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984790/c0834ec188b7ec6990fc0cfe530fe21049b07856/header.jpg?t=1756418581" alt="Cartoon Survivor Demo（新規追加）" /></a></p><p>type=demo, appid=3984790</p><p><a href="https://store.steampowered.com/app/3984790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Catch These Hands（新規追加）</title>
-  <link>https://store.steampowered.com/app/3953190/</link>
-  <guid isPermaLink="false">steam-store-published-3953190</guid>
-  <pubDate>Thu, 28 Aug 2025 22:33:29 +0000</pubDate>
-  <description>Physics-powered, webcam-based motion-controlled combat game where your real-world hand becomes a weapon against relentless liquid-metal enemies in a dystopian future.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953190/360841e47cee70a4b55131dcf32d6d4842bf7777/header.jpg?t=1756419724" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953190/360841e47cee70a4b55131dcf32d6d4842bf7777/header.jpg?t=1756419724" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953190/360841e47cee70a4b55131dcf32d6d4842bf7777/header.jpg?t=1756419724" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953190/360841e47cee70a4b55131dcf32d6d4842bf7777/header.jpg?t=1756419724" alt="Catch These Hands（新規追加）" /></a></p><p>Physics-powered, webcam-based motion-controlled combat game where your real-world hand becomes a weapon against relentless liquid-metal enemies in a dystopian future.</p><p><a href="https://store.steampowered.com/app/3953190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
