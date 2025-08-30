@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 30 Aug 2025 18:43:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 Aug 2025 19:44:32 +0000</lastBuildDate>
+<item>
+  <title>Let&#x27;s Pray（新規追加）</title>
+  <link>https://store.steampowered.com/app/3953440/</link>
+  <guid isPermaLink="false">steam-store-published-3953440</guid>
+  <pubDate>Sat, 30 Aug 2025 19:44:32 +0000</pubDate>
+  <description>Let&#x27;s Pray — an atmospheric horror game with a unique mechanic. Pray into your microphone in any language to save lost souls and banish evil, so that God may light your path… Experience the faith of a young nun in a dark forest filled with spirits, temptations, and her own sins.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953440/b13ef4b6eae9b590e0668c2fd079fd77d022e07b/header.jpg?t=1756579948" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953440/b13ef4b6eae9b590e0668c2fd079fd77d022e07b/header.jpg?t=1756579948" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953440/b13ef4b6eae9b590e0668c2fd079fd77d022e07b/header.jpg?t=1756579948" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953440/b13ef4b6eae9b590e0668c2fd079fd77d022e07b/header.jpg?t=1756579948" alt="Let&#x27;s Pray（新規追加）" /></a></p><p>Let&#x27;s Pray — an atmospheric horror game with a unique mechanic. Pray into your microphone in any language to save lost souls and banish evil, so that God may light your path… Experience the faith of a young nun in a dark forest filled with spirits, temptations, and her own sins.</p><p><a href="https://store.steampowered.com/app/3953440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>星息之绊 Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3986270/</link>
+  <guid isPermaLink="false">steam-store-published-3986270</guid>
+  <pubDate>Sat, 30 Aug 2025 19:44:32 +0000</pubDate>
+  <description>type=game, appid=3986270</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986270/f1ffb121ae08458db43fd82504783032cb1acef1/header.jpg?t=1756580197" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986270/f1ffb121ae08458db43fd82504783032cb1acef1/header.jpg?t=1756580197" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986270/f1ffb121ae08458db43fd82504783032cb1acef1/header.jpg?t=1756580197" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3986270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986270/f1ffb121ae08458db43fd82504783032cb1acef1/header.jpg?t=1756580197" alt="星息之绊 Playtest（新規追加）" /></a></p><p>type=game, appid=3986270</p><p><a href="https://store.steampowered.com/app/3986270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Loop My Crank（新規追加）</title>
   <link>https://store.steampowered.com/app/3936880/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969270/1d9e9ba7e6b3bf0b1f975e2eadbee7976d7731f3/header.jpg?t=1756443390" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969270/1d9e9ba7e6b3bf0b1f975e2eadbee7976d7731f3/header.jpg?t=1756443390" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3969270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969270/1d9e9ba7e6b3bf0b1f975e2eadbee7976d7731f3/header.jpg?t=1756443390" alt="SFX MAKER STUDIO（新規追加）" /></a></p><p>Transform text into pro sound effects instantly! Audio interpolation Algorithm-powered audio maker with built-in editor, effects library &amp;amp; workflow automation. Perfect for games, films &amp;amp; content creation. Make unlimited free sounds in seconds. Your complete audio production studio!</p><p><a href="https://store.steampowered.com/app/3969270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Death Hive Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3912340/</link>
-  <guid isPermaLink="false">steam-store-published-3912340</guid>
-  <pubDate>Fri, 29 Aug 2025 05:45:18 +0000</pubDate>
-  <description>A top-down zombie survival shooter with open exploration, powerful bosses, and scavenging for weapons, ammo, and supplies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912340/dd51367ee834406dd483c2f60a85baa3cf726fac/header.jpg?t=1756442435" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912340/dd51367ee834406dd483c2f60a85baa3cf726fac/header.jpg?t=1756442435" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912340/dd51367ee834406dd483c2f60a85baa3cf726fac/header.jpg?t=1756442435" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3912340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912340/dd51367ee834406dd483c2f60a85baa3cf726fac/header.jpg?t=1756442435" alt="Death Hive Demo（新規追加）" /></a></p><p>A top-down zombie survival shooter with open exploration, powerful bosses, and scavenging for weapons, ammo, and supplies.</p><p><a href="https://store.steampowered.com/app/3912340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Westview Academy - Wallpaper Pack（新規追加）</title>
-  <link>https://store.steampowered.com/app/3975080/</link>
-  <guid isPermaLink="false">steam-store-published-3975080</guid>
-  <pubDate>Fri, 29 Aug 2025 05:45:18 +0000</pubDate>
-  <description>A wallpaper collection featuring 4 4K special renders of your favorite love interests from Westview Academy!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975080/f9e0e2799775d80869dd3030250e2754007547e9/header.jpg?t=1756441462" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975080/f9e0e2799775d80869dd3030250e2754007547e9/header.jpg?t=1756441462" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975080/f9e0e2799775d80869dd3030250e2754007547e9/header.jpg?t=1756441462" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3975080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975080/f9e0e2799775d80869dd3030250e2754007547e9/header.jpg?t=1756441462" alt="Westview Academy - Wallpaper Pack（新規追加）" /></a></p><p>A wallpaper collection featuring 4 4K special renders of your favorite love interests from Westview Academy!</p><p><a href="https://store.steampowered.com/app/3975080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
