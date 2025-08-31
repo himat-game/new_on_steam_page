@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 31 Aug 2025 11:23:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 Aug 2025 11:44:36 +0000</lastBuildDate>
+<item>
+  <title>Squarely（新規追加）</title>
+  <link>https://store.steampowered.com/app/3880290/</link>
+  <guid isPermaLink="false">steam-store-published-3880290</guid>
+  <pubDate>Sun, 31 Aug 2025 11:44:36 +0000</pubDate>
+  <description>Squarely is a chilled-out puzzle game of precision and strategy. Push, Slide, Boost and Teleport your way through 200 handcrafted levels with no time pressure. Learn new mechanics as you advance, unlock colorful tiles, and challenge yourself to master each puzzle.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3880290/cc935c49f9e39ace4ef118ce8e0bca612b03fe78/header.jpg?t=1756637680" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3880290/cc935c49f9e39ace4ef118ce8e0bca612b03fe78/header.jpg?t=1756637680" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3880290/cc935c49f9e39ace4ef118ce8e0bca612b03fe78/header.jpg?t=1756637680" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3880290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3880290/cc935c49f9e39ace4ef118ce8e0bca612b03fe78/header.jpg?t=1756637680" alt="Squarely（新規追加）" /></a></p><p>Squarely is a chilled-out puzzle game of precision and strategy. Push, Slide, Boost and Teleport your way through 200 handcrafted levels with no time pressure. Learn new mechanics as you advance, unlock colorful tiles, and challenge yourself to master each puzzle.</p><p><a href="https://store.steampowered.com/app/3880290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Tales: Office Sex Handler（新規追加）</title>
   <link>https://store.steampowered.com/app/3953330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ab547b4cc95a68525092200605e1822ad25957f4/header.jpg?t=1756464019" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ab547b4cc95a68525092200605e1822ad25957f4/header.jpg?t=1756464019" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3959050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ab547b4cc95a68525092200605e1822ad25957f4/header.jpg?t=1756464019" alt="Siegeturtle（新規追加）" /></a></p><p>Upgrade your turtle, recruit cute animals, and blast through waves in an idle roguelite RPG. Swim farther each run, unlock new skills, and edge closer to home with every upgrade.</p><p><a href="https://store.steampowered.com/app/3959050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>MINIM（新規追加）</title>
-  <link>https://store.steampowered.com/app/2962370/</link>
-  <guid isPermaLink="false">steam-store-published-2962370</guid>
-  <pubDate>Fri, 29 Aug 2025 11:26:04 +0000</pubDate>
-  <description>A minimalist puzzle roguelite where strategy is survival. Your past moves repeat in reverse—use them, or be undone by them.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962370/bd5f5b02fe1cd01a70433f4a2e65be3d0538eb0a/header.jpg?t=1756462369" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962370/bd5f5b02fe1cd01a70433f4a2e65be3d0538eb0a/header.jpg?t=1756462369" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962370/bd5f5b02fe1cd01a70433f4a2e65be3d0538eb0a/header.jpg?t=1756462369" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2962370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962370/bd5f5b02fe1cd01a70433f4a2e65be3d0538eb0a/header.jpg?t=1756462369" alt="MINIM（新規追加）" /></a></p><p>A minimalist puzzle roguelite where strategy is survival. Your past moves repeat in reverse—use them, or be undone by them.</p><p><a href="https://store.steampowered.com/app/2962370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
