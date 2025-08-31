@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 31 Aug 2025 11:44:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 Aug 2025 13:05:03 +0000</lastBuildDate>
+<item>
+  <title>The Dead Thread（新規追加）</title>
+  <link>https://store.steampowered.com/app/3966070/</link>
+  <guid isPermaLink="false">steam-store-published-3966070</guid>
+  <pubDate>Sun, 31 Aug 2025 13:05:03 +0000</pubDate>
+  <description>Survive a 3rd-person horror world facing relentless bosses and alluring undead. Manage your inventory, make every bullet count, craft and repair clothes, which can mean the difference between survival and death. Sometimes, hiding from towering enemies may be your only chance when brute force fails.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966070/675de4c811fd5721f91ec866ab3f53af316113b2/header.jpg?t=1756639817" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966070/675de4c811fd5721f91ec866ab3f53af316113b2/header.jpg?t=1756639817" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966070/675de4c811fd5721f91ec866ab3f53af316113b2/header.jpg?t=1756639817" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3966070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966070/675de4c811fd5721f91ec866ab3f53af316113b2/header.jpg?t=1756639817" alt="The Dead Thread（新規追加）" /></a></p><p>Survive a 3rd-person horror world facing relentless bosses and alluring undead. Manage your inventory, make every bullet count, craft and repair clothes, which can mean the difference between survival and death. Sometimes, hiding from towering enemies may be your only chance when brute force fails.</p><p><a href="https://store.steampowered.com/app/3966070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Iron Horde（新規追加）</title>
+  <link>https://store.steampowered.com/app/3939710/</link>
+  <guid isPermaLink="false">steam-store-published-3939710</guid>
+  <pubDate>Sun, 31 Aug 2025 13:05:03 +0000</pubDate>
+  <description>Immersive jet combat simulator featuring modern fighters, realistic physics, and tactical PvP. Engage in solo missions or split-screen and online dogfights to dominate the skies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939710/6a2e4f0f6addc947c892bd34e77b086fef265819/header.jpg?t=1756641054" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939710/6a2e4f0f6addc947c892bd34e77b086fef265819/header.jpg?t=1756641054" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939710/6a2e4f0f6addc947c892bd34e77b086fef265819/header.jpg?t=1756641054" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3939710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939710/6a2e4f0f6addc947c892bd34e77b086fef265819/header.jpg?t=1756641054" alt="Iron Horde（新規追加）" /></a></p><p>Immersive jet combat simulator featuring modern fighters, realistic physics, and tactical PvP. Engage in solo missions or split-screen and online dogfights to dominate the skies.</p><p><a href="https://store.steampowered.com/app/3939710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Squarely（新規追加）</title>
   <link>https://store.steampowered.com/app/3880290/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714400/856be379bddf561ef846f7a059d0308e465c231c/header.jpg?t=1756468961" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714400/856be379bddf561ef846f7a059d0308e465c231c/header.jpg?t=1756468961" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3714400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714400/856be379bddf561ef846f7a059d0308e465c231c/header.jpg?t=1756468961" alt="Echoes of Red（新規追加）" /></a></p><p>Echoes of Red is a fast-paced roguelite shooter where you can carry tons of weapons at once, face endless enemies ever stronger and build your perfect custom loadout. Obliterate tens of thousands of enemies who dared to challenge you and make them regret standing against you.</p><p><a href="https://store.steampowered.com/app/3714400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RAFT Days Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3728350/</link>
-  <guid isPermaLink="false">steam-store-published-3728350</guid>
-  <pubDate>Fri, 29 Aug 2025 13:19:17 +0000</pubDate>
-  <description>RAFT Days is a Sokoban-like puzzle + simple trading game. You travel across the sea from port to port, loading goods and tools onto your ship. You can save money by trading, expand your raft, hire sailors to help you, and enrich your journey. The waves and winds make this game relaxing to play.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728350/2b6f081aa421f2458c2cc8f36f8bb427aec5f194/header.jpg?t=1756467758" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728350/2b6f081aa421f2458c2cc8f36f8bb427aec5f194/header.jpg?t=1756467758" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728350/2b6f081aa421f2458c2cc8f36f8bb427aec5f194/header.jpg?t=1756467758" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3728350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728350/2b6f081aa421f2458c2cc8f36f8bb427aec5f194/header.jpg?t=1756467758" alt="RAFT Days Demo（新規追加）" /></a></p><p>RAFT Days is a Sokoban-like puzzle + simple trading game. You travel across the sea from port to port, loading goods and tools onto your ship. You can save money by trading, expand your raft, hire sailors to help you, and enrich your journey. The waves and winds make this game relaxing to play.</p><p><a href="https://store.steampowered.com/app/3728350/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Siegeturtle（新規追加）</title>
-  <link>https://store.steampowered.com/app/3959050/</link>
-  <guid isPermaLink="false">steam-store-published-3959050</guid>
-  <pubDate>Fri, 29 Aug 2025 11:26:04 +0000</pubDate>
-  <description>Upgrade your turtle, recruit cute animals, and blast through waves in an idle roguelite RPG. Swim farther each run, unlock new skills, and edge closer to home with every upgrade.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ab547b4cc95a68525092200605e1822ad25957f4/header.jpg?t=1756464019" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ab547b4cc95a68525092200605e1822ad25957f4/header.jpg?t=1756464019" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ab547b4cc95a68525092200605e1822ad25957f4/header.jpg?t=1756464019" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3959050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959050/ab547b4cc95a68525092200605e1822ad25957f4/header.jpg?t=1756464019" alt="Siegeturtle（新規追加）" /></a></p><p>Upgrade your turtle, recruit cute animals, and blast through waves in an idle roguelite RPG. Swim farther each run, unlock new skills, and edge closer to home with every upgrade.</p><p><a href="https://store.steampowered.com/app/3959050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
