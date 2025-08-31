@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 31 Aug 2025 21:44:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 31 Aug 2025 23:28:49 +0000</lastBuildDate>
+<item>
+  <title>Everything Store（新規追加）</title>
+  <link>https://store.steampowered.com/app/3975960/</link>
+  <guid isPermaLink="false">steam-store-published-3975960</guid>
+  <pubDate>Sun, 31 Aug 2025 23:28:49 +0000</pubDate>
+  <description>Everything Store is a game where you can manage your own thrift shop! Buy items, fit them into your store and sell them by negotiating with customers!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975960/1e6e19c33c64b1221a9b385e0deb67a6a475f7da/header.jpg?t=1756679442" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975960/1e6e19c33c64b1221a9b385e0deb67a6a475f7da/header.jpg?t=1756679442" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975960/1e6e19c33c64b1221a9b385e0deb67a6a475f7da/header.jpg?t=1756679442" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3975960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975960/1e6e19c33c64b1221a9b385e0deb67a6a475f7da/header.jpg?t=1756679442" alt="Everything Store（新規追加）" /></a></p><p>Everything Store is a game where you can manage your own thrift shop! Buy items, fit them into your store and sell them by negotiating with customers!</p><p><a href="https://store.steampowered.com/app/3975960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Malleus Maleficarum（新規追加）</title>
   <link>https://store.steampowered.com/app/3964560/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802770/9db5d44519cd51f90093472316fa85033b10b9b1/header.jpg?t=1756475790" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802770/9db5d44519cd51f90093472316fa85033b10b9b1/header.jpg?t=1756475790" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3802770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802770/9db5d44519cd51f90093472316fa85033b10b9b1/header.jpg?t=1756475790" alt="BLOODVILLE（新規追加）" /></a></p><p>BLOODVILLE is a retro FPS game where you play as Cane, a retired hitman dragged back into killing - and slowly losing his mind.</p><p><a href="https://store.steampowered.com/app/3802770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Withdrawal Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3967370/</link>
-  <guid isPermaLink="false">steam-store-published-3967370</guid>
-  <pubDate>Fri, 29 Aug 2025 14:49:08 +0000</pubDate>
-  <description>An FPS roguelike heist. Play as Mr. (?) Norton on his way to exterminate the whole headquarters of the Cranterry Wealth Corporation.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967370/b7e53c03ec756dea488da4130bc3f81d9d5b52c9/header.jpg?t=1756476354" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967370/b7e53c03ec756dea488da4130bc3f81d9d5b52c9/header.jpg?t=1756476354" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967370/b7e53c03ec756dea488da4130bc3f81d9d5b52c9/header.jpg?t=1756476354" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3967370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967370/b7e53c03ec756dea488da4130bc3f81d9d5b52c9/header.jpg?t=1756476354" alt="Withdrawal Demo（新規追加）" /></a></p><p>An FPS roguelike heist. Play as Mr. (?) Norton on his way to exterminate the whole headquarters of the Cranterry Wealth Corporation.</p><p><a href="https://store.steampowered.com/app/3967370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
