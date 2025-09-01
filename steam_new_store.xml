@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 01 Sep 2025 22:45:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Sep 2025 23:44:22 +0000</lastBuildDate>
+<item>
+  <title>キミが消えてしまう前に（新規追加）</title>
+  <link>https://store.steampowered.com/app/3971860/</link>
+  <guid isPermaLink="false">steam-store-published-3971860</guid>
+  <pubDate>Mon, 01 Sep 2025 23:44:22 +0000</pubDate>
+  <description>A visual novel game where you spend an exciting school life in an abandoned school with ghost girls who have regrets and cannot rest in peace.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971860/5cfadcb4e7789714e9e366a4d34ea9c9b3b45d28/header.jpg?t=1756767468" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971860/5cfadcb4e7789714e9e366a4d34ea9c9b3b45d28/header.jpg?t=1756767468" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971860/5cfadcb4e7789714e9e366a4d34ea9c9b3b45d28/header.jpg?t=1756767468" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3971860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971860/5cfadcb4e7789714e9e366a4d34ea9c9b3b45d28/header.jpg?t=1756767468" alt="キミが消えてしまう前に（新規追加）" /></a></p><p>A visual novel game where you spend an exciting school life in an abandoned school with ghost girls who have regrets and cannot rest in peace.</p><p><a href="https://store.steampowered.com/app/3971860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Infinite Game Cartridge Collection - Recoil Zombie（新規追加）</title>
   <link>https://store.steampowered.com/app/3982200/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985820/5da6be75f719041d971f832d3c2bcc2a1c05f6ac/header.jpg?t=1756490751" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985820/5da6be75f719041d971f832d3c2bcc2a1c05f6ac/header.jpg?t=1756490751" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2985820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985820/5da6be75f719041d971f832d3c2bcc2a1c05f6ac/header.jpg?t=1756490751" alt="The Last Tater Demo（新規追加）" /></a></p><p>type=demo, appid=2985820</p><p><a href="https://store.steampowered.com/app/2985820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Spintronics Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3683300/</link>
-  <guid isPermaLink="false">steam-store-published-3683300</guid>
-  <pubDate>Fri, 29 Aug 2025 19:22:52 +0000</pubDate>
-  <description>A labyrinth computer program to train you for your new body. A puzzle platformer game set in the future when body transplants have become a reality.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683300/3a26257bc1f0e12cc856cd32dbaf7a0f6fafb3a9/header.jpg?t=1756494597" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683300/3a26257bc1f0e12cc856cd32dbaf7a0f6fafb3a9/header.jpg?t=1756494597" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683300/3a26257bc1f0e12cc856cd32dbaf7a0f6fafb3a9/header.jpg?t=1756494597" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3683300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683300/3a26257bc1f0e12cc856cd32dbaf7a0f6fafb3a9/header.jpg?t=1756494597" alt="Spintronics Demo（新規追加）" /></a></p><p>A labyrinth computer program to train you for your new body. A puzzle platformer game set in the future when body transplants have become a reality.</p><p><a href="https://store.steampowered.com/app/3683300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
