@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 02 Sep 2025 13:37:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Sep 2025 14:42:53 +0000</lastBuildDate>
+<item>
+  <title>海子 UMIKO（新規追加）</title>
+  <link>https://store.steampowered.com/app/3350160/</link>
+  <guid isPermaLink="false">steam-store-published-3350160</guid>
+  <pubDate>Tue, 02 Sep 2025 14:42:53 +0000</pubDate>
+  <description>&amp;quot;海子 UMIKO&amp;quot; is a psychological horror visual novel. Engage in conversations with Umiko, complete various mini-games, solve puzzles, and gradually piece together the dark truths she tries to hide about herself and her dimension from fragmented narratives. Preserve your fragile friendship for a week!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350160/48749835c4ca9983d7d4834eb2f7dd403041a50c/header.jpg?t=1756820689" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350160/48749835c4ca9983d7d4834eb2f7dd403041a50c/header.jpg?t=1756820689" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350160/48749835c4ca9983d7d4834eb2f7dd403041a50c/header.jpg?t=1756820689" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3350160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350160/48749835c4ca9983d7d4834eb2f7dd403041a50c/header.jpg?t=1756820689" alt="海子 UMIKO（新規追加）" /></a></p><p>&amp;quot;海子 UMIKO&amp;quot; is a psychological horror visual novel. Engage in conversations with Umiko, complete various mini-games, solve puzzles, and gradually piece together the dark truths she tries to hide about herself and her dimension from fragmented narratives. Preserve your fragile friendship for a week!</p><p><a href="https://store.steampowered.com/app/3350160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Divine Quest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3410440/</link>
+  <guid isPermaLink="false">steam-store-published-3410440</guid>
+  <pubDate>Tue, 02 Sep 2025 14:42:53 +0000</pubDate>
+  <description>In &amp;quot;Divine Quest,&amp;quot; you become the last guardian of the Holy Land, fighting against heretics that surge forth like waves. Up to 4 Crusader knights unite as one to defend sacred ground, achieving victory in seemingly impossible battles through cooperation and strategy!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410440/30afe62d8802bb76347492314224571bdf9a9d42/header.jpg?t=1756819219" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410440/30afe62d8802bb76347492314224571bdf9a9d42/header.jpg?t=1756819219" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410440/30afe62d8802bb76347492314224571bdf9a9d42/header.jpg?t=1756819219" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3410440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410440/30afe62d8802bb76347492314224571bdf9a9d42/header.jpg?t=1756819219" alt="Divine Quest（新規追加）" /></a></p><p>In &amp;quot;Divine Quest,&amp;quot; you become the last guardian of the Holy Land, fighting against heretics that surge forth like waves. Up to 4 Crusader knights unite as one to defend sacred ground, achieving victory in seemingly impossible battles through cooperation and strategy!</p><p><a href="https://store.steampowered.com/app/3410440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Chronos Bound: How We Became Heroes Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3971250/</link>
+  <guid isPermaLink="false">steam-store-published-3971250</guid>
+  <pubDate>Tue, 02 Sep 2025 14:42:53 +0000</pubDate>
+  <description>type=demo, appid=3971250</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971250/46671ed1c2c9eb25f74dda2efaae505ca6280802/header.jpg?t=1756821376" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971250/46671ed1c2c9eb25f74dda2efaae505ca6280802/header.jpg?t=1756821376" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971250/46671ed1c2c9eb25f74dda2efaae505ca6280802/header.jpg?t=1756821376" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3971250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971250/46671ed1c2c9eb25f74dda2efaae505ca6280802/header.jpg?t=1756821376" alt="Chronos Bound: How We Became Heroes Demo（新規追加）" /></a></p><p>type=demo, appid=3971250</p><p><a href="https://store.steampowered.com/app/3971250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dust &amp; Diesel: Deadland Delivery Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3937020/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990020/f0c2034dc9708494a89e4717326ff74dfe08a71b/header.jpg?t=1756513027" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990020/f0c2034dc9708494a89e4717326ff74dfe08a71b/header.jpg?t=1756513027" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3990020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990020/f0c2034dc9708494a89e4717326ff74dfe08a71b/header.jpg?t=1756513027" alt="A Blade for the Emperor（新規追加）" /></a></p><p>An interactive fiction epic fantasy.</p><p><a href="https://store.steampowered.com/app/3990020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>我家大师兄无尽重生（新規追加）</title>
-  <link>https://store.steampowered.com/app/3532590/</link>
-  <guid isPermaLink="false">steam-store-published-3532590</guid>
-  <pubDate>Sat, 30 Aug 2025 03:06:34 +0000</pubDate>
-  <description>This game is an adaptation of the manga &amp;quot;My Senior Brother has a Brain Pit&amp;quot; and has been officially authorized. It was created by the original author of the manga, Ling Yumo.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532590/277b6fe4e8219b4bf857f04b25c4becb8f0042f8/header.jpg?t=1756519701" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532590/277b6fe4e8219b4bf857f04b25c4becb8f0042f8/header.jpg?t=1756519701" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532590/277b6fe4e8219b4bf857f04b25c4becb8f0042f8/header.jpg?t=1756519701" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3532590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532590/277b6fe4e8219b4bf857f04b25c4becb8f0042f8/header.jpg?t=1756519701" alt="我家大师兄无尽重生（新規追加）" /></a></p><p>This game is an adaptation of the manga &amp;quot;My Senior Brother has a Brain Pit&amp;quot; and has been officially authorized. It was created by the original author of the manga, Ling Yumo.</p><p><a href="https://store.steampowered.com/app/3532590/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Barus（新規追加）</title>
-  <link>https://store.steampowered.com/app/3986790/</link>
-  <guid isPermaLink="false">steam-store-published-3986790</guid>
-  <pubDate>Sat, 30 Aug 2025 03:06:34 +0000</pubDate>
-  <description>Blast off in Barus, a unique roguelike where you battle your way back home from Earth. Earn Gems and power your 12 unique weapons by making poker hands. Use the shop to upgrade your Quarks and weapons to defeat bosses and escape the cosmos.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986790/66e0abf2af0ac1fd8ca73bb40cf1907ce4e40cfd/header.jpg?t=1756516200" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986790/66e0abf2af0ac1fd8ca73bb40cf1907ce4e40cfd/header.jpg?t=1756516200" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986790/66e0abf2af0ac1fd8ca73bb40cf1907ce4e40cfd/header.jpg?t=1756516200" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3986790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986790/66e0abf2af0ac1fd8ca73bb40cf1907ce4e40cfd/header.jpg?t=1756516200" alt="Barus（新規追加）" /></a></p><p>Blast off in Barus, a unique roguelike where you battle your way back home from Earth. Earn Gems and power your 12 unique weapons by making poker hands. Use the shop to upgrade your Quarks and weapons to defeat bosses and escape the cosmos.</p><p><a href="https://store.steampowered.com/app/3986790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Street 42 Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3968720/</link>
-  <guid isPermaLink="false">steam-store-published-3968720</guid>
-  <pubDate>Sat, 30 Aug 2025 03:06:34 +0000</pubDate>
-  <description>Street 42 is a short psychological true first person horror game where you play as a worker, your job is to end what your friend couldn&#x27;t.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968720/ddde7a005733e29e8e28828ff26e376045369fc8/header.jpg?t=1756522265" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968720/ddde7a005733e29e8e28828ff26e376045369fc8/header.jpg?t=1756522265" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968720/ddde7a005733e29e8e28828ff26e376045369fc8/header.jpg?t=1756522265" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3968720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968720/ddde7a005733e29e8e28828ff26e376045369fc8/header.jpg?t=1756522265" alt="Street 42 Demo（新規追加）" /></a></p><p>Street 42 is a short psychological true first person horror game where you play as a worker, your job is to end what your friend couldn&#x27;t.</p><p><a href="https://store.steampowered.com/app/3968720/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
