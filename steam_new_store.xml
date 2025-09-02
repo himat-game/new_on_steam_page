@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 02 Sep 2025 05:49:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Sep 2025 06:53:27 +0000</lastBuildDate>
+<item>
+  <title>CONTAMINANT Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3913050/</link>
+  <guid isPermaLink="false">steam-store-published-3913050</guid>
+  <pubDate>Tue, 02 Sep 2025 06:53:27 +0000</pubDate>
+  <description>type=game, appid=3913050</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913050/b28a853f3e2cf9b6f07e00e956eed9204f554a5a/header.jpg?t=1756794231" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913050/b28a853f3e2cf9b6f07e00e956eed9204f554a5a/header.jpg?t=1756794231" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913050/b28a853f3e2cf9b6f07e00e956eed9204f554a5a/header.jpg?t=1756794231" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3913050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913050/b28a853f3e2cf9b6f07e00e956eed9204f554a5a/header.jpg?t=1756794231" alt="CONTAMINANT Playtest（新規追加）" /></a></p><p>type=game, appid=3913050</p><p><a href="https://store.steampowered.com/app/3913050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Shan Hai : Mythic Origins Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3639350/</link>
+  <guid isPermaLink="false">steam-store-published-3639350</guid>
+  <pubDate>Tue, 02 Sep 2025 06:53:27 +0000</pubDate>
+  <description>Shan Hai: Myth Origins Demo is a MOBA-style action roguelike inspired by the Shanhaijing. Forge divine weapons, master the Five Elements, collect artifacts, bind spirits, capture beasts. Play solo or up to 4-player co-op.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639350/6fa7700fb6d421981f8f2bd89376c1fb32d7defb/header.jpg?t=1756794157" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639350/6fa7700fb6d421981f8f2bd89376c1fb32d7defb/header.jpg?t=1756794157" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639350/6fa7700fb6d421981f8f2bd89376c1fb32d7defb/header.jpg?t=1756794157" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3639350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639350/6fa7700fb6d421981f8f2bd89376c1fb32d7defb/header.jpg?t=1756794157" alt="Shan Hai : Mythic Origins Demo（新規追加）" /></a></p><p>Shan Hai: Myth Origins Demo is a MOBA-style action roguelike inspired by the Shanhaijing. Forge divine weapons, master the Five Elements, collect artifacts, bind spirits, capture beasts. Play solo or up to 4-player co-op.</p><p><a href="https://store.steampowered.com/app/3639350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Noctuary: Lite Version（新規追加）</title>
+  <link>https://store.steampowered.com/app/3915560/</link>
+  <guid isPermaLink="false">steam-store-published-3915560</guid>
+  <pubDate>Tue, 02 Sep 2025 06:53:27 +0000</pubDate>
+  <description>To meet the needs of more players and improve the gameplay experience, we are officially releasing the Noctuary Lite Version DLC! How to play: After downloading the Lite Version DLC, simply click Play Now. It will replace the base game and launch in Lite Version mode.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915560/cdb02ea056889254411193fd3f5b8bcec675834d/header.jpg?t=1756794527" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915560/cdb02ea056889254411193fd3f5b8bcec675834d/header.jpg?t=1756794527" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915560/cdb02ea056889254411193fd3f5b8bcec675834d/header.jpg?t=1756794527" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3915560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915560/cdb02ea056889254411193fd3f5b8bcec675834d/header.jpg?t=1756794527" alt="Noctuary: Lite Version（新規追加）" /></a></p><p>To meet the needs of more players and improve the gameplay experience, we are officially releasing the Noctuary Lite Version DLC! How to play: After downloading the Lite Version DLC, simply click Play Now. It will replace the base game and launch in Lite Version mode.</p><p><a href="https://store.steampowered.com/app/3915560/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bedrotting Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/3963500/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986810/d5c9c896ed9b326c05f6cc57db0cf1faea77eb2e/header.jpg?t=1756502356" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986810/d5c9c896ed9b326c05f6cc57db0cf1faea77eb2e/header.jpg?t=1756502356" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3986810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986810/d5c9c896ed9b326c05f6cc57db0cf1faea77eb2e/header.jpg?t=1756502356" alt="Ethics Empire（新規追加）" /></a></p><p>Ethics Empire is a strategy business management simulator with an ethical twist and a simple low poly 3D art style.</p><p><a href="https://store.steampowered.com/app/3986810/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Jonny&#x27;s Medieval Adventure（新規追加）</title>
-  <link>https://store.steampowered.com/app/3989860/</link>
-  <guid isPermaLink="false">steam-store-published-3989860</guid>
-  <pubDate>Fri, 29 Aug 2025 21:44:20 +0000</pubDate>
-  <description>Head On an Epic Medieval Adventure, travel across the kingdom, fight crazy monsters, customize your character in the world of Jonny&#x27;s Medieval Adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989860/1f33674794fbb04d5f70b34490599f818e753635/header.jpg?t=1756500926" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989860/1f33674794fbb04d5f70b34490599f818e753635/header.jpg?t=1756500926" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989860/1f33674794fbb04d5f70b34490599f818e753635/header.jpg?t=1756500926" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3989860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989860/1f33674794fbb04d5f70b34490599f818e753635/header.jpg?t=1756500926" alt="Jonny&#x27;s Medieval Adventure（新規追加）" /></a></p><p>Head On an Epic Medieval Adventure, travel across the kingdom, fight crazy monsters, customize your character in the world of Jonny&#x27;s Medieval Adventure.</p><p><a href="https://store.steampowered.com/app/3989860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Legend of Deck（新規追加）</title>
-  <link>https://store.steampowered.com/app/3988270/</link>
-  <guid isPermaLink="false">steam-store-published-3988270</guid>
-  <pubDate>Fri, 29 Aug 2025 21:44:20 +0000</pubDate>
-  <description>A card and deck-building game where strategy is key! Face off against your friends or other players online in a heroic fantasy universe, build the perfect deck, and cast spectacular spells in intense duels.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988270/1de325182eb5a53bed55c7ef1906a6fd670d1c4b/header.jpg?t=1756503502" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988270/1de325182eb5a53bed55c7ef1906a6fd670d1c4b/header.jpg?t=1756503502" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988270/1de325182eb5a53bed55c7ef1906a6fd670d1c4b/header.jpg?t=1756503502" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3988270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988270/1de325182eb5a53bed55c7ef1906a6fd670d1c4b/header.jpg?t=1756503502" alt="Legend of Deck（新規追加）" /></a></p><p>A card and deck-building game where strategy is key! Face off against your friends or other players online in a heroic fantasy universe, build the perfect deck, and cast spectacular spells in intense duels.</p><p><a href="https://store.steampowered.com/app/3988270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Leonardo&#x27;s Island - Origins Soundtrack（新規追加）</title>
-  <link>https://store.steampowered.com/app/3989300/</link>
-  <guid isPermaLink="false">steam-store-published-3989300</guid>
-  <pubDate>Fri, 29 Aug 2025 21:44:20 +0000</pubDate>
-  <description>Soundtracks Full Edition of Leonardo’s Island – Origins A complete package featuring two unique themes for each part of the game: day, night, construction, and battle.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989300/660b01e115a4fc2a3c63675b56862e4a74115567/header.jpg?t=1756503760" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989300/660b01e115a4fc2a3c63675b56862e4a74115567/header.jpg?t=1756503760" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989300/660b01e115a4fc2a3c63675b56862e4a74115567/header.jpg?t=1756503760" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3989300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989300/660b01e115a4fc2a3c63675b56862e4a74115567/header.jpg?t=1756503760" alt="Leonardo&#x27;s Island - Origins Soundtrack（新規追加）" /></a></p><p>Soundtracks Full Edition of Leonardo’s Island – Origins A complete package featuring two unique themes for each part of the game: day, night, construction, and battle.</p><p><a href="https://store.steampowered.com/app/3989300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
