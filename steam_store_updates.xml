@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 02 Sep 2025 09:47:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Sep 2025 23:44:05 +0000</lastBuildDate>
+<item>
+  <title>Next Run（ヘッダー画像更新 / カプセル画像更新）</title>
+  <link>https://store.steampowered.com/app/1295870/</link>
+  <guid isPermaLink="false">steam-store-update-1295870-1756856724</guid>
+  <pubDate>Tue, 02 Sep 2025 23:44:05 +0000</pubDate>
+  <description>カプセル画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/9a6086233e6b3ba5b0986618c99efdb3adf9e014/capsule_184x69.jpg?t=1756114757 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/9a6086233e6b3ba5b0986618c99efdb3adf9e014/capsule_184x69.jpg?t=1756786778; ヘッダー画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756114757 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756786778</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756786778" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756786778" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756786778" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1295870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756786778" alt="Next Run（ヘッダー画像更新 / カプセル画像更新）" /></a></p><p>カプセル画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/9a6086233e6b3ba5b0986618c99efdb3adf9e014/capsule_184x69.jpg?t=1756114757 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/9a6086233e6b3ba5b0986618c99efdb3adf9e014/capsule_184x69.jpg?t=1756786778; ヘッダー画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756114757 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295870/d0f070db15f9282b4198bdc996ceb21ca7a018c9/header.jpg?t=1756786778</p><p><a href="https://store.steampowered.com/app/1295870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SUPER PEOPLE（ヘッダー画像更新 / カプセル画像更新）</title>
   <link>https://store.steampowered.com/app/1190340/</link>
