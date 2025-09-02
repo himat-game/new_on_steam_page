@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 02 Sep 2025 06:53:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Sep 2025 07:45:07 +0000</lastBuildDate>
+<item>
+  <title>Outcity Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3907890/</link>
+  <guid isPermaLink="false">steam-store-published-3907890</guid>
+  <pubDate>Tue, 02 Sep 2025 07:45:07 +0000</pubDate>
+  <description>Your first village in Outcity awaits! Free demo with everything you need to get a taste of what&#x27;s coming. Download and start building!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907890/3210ec0660eeca580cec6913346be3d1b59bb585/header.jpg?t=1756795936" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907890/3210ec0660eeca580cec6913346be3d1b59bb585/header.jpg?t=1756795936" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907890/3210ec0660eeca580cec6913346be3d1b59bb585/header.jpg?t=1756795936" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3907890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907890/3210ec0660eeca580cec6913346be3d1b59bb585/header.jpg?t=1756795936" alt="Outcity Demo（新規追加）" /></a></p><p>Your first village in Outcity awaits! Free demo with everything you need to get a taste of what&#x27;s coming. Download and start building!</p><p><a href="https://store.steampowered.com/app/3907890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>CONTAMINANT Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3913050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971310/c012ec2448e411e4c3de9670f93f98820093b4d0/header.jpg?t=1756503677" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971310/c012ec2448e411e4c3de9670f93f98820093b4d0/header.jpg?t=1756503677" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3971310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971310/c012ec2448e411e4c3de9670f93f98820093b4d0/header.jpg?t=1756503677" alt="Leonardo&#x27;s Island - Origins（新規追加）" /></a></p><p>You wake up on a deserted island. To complete missions, you must build. Gather wood, rope, and stone to construct your home and later your boat. A relaxing building experience on your island.</p><p><a href="https://store.steampowered.com/app/3971310/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ethics Empire（新規追加）</title>
-  <link>https://store.steampowered.com/app/3986810/</link>
-  <guid isPermaLink="false">steam-store-published-3986810</guid>
-  <pubDate>Fri, 29 Aug 2025 21:44:20 +0000</pubDate>
-  <description>Ethics Empire is a strategy business management simulator with an ethical twist and a simple low poly 3D art style.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986810/d5c9c896ed9b326c05f6cc57db0cf1faea77eb2e/header.jpg?t=1756502356" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986810/d5c9c896ed9b326c05f6cc57db0cf1faea77eb2e/header.jpg?t=1756502356" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986810/d5c9c896ed9b326c05f6cc57db0cf1faea77eb2e/header.jpg?t=1756502356" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3986810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986810/d5c9c896ed9b326c05f6cc57db0cf1faea77eb2e/header.jpg?t=1756502356" alt="Ethics Empire（新規追加）" /></a></p><p>Ethics Empire is a strategy business management simulator with an ethical twist and a simple low poly 3D art style.</p><p><a href="https://store.steampowered.com/app/3986810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
