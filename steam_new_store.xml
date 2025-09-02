@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 02 Sep 2025 10:41:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Sep 2025 11:26:47 +0000</lastBuildDate>
+<item>
+  <title>黑小丑的迷宫 Black Joker&#x27;s Maze（新規追加）</title>
+  <link>https://store.steampowered.com/app/3939110/</link>
+  <guid isPermaLink="false">steam-store-published-3939110</guid>
+  <pubDate>Tue, 02 Sep 2025 11:26:47 +0000</pubDate>
+  <description>In this turn-based single-player card-based dungeon game, you must brave the dungeon with a deck consisting of only one deck of playing cards. Along the way, you will encounter minions of the black joker, defeating them to obtain loot, strengthen your stats, and ultimately defeat the black joker</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939110/482b362b1f5166f9304299923616cc6abfc4ff0b/header.jpg?t=1756809284" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939110/482b362b1f5166f9304299923616cc6abfc4ff0b/header.jpg?t=1756809284" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939110/482b362b1f5166f9304299923616cc6abfc4ff0b/header.jpg?t=1756809284" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3939110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939110/482b362b1f5166f9304299923616cc6abfc4ff0b/header.jpg?t=1756809284" alt="黑小丑的迷宫 Black Joker&#x27;s Maze（新規追加）" /></a></p><p>In this turn-based single-player card-based dungeon game, you must brave the dungeon with a deck consisting of only one deck of playing cards. Along the way, you will encounter minions of the black joker, defeating them to obtain loot, strengthen your stats, and ultimately defeat the black joker</p><p><a href="https://store.steampowered.com/app/3939110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Idle Rect（新規追加）</title>
   <link>https://store.steampowered.com/app/3979210/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3973060/a9a6126f8c55f15b869c1afeb350ea3fe8a3e548/header.jpg?t=1756508196" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3973060/a9a6126f8c55f15b869c1afeb350ea3fe8a3e548/header.jpg?t=1756508196" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3973060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3973060/a9a6126f8c55f15b869c1afeb350ea3fe8a3e548/header.jpg?t=1756508196" alt="NEUROXUS（新規追加）" /></a></p><p>A third-person, mech-powered, fast-paced shooter with roguelite elements—Doom-like intensity in a lifeless machine-ruled world.</p><p><a href="https://store.steampowered.com/app/3973060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>NEUROXUS Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3982870/</link>
-  <guid isPermaLink="false">steam-store-published-3982870</guid>
-  <pubDate>Fri, 29 Aug 2025 23:44:18 +0000</pubDate>
-  <description>type=demo, appid=3982870</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982870/be94ca31133056089dfe33e1e8555b25c1ff151e/header.jpg?t=1756509057" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982870/be94ca31133056089dfe33e1e8555b25c1ff151e/header.jpg?t=1756509057" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982870/be94ca31133056089dfe33e1e8555b25c1ff151e/header.jpg?t=1756509057" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3982870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982870/be94ca31133056089dfe33e1e8555b25c1ff151e/header.jpg?t=1756509057" alt="NEUROXUS Demo（新規追加）" /></a></p><p>type=demo, appid=3982870</p><p><a href="https://store.steampowered.com/app/3982870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
