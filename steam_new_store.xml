@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 04 Sep 2025 20:44:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 21:44:40 +0000</lastBuildDate>
+<item>
+  <title>Operation Purge Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3980640/</link>
+  <guid isPermaLink="false">steam-store-published-3980640</guid>
+  <pubDate>Thu, 04 Sep 2025 21:44:40 +0000</pubDate>
+  <description>Operation Purge is a story-driven sci-fi survival game set on Titan, Saturn’s mysterious moon. Explore the terrain, manage limited resources, and uncover the secrets hidden beneath the surface. Will you survive long enough to find the truth?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980640/211158c1b5db708d62990eb6c28e3363c2516f29/header.jpg?t=1757020101" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980640/211158c1b5db708d62990eb6c28e3363c2516f29/header.jpg?t=1757020101" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980640/211158c1b5db708d62990eb6c28e3363c2516f29/header.jpg?t=1757020101" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3980640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980640/211158c1b5db708d62990eb6c28e3363c2516f29/header.jpg?t=1757020101" alt="Operation Purge Demo（新規追加）" /></a></p><p>Operation Purge is a story-driven sci-fi survival game set on Titan, Saturn’s mysterious moon. Explore the terrain, manage limited resources, and uncover the secrets hidden beneath the surface. Will you survive long enough to find the truth?</p><p><a href="https://store.steampowered.com/app/3980640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>100% Accurate Youtuber Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/3984400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989990/c03773d563ef11aa7139119e622092388ff8ca3f/header.jpg?t=1756913881" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989990/c03773d563ef11aa7139119e622092388ff8ca3f/header.jpg?t=1756913881" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3989990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989990/c03773d563ef11aa7139119e622092388ff8ca3f/header.jpg?t=1756913881" alt="Mouse Portal – Teleport Your Cursor（新規追加）" /></a></p><p>Teleport your mouse with magical portals – a fun and practical way to warp your cursor instantly across the screen!</p><p><a href="https://store.steampowered.com/app/3989990/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fantasy Grounds - Pathfinder 2 RPG - Shades of Blood Adventure Path: The Broken Palace (2 of 3)（新規追加）</title>
-  <link>https://store.steampowered.com/app/3852570/</link>
-  <guid isPermaLink="false">steam-store-published-3852570</guid>
-  <pubDate>Wed, 03 Sep 2025 16:44:02 +0000</pubDate>
-  <description>Pathfinder 2 RPG - Pathfinder Adventure Path #214: The Broken Palace (Shades of Blood 2 of 3) Delving deeper into the ruined prison, the PCs make their way through cell blocks now inhabited by subterranean monsters and undead echoes of the past, before finding themselves in what appears to be an idyllic village where the sun crosses the c</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3852570/3eb0e68b879f8c513ecdb00770214f25e4ac1dd4/header.jpg?t=1756916226" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3852570/3eb0e68b879f8c513ecdb00770214f25e4ac1dd4/header.jpg?t=1756916226" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3852570/3eb0e68b879f8c513ecdb00770214f25e4ac1dd4/header.jpg?t=1756916226" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3852570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3852570/3eb0e68b879f8c513ecdb00770214f25e4ac1dd4/header.jpg?t=1756916226" alt="Fantasy Grounds - Pathfinder 2 RPG - Shades of Blood Adventure Path: The Broken Palace (2 of 3)（新規追加）" /></a></p><p>Pathfinder 2 RPG - Pathfinder Adventure Path #214: The Broken Palace (Shades of Blood 2 of 3) Delving deeper into the ruined prison, the PCs make their way through cell blocks now inhabited by subterranean monsters and undead echoes of the past, before finding themselves in what appears to be an idyllic village where the sun crosses the c</p><p><a href="https://store.steampowered.com/app/3852570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
