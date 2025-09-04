@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 04 Sep 2025 18:47:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 19:22:28 +0000</lastBuildDate>
+<item>
+  <title>Abyss Kitchen Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3999690/</link>
+  <guid isPermaLink="false">steam-store-published-3999690</guid>
+  <pubDate>Thu, 04 Sep 2025 19:22:28 +0000</pubDate>
+  <description>Abyss Kitchen is a survival action game in which you play the role of Lop a cook who accompanies a party of adventurers, and guides them with the power of food. Feed yourself in the dungeon and eat whatever you can to keep from starving and falling down. Eat up anything that stands in your way!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999690/d502f54c013578d6e8bad09b48549782a611d5e5/header.jpg?t=1757010646" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999690/d502f54c013578d6e8bad09b48549782a611d5e5/header.jpg?t=1757010646" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999690/d502f54c013578d6e8bad09b48549782a611d5e5/header.jpg?t=1757010646" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3999690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999690/d502f54c013578d6e8bad09b48549782a611d5e5/header.jpg?t=1757010646" alt="Abyss Kitchen Demo（新規追加）" /></a></p><p>Abyss Kitchen is a survival action game in which you play the role of Lop a cook who accompanies a party of adventurers, and guides them with the power of food. Feed yourself in the dungeon and eat whatever you can to keep from starving and falling down. Eat up anything that stands in your way!</p><p><a href="https://store.steampowered.com/app/3999690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Project Zulu Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3995760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988940/806b104474cd77fc4a5c4ed9526f5d4a9e8d2d9b/header.jpg?t=1756912059" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988940/806b104474cd77fc4a5c4ed9526f5d4a9e8d2d9b/header.jpg?t=1756912059" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3988940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988940/806b104474cd77fc4a5c4ed9526f5d4a9e8d2d9b/header.jpg?t=1756912059" alt="Deadlived（新規追加）" /></a></p><p>DeadLived is a multiplayer-only open-world survival looter-shooter where infected (zombies) and players collide for the same loot. Seasons, weather and survival needs shape every choice. Trust, betray, or be hunted, the community itself brings this world to life.</p><p><a href="https://store.steampowered.com/app/3988940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Blooming Suspicion（新規追加）</title>
-  <link>https://store.steampowered.com/app/3875410/</link>
-  <guid isPermaLink="false">steam-store-published-3875410</guid>
-  <pubDate>Wed, 03 Sep 2025 15:46:34 +0000</pubDate>
-  <description>Investigate, solve mysteries, and maybe even fall in love in Blooming Suspicion — a witchy visual novel set in modern Seoul with a magical twist.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875410/de9c1a7970e4372f414d635b2855e3537047b281/header.jpg?t=1756912912" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875410/de9c1a7970e4372f414d635b2855e3537047b281/header.jpg?t=1756912912" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875410/de9c1a7970e4372f414d635b2855e3537047b281/header.jpg?t=1756912912" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3875410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875410/de9c1a7970e4372f414d635b2855e3537047b281/header.jpg?t=1756912912" alt="Blooming Suspicion（新規追加）" /></a></p><p>Investigate, solve mysteries, and maybe even fall in love in Blooming Suspicion — a witchy visual novel set in modern Seoul with a magical twist.</p><p><a href="https://store.steampowered.com/app/3875410/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
