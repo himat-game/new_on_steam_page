@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Sep 2025 06:42:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Sep 2025 07:44:14 +0000</lastBuildDate>
+<item>
+  <title>Tower Petroleum Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3476770/</link>
+  <guid isPermaLink="false">steam-store-published-3476770</guid>
+  <pubDate>Sat, 06 Sep 2025 07:44:14 +0000</pubDate>
+  <description>type=game, appid=3476770</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3476770/b370a37fb3b98851a26cae78f6fd131f66ba756a/header.jpg?t=1757140611" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3476770/b370a37fb3b98851a26cae78f6fd131f66ba756a/header.jpg?t=1757140611" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3476770/b370a37fb3b98851a26cae78f6fd131f66ba756a/header.jpg?t=1757140611" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3476770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3476770/b370a37fb3b98851a26cae78f6fd131f66ba756a/header.jpg?t=1757140611" alt="Tower Petroleum Playtest（新規追加）" /></a></p><p>type=game, appid=3476770</p><p><a href="https://store.steampowered.com/app/3476770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bodybuilder Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/3935230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601740/f877f96dc84fea940c77b4529581baedebd86357/header.jpg?t=1756991252" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601740/f877f96dc84fea940c77b4529581baedebd86357/header.jpg?t=1756991252" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3601740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601740/f877f96dc84fea940c77b4529581baedebd86357/header.jpg?t=1756991252" alt="Undermire Playtest（新規追加）" /></a></p><p>type=game, appid=3601740</p><p><a href="https://store.steampowered.com/app/3601740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>LUCIFERIANISM（新規追加）</title>
-  <link>https://store.steampowered.com/app/3990500/</link>
-  <guid isPermaLink="false">steam-store-published-3990500</guid>
-  <pubDate>Thu, 04 Sep 2025 14:49:26 +0000</pubDate>
-  <description>A roguelike, Soulslike Open World RPG, set in a Labyrinthine Maze of Artifice, the construct world, with all lines fully voiced by Elevenlabs AI Voice Robots, A strange religious poem in game form. Created by one guy, with schizophrenia in Unreal Engine 5.4.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990500/e8ba53b8a8b8bbfc9efe6d75fc406fffff1393a2/header.jpg?t=1756993285" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990500/e8ba53b8a8b8bbfc9efe6d75fc406fffff1393a2/header.jpg?t=1756993285" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990500/e8ba53b8a8b8bbfc9efe6d75fc406fffff1393a2/header.jpg?t=1756993285" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3990500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990500/e8ba53b8a8b8bbfc9efe6d75fc406fffff1393a2/header.jpg?t=1756993285" alt="LUCIFERIANISM（新規追加）" /></a></p><p>A roguelike, Soulslike Open World RPG, set in a Labyrinthine Maze of Artifice, the construct world, with all lines fully voiced by Elevenlabs AI Voice Robots, A strange religious poem in game form. Created by one guy, with schizophrenia in Unreal Engine 5.4.</p><p><a href="https://store.steampowered.com/app/3990500/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
