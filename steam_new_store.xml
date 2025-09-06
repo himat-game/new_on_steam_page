@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Sep 2025 20:44:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Sep 2025 21:25:27 +0000</lastBuildDate>
+<item>
+  <title>魔力喵吉克 Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3999210/</link>
+  <guid isPermaLink="false">steam-store-published-3999210</guid>
+  <pubDate>Sat, 06 Sep 2025 21:25:27 +0000</pubDate>
+  <description>type=game, appid=3999210</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999210/220de7d4705c82e136d88abe8d8358e75c9b81f3/header.jpg?t=1757190190" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999210/220de7d4705c82e136d88abe8d8358e75c9b81f3/header.jpg?t=1757190190" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999210/220de7d4705c82e136d88abe8d8358e75c9b81f3/header.jpg?t=1757190190" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3999210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999210/220de7d4705c82e136d88abe8d8358e75c9b81f3/header.jpg?t=1757190190" alt="魔力喵吉克 Playtest（新規追加）" /></a></p><p>type=game, appid=3999210</p><p><a href="https://store.steampowered.com/app/3999210/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Survival Tech（新規追加）</title>
   <link>https://store.steampowered.com/app/3976010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003120/5b47adc670084932478662732a2069e1dfcbaea0/header.jpg?t=1757011427" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003120/5b47adc670084932478662732a2069e1dfcbaea0/header.jpg?t=1757011427" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4003120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003120/5b47adc670084932478662732a2069e1dfcbaea0/header.jpg?t=1757011427" alt="Infinite Game Cartridge Collection - Endless Diver（新規追加）" /></a></p><p>Dive into this retro-style 2D pixel art game! Control a snorkel-equipped diver, navigating a vertical underwater world. Collect air bubbles to keep your air meter full and survive.</p><p><a href="https://store.steampowered.com/app/4003120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lovux Level Editor（新規追加）</title>
-  <link>https://store.steampowered.com/app/3895810/</link>
-  <guid isPermaLink="false">steam-store-published-3895810</guid>
-  <pubDate>Thu, 04 Sep 2025 19:44:30 +0000</pubDate>
-  <description>Design and build your own Lovux levels. Unleash your inner creative puzzle designer.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3895810/16604df40fc4899f8c7da67ce4a2460b9e3a6f16/header.jpg?t=1757010929" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3895810/16604df40fc4899f8c7da67ce4a2460b9e3a6f16/header.jpg?t=1757010929" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3895810/16604df40fc4899f8c7da67ce4a2460b9e3a6f16/header.jpg?t=1757010929" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3895810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3895810/16604df40fc4899f8c7da67ce4a2460b9e3a6f16/header.jpg?t=1757010929" alt="Lovux Level Editor（新規追加）" /></a></p><p>Design and build your own Lovux levels. Unleash your inner creative puzzle designer.</p><p><a href="https://store.steampowered.com/app/3895810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
