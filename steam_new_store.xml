@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Sep 2025 23:25:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Sep 2025 23:44:04 +0000</lastBuildDate>
+<item>
+  <title>Dragon Tale（新規追加）</title>
+  <link>https://store.steampowered.com/app/3375230/</link>
+  <guid isPermaLink="false">steam-store-published-3375230</guid>
+  <pubDate>Sat, 06 Sep 2025 23:44:04 +0000</pubDate>
+  <description>Enter DRAGON TALE, a student made Adventure Fantasy RPG where you explore a unique island and battle against grueling monsters. Interact with the townsfolk, loot exciting treasures and discover powerful weapons to help you banish the lurking evil.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375230/a50003946134c911e347f5777ed3e71a6b724111/header.jpg?t=1757201256" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375230/a50003946134c911e347f5777ed3e71a6b724111/header.jpg?t=1757201256" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375230/a50003946134c911e347f5777ed3e71a6b724111/header.jpg?t=1757201256" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3375230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375230/a50003946134c911e347f5777ed3e71a6b724111/header.jpg?t=1757201256" alt="Dragon Tale（新規追加）" /></a></p><p>Enter DRAGON TALE, a student made Adventure Fantasy RPG where you explore a unique island and battle against grueling monsters. Interact with the townsfolk, loot exciting treasures and discover powerful weapons to help you banish the lurking evil.</p><p><a href="https://store.steampowered.com/app/3375230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Second Saga Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3818110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927190/523bdd600483f0ceb3cd92e36c33fa58cecf41b2/header.jpg?t=1757012403" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927190/523bdd600483f0ceb3cd92e36c33fa58cecf41b2/header.jpg?t=1757012403" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3927190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927190/523bdd600483f0ceb3cd92e36c33fa58cecf41b2/header.jpg?t=1757012403" alt="DOSTAVKA Demo（新規追加）" /></a></p><p>first world and arcade mode</p><p><a href="https://store.steampowered.com/app/3927190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Myths and Legends - Atlantis and Egypt（新規追加）</title>
-  <link>https://store.steampowered.com/app/3473950/</link>
-  <guid isPermaLink="false">steam-store-published-3473950</guid>
-  <pubDate>Thu, 04 Sep 2025 20:44:03 +0000</pubDate>
-  <description>This expansion introduces 2 new factions to the game: Persia and Egypt Both factions have 2 unique buildings and various special units. In addition, 2 additional locations to explore and new enemies are added to the main game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3473950/header.jpg?t=1757014716" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3473950/header.jpg?t=1757014716" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3473950/header.jpg?t=1757014716" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3473950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3473950/header.jpg?t=1757014716" alt="Myths and Legends - Atlantis and Egypt（新規追加）" /></a></p><p>This expansion introduces 2 new factions to the game: Persia and Egypt Both factions have 2 unique buildings and various special units. In addition, 2 additional locations to explore and new enemies are added to the main game.</p><p><a href="https://store.steampowered.com/app/3473950/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
