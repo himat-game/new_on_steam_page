@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 07 Sep 2025 21:25:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Sep 2025 23:44:48 +0000</lastBuildDate>
+<item>
+  <title>Sova（新規追加）</title>
+  <link>https://store.steampowered.com/app/3191070/</link>
+  <guid isPermaLink="false">steam-store-published-3191070</guid>
+  <pubDate>Sun, 07 Sep 2025 23:44:48 +0000</pubDate>
+  <description>Descend into a surreal sci-fantasy world in this narrative-driven action roguelite, where every run reshapes your story. Sova’s expressive combat meets deeply branching dialogue and world-shifting decisions. Compose your violence, rewrite your past, and bend a crumbling realm to your will.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191070/eb4f9d2359b6234fdfb4fd2730dd68edc6fdabcf/header.jpg?t=1757286720" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191070/eb4f9d2359b6234fdfb4fd2730dd68edc6fdabcf/header.jpg?t=1757286720" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191070/eb4f9d2359b6234fdfb4fd2730dd68edc6fdabcf/header.jpg?t=1757286720" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3191070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191070/eb4f9d2359b6234fdfb4fd2730dd68edc6fdabcf/header.jpg?t=1757286720" alt="Sova（新規追加）" /></a></p><p>Descend into a surreal sci-fantasy world in this narrative-driven action roguelite, where every run reshapes your story. Sova’s expressive combat meets deeply branching dialogue and world-shifting decisions. Compose your violence, rewrite your past, and bend a crumbling realm to your will.</p><p><a href="https://store.steampowered.com/app/3191070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cozyrama Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3995370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971670/8e71c35ee2168b339f30796fda743453d4b0d604/header.jpg?t=1757034058" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971670/8e71c35ee2168b339f30796fda743453d4b0d604/header.jpg?t=1757034058" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3971670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971670/8e71c35ee2168b339f30796fda743453d4b0d604/header.jpg?t=1757034058" alt="On Your Notebook（新規追加）" /></a></p><p>&amp;quot;On Your Notebook&amp;quot; is a tantalizing game in which you become one of the animal paintings trapped in a corner paper and survive from the other doodles that flood in.</p><p><a href="https://store.steampowered.com/app/3971670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Arbeiter（新規追加）</title>
-  <link>https://store.steampowered.com/app/3884080/</link>
-  <guid isPermaLink="false">steam-store-published-3884080</guid>
-  <pubDate>Fri, 05 Sep 2025 03:07:12 +0000</pubDate>
-  <description>Arbeiter is a survival-management game about working-class life. Work to survive, balance hunger, stress, fatigue and wages, organize fellow workers, manage unions, and spread your ideology. Or go your own way.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884080/1d46eacf68f16bfabb62a3934bd5f52ef1d4986f/header.jpg?t=1757028118" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884080/1d46eacf68f16bfabb62a3934bd5f52ef1d4986f/header.jpg?t=1757028118" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884080/1d46eacf68f16bfabb62a3934bd5f52ef1d4986f/header.jpg?t=1757028118" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3884080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884080/1d46eacf68f16bfabb62a3934bd5f52ef1d4986f/header.jpg?t=1757028118" alt="Arbeiter（新規追加）" /></a></p><p>Arbeiter is a survival-management game about working-class life. Work to survive, balance hunger, stress, fatigue and wages, organize fellow workers, manage unions, and spread your ideology. Or go your own way.</p><p><a href="https://store.steampowered.com/app/3884080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
