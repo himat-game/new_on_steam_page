@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 07 Sep 2025 16:46:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Sep 2025 17:44:50 +0000</lastBuildDate>
+<item>
+  <title>Paper Soccer（新規追加）</title>
+  <link>https://store.steampowered.com/app/3410520/</link>
+  <guid isPermaLink="false">steam-store-published-3410520</guid>
+  <pubDate>Sun, 07 Sep 2025 17:44:50 +0000</pubDate>
+  <description>Paper Soccer is an online turn-based strategy game. Take turns kicking the ball towards each others goal, but each kick draws a line which cannot be drawn again.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410520/0b622dece159a4038da749e9f5c68ca3a5b016e3/header.jpg?t=1757265025" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410520/0b622dece159a4038da749e9f5c68ca3a5b016e3/header.jpg?t=1757265025" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410520/0b622dece159a4038da749e9f5c68ca3a5b016e3/header.jpg?t=1757265025" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3410520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3410520/0b622dece159a4038da749e9f5c68ca3a5b016e3/header.jpg?t=1757265025" alt="Paper Soccer（新規追加）" /></a></p><p>Paper Soccer is an online turn-based strategy game. Take turns kicking the ball towards each others goal, but each kick draws a line which cannot be drawn again.</p><p><a href="https://store.steampowered.com/app/3410520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tales of Legendary Lust: Aphrodisia - Lewds Library &amp; Bonus Art Pack（新規追加）</title>
   <link>https://store.steampowered.com/app/4003530/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955650/2570b35ded3c7181c2948882601de5ea0c16bbb1/header.jpg?t=1757034848" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955650/2570b35ded3c7181c2948882601de5ea0c16bbb1/header.jpg?t=1757034848" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3955650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955650/2570b35ded3c7181c2948882601de5ea0c16bbb1/header.jpg?t=1757034848" alt="Yandere Goth Delinquent Trouble 3（新規追加）" /></a></p><p>Experience what it&#x27;s like to be bullied by your giant, sadistic, yandere, delinquent, goth best friend who loves you with all her heart in her own special, unique, yandere way.</p><p><a href="https://store.steampowered.com/app/3955650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wayblazer Dämmerung（新規追加）</title>
-  <link>https://store.steampowered.com/app/3196500/</link>
-  <guid isPermaLink="false">steam-store-published-3196500</guid>
-  <pubDate>Fri, 05 Sep 2025 03:07:12 +0000</pubDate>
-  <description>After 25 years, Eushully&#x27;s expansive JRPG universe opens its doors to the world with a sprawling party-based adventure. Quest across the land, unravel a web of corruption, and dismantle monsters for their precious parts to commission powerful weapons and revitalize the kingdom&#x27;s struggling trade!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196500/4568a92f49847e2b7b260784046056e4ff216554/header.jpg?t=1757034019" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196500/4568a92f49847e2b7b260784046056e4ff216554/header.jpg?t=1757034019" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196500/4568a92f49847e2b7b260784046056e4ff216554/header.jpg?t=1757034019" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3196500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196500/4568a92f49847e2b7b260784046056e4ff216554/header.jpg?t=1757034019" alt="Wayblazer Dämmerung（新規追加）" /></a></p><p>After 25 years, Eushully&#x27;s expansive JRPG universe opens its doors to the world with a sprawling party-based adventure. Quest across the land, unravel a web of corruption, and dismantle monsters for their precious parts to commission powerful weapons and revitalize the kingdom&#x27;s struggling trade!</p><p><a href="https://store.steampowered.com/app/3196500/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
