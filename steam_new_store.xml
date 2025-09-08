@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Sep 2025 13:37:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Sep 2025 13:52:11 +0000</lastBuildDate>
+<item>
+  <title>Screwball Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4005120/</link>
+  <guid isPermaLink="false">steam-store-published-4005120</guid>
+  <pubDate>Mon, 08 Sep 2025 13:52:11 +0000</pubDate>
+  <description>type=demo, appid=4005120</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005120/1abec72451eceec2239c9f60b03f762f7a3bd0c9/header.jpg?t=1757337131" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005120/1abec72451eceec2239c9f60b03f762f7a3bd0c9/header.jpg?t=1757337131" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005120/1abec72451eceec2239c9f60b03f762f7a3bd0c9/header.jpg?t=1757337131" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4005120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005120/1abec72451eceec2239c9f60b03f762f7a3bd0c9/header.jpg?t=1757337131" alt="Screwball Demo（新規追加）" /></a></p><p>type=demo, appid=4005120</p><p><a href="https://store.steampowered.com/app/4005120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Rust Rides Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3953200/</link>
+  <guid isPermaLink="false">steam-store-published-3953200</guid>
+  <pubDate>Mon, 08 Sep 2025 13:52:11 +0000</pubDate>
+  <description>type=game, appid=3953200</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953200/a90557bdfb6e8e432fd9031a9d9e954d2e4c2bbb/header.jpg?t=1757338318" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953200/a90557bdfb6e8e432fd9031a9d9e954d2e4c2bbb/header.jpg?t=1757338318" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953200/a90557bdfb6e8e432fd9031a9d9e954d2e4c2bbb/header.jpg?t=1757338318" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953200/a90557bdfb6e8e432fd9031a9d9e954d2e4c2bbb/header.jpg?t=1757338318" alt="Rust Rides Playtest（新規追加）" /></a></p><p>type=game, appid=3953200</p><p><a href="https://store.steampowered.com/app/3953200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Screwball Soundtrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/4008710/</link>
+  <guid isPermaLink="false">steam-store-published-4008710</guid>
+  <pubDate>Mon, 08 Sep 2025 13:52:11 +0000</pubDate>
+  <description>Enjoy the original, jazz-based soundtrack of Screwball in .mp3 and .wav format!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008710/faba2b3166e7d5eb3ed9aff7a0d14ed381a1c7a5/header.jpg?t=1757337059" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008710/faba2b3166e7d5eb3ed9aff7a0d14ed381a1c7a5/header.jpg?t=1757337059" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008710/faba2b3166e7d5eb3ed9aff7a0d14ed381a1c7a5/header.jpg?t=1757337059" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4008710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008710/faba2b3166e7d5eb3ed9aff7a0d14ed381a1c7a5/header.jpg?t=1757337059" alt="Screwball Soundtrack（新規追加）" /></a></p><p>Enjoy the original, jazz-based soundtrack of Screwball in .mp3 and .wav format!</p><p><a href="https://store.steampowered.com/app/4008710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Beat of Rebellion（新規追加）</title>
   <link>https://store.steampowered.com/app/3908260/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942680/2aee1f79839a80d6b88d4073511e60b1b374747e/header.jpg?t=1757060735" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942680/2aee1f79839a80d6b88d4073511e60b1b374747e/header.jpg?t=1757060735" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3942680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942680/2aee1f79839a80d6b88d4073511e60b1b374747e/header.jpg?t=1757060735" alt="Henry Halfhead Soundtrack（新規追加）" /></a></p><p>The soundtrack from Henry Halfhead created by Lucien Guy Montandon.</p><p><a href="https://store.steampowered.com/app/3942680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Angel Legion-DLC Full bloom G（新規追加）</title>
-  <link>https://store.steampowered.com/app/3978430/</link>
-  <guid isPermaLink="false">steam-store-published-3978430</guid>
-  <pubDate>Fri, 05 Sep 2025 08:43:18 +0000</pubDate>
-  <description>Embark on your adventure with player from all over the world! Lead your Angel team to reveal the ancient mysteries of Galaxy…… Welcome to Angel legion, a free RPG gacha game with good fun!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978430/af965fe4515196248ee473e1333112a937631776/header.jpg?t=1757060223" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978430/af965fe4515196248ee473e1333112a937631776/header.jpg?t=1757060223" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978430/af965fe4515196248ee473e1333112a937631776/header.jpg?t=1757060223" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3978430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978430/af965fe4515196248ee473e1333112a937631776/header.jpg?t=1757060223" alt="Angel Legion-DLC Full bloom G（新規追加）" /></a></p><p>Embark on your adventure with player from all over the world! Lead your Angel team to reveal the ancient mysteries of Galaxy…… Welcome to Angel legion, a free RPG gacha game with good fun!</p><p><a href="https://store.steampowered.com/app/3978430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Daemon X Machina: Titanic Scion - Special SFX Weapon Set（新規追加）</title>
-  <link>https://store.steampowered.com/app/3766550/</link>
-  <guid isPermaLink="false">steam-store-published-3766550</guid>
-  <pubDate>Fri, 05 Sep 2025 07:44:25 +0000</pubDate>
-  <description>Spice up your battles with these special weapons with original sound effects!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766550/7474d4d7530cbff79e2d56c2e630f4a6e057fcd5/header.jpg?t=1757055709" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766550/7474d4d7530cbff79e2d56c2e630f4a6e057fcd5/header.jpg?t=1757055709" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766550/7474d4d7530cbff79e2d56c2e630f4a6e057fcd5/header.jpg?t=1757055709" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3766550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3766550/7474d4d7530cbff79e2d56c2e630f4a6e057fcd5/header.jpg?t=1757055709" alt="Daemon X Machina: Titanic Scion - Special SFX Weapon Set（新規追加）" /></a></p><p>Spice up your battles with these special weapons with original sound effects!</p><p><a href="https://store.steampowered.com/app/3766550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Snatch Squad（新規追加）</title>
-  <link>https://store.steampowered.com/app/3465810/</link>
-  <guid isPermaLink="false">steam-store-published-3465810</guid>
-  <pubDate>Fri, 05 Sep 2025 07:44:25 +0000</pubDate>
-  <description>Imagine Payday in an open world like GTA — built entirely of blocks. Snatch Squad is a co‑op crime sim in a voxel city. Plan and execute heists, launder money through legit businesses, and outsmart the police.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465810/58eebf780fef3b41e27d7ad27f05ec5396e54cd3/header.jpg?t=1757056445" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465810/58eebf780fef3b41e27d7ad27f05ec5396e54cd3/header.jpg?t=1757056445" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465810/58eebf780fef3b41e27d7ad27f05ec5396e54cd3/header.jpg?t=1757056445" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3465810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465810/58eebf780fef3b41e27d7ad27f05ec5396e54cd3/header.jpg?t=1757056445" alt="Snatch Squad（新規追加）" /></a></p><p>Imagine Payday in an open world like GTA — built entirely of blocks. Snatch Squad is a co‑op crime sim in a voxel city. Plan and execute heists, launder money through legit businesses, and outsmart the police.</p><p><a href="https://store.steampowered.com/app/3465810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
