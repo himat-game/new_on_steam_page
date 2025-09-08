@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Sep 2025 07:44:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Sep 2025 08:50:01 +0000</lastBuildDate>
+<item>
+  <title>Balloon Full of Love（新規追加）</title>
+  <link>https://store.steampowered.com/app/3985380/</link>
+  <guid isPermaLink="false">steam-store-published-3985380</guid>
+  <pubDate>Mon, 08 Sep 2025 08:50:01 +0000</pubDate>
+  <description>This is a single player story driven arcade game about the power of love.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985380/064268a1ca74d767bb16e3e27a90335ba2000ec8/header.jpg?t=1757317560" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985380/064268a1ca74d767bb16e3e27a90335ba2000ec8/header.jpg?t=1757317560" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985380/064268a1ca74d767bb16e3e27a90335ba2000ec8/header.jpg?t=1757317560" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3985380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985380/064268a1ca74d767bb16e3e27a90335ba2000ec8/header.jpg?t=1757317560" alt="Balloon Full of Love（新規追加）" /></a></p><p>This is a single player story driven arcade game about the power of love.</p><p><a href="https://store.steampowered.com/app/3985380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ashen Daughter Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3976420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959250/f7ce2d80e5829262e575b7cc80b03c21f847462b/header.jpg?t=1757047920" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959250/f7ce2d80e5829262e575b7cc80b03c21f847462b/header.jpg?t=1757047920" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3959250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959250/f7ce2d80e5829262e575b7cc80b03c21f847462b/header.jpg?t=1757047920" alt="Click to Civ（新規追加）" /></a></p><p>Smash ancient rocks, collect civilization badges, and grow your hometown into a thriving hub of progress. This simple yet addictive incremental game with active clicking guides humanity from caves to the stars.</p><p><a href="https://store.steampowered.com/app/3959250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SaveSync: Co-op Save Sharing Made Easy（新規追加）</title>
-  <link>https://store.steampowered.com/app/3832010/</link>
-  <guid isPermaLink="false">steam-store-published-3832010</guid>
-  <pubDate>Fri, 05 Sep 2025 05:44:57 +0000</pubDate>
-  <description>Keep co-op worlds alive, even when the host is offline. SaveSync is a save syncing, backup, and sharing tool built for co-op games. Seamlessly transfer save files between friends. No more manual copy-pasting or paying for dedicated servers.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832010/e780efc4c1c1dce23924d6d5c6c3109e14454f69/header.jpg?t=1757049705" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832010/e780efc4c1c1dce23924d6d5c6c3109e14454f69/header.jpg?t=1757049705" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832010/e780efc4c1c1dce23924d6d5c6c3109e14454f69/header.jpg?t=1757049705" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3832010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832010/e780efc4c1c1dce23924d6d5c6c3109e14454f69/header.jpg?t=1757049705" alt="SaveSync: Co-op Save Sharing Made Easy（新規追加）" /></a></p><p>Keep co-op worlds alive, even when the host is offline. SaveSync is a save syncing, backup, and sharing tool built for co-op games. Seamlessly transfer save files between friends. No more manual copy-pasting or paying for dedicated servers.</p><p><a href="https://store.steampowered.com/app/3832010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
