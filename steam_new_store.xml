@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Sep 2025 19:45:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Sep 2025 20:34:34 +0000</lastBuildDate>
+<item>
+  <title>Hunting Pack（新規追加）</title>
+  <link>https://store.steampowered.com/app/3950740/</link>
+  <guid isPermaLink="false">steam-store-published-3950740</guid>
+  <pubDate>Mon, 08 Sep 2025 20:34:34 +0000</pubDate>
+  <description>It’s a forest at night, and the hunt begins. Carefully plan your pack’s next move to avoid being seen, smelled or heard. Hunt enough prey to survive the next month, and develop your pack and tactics throughout changing seasons. You’ll fail – but learn from your mistakes and prepare for the next run!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950740/599549920cc10512d907b7646817f6d98d607904/header.jpg?t=1757360030" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950740/599549920cc10512d907b7646817f6d98d607904/header.jpg?t=1757360030" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950740/599549920cc10512d907b7646817f6d98d607904/header.jpg?t=1757360030" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3950740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950740/599549920cc10512d907b7646817f6d98d607904/header.jpg?t=1757360030" alt="Hunting Pack（新規追加）" /></a></p><p>It’s a forest at night, and the hunt begins. Carefully plan your pack’s next move to avoid being seen, smelled or heard. Hunt enough prey to survive the next month, and develop your pack and tactics throughout changing seasons. You’ll fail – but learn from your mistakes and prepare for the next run!</p><p><a href="https://store.steampowered.com/app/3950740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pawnbroker Simulator (Demo)（新規追加）</title>
   <link>https://store.steampowered.com/app/4008940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982420/d9a8c5f5e3f7adcdc27c7c026d76a6256fe42421/header.jpg?t=1757081411" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982420/d9a8c5f5e3f7adcdc27c7c026d76a6256fe42421/header.jpg?t=1757081411" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3982420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982420/d9a8c5f5e3f7adcdc27c7c026d76a6256fe42421/header.jpg?t=1757081411" alt="Going To High School With Lira（新規追加）" /></a></p><p>A relaxed 2D platformer where you guide Lira through a surreal journey filled with bizarre obstacles. Jump with a single mouse click, take your time, and enjoy a strange yet peaceful adventure. No rush, just precision!</p><p><a href="https://store.steampowered.com/app/3982420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Obey the Voice™（新規追加）</title>
-  <link>https://store.steampowered.com/app/3919190/</link>
-  <guid isPermaLink="false">steam-store-published-3919190</guid>
-  <pubDate>Fri, 05 Sep 2025 15:44:31 +0000</pubDate>
-  <description>You are here to listen to The Voice, do what he says. But don&#x27;t listen to other voices...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919190/70a1fc53e5c8574c5756d1a8b44fc4af49a81f28/header.jpg?t=1757083560" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919190/70a1fc53e5c8574c5756d1a8b44fc4af49a81f28/header.jpg?t=1757083560" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919190/70a1fc53e5c8574c5756d1a8b44fc4af49a81f28/header.jpg?t=1757083560" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3919190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919190/70a1fc53e5c8574c5756d1a8b44fc4af49a81f28/header.jpg?t=1757083560" alt="Obey the Voice™（新規追加）" /></a></p><p>You are here to listen to The Voice, do what he says. But don&#x27;t listen to other voices...</p><p><a href="https://store.steampowered.com/app/3919190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
