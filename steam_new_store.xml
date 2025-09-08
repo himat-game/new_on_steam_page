@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Sep 2025 11:26:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Sep 2025 11:44:31 +0000</lastBuildDate>
+<item>
+  <title>Naval Tactics（新規追加）</title>
+  <link>https://store.steampowered.com/app/3521760/</link>
+  <guid isPermaLink="false">steam-store-published-3521760</guid>
+  <pubDate>Mon, 08 Sep 2025 11:44:31 +0000</pubDate>
+  <description>Naval Tactics is a Stylized, Top-Down RTS focusing on naval combat in the first half of the 20th century. Play against other players in Multiplayer, or get aboard your flagship by yourself in Singleplayer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521760/header.jpg?t=1757329421" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521760/header.jpg?t=1757329421" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521760/header.jpg?t=1757329421" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3521760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3521760/header.jpg?t=1757329421" alt="Naval Tactics（新規追加）" /></a></p><p>Naval Tactics is a Stylized, Top-Down RTS focusing on naval combat in the first half of the 20th century. Play against other players in Multiplayer, or get aboard your flagship by yourself in Singleplayer.</p><p><a href="https://store.steampowered.com/app/3521760/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tentacles Party With Nuns-Chibi 3D high poly(Betsy)（新規追加）</title>
   <link>https://store.steampowered.com/app/3485430/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830900/ebf8def87c0663040491923fc8cdafa0ec59a7de/header.jpg?t=1757056129" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830900/ebf8def87c0663040491923fc8cdafa0ec59a7de/header.jpg?t=1757056129" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3830900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830900/ebf8def87c0663040491923fc8cdafa0ec59a7de/header.jpg?t=1757056129" alt="SHUTEN ORDER Digital Novel Before the Murders – case: Manji Fushicho（新規追加）" /></a></p><p>A Tookyo Games original digital novel supervised by Kazutaka Kodaka, “Before the Murders – case: Manji Fushicho” which serves as a prequel to the main game.</p><p><a href="https://store.steampowered.com/app/3830900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sweat（新規追加）</title>
-  <link>https://store.steampowered.com/app/3968770/</link>
-  <guid isPermaLink="false">steam-store-published-3968770</guid>
-  <pubDate>Fri, 05 Sep 2025 07:29:43 +0000</pubDate>
-  <description>Enter the world of Block Blast, where you have to use your brain with every step, and you can also watch the magic cube explode, which is super rewarding!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968770/6920c3a3e5a3edb021e2ae8c0c36406c1777e45b/header.jpg?t=1757054928" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968770/6920c3a3e5a3edb021e2ae8c0c36406c1777e45b/header.jpg?t=1757054928" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968770/6920c3a3e5a3edb021e2ae8c0c36406c1777e45b/header.jpg?t=1757054928" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3968770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968770/6920c3a3e5a3edb021e2ae8c0c36406c1777e45b/header.jpg?t=1757054928" alt="Sweat（新規追加）" /></a></p><p>Enter the world of Block Blast, where you have to use your brain with every step, and you can also watch the magic cube explode, which is super rewarding!</p><p><a href="https://store.steampowered.com/app/3968770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
