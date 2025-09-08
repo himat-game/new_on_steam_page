@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Sep 2025 04:41:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Sep 2025 05:45:53 +0000</lastBuildDate>
+<item>
+  <title>Nantara Adventures Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3991590/</link>
+  <guid isPermaLink="false">steam-store-published-3991590</guid>
+  <pubDate>Mon, 08 Sep 2025 05:45:53 +0000</pubDate>
+  <description>type=demo, appid=3991590</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991590/95ba6d48177d1f69a4fcaec7823e8942051013e1/header.jpg?t=1757304819" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991590/95ba6d48177d1f69a4fcaec7823e8942051013e1/header.jpg?t=1757304819" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991590/95ba6d48177d1f69a4fcaec7823e8942051013e1/header.jpg?t=1757304819" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3991590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991590/95ba6d48177d1f69a4fcaec7823e8942051013e1/header.jpg?t=1757304819" alt="Nantara Adventures Demo（新規追加）" /></a></p><p>type=demo, appid=3991590</p><p><a href="https://store.steampowered.com/app/3991590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Petmancer Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3998470/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131930/02d8768b7510ef13351dc531e8fd8fd61f0709f3/header.jpg?t=1757045021" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131930/02d8768b7510ef13351dc531e8fd8fd61f0709f3/header.jpg?t=1757045021" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3131930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3131930/02d8768b7510ef13351dc531e8fd8fd61f0709f3/header.jpg?t=1757045021" alt="Click the Ball!（新規追加）" /></a></p><p>A 2D clicker game with a vintage cartoon style, where you tap bouncing balls to chain combos, unleash skills, and face whimsical animal bosses — all wrapped in a nostalgic, hand-drawn aesthetic.</p><p><a href="https://store.steampowered.com/app/3131930/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pussy Mechanic（新規追加）</title>
-  <link>https://store.steampowered.com/app/3999740/</link>
-  <guid isPermaLink="false">steam-store-published-3999740</guid>
-  <pubDate>Fri, 05 Sep 2025 04:49:37 +0000</pubDate>
-  <description>Pussy Mechanic is a candid visual novel for adults. A routine call to repair equipment turns into a story of temptation and secret desires: the hero comes to fix the TV, but the owner of the apartment greets him in such a way that he instantly forgets about his “routine work.”</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999740/f9dc92131205a5464a95df991aae6e82c320b331/header.jpg?t=1757042883" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999740/f9dc92131205a5464a95df991aae6e82c320b331/header.jpg?t=1757042883" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999740/f9dc92131205a5464a95df991aae6e82c320b331/header.jpg?t=1757042883" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3999740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999740/f9dc92131205a5464a95df991aae6e82c320b331/header.jpg?t=1757042883" alt="Pussy Mechanic（新規追加）" /></a></p><p>Pussy Mechanic is a candid visual novel for adults. A routine call to repair equipment turns into a story of temptation and secret desires: the hero comes to fix the TV, but the owner of the apartment greets him in such a way that he instantly forgets about his “routine work.”</p><p><a href="https://store.steampowered.com/app/3999740/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
