@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 09 Sep 2025 21:27:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Sep 2025 21:44:07 +0000</lastBuildDate>
+<item>
+  <title>Deadline Escape Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4010620/</link>
+  <guid isPermaLink="false">steam-store-published-4010620</guid>
+  <pubDate>Tue, 09 Sep 2025 21:44:07 +0000</pubDate>
+  <description>type=game, appid=4010620</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010620/bcbce7422ab44259697c81edf5595f8350311976/header.jpg?t=1757452050" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010620/bcbce7422ab44259697c81edf5595f8350311976/header.jpg?t=1757452050" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010620/bcbce7422ab44259697c81edf5595f8350311976/header.jpg?t=1757452050" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4010620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010620/bcbce7422ab44259697c81edf5595f8350311976/header.jpg?t=1757452050" alt="Deadline Escape Playtest（新規追加）" /></a></p><p>type=game, appid=4010620</p><p><a href="https://store.steampowered.com/app/4010620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lily&#x27;s Erotic Potion Delivery Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4020900/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054030/2ef5749f65a00b70f8aac7095d15b0efe87b3d49/header.jpg?t=1757335868" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054030/2ef5749f65a00b70f8aac7095d15b0efe87b3d49/header.jpg?t=1757335868" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2054030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054030/2ef5749f65a00b70f8aac7095d15b0efe87b3d49/header.jpg?t=1757335868" alt="Wars Across the World: Balkans 1912（新規追加）" /></a></p><p>Balkans 1912 covers the first Balkan War, where the Coalition of Bulgaria, Serbia, Greece and Montenegro attacks the decaying Ottoman empire in Europe.</p><p><a href="https://store.steampowered.com/app/2054030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Plant Plots Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3973890/</link>
-  <guid isPermaLink="false">steam-store-published-3973890</guid>
-  <pubDate>Mon, 08 Sep 2025 13:37:59 +0000</pubDate>
-  <description>Plant Plots is a relaxing puzzle board game where you&#x27;ll need to be a clever gardener to make it through a variety of tricky levels. But watch out, these plants don&#x27;t behave quite like the ones you&#x27;re used to. Dive in and unwind as you solve beautifully crafted puzzles.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3973890/6aca1378903a0b18a7b7ffa91df841a105583688/header.jpg?t=1757335141" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3973890/6aca1378903a0b18a7b7ffa91df841a105583688/header.jpg?t=1757335141" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3973890/6aca1378903a0b18a7b7ffa91df841a105583688/header.jpg?t=1757335141" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3973890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3973890/6aca1378903a0b18a7b7ffa91df841a105583688/header.jpg?t=1757335141" alt="Plant Plots Demo（新規追加）" /></a></p><p>Plant Plots is a relaxing puzzle board game where you&#x27;ll need to be a clever gardener to make it through a variety of tricky levels. But watch out, these plants don&#x27;t behave quite like the ones you&#x27;re used to. Dive in and unwind as you solve beautifully crafted puzzles.</p><p><a href="https://store.steampowered.com/app/3973890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
