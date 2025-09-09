@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 09 Sep 2025 04:51:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Sep 2025 05:44:59 +0000</lastBuildDate>
+<item>
+  <title>Smashies!（新規追加）</title>
+  <link>https://store.steampowered.com/app/3982380/</link>
+  <guid isPermaLink="false">steam-store-published-3982380</guid>
+  <pubDate>Tue, 09 Sep 2025 05:44:59 +0000</pubDate>
+  <description>A chaotic physics-driven action game where you roll, smash, and launch through a destructible world full of mini games, quirky missions, and endless surprises.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982380/ad7dd1c979f45ab8fd3fcf9b97a831403190167c/header.jpg?t=1757392959" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982380/ad7dd1c979f45ab8fd3fcf9b97a831403190167c/header.jpg?t=1757392959" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982380/ad7dd1c979f45ab8fd3fcf9b97a831403190167c/header.jpg?t=1757392959" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3982380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982380/ad7dd1c979f45ab8fd3fcf9b97a831403190167c/header.jpg?t=1757392959" alt="Smashies!（新規追加）" /></a></p><p>A chaotic physics-driven action game where you roll, smash, and launch through a destructible world full of mini games, quirky missions, and endless surprises.</p><p><a href="https://store.steampowered.com/app/3982380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Blind Memory Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4012350/</link>
+  <guid isPermaLink="false">steam-store-published-4012350</guid>
+  <pubDate>Tue, 09 Sep 2025 05:44:59 +0000</pubDate>
+  <description>type=demo, appid=4012350</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012350/7993029ec3a8226695afba0704b057b47d84a051/header.jpg?t=1757393227" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012350/7993029ec3a8226695afba0704b057b47d84a051/header.jpg?t=1757393227" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012350/7993029ec3a8226695afba0704b057b47d84a051/header.jpg?t=1757393227" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4012350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012350/7993029ec3a8226695afba0704b057b47d84a051/header.jpg?t=1757393227" alt="Blind Memory Demo（新規追加）" /></a></p><p>type=demo, appid=4012350</p><p><a href="https://store.steampowered.com/app/4012350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Dungeon Run（新規追加）</title>
+  <link>https://store.steampowered.com/app/3992170/</link>
+  <guid isPermaLink="false">steam-store-published-3992170</guid>
+  <pubDate>Tue, 09 Sep 2025 05:44:59 +0000</pubDate>
+  <description>Race through 100 floors of massive dungeons, collect all the keys, and compete for glory!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992170/9c176b4d9dc256faa312340a517765e3236bddc3/header.jpg?t=1757394523" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992170/9c176b4d9dc256faa312340a517765e3236bddc3/header.jpg?t=1757394523" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992170/9c176b4d9dc256faa312340a517765e3236bddc3/header.jpg?t=1757394523" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3992170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992170/9c176b4d9dc256faa312340a517765e3236bddc3/header.jpg?t=1757394523" alt="Dungeon Run（新規追加）" /></a></p><p>Race through 100 floors of massive dungeons, collect all the keys, and compete for glory!</p><p><a href="https://store.steampowered.com/app/3992170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>イミテーション（新規追加）</title>
   <link>https://store.steampowered.com/app/3927570/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982540/fcd4036129bdc628ed55965c242c04e9647daf5a/header.jpg?t=1757120776" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982540/fcd4036129bdc628ed55965c242c04e9647daf5a/header.jpg?t=1757120776" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3982540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982540/fcd4036129bdc628ed55965c242c04e9647daf5a/header.jpg?t=1757120776" alt="Pussy Master: Cunt Coven（新規追加）" /></a></p><p>Enter Pussy Master: Cunt Coven, an erotic puzzle game with lesbian witch coven action. Solve sensual puzzles, unlock steamy scenes with the Cunt Coven, explore intimate character stories and vibe to the OST. Full gallery, favorites system, accessibility options and much more included. 🌙✨🔮</p><p><a href="https://store.steampowered.com/app/3982540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ScreenWolf（新規追加）</title>
-  <link>https://store.steampowered.com/app/3875700/</link>
-  <guid isPermaLink="false">steam-store-published-3875700</guid>
-  <pubDate>Sat, 06 Sep 2025 03:02:22 +0000</pubDate>
-  <description>A Simple and Easy Desktop Pet Game with Furry cute creature~</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875700/1b6d22a55d10ca6a0752198e70e890fe765109c3/header.jpg?t=1757123722" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875700/1b6d22a55d10ca6a0752198e70e890fe765109c3/header.jpg?t=1757123722" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875700/1b6d22a55d10ca6a0752198e70e890fe765109c3/header.jpg?t=1757123722" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3875700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875700/1b6d22a55d10ca6a0752198e70e890fe765109c3/header.jpg?t=1757123722" alt="ScreenWolf（新規追加）" /></a></p><p>A Simple and Easy Desktop Pet Game with Furry cute creature~</p><p><a href="https://store.steampowered.com/app/3875700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>魔塔与6勇者 - 占卜师（新規追加）</title>
-  <link>https://store.steampowered.com/app/3974710/</link>
-  <guid isPermaLink="false">steam-store-published-3974710</guid>
-  <pubDate>Sat, 06 Sep 2025 03:02:22 +0000</pubDate>
-  <description>购买魔塔与6勇者的新角色！</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974710/40e3ad9ecc087b2726fa88a0f8fddd7494186ea3/header.jpg?t=1757124693" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974710/40e3ad9ecc087b2726fa88a0f8fddd7494186ea3/header.jpg?t=1757124693" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974710/40e3ad9ecc087b2726fa88a0f8fddd7494186ea3/header.jpg?t=1757124693" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3974710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974710/40e3ad9ecc087b2726fa88a0f8fddd7494186ea3/header.jpg?t=1757124693" alt="魔塔与6勇者 - 占卜师（新規追加）" /></a></p><p>购买魔塔与6勇者的新角色！</p><p><a href="https://store.steampowered.com/app/3974710/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Code: Elf Contract（新規追加）</title>
-  <link>https://store.steampowered.com/app/3826890/</link>
-  <guid isPermaLink="false">steam-store-published-3826890</guid>
-  <pubDate>Sat, 06 Sep 2025 03:02:22 +0000</pubDate>
-  <description>a personalized desktop application that allows you to upload your own VRM characters, letting them statically accompany you on your desktop.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826890/9696dd01911f5fd4c4d69481bf1ea45342996b43/header.jpg?t=1757122844" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826890/9696dd01911f5fd4c4d69481bf1ea45342996b43/header.jpg?t=1757122844" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826890/9696dd01911f5fd4c4d69481bf1ea45342996b43/header.jpg?t=1757122844" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3826890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826890/9696dd01911f5fd4c4d69481bf1ea45342996b43/header.jpg?t=1757122844" alt="Code: Elf Contract（新規追加）" /></a></p><p>a personalized desktop application that allows you to upload your own VRM characters, letting them statically accompany you on your desktop.</p><p><a href="https://store.steampowered.com/app/3826890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
