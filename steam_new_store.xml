@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 10 Sep 2025 22:44:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Sep 2025 23:27:11 +0000</lastBuildDate>
+<item>
+  <title>WanderFlow（新規追加）</title>
+  <link>https://store.steampowered.com/app/3992320/</link>
+  <guid isPermaLink="false">steam-store-published-3992320</guid>
+  <pubDate>Wed, 10 Sep 2025 23:27:11 +0000</pubDate>
+  <description>A SteamVR plugin that converts your real arm and foot movements into virtual locomotion, creating a natural treadmill experience that replaces traditional joystick controls with intuitive in-place walking and running motions for enhanced VR immersion.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992320/4bffaadc7d7eaf78e0c67ed2f879d11744870f91/header.jpg?t=1757543794" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992320/4bffaadc7d7eaf78e0c67ed2f879d11744870f91/header.jpg?t=1757543794" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992320/4bffaadc7d7eaf78e0c67ed2f879d11744870f91/header.jpg?t=1757543794" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3992320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992320/4bffaadc7d7eaf78e0c67ed2f879d11744870f91/header.jpg?t=1757543794" alt="WanderFlow（新規追加）" /></a></p><p>A SteamVR plugin that converts your real arm and foot movements into virtual locomotion, creating a natural treadmill experience that replaces traditional joystick controls with intuitive in-place walking and running motions for enhanced VR immersion.</p><p><a href="https://store.steampowered.com/app/3992320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Droplet: States of Matter Soundtrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/4000620/</link>
+  <guid isPermaLink="false">steam-store-published-4000620</guid>
+  <pubDate>Wed, 10 Sep 2025 23:27:11 +0000</pubDate>
+  <description>Listen to the official soundtrack of Droplet: States of Matter! Composed by Karl Ast with guest tracks by Dillon Perera.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000620/5cc4fe11de68f67936f1d022c61fad7ca8934905/header.jpg?t=1757543907" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000620/5cc4fe11de68f67936f1d022c61fad7ca8934905/header.jpg?t=1757543907" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000620/5cc4fe11de68f67936f1d022c61fad7ca8934905/header.jpg?t=1757543907" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4000620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000620/5cc4fe11de68f67936f1d022c61fad7ca8934905/header.jpg?t=1757543907" alt="Droplet: States of Matter Soundtrack（新規追加）" /></a></p><p>Listen to the official soundtrack of Droplet: States of Matter! Composed by Karl Ast with guest tracks by Dillon Perera.</p><p><a href="https://store.steampowered.com/app/4000620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>ColorBlend FX: Desaturation Soundtrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/4011140/</link>
+  <guid isPermaLink="false">steam-store-published-4011140</guid>
+  <pubDate>Wed, 10 Sep 2025 23:27:11 +0000</pubDate>
+  <description>This is the full soundtrack to the indie puzzle-platformer metroidvania, ColorBlend FX: Desaturation. Music by DarksSilencer with select tracks by PeterSvP. Best enjoyed with open-back headphones.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4011140/73ea0831bc775a2adabc7e97d5f6928e32a7f84f/header.jpg?t=1757542183" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4011140/73ea0831bc775a2adabc7e97d5f6928e32a7f84f/header.jpg?t=1757542183" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4011140/73ea0831bc775a2adabc7e97d5f6928e32a7f84f/header.jpg?t=1757542183" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4011140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4011140/73ea0831bc775a2adabc7e97d5f6928e32a7f84f/header.jpg?t=1757542183" alt="ColorBlend FX: Desaturation Soundtrack（新規追加）" /></a></p><p>This is the full soundtrack to the indie puzzle-platformer metroidvania, ColorBlend FX: Desaturation. Music by DarksSilencer with select tracks by PeterSvP. Best enjoyed with open-back headphones.</p><p><a href="https://store.steampowered.com/app/4011140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cassette（新規追加）</title>
   <link>https://store.steampowered.com/app/2723320/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974510/ece82ae36b1395102f02886dd19fb94e30fc547f/header.jpg?t=1757432386" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974510/ece82ae36b1395102f02886dd19fb94e30fc547f/header.jpg?t=1757432386" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3974510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974510/ece82ae36b1395102f02886dd19fb94e30fc547f/header.jpg?t=1757432386" alt="Mindcraft（新規追加）" /></a></p><p>A mind-bending 3D puzzle game where you roll a block through increasingly complex levels. Master unique mechanics like lasers, switches, and collapsing glass floors while collecting hidden letters to unlock permanent upgrades in this challenging brain teaser.</p><p><a href="https://store.steampowered.com/app/3974510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Empire’s Supreme Command（新規追加）</title>
-  <link>https://store.steampowered.com/app/3991280/</link>
-  <guid isPermaLink="false">steam-store-published-3991280</guid>
-  <pubDate>Tue, 09 Sep 2025 16:46:50 +0000</pubDate>
-  <description>Turn-based strategy. Build, trade, fight, and lead your empire to victory.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991280/698651a94e7b2a103f86bbf8df7c12d8b6ebec2b/header.jpg?t=1757433168" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991280/698651a94e7b2a103f86bbf8df7c12d8b6ebec2b/header.jpg?t=1757433168" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991280/698651a94e7b2a103f86bbf8df7c12d8b6ebec2b/header.jpg?t=1757433168" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3991280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991280/698651a94e7b2a103f86bbf8df7c12d8b6ebec2b/header.jpg?t=1757433168" alt="Empire’s Supreme Command（新規追加）" /></a></p><p>Turn-based strategy. Build, trade, fight, and lead your empire to victory.</p><p><a href="https://store.steampowered.com/app/3991280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Eilean Mor: The Lost Keepers Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4014360/</link>
-  <guid isPermaLink="false">steam-store-published-4014360</guid>
-  <pubDate>Tue, 09 Sep 2025 15:51:09 +0000</pubDate>
-  <description>In 1900, off the coast of Scotland, the Eilean Mor lighthouse has gone silent. The light is out, and its three keepers are missing. No one is answering the radio. As a reserve keeper, you’re sent to investigate this horror mystery. But beware you may become the fourth to vanish.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014360/2e019b5362f26e030bb4c715909879e2abcfce16/header.jpg?t=1757431635" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014360/2e019b5362f26e030bb4c715909879e2abcfce16/header.jpg?t=1757431635" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014360/2e019b5362f26e030bb4c715909879e2abcfce16/header.jpg?t=1757431635" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014360/2e019b5362f26e030bb4c715909879e2abcfce16/header.jpg?t=1757431635" alt="Eilean Mor: The Lost Keepers Demo（新規追加）" /></a></p><p>In 1900, off the coast of Scotland, the Eilean Mor lighthouse has gone silent. The light is out, and its three keepers are missing. No one is answering the radio. As a reserve keeper, you’re sent to investigate this horror mystery. But beware you may become the fourth to vanish.</p><p><a href="https://store.steampowered.com/app/4014360/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>War Flavor Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3664260/</link>
-  <guid isPermaLink="false">steam-store-published-3664260</guid>
-  <pubDate>Tue, 09 Sep 2025 15:51:09 +0000</pubDate>
-  <description>type=demo, appid=3664260</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664260/5bd10b824815333a6ea5481aaa053b7ee51d3418/header.jpg?t=1757429064" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664260/5bd10b824815333a6ea5481aaa053b7ee51d3418/header.jpg?t=1757429064" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664260/5bd10b824815333a6ea5481aaa053b7ee51d3418/header.jpg?t=1757429064" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3664260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664260/5bd10b824815333a6ea5481aaa053b7ee51d3418/header.jpg?t=1757429064" alt="War Flavor Demo（新規追加）" /></a></p><p>type=demo, appid=3664260</p><p><a href="https://store.steampowered.com/app/3664260/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
