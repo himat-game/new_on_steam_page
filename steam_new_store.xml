@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 10 Sep 2025 04:46:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Sep 2025 05:44:29 +0000</lastBuildDate>
+<item>
+  <title>Deep Loop Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3975430/</link>
+  <guid isPermaLink="false">steam-store-published-3975430</guid>
+  <pubDate>Wed, 10 Sep 2025 05:44:29 +0000</pubDate>
+  <description>type=demo, appid=3975430</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975430/611958a72ea3649dbe77d2a920aee2047e4810c8/header.jpg?t=1757477567" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975430/611958a72ea3649dbe77d2a920aee2047e4810c8/header.jpg?t=1757477567" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975430/611958a72ea3649dbe77d2a920aee2047e4810c8/header.jpg?t=1757477567" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3975430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975430/611958a72ea3649dbe77d2a920aee2047e4810c8/header.jpg?t=1757477567" alt="Deep Loop Demo（新規追加）" /></a></p><p>type=demo, appid=3975430</p><p><a href="https://store.steampowered.com/app/3975430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>星火燎原 Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4005110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922910/eb178be2554a221e7838b5a2f0fce40085a02249/header.jpg?t=1757350792" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922910/eb178be2554a221e7838b5a2f0fce40085a02249/header.jpg?t=1757350792" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3922910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922910/eb178be2554a221e7838b5a2f0fce40085a02249/header.jpg?t=1757350792" alt="Slime Rancher 2: Original Soundtrack, Vol. 2（新規追加）" /></a></p><p>Slime Rancher 2: Original Soundtrack, Vol. 2 includes nearly 4 hours of music in 40 tracks by composer Harry Mack. All tracks are available in lossless format.</p><p><a href="https://store.steampowered.com/app/3922910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Coppy Tour（新規追加）</title>
-  <link>https://store.steampowered.com/app/4003340/</link>
-  <guid isPermaLink="false">steam-store-published-4003340</guid>
-  <pubDate>Mon, 08 Sep 2025 17:45:35 +0000</pubDate>
-  <description>Coppy Tour is a side-scrolling arcade adventure with the goal of collecting all coins, targets, and hidden items spread across the 2D world.  It is a classic &amp;quot;High-Score&amp;quot; competition, with an online leaderboard, full customization and unlimited playability.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003340/cb6781706ae3d99b0a8d7f134efd859c34df3f94/header.jpg?t=1757349834" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003340/cb6781706ae3d99b0a8d7f134efd859c34df3f94/header.jpg?t=1757349834" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003340/cb6781706ae3d99b0a8d7f134efd859c34df3f94/header.jpg?t=1757349834" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4003340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003340/cb6781706ae3d99b0a8d7f134efd859c34df3f94/header.jpg?t=1757349834" alt="Coppy Tour（新規追加）" /></a></p><p>Coppy Tour is a side-scrolling arcade adventure with the goal of collecting all coins, targets, and hidden items spread across the 2D world.  It is a classic &amp;quot;High-Score&amp;quot; competition, with an online leaderboard, full customization and unlimited playability.</p><p><a href="https://store.steampowered.com/app/4003340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
