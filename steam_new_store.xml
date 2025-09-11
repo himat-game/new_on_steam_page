@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 11 Sep 2025 08:20:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Sep 2025 08:50:03 +0000</lastBuildDate>
+<item>
+  <title>HeadHunters Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3780740/</link>
+  <guid isPermaLink="false">steam-store-published-3780740</guid>
+  <pubDate>Thu, 11 Sep 2025 08:50:03 +0000</pubDate>
+  <description>type=game, appid=3780740</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780740/5ef7a3aadb3522f299118624b8cc802897fe0e31/header.jpg?t=1757577501" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780740/5ef7a3aadb3522f299118624b8cc802897fe0e31/header.jpg?t=1757577501" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780740/5ef7a3aadb3522f299118624b8cc802897fe0e31/header.jpg?t=1757577501" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3780740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780740/5ef7a3aadb3522f299118624b8cc802897fe0e31/header.jpg?t=1757577501" alt="HeadHunters Playtest（新規追加）" /></a></p><p>type=game, appid=3780740</p><p><a href="https://store.steampowered.com/app/3780740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Outbreak Zero Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3915990/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996220/ad170b2a941ae86a19647b345852a8d0351940f6/header.jpg?t=1757449389" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996220/ad170b2a941ae86a19647b345852a8d0351940f6/header.jpg?t=1757449389" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3996220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996220/ad170b2a941ae86a19647b345852a8d0351940f6/header.jpg?t=1757449389" alt="First Sino-Japanese War（新規追加）" /></a></p><p>Free and open source game for First Sino-Japanese War, featuring a tactical naval combat system combined with a turn based hex WEGO strategic layer.</p><p><a href="https://store.steampowered.com/app/3996220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Games of Rome（新規追加）</title>
-  <link>https://store.steampowered.com/app/3955400/</link>
-  <guid isPermaLink="false">steam-store-published-3955400</guid>
-  <pubDate>Tue, 09 Sep 2025 20:45:13 +0000</pubDate>
-  <description>Games of Rome is a 2D top down boss rush game taking place in the Colosseum during the time of the Roman Empire. The player will fight foes all based on Roman history and myth, for the entertainment of the people of Rome.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955400/5a8af0c748e45c2b7a5126ab7cfe89f880633812/header.jpg?t=1757447680" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955400/5a8af0c748e45c2b7a5126ab7cfe89f880633812/header.jpg?t=1757447680" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955400/5a8af0c748e45c2b7a5126ab7cfe89f880633812/header.jpg?t=1757447680" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3955400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955400/5a8af0c748e45c2b7a5126ab7cfe89f880633812/header.jpg?t=1757447680" alt="Games of Rome（新規追加）" /></a></p><p>Games of Rome is a 2D top down boss rush game taking place in the Colosseum during the time of the Roman Empire. The player will fight foes all based on Roman history and myth, for the entertainment of the people of Rome.</p><p><a href="https://store.steampowered.com/app/3955400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
