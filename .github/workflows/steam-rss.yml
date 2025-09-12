@@ -5,13 +5,12 @@ on:
     - cron: "*/20 * * * *"   # 20分おき
   workflow_dispatch:
 
-# 同時実行を防ぐ（前回が長引いたら新しい方を優先）
 concurrency:
   group: steam-rss
   cancel-in-progress: true
 
 permissions:
-  contents: write  # GITHUB_TOKEN で push するため
+  contents: write
 
 jobs:
   run:
@@ -24,15 +23,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 直前の状態ファイルを Artifact から復元（初回は無いのでスキップ）
-      - name: Restore state (if exists)
-        uses: actions/download-artifact@v4
-        with:
-          name: state
-          path: state
-        continue-on-error: true
-
-      # 軽いジッター（毎回同時刻集中を避ける）
       - name: Jitter
         run: python -c "import time, random; time.sleep(random.uniform(0,30))"
 
@@ -53,26 +43,15 @@ jobs:
             --updates-title "Steam Store 更新イベント（価格・言語含む）" \
             --updates-desc "Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知"
 
-      # 実行後の state を確認（存在しないと次回も baseline になる）
       - name: Show state dir
-        run: ls -l state || true
+        run: ls -lh state || true
 
-      # 実行後の状態ファイルを Artifact に保存（リポにはコミットしない）
-      - name: Save state
-        uses: actions/upload-artifact@v4
-        with:
-          name: state
-          path: state/state.json.gz
-          if-no-files-found: warn
-          retention-days: 30
-
-      # RSSだけをコミット＆プッシュ（state はコミットしない）
       - name: Commit & push if changed
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add steam_new_store.xml steam_store_updates.xml
-            git commit -m "Update RSS: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+            git add steam_new_store.xml steam_store_updates.xml state/state.json.gz
+            git commit -m "Update RSS & state: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
             git push
           fi
