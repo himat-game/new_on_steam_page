@@ -24,14 +24,17 @@ jobs:
         with:
           python-version: "3.11"
 
+      
+
       # 軽いジッター（毎回同時刻集中を避ける）
       - name: Jitter
         run: python -c "import time, random; time.sleep(random.uniform(0,30))"
 
       - name: Run detector (baseline on first run)
         run: |
+          mkdir -p state
           python steam_new_store_rss.py \
-            --state state.json \
+            --state state/state.json.gz \
             --rss-out steam_new_store.xml \
             --updates-out steam_store_updates.xml \
             --pending-retry 100 \
