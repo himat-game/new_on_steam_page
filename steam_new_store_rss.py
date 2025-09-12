@@ -42,29 +42,77 @@ SLOW_MODE_SECONDS = 180  # ← 3分（短め）
 _last_request_ts = 0.0
 _slow_mode_until = 0.0
 
-# --- state I/O helpers: gzip対応 & 自動ダイエット ---
-import os, json, gzip  # gzip未インポートなら追加
+# --- state I/O helpers: gzip対応 & 自動ダイエット（薄く保持） ---
+import os, json, gzip
+
+# 最大保持件数（RSS肥大防止）
+MAX_ITEMS    = 300     # 新規RSS
+MAX_UPDATES  = 500     # 更新RSS
+MAX_PENDING  = 5000    # pendingキュー
 
 def _minimize_state(d: dict) -> dict:
-    """必要最小限だけ残す（サイズ縮小＆KeyError防止）"""
-    seen = d.get("seen", {})
-    if isinstance(seen, dict):
-        # 値は全部「1」に潰す（キー存在のみ使う想定）
-        seen = {str(k): 1 for k in list(seen.keys())}
-    cursor = int(d.get("cursor", 0))
-    return {"seen": seen, "cursor": cursor, "items": [], "pending": []}
+    """必要最小限を薄く保持。更新検出に必要なスナップショットは最小項目のみ保持。"""
+    # 1) seen はキー存在だけ使うので値を1に潰す
+    seen_src = d.get("seen", {})
+    seen = {str(k): 1 for k in seen_src.keys()} if isinstance(seen_src, dict) else {}
+
+    # 2) カーソルは 'crawl_cursor' を採用（無ければ cursor→0）
+    crawl_cursor = int(d.get("crawl_cursor", d.get("cursor", 0) or 0))
+
+    # 3) items / updates はRSSに必要なので中身は残しつつ件数を上限でスライス（先頭が最新想定）
+    items = d.get("items", [])
+    if not isinstance(items, list): items = []
+    items = items[:MAX_ITEMS]
+
+    updates = d.get("updates", [])
+    if not isinstance(updates, list): updates = []
+    updates = updates[:MAX_UPDATES]
+
+    # 4) pending はそのまま（件数上限のみ）
+    pending = d.get("pending", [])
+    if not isinstance(pending, list): pending = []
+    pending = pending[:MAX_PENDING]
+
+    # 5) snapshots は更新検出に必要なキーだけ残す（価格/言語）
+    snaps_src = d.get("snapshots", {})
+    snaps = {}
+    if isinstance(snaps_src, dict):
+        for k, v in snaps_src.items():
+            if isinstance(v, dict):
+                price = v.get("price") or ("Free" if v.get("is_free") else "")
+                langs = v.get("supported_languages") or []
+                if isinstance(langs, str):
+                    langs = [x.strip() for x in langs.split(",") if x.strip()]
+                if not isinstance(langs, list):
+                    langs = []
+                snaps[str(k)] = {
+                    "price": price,
+                    "supported_languages": sorted(set(langs)),
+                }
+
+    return {
+        "seen": seen,
+        "pending": pending,
+        "items": items,
+        "updates": updates,
+        "snapshots": snaps,
+        "applist": d.get("applist", []),  # 無くても動くが残しても軽い
+        "crawl_cursor": crawl_cursor,
+    }
 
 def load_state(path: str) -> dict:
     """BOM混入耐性・.gz対応・読込時にも最小化"""
     p = path
-    # 初回移行: .gzが無いが .json がある場合は .json を読む
+    # 初回移行: .gzが無いが同名.jsonがある場合は .json を読む
     if p.endswith(".gz") and not os.path.exists(p) and os.path.exists(p[:-3]):
         p = p[:-3]
+    if not os.path.exists(p):
+        return _minimize_state({})
     if p.endswith(".gz"):
         with gzip.open(p, "rt", encoding="utf-8") as f:
             return _minimize_state(json.load(f))
     else:
-        # BOM対策：utf-8-sig
+        # BOM対策
         with open(p, "r", encoding="utf-8-sig") as f:
             return _minimize_state(json.load(f))
 
@@ -78,8 +126,8 @@ def save_state(path: str, state: dict) -> None:
     else:
         with open(path, "w", encoding="utf-8") as f:
             f.write(text)
-          
 # --- /helpers ---
+
 def _polite_sleep():
     """直前から一定時間を空ける（429検知後はスローモード）"""
     global _last_request_ts, _slow_mode_until
@@ -375,26 +423,6 @@ def build_update_item(appid: int, data: dict, changes: List[Tuple[str,str,str]],
         "title": title, "link": link, "guid": guid, "pubDate": now_iso,
         "description": desc, "image": image,
     }
-
-# =========================
-# State I/O
-# =========================
-
-def load_state(path: str) -> Dict:
-    if not os.path.exists(path):
-        return {
-            "seen": {}, "pending": [], "items": [],
-            "updates": [], "snapshots": {},
-            "applist": [], "crawl_cursor": 0
-        }
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-def save_state(path: str, state: Dict) -> None:
-    tmp = path + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
-    os.replace(tmp, path)
 
 # =========================
 # Main
