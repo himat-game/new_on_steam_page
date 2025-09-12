@@ -53,6 +53,10 @@ jobs:
             --updates-title "Steam Store 更新イベント（価格・言語含む）" \
             --updates-desc "Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知"
 
+      # 実行後の state を確認（存在しないと次回も baseline になる）
+      - name: Show state dir
+        run: ls -l state || true
+
       # 実行後の状態ファイルを Artifact に保存（リポにはコミットしない）
       - name: Save state
         uses: actions/upload-artifact@v4
