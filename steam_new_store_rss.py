@@ -42,6 +42,42 @@ SLOW_MODE_SECONDS = 180  # ← 3分（短め）
 _last_request_ts = 0.0
 _slow_mode_until = 0.0
 
+# --- add/replace: state I/O helpers (gzip対応 & 自動ダイエット) ---
+import os, json, gzip  # ← なければ追加
+
+def _minimize_state(d: dict) -> dict:
+    # 必要最小限だけ残す（seen/cursor）＋ items/pendingを空配列で保証
+    seen = d.get("seen", {})
+    if isinstance(seen, dict):
+        # 値は全部「1」に潰す（キーだけ使う想定）
+        seen = {str(k): 1 for k in list(seen.keys())}
+    cursor = int(d.get("cursor", 0))
+    return {"seen": seen, "cursor": cursor, "items": [], "pending": []}
+
+def load_state(path: str) -> dict:
+    # .gz指定なのに未作成なら .json を自動フォールバック（移行用）
+    p = path
+    if p.endswith(".gz") and not os.path.exists(p) and os.path.exists(p[:-3]):
+        p = p[:-3]
+    # BOM混入対策: .jsonは utf-8-sig で読む
+    if p.endswith(".gz"):
+        with gzip.open(p, "rt", encoding="utf-8") as f:
+            return _minimize_state(json.load(f))
+    else:
+        with open(p, "r", encoding="utf-8-sig") as f:
+            return _minimize_state(json.load(f))
+
+def save_state(path: str, state: dict) -> None:
+    d = _minimize_state(state)  # 保存前に毎回ダイエット
+    text = json.dumps(d, ensure_ascii=False, separators=(',',':'))
+    if path.endswith(".gz"):
+        with gzip.open(path, "wt", encoding="utf-8") as f:
+            f.write(text)
+    else:
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(text)
+# --- /helpers ---
+
 def _polite_sleep():
     """直前から一定時間を空ける（429検知後はスローモード）"""
     global _last_request_ts, _slow_mode_until
