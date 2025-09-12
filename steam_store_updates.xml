@@ -5,17 +5,6 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 11 Sep 2025 05:44:48 +0000</lastBuildDate>
-<item>
-  <title>Puzzle - LINES AND KNOTS 3（ヘッダー画像更新 / カプセル画像更新）</title>
-  <link>https://store.steampowered.com/app/1329030/</link>
-  <guid isPermaLink="false">steam-store-update-1329030-1757569853</guid>
-  <pubDate>Thu, 11 Sep 2025 05:44:48 +0000</pubDate>
-  <description>カプセル画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71be29e24bfb0fbe2ff82bac68116b20f5ffb8cb/capsule_184x69.jpg?t=1757059637 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71be29e24bfb0fbe2ff82bac68116b20f5ffb8cb/capsule_184x69.jpg?t=1757175919; ヘッダー画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757059637 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757175919</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757175919" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757175919" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757175919" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1329030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757175919" alt="Puzzle - LINES AND KNOTS 3（ヘッダー画像更新 / カプセル画像更新）" /></a></p><p>カプセル画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71be29e24bfb0fbe2ff82bac68116b20f5ffb8cb/capsule_184x69.jpg?t=1757059637 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71be29e24bfb0fbe2ff82bac68116b20f5ffb8cb/capsule_184x69.jpg?t=1757175919; ヘッダー画像: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757059637 → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329030/71a3c6677e48c7c19d8e2f17036dab0271b407ec/header.jpg?t=1757175919</p><p><a href="https://store.steampowered.com/app/1329030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
+<lastBuildDate>Fri, 12 Sep 2025 02:53:05 +0000</lastBuildDate>
 </channel>
 </rss>
