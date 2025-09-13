@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 13 Sep 2025 12:27:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Sep 2025 13:44:18 +0000</lastBuildDate>
+<item>
+  <title>Near The Fear Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3994630/</link>
+  <guid isPermaLink="false">steam-store-published-3994630</guid>
+  <pubDate>Sat, 13 Sep 2025 13:44:18 +0000</pubDate>
+  <description>type=game, appid=3994630</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994630/355c63eb4688dbabf04330711a09f966b046b27b/header.jpg?t=1757767738" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994630/355c63eb4688dbabf04330711a09f966b046b27b/header.jpg?t=1757767738" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994630/355c63eb4688dbabf04330711a09f966b046b27b/header.jpg?t=1757767738" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3994630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994630/355c63eb4688dbabf04330711a09f966b046b27b/header.jpg?t=1757767738" alt="Near The Fear Playtest（新規追加）" /></a></p><p>type=game, appid=3994630</p><p><a href="https://store.steampowered.com/app/3994630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Timber Fever（新規追加）</title>
+  <link>https://store.steampowered.com/app/3536160/</link>
+  <guid isPermaLink="false">steam-store-published-3536160</guid>
+  <pubDate>Sat, 13 Sep 2025 13:44:18 +0000</pubDate>
+  <description>Cut down an infinitely tall Tree and defeat its Protectors. Timber Fever is an action, incremental, roguelike where you create chaos by cutting down the Tree of Life using wacky items and equipment.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3536160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" alt="Timber Fever（新規追加）" /></a></p><p>Cut down an infinitely tall Tree and defeat its Protectors. Timber Fever is an action, incremental, roguelike where you create chaos by cutting down the Tree of Life using wacky items and equipment.</p><p><a href="https://store.steampowered.com/app/3536160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Jamp Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4031260/</link>
