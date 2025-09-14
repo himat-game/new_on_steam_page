@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Sep 2025 08:18:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Sep 2025 09:13:49 +0000</lastBuildDate>
+<item>
+  <title>RePulse-X Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4018310/</link>
+  <guid isPermaLink="false">steam-store-published-4018310</guid>
+  <pubDate>Sun, 14 Sep 2025 09:13:49 +0000</pubDate>
+  <description>type=game, appid=4018310</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018310/b31729f71e13f26331835c0c2adccb30d44095ab/header.jpg?t=1757837710" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018310/b31729f71e13f26331835c0c2adccb30d44095ab/header.jpg?t=1757837710" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018310/b31729f71e13f26331835c0c2adccb30d44095ab/header.jpg?t=1757837710" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4018310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018310/b31729f71e13f26331835c0c2adccb30d44095ab/header.jpg?t=1757837710" alt="RePulse-X Playtest（新規追加）" /></a></p><p>type=game, appid=4018310</p><p><a href="https://store.steampowered.com/app/4018310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>WALKER Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4025200/</link>
+  <guid isPermaLink="false">steam-store-published-4025200</guid>
+  <pubDate>Sun, 14 Sep 2025 09:13:49 +0000</pubDate>
+  <description>An online co-op horror game where you and your crew hunt monsters inside a massive WALKER. Use your environment, items, or anything at your disposal to protect your WALKER.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025200/e8175829f8b4d839dade1e3a70dea39025be6569/header.jpg?t=1757838345" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025200/e8175829f8b4d839dade1e3a70dea39025be6569/header.jpg?t=1757838345" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025200/e8175829f8b4d839dade1e3a70dea39025be6569/header.jpg?t=1757838345" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4025200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025200/e8175829f8b4d839dade1e3a70dea39025be6569/header.jpg?t=1757838345" alt="WALKER Demo（新規追加）" /></a></p><p>An online co-op horror game where you and your crew hunt monsters inside a massive WALKER. Use your environment, items, or anything at your disposal to protect your WALKER.</p><p><a href="https://store.steampowered.com/app/4025200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Calc Overflow Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4016410/</link>
