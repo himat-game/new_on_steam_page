@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Sep 2025 02:42:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Sep 2025 04:45:24 +0000</lastBuildDate>
+<item>
+  <title>Qubx 2 Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4015140/</link>
+  <guid isPermaLink="false">steam-store-published-4015140</guid>
+  <pubDate>Sun, 14 Sep 2025 04:45:24 +0000</pubDate>
+  <description>type=game, appid=4015140</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015140/82513ed1c0535d0d62933bb65a5fa2f3b2f5402e/header.jpg?t=1757823811" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015140/82513ed1c0535d0d62933bb65a5fa2f3b2f5402e/header.jpg?t=1757823811" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015140/82513ed1c0535d0d62933bb65a5fa2f3b2f5402e/header.jpg?t=1757823811" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4015140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015140/82513ed1c0535d0d62933bb65a5fa2f3b2f5402e/header.jpg?t=1757823811" alt="Qubx 2 Playtest（新規追加）" /></a></p><p>type=game, appid=4015140</p><p><a href="https://store.steampowered.com/app/4015140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pinch N Roll（新規追加）</title>
   <link>https://store.steampowered.com/app/2769870/</link>
