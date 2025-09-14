@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Sep 2025 18:18:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Sep 2025 18:47:57 +0000</lastBuildDate>
+<item>
+  <title>Zero-G Guns Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3948310/</link>
+  <guid isPermaLink="false">steam-store-published-3948310</guid>
+  <pubDate>Sun, 14 Sep 2025 18:47:57 +0000</pubDate>
+  <description>type=demo, appid=3948310</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948310/95e398ed8f068ccd60b97990184922ebb6b87ef1/header.jpg?t=1757871754" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948310/95e398ed8f068ccd60b97990184922ebb6b87ef1/header.jpg?t=1757871754" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948310/95e398ed8f068ccd60b97990184922ebb6b87ef1/header.jpg?t=1757871754" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3948310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948310/95e398ed8f068ccd60b97990184922ebb6b87ef1/header.jpg?t=1757871754" alt="Zero-G Guns Demo（新規追加）" /></a></p><p>type=demo, appid=3948310</p><p><a href="https://store.steampowered.com/app/3948310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Malignant Survivors: Hellmarch™ DEMO（新規追加）</title>
+  <link>https://store.steampowered.com/app/4010940/</link>
+  <guid isPermaLink="false">steam-store-published-4010940</guid>
+  <pubDate>Sun, 14 Sep 2025 18:47:57 +0000</pubDate>
+  <description>Enter Hellmarch, a world consumed by nightmares, ancient ruins, forbidden magic, and mountains of loot. Battle relentless enemy hordes, grow stronger with every run, and uncover the dark secrets of a forgotten land.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010940/cc15f5269770625b3a5d9d0692680491b7871f24/header.jpg?t=1757872411" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010940/cc15f5269770625b3a5d9d0692680491b7871f24/header.jpg?t=1757872411" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010940/cc15f5269770625b3a5d9d0692680491b7871f24/header.jpg?t=1757872411" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4010940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010940/cc15f5269770625b3a5d9d0692680491b7871f24/header.jpg?t=1757872411" alt="Malignant Survivors: Hellmarch™ DEMO（新規追加）" /></a></p><p>Enter Hellmarch, a world consumed by nightmares, ancient ruins, forbidden magic, and mountains of loot. Battle relentless enemy hordes, grow stronger with every run, and uncover the dark secrets of a forgotten land.</p><p><a href="https://store.steampowered.com/app/4010940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Silent Pathways（新規追加）</title>
   <link>https://store.steampowered.com/app/3247620/</link>
