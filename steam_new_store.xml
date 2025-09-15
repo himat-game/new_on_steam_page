@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 15 Sep 2025 10:48:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Sep 2025 11:27:55 +0000</lastBuildDate>
+<item>
+  <title>SwitchTrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/3916040/</link>
+  <guid isPermaLink="false">steam-store-published-3916040</guid>
+  <pubDate>Mon, 15 Sep 2025 11:27:55 +0000</pubDate>
+  <description>SwitchTrack is a minecart management puzzle game! Take control of the tracks and try to guide all incoming carts toward their destinations.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916040/c38425341ac23c4fdb13291b77286759656a0298/header.jpg?t=1757932525" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916040/c38425341ac23c4fdb13291b77286759656a0298/header.jpg?t=1757932525" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916040/c38425341ac23c4fdb13291b77286759656a0298/header.jpg?t=1757932525" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3916040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916040/c38425341ac23c4fdb13291b77286759656a0298/header.jpg?t=1757932525" alt="SwitchTrack（新規追加）" /></a></p><p>SwitchTrack is a minecart management puzzle game! Take control of the tracks and try to guide all incoming carts toward their destinations.</p><p><a href="https://store.steampowered.com/app/3916040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hope : The Flickering Light（新規追加）</title>
   <link>https://store.steampowered.com/app/3637640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015860/1ae7e1f68cfc4863c50a2029391dfeb0af7f7b15/header.jpg?t=1757679287" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015860/1ae7e1f68cfc4863c50a2029391dfeb0af7f7b15/header.jpg?t=1757679287" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4015860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015860/1ae7e1f68cfc4863c50a2029391dfeb0af7f7b15/header.jpg?t=1757679287" alt="Too Many Bots（新規追加）" /></a></p><p>PREY. HUNTER. REPEAT. You are prey one moment, hunter the next, in an endless cycle. An experimental survival where each mode demands a new strategy.</p><p><a href="https://store.steampowered.com/app/4015860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Your Big, Cute Monster Farm Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3790260/</link>
-  <guid isPermaLink="false">steam-store-published-3790260</guid>
-  <pubDate>Fri, 12 Sep 2025 11:44:17 +0000</pubDate>
-  <description>Welcome to the demo of Your Big, Cute Monster Farm! In this game, you’ll hatch adorable monsters to keep you company while you work or study.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790260/7397d596cd4f40335042491b074e6950a34aabe3/header.jpg?t=1757674342" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790260/7397d596cd4f40335042491b074e6950a34aabe3/header.jpg?t=1757674342" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790260/7397d596cd4f40335042491b074e6950a34aabe3/header.jpg?t=1757674342" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3790260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790260/7397d596cd4f40335042491b074e6950a34aabe3/header.jpg?t=1757674342" alt="Your Big, Cute Monster Farm Demo（新規追加）" /></a></p><p>Welcome to the demo of Your Big, Cute Monster Farm! In this game, you’ll hatch adorable monsters to keep you company while you work or study.</p><p><a href="https://store.steampowered.com/app/3790260/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
