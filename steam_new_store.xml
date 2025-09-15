@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 15 Sep 2025 01:15:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Sep 2025 02:46:34 +0000</lastBuildDate>
+<item>
+  <title>The Mushroom Adventrue:Call of Distant Realms Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4014930/</link>
+  <guid isPermaLink="false">steam-store-published-4014930</guid>
+  <pubDate>Mon, 15 Sep 2025 02:46:34 +0000</pubDate>
+  <description>type=game, appid=4014930</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014930/1ac1247b6750315190d13fb54c7a8820715e83bb/header.jpg?t=1757899514" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014930/1ac1247b6750315190d13fb54c7a8820715e83bb/header.jpg?t=1757899514" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014930/1ac1247b6750315190d13fb54c7a8820715e83bb/header.jpg?t=1757899514" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014930/1ac1247b6750315190d13fb54c7a8820715e83bb/header.jpg?t=1757899514" alt="The Mushroom Adventrue:Call of Distant Realms Playtest（新規追加）" /></a></p><p>type=game, appid=4014930</p><p><a href="https://store.steampowered.com/app/4014930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Accelerator Operator Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4023700/</link>
