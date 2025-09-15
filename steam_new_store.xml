@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Sep 2025 23:13:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Sep 2025 01:15:59 +0000</lastBuildDate>
+<item>
+  <title>Accelerator Operator Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4023700/</link>
+  <guid isPermaLink="false">steam-store-published-4023700</guid>
+  <pubDate>Mon, 15 Sep 2025 01:15:59 +0000</pubDate>
+  <description>Build a chain reaction and watch it break apart for Profit! Accelerator Operator is cash chasing roguelike where you harness the power of the atom. Play through 7 rounds and claim your prize!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023700/74d0d252d71a967bdc65826f2a530c9cabf87f15/header.jpg?t=1757893411" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023700/74d0d252d71a967bdc65826f2a530c9cabf87f15/header.jpg?t=1757893411" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023700/74d0d252d71a967bdc65826f2a530c9cabf87f15/header.jpg?t=1757893411" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4023700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023700/74d0d252d71a967bdc65826f2a530c9cabf87f15/header.jpg?t=1757893411" alt="Accelerator Operator Demo（新規追加）" /></a></p><p>Build a chain reaction and watch it break apart for Profit! Accelerator Operator is cash chasing roguelike where you harness the power of the atom. Play through 7 rounds and claim your prize!</p><p><a href="https://store.steampowered.com/app/4023700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bayaya Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4002490/</link>
