@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 16 Sep 2025 21:28:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Sep 2025 22:13:45 +0000</lastBuildDate>
+<item>
+  <title>PROJECT HUNT - LONE STAR HUNTING RANCH（新規追加）</title>
+  <link>https://store.steampowered.com/app/4018820/</link>
+  <guid isPermaLink="false">steam-store-published-4018820</guid>
+  <pubDate>Tue, 16 Sep 2025 22:13:45 +0000</pubDate>
+  <description>Explore the rugged Texas hunting ranch with new wildlife, including elk, bighorn sheep, axis deer, cassowary, black rhino, and more. Master the new shooting range, fire the old cannons, drive the SUV, and experience fresh ways to hunt and survive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018820/bddd8fadb2824df34e203fb6c789d7f776aaa0a7/header.jpg?t=1758058218" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018820/bddd8fadb2824df34e203fb6c789d7f776aaa0a7/header.jpg?t=1758058218" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018820/bddd8fadb2824df34e203fb6c789d7f776aaa0a7/header.jpg?t=1758058218" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4018820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018820/bddd8fadb2824df34e203fb6c789d7f776aaa0a7/header.jpg?t=1758058218" alt="PROJECT HUNT - LONE STAR HUNTING RANCH（新規追加）" /></a></p><p>Explore the rugged Texas hunting ranch with new wildlife, including elk, bighorn sheep, axis deer, cassowary, black rhino, and more. Master the new shooting range, fire the old cannons, drive the SUV, and experience fresh ways to hunt and survive.</p><p><a href="https://store.steampowered.com/app/4018820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Blaster Bunny Sacrilege（新規追加）</title>
   <link>https://store.steampowered.com/app/4026630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014380/d0b9ab95e43cf8c5941f6d50a8f418e99e7aba84/header.jpg?t=1757961268" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014380/d0b9ab95e43cf8c5941f6d50a8f418e99e7aba84/header.jpg?t=1757961268" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014380/d0b9ab95e43cf8c5941f6d50a8f418e99e7aba84/header.jpg?t=1757961268" alt="Pirate101 - Classic Steamboat Mount（新規追加）" /></a></p><p>Boatloads of fun! The new Steam-Exclusive Classic Steamboat Mount is now available!</p><p><a href="https://store.steampowered.com/app/4014380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Grid Raid Heroes（新規追加）</title>
-  <link>https://store.steampowered.com/app/4009070/</link>
-  <guid isPermaLink="false">steam-store-published-4009070</guid>
-  <pubDate>Mon, 15 Sep 2025 18:50:38 +0000</pubDate>
-  <description>Deploy heroes, raid epic bosses, and dominate factions in a cyberpunk universe with offline battles, gear upgrades, hero food power-ups, and strategic live events.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009070/2bb0e22893cfa13308d82980e069b6f876be9d49/header.jpg?t=1757960298" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009070/2bb0e22893cfa13308d82980e069b6f876be9d49/header.jpg?t=1757960298" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009070/2bb0e22893cfa13308d82980e069b6f876be9d49/header.jpg?t=1757960298" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4009070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009070/2bb0e22893cfa13308d82980e069b6f876be9d49/header.jpg?t=1757960298" alt="Grid Raid Heroes（新規追加）" /></a></p><p>Deploy heroes, raid epic bosses, and dominate factions in a cyberpunk universe with offline battles, gear upgrades, hero food power-ups, and strategic live events.</p><p><a href="https://store.steampowered.com/app/4009070/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
