@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 16 Sep 2025 22:29:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Sep 2025 22:44:29 +0000</lastBuildDate>
+<item>
+  <title>Coasterama（新規追加）</title>
+  <link>https://store.steampowered.com/app/4023850/</link>
+  <guid isPermaLink="false">steam-store-published-4023850</guid>
+  <pubDate>Tue, 16 Sep 2025 22:44:29 +0000</pubDate>
+  <description>Coasterama is a short puzzle game about helping tiny guys ride the rollercoaster of their dreams. Build each rollercoaster piece by piece while meeting every tiny guys&#x27; requirements, all while figuring out how to complete the rollercoaster. </description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023850/9429aa15e751aa25448115dd525f2b824657970c/header.jpg?t=1758060420" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023850/9429aa15e751aa25448115dd525f2b824657970c/header.jpg?t=1758060420" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023850/9429aa15e751aa25448115dd525f2b824657970c/header.jpg?t=1758060420" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4023850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023850/9429aa15e751aa25448115dd525f2b824657970c/header.jpg?t=1758060420" alt="Coasterama（新規追加）" /></a></p><p>Coasterama is a short puzzle game about helping tiny guys ride the rollercoaster of their dreams. Build each rollercoaster piece by piece while meeting every tiny guys&#x27; requirements, all while figuring out how to complete the rollercoaster. </p><p><a href="https://store.steampowered.com/app/4023850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Little Nightmares III – Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/2088760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023900/3cdb5b524acce3eac0ef0ff7dc2e3a7b021fb831/header.jpg?t=1757961812" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023900/3cdb5b524acce3eac0ef0ff7dc2e3a7b021fb831/header.jpg?t=1757961812" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4023900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023900/3cdb5b524acce3eac0ef0ff7dc2e3a7b021fb831/header.jpg?t=1757961812" alt="Nightmare Visions Chapter 2（新規追加）" /></a></p><p>You step off the marked trail and a rockfall seals your way back. You begin to follow faint signs through a darkening forest, shadowed by something that knows these woods, and learn why places like this go unreported or why no one returns...</p><p><a href="https://store.steampowered.com/app/4023900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Spartacus Blood Arena Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/3995020/</link>
-  <guid isPermaLink="false">steam-store-published-3995020</guid>
-  <pubDate>Mon, 15 Sep 2025 19:44:08 +0000</pubDate>
-  <description>type=game, appid=3995020</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995020/c20f63f2bc7139031403d8f6e97a8f078976b6ae/header.jpg?t=1757962306" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995020/c20f63f2bc7139031403d8f6e97a8f078976b6ae/header.jpg?t=1757962306" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995020/c20f63f2bc7139031403d8f6e97a8f078976b6ae/header.jpg?t=1757962306" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3995020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995020/c20f63f2bc7139031403d8f6e97a8f078976b6ae/header.jpg?t=1757962306" alt="Spartacus Blood Arena Playtest（新規追加）" /></a></p><p>type=game, appid=3995020</p><p><a href="https://store.steampowered.com/app/3995020/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
