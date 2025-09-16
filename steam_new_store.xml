@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 16 Sep 2025 22:13:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Sep 2025 22:29:46 +0000</lastBuildDate>
+<item>
+  <title>Little Nightmares III – Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/2088760/</link>
+  <guid isPermaLink="false">steam-store-published-2088760</guid>
+  <pubDate>Tue, 16 Sep 2025 22:29:46 +0000</pubDate>
+  <description>type=demo, appid=2088760</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088760/529ca2c5c4e41a3a2f12d63ea84df725816d1d1d/header.jpg?t=1758060058" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088760/529ca2c5c4e41a3a2f12d63ea84df725816d1d1d/header.jpg?t=1758060058" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088760/529ca2c5c4e41a3a2f12d63ea84df725816d1d1d/header.jpg?t=1758060058" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2088760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088760/529ca2c5c4e41a3a2f12d63ea84df725816d1d1d/header.jpg?t=1758060058" alt="Little Nightmares III – Demo（新規追加）" /></a></p><p>type=demo, appid=2088760</p><p><a href="https://store.steampowered.com/app/2088760/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Free For Fall Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4032150/</link>
+  <guid isPermaLink="false">steam-store-published-4032150</guid>
+  <pubDate>Tue, 16 Sep 2025 22:29:46 +0000</pubDate>
+  <description>A 3D party platformer where you grab obstacles from a shared box, place them on the course, then race through the deadly gauntlet you all created. Outsmart your friends while surviving your own traps!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032150/531911cbe19dd60d3cee615c3ebd2d68893503f9/header.jpg?t=1758059812" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032150/531911cbe19dd60d3cee615c3ebd2d68893503f9/header.jpg?t=1758059812" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032150/531911cbe19dd60d3cee615c3ebd2d68893503f9/header.jpg?t=1758059812" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4032150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032150/531911cbe19dd60d3cee615c3ebd2d68893503f9/header.jpg?t=1758059812" alt="Free For Fall Demo（新規追加）" /></a></p><p>A 3D party platformer where you grab obstacles from a shared box, place them on the course, then race through the deadly gauntlet you all created. Outsmart your friends while surviving your own traps!</p><p><a href="https://store.steampowered.com/app/4032150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PROJECT HUNT - LONE STAR HUNTING RANCH（新規追加）</title>
   <link>https://store.steampowered.com/app/4018820/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995020/c20f63f2bc7139031403d8f6e97a8f078976b6ae/header.jpg?t=1757962306" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995020/c20f63f2bc7139031403d8f6e97a8f078976b6ae/header.jpg?t=1757962306" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3995020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995020/c20f63f2bc7139031403d8f6e97a8f078976b6ae/header.jpg?t=1757962306" alt="Spartacus Blood Arena Playtest（新規追加）" /></a></p><p>type=game, appid=3995020</p><p><a href="https://store.steampowered.com/app/3995020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wizard101 - Classic Steamboat Mount（新規追加）</title>
-  <link>https://store.steampowered.com/app/4014370/</link>
-  <guid isPermaLink="false">steam-store-published-4014370</guid>
-  <pubDate>Mon, 15 Sep 2025 19:44:08 +0000</pubDate>
-  <description>Boatloads of fun! Gather your crew for the new Classic Steamboat Mount!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014370/9edcbb2786db81920c0e9890d9af641d0371f745/header.jpg?t=1757961219" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014370/9edcbb2786db81920c0e9890d9af641d0371f745/header.jpg?t=1757961219" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014370/9edcbb2786db81920c0e9890d9af641d0371f745/header.jpg?t=1757961219" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014370/9edcbb2786db81920c0e9890d9af641d0371f745/header.jpg?t=1757961219" alt="Wizard101 - Classic Steamboat Mount（新規追加）" /></a></p><p>Boatloads of fun! Gather your crew for the new Classic Steamboat Mount!</p><p><a href="https://store.steampowered.com/app/4014370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pirate101 - Classic Steamboat Mount（新規追加）</title>
-  <link>https://store.steampowered.com/app/4014380/</link>
-  <guid isPermaLink="false">steam-store-published-4014380</guid>
-  <pubDate>Mon, 15 Sep 2025 19:44:08 +0000</pubDate>
-  <description>Boatloads of fun! The new Steam-Exclusive Classic Steamboat Mount is now available!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014380/d0b9ab95e43cf8c5941f6d50a8f418e99e7aba84/header.jpg?t=1757961268" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014380/d0b9ab95e43cf8c5941f6d50a8f418e99e7aba84/header.jpg?t=1757961268" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014380/d0b9ab95e43cf8c5941f6d50a8f418e99e7aba84/header.jpg?t=1757961268" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014380/d0b9ab95e43cf8c5941f6d50a8f418e99e7aba84/header.jpg?t=1757961268" alt="Pirate101 - Classic Steamboat Mount（新規追加）" /></a></p><p>Boatloads of fun! The new Steam-Exclusive Classic Steamboat Mount is now available!</p><p><a href="https://store.steampowered.com/app/4014380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
