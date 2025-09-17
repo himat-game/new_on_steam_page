@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Sep 2025 14:15:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Sep 2025 19:44:33 +0000</lastBuildDate>
+<item>
+  <title>Prison Miner（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/1533140/</link>
+  <guid isPermaLink="false">steam-store-update-1533140-1758138289</guid>
+  <pubDate>Wed, 17 Sep 2025 19:44:33 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/c887d92c75c2d65279dd9a6cfb44b18ee3d9d0a5/capsule_184x69.jpg?t=1758063558; ジャンル:  → Casual, Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/b8d425a9f71adf5c9492d1edeaf61ac44d442a02/header.jpg?t=1758063558; 無料フラグ:  → False; タイトル:  → Prison Miner; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;1 Oct, 2025&quot;}; 説明:  → Mine until your arms drop off! In Prison Miner you will rank up through various ranks discovering …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/b8d425a9f71adf5c9492d1edeaf61ac44d442a02/header.jpg?t=1758063558" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/b8d425a9f71adf5c9492d1edeaf61ac44d442a02/header.jpg?t=1758063558" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/b8d425a9f71adf5c9492d1edeaf61ac44d442a02/header.jpg?t=1758063558" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1533140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/b8d425a9f71adf5c9492d1edeaf61ac44d442a02/header.jpg?t=1758063558" alt="Prison Miner（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/c887d92c75c2d65279dd9a6cfb44b18ee3d9d0a5/capsule_184x69.jpg?t=1758063558; ジャンル:  → Casual, Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533140/b8d425a9f71adf5c9492d1edeaf61ac44d442a02/header.jpg?t=1758063558; 無料フラグ:  → False; タイトル:  → Prison Miner; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;1 Oct, 2025&quot;}; 説明:  → Mine until your arms drop off! In Prison Miner you will rank up through various ranks discovering …</p><p><a href="https://store.steampowered.com/app/1533140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hoppin: Into the Woods（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/1454830/</link>
