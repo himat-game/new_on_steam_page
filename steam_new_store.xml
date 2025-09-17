@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Sep 2025 14:46:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Sep 2025 15:16:53 +0000</lastBuildDate>
+<item>
+  <title>Spartan Survivors（新規追加）</title>
+  <link>https://store.steampowered.com/app/3997630/</link>
+  <guid isPermaLink="false">steam-store-published-3997630</guid>
+  <pubDate>Wed, 17 Sep 2025 15:16:53 +0000</pubDate>
+  <description>Fight hordes of Covenant &amp;amp; Flood in this new game mixing Roguelite &amp;amp; Bullet Heaven for hours of mindless fun!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997630/1c9b0cb9c8bc37e2134ef890f9791fc073f985db/header.jpg?t=1758118802" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997630/1c9b0cb9c8bc37e2134ef890f9791fc073f985db/header.jpg?t=1758118802" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997630/1c9b0cb9c8bc37e2134ef890f9791fc073f985db/header.jpg?t=1758118802" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3997630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997630/1c9b0cb9c8bc37e2134ef890f9791fc073f985db/header.jpg?t=1758118802" alt="Spartan Survivors（新規追加）" /></a></p><p>Fight hordes of Covenant &amp;amp; Flood in this new game mixing Roguelite &amp;amp; Bullet Heaven for hours of mindless fun!</p><p><a href="https://store.steampowered.com/app/3997630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>AstroScaper Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4039580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035170/930286c631cfa1d3baf7f6ea4e8b7f6d8b15662a/header.jpg?t=1758014498" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035170/930286c631cfa1d3baf7f6ea4e8b7f6d8b15662a/header.jpg?t=1758014498" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4035170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035170/930286c631cfa1d3baf7f6ea4e8b7f6d8b15662a/header.jpg?t=1758014498" alt="Cryptid Keeper Demo（新規追加）" /></a></p><p>Just you, the wilderness, and things that shouldn’t exist! Track, catch, and collect cryptids and aliens. Manage your own Cryptid Zoo, care for your creatures, and attract visitors whilst exploring the wilds to discover new and mysterious Cryptid species to add to your Collection.</p><p><a href="https://store.steampowered.com/app/4035170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>虹塵 DispersionStorm Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/2767130/</link>
-  <guid isPermaLink="false">steam-store-published-2767130</guid>
-  <pubDate>Tue, 16 Sep 2025 09:46:14 +0000</pubDate>
-  <description>type=game, appid=2767130</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767130/f91ed88281bc4766d3b434fa2c726ab2cf0a80c0/header.jpg?t=1758013313" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767130/f91ed88281bc4766d3b434fa2c726ab2cf0a80c0/header.jpg?t=1758013313" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767130/f91ed88281bc4766d3b434fa2c726ab2cf0a80c0/header.jpg?t=1758013313" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2767130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767130/f91ed88281bc4766d3b434fa2c726ab2cf0a80c0/header.jpg?t=1758013313" alt="虹塵 DispersionStorm Playtest（新規追加）" /></a></p><p>type=game, appid=2767130</p><p><a href="https://store.steampowered.com/app/2767130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
