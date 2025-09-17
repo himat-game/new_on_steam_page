@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Sep 2025 22:43:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Sep 2025 23:44:47 +0000</lastBuildDate>
+<item>
+  <title>BEAN（新規追加）</title>
+  <link>https://store.steampowered.com/app/3981740/</link>
+  <guid isPermaLink="false">steam-store-published-3981740</guid>
+  <pubDate>Wed, 17 Sep 2025 23:44:47 +0000</pubDate>
+  <description>BEAN is a platform shooter where chaos meets competition. Dash, jump, and shield your way across the battlefield to outlast and outsmart your friends. The goal is simple—be the first to collect 5 stars.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981740/7da7c580314d3531c3993b67f57f68e9956404d1/header.jpg?t=1758148773" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981740/7da7c580314d3531c3993b67f57f68e9956404d1/header.jpg?t=1758148773" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981740/7da7c580314d3531c3993b67f57f68e9956404d1/header.jpg?t=1758148773" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3981740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981740/7da7c580314d3531c3993b67f57f68e9956404d1/header.jpg?t=1758148773" alt="BEAN（新規追加）" /></a></p><p>BEAN is a platform shooter where chaos meets competition. Dash, jump, and shield your way across the battlefield to outlast and outsmart your friends. The goal is simple—be the first to collect 5 stars.</p><p><a href="https://store.steampowered.com/app/3981740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>5125m（新規追加）</title>
+  <link>https://store.steampowered.com/app/3847120/</link>
+  <guid isPermaLink="false">steam-store-published-3847120</guid>
+  <pubDate>Wed, 17 Sep 2025 23:44:47 +0000</pubDate>
+  <description>A contemplative pixel-art platformer where you climb a mountain with two independent grappling hooks, blending precision, mastery, and exploration, while uncovering the mystery behind your ascent. 5125m. Don’t worry, you don’t have to pronounce it. Just climb it.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3847120/38a0c3bac05eca19a332b57394ed87c9b9a2753f/header.jpg?t=1758149133" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3847120/38a0c3bac05eca19a332b57394ed87c9b9a2753f/header.jpg?t=1758149133" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3847120/38a0c3bac05eca19a332b57394ed87c9b9a2753f/header.jpg?t=1758149133" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3847120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3847120/38a0c3bac05eca19a332b57394ed87c9b9a2753f/header.jpg?t=1758149133" alt="5125m（新規追加）" /></a></p><p>A contemplative pixel-art platformer where you climb a mountain with two independent grappling hooks, blending precision, mastery, and exploration, while uncovering the mystery behind your ascent. 5125m. Don’t worry, you don’t have to pronounce it. Just climb it.</p><p><a href="https://store.steampowered.com/app/3847120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ICE!（新規追加）</title>
   <link>https://store.steampowered.com/app/4014760/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022160/4141f2fba41e0231aa328164afc8fe70893daee1/header.jpg?t=1758041088" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022160/4141f2fba41e0231aa328164afc8fe70893daee1/header.jpg?t=1758041088" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4022160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022160/4141f2fba41e0231aa328164afc8fe70893daee1/header.jpg?t=1758041088" alt="Synth Laser Demo（新規追加）" /></a></p><p>Synth Laser is a dynamic laser maze rhythm game. Get ready to dodge and weave around the deadly and stunning laser show, built upon the outrun and synthwave music.</p><p><a href="https://store.steampowered.com/app/4022160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fantasy Grounds - Pathfinder RPG - Jade Regent Adventure Path (2 of 6) - Night of Frozen Shadows（新規追加）</title>
-  <link>https://store.steampowered.com/app/3997810/</link>
-  <guid isPermaLink="false">steam-store-published-3997810</guid>
-  <pubDate>Tue, 16 Sep 2025 17:44:23 +0000</pubDate>
-  <description>Pathfinder RPG - Jade Regent Adventure Path (2 of 6) - Night of Frozen Shadows  Chapter 2: &amp;quot;Night of Frozen Shadows&amp;quot; by Greg A. Vaughan A faceless menace stalks the viking empire. For decades a sinister band of assassins has watched and waited, hiding among the rugged people of Kalsgard, capital of the fierce Lands of the...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997810/162c72ab3106380d6b23a5895a10f159766a5fcd/header.jpg?t=1758041323" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997810/162c72ab3106380d6b23a5895a10f159766a5fcd/header.jpg?t=1758041323" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997810/162c72ab3106380d6b23a5895a10f159766a5fcd/header.jpg?t=1758041323" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3997810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997810/162c72ab3106380d6b23a5895a10f159766a5fcd/header.jpg?t=1758041323" alt="Fantasy Grounds - Pathfinder RPG - Jade Regent Adventure Path (2 of 6) - Night of Frozen Shadows（新規追加）" /></a></p><p>Pathfinder RPG - Jade Regent Adventure Path (2 of 6) - Night of Frozen Shadows  Chapter 2: &amp;quot;Night of Frozen Shadows&amp;quot; by Greg A. Vaughan A faceless menace stalks the viking empire. For decades a sinister band of assassins has watched and waited, hiding among the rugged people of Kalsgard, capital of the fierce Lands of the...</p><p><a href="https://store.steampowered.com/app/3997810/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cracking the Cryptic - The Sudoku Worm of Michael Lefkowitz（新規追加）</title>
-  <link>https://store.steampowered.com/app/4020580/</link>
-  <guid isPermaLink="false">steam-store-published-4020580</guid>
-  <pubDate>Tue, 16 Sep 2025 17:44:23 +0000</pubDate>
-  <description>Michael’s worm consists of nine 6x6 puzzles, connected by a unique and intriguing line constraint, as well as digits between the puzzles.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020580/bba12ac067bca6817c48cf05ac8ed645bbb07c50/header.jpg?t=1758043260" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020580/bba12ac067bca6817c48cf05ac8ed645bbb07c50/header.jpg?t=1758043260" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020580/bba12ac067bca6817c48cf05ac8ed645bbb07c50/header.jpg?t=1758043260" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4020580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020580/bba12ac067bca6817c48cf05ac8ed645bbb07c50/header.jpg?t=1758043260" alt="Cracking the Cryptic - The Sudoku Worm of Michael Lefkowitz（新規追加）" /></a></p><p>Michael’s worm consists of nine 6x6 puzzles, connected by a unique and intriguing line constraint, as well as digits between the puzzles.</p><p><a href="https://store.steampowered.com/app/4020580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
