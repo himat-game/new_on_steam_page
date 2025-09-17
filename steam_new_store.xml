@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Sep 2025 13:50:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Sep 2025 14:15:18 +0000</lastBuildDate>
+<item>
+  <title>Fire Crew Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4012160/</link>
+  <guid isPermaLink="false">steam-store-published-4012160</guid>
+  <pubDate>Wed, 17 Sep 2025 14:15:18 +0000</pubDate>
+  <description>Play a realistic firefighting simulator. Pilot helicopters and drive fire trucks solo, battling flames under tough weather. Refill water tanks, aim carefully, and protect cities, forests, and people while unlocking new vehicles and facing harder missions.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012160/cbdee9d0d2faef70605264ec0e32b8f2fdb7727c/header.jpg?t=1758115662" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012160/cbdee9d0d2faef70605264ec0e32b8f2fdb7727c/header.jpg?t=1758115662" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012160/cbdee9d0d2faef70605264ec0e32b8f2fdb7727c/header.jpg?t=1758115662" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4012160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012160/cbdee9d0d2faef70605264ec0e32b8f2fdb7727c/header.jpg?t=1758115662" alt="Fire Crew Simulator（新規追加）" /></a></p><p>Play a realistic firefighting simulator. Pilot helicopters and drive fire trucks solo, battling flames under tough weather. Refill water tanks, aim carefully, and protect cities, forests, and people while unlocking new vehicles and facing harder missions.</p><p><a href="https://store.steampowered.com/app/4012160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rules: Motel Horizon（新規追加）</title>
   <link>https://store.steampowered.com/app/3156680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984910/dfdf3880eca12fd2c82109771df593cd22fab6c3/header.jpg?t=1758009646" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984910/dfdf3880eca12fd2c82109771df593cd22fab6c3/header.jpg?t=1758009646" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3984910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984910/dfdf3880eca12fd2c82109771df593cd22fab6c3/header.jpg?t=1758009646" alt="Aztecs: The Last Sun - Official Companion（新規追加）" /></a></p><p>With the Official Companion at your side, you will find all the help and tips to overcome the odds and lead the Aztec civilization to glory. You will also get background information on the history of the Aztecs, their belief systems, their architecture and much more.</p><p><a href="https://store.steampowered.com/app/3984910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Things I Left Behind（新規追加）</title>
-  <link>https://store.steampowered.com/app/4021550/</link>
-  <guid isPermaLink="false">steam-store-published-4021550</guid>
-  <pubDate>Tue, 16 Sep 2025 08:52:00 +0000</pubDate>
-  <description>A first-person narrative adventure where you explore dreamlike places, solve light puzzles, and confront shadow figures that are echoes of yourself. A melancholic journey through memory, regret, and acceptance.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021550/d40f97b77a64a8ee3793a1216d4cf69219b272f8/header.jpg?t=1758009144" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021550/d40f97b77a64a8ee3793a1216d4cf69219b272f8/header.jpg?t=1758009144" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021550/d40f97b77a64a8ee3793a1216d4cf69219b272f8/header.jpg?t=1758009144" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4021550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021550/d40f97b77a64a8ee3793a1216d4cf69219b272f8/header.jpg?t=1758009144" alt="The Things I Left Behind（新規追加）" /></a></p><p>A first-person narrative adventure where you explore dreamlike places, solve light puzzles, and confront shadow figures that are echoes of yourself. A melancholic journey through memory, regret, and acceptance.</p><p><a href="https://store.steampowered.com/app/4021550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
