@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Sep 2025 05:33:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Sep 2025 06:24:09 +0000</lastBuildDate>
+<item>
+  <title>Parrotdome（新規追加）</title>
+  <link>https://store.steampowered.com/app/4009050/</link>
+  <guid isPermaLink="false">steam-store-published-4009050</guid>
+  <pubDate>Wed, 17 Sep 2025 06:24:09 +0000</pubDate>
+  <description>In this point and click fixed camera horror adventure, traverse a tropical atrium to feed the ravenous birds before their hunger turns to you. Feed the parrots in a collection of food minigames, uncover secrets and wield your flashlight to fend off feathered foes.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009050/ab58d420e5e8da1497b60f8682110967c52a8ea0/header.jpg?t=1758086421" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009050/ab58d420e5e8da1497b60f8682110967c52a8ea0/header.jpg?t=1758086421" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009050/ab58d420e5e8da1497b60f8682110967c52a8ea0/header.jpg?t=1758086421" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4009050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009050/ab58d420e5e8da1497b60f8682110967c52a8ea0/header.jpg?t=1758086421" alt="Parrotdome（新規追加）" /></a></p><p>In this point and click fixed camera horror adventure, traverse a tropical atrium to feed the ravenous birds before their hunger turns to you. Feed the parrots in a collection of food minigames, uncover secrets and wield your flashlight to fend off feathered foes.</p><p><a href="https://store.steampowered.com/app/4009050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>COWGIRL SEX FARM - Wallpapers Pack（新規追加）</title>
   <link>https://store.steampowered.com/app/4021320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882300/74ed6663c330686456e4bac4beaee2634fb85b73/header.jpg?t=1757985694" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882300/74ed6663c330686456e4bac4beaee2634fb85b73/header.jpg?t=1757985694" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3882300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882300/74ed6663c330686456e4bac4beaee2634fb85b73/header.jpg?t=1757985694" alt="群名兵册 Weapons（新規追加）" /></a></p><p>Through your adventure, you&#x27;ll gradually learn about the Four Continents, the Eight Generals, the Academy Scroll, and other stories, while also experiencing the emotions and transformations of the protagonists. If you enjoy traditional, linear, turn-based RPGs, then embark on this epic journey!</p><p><a href="https://store.steampowered.com/app/3882300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lost Ground Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3808760/</link>
-  <guid isPermaLink="false">steam-store-published-3808760</guid>
-  <pubDate>Tue, 16 Sep 2025 02:36:11 +0000</pubDate>
-  <description>3x3 grid turn-based battle and the exquisite encounter of the rogue-lite deck building! Place multiple heroes on the 3x3 grid to strategically defeat your enemies. Customize and grow your heroes with various combinations of gears, cards, and relics. Defeat the demons to reclaim lost ground!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808760/be986ebc4c7a4db3c9be4df3226accca91f06ead/header.jpg?t=1757985281" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808760/be986ebc4c7a4db3c9be4df3226accca91f06ead/header.jpg?t=1757985281" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808760/be986ebc4c7a4db3c9be4df3226accca91f06ead/header.jpg?t=1757985281" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3808760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3808760/be986ebc4c7a4db3c9be4df3226accca91f06ead/header.jpg?t=1757985281" alt="Lost Ground Demo（新規追加）" /></a></p><p>3x3 grid turn-based battle and the exquisite encounter of the rogue-lite deck building! Place multiple heroes on the 3x3 grid to strategically defeat your enemies. Customize and grow your heroes with various combinations of gears, cards, and relics. Defeat the demons to reclaim lost ground!</p><p><a href="https://store.steampowered.com/app/3808760/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
