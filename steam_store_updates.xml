@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Sep 2025 16:41:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 19:12:57 +0000</lastBuildDate>
+<item>
+  <title>Soft(A)ware（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/1790620/</link>
+  <guid isPermaLink="false">steam-store-update-1790620-1758223447</guid>
+  <pubDate>Thu, 18 Sep 2025 19:12:57 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/702fe1c66d4dc708629b740c5ae8a9fee81033eb/capsule_184x69.jpg?t=1758041109; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/9a8f42d688735a123214f53300bb570fca3ac592/header.jpg?t=1758041109; 無料フラグ:  → False; タイトル:  → Soft(A)ware; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → A surreal puzzle-platformer where you bend gravity, rewind time, and disrupt a virtual prison built t…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/9a8f42d688735a123214f53300bb570fca3ac592/header.jpg?t=1758041109" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/9a8f42d688735a123214f53300bb570fca3ac592/header.jpg?t=1758041109" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/9a8f42d688735a123214f53300bb570fca3ac592/header.jpg?t=1758041109" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1790620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/9a8f42d688735a123214f53300bb570fca3ac592/header.jpg?t=1758041109" alt="Soft(A)ware（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/702fe1c66d4dc708629b740c5ae8a9fee81033eb/capsule_184x69.jpg?t=1758041109; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790620/9a8f42d688735a123214f53300bb570fca3ac592/header.jpg?t=1758041109; 無料フラグ:  → False; タイトル:  → Soft(A)ware; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → A surreal puzzle-platformer where you bend gravity, rewind time, and disrupt a virtual prison built t…</p><p><a href="https://store.steampowered.com/app/1790620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pixel Puzzles WW2 Jigsaw - Pack: USS Massachusetts（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/1760951/</link>
