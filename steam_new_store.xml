@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Sep 2025 06:23:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 06:51:26 +0000</lastBuildDate>
+<item>
+  <title>Maktala Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4032880/</link>
+  <guid isPermaLink="false">steam-store-published-4032880</guid>
+  <pubDate>Thu, 18 Sep 2025 06:51:26 +0000</pubDate>
+  <description>An incremental game where every battle unlocks new ways to slay hordes of monsters, collect powerful loot, master skills, and uncover tons of content.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032880/f31b674e007a49cdde001f6de9023f653a7c5a87/header.jpg?t=1758175345" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032880/f31b674e007a49cdde001f6de9023f653a7c5a87/header.jpg?t=1758175345" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032880/f31b674e007a49cdde001f6de9023f653a7c5a87/header.jpg?t=1758175345" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4032880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032880/f31b674e007a49cdde001f6de9023f653a7c5a87/header.jpg?t=1758175345" alt="Maktala Demo（新規追加）" /></a></p><p>An incremental game where every battle unlocks new ways to slay hordes of monsters, collect powerful loot, master skills, and uncover tons of content.</p><p><a href="https://store.steampowered.com/app/4032880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>World of Islands Soundtrack（新規追加）</title>
   <link>https://store.steampowered.com/app/3727080/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027200/f57f2bad74bba6ff711335fb533b6aa66c5669fb/header.jpg?t=1758065691" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027200/f57f2bad74bba6ff711335fb533b6aa66c5669fb/header.jpg?t=1758065691" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4027200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027200/f57f2bad74bba6ff711335fb533b6aa66c5669fb/header.jpg?t=1758065691" alt="Bedtime Stories Playtest（新規追加）" /></a></p><p>type=game, appid=4027200</p><p><a href="https://store.steampowered.com/app/4027200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>FAST: Casters of Chaos Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4038400/</link>
-  <guid isPermaLink="false">steam-store-published-4038400</guid>
-  <pubDate>Tue, 16 Sep 2025 23:25:50 +0000</pubDate>
-  <description>type=demo, appid=4038400</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038400/db94aa858b326cd838c08ccad6dab1689c4768cc/header.jpg?t=1758064035" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038400/db94aa858b326cd838c08ccad6dab1689c4768cc/header.jpg?t=1758064035" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038400/db94aa858b326cd838c08ccad6dab1689c4768cc/header.jpg?t=1758064035" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4038400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038400/db94aa858b326cd838c08ccad6dab1689c4768cc/header.jpg?t=1758064035" alt="FAST: Casters of Chaos Demo（新規追加）" /></a></p><p>type=demo, appid=4038400</p><p><a href="https://store.steampowered.com/app/4038400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
