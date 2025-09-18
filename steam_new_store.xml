@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Sep 2025 02:36:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 03:19:00 +0000</lastBuildDate>
+<item>
+  <title>Aenoic Abyss（新規追加）</title>
+  <link>https://store.steampowered.com/app/3855090/</link>
+  <guid isPermaLink="false">steam-store-published-3855090</guid>
+  <pubDate>Thu, 18 Sep 2025 03:19:00 +0000</pubDate>
+  <description>Swap between two heroines (Paladin/Mage/Assassin/Centaur Archer) instantly in this 2D pixel-art roguelite platformer, forge permanent Diablo-inspired builds with 200+ affix combinations to conquer cycle-reborn abyssal labyrinths and rend the holy veil of the Purification Ritual.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855090/8fc955805a0c27926b04825419a6741703fb2253/header.jpg?t=1758163139" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855090/8fc955805a0c27926b04825419a6741703fb2253/header.jpg?t=1758163139" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855090/8fc955805a0c27926b04825419a6741703fb2253/header.jpg?t=1758163139" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3855090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855090/8fc955805a0c27926b04825419a6741703fb2253/header.jpg?t=1758163139" alt="Aenoic Abyss（新規追加）" /></a></p><p>Swap between two heroines (Paladin/Mage/Assassin/Centaur Archer) instantly in this 2D pixel-art roguelite platformer, forge permanent Diablo-inspired builds with 200+ affix combinations to conquer cycle-reborn abyssal labyrinths and rend the holy veil of the Purification Ritual.</p><p><a href="https://store.steampowered.com/app/3855090/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Atchmo -【SPECIAL LIVE】Just You and I (Japanese Ver.) | Tacitly（新規追加）</title>
   <link>https://store.steampowered.com/app/4027050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3763450/5d6f55723ea297fb502fb675ff799d6b86889b4e/header.jpg?t=1758051723" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3763450/5d6f55723ea297fb502fb675ff799d6b86889b4e/header.jpg?t=1758051723" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3763450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3763450/5d6f55723ea297fb502fb675ff799d6b86889b4e/header.jpg?t=1758051723" alt="Sol Mates Demo（新規追加）" /></a></p><p>type=demo, appid=3763450</p><p><a href="https://store.steampowered.com/app/3763450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fyte（新規追加）</title>
-  <link>https://store.steampowered.com/app/3878000/</link>
-  <guid isPermaLink="false">steam-store-published-3878000</guid>
-  <pubDate>Tue, 16 Sep 2025 20:45:59 +0000</pubDate>
-  <description>Fyte is a Twitch-Integrated battler built for streamers and viewers to battle it out by simply typing !play in chat. Up to 250 viewers spawn into a chaotic bot-controlled battlefield to fight it out across multiple maps and game modes.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878000/1d46060dcf11a62f26dbc12c27a7f55a1802ea74/header.jpg?t=1758055009" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878000/1d46060dcf11a62f26dbc12c27a7f55a1802ea74/header.jpg?t=1758055009" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878000/1d46060dcf11a62f26dbc12c27a7f55a1802ea74/header.jpg?t=1758055009" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3878000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878000/1d46060dcf11a62f26dbc12c27a7f55a1802ea74/header.jpg?t=1758055009" alt="Fyte（新規追加）" /></a></p><p>Fyte is a Twitch-Integrated battler built for streamers and viewers to battle it out by simply typing !play in chat. Up to 250 viewers spawn into a chaotic bot-controlled battlefield to fight it out across multiple maps and game modes.</p><p><a href="https://store.steampowered.com/app/3878000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
