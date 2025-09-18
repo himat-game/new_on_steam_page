@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Sep 2025 07:15:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 09:45:01 +0000</lastBuildDate>
+<item>
+  <title>Kingdom of Night Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/1695580/</link>
+  <guid isPermaLink="false">steam-store-update-1695580-1758188740</guid>
+  <pubDate>Thu, 18 Sep 2025 09:45:01 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/c60c76577ec461970b4e1e0f82198aef98d871e1/capsule_184x69.jpg?t=1757682585; ジャンル:  → Action, Adventure, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/3ae97701cad00479405c4f8aee8716e720fbb223/header.jpg?t=1757682585; 無料フラグ:  → True; タイトル:  → Kingdom of Night Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;23 Sep, 2025&quot;}; 説明:  → Hunt down demons of the night and save the town of Watford in this 80’s themed…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/3ae97701cad00479405c4f8aee8716e720fbb223/header.jpg?t=1757682585" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/3ae97701cad00479405c4f8aee8716e720fbb223/header.jpg?t=1757682585" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/3ae97701cad00479405c4f8aee8716e720fbb223/header.jpg?t=1757682585" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1695580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/3ae97701cad00479405c4f8aee8716e720fbb223/header.jpg?t=1757682585" alt="Kingdom of Night Demo（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/c60c76577ec461970b4e1e0f82198aef98d871e1/capsule_184x69.jpg?t=1757682585; ジャンル:  → Action, Adventure, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695580/3ae97701cad00479405c4f8aee8716e720fbb223/header.jpg?t=1757682585; 無料フラグ:  → True; タイトル:  → Kingdom of Night Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;23 Sep, 2025&quot;}; 説明:  → Hunt down demons of the night and save the town of Watford in this 80’s themed…</p><p><a href="https://store.steampowered.com/app/1695580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lock &#x27;n Load Tactical Digital: For the Emperor Battlepack（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/1664270/</link>
