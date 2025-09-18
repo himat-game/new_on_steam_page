@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Sep 2025 09:45:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 14:46:32 +0000</lastBuildDate>
+<item>
+  <title>Alphabetical Order（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/1737600/</link>
+  <guid isPermaLink="false">steam-store-update-1737600-1758206817</guid>
+  <pubDate>Thu, 18 Sep 2025 14:46:32 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/capsule_184x69.jpg?t=1754469087; ジャンル:  → Action, Early Access, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/header.jpg?t=1754469087; 無料フラグ:  → False; タイトル:  → Alphabetical Order; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;13 Sep, 2021&quot;}; 説明:  → Experience an exciting journey in a surreal world, fight for your name, your social status and to survive. Leave the arena as a winner, with money, a lot of loot and …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/header.jpg?t=1754469087" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/header.jpg?t=1754469087" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/header.jpg?t=1754469087" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1737600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/header.jpg?t=1754469087" alt="Alphabetical Order（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/capsule_184x69.jpg?t=1754469087; ジャンル:  → Action, Early Access, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737600/header.jpg?t=1754469087; 無料フラグ:  → False; タイトル:  → Alphabetical Order; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;13 Sep, 2021&quot;}; 説明:  → Experience an exciting journey in a surreal world, fight for your name, your social status and to survive. Leave the arena as a winner, with money, a lot of loot and …</p><p><a href="https://store.steampowered.com/app/1737600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kingdom of Night Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/1695580/</link>
