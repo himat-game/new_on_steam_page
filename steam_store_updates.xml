@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Sep 2025 19:44:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 07:15:38 +0000</lastBuildDate>
+<item>
+  <title>Lock &#x27;n Load Tactical Digital: For the Emperor Battlepack（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/1664270/</link>
+  <guid isPermaLink="false">steam-store-update-1664270-1758179758</guid>
+  <pubDate>Thu, 18 Sep 2025 07:15:38 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/capsule_184x69.jpg?t=1640935004; ジャンル:  → Indie, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/header.jpg?t=1640935004; 無料フラグ:  → False; タイトル:  → Lock &#x27;n Load Tactical Digital: For the Emperor Battlepack; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;28 Dec, 2021&quot;}; 説明:  → For The Emperor brings the award-winning Lock ’n Load Tactical game system deeper into the Pacific theater with a vengeance. …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/header.jpg?t=1640935004" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/header.jpg?t=1640935004" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/header.jpg?t=1640935004" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1664270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/header.jpg?t=1640935004" alt="Lock &#x27;n Load Tactical Digital: For the Emperor Battlepack（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/capsule_184x69.jpg?t=1640935004; ジャンル:  → Indie, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1664270/header.jpg?t=1640935004; 無料フラグ:  → False; タイトル:  → Lock &#x27;n Load Tactical Digital: For the Emperor Battlepack; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;28 Dec, 2021&quot;}; 説明:  → For The Emperor brings the award-winning Lock ’n Load Tactical game system deeper into the Pacific theater with a vengeance. …</p><p><a href="https://store.steampowered.com/app/1664270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Prison Miner（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/1533140/</link>
