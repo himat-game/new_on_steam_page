@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Sep 2025 23:44:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Sep 2025 13:06:18 +0000</lastBuildDate>
+<item>
+  <title>Legion: Arcane Origins（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/1983790/</link>
+  <guid isPermaLink="false">steam-store-update-1983790-1758287912</guid>
+  <pubDate>Fri, 19 Sep 2025 13:06:18 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/d9def81dc2014a63025bedadc951badbac088fd2/capsule_184x69.jpg?t=1758156566; ジャンル:  → Action, Early Access, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/e88da4dfb89ea2b079a61e87a6fff524089d33cd/header.jpg?t=1758156566; 無料フラグ:  → False; タイトル:  → Legion: Arcane Origins; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → This is a top-down action-rpg where you&#x27;re an anime character surviving and th…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/e88da4dfb89ea2b079a61e87a6fff524089d33cd/header.jpg?t=1758156566" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/e88da4dfb89ea2b079a61e87a6fff524089d33cd/header.jpg?t=1758156566" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/e88da4dfb89ea2b079a61e87a6fff524089d33cd/header.jpg?t=1758156566" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1983790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/e88da4dfb89ea2b079a61e87a6fff524089d33cd/header.jpg?t=1758156566" alt="Legion: Arcane Origins（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/d9def81dc2014a63025bedadc951badbac088fd2/capsule_184x69.jpg?t=1758156566; ジャンル:  → Action, Early Access, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983790/e88da4dfb89ea2b079a61e87a6fff524089d33cd/header.jpg?t=1758156566; 無料フラグ:  → False; タイトル:  → Legion: Arcane Origins; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → This is a top-down action-rpg where you&#x27;re an anime character surviving and th…</p><p><a href="https://store.steampowered.com/app/1983790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Survival Project（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/1848690/</link>
