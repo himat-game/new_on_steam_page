@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 19 Sep 2025 10:17:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Sep 2025 10:47:27 +0000</lastBuildDate>
+<item>
+  <title>Cat Merge Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3960250/</link>
+  <guid isPermaLink="false">steam-store-published-3960250</guid>
+  <pubDate>Fri, 19 Sep 2025 10:47:27 +0000</pubDate>
+  <description>type=demo, appid=3960250</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960250/77afc6448959806c811420cf0c559a5cdded852f/header.jpg?t=1758275315" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960250/77afc6448959806c811420cf0c559a5cdded852f/header.jpg?t=1758275315" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960250/77afc6448959806c811420cf0c559a5cdded852f/header.jpg?t=1758275315" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3960250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960250/77afc6448959806c811420cf0c559a5cdded852f/header.jpg?t=1758275315" alt="Cat Merge Demo（新規追加）" /></a></p><p>type=demo, appid=3960250</p><p><a href="https://store.steampowered.com/app/3960250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Setuna:Legend of Hamburger 2（新規追加）</title>
   <link>https://store.steampowered.com/app/4007890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948300/585e0bf8e07ad71ef197e3a1437388686e9ad527/header.jpg?t=1758202165" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948300/585e0bf8e07ad71ef197e3a1437388686e9ad527/header.jpg?t=1758202165" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3948300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948300/585e0bf8e07ad71ef197e3a1437388686e9ad527/header.jpg?t=1758202165" alt="Le Mans Ultimate - ELMS Season Pass（新規追加）" /></a></p><p>The ELMS Season Pass DLC will be your keys to the brand new ELMS content, and will enable you to download the latest content the minute it is ready to be brought into the game. Save money vs buying packs individually.</p><p><a href="https://store.steampowered.com/app/3948300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Prison Boss Prohibition - Free Pack 5（新規追加）</title>
-  <link>https://store.steampowered.com/app/3876370/</link>
-  <guid isPermaLink="false">steam-store-published-3876370</guid>
-  <pubDate>Thu, 18 Sep 2025 14:16:14 +0000</pubDate>
-  <description>A new free bi-weekly cosmetic pack for Prison Boss Prohibition!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3876370/04e12f3a15110293a1d576d525e6275ee81d6ba1/header.jpg?t=1758203951" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3876370/04e12f3a15110293a1d576d525e6275ee81d6ba1/header.jpg?t=1758203951" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3876370/04e12f3a15110293a1d576d525e6275ee81d6ba1/header.jpg?t=1758203951" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3876370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3876370/04e12f3a15110293a1d576d525e6275ee81d6ba1/header.jpg?t=1758203951" alt="Prison Boss Prohibition - Free Pack 5（新規追加）" /></a></p><p>A new free bi-weekly cosmetic pack for Prison Boss Prohibition!</p><p><a href="https://store.steampowered.com/app/3876370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
