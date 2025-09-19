@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 19 Sep 2025 13:06:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Sep 2025 17:13:35 +0000</lastBuildDate>
+<item>
+  <title>Blast Head（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2054260/</link>
+  <guid isPermaLink="false">steam-store-update-2054260-1758302720</guid>
+  <pubDate>Fri, 19 Sep 2025 17:13:35 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/ee29d22cc2a86b09a2b9097229bf8cd5f49df028/capsule_184x69.jpg?t=1758287462; ジャンル:  → Action, Casual, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/bec36aea4560b30c9e1cbd4d5fe522e3e0e66443/header.jpg?t=1758287462; 無料フラグ:  → False; タイトル:  → Blast Head; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q4 2025&quot;}; 説明:  → Blast Head is a fast-paced action roguelite/bullet heaven with absurd weapons, powerful runes, a…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/bec36aea4560b30c9e1cbd4d5fe522e3e0e66443/header.jpg?t=1758287462" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/bec36aea4560b30c9e1cbd4d5fe522e3e0e66443/header.jpg?t=1758287462" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/bec36aea4560b30c9e1cbd4d5fe522e3e0e66443/header.jpg?t=1758287462" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2054260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/bec36aea4560b30c9e1cbd4d5fe522e3e0e66443/header.jpg?t=1758287462" alt="Blast Head（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/ee29d22cc2a86b09a2b9097229bf8cd5f49df028/capsule_184x69.jpg?t=1758287462; ジャンル:  → Action, Casual, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054260/bec36aea4560b30c9e1cbd4d5fe522e3e0e66443/header.jpg?t=1758287462; 無料フラグ:  → False; タイトル:  → Blast Head; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q4 2025&quot;}; 説明:  → Blast Head is a fast-paced action roguelite/bullet heaven with absurd weapons, powerful runes, a…</p><p><a href="https://store.steampowered.com/app/2054260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Legion: Arcane Origins（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/1983790/</link>
