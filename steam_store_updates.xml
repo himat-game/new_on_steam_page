@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 09:44:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 10:45:16 +0000</lastBuildDate>
+<item>
+  <title>XANNIBAN（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2259580/</link>
+  <guid isPermaLink="false">steam-store-update-2259580-1758365195</guid>
+  <pubDate>Sat, 20 Sep 2025 10:45:16 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/5cd9d2c5de246d6f316ad640f059c449a0048f06/capsule_184x69.jpg?t=1757837897; ジャンル:  → Action, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/e5a1186cc22022bc571eec0e96f6ec66369ac67b/header.jpg?t=1757837897; 無料フラグ:  → False; タイトル:  → XANNIBAN; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → Evil has been unleashed. Don the Trespasser&#x27;s suit as you dash across facilities, manage resources, and confine host…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/e5a1186cc22022bc571eec0e96f6ec66369ac67b/header.jpg?t=1757837897" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/e5a1186cc22022bc571eec0e96f6ec66369ac67b/header.jpg?t=1757837897" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/e5a1186cc22022bc571eec0e96f6ec66369ac67b/header.jpg?t=1757837897" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2259580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/e5a1186cc22022bc571eec0e96f6ec66369ac67b/header.jpg?t=1757837897" alt="XANNIBAN（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/5cd9d2c5de246d6f316ad640f059c449a0048f06/capsule_184x69.jpg?t=1757837897; ジャンル:  → Action, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259580/e5a1186cc22022bc571eec0e96f6ec66369ac67b/header.jpg?t=1757837897; 無料フラグ:  → False; タイトル:  → XANNIBAN; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → Evil has been unleashed. Don the Trespasser&#x27;s suit as you dash across facilities, manage resources, and confine host…</p><p><a href="https://store.steampowered.com/app/2259580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rhythia（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2250500/</link>
