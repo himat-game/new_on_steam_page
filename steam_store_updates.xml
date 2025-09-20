@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 09:14:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 09:44:19 +0000</lastBuildDate>
+<item>
+  <title>Rhythia（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2250500/</link>
+  <guid isPermaLink="false">steam-store-update-2250500-1758361854</guid>
+  <pubDate>Sat, 20 Sep 2025 09:44:19 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/bc5c499692e9f7c406fcb7bbcfb77a77348eef16/capsule_184x69.jpg?t=1757782205; ジャンル:  → Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/7466f597a3eb3bad16b0180be3deef182d222690/header.jpg?t=1757782205; 無料フラグ:  → True; タイトル:  → Rhythia; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q4 2025&quot;}; 説明:  → Rhythia is a game about aiming and hitting musical beats with precision timing, within a dynamic 3x3 grid system. …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/7466f597a3eb3bad16b0180be3deef182d222690/header.jpg?t=1757782205" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/7466f597a3eb3bad16b0180be3deef182d222690/header.jpg?t=1757782205" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/7466f597a3eb3bad16b0180be3deef182d222690/header.jpg?t=1757782205" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2250500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/7466f597a3eb3bad16b0180be3deef182d222690/header.jpg?t=1757782205" alt="Rhythia（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/bc5c499692e9f7c406fcb7bbcfb77a77348eef16/capsule_184x69.jpg?t=1757782205; ジャンル:  → Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250500/7466f597a3eb3bad16b0180be3deef182d222690/header.jpg?t=1757782205; 無料フラグ:  → True; タイトル:  → Rhythia; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q4 2025&quot;}; 説明:  → Rhythia is a game about aiming and hitting musical beats with precision timing, within a dynamic 3x3 grid system. …</p><p><a href="https://store.steampowered.com/app/2250500/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Wasteland Robot: Vinyl Collection（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2236510/</link>
