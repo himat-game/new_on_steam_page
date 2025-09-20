@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 19:24:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 22:13:09 +0000</lastBuildDate>
+<item>
+  <title>Super Duper Arcade（新規追加）</title>
+  <link>https://store.steampowered.com/app/3745410/</link>
+  <guid isPermaLink="false">steam-store-published-3745410</guid>
+  <pubDate>Sat, 20 Sep 2025 22:13:09 +0000</pubDate>
+  <description>Super Duper Arcade is a compilation of reimagined timeless arcade classics. A passionate love letter to 1980s and 1990s arcades. Chase high scores in single-player mode or go head to head with a friend to see who&#x27;s worthy to call themself the Master of Arcades.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3745410/a1967d9e94621cdc557bef360905a698bc919d7a/header.jpg?t=1758403900" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3745410/a1967d9e94621cdc557bef360905a698bc919d7a/header.jpg?t=1758403900" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3745410/a1967d9e94621cdc557bef360905a698bc919d7a/header.jpg?t=1758403900" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3745410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3745410/a1967d9e94621cdc557bef360905a698bc919d7a/header.jpg?t=1758403900" alt="Super Duper Arcade（新規追加）" /></a></p><p>Super Duper Arcade is a compilation of reimagined timeless arcade classics. A passionate love letter to 1980s and 1990s arcades. Chase high scores in single-player mode or go head to head with a friend to see who&#x27;s worthy to call themself the Master of Arcades.</p><p><a href="https://store.steampowered.com/app/3745410/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BAD SECTOR ³ - Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4029390/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889310/a6d8c1093d40b4de1b37336e415828ae658b5d34/header.jpg?t=1758266063" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889310/a6d8c1093d40b4de1b37336e415828ae658b5d34/header.jpg?t=1758266063" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3889310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889310/a6d8c1093d40b4de1b37336e415828ae658b5d34/header.jpg?t=1758266063" alt="Trails in the Sky 1st Chapter - G-Pom Fruit Value Set 1（新規追加）" /></a></p><p>A set of items that cause a Golden Pom to descend when used. The mighty Pom grants AT Bonuses and guarantees that all party members will gain one level after battle. It also guarantees that Zeram Powder x1 will be obtained after battle.</p><p><a href="https://store.steampowered.com/app/3889310/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sora no Kiseki the 1st - Golden Pom Fruit Set (2)（新規追加）</title>
-  <link>https://store.steampowered.com/app/3945560/</link>
-  <guid isPermaLink="false">steam-store-published-3945560</guid>
-  <pubDate>Fri, 19 Sep 2025 08:20:57 +0000</pubDate>
-  <description>If used during battle, a Golden Pom will appear, granting an AT bonus and raising all companions&#x27; levels by 1. Also grants 1 Zelam Powder.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3945560/273d262e32be90ec3bb700ffca15bbbe28c4adc9/header.jpg?t=1758266378" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3945560/273d262e32be90ec3bb700ffca15bbbe28c4adc9/header.jpg?t=1758266378" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3945560/273d262e32be90ec3bb700ffca15bbbe28c4adc9/header.jpg?t=1758266378" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3945560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3945560/273d262e32be90ec3bb700ffca15bbbe28c4adc9/header.jpg?t=1758266378" alt="Sora no Kiseki the 1st - Golden Pom Fruit Set (2)（新規追加）" /></a></p><p>If used during battle, a Golden Pom will appear, granting an AT bonus and raising all companions&#x27; levels by 1. Also grants 1 Zelam Powder.</p><p><a href="https://store.steampowered.com/app/3945560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
