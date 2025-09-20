@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 05:14:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 05:32:12 +0000</lastBuildDate>
+<item>
+  <title>Ecopunk（新規追加）</title>
+  <link>https://store.steampowered.com/app/4033610/</link>
+  <guid isPermaLink="false">steam-store-published-4033610</guid>
+  <pubDate>Sat, 20 Sep 2025 05:32:12 +0000</pubDate>
+  <description>Ecopunk is a survival and colony management simulation game set in a post-apocalyptic world. Balance survival, resource management, and hope as you guide your colony through the ruins of civilization.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033610/9cb78ad4856e8e6169fb160e63c38b5a14a74854/header.jpg?t=1758345297" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033610/9cb78ad4856e8e6169fb160e63c38b5a14a74854/header.jpg?t=1758345297" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033610/9cb78ad4856e8e6169fb160e63c38b5a14a74854/header.jpg?t=1758345297" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4033610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033610/9cb78ad4856e8e6169fb160e63c38b5a14a74854/header.jpg?t=1758345297" alt="Ecopunk（新規追加）" /></a></p><p>Ecopunk is a survival and colony management simulation game set in a post-apocalyptic world. Balance survival, resource management, and hope as you guide your colony through the ruins of civilization.</p><p><a href="https://store.steampowered.com/app/4033610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>每日亲亲洛丽塔（新規追加）</title>
   <link>https://store.steampowered.com/app/3780110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294140/15b8b7776537ad587affb53d345d36cc20004a46/header.jpg?t=1758263942" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294140/15b8b7776537ad587affb53d345d36cc20004a46/header.jpg?t=1758263942" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2294140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294140/15b8b7776537ad587affb53d345d36cc20004a46/header.jpg?t=1758263942" alt="Piczle World of Puzzles: Piczle Cross Adventure pack（新規追加）" /></a></p><p>All the puzzles from the critically acclaimed Piczle Cross Adventure to solve in Piczle World of Puzzles!</p><p><a href="https://store.steampowered.com/app/2294140/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Star Conflict - Desolate worlds. Phase one (Deluxe edition)（新規追加）</title>
-  <link>https://store.steampowered.com/app/3969450/</link>
-  <guid isPermaLink="false">steam-store-published-3969450</guid>
-  <pubDate>Fri, 19 Sep 2025 06:51:41 +0000</pubDate>
-  <description>This pack includesAccess to additional rewards in the event “Desolate worlds. Phase one”.Upon receipt, the following 15 levels are immediately unlocked and all rewards of the unlocked levels are available30 days of premium license.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969450/449b0ba67bfb0a093dcfd255faff6ff2583f9c1e/header.jpg?t=1758261841" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969450/449b0ba67bfb0a093dcfd255faff6ff2583f9c1e/header.jpg?t=1758261841" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969450/449b0ba67bfb0a093dcfd255faff6ff2583f9c1e/header.jpg?t=1758261841" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3969450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969450/449b0ba67bfb0a093dcfd255faff6ff2583f9c1e/header.jpg?t=1758261841" alt="Star Conflict - Desolate worlds. Phase one (Deluxe edition)（新規追加）" /></a></p><p>This pack includesAccess to additional rewards in the event “Desolate worlds. Phase one”.Upon receipt, the following 15 levels are immediately unlocked and all rewards of the unlocked levels are available30 days of premium license.</p><p><a href="https://store.steampowered.com/app/3969450/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
