@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 05:32:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 06:20:54 +0000</lastBuildDate>
+<item>
+  <title>数字华容道变体Klotski Variant（新規追加）</title>
+  <link>https://store.steampowered.com/app/4004570/</link>
+  <guid isPermaLink="false">steam-store-published-4004570</guid>
+  <pubDate>Sat, 20 Sep 2025 06:20:54 +0000</pubDate>
+  <description>Built on the foundation of Digital Klotski, this game not only preserves the core charm of classic sliding-block puzzles but also innovatively incorporates several distinctive mechanics—letting you break free from monotonous puzzle-solving experiences.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4004570/41910d9a53589f103ca447428bf68149de1f34a8/header.jpg?t=1758346766" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4004570/41910d9a53589f103ca447428bf68149de1f34a8/header.jpg?t=1758346766" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4004570/41910d9a53589f103ca447428bf68149de1f34a8/header.jpg?t=1758346766" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4004570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4004570/41910d9a53589f103ca447428bf68149de1f34a8/header.jpg?t=1758346766" alt="数字华容道变体Klotski Variant（新規追加）" /></a></p><p>Built on the foundation of Digital Klotski, this game not only preserves the core charm of classic sliding-block puzzles but also innovatively incorporates several distinctive mechanics—letting you break free from monotonous puzzle-solving experiences.</p><p><a href="https://store.steampowered.com/app/4004570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ecopunk（新規追加）</title>
   <link>https://store.steampowered.com/app/4033610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024090/4781cb0d6c6d873d3c9748b2cdedce4bd1b74de0/header.jpg?t=1758262268" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024090/4781cb0d6c6d873d3c9748b2cdedce4bd1b74de0/header.jpg?t=1758262268" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4024090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024090/4781cb0d6c6d873d3c9748b2cdedce4bd1b74de0/header.jpg?t=1758262268" alt="Brave × Junction Soundtrack（新規追加）" /></a></p><p>The original soundtrack of &amp;quot;Brave × Junction.&amp;quot;</p><p><a href="https://store.steampowered.com/app/4024090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Piczle World of Puzzles: Piczle Cross Adventure pack（新規追加）</title>
-  <link>https://store.steampowered.com/app/2294140/</link>
-  <guid isPermaLink="false">steam-store-published-2294140</guid>
-  <pubDate>Fri, 19 Sep 2025 06:51:41 +0000</pubDate>
-  <description>All the puzzles from the critically acclaimed Piczle Cross Adventure to solve in Piczle World of Puzzles!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294140/15b8b7776537ad587affb53d345d36cc20004a46/header.jpg?t=1758263942" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294140/15b8b7776537ad587affb53d345d36cc20004a46/header.jpg?t=1758263942" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294140/15b8b7776537ad587affb53d345d36cc20004a46/header.jpg?t=1758263942" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2294140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294140/15b8b7776537ad587affb53d345d36cc20004a46/header.jpg?t=1758263942" alt="Piczle World of Puzzles: Piczle Cross Adventure pack（新規追加）" /></a></p><p>All the puzzles from the critically acclaimed Piczle Cross Adventure to solve in Piczle World of Puzzles!</p><p><a href="https://store.steampowered.com/app/2294140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
