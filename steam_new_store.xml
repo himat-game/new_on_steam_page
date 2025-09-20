@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 11:11:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 11:44:37 +0000</lastBuildDate>
+<item>
+  <title>Shadow Quest Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3911090/</link>
+  <guid isPermaLink="false">steam-store-published-3911090</guid>
+  <pubDate>Sat, 20 Sep 2025 11:44:37 +0000</pubDate>
+  <description>type=game, appid=3911090</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911090/46a60d22beeffe4de1ea5eca4b211839eacc3014/header.jpg?t=1758365426" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911090/46a60d22beeffe4de1ea5eca4b211839eacc3014/header.jpg?t=1758365426" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911090/46a60d22beeffe4de1ea5eca4b211839eacc3014/header.jpg?t=1758365426" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3911090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911090/46a60d22beeffe4de1ea5eca4b211839eacc3014/header.jpg?t=1758365426" alt="Shadow Quest Playtest（新規追加）" /></a></p><p>type=game, appid=3911090</p><p><a href="https://store.steampowered.com/app/3911090/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>KAMIYOGATARI（新規追加）</title>
   <link>https://store.steampowered.com/app/3987370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028160/13646fc14e1f6da1ba52aceddc10dd69c8d24e13/header.jpg?t=1758265327" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028160/13646fc14e1f6da1ba52aceddc10dd69c8d24e13/header.jpg?t=1758265327" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4028160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4028160/13646fc14e1f6da1ba52aceddc10dd69c8d24e13/header.jpg?t=1758265327" alt="善良都市 Nice City（新規追加）" /></a></p><p>Welcome to Nice City. This is a beautifully crafted, emotionally rich third-person open-world shooter. The people here are simple and honest, the place is endowed with fine spirits – if you encounter any strange characters, they might have traveled from &amp;quot;Return to Campus&amp;quot;.</p><p><a href="https://store.steampowered.com/app/4028160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Trails in the Sky 1st Chapter - Fine Red Diner Costume Set Vol. 1（新規追加）</title>
-  <link>https://store.steampowered.com/app/3888340/</link>
-  <guid isPermaLink="false">steam-store-published-3888340</guid>
-  <pubDate>Fri, 19 Sep 2025 07:30:39 +0000</pubDate>
-  <description>Allows the player to change certain characters into their Fine Red Diner costumes.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3888340/5859d0f2c6902cc8e99841b6b6d886e837a52ab0/header.jpg?t=1758265454" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3888340/5859d0f2c6902cc8e99841b6b6d886e837a52ab0/header.jpg?t=1758265454" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3888340/5859d0f2c6902cc8e99841b6b6d886e837a52ab0/header.jpg?t=1758265454" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3888340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3888340/5859d0f2c6902cc8e99841b6b6d886e837a52ab0/header.jpg?t=1758265454" alt="Trails in the Sky 1st Chapter - Fine Red Diner Costume Set Vol. 1（新規追加）" /></a></p><p>Allows the player to change certain characters into their Fine Red Diner costumes.</p><p><a href="https://store.steampowered.com/app/3888340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
