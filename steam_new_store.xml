@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 04:18:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 04:46:09 +0000</lastBuildDate>
+<item>
+  <title>Beta 3000 Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4016650/</link>
+  <guid isPermaLink="false">steam-store-published-4016650</guid>
+  <pubDate>Sat, 20 Sep 2025 04:46:09 +0000</pubDate>
+  <description>You&#x27;ve woken up in your cheap hotel room, low on funds and equipment. The town where you currently reside is under attack by a dragon from a different game world. You and your teammates embark to slay the dragon for easy money.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016650/6d81e492d1ff6f382d792d311412d95cc8ae6a47/header.jpg?t=1758340211" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016650/6d81e492d1ff6f382d792d311412d95cc8ae6a47/header.jpg?t=1758340211" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016650/6d81e492d1ff6f382d792d311412d95cc8ae6a47/header.jpg?t=1758340211" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4016650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016650/6d81e492d1ff6f382d792d311412d95cc8ae6a47/header.jpg?t=1758340211" alt="Beta 3000 Demo（新規追加）" /></a></p><p>You&#x27;ve woken up in your cheap hotel room, low on funds and equipment. The town where you currently reside is under attack by a dragon from a different game world. You and your teammates embark to slay the dragon for easy money.</p><p><a href="https://store.steampowered.com/app/4016650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mecha Force（新規追加）</title>
   <link>https://store.steampowered.com/app/4036130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045260/b209d65e24e30d588e0917f63c1c9c13a8bd7389/header.jpg?t=1758258071" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045260/b209d65e24e30d588e0917f63c1c9c13a8bd7389/header.jpg?t=1758258071" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4045260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045260/b209d65e24e30d588e0917f63c1c9c13a8bd7389/header.jpg?t=1758258071" alt="SRUSH Demo（新規追加）" /></a></p><p>2D Roguelike Pull-Action Game. Simply pull and fire slimes with your mouse! Attack by slamming slimes into enemies! Grow your slimes, build your strategy, and defeat invading enemies to protect your nest!</p><p><a href="https://store.steampowered.com/app/4045260/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kawaii Clicker Reborn（新規追加）</title>
-  <link>https://store.steampowered.com/app/3944020/</link>
-  <guid isPermaLink="false">steam-store-published-3944020</guid>
-  <pubDate>Fri, 19 Sep 2025 05:44:49 +0000</pubDate>
-  <description>Ultimate cute clicker is back and even cuter than ever! Fill up the gauge to enter “Fever Mode” and get lots of hearts! Let&#x27;s click to see cute animations of cute characters!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3944020/449efd43b23ef1bb1b616e242dc6f2cc91b3c519/header.jpg?t=1758259267" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3944020/449efd43b23ef1bb1b616e242dc6f2cc91b3c519/header.jpg?t=1758259267" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3944020/449efd43b23ef1bb1b616e242dc6f2cc91b3c519/header.jpg?t=1758259267" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3944020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3944020/449efd43b23ef1bb1b616e242dc6f2cc91b3c519/header.jpg?t=1758259267" alt="Kawaii Clicker Reborn（新規追加）" /></a></p><p>Ultimate cute clicker is back and even cuter than ever! Fill up the gauge to enter “Fever Mode” and get lots of hearts! Let&#x27;s click to see cute animations of cute characters!</p><p><a href="https://store.steampowered.com/app/3944020/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
