@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 19 Sep 2025 23:44:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Sep 2025 07:27:48 +0000</lastBuildDate>
+<item>
+  <title>Project Almighty 2（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2219770/</link>
+  <guid isPermaLink="false">steam-store-update-2219770-1758354006</guid>
+  <pubDate>Sat, 20 Sep 2025 07:27:48 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/2c52c47abfc9df72010a0f5f649cf8423ab1c758/capsule_184x69.jpg?t=1757692970; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/ceaae3570e6cc7cd0ac0811378c78014ac7006fb/header.jpg?t=1757692970; 無料フラグ:  → False; タイトル:  → Project Almighty 2; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → &amp;quot;Be the ultimare superhero in a city under siege. Fight gangs, monsters, and …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/ceaae3570e6cc7cd0ac0811378c78014ac7006fb/header.jpg?t=1757692970" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/ceaae3570e6cc7cd0ac0811378c78014ac7006fb/header.jpg?t=1757692970" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/ceaae3570e6cc7cd0ac0811378c78014ac7006fb/header.jpg?t=1757692970" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2219770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/ceaae3570e6cc7cd0ac0811378c78014ac7006fb/header.jpg?t=1757692970" alt="Project Almighty 2（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/2c52c47abfc9df72010a0f5f649cf8423ab1c758/capsule_184x69.jpg?t=1757692970; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2219770/ceaae3570e6cc7cd0ac0811378c78014ac7006fb/header.jpg?t=1757692970; 無料フラグ:  → False; タイトル:  → Project Almighty 2; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → &amp;quot;Be the ultimare superhero in a city under siege. Fight gangs, monsters, and …</p><p><a href="https://store.steampowered.com/app/2219770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tales of Meadows | Beta Test（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2146400/</link>
