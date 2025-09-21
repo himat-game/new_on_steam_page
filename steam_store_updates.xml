@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 09:13:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 09:44:28 +0000</lastBuildDate>
+<item>
+  <title>Beyond R: Rule Ripper Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2551630/</link>
+  <guid isPermaLink="false">steam-store-update-2551630-1758448597</guid>
+  <pubDate>Sun, 21 Sep 2025 09:44:28 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/cce5dc6bc70e41aa529149acf7ebddd2c35f6c0c/capsule_184x69.jpg?t=1758015362; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/13001b0504f9aeb4baf45184355b57d9ffe677d1/header.jpg?t=1758015362; 無料フラグ:  → True; タイトル:  → Beyond R: Rule Ripper Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;September 2025&quot;}; 説明:  → ; タイプ:  → demo</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/13001b0504f9aeb4baf45184355b57d9ffe677d1/header.jpg?t=1758015362" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/13001b0504f9aeb4baf45184355b57d9ffe677d1/header.jpg?t=1758015362" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/13001b0504f9aeb4baf45184355b57d9ffe677d1/header.jpg?t=1758015362" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2551630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/13001b0504f9aeb4baf45184355b57d9ffe677d1/header.jpg?t=1758015362" alt="Beyond R: Rule Ripper Demo（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/cce5dc6bc70e41aa529149acf7ebddd2c35f6c0c/capsule_184x69.jpg?t=1758015362; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551630/13001b0504f9aeb4baf45184355b57d9ffe677d1/header.jpg?t=1758015362; 無料フラグ:  → True; タイトル:  → Beyond R: Rule Ripper Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;September 2025&quot;}; 説明:  → ; タイプ:  → demo</p><p><a href="https://store.steampowered.com/app/2551630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dwarf Delve Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2534570/</link>
