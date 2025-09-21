@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 04:18:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 04:47:45 +0000</lastBuildDate>
+<item>
+  <title>广式双马尾的报恩（新規追加）</title>
+  <link>https://store.steampowered.com/app/3953050/</link>
+  <guid isPermaLink="false">steam-store-published-3953050</guid>
+  <pubDate>Sun, 21 Sep 2025 04:47:45 +0000</pubDate>
+  <description>&amp;quot;What do I look like?&amp;quot; On my way home from overtime, a dark figure suddenly appeared before me.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953050/69fb79bf043ae7a6e9ea75e148856d56cf0b9dd7/header.jpg?t=1758427882" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953050/69fb79bf043ae7a6e9ea75e148856d56cf0b9dd7/header.jpg?t=1758427882" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953050/69fb79bf043ae7a6e9ea75e148856d56cf0b9dd7/header.jpg?t=1758427882" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953050/69fb79bf043ae7a6e9ea75e148856d56cf0b9dd7/header.jpg?t=1758427882" alt="广式双马尾的报恩（新規追加）" /></a></p><p>&amp;quot;What do I look like?&amp;quot; On my way home from overtime, a dark figure suddenly appeared before me.</p><p><a href="https://store.steampowered.com/app/3953050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Bar Souls（新規追加）</title>
   <link>https://store.steampowered.com/app/4039940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969610/846a64b85dd51c0ab2d37a7fd555ba4114e9d13c/header.jpg?t=1758269696" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969610/846a64b85dd51c0ab2d37a7fd555ba4114e9d13c/header.jpg?t=1758269696" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3969610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969610/846a64b85dd51c0ab2d37a7fd555ba4114e9d13c/header.jpg?t=1758269696" alt="Job Fit For a Devil（新規追加）" /></a></p><p>An adventure game with crafting and transformations about a devil in the service of Peter the Great. Play as a little imp - trick, lie, steal and cheat in order to get your way and move up the ladder!</p><p><a href="https://store.steampowered.com/app/3969610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Shmup Boss（新規追加）</title>
-  <link>https://store.steampowered.com/app/3915580/</link>
-  <guid isPermaLink="false">steam-store-published-3915580</guid>
-  <pubDate>Fri, 19 Sep 2025 08:50:21 +0000</pubDate>
-  <description>Minimalist colorful shoot &#x27;em up with a story! Play as the yellow hero trying to get a turkey sandwich in a world divided by forms and colors. Will our hero get his sandwich? Who&#x27;s behind this divided world?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915580/f393a413f3b9353c91397b8b776e7cc4c385f871/header.jpg?t=1758269163" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915580/f393a413f3b9353c91397b8b776e7cc4c385f871/header.jpg?t=1758269163" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915580/f393a413f3b9353c91397b8b776e7cc4c385f871/header.jpg?t=1758269163" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3915580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915580/f393a413f3b9353c91397b8b776e7cc4c385f871/header.jpg?t=1758269163" alt="Shmup Boss（新規追加）" /></a></p><p>Minimalist colorful shoot &#x27;em up with a story! Play as the yellow hero trying to get a turkey sandwich in a world divided by forms and colors. Will our hero get his sandwich? Who&#x27;s behind this divided world?</p><p><a href="https://store.steampowered.com/app/3915580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
