@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 08:45:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 09:13:39 +0000</lastBuildDate>
+<item>
+  <title>Into The Depths Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3731740/</link>
+  <guid isPermaLink="false">steam-store-published-3731740</guid>
+  <pubDate>Sun, 21 Sep 2025 09:13:39 +0000</pubDate>
+  <description>A roguelike city builder, where you colonize the mysterious underworld. Build your settlement, explore the caves and colonize the deepest caverns. Overcome the dangers hidden in the dark and make the riches of the Depths yours!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731740/738f0a8995ffada71d4fc61899947a6b67cd30cf/header.jpg?t=1758442496" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731740/738f0a8995ffada71d4fc61899947a6b67cd30cf/header.jpg?t=1758442496" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731740/738f0a8995ffada71d4fc61899947a6b67cd30cf/header.jpg?t=1758442496" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3731740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731740/738f0a8995ffada71d4fc61899947a6b67cd30cf/header.jpg?t=1758442496" alt="Into The Depths Demo（新規追加）" /></a></p><p>A roguelike city builder, where you colonize the mysterious underworld. Build your settlement, explore the caves and colonize the deepest caverns. Overcome the dangers hidden in the dark and make the riches of the Depths yours!</p><p><a href="https://store.steampowered.com/app/3731740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Eternal Guardian: Forbidden Portals（新規追加）</title>
   <link>https://store.steampowered.com/app/3957620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960250/77afc6448959806c811420cf0c559a5cdded852f/header.jpg?t=1758275315" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960250/77afc6448959806c811420cf0c559a5cdded852f/header.jpg?t=1758275315" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3960250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960250/77afc6448959806c811420cf0c559a5cdded852f/header.jpg?t=1758275315" alt="Cat Merge Demo（新規追加）" /></a></p><p>type=demo, appid=3960250</p><p><a href="https://store.steampowered.com/app/3960250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Setuna:Legend of Hamburger 2（新規追加）</title>
-  <link>https://store.steampowered.com/app/4007890/</link>
-  <guid isPermaLink="false">steam-store-published-4007890</guid>
-  <pubDate>Fri, 19 Sep 2025 10:17:09 +0000</pubDate>
-  <description>All motions, all frames cancelable. The second installment of the ultra-free 3D action-adventure [SETUNA]. Challenge the limits of your skills with a fully professional-grade input system!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007890/efe3e3aaf225d05ee1f551ad7b20977fe0a9b27e/header.jpg?t=1758276574" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007890/efe3e3aaf225d05ee1f551ad7b20977fe0a9b27e/header.jpg?t=1758276574" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007890/efe3e3aaf225d05ee1f551ad7b20977fe0a9b27e/header.jpg?t=1758276574" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4007890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007890/efe3e3aaf225d05ee1f551ad7b20977fe0a9b27e/header.jpg?t=1758276574" alt="Setuna:Legend of Hamburger 2（新規追加）" /></a></p><p>All motions, all frames cancelable. The second installment of the ultra-free 3D action-adventure [SETUNA]. Challenge the limits of your skills with a fully professional-grade input system!</p><p><a href="https://store.steampowered.com/app/4007890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
