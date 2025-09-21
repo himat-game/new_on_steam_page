@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Sep 2025 22:44:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 06:21:36 +0000</lastBuildDate>
+<item>
+  <title>Heistfest Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2492980/</link>
+  <guid isPermaLink="false">steam-store-update-2492980-1758436077</guid>
+  <pubDate>Sun, 21 Sep 2025 06:21:36 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/3ce2752377ebe166c4dfd2440c71664a39a2fcef/capsule_184x69.jpg?t=1758036745; ジャンル:  → Action, Casual, Indie, Racing; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/40a831ba74ef675cfc10cf0716fb8570d1c94a5e/header.jpg?t=1758036745; 無料フラグ:  → True; タイトル:  → Heistfest Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;16 Sep, 2025&quot;}; 説明:  → Rob banks and cause chaos in Heistfest, a top-down action-racer where you escape acr…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/40a831ba74ef675cfc10cf0716fb8570d1c94a5e/header.jpg?t=1758036745" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/40a831ba74ef675cfc10cf0716fb8570d1c94a5e/header.jpg?t=1758036745" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/40a831ba74ef675cfc10cf0716fb8570d1c94a5e/header.jpg?t=1758036745" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2492980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/40a831ba74ef675cfc10cf0716fb8570d1c94a5e/header.jpg?t=1758036745" alt="Heistfest Demo（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/3ce2752377ebe166c4dfd2440c71664a39a2fcef/capsule_184x69.jpg?t=1758036745; ジャンル:  → Action, Casual, Indie, Racing; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492980/40a831ba74ef675cfc10cf0716fb8570d1c94a5e/header.jpg?t=1758036745; 無料フラグ:  → True; タイトル:  → Heistfest Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;16 Sep, 2025&quot;}; 説明:  → Rob banks and cause chaos in Heistfest, a top-down action-racer where you escape acr…</p><p><a href="https://store.steampowered.com/app/2492980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>UZG Remastered Playtest（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2425430/</link>
