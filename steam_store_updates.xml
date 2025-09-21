@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 06:21:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 06:48:50 +0000</lastBuildDate>
+<item>
+  <title>DRAGON QUEST VII Reimagined（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2499860/</link>
+  <guid isPermaLink="false">steam-store-update-2499860-1758437799</guid>
+  <pubDate>Sun, 21 Sep 2025 06:48:50 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/9d1e5917fb47c7af55a5134a6f7eb302fea2fb16/capsule_184x69.jpg?t=1758136148; ジャンル:  → Adventure, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1758136148; 無料フラグ:  → False; タイトル:  → DRAGON QUEST VII Reimagined; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;5 Feb, 2026&quot;}; 説明:  → Unravel the mysteries of the past in DRAGON QUEST VII Reimagined! Gather your companion…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1758136148" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1758136148" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1758136148" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2499860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1758136148" alt="DRAGON QUEST VII Reimagined（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/9d1e5917fb47c7af55a5134a6f7eb302fea2fb16/capsule_184x69.jpg?t=1758136148; ジャンル:  → Adventure, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1758136148; 無料フラグ:  → False; タイトル:  → DRAGON QUEST VII Reimagined; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;5 Feb, 2026&quot;}; 説明:  → Unravel the mysteries of the past in DRAGON QUEST VII Reimagined! Gather your companion…</p><p><a href="https://store.steampowered.com/app/2499860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Heistfest Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2492980/</link>
