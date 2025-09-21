@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 10:44:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 11:44:17 +0000</lastBuildDate>
+<item>
+  <title>Abyss Dungeon（新規追加）</title>
+  <link>https://store.steampowered.com/app/3997030/</link>
+  <guid isPermaLink="false">steam-store-published-3997030</guid>
+  <pubDate>Sun, 21 Sep 2025 11:44:17 +0000</pubDate>
+  <description>&amp;lt;Hack and Slash, Mystery Dungeon&amp;gt; The dungeon is randomly generated and changes shape every time you enter. You may encounter monsters in the dungeon. Battles with monsters are turn-based, and monsters don&#x27;t move until you move. Pick up treasure chests scattered throughout the dungeon.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997030/b416a868d56e93d9a24311dbdbf8c734147bdd55/header.jpg?t=1758454273" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997030/b416a868d56e93d9a24311dbdbf8c734147bdd55/header.jpg?t=1758454273" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997030/b416a868d56e93d9a24311dbdbf8c734147bdd55/header.jpg?t=1758454273" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3997030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997030/b416a868d56e93d9a24311dbdbf8c734147bdd55/header.jpg?t=1758454273" alt="Abyss Dungeon（新規追加）" /></a></p><p>&amp;lt;Hack and Slash, Mystery Dungeon&amp;gt; The dungeon is randomly generated and changes shape every time you enter. You may encounter monsters in the dungeon. Battles with monsters are turn-based, and monsters don&#x27;t move until you move. Pick up treasure chests scattered throughout the dungeon.</p><p><a href="https://store.steampowered.com/app/3997030/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Waifu Rancher 2 - Mari（新規追加）</title>
   <link>https://store.steampowered.com/app/3998970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470550/f19b8eb2ac462f0a7008d3401cae7074a232e9fa/header.jpg?t=1758276364" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470550/f19b8eb2ac462f0a7008d3401cae7074a232e9fa/header.jpg?t=1758276364" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3470550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470550/f19b8eb2ac462f0a7008d3401cae7074a232e9fa/header.jpg?t=1758276364" alt="We, Junk Artists（新規追加）" /></a></p><p>A &amp;quot;collage-and-guess&amp;quot; multiplayer game for up to 6 players. Enjoy collaging ordinary items into outside-the-box &amp;quot;masterpieces,&amp;quot; guess each other&#x27;s creations, and unleash your wild imagination around the campfire. Here, everyone is an artist!</p><p><a href="https://store.steampowered.com/app/3470550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nonograms - Pixel Art #24（新規追加）</title>
-  <link>https://store.steampowered.com/app/3770620/</link>
-  <guid isPermaLink="false">steam-store-published-3770620</guid>
-  <pubDate>Fri, 19 Sep 2025 11:12:58 +0000</pubDate>
-  <description>DLC includes various puzzle sizes on x20, x25, x30, and x35 scales.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770620/c67b9ac6598e2b6ad3b4959bdeeb1066b7f84f8e/header.jpg?t=1758278994" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770620/c67b9ac6598e2b6ad3b4959bdeeb1066b7f84f8e/header.jpg?t=1758278994" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770620/c67b9ac6598e2b6ad3b4959bdeeb1066b7f84f8e/header.jpg?t=1758278994" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3770620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770620/c67b9ac6598e2b6ad3b4959bdeeb1066b7f84f8e/header.jpg?t=1758278994" alt="Nonograms - Pixel Art #24（新規追加）" /></a></p><p>DLC includes various puzzle sizes on x20, x25, x30, and x35 scales.</p><p><a href="https://store.steampowered.com/app/3770620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
