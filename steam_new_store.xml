@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 19:11:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 19:24:59 +0000</lastBuildDate>
+<item>
+  <title>Mochiko The Samurai Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4030910/</link>
+  <guid isPermaLink="false">steam-store-published-4030910</guid>
+  <pubDate>Sun, 21 Sep 2025 19:24:59 +0000</pubDate>
+  <description>type=game, appid=4030910</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030910/01bd40d469d386e364d15664a94c88a4102baaaf/header.jpg?t=1758481284" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030910/01bd40d469d386e364d15664a94c88a4102baaaf/header.jpg?t=1758481284" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030910/01bd40d469d386e364d15664a94c88a4102baaaf/header.jpg?t=1758481284" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4030910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030910/01bd40d469d386e364d15664a94c88a4102baaaf/header.jpg?t=1758481284" alt="Mochiko The Samurai Playtest（新規追加）" /></a></p><p>type=game, appid=4030910</p><p><a href="https://store.steampowered.com/app/4030910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cyber Summer（新規追加）</title>
   <link>https://store.steampowered.com/app/4038640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036990/a1b11faf4f870e92d04b185e77936f4481687a09/header.jpg?t=1758290719" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036990/a1b11faf4f870e92d04b185e77936f4481687a09/header.jpg?t=1758290719" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036990/a1b11faf4f870e92d04b185e77936f4481687a09/header.jpg?t=1758290719" alt="Takara Cards Soundtrack（新規追加）" /></a></p><p>Includes the original Takara Cards soundtrack, featuring songs by Bruno Ito in MP3 format, in an album with eight songs featured in the game.</p><p><a href="https://store.steampowered.com/app/4036990/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Whiskerwood Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3126370/</link>
-  <guid isPermaLink="false">steam-store-published-3126370</guid>
-  <pubDate>Fri, 19 Sep 2025 14:47:30 +0000</pubDate>
-  <description>Establish a home for your industrious mice under the oppressive paw of your cat overlords in this city builder featuring complex simulations, intricate production chains, and the age-old rivalry between cat and mouse.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3126370/7237c2ee5f5a5c9d05ac9e473d4bcb8573e4bc09/header.jpg?t=1758290219" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3126370/7237c2ee5f5a5c9d05ac9e473d4bcb8573e4bc09/header.jpg?t=1758290219" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3126370/7237c2ee5f5a5c9d05ac9e473d4bcb8573e4bc09/header.jpg?t=1758290219" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3126370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3126370/7237c2ee5f5a5c9d05ac9e473d4bcb8573e4bc09/header.jpg?t=1758290219" alt="Whiskerwood Demo（新規追加）" /></a></p><p>Establish a home for your industrious mice under the oppressive paw of your cat overlords in this city builder featuring complex simulations, intricate production chains, and the age-old rivalry between cat and mouse.</p><p><a href="https://store.steampowered.com/app/3126370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>

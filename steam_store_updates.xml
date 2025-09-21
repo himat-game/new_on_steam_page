@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 18:41:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 19:24:59 +0000</lastBuildDate>
+<item>
+  <title>&#x27;83 Playtest（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2680660/</link>
+  <guid isPermaLink="false">steam-store-update-2680660-1758483378</guid>
+  <pubDate>Sun, 21 Sep 2025 19:24:59 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/19356bb12f92f6f1771dd1fb1d2bd2178385a82d/capsule_184x69.jpg?t=1758288914; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/c24296bff7f5fa05fa696981acc7a10370b0e9a1/header.jpg?t=1758288914; 無料フラグ:  → False; タイトル:  → &#x27;83 Playtest; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;18 Sep, 2025&quot;}; 説明:  → ; タイプ:  → game</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/c24296bff7f5fa05fa696981acc7a10370b0e9a1/header.jpg?t=1758288914" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/c24296bff7f5fa05fa696981acc7a10370b0e9a1/header.jpg?t=1758288914" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/c24296bff7f5fa05fa696981acc7a10370b0e9a1/header.jpg?t=1758288914" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2680660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/c24296bff7f5fa05fa696981acc7a10370b0e9a1/header.jpg?t=1758288914" alt="&#x27;83 Playtest（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/19356bb12f92f6f1771dd1fb1d2bd2178385a82d/capsule_184x69.jpg?t=1758288914; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680660/c24296bff7f5fa05fa696981acc7a10370b0e9a1/header.jpg?t=1758288914; 無料フラグ:  → False; タイトル:  → &#x27;83 Playtest; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;18 Sep, 2025&quot;}; 説明:  → ; タイプ:  → game</p><p><a href="https://store.steampowered.com/app/2680660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Romance of the Three Kingdoms（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2664770/</link>
