@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 21:27:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 23:28:45 +0000</lastBuildDate>
+<item>
+  <title>Caribbean Legend - Supporter Pack（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2749310/</link>
+  <guid isPermaLink="false">steam-store-update-2749310-1758497389</guid>
+  <pubDate>Sun, 21 Sep 2025 23:28:45 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ec781a8d0a250f60194bb9442442dbdb84c11db6/capsule_184x69.jpg?t=1758296054; ジャンル:  → RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054; 無料フラグ:  → False; タイトル:  → Caribbean Legend - Supporter Pack; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;26 Sep, 2025&quot;}; 説明:  → For almost a year and a half, the “Support Pack” remained exclusive to the owners of the mo…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2749310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" alt="Caribbean Legend - Supporter Pack（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ec781a8d0a250f60194bb9442442dbdb84c11db6/capsule_184x69.jpg?t=1758296054; ジャンル:  → RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054; 無料フラグ:  → False; タイトル:  → Caribbean Legend - Supporter Pack; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;26 Sep, 2025&quot;}; 説明:  → For almost a year and a half, the “Support Pack” remained exclusive to the owners of the mo…</p><p><a href="https://store.steampowered.com/app/2749310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Battle Drive（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2716570/</link>
