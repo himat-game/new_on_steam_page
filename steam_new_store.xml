@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 13:44:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 14:12:44 +0000</lastBuildDate>
+<item>
+  <title>Wasp Wars: New Wasp Order（新規追加）</title>
+  <link>https://store.steampowered.com/app/3931660/</link>
+  <guid isPermaLink="false">steam-store-published-3931660</guid>
+  <pubDate>Sun, 21 Sep 2025 14:12:44 +0000</pubDate>
+  <description>Blast away wasp scum in Wasp Wars: New Wasp Order! Shoot your way through 12 scenic stages of trees, metal, and more, to eliminate the Wasp Army once and for all!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931660/c6f3efb9862cdcf5141c0fe0b696810d6fae1e59/header.jpg?t=1758461520" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931660/c6f3efb9862cdcf5141c0fe0b696810d6fae1e59/header.jpg?t=1758461520" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931660/c6f3efb9862cdcf5141c0fe0b696810d6fae1e59/header.jpg?t=1758461520" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3931660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3931660/c6f3efb9862cdcf5141c0fe0b696810d6fae1e59/header.jpg?t=1758461520" alt="Wasp Wars: New Wasp Order（新規追加）" /></a></p><p>Blast away wasp scum in Wasp Wars: New Wasp Order! Shoot your way through 12 scenic stages of trees, metal, and more, to eliminate the Wasp Army once and for all!</p><p><a href="https://store.steampowered.com/app/3931660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Homeless Experience Simulator Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4040940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995700/358adeab59cfe4307664358f41b1a0febd983852/header.jpg?t=1758286659" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995700/358adeab59cfe4307664358f41b1a0febd983852/header.jpg?t=1758286659" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3995700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995700/358adeab59cfe4307664358f41b1a0febd983852/header.jpg?t=1758286659" alt="Coffee Bar Simulator（新規追加）" /></a></p><p>Build and manage your own hotel, from a small property to a luxury resort. Design rooms, maintain cleanliness, develop amenities, and offer guests unforgettable experiences at your hotel!</p><p><a href="https://store.steampowered.com/app/3995700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>大戦略SSB2（新規追加）</title>
-  <link>https://store.steampowered.com/app/3941780/</link>
-  <guid isPermaLink="false">steam-store-published-3941780</guid>
-  <pubDate>Fri, 19 Sep 2025 12:32:39 +0000</pubDate>
-  <description>Wield over 300 modern weapons, from jets to tanks, and outmaneuver rival forces with your strategy. From small islands to massive total-war maps, turn-based battles let both newcomers and veterans play at their own pace.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941780/26b6eec42075e99a1b01bd7a3385e45171183f86/header.jpg?t=1758279700" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941780/26b6eec42075e99a1b01bd7a3385e45171183f86/header.jpg?t=1758279700" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941780/26b6eec42075e99a1b01bd7a3385e45171183f86/header.jpg?t=1758279700" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3941780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941780/26b6eec42075e99a1b01bd7a3385e45171183f86/header.jpg?t=1758279700" alt="大戦略SSB2（新規追加）" /></a></p><p>Wield over 300 modern weapons, from jets to tanks, and outmaneuver rival forces with your strategy. From small islands to massive total-war maps, turn-based battles let both newcomers and veterans play at their own pace.</p><p><a href="https://store.steampowered.com/app/3941780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
