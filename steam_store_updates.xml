@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 12:29:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 17:12:30 +0000</lastBuildDate>
+<item>
+  <title>Core Miners（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2644280/</link>
+  <guid isPermaLink="false">steam-store-update-2644280-1758475386</guid>
+  <pubDate>Sun, 21 Sep 2025 17:12:30 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/55fbb9c32c6b87846e0c25fb1cf1ef6709f82342/capsule_184x69.jpg?t=1758247527; ジャンル:  → Casual, Early Access, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/95f014737fd00c666a6f9f877308a62294902160/header.jpg?t=1758247527; 無料フラグ:  → False; タイトル:  → Core Miners; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;30 Sep, 2025&quot;}; 説明:  → A pixel-style mining game with easy AFK gameplay and continuous progression!; タイプ:  → game</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/95f014737fd00c666a6f9f877308a62294902160/header.jpg?t=1758247527" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/95f014737fd00c666a6f9f877308a62294902160/header.jpg?t=1758247527" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/95f014737fd00c666a6f9f877308a62294902160/header.jpg?t=1758247527" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2644280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/95f014737fd00c666a6f9f877308a62294902160/header.jpg?t=1758247527" alt="Core Miners（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/55fbb9c32c6b87846e0c25fb1cf1ef6709f82342/capsule_184x69.jpg?t=1758247527; ジャンル:  → Casual, Early Access, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644280/95f014737fd00c666a6f9f877308a62294902160/header.jpg?t=1758247527; 無料フラグ:  → False; タイトル:  → Core Miners; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;30 Sep, 2025&quot;}; 説明:  → A pixel-style mining game with easy AFK gameplay and continuous progression!; タイプ:  → game</p><p><a href="https://store.steampowered.com/app/2644280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Escape The Pyramid（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2583580/</link>
