@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 14:30:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 14:44:33 +0000</lastBuildDate>
+<item>
+  <title>Gobby Run - Harder With Friends!（新規追加）</title>
+  <link>https://store.steampowered.com/app/4005990/</link>
+  <guid isPermaLink="false">steam-store-published-4005990</guid>
+  <pubDate>Sun, 21 Sep 2025 14:44:33 +0000</pubDate>
+  <description>Climb, stumble, and scream your way to the top through various obstacles! Easy enough? Not when you and your friends are a gang of mischievous goblins! The path is treacherous, the footing is awful, and the only guarantee is that someone’s going to fall.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005990/bd3d294031616df43e6cbdfd5d0a861b79720f5c/header.jpg?t=1758464341" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005990/bd3d294031616df43e6cbdfd5d0a861b79720f5c/header.jpg?t=1758464341" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005990/bd3d294031616df43e6cbdfd5d0a861b79720f5c/header.jpg?t=1758464341" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4005990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005990/bd3d294031616df43e6cbdfd5d0a861b79720f5c/header.jpg?t=1758464341" alt="Gobby Run - Harder With Friends!（新規追加）" /></a></p><p>Climb, stumble, and scream your way to the top through various obstacles! Easy enough? Not when you and your friends are a gang of mischievous goblins! The path is treacherous, the footing is awful, and the only guarantee is that someone’s going to fall.</p><p><a href="https://store.steampowered.com/app/4005990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Smash Out Colony（新規追加）</title>
   <link>https://store.steampowered.com/app/3701810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976270/7621a7c48983da8c14163d6f6081f566f8937d13/header.jpg?t=1758285142" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976270/7621a7c48983da8c14163d6f6081f566f8937d13/header.jpg?t=1758285142" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3976270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976270/7621a7c48983da8c14163d6f6081f566f8937d13/header.jpg?t=1758285142" alt="Paradise Beyond the Nightmare（新規追加）" /></a></p><p>&amp;quot;Paradise Beyond the Nightmare&amp;quot; is a 2D exploration horror game where you explore and solve puzzles in a 2D space with depth. You can experience moving both sideways and forwards through eerie paintings.</p><p><a href="https://store.steampowered.com/app/3976270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Barrel Roll Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/3968000/</link>
-  <guid isPermaLink="false">steam-store-published-3968000</guid>
-  <pubDate>Fri, 19 Sep 2025 13:06:18 +0000</pubDate>
-  <description>type=game, appid=3968000</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968000/14f37dc3a6f8f75425c78276102a8dbc330e1c32/header.jpg?t=1758284064" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968000/14f37dc3a6f8f75425c78276102a8dbc330e1c32/header.jpg?t=1758284064" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968000/14f37dc3a6f8f75425c78276102a8dbc330e1c32/header.jpg?t=1758284064" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3968000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968000/14f37dc3a6f8f75425c78276102a8dbc330e1c32/header.jpg?t=1758284064" alt="Barrel Roll Playtest（新規追加）" /></a></p><p>type=game, appid=3968000</p><p><a href="https://store.steampowered.com/app/3968000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
