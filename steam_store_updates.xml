@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Sep 2025 17:12:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Sep 2025 17:44:21 +0000</lastBuildDate>
+<item>
+  <title>BAND MATES（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2655810/</link>
+  <guid isPermaLink="false">steam-store-update-2655810-1758477147</guid>
+  <pubDate>Sun, 21 Sep 2025 17:44:21 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/bab0144bbbeb4ece62c73ceb3a570cde55dbbc15/capsule_184x69.jpg?t=1757698036; ジャンル:  → Casual, Early Access, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/a745dbc5a2fcddf8b2a887ad8095c3fa28efe1e3/header.jpg?t=1757698036; 無料フラグ:  → False; タイトル:  → BAND MATES; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Band Mates is a chill music-making game that provides a quick and intuitive sonic playgr…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/a745dbc5a2fcddf8b2a887ad8095c3fa28efe1e3/header.jpg?t=1757698036" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/a745dbc5a2fcddf8b2a887ad8095c3fa28efe1e3/header.jpg?t=1757698036" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/a745dbc5a2fcddf8b2a887ad8095c3fa28efe1e3/header.jpg?t=1757698036" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2655810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/a745dbc5a2fcddf8b2a887ad8095c3fa28efe1e3/header.jpg?t=1757698036" alt="BAND MATES（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/bab0144bbbeb4ece62c73ceb3a570cde55dbbc15/capsule_184x69.jpg?t=1757698036; ジャンル:  → Casual, Early Access, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655810/a745dbc5a2fcddf8b2a887ad8095c3fa28efe1e3/header.jpg?t=1757698036; 無料フラグ:  → False; タイトル:  → BAND MATES; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Band Mates is a chill music-making game that provides a quick and intuitive sonic playgr…</p><p><a href="https://store.steampowered.com/app/2655810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Core Miners（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2644280/</link>
