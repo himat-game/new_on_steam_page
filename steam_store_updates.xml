@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 22:44:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 23:28:34 +0000</lastBuildDate>
+<item>
+  <title>Welding Simulator（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3035150/</link>
+  <guid isPermaLink="false">steam-store-update-3035150-1758584068</guid>
+  <pubDate>Mon, 22 Sep 2025 23:28:34 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/dcbce3fc9e5ea5fea5f13ef991b2fc3bd6bc2b40/capsule_184x69.jpg?t=1758276446; ジャンル:  → Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/11a68c103b76f84e4e381b0fb1d393e5d9bb5620/header.jpg?t=1758276446; 無料フラグ:  → False; タイトル:  → Welding Simulator; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Welding Simulator puts you in the shoes of a welder mastering real techniques like MMA, MIG, and …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/11a68c103b76f84e4e381b0fb1d393e5d9bb5620/header.jpg?t=1758276446" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/11a68c103b76f84e4e381b0fb1d393e5d9bb5620/header.jpg?t=1758276446" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/11a68c103b76f84e4e381b0fb1d393e5d9bb5620/header.jpg?t=1758276446" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3035150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/11a68c103b76f84e4e381b0fb1d393e5d9bb5620/header.jpg?t=1758276446" alt="Welding Simulator（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/dcbce3fc9e5ea5fea5f13ef991b2fc3bd6bc2b40/capsule_184x69.jpg?t=1758276446; ジャンル:  → Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035150/11a68c103b76f84e4e381b0fb1d393e5d9bb5620/header.jpg?t=1758276446; 無料フラグ:  → False; タイトル:  → Welding Simulator; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Welding Simulator puts you in the shoes of a welder mastering real techniques like MMA, MIG, and …</p><p><a href="https://store.steampowered.com/app/3035150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mush Dash（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3026250/</link>
