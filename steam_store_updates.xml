@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 12:33:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 13:08:55 +0000</lastBuildDate>
+<item>
+  <title>Cathouse Club（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2891080/</link>
+  <guid isPermaLink="false">steam-store-update-2891080-1758546573</guid>
+  <pubDate>Mon, 22 Sep 2025 13:08:55 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/capsule_184x69.jpg?t=1758520297; ジャンル:  → Adventure, Free To Play, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/header.jpg?t=1758520297; 無料フラグ:  → True; タイトル:  → Cathouse Club; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Cathouse Club is a top down, point and-click RPG that blends detective storytelling with emotional skill checks and D20 style dice rolls. Explore a flooded, cl…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/header.jpg?t=1758520297" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/header.jpg?t=1758520297" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/header.jpg?t=1758520297" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2891080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/header.jpg?t=1758520297" alt="Cathouse Club（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/capsule_184x69.jpg?t=1758520297; ジャンル:  → Adventure, Free To Play, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891080/header.jpg?t=1758520297; 無料フラグ:  → True; タイトル:  → Cathouse Club; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Cathouse Club is a top down, point and-click RPG that blends detective storytelling with emotional skill checks and D20 style dice rolls. Explore a flooded, cl…</p><p><a href="https://store.steampowered.com/app/2891080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>&lt;FAIL.safe&gt;（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2888220/</link>
