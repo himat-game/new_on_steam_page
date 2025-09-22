@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 04:19:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 06:25:24 +0000</lastBuildDate>
+<item>
+  <title>Catatattack!（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2812190/</link>
+  <guid isPermaLink="false">steam-store-update-2812190-1758523024</guid>
+  <pubDate>Mon, 22 Sep 2025 06:25:24 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/3328140c7dd0bedf3fd207d17ddfd26e31f77e4d/capsule_184x69.jpg?t=1758296572; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/eec44923ef95ac5b3b47355de6c4a79830970746/header.jpg?t=1758296572; 無料フラグ:  → False; タイトル:  → Catatattack!; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Catatattack is a Beat &#x27;Em Up Action-Adventure Game featuring Grumbly Police Officers, Me…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/eec44923ef95ac5b3b47355de6c4a79830970746/header.jpg?t=1758296572" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/eec44923ef95ac5b3b47355de6c4a79830970746/header.jpg?t=1758296572" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/eec44923ef95ac5b3b47355de6c4a79830970746/header.jpg?t=1758296572" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2812190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/eec44923ef95ac5b3b47355de6c4a79830970746/header.jpg?t=1758296572" alt="Catatattack!（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/3328140c7dd0bedf3fd207d17ddfd26e31f77e4d/capsule_184x69.jpg?t=1758296572; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812190/eec44923ef95ac5b3b47355de6c4a79830970746/header.jpg?t=1758296572; 無料フラグ:  → False; タイトル:  → Catatattack!; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Catatattack is a Beat &#x27;Em Up Action-Adventure Game featuring Grumbly Police Officers, Me…</p><p><a href="https://store.steampowered.com/app/2812190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Red Riddles（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2784120/</link>
