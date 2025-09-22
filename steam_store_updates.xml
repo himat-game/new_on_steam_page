@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 03:55:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 04:19:31 +0000</lastBuildDate>
+<item>
+  <title>Red Riddles（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2784120/</link>
+  <guid isPermaLink="false">steam-store-update-2784120-1758514817</guid>
+  <pubDate>Mon, 22 Sep 2025 04:19:31 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/cd40e4b684c9e2197b205cca79baa1d55e3c1032/capsule_184x69.jpg?t=1758486965; ジャンル:  → Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/ead9265fabc2dff82494956ed76451b7c1d5023b/header.jpg?t=1758486965; 無料フラグ:  → False; タイトル:  → Red Riddles; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;October 2025&quot;}; 説明:  → Red Riddles is a first-person co-op horror puzzle game for 1–4 players. Search haunted locations, read and solv…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/ead9265fabc2dff82494956ed76451b7c1d5023b/header.jpg?t=1758486965" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/ead9265fabc2dff82494956ed76451b7c1d5023b/header.jpg?t=1758486965" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/ead9265fabc2dff82494956ed76451b7c1d5023b/header.jpg?t=1758486965" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2784120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/ead9265fabc2dff82494956ed76451b7c1d5023b/header.jpg?t=1758486965" alt="Red Riddles（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/cd40e4b684c9e2197b205cca79baa1d55e3c1032/capsule_184x69.jpg?t=1758486965; ジャンル:  → Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784120/ead9265fabc2dff82494956ed76451b7c1d5023b/header.jpg?t=1758486965; 無料フラグ:  → False; タイトル:  → Red Riddles; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;October 2025&quot;}; 説明:  → Red Riddles is a first-person co-op horror puzzle game for 1–4 players. Search haunted locations, read and solv…</p><p><a href="https://store.steampowered.com/app/2784120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Safo and The Moon Warriors（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2780570/</link>
