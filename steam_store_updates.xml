@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 02:47:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 03:55:15 +0000</lastBuildDate>
+<item>
+  <title>Safo and The Moon Warriors（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2780570/</link>
+  <guid isPermaLink="false">steam-store-update-2780570-1758513717</guid>
+  <pubDate>Mon, 22 Sep 2025 03:55:15 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2de96296a31e04ad3fad67548c16d132e63c0651/capsule_184x69.jpg?t=1758089299; ジャンル:  → Adventure, RPG, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2f92fce897e9dc50da47eef559c610540a53d8c2/header.jpg?t=1758089299; 無料フラグ:  → False; タイトル:  → Safo and The Moon Warriors; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → In a world where the sun no longer rises, Prince Safo must rescue his sister from Arg…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2f92fce897e9dc50da47eef559c610540a53d8c2/header.jpg?t=1758089299" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2f92fce897e9dc50da47eef559c610540a53d8c2/header.jpg?t=1758089299" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2f92fce897e9dc50da47eef559c610540a53d8c2/header.jpg?t=1758089299" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2780570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2f92fce897e9dc50da47eef559c610540a53d8c2/header.jpg?t=1758089299" alt="Safo and The Moon Warriors（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2de96296a31e04ad3fad67548c16d132e63c0651/capsule_184x69.jpg?t=1758089299; ジャンル:  → Adventure, RPG, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780570/2f92fce897e9dc50da47eef559c610540a53d8c2/header.jpg?t=1758089299; 無料フラグ:  → False; タイトル:  → Safo and The Moon Warriors; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → In a world where the sun no longer rises, Prince Safo must rescue his sister from Arg…</p><p><a href="https://store.steampowered.com/app/2780570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sixtar Gate: STARTRAIL - Dystopia Pack（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2766750/</link>
