@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 10:51:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 11:28:49 +0000</lastBuildDate>
+<item>
+  <title>The Last Market（新規追加）</title>
+  <link>https://store.steampowered.com/app/4010290/</link>
+  <guid isPermaLink="false">steam-store-published-4010290</guid>
+  <pubDate>Mon, 22 Sep 2025 11:28:49 +0000</pubDate>
+  <description>The Last Market is an open-world game set in a post-apocalyptic world where you run your own market in a safe zone for survivors. Fight zombies, collect sellable items, and grow your market by selling them.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010290/b50243250e34213098dce57e6b6ae513b8c4ab62/header.jpg?t=1758537609" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010290/b50243250e34213098dce57e6b6ae513b8c4ab62/header.jpg?t=1758537609" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010290/b50243250e34213098dce57e6b6ae513b8c4ab62/header.jpg?t=1758537609" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4010290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010290/b50243250e34213098dce57e6b6ae513b8c4ab62/header.jpg?t=1758537609" alt="The Last Market（新規追加）" /></a></p><p>The Last Market is an open-world game set in a post-apocalyptic world where you run your own market in a safe zone for survivors. Fight zombies, collect sellable items, and grow your market by selling them.</p><p><a href="https://store.steampowered.com/app/4010290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Olive Raiders Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3846680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032390/0eaf8b96421ded3cf7da907637618489a1dee118/header.jpg?t=1758319779" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032390/0eaf8b96421ded3cf7da907637618489a1dee118/header.jpg?t=1758319779" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4032390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032390/0eaf8b96421ded3cf7da907637618489a1dee118/header.jpg?t=1758319779" alt="Rogum A Cat Match Puzzle Demo（新規追加）" /></a></p><p>Rogum A Cat Match Puzzle is a puzzle adventure where you help a clever cat escape a mysterious dream world. Match blocks, race against the rising water, and face obstacles across mysterious islands. With 50 levels, it challenges your memory, focus, and quick reactions. Can you save the cat?</p><p><a href="https://store.steampowered.com/app/4032390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Below the Crown Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4023520/</link>
-  <guid isPermaLink="false">steam-store-published-4023520</guid>
-  <pubDate>Fri, 19 Sep 2025 21:13:41 +0000</pubDate>
-  <description>Explore the dungeons Below the Crown, in this love letter to Roguelikes, Dungeon Crawlers, and Chess. Prepare for strategy, game-changing spells, psychological tests, and challenges from your fellow players.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023520/48e478cd1c6296a82a11aaed78a265e1865667eb/header.jpg?t=1758314587" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023520/48e478cd1c6296a82a11aaed78a265e1865667eb/header.jpg?t=1758314587" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023520/48e478cd1c6296a82a11aaed78a265e1865667eb/header.jpg?t=1758314587" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4023520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023520/48e478cd1c6296a82a11aaed78a265e1865667eb/header.jpg?t=1758314587" alt="Below the Crown Demo（新規追加）" /></a></p><p>Explore the dungeons Below the Crown, in this love letter to Roguelikes, Dungeon Crawlers, and Chess. Prepare for strategy, game-changing spells, psychological tests, and challenges from your fellow players.</p><p><a href="https://store.steampowered.com/app/4023520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
