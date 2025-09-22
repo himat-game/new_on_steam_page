@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 14:51:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 15:17:25 +0000</lastBuildDate>
+<item>
+  <title>Beat Saber - Katseye - &quot;Gabriela&quot;（新規追加）</title>
+  <link>https://store.steampowered.com/app/4002060/</link>
+  <guid isPermaLink="false">steam-store-published-4002060</guid>
+  <pubDate>Mon, 22 Sep 2025 15:17:25 +0000</pubDate>
+  <description>SHOCK DROP: Get the trending track ‘Gabriela’ by Katseye on Beat Saber now.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4002060/25603483dbd738ffcc273425389eb9748c38ac2f/header.jpg?t=1758551992" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4002060/25603483dbd738ffcc273425389eb9748c38ac2f/header.jpg?t=1758551992" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4002060/25603483dbd738ffcc273425389eb9748c38ac2f/header.jpg?t=1758551992" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4002060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4002060/25603483dbd738ffcc273425389eb9748c38ac2f/header.jpg?t=1758551992" alt="Beat Saber - Katseye - &quot;Gabriela&quot;（新規追加）" /></a></p><p>SHOCK DROP: Get the trending track ‘Gabriela’ by Katseye on Beat Saber now.</p><p><a href="https://store.steampowered.com/app/4002060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Creator&#x27;s Fall Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4048720/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029300/057f1699bc818912074356fc2f928e3cf44353ba/header.jpg?t=1758330077" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029300/057f1699bc818912074356fc2f928e3cf44353ba/header.jpg?t=1758330077" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4029300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029300/057f1699bc818912074356fc2f928e3cf44353ba/header.jpg?t=1758330077" alt="Loot of Idle（新規追加）" /></a></p><p>Loot of Idle is an idle item stacking game filled with boss battles and a pixel chill atmosphere, where you fight against endless enemies and constantly improve by collecting items.</p><p><a href="https://store.steampowered.com/app/4029300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GOGOGO!pomal!（新規追加）</title>
-  <link>https://store.steampowered.com/app/3960080/</link>
-  <guid isPermaLink="false">steam-store-published-3960080</guid>
-  <pubDate>Sat, 20 Sep 2025 02:33:17 +0000</pubDate>
-  <description>Your roguelike monster adventure begins here — explore a vast 2D open world, capture and fuse creatures, and create the one-of-a-kind team that carries you through every challenge.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960080/7a7fc7d8baa69db0ab2b2708dc4dc51db091bd67/header.jpg?t=1758330093" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960080/7a7fc7d8baa69db0ab2b2708dc4dc51db091bd67/header.jpg?t=1758330093" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960080/7a7fc7d8baa69db0ab2b2708dc4dc51db091bd67/header.jpg?t=1758330093" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3960080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960080/7a7fc7d8baa69db0ab2b2708dc4dc51db091bd67/header.jpg?t=1758330093" alt="GOGOGO!pomal!（新規追加）" /></a></p><p>Your roguelike monster adventure begins here — explore a vast 2D open world, capture and fuse creatures, and create the one-of-a-kind team that carries you through every challenge.</p><p><a href="https://store.steampowered.com/app/3960080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
