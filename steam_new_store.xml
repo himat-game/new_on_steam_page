@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 11:45:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 12:33:04 +0000</lastBuildDate>
+<item>
+  <title>Super Jigsaw Puzzle: Generations - Random 8（新規追加）</title>
+  <link>https://store.steampowered.com/app/3802250/</link>
+  <guid isPermaLink="false">steam-store-published-3802250</guid>
+  <pubDate>Mon, 22 Sep 2025 12:33:04 +0000</pubDate>
+  <description>Random puzzles!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802250/8c8c0f91b6fa9aa9eb273d4bdf0fad5b985bb778/header.jpg?t=1758541303" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802250/8c8c0f91b6fa9aa9eb273d4bdf0fad5b985bb778/header.jpg?t=1758541303" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802250/8c8c0f91b6fa9aa9eb273d4bdf0fad5b985bb778/header.jpg?t=1758541303" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3802250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802250/8c8c0f91b6fa9aa9eb273d4bdf0fad5b985bb778/header.jpg?t=1758541303" alt="Super Jigsaw Puzzle: Generations - Random 8（新規追加）" /></a></p><p>Random puzzles!</p><p><a href="https://store.steampowered.com/app/3802250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Disguiser（新規追加）</title>
   <link>https://store.steampowered.com/app/4020110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851280/fa3e9cfd3c2e275dd9daf32dba8ff8b00c8e1f3a/header.jpg?t=1758319535" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851280/fa3e9cfd3c2e275dd9daf32dba8ff8b00c8e1f3a/header.jpg?t=1758319535" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3851280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851280/fa3e9cfd3c2e275dd9daf32dba8ff8b00c8e1f3a/header.jpg?t=1758319535" alt="WHODUNNIT?（新規追加）" /></a></p><p>WHODUNNIT? is a mystery visual novel where you conduct a chaotic investigation to answer the burning question: Who the hell did you hook up with last night?!</p><p><a href="https://store.steampowered.com/app/3851280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cho Noi（新規追加）</title>
-  <link>https://store.steampowered.com/app/3644880/</link>
-  <guid isPermaLink="false">steam-store-published-3644880</guid>
-  <pubDate>Fri, 19 Sep 2025 22:44:51 +0000</pubDate>
-  <description>A Monopoly-like RPG where you fight inanimate objects and sell its remains to unsuspecting shoppers – on boats.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644880/654160d03a974a4682b9da39c614513c09758d6e/header.jpg?t=1758321150" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644880/654160d03a974a4682b9da39c614513c09758d6e/header.jpg?t=1758321150" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644880/654160d03a974a4682b9da39c614513c09758d6e/header.jpg?t=1758321150" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3644880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644880/654160d03a974a4682b9da39c614513c09758d6e/header.jpg?t=1758321150" alt="Cho Noi（新規追加）" /></a></p><p>A Monopoly-like RPG where you fight inanimate objects and sell its remains to unsuspecting shoppers – on boats.</p><p><a href="https://store.steampowered.com/app/3644880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
