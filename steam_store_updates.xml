@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 15:45:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 17:44:24 +0000</lastBuildDate>
+<item>
+  <title>RESHOOTER（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2953020/</link>
+  <guid isPermaLink="false">steam-store-update-2953020-1758563131</guid>
+  <pubDate>Mon, 22 Sep 2025 17:44:24 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/bddf07272e701f4b2debd8b45a343b8c70e402d3/capsule_184x69.jpg?t=1758548147; ジャンル:  → Action; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147; 無料フラグ:  → False; タイトル:  → RESHOOTER; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q1 2026&quot;}; 説明:  → RESHOOTER offers heart-pounding shoot-em-up action that elevates classic arcade gameplay to the next level. Dive into the retroflow with electrifying visuals,…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2953020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" alt="RESHOOTER（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/bddf07272e701f4b2debd8b45a343b8c70e402d3/capsule_184x69.jpg?t=1758548147; ジャンル:  → Action; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147; 無料フラグ:  → False; タイトル:  → RESHOOTER; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q1 2026&quot;}; 説明:  → RESHOOTER offers heart-pounding shoot-em-up action that elevates classic arcade gameplay to the next level. Dive into the retroflow with electrifying visuals,…</p><p><a href="https://store.steampowered.com/app/2953020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dark Land Chronicle: The Fallen Elf（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2922590/</link>
