@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 13:41:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 14:16:43 +0000</lastBuildDate>
+<item>
+  <title>RESHOOTER（新規追加）</title>
+  <link>https://store.steampowered.com/app/2953020/</link>
+  <guid isPermaLink="false">steam-store-published-2953020</guid>
+  <pubDate>Mon, 22 Sep 2025 14:16:43 +0000</pubDate>
+  <description>RESHOOTER offers heart-pounding shoot-em-up action that elevates classic arcade gameplay to the next level. Dive into the retroflow with electrifying visuals, immersive audio, and captivating mechanics.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2953020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953020/header.jpg?t=1758548147" alt="RESHOOTER（新規追加）" /></a></p><p>RESHOOTER offers heart-pounding shoot-em-up action that elevates classic arcade gameplay to the next level. Dive into the retroflow with electrifying visuals, immersive audio, and captivating mechanics.</p><p><a href="https://store.steampowered.com/app/2953020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Arena of Suffering Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4043120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982840/4db3df8d2c7f71ae9601dcfbb815edd92c2d20fb/header.jpg?t=1758327183" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982840/4db3df8d2c7f71ae9601dcfbb815edd92c2d20fb/header.jpg?t=1758327183" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3982840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982840/4db3df8d2c7f71ae9601dcfbb815edd92c2d20fb/header.jpg?t=1758327183" alt="卦藏千相：六爻卷 Demo（新規追加）" /></a></p><p>Here&#x27;s the polished English translation for the game description:The Six Lines Chapter (Demo)，Featuring the Official Version&#x27;s Prologue &amp;amp; First Full Chapter, plus Partial Chapters from Book II.Immerse yourself as a street diviner in this divination-based deduction game.</p><p><a href="https://store.steampowered.com/app/3982840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Village of the Ages Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3960980/</link>
-  <guid isPermaLink="false">steam-store-published-3960980</guid>
-  <pubDate>Sat, 20 Sep 2025 01:08:43 +0000</pubDate>
-  <description>type=demo, appid=3960980</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960980/d46095c15f43c089b8ee848171e6f4428b710cbb/header.jpg?t=1758325188" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960980/d46095c15f43c089b8ee848171e6f4428b710cbb/header.jpg?t=1758325188" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960980/d46095c15f43c089b8ee848171e6f4428b710cbb/header.jpg?t=1758325188" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3960980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960980/d46095c15f43c089b8ee848171e6f4428b710cbb/header.jpg?t=1758325188" alt="Village of the Ages Demo（新規追加）" /></a></p><p>type=demo, appid=3960980</p><p><a href="https://store.steampowered.com/app/3960980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>

@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 13:08:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 14:16:43 +0000</lastBuildDate>
+<item>
+  <title>Hidden Cats in Spooky Village（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/2906280/</link>
+  <guid isPermaLink="false">steam-store-update-2906280-1758550970</guid>
+  <pubDate>Mon, 22 Sep 2025 14:16:43 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/3cb84d6392e8312c37437571bf1c83de9e64b85e/capsule_184x69.jpg?t=1758546271; ジャンル:  → Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/6e8b12a24d010ea66b91d7ec1e56da5e1152cf88/header.jpg?t=1758546271; 無料フラグ:  → False; タイトル:  → Hidden Cats in Spooky Village; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Bring color to spooky scenes by finding hidden cats! Unlock levels, collect illustrate…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/6e8b12a24d010ea66b91d7ec1e56da5e1152cf88/header.jpg?t=1758546271" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/6e8b12a24d010ea66b91d7ec1e56da5e1152cf88/header.jpg?t=1758546271" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/6e8b12a24d010ea66b91d7ec1e56da5e1152cf88/header.jpg?t=1758546271" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2906280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/6e8b12a24d010ea66b91d7ec1e56da5e1152cf88/header.jpg?t=1758546271" alt="Hidden Cats in Spooky Village（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/3cb84d6392e8312c37437571bf1c83de9e64b85e/capsule_184x69.jpg?t=1758546271; ジャンル:  → Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906280/6e8b12a24d010ea66b91d7ec1e56da5e1152cf88/header.jpg?t=1758546271; 無料フラグ:  → False; タイトル:  → Hidden Cats in Spooky Village; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Bring color to spooky scenes by finding hidden cats! Unlock levels, collect illustrate…</p><p><a href="https://store.steampowered.com/app/2906280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cathouse Club（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/2891080/</link>
