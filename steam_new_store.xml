@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 23:28:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 23:44:32 +0000</lastBuildDate>
+<item>
+  <title>Spectral Revelation: The Seven Color Trial（新規追加）</title>
+  <link>https://store.steampowered.com/app/4022960/</link>
+  <guid isPermaLink="false">steam-store-published-4022960</guid>
+  <pubDate>Mon, 22 Sep 2025 23:44:32 +0000</pubDate>
+  <description>Spectral Revelation: Seven Color Trial is an action Roguelike game where you can choose from multiple weapons, upgrade them, and develop attributes that will leave you wanting more.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022960/e325e155fac8b31e9afca448ceadb3f063a91ff4/header.jpg?t=1758583463" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022960/e325e155fac8b31e9afca448ceadb3f063a91ff4/header.jpg?t=1758583463" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022960/e325e155fac8b31e9afca448ceadb3f063a91ff4/header.jpg?t=1758583463" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4022960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022960/e325e155fac8b31e9afca448ceadb3f063a91ff4/header.jpg?t=1758583463" alt="Spectral Revelation: The Seven Color Trial（新規追加）" /></a></p><p>Spectral Revelation: Seven Color Trial is an action Roguelike game where you can choose from multiple weapons, upgrade them, and develop attributes that will leave you wanting more.</p><p><a href="https://store.steampowered.com/app/4022960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Theden Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4043510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3792880/84369f71d14de025a39724782a0bcb06213c1bb0/header.jpg?t=1758388177" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3792880/84369f71d14de025a39724782a0bcb06213c1bb0/header.jpg?t=1758388177" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3792880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3792880/84369f71d14de025a39724782a0bcb06213c1bb0/header.jpg?t=1758388177" alt="Star Tower（新規追加）" /></a></p><p>The most important thing in the dark is what you can see and what remains unseen. Explore dark forest and chase the tower of stars.</p><p><a href="https://store.steampowered.com/app/3792880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Starforce Rangers Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4015720/</link>
-  <guid isPermaLink="false">steam-store-published-4015720</guid>
-  <pubDate>Sat, 20 Sep 2025 17:27:34 +0000</pubDate>
-  <description>type=game, appid=4015720</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015720/223c24ace9afdfc5225589441d469173aeddbcf5/header.jpg?t=1758387943" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015720/223c24ace9afdfc5225589441d469173aeddbcf5/header.jpg?t=1758387943" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015720/223c24ace9afdfc5225589441d469173aeddbcf5/header.jpg?t=1758387943" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4015720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015720/223c24ace9afdfc5225589441d469173aeddbcf5/header.jpg?t=1758387943" alt="Starforce Rangers Playtest（新規追加）" /></a></p><p>type=game, appid=4015720</p><p><a href="https://store.steampowered.com/app/4015720/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
