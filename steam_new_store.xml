@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Sep 2025 02:47:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Sep 2025 03:37:01 +0000</lastBuildDate>
+<item>
+  <title>V.I.P Client（新規追加）</title>
+  <link>https://store.steampowered.com/app/4023940/</link>
+  <guid isPermaLink="false">steam-store-published-4023940</guid>
+  <pubDate>Mon, 22 Sep 2025 03:37:01 +0000</pubDate>
+  <description>V.I.P Client is a single player horror game. You are trapped inside of a casino, your only way out is to play the twisted games of chance where the stake is your life. Luck and skill will be required in order to survive</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023940/0e579ebf2b9d396783d04af048c7779a9d7211a6/header.jpg?t=1758509491" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023940/0e579ebf2b9d396783d04af048c7779a9d7211a6/header.jpg?t=1758509491" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023940/0e579ebf2b9d396783d04af048c7779a9d7211a6/header.jpg?t=1758509491" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4023940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023940/0e579ebf2b9d396783d04af048c7779a9d7211a6/header.jpg?t=1758509491" alt="V.I.P Client（新規追加）" /></a></p><p>V.I.P Client is a single player horror game. You are trapped inside of a casino, your only way out is to play the twisted games of chance where the stake is your life. Luck and skill will be required in order to survive</p><p><a href="https://store.steampowered.com/app/4023940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Jinagan（新規追加）</title>
   <link>https://store.steampowered.com/app/4015110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032200/d5fb70533ff0acfd9644a13c00b70a3d786c568c/header.jpg?t=1758298478" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032200/d5fb70533ff0acfd9644a13c00b70a3d786c568c/header.jpg?t=1758298478" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4032200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032200/d5fb70533ff0acfd9644a13c00b70a3d786c568c/header.jpg?t=1758298478" alt="Feeding My Ducks（新規追加）" /></a></p><p>Feeding My Ducks is a cozy idle-management game where you raise, train, and evolve a flock of lovable ducks. Feed them, progress their stats, and watch them transform into surprising new forms—all while the game runs peacefully in the background as your productivity companion.</p><p><a href="https://store.steampowered.com/app/4032200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Caribbean Legend - Supporter Pack（新規追加）</title>
-  <link>https://store.steampowered.com/app/2749310/</link>
-  <guid isPermaLink="false">steam-store-published-2749310</guid>
-  <pubDate>Fri, 19 Sep 2025 16:19:02 +0000</pubDate>
-  <description>For almost a year and a half, the “Support Pack” remained exclusive to the owners of the most expensive pre-orders, contest winners, and our friends — nearly two hundred people without whom our beloved game would never have been released.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2749310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749310/ccbc2ac2522541bf47282efb8bffa3f526e904ca/header.jpg?t=1758296054" alt="Caribbean Legend - Supporter Pack（新規追加）" /></a></p><p>For almost a year and a half, the “Support Pack” remained exclusive to the owners of the most expensive pre-orders, contest winners, and our friends — nearly two hundred people without whom our beloved game would never have been released.</p><p><a href="https://store.steampowered.com/app/2749310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
