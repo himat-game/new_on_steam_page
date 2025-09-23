@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Sep 2025 17:44:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 18:23:20 +0000</lastBuildDate>
+<item>
+  <title>Maid Cafe Simulator（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3232690/</link>
+  <guid isPermaLink="false">steam-store-update-3232690-1758652166</guid>
+  <pubDate>Tue, 23 Sep 2025 18:23:20 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/6f3cee69a6d1f37492700a18c5bc04982ecb7686/capsule_184x69.jpg?t=1758536668; ジャンル:  → Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/d2a1cf2c63cc5d409dc1aff8ec6a27867dfa0dec/header.jpg?t=1758536668; 無料フラグ:  → False; タイトル:  → Maid Cafe Simulator; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → You&#x27;ve just taken over a small, rundown &amp;quot;maid cafe&amp;quot;! Revive the struggling cafe and e…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/d2a1cf2c63cc5d409dc1aff8ec6a27867dfa0dec/header.jpg?t=1758536668" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/d2a1cf2c63cc5d409dc1aff8ec6a27867dfa0dec/header.jpg?t=1758536668" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/d2a1cf2c63cc5d409dc1aff8ec6a27867dfa0dec/header.jpg?t=1758536668" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3232690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/d2a1cf2c63cc5d409dc1aff8ec6a27867dfa0dec/header.jpg?t=1758536668" alt="Maid Cafe Simulator（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/6f3cee69a6d1f37492700a18c5bc04982ecb7686/capsule_184x69.jpg?t=1758536668; ジャンル:  → Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232690/d2a1cf2c63cc5d409dc1aff8ec6a27867dfa0dec/header.jpg?t=1758536668; 無料フラグ:  → False; タイトル:  → Maid Cafe Simulator; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → You&#x27;ve just taken over a small, rundown &amp;quot;maid cafe&amp;quot;! Revive the struggling cafe and e…</p><p><a href="https://store.steampowered.com/app/3232690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sphere 3 - Scarlet Whirlwind（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3225170/</link>
