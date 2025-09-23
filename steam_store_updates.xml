@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Sep 2025 03:19:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 05:15:37 +0000</lastBuildDate>
+<item>
+  <title>Ricochet Abyss（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3084370/</link>
+  <guid isPermaLink="false">steam-store-update-3084370-1758604880</guid>
+  <pubDate>Tue, 23 Sep 2025 05:15:37 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/89aa5eab215286c444babf5453a964ef5850b083/capsule_184x69.jpg?t=1758017179; ジャンル:  → Adventure, Casual, Indie, RPG, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/9155138aef0c48f2ac235cac19cdf689ac29abda/header.jpg?t=1758017179; 無料フラグ:  → False; タイトル:  → Ricochet Abyss; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Dive into Ricochet Abyss, a unique blend of tactical backpack managemen…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/9155138aef0c48f2ac235cac19cdf689ac29abda/header.jpg?t=1758017179" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/9155138aef0c48f2ac235cac19cdf689ac29abda/header.jpg?t=1758017179" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/9155138aef0c48f2ac235cac19cdf689ac29abda/header.jpg?t=1758017179" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3084370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/9155138aef0c48f2ac235cac19cdf689ac29abda/header.jpg?t=1758017179" alt="Ricochet Abyss（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/89aa5eab215286c444babf5453a964ef5850b083/capsule_184x69.jpg?t=1758017179; ジャンル:  → Adventure, Casual, Indie, RPG, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084370/9155138aef0c48f2ac235cac19cdf689ac29abda/header.jpg?t=1758017179; 無料フラグ:  → False; タイトル:  → Ricochet Abyss; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Dive into Ricochet Abyss, a unique blend of tactical backpack managemen…</p><p><a href="https://store.steampowered.com/app/3084370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Variety Pack 9XS（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3059910/</link>

@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Sep 2025 04:49:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 05:15:37 +0000</lastBuildDate>
+<item>
+  <title>Feria Fiera（新規追加）</title>
+  <link>https://store.steampowered.com/app/3838680/</link>
+  <guid isPermaLink="false">steam-store-published-3838680</guid>
+  <pubDate>Tue, 23 Sep 2025 05:15:37 +0000</pubDate>
+  <description>Feria Fiera is a side-scrolling beat &#x27;em up with an emphasis on dynamic combat, exploration, and cultural aesthetics.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838680/590f96fa8d34d76eaacc072f7dbaed4d7bc52a98/header.jpg?t=1758602505" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838680/590f96fa8d34d76eaacc072f7dbaed4d7bc52a98/header.jpg?t=1758602505" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838680/590f96fa8d34d76eaacc072f7dbaed4d7bc52a98/header.jpg?t=1758602505" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3838680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838680/590f96fa8d34d76eaacc072f7dbaed4d7bc52a98/header.jpg?t=1758602505" alt="Feria Fiera（新規追加）" /></a></p><p>Feria Fiera is a side-scrolling beat &#x27;em up with an emphasis on dynamic combat, exploration, and cultural aesthetics.</p><p><a href="https://store.steampowered.com/app/3838680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Strato Freaks DX Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3998500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998970/1feb966e16894f5d1266850780812c21a42f1b8b/header.jpg?t=1758449572" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998970/1feb966e16894f5d1266850780812c21a42f1b8b/header.jpg?t=1758449572" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3998970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998970/1feb966e16894f5d1266850780812c21a42f1b8b/header.jpg?t=1758449572" alt="Waifu Rancher 2 - Mari（新規追加）" /></a></p><p>Mari Bradbury is a confident and easygoing Waifu from Shinjuku, who joins the Waifu Rancher 2 cast as the first DLC character. With an irresistible accent and gorgeous blue hair, you certainly won&#x27;t regret enjoying an evening with Mari.</p><p><a href="https://store.steampowered.com/app/3998970/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Waifu Rancher 2 - Chie（新規追加）</title>
-  <link>https://store.steampowered.com/app/3993300/</link>
-  <guid isPermaLink="false">steam-store-published-3993300</guid>
-  <pubDate>Sun, 21 Sep 2025 10:44:57 +0000</pubDate>
-  <description>Chie Tesla is an energetic and possessive yandere Waifu. With her distinctive looks and unique personality, there won&#x27;t be any escape from this unforgettable Waifu.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3993300/fe55d34f09156dd460da973e42600edee7b20d5b/header.jpg?t=1758449384" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3993300/fe55d34f09156dd460da973e42600edee7b20d5b/header.jpg?t=1758449384" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3993300/fe55d34f09156dd460da973e42600edee7b20d5b/header.jpg?t=1758449384" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3993300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3993300/fe55d34f09156dd460da973e42600edee7b20d5b/header.jpg?t=1758449384" alt="Waifu Rancher 2 - Chie（新規追加）" /></a></p><p>Chie Tesla is an energetic and possessive yandere Waifu. With her distinctive looks and unique personality, there won&#x27;t be any escape from this unforgettable Waifu.</p><p><a href="https://store.steampowered.com/app/3993300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
