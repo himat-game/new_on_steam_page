@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Sep 2025 05:15:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 05:45:33 +0000</lastBuildDate>
+<item>
+  <title>Ehandcipation Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4038270/</link>
+  <guid isPermaLink="false">steam-store-published-4038270</guid>
+  <pubDate>Tue, 23 Sep 2025 05:45:33 +0000</pubDate>
+  <description>type=demo, appid=4038270</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038270/a5957a40d17ef5e267b2564a323387065a259531/header.jpg?t=1758602981" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038270/a5957a40d17ef5e267b2564a323387065a259531/header.jpg?t=1758602981" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038270/a5957a40d17ef5e267b2564a323387065a259531/header.jpg?t=1758602981" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4038270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038270/a5957a40d17ef5e267b2564a323387065a259531/header.jpg?t=1758602981" alt="Ehandcipation Demo（新規追加）" /></a></p><p>type=demo, appid=4038270</p><p><a href="https://store.steampowered.com/app/4038270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Feria Fiera（新規追加）</title>
   <link>https://store.steampowered.com/app/3838680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997030/b416a868d56e93d9a24311dbdbf8c734147bdd55/header.jpg?t=1758454273" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997030/b416a868d56e93d9a24311dbdbf8c734147bdd55/header.jpg?t=1758454273" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3997030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997030/b416a868d56e93d9a24311dbdbf8c734147bdd55/header.jpg?t=1758454273" alt="Abyss Dungeon（新規追加）" /></a></p><p>&amp;lt;Hack and Slash, Mystery Dungeon&amp;gt; The dungeon is randomly generated and changes shape every time you enter. You may encounter monsters in the dungeon. Battles with monsters are turn-based, and monsters don&#x27;t move until you move. Pick up treasure chests scattered throughout the dungeon.</p><p><a href="https://store.steampowered.com/app/3997030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Waifu Rancher 2 - Mari（新規追加）</title>
-  <link>https://store.steampowered.com/app/3998970/</link>
-  <guid isPermaLink="false">steam-store-published-3998970</guid>
-  <pubDate>Sun, 21 Sep 2025 10:44:57 +0000</pubDate>
-  <description>Mari Bradbury is a confident and easygoing Waifu from Shinjuku, who joins the Waifu Rancher 2 cast as the first DLC character. With an irresistible accent and gorgeous blue hair, you certainly won&#x27;t regret enjoying an evening with Mari.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998970/1feb966e16894f5d1266850780812c21a42f1b8b/header.jpg?t=1758449572" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998970/1feb966e16894f5d1266850780812c21a42f1b8b/header.jpg?t=1758449572" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998970/1feb966e16894f5d1266850780812c21a42f1b8b/header.jpg?t=1758449572" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3998970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998970/1feb966e16894f5d1266850780812c21a42f1b8b/header.jpg?t=1758449572" alt="Waifu Rancher 2 - Mari（新規追加）" /></a></p><p>Mari Bradbury is a confident and easygoing Waifu from Shinjuku, who joins the Waifu Rancher 2 cast as the first DLC character. With an irresistible accent and gorgeous blue hair, you certainly won&#x27;t regret enjoying an evening with Mari.</p><p><a href="https://store.steampowered.com/app/3998970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
