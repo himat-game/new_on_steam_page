@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Sep 2025 03:19:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 03:43:34 +0000</lastBuildDate>
+<item>
+  <title>ThinkAndChoice Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4045000/</link>
+  <guid isPermaLink="false">steam-store-published-4045000</guid>
+  <pubDate>Tue, 23 Sep 2025 03:43:34 +0000</pubDate>
+  <description>You will assemble your team, devise strategies, and embrace challenges!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045000/26921a4979cc28a24aff8b5b701dc28ce985cb03/header.jpg?t=1758596153" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045000/26921a4979cc28a24aff8b5b701dc28ce985cb03/header.jpg?t=1758596153" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045000/26921a4979cc28a24aff8b5b701dc28ce985cb03/header.jpg?t=1758596153" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4045000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045000/26921a4979cc28a24aff8b5b701dc28ce985cb03/header.jpg?t=1758596153" alt="ThinkAndChoice Demo（新規追加）" /></a></p><p>You will assemble your team, devise strategies, and embrace challenges!</p><p><a href="https://store.steampowered.com/app/4045000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Underwater Duo（新規追加）</title>
   <link>https://store.steampowered.com/app/3736310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957620/aedb0202364204eefa363b6b6253823da7dfd522/header.jpg?t=1758441721" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957620/aedb0202364204eefa363b6b6253823da7dfd522/header.jpg?t=1758441721" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3957620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957620/aedb0202364204eefa363b6b6253823da7dfd522/header.jpg?t=1758441721" alt="Eternal Guardian: Forbidden Portals（新規追加）" /></a></p><p>Eternal Guardian: Forbidden Portals is a dark survival RPG where you explore, fight in brutal first- or third-person combat, and endure hunger, thirst, and weather in a devastated world overrun by creatures from forbidden portals.</p><p><a href="https://store.steampowered.com/app/3957620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Obelus Manor（新規追加）</title>
-  <link>https://store.steampowered.com/app/3980510/</link>
-  <guid isPermaLink="false">steam-store-published-3980510</guid>
-  <pubDate>Sun, 21 Sep 2025 08:45:53 +0000</pubDate>
-  <description>Lose your mind in an ever-changing labyrinth full of spirits and paranormal forces. Uncover the secrets of an abandoned manor in this hand-drawn first person dungeon crawler.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980510/b852d83b24d3712394ede8ddea2294853447ed0d/header.jpg?t=1758441563" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980510/b852d83b24d3712394ede8ddea2294853447ed0d/header.jpg?t=1758441563" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980510/b852d83b24d3712394ede8ddea2294853447ed0d/header.jpg?t=1758441563" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3980510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3980510/b852d83b24d3712394ede8ddea2294853447ed0d/header.jpg?t=1758441563" alt="Obelus Manor（新規追加）" /></a></p><p>Lose your mind in an ever-changing labyrinth full of spirits and paranormal forces. Uncover the secrets of an abandoned manor in this hand-drawn first person dungeon crawler.</p><p><a href="https://store.steampowered.com/app/3980510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
