@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Sep 2025 13:41:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 14:16:30 +0000</lastBuildDate>
+<item>
+  <title>Multiplicity 4（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3195040/</link>
+  <guid isPermaLink="false">steam-store-update-3195040-1758637680</guid>
+  <pubDate>Tue, 23 Sep 2025 14:16:30 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/eb9cf078683770187b7082a97fe03613ee512f51/capsule_184x69.jpg?t=1758034199; ジャンル:  → Accounting, Animation &amp; Modeling, Audio Production, Design &amp; Illustration, Education, Game Development, Photo Editing, Software Training, Utilities, Video Production, Web Publishing; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/5a65769ec8a3d2492421ea5d463eef8d7de72c7d/header.jpg?t=1758034199; 無料フラグ:  → False; タイトル:  → Multiplicity 4; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: tr…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/5a65769ec8a3d2492421ea5d463eef8d7de72c7d/header.jpg?t=1758034199" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/5a65769ec8a3d2492421ea5d463eef8d7de72c7d/header.jpg?t=1758034199" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/5a65769ec8a3d2492421ea5d463eef8d7de72c7d/header.jpg?t=1758034199" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3195040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/5a65769ec8a3d2492421ea5d463eef8d7de72c7d/header.jpg?t=1758034199" alt="Multiplicity 4（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/eb9cf078683770187b7082a97fe03613ee512f51/capsule_184x69.jpg?t=1758034199; ジャンル:  → Accounting, Animation &amp; Modeling, Audio Production, Design &amp; Illustration, Education, Game Development, Photo Editing, Software Training, Utilities, Video Production, Web Publishing; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195040/5a65769ec8a3d2492421ea5d463eef8d7de72c7d/header.jpg?t=1758034199; 無料フラグ:  → False; タイトル:  → Multiplicity 4; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: tr…</p><p><a href="https://store.steampowered.com/app/3195040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Deckception Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3184900/</link>
