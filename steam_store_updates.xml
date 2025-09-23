@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Sep 2025 20:16:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 20:45:40 +0000</lastBuildDate>
+<item>
+  <title>Astral Enterprises（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3264630/</link>
+  <guid isPermaLink="false">steam-store-update-3264630-1758661032</guid>
+  <pubDate>Tue, 23 Sep 2025 20:45:40 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/26e43ad150e72700a8d748cb67c873b6255f5e6c/capsule_184x69.jpg?t=1758151400; ジャンル:  → Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/ccfd8d7215b5c1c66782b23c4d423ba2c1098425/header.jpg?t=1758151400; 無料フラグ:  → False; タイトル:  → Astral Enterprises; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Design, build, and optimize intricate, space-efficient factories in a unique grid-based pu…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/ccfd8d7215b5c1c66782b23c4d423ba2c1098425/header.jpg?t=1758151400" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/ccfd8d7215b5c1c66782b23c4d423ba2c1098425/header.jpg?t=1758151400" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/ccfd8d7215b5c1c66782b23c4d423ba2c1098425/header.jpg?t=1758151400" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3264630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/ccfd8d7215b5c1c66782b23c4d423ba2c1098425/header.jpg?t=1758151400" alt="Astral Enterprises（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/26e43ad150e72700a8d748cb67c873b6255f5e6c/capsule_184x69.jpg?t=1758151400; ジャンル:  → Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264630/ccfd8d7215b5c1c66782b23c4d423ba2c1098425/header.jpg?t=1758151400; 無料フラグ:  → False; タイトル:  → Astral Enterprises; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Design, build, and optimize intricate, space-efficient factories in a unique grid-based pu…</p><p><a href="https://store.steampowered.com/app/3264630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kemopop! Boys in Hawaii!（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3257130/</link>
