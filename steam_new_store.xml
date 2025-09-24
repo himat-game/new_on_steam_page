@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 05:15:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 05:45:11 +0000</lastBuildDate>
+<item>
+  <title>Blast Bebop Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4043290/</link>
+  <guid isPermaLink="false">steam-store-published-4043290</guid>
+  <pubDate>Wed, 24 Sep 2025 05:45:11 +0000</pubDate>
+  <description>type=game, appid=4043290</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043290/17c17b785282fb9eb9bc7ffda4f32a58dc74b6f1/header.jpg?t=1758690849" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043290/17c17b785282fb9eb9bc7ffda4f32a58dc74b6f1/header.jpg?t=1758690849" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043290/17c17b785282fb9eb9bc7ffda4f32a58dc74b6f1/header.jpg?t=1758690849" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4043290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043290/17c17b785282fb9eb9bc7ffda4f32a58dc74b6f1/header.jpg?t=1758690849" alt="Blast Bebop Playtest（新規追加）" /></a></p><p>type=game, appid=4043290</p><p><a href="https://store.steampowered.com/app/4043290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sad Virus Shitcoin（新規追加）</title>
   <link>https://store.steampowered.com/app/4047900/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045000/26921a4979cc28a24aff8b5b701dc28ce985cb03/header.jpg?t=1758596153" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045000/26921a4979cc28a24aff8b5b701dc28ce985cb03/header.jpg?t=1758596153" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4045000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045000/26921a4979cc28a24aff8b5b701dc28ce985cb03/header.jpg?t=1758596153" alt="ThinkAndChoice Demo（新規追加）" /></a></p><p>You will assemble your team, devise strategies, and embrace challenges!</p><p><a href="https://store.steampowered.com/app/4045000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Underwater Duo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3736310/</link>
-  <guid isPermaLink="false">steam-store-published-3736310</guid>
-  <pubDate>Tue, 23 Sep 2025 03:19:52 +0000</pubDate>
-  <description>Underwater Duo is a co-op survival game for one or two players. Play as a turtle or a jellyfish, use unique abilities, and fend off waves of sea creatures. Unlock powerful upgrades and choose whether to fight together or on your own beneath the waves.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736310/2ed2bd1750e250f2c1faee2a20cf23e63b177d9d/header.jpg?t=1758594738" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736310/2ed2bd1750e250f2c1faee2a20cf23e63b177d9d/header.jpg?t=1758594738" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736310/2ed2bd1750e250f2c1faee2a20cf23e63b177d9d/header.jpg?t=1758594738" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3736310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736310/2ed2bd1750e250f2c1faee2a20cf23e63b177d9d/header.jpg?t=1758594738" alt="Underwater Duo（新規追加）" /></a></p><p>Underwater Duo is a co-op survival game for one or two players. Play as a turtle or a jellyfish, use unique abilities, and fend off waves of sea creatures. Unlock powerful upgrades and choose whether to fight together or on your own beneath the waves.</p><p><a href="https://store.steampowered.com/app/3736310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
