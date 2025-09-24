@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 03:51:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 04:18:24 +0000</lastBuildDate>
+<item>
+  <title>Nystagmus Soundtrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/1430470/</link>
+  <guid isPermaLink="false">steam-store-published-1430470</guid>
+  <pubDate>Wed, 24 Sep 2025 04:18:24 +0000</pubDate>
+  <description>Original music from Nystagmus. Composed by Sam Feng and Junie Choi.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430470/a48f57490fc1dc76cec8d00f7d93bbab6d179e30/header.jpg?t=1758684733" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430470/a48f57490fc1dc76cec8d00f7d93bbab6d179e30/header.jpg?t=1758684733" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430470/a48f57490fc1dc76cec8d00f7d93bbab6d179e30/header.jpg?t=1758684733" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1430470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430470/a48f57490fc1dc76cec8d00f7d93bbab6d179e30/header.jpg?t=1758684733" alt="Nystagmus Soundtrack（新規追加）" /></a></p><p>Original music from Nystagmus. Composed by Sam Feng and Junie Choi.</p><p><a href="https://store.steampowered.com/app/1430470/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bliss Valley: After Dark（新規追加）</title>
   <link>https://store.steampowered.com/app/3748760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021230/91b0c33db98ab0c41b95ebb246824f1756ed1880/header.jpg?t=1758590008" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021230/91b0c33db98ab0c41b95ebb246824f1756ed1880/header.jpg?t=1758590008" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4021230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021230/91b0c33db98ab0c41b95ebb246824f1756ed1880/header.jpg?t=1758590008" alt="Pawffice（新規追加）" /></a></p><p>Pawffice is a story-driven, strategy roguelike game. Coon, an average college grad. He has to use his unique ability, &amp;quot;Rock-Paper-Scissors&amp;quot; to defeat all sorts of strange enemies. After countless do-overs , can he save himself and his friends, and uncover all the secrets behind Pawffice?</p><p><a href="https://store.steampowered.com/app/4021230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Faith of Sin (Free)（新規追加）</title>
-  <link>https://store.steampowered.com/app/3982050/</link>
-  <guid isPermaLink="false">steam-store-published-3982050</guid>
-  <pubDate>Tue, 23 Sep 2025 02:37:09 +0000</pubDate>
-  <description>One night, you wake up and realize you&#x27;re no longer in the real world. As you explore your home, you&#x27;ll uncover clues and piece together hazy fragments of your past. And when you finally remember everything you&#x27;ve done — you&#x27;ll understand what the &#x27;faith of sin&#x27; truly means.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982050/5d284e1df66a1fe857b6bb563b34f5a5d955c1b5/header.jpg?t=1758587240" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982050/5d284e1df66a1fe857b6bb563b34f5a5d955c1b5/header.jpg?t=1758587240" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982050/5d284e1df66a1fe857b6bb563b34f5a5d955c1b5/header.jpg?t=1758587240" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3982050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3982050/5d284e1df66a1fe857b6bb563b34f5a5d955c1b5/header.jpg?t=1758587240" alt="The Faith of Sin (Free)（新規追加）" /></a></p><p>One night, you wake up and realize you&#x27;re no longer in the real world. As you explore your home, you&#x27;ll uncover clues and piece together hazy fragments of your past. And when you finally remember everything you&#x27;ve done — you&#x27;ll understand what the &#x27;faith of sin&#x27; truly means.</p><p><a href="https://store.steampowered.com/app/3982050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
