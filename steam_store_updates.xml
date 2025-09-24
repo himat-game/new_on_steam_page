@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 08:21:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 09:17:29 +0000</lastBuildDate>
+<item>
+  <title>Gold Miner: Return to Glory（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3382610/</link>
+  <guid isPermaLink="false">steam-store-update-3382610-1758705828</guid>
+  <pubDate>Wed, 24 Sep 2025 09:17:29 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/2ba92ecb7af0b3a527f6e638e915691a8a694d5b/capsule_184x69.jpg?t=1758204545; ジャンル:  → Casual, Indie, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/e0500f5864156f16a3d369708fb2f34ff4e9e91a/header.jpg?t=1758204545; 無料フラグ:  → False; タイトル:  → Gold Miner: Return to Glory; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Gold Miner: Return to Glory brings back the classic digging fun wi…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/e0500f5864156f16a3d369708fb2f34ff4e9e91a/header.jpg?t=1758204545" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/e0500f5864156f16a3d369708fb2f34ff4e9e91a/header.jpg?t=1758204545" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/e0500f5864156f16a3d369708fb2f34ff4e9e91a/header.jpg?t=1758204545" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3382610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/e0500f5864156f16a3d369708fb2f34ff4e9e91a/header.jpg?t=1758204545" alt="Gold Miner: Return to Glory（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/2ba92ecb7af0b3a527f6e638e915691a8a694d5b/capsule_184x69.jpg?t=1758204545; ジャンル:  → Casual, Indie, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382610/e0500f5864156f16a3d369708fb2f34ff4e9e91a/header.jpg?t=1758204545; 無料フラグ:  → False; タイトル:  → Gold Miner: Return to Glory; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Gold Miner: Return to Glory brings back the classic digging fun wi…</p><p><a href="https://store.steampowered.com/app/3382610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>THE SECRET STORY（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3367740/</link>
