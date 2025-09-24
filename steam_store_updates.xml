@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 20:45:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 21:13:55 +0000</lastBuildDate>
+<item>
+  <title>Timber Fever（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3536160/</link>
+  <guid isPermaLink="false">steam-store-update-3536160-1758749066</guid>
+  <pubDate>Wed, 24 Sep 2025 21:13:55 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/8a050f3b2a05cc2de2edd3a5be55bb9d0274c3f3/capsule_184x69.jpg?t=1757767187; ジャンル:  → Action, Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187; 無料フラグ:  → False; タイトル:  → Timber Fever; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Cut down an infinitely tall Tree and defeat its Protectors. Timber Fever is an action, incremen…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3536160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187" alt="Timber Fever（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/8a050f3b2a05cc2de2edd3a5be55bb9d0274c3f3/capsule_184x69.jpg?t=1757767187; ジャンル:  → Action, Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536160/429e5e0e51a2b4586817b7996b132c73b917e3a3/header.jpg?t=1757767187; 無料フラグ:  → False; タイトル:  → Timber Fever; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Cut down an infinitely tall Tree and defeat its Protectors. Timber Fever is an action, incremen…</p><p><a href="https://store.steampowered.com/app/3536160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aquilon Lust - Digital artbook 📖（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3525920/</link>
