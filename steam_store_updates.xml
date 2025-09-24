@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 11:13:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 11:27:50 +0000</lastBuildDate>
+<item>
+  <title>Omicrocity 2（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3411920/</link>
+  <guid isPermaLink="false">steam-store-update-3411920-1758713585</guid>
+  <pubDate>Wed, 24 Sep 2025 11:27:50 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/073655ae93b74cc4bfc946d2285f4f022b666710/capsule_184x69.jpg?t=1758115225; ジャンル:  → Indie, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/24923ccc92df5bff312adedef65e1f582f356f32/header.jpg?t=1758115225; 無料フラグ:  → False; タイトル:  → Omicrocity 2; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;1 Oct, 2025&quot;}; 説明:  → A relaxing, cartoonish city builder where success is not just a gray, industrial megalopo…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/24923ccc92df5bff312adedef65e1f582f356f32/header.jpg?t=1758115225" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/24923ccc92df5bff312adedef65e1f582f356f32/header.jpg?t=1758115225" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/24923ccc92df5bff312adedef65e1f582f356f32/header.jpg?t=1758115225" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3411920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/24923ccc92df5bff312adedef65e1f582f356f32/header.jpg?t=1758115225" alt="Omicrocity 2（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/073655ae93b74cc4bfc946d2285f4f022b666710/capsule_184x69.jpg?t=1758115225; ジャンル:  → Indie, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411920/24923ccc92df5bff312adedef65e1f582f356f32/header.jpg?t=1758115225; 無料フラグ:  → False; タイトル:  → Omicrocity 2; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;1 Oct, 2025&quot;}; 説明:  → A relaxing, cartoonish city builder where success is not just a gray, industrial megalopo…</p><p><a href="https://store.steampowered.com/app/3411920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Someone&#x27;s Inside Me（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3404880/</link>
