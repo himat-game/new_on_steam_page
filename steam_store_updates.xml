@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 10:48:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 11:13:21 +0000</lastBuildDate>
+<item>
+  <title>Someone&#x27;s Inside Me（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3404880/</link>
+  <guid isPermaLink="false">steam-store-update-3404880-1758712473</guid>
+  <pubDate>Wed, 24 Sep 2025 11:13:21 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/b3614c4f9dd0fc27e66857f0e995126e72b019fe/capsule_184x69.jpg?t=1758293943; ジャンル:  → Action, Adventure, Casual, Indie, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/5e0b0d8d6386371e97bc1c95cc14418d647a15be/header.jpg?t=1758293943; 無料フラグ:  → False; タイトル:  → Someone&#x27;s Inside Me; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → Your teacher Ms. Morbid has trapped you and your classmates on a deadly mu…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/5e0b0d8d6386371e97bc1c95cc14418d647a15be/header.jpg?t=1758293943" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/5e0b0d8d6386371e97bc1c95cc14418d647a15be/header.jpg?t=1758293943" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/5e0b0d8d6386371e97bc1c95cc14418d647a15be/header.jpg?t=1758293943" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3404880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/5e0b0d8d6386371e97bc1c95cc14418d647a15be/header.jpg?t=1758293943" alt="Someone&#x27;s Inside Me（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/b3614c4f9dd0fc27e66857f0e995126e72b019fe/capsule_184x69.jpg?t=1758293943; ジャンル:  → Action, Adventure, Casual, Indie, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404880/5e0b0d8d6386371e97bc1c95cc14418d647a15be/header.jpg?t=1758293943; 無料フラグ:  → False; タイトル:  → Someone&#x27;s Inside Me; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → Your teacher Ms. Morbid has trapped you and your classmates on a deadly mu…</p><p><a href="https://store.steampowered.com/app/3404880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>WWE 2K25 Attitude Era Superstars Pack（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3401680/</link>
