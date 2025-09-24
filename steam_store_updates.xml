@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 02:38:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 03:21:11 +0000</lastBuildDate>
+<item>
+  <title>House Builder 2 Playtest（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3302040/</link>
+  <guid isPermaLink="false">steam-store-update-3302040-1758684151</guid>
+  <pubDate>Wed, 24 Sep 2025 03:21:11 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/bc1131bbd935bb2c4499b81d6e331ec8f13a78a9/capsule_184x69.jpg?t=1757940478; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/header.jpg?t=1757940478; 無料フラグ:  → False; タイトル:  → House Builder 2 Playtest; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;15 Sep, 2025&quot;}; 説明:  → ; タイプ:  → game</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/header.jpg?t=1757940478" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/header.jpg?t=1757940478" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/header.jpg?t=1757940478" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3302040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/header.jpg?t=1757940478" alt="House Builder 2 Playtest（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/bc1131bbd935bb2c4499b81d6e331ec8f13a78a9/capsule_184x69.jpg?t=1757940478; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3302040/header.jpg?t=1757940478; 無料フラグ:  → False; タイトル:  → House Builder 2 Playtest; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;15 Sep, 2025&quot;}; 説明:  → ; タイプ:  → game</p><p><a href="https://store.steampowered.com/app/3302040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>External（言語 +japanese,portuguese - brazil,russian / 説明更新 / ヘッダー画像更新）</title>
   <link>https://store.steampowered.com/app/3299010/</link>
