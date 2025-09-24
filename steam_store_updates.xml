@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 12:32:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 13:07:34 +0000</lastBuildDate>
+<item>
+  <title>Terrafactor Demo（言語 +english / 説明更新 / ヘッダー画像更新）</title>
+  <link>https://store.steampowered.com/app/3434100/</link>
+  <guid isPermaLink="false">steam-store-update-3434100-1758719911</guid>
+  <pubDate>Wed, 24 Sep 2025 13:07:34 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/18c49684eb3ecd7630bc334ebc21a2a573baa992/capsule_184x69.jpg?t=1757935281; ジャンル:  → Action, Adventure, Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/aa2502c7223555ad2475946fca6f98d76c1607b6/header.jpg?t=1757935281; 無料フラグ:  → True; タイトル:  → Terrafactor Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;15 Sep, 2025&quot;}; 説明:  → Harvest resources, craft, build, and automate your way through a tech tree as you …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/aa2502c7223555ad2475946fca6f98d76c1607b6/header.jpg?t=1757935281" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/aa2502c7223555ad2475946fca6f98d76c1607b6/header.jpg?t=1757935281" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/aa2502c7223555ad2475946fca6f98d76c1607b6/header.jpg?t=1757935281" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3434100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/aa2502c7223555ad2475946fca6f98d76c1607b6/header.jpg?t=1757935281" alt="Terrafactor Demo（言語 +english / 説明更新 / ヘッダー画像更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/18c49684eb3ecd7630bc334ebc21a2a573baa992/capsule_184x69.jpg?t=1757935281; ジャンル:  → Action, Adventure, Simulation; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434100/aa2502c7223555ad2475946fca6f98d76c1607b6/header.jpg?t=1757935281; 無料フラグ:  → True; タイトル:  → Terrafactor Demo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;15 Sep, 2025&quot;}; 説明:  → Harvest resources, craft, build, and automate your way through a tech tree as you …</p><p><a href="https://store.steampowered.com/app/3434100/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Forgotten Eras（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3423760/</link>
