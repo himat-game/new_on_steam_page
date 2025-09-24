@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 06:24:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 06:52:15 +0000</lastBuildDate>
+<item>
+  <title>Layerformer（新規追加）</title>
+  <link>https://store.steampowered.com/app/4025900/</link>
+  <guid isPermaLink="false">steam-store-published-4025900</guid>
+  <pubDate>Wed, 24 Sep 2025 06:52:15 +0000</pubDate>
+  <description>A 2D platformer game where you can swap between the background and foreground layers to solve puzzle elements.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025900/32722703c20a01b2cd58c3e576de815d6f4c5e75/header.jpg?t=1758693655" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025900/32722703c20a01b2cd58c3e576de815d6f4c5e75/header.jpg?t=1758693655" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025900/32722703c20a01b2cd58c3e576de815d6f4c5e75/header.jpg?t=1758693655" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4025900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025900/32722703c20a01b2cd58c3e576de815d6f4c5e75/header.jpg?t=1758693655" alt="Layerformer（新規追加）" /></a></p><p>A 2D platformer game where you can swap between the background and foreground layers to solve puzzle elements.</p><p><a href="https://store.steampowered.com/app/4025900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>单词征服者：决战词汇大魔王（新規追加）</title>
   <link>https://store.steampowered.com/app/4030810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932150/966da78d3356eb52da6f37637addfc3e9e6b294c/header.jpg?t=1758597153" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932150/966da78d3356eb52da6f37637addfc3e9e6b294c/header.jpg?t=1758597153" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3932150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932150/966da78d3356eb52da6f37637addfc3e9e6b294c/header.jpg?t=1758597153" alt="The Warrens Demo（新規追加）" /></a></p><p>type=demo, appid=3932150</p><p><a href="https://store.steampowered.com/app/3932150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Project Red Sun Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4032310/</link>
-  <guid isPermaLink="false">steam-store-published-4032310</guid>
-  <pubDate>Tue, 23 Sep 2025 04:18:47 +0000</pubDate>
-  <description>Project Red Sun is a combat flight action game that has you fighting across the world as a heroic ace against corporate armies who will spare no expense in trying to take you down. With specialized jets and weaponry, dogfight aces, airships, and more in a campaign packed with arcade gameplay.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032310/08ba15a25d782061974933aa5a3d0a8bed6cff48/header.jpg?t=1758598238" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032310/08ba15a25d782061974933aa5a3d0a8bed6cff48/header.jpg?t=1758598238" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032310/08ba15a25d782061974933aa5a3d0a8bed6cff48/header.jpg?t=1758598238" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4032310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032310/08ba15a25d782061974933aa5a3d0a8bed6cff48/header.jpg?t=1758598238" alt="Project Red Sun Demo（新規追加）" /></a></p><p>Project Red Sun is a combat flight action game that has you fighting across the world as a heroic ace against corporate armies who will spare no expense in trying to take you down. With specialized jets and weaponry, dogfight aces, airships, and more in a campaign packed with arcade gameplay.</p><p><a href="https://store.steampowered.com/app/4032310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
