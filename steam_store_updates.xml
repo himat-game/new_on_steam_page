@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 15:46:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 16:20:32 +0000</lastBuildDate>
+<item>
+  <title>Strive: A Path Forward（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3463780/</link>
+  <guid isPermaLink="false">steam-store-update-3463780-1758730883</guid>
+  <pubDate>Wed, 24 Sep 2025 16:20:32 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/4f0b5d37cd0496dbe5c80fb8b059f1f87b69e73c/capsule_184x69.jpg?t=1741194486; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/384bbcc890b8a2368f6a4e1a7ae693ea4f965d2d/header.jpg?t=1741194486; 無料フラグ:  → False; タイトル:  → Strive: A Path Forward; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → A story-driven action-adventure game where players battle through a mystical a…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/384bbcc890b8a2368f6a4e1a7ae693ea4f965d2d/header.jpg?t=1741194486" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/384bbcc890b8a2368f6a4e1a7ae693ea4f965d2d/header.jpg?t=1741194486" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/384bbcc890b8a2368f6a4e1a7ae693ea4f965d2d/header.jpg?t=1741194486" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3463780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/384bbcc890b8a2368f6a4e1a7ae693ea4f965d2d/header.jpg?t=1741194486" alt="Strive: A Path Forward（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/4f0b5d37cd0496dbe5c80fb8b059f1f87b69e73c/capsule_184x69.jpg?t=1741194486; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463780/384bbcc890b8a2368f6a4e1a7ae693ea4f965d2d/header.jpg?t=1741194486; 無料フラグ:  → False; タイトル:  → Strive: A Path Forward; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → A story-driven action-adventure game where players battle through a mystical a…</p><p><a href="https://store.steampowered.com/app/3463780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Viper Squad Demo（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3464250/</link>
+  <guid isPermaLink="false">steam-store-update-3464250-1758730897</guid>
+  <pubDate>Wed, 24 Sep 2025 16:20:32 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/267c30c587e536e2bf905df1d1ba184a167b3150/capsule_184x69.jpg?t=1758395851; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/1686f80d32b80aa89bd72ee32655ba7bd847bff2/header.jpg?t=1758395851; 無料フラグ:  → True; タイトル:  → Viper Squad Demo; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → ; タイプ:  → demo</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/1686f80d32b80aa89bd72ee32655ba7bd847bff2/header.jpg?t=1758395851" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/1686f80d32b80aa89bd72ee32655ba7bd847bff2/header.jpg?t=1758395851" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/1686f80d32b80aa89bd72ee32655ba7bd847bff2/header.jpg?t=1758395851" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3464250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/1686f80d32b80aa89bd72ee32655ba7bd847bff2/header.jpg?t=1758395851" alt="Viper Squad Demo（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/267c30c587e536e2bf905df1d1ba184a167b3150/capsule_184x69.jpg?t=1758395851; ジャンル:  → ; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464250/1686f80d32b80aa89bd72ee32655ba7bd847bff2/header.jpg?t=1758395851; 無料フラグ:  → True; タイトル:  → Viper Squad Demo; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → ; タイプ:  → demo</p><p><a href="https://store.steampowered.com/app/3464250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Stringate（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3465010/</link>
+  <guid isPermaLink="false">steam-store-update-3465010-1758730927</guid>
+  <pubDate>Wed, 24 Sep 2025 16:20:32 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/0437828701a3f1bcf78d1c3d28df9b49a44ef517/capsule_184x69.jpg?t=1758124927; ジャンル:  → Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/c8f28238adbdacab601b29764481a88cb37cdd71/header.jpg?t=1758124927; 無料フラグ:  → False; タイトル:  → Stringate; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Stringate is a level-based puzzle game with portals and other complex mechanics.; タイプ:  → game</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/c8f28238adbdacab601b29764481a88cb37cdd71/header.jpg?t=1758124927" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/c8f28238adbdacab601b29764481a88cb37cdd71/header.jpg?t=1758124927" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/c8f28238adbdacab601b29764481a88cb37cdd71/header.jpg?t=1758124927" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3465010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/c8f28238adbdacab601b29764481a88cb37cdd71/header.jpg?t=1758124927" alt="Stringate（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/0437828701a3f1bcf78d1c3d28df9b49a44ef517/capsule_184x69.jpg?t=1758124927; ジャンル:  → Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465010/c8f28238adbdacab601b29764481a88cb37cdd71/header.jpg?t=1758124927; 無料フラグ:  → False; タイトル:  → Stringate; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Stringate is a level-based puzzle game with portals and other complex mechanics.; タイプ:  → game</p><p><a href="https://store.steampowered.com/app/3465010/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>RIYOU（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3458210/</link>
