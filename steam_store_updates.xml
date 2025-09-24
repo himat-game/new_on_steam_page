@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 21:44:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 22:15:00 +0000</lastBuildDate>
+<item>
+  <title>The Trolley $olution（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3550600/</link>
+  <guid isPermaLink="false">steam-store-update-3550600-1758752163</guid>
+  <pubDate>Wed, 24 Sep 2025 22:15:00 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/6b041be6f2961378c372c7cc267fc34efd443af7/capsule_184x69.jpg?t=1758430740; ジャンル:  → Action, Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/header.jpg?t=1758430740; 無料フラグ:  → False; タイトル:  → The Trolley $olution; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;12 Sep, 2025&quot;}; 説明:  → Get the &amp;quot;V.I.P. Lever&amp;quot;! Pay to unlock the tool needed to discover the V.I.P. area—an exclusive stage that only the t…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/header.jpg?t=1758430740" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/header.jpg?t=1758430740" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/header.jpg?t=1758430740" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3550600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/header.jpg?t=1758430740" alt="The Trolley $olution（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/6b041be6f2961378c372c7cc267fc34efd443af7/capsule_184x69.jpg?t=1758430740; ジャンル:  → Action, Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550600/header.jpg?t=1758430740; 無料フラグ:  → False; タイトル:  → The Trolley $olution; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: false, &quot;date&quot;: &quot;12 Sep, 2025&quot;}; 説明:  → Get the &amp;quot;V.I.P. Lever&amp;quot;! Pay to unlock the tool needed to discover the V.I.P. area—an exclusive stage that only the t…</p><p><a href="https://store.steampowered.com/app/3550600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kittenpire（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3546930/</link>
