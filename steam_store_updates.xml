@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Sep 2025 01:11:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 02:38:31 +0000</lastBuildDate>
+<item>
+  <title>External（言語 +japanese,portuguese - brazil,russian / 説明更新 / ヘッダー画像更新）</title>
+  <link>https://store.steampowered.com/app/3299010/</link>
+  <guid isPermaLink="false">steam-store-update-3299010-1758682166</guid>
+  <pubDate>Wed, 24 Sep 2025 02:38:31 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/7573a8400509fd3e3d488e3cc4dee4dff2437dd9/capsule_184x69.jpg?t=1758449746; ジャンル:  → Action, Adventure, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/9beb68ad7843d2da443e87eb5796a8e4c6d36377/header.jpg?t=1758449746; 無料フラグ:  → False; タイトル:  → External; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → RPG extraction-shooter in a post-apocalyptic setting. Survive in the ruins of the old world, loot g…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/9beb68ad7843d2da443e87eb5796a8e4c6d36377/header.jpg?t=1758449746" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/9beb68ad7843d2da443e87eb5796a8e4c6d36377/header.jpg?t=1758449746" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/9beb68ad7843d2da443e87eb5796a8e4c6d36377/header.jpg?t=1758449746" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3299010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/9beb68ad7843d2da443e87eb5796a8e4c6d36377/header.jpg?t=1758449746" alt="External（言語 +japanese,portuguese - brazil,russian / 説明更新 / ヘッダー画像更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/7573a8400509fd3e3d488e3cc4dee4dff2437dd9/capsule_184x69.jpg?t=1758449746; ジャンル:  → Action, Adventure, Indie, RPG; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299010/9beb68ad7843d2da443e87eb5796a8e4c6d36377/header.jpg?t=1758449746; 無料フラグ:  → False; タイトル:  → External; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → RPG extraction-shooter in a post-apocalyptic setting. Survive in the ruins of the old world, loot g…</p><p><a href="https://store.steampowered.com/app/3299010/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Hollywood Story®: Fashion Star（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3299830/</link>
+  <guid isPermaLink="false">steam-store-update-3299830-1758682226</guid>
+  <pubDate>Wed, 24 Sep 2025 02:38:31 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/469f6235f9c9881f6c7027f31dda98d92107aeaa/capsule_184x69.jpg?t=1757691762; ジャンル:  → Casual, Free To Play; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/41dad878933ccf027c0844abf249174fb8641b56/header.jpg?t=1757691762; 無料フラグ:  → True; タイトル:  → Hollywood Story®: Fashion Star; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Dreaming of Hollywood stardom? Hollywood Story offers you the chance to turn dr…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/41dad878933ccf027c0844abf249174fb8641b56/header.jpg?t=1757691762" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/41dad878933ccf027c0844abf249174fb8641b56/header.jpg?t=1757691762" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/41dad878933ccf027c0844abf249174fb8641b56/header.jpg?t=1757691762" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3299830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/41dad878933ccf027c0844abf249174fb8641b56/header.jpg?t=1757691762" alt="Hollywood Story®: Fashion Star（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/469f6235f9c9881f6c7027f31dda98d92107aeaa/capsule_184x69.jpg?t=1757691762; ジャンル:  → Casual, Free To Play; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299830/41dad878933ccf027c0844abf249174fb8641b56/header.jpg?t=1757691762; 無料フラグ:  → True; タイトル:  → Hollywood Story®: Fashion Star; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Coming soon&quot;}; 説明:  → Dreaming of Hollywood stardom? Hollywood Story offers you the chance to turn dr…</p><p><a href="https://store.steampowered.com/app/3299830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Grave Filler（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3288160/</link>
