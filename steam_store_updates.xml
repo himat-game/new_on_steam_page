@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Sep 2025 05:15:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Sep 2025 05:45:25 +0000</lastBuildDate>
+<item>
+  <title>Succubus Successor: Delilah&#x27;s Juicy Journey（言語 +japanese*,korean*languages with  support/-japanese,korean / 説明更新 / ヘッダー画像更新）</title>
+  <link>https://store.steampowered.com/app/3628950/</link>
+  <guid isPermaLink="false">steam-store-update-3628950-1758779459</guid>
+  <pubDate>Thu, 25 Sep 2025 05:45:25 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/a90872934e4b0db80d16df18a9d21b053afd2323/capsule_184x69.jpg?t=1758682769; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/86cc42ec731c7abc22b92adc57d5e34234cd34e2/header.jpg?t=1758682769; 無料フラグ:  → False; タイトル:  → Succubus Successor: Delilah&#x27;s Juicy Journey; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q2 2026&quot;}; 説明:  → Succubus Successor is a seductive-themed Metroidvania. Play as a …</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/86cc42ec731c7abc22b92adc57d5e34234cd34e2/header.jpg?t=1758682769" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/86cc42ec731c7abc22b92adc57d5e34234cd34e2/header.jpg?t=1758682769" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/86cc42ec731c7abc22b92adc57d5e34234cd34e2/header.jpg?t=1758682769" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3628950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/86cc42ec731c7abc22b92adc57d5e34234cd34e2/header.jpg?t=1758682769" alt="Succubus Successor: Delilah&#x27;s Juicy Journey（言語 +japanese*,korean*languages with  support/-japanese,korean / 説明更新 / ヘッダー画像更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/a90872934e4b0db80d16df18a9d21b053afd2323/capsule_184x69.jpg?t=1758682769; ジャンル:  → Action, Adventure, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628950/86cc42ec731c7abc22b92adc57d5e34234cd34e2/header.jpg?t=1758682769; 無料フラグ:  → False; タイトル:  → Succubus Successor: Delilah&#x27;s Juicy Journey; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q2 2026&quot;}; 説明:  → Succubus Successor is a seductive-themed Metroidvania. Play as a …</p><p><a href="https://store.steampowered.com/app/3628950/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Snatch（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3630900/</link>
+  <guid isPermaLink="false">steam-store-update-3630900-1758779593</guid>
+  <pubDate>Thu, 25 Sep 2025 05:45:25 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/b57a65e2fe0ea41d416774adb32ab5205c97f226/capsule_184x69.jpg?t=1758213144; ジャンル:  → Action, Casual, Indie, Sports, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/2a57eb19007292067460b5649c30eb713eab1989/header.jpg?t=1758213144; 無料フラグ:  → False; タイトル:  → Snatch; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Snatch is a wild twist on classic Pong—faster, flashier, and loaded with abiliti…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/2a57eb19007292067460b5649c30eb713eab1989/header.jpg?t=1758213144" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/2a57eb19007292067460b5649c30eb713eab1989/header.jpg?t=1758213144" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/2a57eb19007292067460b5649c30eb713eab1989/header.jpg?t=1758213144" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3630900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/2a57eb19007292067460b5649c30eb713eab1989/header.jpg?t=1758213144" alt="Snatch（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/b57a65e2fe0ea41d416774adb32ab5205c97f226/capsule_184x69.jpg?t=1758213144; ジャンル:  → Action, Casual, Indie, Sports, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3630900/2a57eb19007292067460b5649c30eb713eab1989/header.jpg?t=1758213144; 無料フラグ:  → False; タイトル:  → Snatch; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: true, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Snatch is a wild twist on classic Pong—faster, flashier, and loaded with abiliti…</p><p><a href="https://store.steampowered.com/app/3630900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Junji Ito Maniac: An Infinite Gaol（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3633250/</link>
+  <guid isPermaLink="false">steam-store-update-3633250-1758779843</guid>
+  <pubDate>Thu, 25 Sep 2025 05:45:25 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/7a678bfd7e2b566cfec47565fbd0d70351b343b7/capsule_184x69.jpg?t=1758038144; ジャンル:  → Adventure; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/df13e848370ffc44aa190191d6e587c7ebf18fe0/header.jpg?t=1758038144; 無料フラグ:  → False; タイトル:  → Junji Ito Maniac: An Infinite Gaol; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Junji Ito Maniac: An Infinite Gaol is a first-person survival horror game inspire…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/df13e848370ffc44aa190191d6e587c7ebf18fe0/header.jpg?t=1758038144" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/df13e848370ffc44aa190191d6e587c7ebf18fe0/header.jpg?t=1758038144" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/df13e848370ffc44aa190191d6e587c7ebf18fe0/header.jpg?t=1758038144" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3633250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/df13e848370ffc44aa190191d6e587c7ebf18fe0/header.jpg?t=1758038144" alt="Junji Ito Maniac: An Infinite Gaol（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/7a678bfd7e2b566cfec47565fbd0d70351b343b7/capsule_184x69.jpg?t=1758038144; ジャンル:  → Adventure; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633250/df13e848370ffc44aa190191d6e587c7ebf18fe0/header.jpg?t=1758038144; 無料フラグ:  → False; タイトル:  → Junji Ito Maniac: An Infinite Gaol; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;To be announced&quot;}; 説明:  → Junji Ito Maniac: An Infinite Gaol is a first-person survival horror game inspire…</p><p><a href="https://store.steampowered.com/app/3633250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Paranormal Realtor（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3621240/</link>
