@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Sep 2025 22:13:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Sep 2025 22:31:16 +0000</lastBuildDate>
+<item>
+  <title>Hand-me-downs Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4041190/</link>
+  <guid isPermaLink="false">steam-store-published-4041190</guid>
+  <pubDate>Thu, 25 Sep 2025 22:31:16 +0000</pubDate>
+  <description>A demo of the roguelike deckbuilder Hand-me-downs, offering limited opponents, decks, and trinkets.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4041190/25bb3806041c16d8b1ab5d2f33920b75e04a47c8/header.jpg?t=1758837252" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4041190/25bb3806041c16d8b1ab5d2f33920b75e04a47c8/header.jpg?t=1758837252" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4041190/25bb3806041c16d8b1ab5d2f33920b75e04a47c8/header.jpg?t=1758837252" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4041190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4041190/25bb3806041c16d8b1ab5d2f33920b75e04a47c8/header.jpg?t=1758837252" alt="Hand-me-downs Demo（新規追加）" /></a></p><p>A demo of the roguelike deckbuilder Hand-me-downs, offering limited opponents, decks, and trinkets.</p><p><a href="https://store.steampowered.com/app/4041190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cosmic Cargo（新規追加）</title>
   <link>https://store.steampowered.com/app/4056230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024330/a8f91f3e57c5e8ad2450513f145e6d8606ae110d/header.jpg?t=1758762472" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024330/a8f91f3e57c5e8ad2450513f145e6d8606ae110d/header.jpg?t=1758762472" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4024330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024330/a8f91f3e57c5e8ad2450513f145e6d8606ae110d/header.jpg?t=1758762472" alt="RPG Maker MZ - Vocal Sounds Labyrinth（新規追加）" /></a></p><p>A collection of music centered around the human voice, perfect for bringing your fantasy world to life.From solo vocals to opera, choirs, and ethereal folk-style chants, this set highlights a wide variety of vocal performances to create a rich and immersive atmosphere.</p><p><a href="https://store.steampowered.com/app/4024330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Daemon X Machina: Titanic Scion - Free Reclaimer Outfit（新規追加）</title>
-  <link>https://store.steampowered.com/app/3817290/</link>
-  <guid isPermaLink="false">steam-store-published-3817290</guid>
-  <pubDate>Thu, 25 Sep 2025 01:11:43 +0000</pubDate>
-  <description>Change up your look with this outfit!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817290/9709ef2b16499a8e9d5f20ad4b984becd24b02e8/header.jpg?t=1758761958" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817290/9709ef2b16499a8e9d5f20ad4b984becd24b02e8/header.jpg?t=1758761958" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817290/9709ef2b16499a8e9d5f20ad4b984becd24b02e8/header.jpg?t=1758761958" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3817290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817290/9709ef2b16499a8e9d5f20ad4b984becd24b02e8/header.jpg?t=1758761958" alt="Daemon X Machina: Titanic Scion - Free Reclaimer Outfit（新規追加）" /></a></p><p>Change up your look with this outfit!</p><p><a href="https://store.steampowered.com/app/3817290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
