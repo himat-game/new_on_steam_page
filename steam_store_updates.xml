@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Steamストアのメタデータ変更（価格・言語・画像・説明など）を検知して通知</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Sep 2025 04:18:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Sep 2025 04:49:21 +0000</lastBuildDate>
+<item>
+  <title>Advent Arena（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3615420/</link>
+  <guid isPermaLink="false">steam-store-update-3615420-1758775827</guid>
+  <pubDate>Thu, 25 Sep 2025 04:49:21 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/6c98995079d7ea7b0bd1869a275ae91dff4e70f2/capsule_184x69.jpg?t=1758037550; ジャンル:  → Casual, Free To Play, Indie, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/ea42575bf338a395c53574603e42ddc3c7fd6038/header.jpg?t=1758037550; 無料フラグ:  → True; タイトル:  → Advent Arena; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → A card-game/tower-defense hybrid. Play solo or with a partner to level up your hero, su…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/ea42575bf338a395c53574603e42ddc3c7fd6038/header.jpg?t=1758037550" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/ea42575bf338a395c53574603e42ddc3c7fd6038/header.jpg?t=1758037550" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/ea42575bf338a395c53574603e42ddc3c7fd6038/header.jpg?t=1758037550" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3615420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/ea42575bf338a395c53574603e42ddc3c7fd6038/header.jpg?t=1758037550" alt="Advent Arena（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/6c98995079d7ea7b0bd1869a275ae91dff4e70f2/capsule_184x69.jpg?t=1758037550; ジャンル:  → Casual, Free To Play, Indie, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615420/ea42575bf338a395c53574603e42ddc3c7fd6038/header.jpg?t=1758037550; 無料フラグ:  → True; タイトル:  → Advent Arena; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2026&quot;}; 説明:  → A card-game/tower-defense hybrid. Play solo or with a partner to level up your hero, su…</p><p><a href="https://store.steampowered.com/app/3615420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Earth Parasite: Silo（言語 +portuguese - brazil*languages with  support,russian,spanish - spain/-russia…）</title>
+  <link>https://store.steampowered.com/app/3615890/</link>
+  <guid isPermaLink="false">steam-store-update-3615890-1758775845</guid>
+  <pubDate>Thu, 25 Sep 2025 04:49:21 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/4865b0dfb5379c785f5400f114a08bd33ecb6d91/capsule_184x69.jpg?t=1758625065; ジャンル:  → Adventure, Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/1011fd73e0096f1b1dd4b0c9685018cc77aec780/header.jpg?t=1758625065; 無料フラグ:  → False; タイトル:  → Earth Parasite: Silo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q2 2027&quot;}; 説明:  → A post-apocalyptic mining, action tower defense, lightly roguelite, anti-human, hand-dra…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/1011fd73e0096f1b1dd4b0c9685018cc77aec780/header.jpg?t=1758625065" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/1011fd73e0096f1b1dd4b0c9685018cc77aec780/header.jpg?t=1758625065" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/1011fd73e0096f1b1dd4b0c9685018cc77aec780/header.jpg?t=1758625065" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3615890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/1011fd73e0096f1b1dd4b0c9685018cc77aec780/header.jpg?t=1758625065" alt="Earth Parasite: Silo（言語 +portuguese - brazil*languages with  support,russian,spanish - spain/-russia…）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/4865b0dfb5379c785f5400f114a08bd33ecb6d91/capsule_184x69.jpg?t=1758625065; ジャンル:  → Adventure, Casual, Indie; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615890/1011fd73e0096f1b1dd4b0c9685018cc77aec780/header.jpg?t=1758625065; 無料フラグ:  → False; タイトル:  → Earth Parasite: Silo; 対応OS:  → {&quot;linux&quot;: false, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;Q2 2027&quot;}; 説明:  → A post-apocalyptic mining, action tower defense, lightly roguelite, anti-human, hand-dra…</p><p><a href="https://store.steampowered.com/app/3615890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Half-Life Legacy（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
+  <link>https://store.steampowered.com/app/3619040/</link>
+  <guid isPermaLink="false">steam-store-update-3619040-1758776235</guid>
+  <pubDate>Thu, 25 Sep 2025 04:49:21 +0000</pubDate>
+  <description>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/491acff41265eef7f76f64a646fb6e77ffbe7940/capsule_184x69.jpg?t=1758548711; ジャンル:  → Action, Adventure, Free To Play, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/517e9c574ed41d8f729e7334119e7bf0a3025bb9/header.jpg?t=1758548711; 無料フラグ:  → True; タイトル:  → Half-Life Legacy; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2025&quot;}; 説明:  → Relive Half-Life 1 with bug fixes, enhanced controller support, Stea…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/517e9c574ed41d8f729e7334119e7bf0a3025bb9/header.jpg?t=1758548711" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/517e9c574ed41d8f729e7334119e7bf0a3025bb9/header.jpg?t=1758548711" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/517e9c574ed41d8f729e7334119e7bf0a3025bb9/header.jpg?t=1758548711" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3619040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/517e9c574ed41d8f729e7334119e7bf0a3025bb9/header.jpg?t=1758548711" alt="Half-Life Legacy（説明更新 / ヘッダー画像更新 / タイトル更新）" /></a></p><p>カプセル画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/491acff41265eef7f76f64a646fb6e77ffbe7940/capsule_184x69.jpg?t=1758548711; ジャンル:  → Action, Adventure, Free To Play, Simulation, Strategy; ヘッダー画像:  → https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3619040/517e9c574ed41d8f729e7334119e7bf0a3025bb9/header.jpg?t=1758548711; 無料フラグ:  → True; タイトル:  → Half-Life Legacy; 対応OS:  → {&quot;linux&quot;: true, &quot;mac&quot;: false, &quot;windows&quot;: true}; リリース:  → {&quot;coming_soon&quot;: true, &quot;date&quot;: &quot;2025&quot;}; 説明:  → Relive Half-Life 1 with bug fixes, enhanced controller support, Stea…</p><p><a href="https://store.steampowered.com/app/3619040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lewd Math（説明更新 / ヘッダー画像更新 / タイトル更新）</title>
   <link>https://store.steampowered.com/app/3608340/</link>
