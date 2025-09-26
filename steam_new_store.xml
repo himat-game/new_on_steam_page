@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 26 Sep 2025 17:45:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Sep 2025 18:20:51 +0000</lastBuildDate>
+<item>
+  <title>Deadlivery Night（新規追加）</title>
+  <link>https://store.steampowered.com/app/4020020/</link>
+  <guid isPermaLink="false">steam-store-published-4020020</guid>
+  <pubDate>Fri, 26 Sep 2025 18:20:51 +0000</pubDate>
+  <description>Deadlivery Night mixes a frenetic arcade gameplay with survival horror elements. Explore the city of Santa Monica while completing deliveries, escape the killer, meet colorful characters and unravel the truth in a world of conspiracies!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020020/3b402d2851d8fe78ff593c55ad988e9019503de1/header.jpg?t=1758907646" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020020/3b402d2851d8fe78ff593c55ad988e9019503de1/header.jpg?t=1758907646" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020020/3b402d2851d8fe78ff593c55ad988e9019503de1/header.jpg?t=1758907646" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4020020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020020/3b402d2851d8fe78ff593c55ad988e9019503de1/header.jpg?t=1758907646" alt="Deadlivery Night（新規追加）" /></a></p><p>Deadlivery Night mixes a frenetic arcade gameplay with survival horror elements. Explore the city of Santa Monica while completing deliveries, escape the killer, meet colorful characters and unravel the truth in a world of conspiracies!</p><p><a href="https://store.steampowered.com/app/4020020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>封神演义之黄飞虎归周 Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4050140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939950/b75642de003fc6707beb8dc8b789d5aa5005a893/header.jpg?t=1758809521" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939950/b75642de003fc6707beb8dc8b789d5aa5005a893/header.jpg?t=1758809521" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3939950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939950/b75642de003fc6707beb8dc8b789d5aa5005a893/header.jpg?t=1758809521" alt="Ballisticards（新規追加）" /></a></p><p>Ballisticards is a physics-based, point-chasing, deck-building roguelike where every drop counts. Drop balls onto your cards to rack up points. Power-up your deck with stickers, paint, and stamps to trigger wild chain reactions, discover powerful synergies, and score big!</p><p><a href="https://store.steampowered.com/app/3939950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Aegis Protocol Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4013120/</link>
-  <guid isPermaLink="false">steam-store-published-4013120</guid>
-  <pubDate>Thu, 25 Sep 2025 15:16:57 +0000</pubDate>
-  <description>Unravel a conspiracy starting with a single murder in a modern point-and-click adventure, playing as a meme-able duo with questionable methods.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013120/e145851a77e968f8679132d240554feb88056ca3/header.jpg?t=1758809693" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013120/e145851a77e968f8679132d240554feb88056ca3/header.jpg?t=1758809693" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013120/e145851a77e968f8679132d240554feb88056ca3/header.jpg?t=1758809693" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4013120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013120/e145851a77e968f8679132d240554feb88056ca3/header.jpg?t=1758809693" alt="Aegis Protocol Demo（新規追加）" /></a></p><p>Unravel a conspiracy starting with a single murder in a modern point-and-click adventure, playing as a meme-able duo with questionable methods.</p><p><a href="https://store.steampowered.com/app/4013120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
