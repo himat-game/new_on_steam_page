@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Sep 2025 02:33:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Sep 2025 03:09:23 +0000</lastBuildDate>
+<item>
+  <title>王国守卫（新規追加）</title>
+  <link>https://store.steampowered.com/app/4027360/</link>
+  <guid isPermaLink="false">steam-store-published-4027360</guid>
+  <pubDate>Sat, 27 Sep 2025 03:09:23 +0000</pubDate>
+  <description>&#x27;Kingdom defender&#x27; is a strategy game that blends card placement, tower defense, and roguelike elements. Players assume the role of an exiled prince, fighting to reclaim their homeland from the demonic lord......</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027360/23a3ca24a254dccd45ef99df9898bad1d0e683f9/header.jpg?t=1758938911" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027360/23a3ca24a254dccd45ef99df9898bad1d0e683f9/header.jpg?t=1758938911" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027360/23a3ca24a254dccd45ef99df9898bad1d0e683f9/header.jpg?t=1758938911" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4027360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027360/23a3ca24a254dccd45ef99df9898bad1d0e683f9/header.jpg?t=1758938911" alt="王国守卫（新規追加）" /></a></p><p>&#x27;Kingdom defender&#x27; is a strategy game that blends card placement, tower defense, and roguelike elements. Players assume the role of an exiled prince, fighting to reclaim their homeland from the demonic lord......</p><p><a href="https://store.steampowered.com/app/4027360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Academy Love Saga: Tennis Angels Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3262390/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988340/439ec1f025a6435613a821792ea330a7ec707972/header.jpg?t=1758831764" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988340/439ec1f025a6435613a821792ea330a7ec707972/header.jpg?t=1758831764" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3988340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3988340/439ec1f025a6435613a821792ea330a7ec707972/header.jpg?t=1758831764" alt="Contractors Showdown : ExfilZone - Radiant Tactics Spray Pack（新規追加）" /></a></p><p>This expansion includes 7 weapon customization spray paints and item purchase authorizations from merchant(s).</p><p><a href="https://store.steampowered.com/app/3988340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Checkpoint Inc（新規追加）</title>
-  <link>https://store.steampowered.com/app/4022730/</link>
-  <guid isPermaLink="false">steam-store-published-4022730</guid>
-  <pubDate>Thu, 25 Sep 2025 20:44:24 +0000</pubDate>
-  <description>Develop your border checkpoint: upgrade the barrier and businesses, earn money, and optimize operations. Turn a small checkpoint into a profitable station — in this short and engaging game</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022730/9408e8e2214c98b64b4b54c0c345da2325018d50/header.jpg?t=1758830263" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022730/9408e8e2214c98b64b4b54c0c345da2325018d50/header.jpg?t=1758830263" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022730/9408e8e2214c98b64b4b54c0c345da2325018d50/header.jpg?t=1758830263" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4022730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022730/9408e8e2214c98b64b4b54c0c345da2325018d50/header.jpg?t=1758830263" alt="Checkpoint Inc（新規追加）" /></a></p><p>Develop your border checkpoint: upgrade the barrier and businesses, earn money, and optimize operations. Turn a small checkpoint into a profitable station — in this short and engaging game</p><p><a href="https://store.steampowered.com/app/4022730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
