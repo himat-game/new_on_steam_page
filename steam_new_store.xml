@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Sep 2025 15:44:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Sep 2025 16:17:00 +0000</lastBuildDate>
+<item>
+  <title>Canal Street Goblin（新規追加）</title>
+  <link>https://store.steampowered.com/app/4029750/</link>
+  <guid isPermaLink="false">steam-store-published-4029750</guid>
+  <pubDate>Sat, 27 Sep 2025 16:17:00 +0000</pubDate>
+  <description>In this short, casual interactive narrative, you (a goblin custodian), fix up the neighborhood, help your eccentric neighbors&#x27; through problems, and uncover a dark and dangerous mystery. All while solving the occasional puzzle!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029750/7efbb479c0a1ea198069b2d1a0b178ddeb11c1d8/header.jpg?t=1758988144" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029750/7efbb479c0a1ea198069b2d1a0b178ddeb11c1d8/header.jpg?t=1758988144" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029750/7efbb479c0a1ea198069b2d1a0b178ddeb11c1d8/header.jpg?t=1758988144" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4029750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029750/7efbb479c0a1ea198069b2d1a0b178ddeb11c1d8/header.jpg?t=1758988144" alt="Canal Street Goblin（新規追加）" /></a></p><p>In this short, casual interactive narrative, you (a goblin custodian), fix up the neighborhood, help your eccentric neighbors&#x27; through problems, and uncover a dark and dangerous mystery. All while solving the occasional puzzle!</p><p><a href="https://store.steampowered.com/app/4029750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Failed Falling Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4048790/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/b5f7b8cd39134b0d2eea6b60e325afd9bd480790/header.jpg?t=1758855828" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/b5f7b8cd39134b0d2eea6b60e325afd9bd480790/header.jpg?t=1758855828" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3985950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985950/b5f7b8cd39134b0d2eea6b60e325afd9bd480790/header.jpg?t=1758855828" alt="Reincarnation Insurance Program（新規追加）" /></a></p><p>In this virus-ravaged, post-apocalyptic world, you will wield the power of infinite resurrection to delve into perilous ruins, gather legendary gear, and draw strength from the gods—growing stronger through endless cycles, until you become a true savior legend.</p><p><a href="https://store.steampowered.com/app/3985950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sidekick AI Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3992250/</link>
-  <guid isPermaLink="false">steam-store-published-3992250</guid>
-  <pubDate>Fri, 26 Sep 2025 03:50:32 +0000</pubDate>
-  <description>A real-time 3D voice companion for PC gamers. Sidekick AI sits beside you, listens and understands the gameplay, speaks timely tips, captures highlights, and gives feedbacks—without breaking game flow. Safe and stream-friendly.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992250/3e652d58c21cccddfe1f68a42e9c0529db37485f/header.jpg?t=1758854095" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992250/3e652d58c21cccddfe1f68a42e9c0529db37485f/header.jpg?t=1758854095" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992250/3e652d58c21cccddfe1f68a42e9c0529db37485f/header.jpg?t=1758854095" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3992250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992250/3e652d58c21cccddfe1f68a42e9c0529db37485f/header.jpg?t=1758854095" alt="Sidekick AI Demo（新規追加）" /></a></p><p>A real-time 3D voice companion for PC gamers. Sidekick AI sits beside you, listens and understands the gameplay, speaks timely tips, captures highlights, and gives feedbacks—without breaking game flow. Safe and stream-friendly.</p><p><a href="https://store.steampowered.com/app/3992250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
