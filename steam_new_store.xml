@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Sep 2025 18:19:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Sep 2025 18:50:13 +0000</lastBuildDate>
+<item>
+  <title>Soul Redemption Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4009930/</link>
+  <guid isPermaLink="false">steam-store-published-4009930</guid>
+  <pubDate>Sat, 27 Sep 2025 18:50:13 +0000</pubDate>
+  <description>&amp;quot;Soul Redemption&amp;quot; is a card-based role-playing game. In a decaying kingdom, play as a merciful priest and guide the lost sheep back to the light.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009930/13e2f4ec950b63e03a888ccf3b74d518d44f0584/header.jpg?t=1758995117" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009930/13e2f4ec950b63e03a888ccf3b74d518d44f0584/header.jpg?t=1758995117" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009930/13e2f4ec950b63e03a888ccf3b74d518d44f0584/header.jpg?t=1758995117" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4009930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009930/13e2f4ec950b63e03a888ccf3b74d518d44f0584/header.jpg?t=1758995117" alt="Soul Redemption Demo（新規追加）" /></a></p><p>&amp;quot;Soul Redemption&amp;quot; is a card-based role-playing game. In a decaying kingdom, play as a merciful priest and guide the lost sheep back to the light.</p><p><a href="https://store.steampowered.com/app/4009930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>看不见的我们（新規追加）</title>
   <link>https://store.steampowered.com/app/4057940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052240/15e42da9b910f27170dca5a5e4b9bc54f4271ebb/header.jpg?t=1758861138" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052240/15e42da9b910f27170dca5a5e4b9bc54f4271ebb/header.jpg?t=1758861138" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4052240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052240/15e42da9b910f27170dca5a5e4b9bc54f4271ebb/header.jpg?t=1758861138" alt="LIBRA: There Are Two Playtest（新規追加）" /></a></p><p>type=game, appid=4052240</p><p><a href="https://store.steampowered.com/app/4052240/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Raid One : 1 vs 5 Online Boss Battle（新規追加）</title>
-  <link>https://store.steampowered.com/app/3896480/</link>
-  <guid isPermaLink="false">steam-store-published-3896480</guid>
-  <pubDate>Fri, 26 Sep 2025 04:48:52 +0000</pubDate>
-  <description>One Boss burns trees for vision and hunts heroes to grow stronger, while Hunters level up by slaying monsters and choosing random skills. When time runs out, the final raid begins: 1 Boss vs 5 Heroes in an epic battle with fresh strategies every match.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896480/9bb625b77e0a90bc51efa369f6cc5a86d7103c94/header.jpg?t=1758857436" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896480/9bb625b77e0a90bc51efa369f6cc5a86d7103c94/header.jpg?t=1758857436" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896480/9bb625b77e0a90bc51efa369f6cc5a86d7103c94/header.jpg?t=1758857436" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3896480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896480/9bb625b77e0a90bc51efa369f6cc5a86d7103c94/header.jpg?t=1758857436" alt="Raid One : 1 vs 5 Online Boss Battle（新規追加）" /></a></p><p>One Boss burns trees for vision and hunts heroes to grow stronger, while Hunters level up by slaying monsters and choosing random skills. When time runs out, the final raid begins: 1 Boss vs 5 Heroes in an epic battle with fresh strategies every match.</p><p><a href="https://store.steampowered.com/app/3896480/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
