@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Sep 2025 13:01:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Sep 2025 13:44:51 +0000</lastBuildDate>
+<item>
+  <title>Ball Chasers（新規追加）</title>
+  <link>https://store.steampowered.com/app/4046280/</link>
+  <guid isPermaLink="false">steam-store-published-4046280</guid>
+  <pubDate>Sun, 28 Sep 2025 13:44:51 +0000</pubDate>
+  <description>A goofy 3v3 multiplayer party soccer brawler where classes, crazy abilities, and pure chaos replace rules—score goals, troll opponents, and embrace the mayhem across wacky maps.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046280/cdd5f7d9645830f1e57ee5c28caa9d51889bb988/header.jpg?t=1759065130" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046280/cdd5f7d9645830f1e57ee5c28caa9d51889bb988/header.jpg?t=1759065130" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046280/cdd5f7d9645830f1e57ee5c28caa9d51889bb988/header.jpg?t=1759065130" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4046280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046280/cdd5f7d9645830f1e57ee5c28caa9d51889bb988/header.jpg?t=1759065130" alt="Ball Chasers（新規追加）" /></a></p><p>A goofy 3v3 multiplayer party soccer brawler where classes, crazy abilities, and pure chaos replace rules—score goals, troll opponents, and embrace the mayhem across wacky maps.</p><p><a href="https://store.steampowered.com/app/4046280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PooPig Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4064070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012190/8c7b2400d9fc2f6968273e60c05fe16c3c739169/header.jpg?t=1758904380" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012190/8c7b2400d9fc2f6968273e60c05fe16c3c739169/header.jpg?t=1758904380" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4012190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012190/8c7b2400d9fc2f6968273e60c05fe16c3c739169/header.jpg?t=1758904380" alt="Dig Dig Burrito! Demo（新規追加）" /></a></p><p>You are a burrito inside a burrito digging through all the delicious ingredients inside. Be careful, some ingredients can kill you! You will avoid enemies, Cause massive explosions, Upgrade your stats, Dig through tons of burritos and more!</p><p><a href="https://store.steampowered.com/app/4012190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bad Janitor Soundtrack（新規追加）</title>
-  <link>https://store.steampowered.com/app/3783610/</link>
-  <guid isPermaLink="false">steam-store-published-3783610</guid>
-  <pubDate>Fri, 26 Sep 2025 17:45:12 +0000</pubDate>
-  <description>Original soundtrack for Bad Janitor.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3783610/4039daa843ac051edb8d21b03c8cdb63ce24a0c1/header.jpg?t=1758904591" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3783610/4039daa843ac051edb8d21b03c8cdb63ce24a0c1/header.jpg?t=1758904591" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3783610/4039daa843ac051edb8d21b03c8cdb63ce24a0c1/header.jpg?t=1758904591" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3783610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3783610/4039daa843ac051edb8d21b03c8cdb63ce24a0c1/header.jpg?t=1758904591" alt="Bad Janitor Soundtrack（新規追加）" /></a></p><p>Original soundtrack for Bad Janitor.</p><p><a href="https://store.steampowered.com/app/3783610/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
