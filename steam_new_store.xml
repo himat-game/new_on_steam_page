@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Sep 2025 06:26:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Sep 2025 06:54:23 +0000</lastBuildDate>
+<item>
+  <title>Starlight Mining Company Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4017530/</link>
+  <guid isPermaLink="false">steam-store-published-4017530</guid>
+  <pubDate>Mon, 29 Sep 2025 06:54:23 +0000</pubDate>
+  <description>type=demo, appid=4017530</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017530/c60c636a4217186395162e33363ce271918b545f/header.jpg?t=1759126405" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017530/c60c636a4217186395162e33363ce271918b545f/header.jpg?t=1759126405" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017530/c60c636a4217186395162e33363ce271918b545f/header.jpg?t=1759126405" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4017530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017530/c60c636a4217186395162e33363ce271918b545f/header.jpg?t=1759126405" alt="Starlight Mining Company Demo（新規追加）" /></a></p><p>type=demo, appid=4017530</p><p><a href="https://store.steampowered.com/app/4017530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>GALIX: New horizons 星海乐章 Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/4054260/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737620/cbf2bf0594c79c44f35fe37cfe6e385768e91959/header.jpg?t=1758944812" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737620/cbf2bf0594c79c44f35fe37cfe6e385768e91959/header.jpg?t=1758944812" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3737620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737620/cbf2bf0594c79c44f35fe37cfe6e385768e91959/header.jpg?t=1758944812" alt="Marisa!ReturnTheBook!（新規追加）" /></a></p><p>Gensoukyo is a 2D top-down game set up for the stage. In the peaceful and tranquil Gensoukyo, a little girl with yellow hair who likes to borrow books everywhere has aroused Alice&#x27;s anger. Therefore, she calls on everyone in Gensoukyo to gather in front of Marisa&#x27;s house for a battle!!!!</p><p><a href="https://store.steampowered.com/app/3737620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>WEREWOLF UTOPIA（新規追加）</title>
-  <link>https://store.steampowered.com/app/4030740/</link>
-  <guid isPermaLink="false">steam-store-published-4030740</guid>
-  <pubDate>Sat, 27 Sep 2025 04:46:23 +0000</pubDate>
-  <description>&amp;quot;Werewolf Utopia&amp;quot; follows surviving werewolves rebuilding their tribe after a dragon destroys their home. Players can build and upgrade the main city, raise werewolf offspring with four-tier careers, and train them through expeditions to gain experience, resources, and items.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030740/704fadaadf5b35389de69de7cfa89424d0ca12b1/header.jpg?t=1758943724" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030740/704fadaadf5b35389de69de7cfa89424d0ca12b1/header.jpg?t=1758943724" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030740/704fadaadf5b35389de69de7cfa89424d0ca12b1/header.jpg?t=1758943724" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4030740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030740/704fadaadf5b35389de69de7cfa89424d0ca12b1/header.jpg?t=1758943724" alt="WEREWOLF UTOPIA（新規追加）" /></a></p><p>&amp;quot;Werewolf Utopia&amp;quot; follows surviving werewolves rebuilding their tribe after a dragon destroys their home. Players can build and upgrade the main city, raise werewolf offspring with four-tier careers, and train them through expeditions to gain experience, resources, and items.</p><p><a href="https://store.steampowered.com/app/4030740/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
