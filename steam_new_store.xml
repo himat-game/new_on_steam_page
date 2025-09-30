@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Sep 2025 10:17:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Sep 2025 10:49:35 +0000</lastBuildDate>
+<item>
+  <title>Weeks Till Winter Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4046000/</link>
+  <guid isPermaLink="false">steam-store-published-4046000</guid>
+  <pubDate>Tue, 30 Sep 2025 10:49:35 +0000</pubDate>
+  <description>type=demo, appid=4046000</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046000/3760d017db27dce276e3363db6c2e39181b7d79b/header.jpg?t=1759226929" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046000/3760d017db27dce276e3363db6c2e39181b7d79b/header.jpg?t=1759226929" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046000/3760d017db27dce276e3363db6c2e39181b7d79b/header.jpg?t=1759226929" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4046000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046000/3760d017db27dce276e3363db6c2e39181b7d79b/header.jpg?t=1759226929" alt="Weeks Till Winter Demo（新規追加）" /></a></p><p>type=demo, appid=4046000</p><p><a href="https://store.steampowered.com/app/4046000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dogpile（新規追加）</title>
   <link>https://store.steampowered.com/app/3839300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054550/269b3dc26f03ab6f396b2901dc97af26794efe04/header.jpg?t=1759146553" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054550/269b3dc26f03ab6f396b2901dc97af26794efe04/header.jpg?t=1759146553" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4054550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054550/269b3dc26f03ab6f396b2901dc97af26794efe04/header.jpg?t=1759146553" alt="Shell Rush（新規追加）" /></a></p><p>Shells, nukes, mayhem — one battlefield, zero mercy. Pick your crew and blast through enemy lines, levelling everything in your path with standard rounds or devastating atomic shells. Play solo or team up on the same keyboard for co-op carnage. Serious firepower, ridiculous destruction.</p><p><a href="https://store.steampowered.com/app/4054550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Truck Racing Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/3939560/</link>
-  <guid isPermaLink="false">steam-store-published-3939560</guid>
-  <pubDate>Mon, 29 Sep 2025 13:09:25 +0000</pubDate>
-  <description>Truck Racing Simulator puts you in the driver’s seat of pure chaos and control—feel the roar of the engine, the thrill of tight turns, and the rush of leaving rivals in the dust. It’s all about adrenaline, grit, and the joy of heavy-duty speed.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939560/017918a318f10fd377eaf2cf9eca6346fac09055/header.jpg?t=1759147374" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939560/017918a318f10fd377eaf2cf9eca6346fac09055/header.jpg?t=1759147374" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939560/017918a318f10fd377eaf2cf9eca6346fac09055/header.jpg?t=1759147374" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3939560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939560/017918a318f10fd377eaf2cf9eca6346fac09055/header.jpg?t=1759147374" alt="Truck Racing Simulator（新規追加）" /></a></p><p>Truck Racing Simulator puts you in the driver’s seat of pure chaos and control—feel the roar of the engine, the thrill of tight turns, and the rush of leaving rivals in the dust. It’s all about adrenaline, grit, and the joy of heavy-duty speed.</p><p><a href="https://store.steampowered.com/app/3939560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
