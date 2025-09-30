@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Sep 2025 15:45:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Sep 2025 16:20:03 +0000</lastBuildDate>
+<item>
+  <title>Dream Runner Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3800160/</link>
+  <guid isPermaLink="false">steam-store-published-3800160</guid>
+  <pubDate>Tue, 30 Sep 2025 16:20:03 +0000</pubDate>
+  <description>type=game, appid=3800160</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800160/3af30385f0bad096ec9377cd4ad0ccd1254d3be2/header.jpg?t=1759246244" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800160/3af30385f0bad096ec9377cd4ad0ccd1254d3be2/header.jpg?t=1759246244" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800160/3af30385f0bad096ec9377cd4ad0ccd1254d3be2/header.jpg?t=1759246244" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3800160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800160/3af30385f0bad096ec9377cd4ad0ccd1254d3be2/header.jpg?t=1759246244" alt="Dream Runner Playtest（新規追加）" /></a></p><p>type=game, appid=3800160</p><p><a href="https://store.steampowered.com/app/3800160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Skies Scrapper（新規追加）</title>
+  <link>https://store.steampowered.com/app/4057030/</link>
+  <guid isPermaLink="false">steam-store-published-4057030</guid>
+  <pubDate>Tue, 30 Sep 2025 16:20:03 +0000</pubDate>
+  <description>Advancer Simulator about building up and reaching the sky</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057030/11950f85b0a3d9340be80259e89d2209c6fb0029/header.jpg?t=1759246270" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057030/11950f85b0a3d9340be80259e89d2209c6fb0029/header.jpg?t=1759246270" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057030/11950f85b0a3d9340be80259e89d2209c6fb0029/header.jpg?t=1759246270" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4057030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057030/11950f85b0a3d9340be80259e89d2209c6fb0029/header.jpg?t=1759246270" alt="Skies Scrapper（新規追加）" /></a></p><p>Advancer Simulator about building up and reaching the sky</p><p><a href="https://store.steampowered.com/app/4057030/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>PROJECT LEVELS Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3896310/</link>
+  <guid isPermaLink="false">steam-store-published-3896310</guid>
+  <pubDate>Tue, 30 Sep 2025 16:20:03 +0000</pubDate>
+  <description>type=demo, appid=3896310</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896310/f05b15503aa7e1a6e55d656e97f1f7db7c26ed7f/header.jpg?t=1759246045" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896310/f05b15503aa7e1a6e55d656e97f1f7db7c26ed7f/header.jpg?t=1759246045" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896310/f05b15503aa7e1a6e55d656e97f1f7db7c26ed7f/header.jpg?t=1759246045" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3896310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896310/f05b15503aa7e1a6e55d656e97f1f7db7c26ed7f/header.jpg?t=1759246045" alt="PROJECT LEVELS Demo（新規追加）" /></a></p><p>type=demo, appid=3896310</p><p><a href="https://store.steampowered.com/app/3896310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Serpath（新規追加）</title>
   <link>https://store.steampowered.com/app/4059230/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3286780/03731b00cfd48460f8f7e17f4f38d58fdc7557a8/header.jpg?t=1759162977" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3286780/03731b00cfd48460f8f7e17f4f38d58fdc7557a8/header.jpg?t=1759162977" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3286780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3286780/03731b00cfd48460f8f7e17f4f38d58fdc7557a8/header.jpg?t=1759162977" alt="Park Manager Simulator（新規追加）" /></a></p><p>Every decision impacts both nature and the economy. Sometimes you’ll spend money to boost visitor happiness, other times you’ll sacrifice short-term comfort to secure the park’s future. Can you find the perfect balance?</p><p><a href="https://store.steampowered.com/app/3286780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Eternal Night - Spooky Solitaire（新規追加）</title>
-  <link>https://store.steampowered.com/app/4042390/</link>
-  <guid isPermaLink="false">steam-store-published-4042390</guid>
-  <pubDate>Mon, 29 Sep 2025 17:14:51 +0000</pubDate>
-  <description>Play a game of “Eternal Night” solitaire, set in a spooky Halloween environment. Haunting backgrounds and matching card decks create a suspenseful atmosphere, accompanied by atmospheric music.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042390/ea7e16122f9ffe144b3738dc0ed37aed31535ce8/header.jpg?t=1759164385" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042390/ea7e16122f9ffe144b3738dc0ed37aed31535ce8/header.jpg?t=1759164385" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042390/ea7e16122f9ffe144b3738dc0ed37aed31535ce8/header.jpg?t=1759164385" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4042390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042390/ea7e16122f9ffe144b3738dc0ed37aed31535ce8/header.jpg?t=1759164385" alt="Eternal Night - Spooky Solitaire（新規追加）" /></a></p><p>Play a game of “Eternal Night” solitaire, set in a spooky Halloween environment. Haunting backgrounds and matching card decks create a suspenseful atmosphere, accompanied by atmospheric music.</p><p><a href="https://store.steampowered.com/app/4042390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Star Conflict - Thrasher（新規追加）</title>
-  <link>https://store.steampowered.com/app/2177270/</link>
-  <guid isPermaLink="false">steam-store-published-2177270</guid>
-  <pubDate>Mon, 29 Sep 2025 17:14:51 +0000</pubDate>
-  <description>This pack includes:Imperial engineering frigate Thrasher. Rank 17Ramming module — “Warp gate Ram-M”Weapon — “Kinetic weapon Ripper”Special module —“Explosive drones”Unique portrait “Graml Rusty”Special bonus for everyone who buys the bundle — Premium license for 30 days!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177270/header.jpg?t=1759163088" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177270/header.jpg?t=1759163088" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177270/header.jpg?t=1759163088" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2177270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177270/header.jpg?t=1759163088" alt="Star Conflict - Thrasher（新規追加）" /></a></p><p>This pack includes:Imperial engineering frigate Thrasher. Rank 17Ramming module — “Warp gate Ram-M”Weapon — “Kinetic weapon Ripper”Special module —“Explosive drones”Unique portrait “Graml Rusty”Special bonus for everyone who buys the bundle — Premium license for 30 days!</p><p><a href="https://store.steampowered.com/app/2177270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tabletop Fantasy War Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4064360/</link>
-  <guid isPermaLink="false">steam-store-published-4064360</guid>
-  <pubDate>Mon, 29 Sep 2025 17:14:51 +0000</pubDate>
-  <description>Tabletop Fantasy War is a turn-based strategy game where you create and customize your unit groups, deploy them on the battlefield, and command them with strategic actions. Your units are all you have. Every decision matters. Lead them wisely and defeat your opponents!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064360/d7f4448b0354c7e9577bc680a19a228f0dc51969/header.jpg?t=1759164651" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064360/d7f4448b0354c7e9577bc680a19a228f0dc51969/header.jpg?t=1759164651" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064360/d7f4448b0354c7e9577bc680a19a228f0dc51969/header.jpg?t=1759164651" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4064360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064360/d7f4448b0354c7e9577bc680a19a228f0dc51969/header.jpg?t=1759164651" alt="Tabletop Fantasy War Demo（新規追加）" /></a></p><p>Tabletop Fantasy War is a turn-based strategy game where you create and customize your unit groups, deploy them on the battlefield, and command them with strategic actions. Your units are all you have. Every decision matters. Lead them wisely and defeat your opponents!</p><p><a href="https://store.steampowered.com/app/4064360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
