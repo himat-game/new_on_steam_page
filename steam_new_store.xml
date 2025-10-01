@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 01 Oct 2025 13:42:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Oct 2025 14:17:01 +0000</lastBuildDate>
+<item>
+  <title>By Grit Alone Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3939250/</link>
+  <guid isPermaLink="false">steam-store-published-3939250</guid>
+  <pubDate>Wed, 01 Oct 2025 14:17:01 +0000</pubDate>
+  <description>Cosmic VR Action Horror focusing on intense shooter action, twisted sci-fi anthology stories and disturbing atmospheric dread. Try the demo now!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939250/462c1cb47d5585e13838817b5eeeaed527cd0b35/header.jpg?t=1759326011" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939250/462c1cb47d5585e13838817b5eeeaed527cd0b35/header.jpg?t=1759326011" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939250/462c1cb47d5585e13838817b5eeeaed527cd0b35/header.jpg?t=1759326011" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3939250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939250/462c1cb47d5585e13838817b5eeeaed527cd0b35/header.jpg?t=1759326011" alt="By Grit Alone Demo（新規追加）" /></a></p><p>Cosmic VR Action Horror focusing on intense shooter action, twisted sci-fi anthology stories and disturbing atmospheric dread. Try the demo now!</p><p><a href="https://store.steampowered.com/app/3939250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Earth of Oryn Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4048640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873950/88ec50def8c20a950e00fca783e5e74fd278474e/header.jpg?t=1759236295" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873950/88ec50def8c20a950e00fca783e5e74fd278474e/header.jpg?t=1759236295" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3873950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873950/88ec50def8c20a950e00fca783e5e74fd278474e/header.jpg?t=1759236295" alt="Another Day Off Demo（新規追加）" /></a></p><p>This demo lasts about 10–15 minutes and is designed to showcase the game’s atmosphere and a short linear section focused only on shooting and combat. Exploration, puzzles, story progression, and other areas are not included. Limited build, still in development.</p><p><a href="https://store.steampowered.com/app/3873950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Skyborne Chronicles（新規追加）</title>
-  <link>https://store.steampowered.com/app/4043570/</link>
-  <guid isPermaLink="false">steam-store-published-4043570</guid>
-  <pubDate>Tue, 30 Sep 2025 13:09:07 +0000</pubDate>
-  <description>Build, manage, and defend a flying city in this 2D isometric survival city builder. Balance resources and workers to keep humanity aloft for a century in an alternate post–World War I timeline.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043570/8c43754847c96b5d1641d94db6c4eab9bf2a9bda/header.jpg?t=1759236924" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043570/8c43754847c96b5d1641d94db6c4eab9bf2a9bda/header.jpg?t=1759236924" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043570/8c43754847c96b5d1641d94db6c4eab9bf2a9bda/header.jpg?t=1759236924" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4043570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043570/8c43754847c96b5d1641d94db6c4eab9bf2a9bda/header.jpg?t=1759236924" alt="Skyborne Chronicles（新規追加）" /></a></p><p>Build, manage, and defend a flying city in this 2D isometric survival city builder. Balance resources and workers to keep humanity aloft for a century in an alternate post–World War I timeline.</p><p><a href="https://store.steampowered.com/app/4043570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
