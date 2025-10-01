@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 01 Oct 2025 15:46:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Oct 2025 16:20:14 +0000</lastBuildDate>
+<item>
+  <title>The Grey Elegy: Under the Cursed Wings（新規追加）</title>
+  <link>https://store.steampowered.com/app/3820540/</link>
+  <guid isPermaLink="false">steam-store-published-3820540</guid>
+  <pubDate>Wed, 01 Oct 2025 16:20:14 +0000</pubDate>
+  <description>On a land where light and shadow intertwine, a boy and a girl embark on a journey of destiny. With storybook-inspired art and an epic tale of bonds and choices, experience a timeless RPG adventure.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3820540/acdc74e64ccdb960726b6e43d7243d68b9368ed8/header.jpg?t=1759331743" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3820540/acdc74e64ccdb960726b6e43d7243d68b9368ed8/header.jpg?t=1759331743" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3820540/acdc74e64ccdb960726b6e43d7243d68b9368ed8/header.jpg?t=1759331743" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3820540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3820540/acdc74e64ccdb960726b6e43d7243d68b9368ed8/header.jpg?t=1759331743" alt="The Grey Elegy: Under the Cursed Wings（新規追加）" /></a></p><p>On a land where light and shadow intertwine, a boy and a girl embark on a journey of destiny. With storybook-inspired art and an epic tale of bonds and choices, experience a timeless RPG adventure.</p><p><a href="https://store.steampowered.com/app/3820540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Westland Survival - Albino Alligator（新規追加）</title>
   <link>https://store.steampowered.com/app/3897400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026380/14028ca45cf6bea3cb9bdb89bf41e0bdd988ed87/header.jpg?t=1759243229" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026380/14028ca45cf6bea3cb9bdb89bf41e0bdd988ed87/header.jpg?t=1759243229" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4026380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026380/14028ca45cf6bea3cb9bdb89bf41e0bdd988ed87/header.jpg?t=1759243229" alt="Ember Island Demo（新規追加）" /></a></p><p>Get ready for an adventure that feels both new and familiar. Ember Island takes the spirit of side-scrolling classics and infuses it with modern polish, controls, and features. From fluid platforming to responsive combat, every element is meticulously designed for a smooth and engaging experience.</p><p><a href="https://store.steampowered.com/app/4026380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nitroglycerine! Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4070350/</link>
-  <guid isPermaLink="false">steam-store-published-4070350</guid>
-  <pubDate>Tue, 30 Sep 2025 14:47:18 +0000</pubDate>
-  <description>A challenging arcade simulator of transporting dangerous cargo on heavy trucks along a complex and unpredictable route. A short but extendable adventure. </description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070350/b31c047526661df2e80003ac70d4a40465f741a4/header.jpg?t=1759240067" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070350/b31c047526661df2e80003ac70d4a40465f741a4/header.jpg?t=1759240067" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070350/b31c047526661df2e80003ac70d4a40465f741a4/header.jpg?t=1759240067" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4070350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070350/b31c047526661df2e80003ac70d4a40465f741a4/header.jpg?t=1759240067" alt="Nitroglycerine! Demo（新規追加）" /></a></p><p>A challenging arcade simulator of transporting dangerous cargo on heavy trucks along a complex and unpredictable route. A short but extendable adventure. </p><p><a href="https://store.steampowered.com/app/4070350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
