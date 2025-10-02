@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 02 Oct 2025 04:47:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Oct 2025 05:14:57 +0000</lastBuildDate>
+<item>
+  <title>Spook Show（新規追加）</title>
+  <link>https://store.steampowered.com/app/3737120/</link>
+  <guid isPermaLink="false">steam-store-published-3737120</guid>
+  <pubDate>Thu, 02 Oct 2025 05:14:57 +0000</pubDate>
+  <description>Spook Show is a retro horror game where you play solo or with friends as the unlucky stars of a 1990&#x27;s midnight TV Show. Create your episode by selecting your map, monster, and character, then fight to survive each terrifying tale — or step into the monster’s shoes and make the show a scream.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737120/589bdfa3cc4f3ff543e8700c810309158442f982/header.jpg?t=1759379217" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737120/589bdfa3cc4f3ff543e8700c810309158442f982/header.jpg?t=1759379217" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737120/589bdfa3cc4f3ff543e8700c810309158442f982/header.jpg?t=1759379217" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3737120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737120/589bdfa3cc4f3ff543e8700c810309158442f982/header.jpg?t=1759379217" alt="Spook Show（新規追加）" /></a></p><p>Spook Show is a retro horror game where you play solo or with friends as the unlucky stars of a 1990&#x27;s midnight TV Show. Create your episode by selecting your map, monster, and character, then fight to survive each terrifying tale — or step into the monster’s shoes and make the show a scream.</p><p><a href="https://store.steampowered.com/app/3737120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Shoulder-Mounted Space Program Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4051070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036640/2d949856071146b3f1806875e16ab9aabd23b34f/header.jpg?t=1759303958" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036640/2d949856071146b3f1806875e16ab9aabd23b34f/header.jpg?t=1759303958" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036640/2d949856071146b3f1806875e16ab9aabd23b34f/header.jpg?t=1759303958" alt="Tame-a-goat-chi Demo（新規追加）" /></a></p><p>Run your own adorable goat pasture in this half-screen idle game! Tame, feed and care for quirky goats while growing your farm – all while you work or browse the web!</p><p><a href="https://store.steampowered.com/app/4036640/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>FedChairSim（新規追加）</title>
-  <link>https://store.steampowered.com/app/4047810/</link>
-  <guid isPermaLink="false">steam-store-published-4047810</guid>
-  <pubDate>Wed, 01 Oct 2025 08:21:20 +0000</pubDate>
-  <description>YOU have been nominated as the next Federal Reserve Chair! Balance inflation, unemployment and navigate a range of scenarios all while keeping your reputation in-tact. Can YOU do a better job than the experts?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047810/af4aa4111e990b5a82e6662a54c896fbc8f524d5/header.jpg?t=1759304632" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047810/af4aa4111e990b5a82e6662a54c896fbc8f524d5/header.jpg?t=1759304632" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047810/af4aa4111e990b5a82e6662a54c896fbc8f524d5/header.jpg?t=1759304632" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4047810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047810/af4aa4111e990b5a82e6662a54c896fbc8f524d5/header.jpg?t=1759304632" alt="FedChairSim（新規追加）" /></a></p><p>YOU have been nominated as the next Federal Reserve Chair! Balance inflation, unemployment and navigate a range of scenarios all while keeping your reputation in-tact. Can YOU do a better job than the experts?</p><p><a href="https://store.steampowered.com/app/4047810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
