@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Oct 2025 04:17:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Oct 2025 05:44:28 +0000</lastBuildDate>
+<item>
+  <title>Catgirl Gemfall（新規追加）</title>
+  <link>https://store.steampowered.com/app/4053140/</link>
+  <guid isPermaLink="false">steam-store-published-4053140</guid>
+  <pubDate>Sat, 04 Oct 2025 05:44:28 +0000</pubDate>
+  <description>Catgirl Gemfall is a magical coin pusher arcade blast, mixing wild physics, sparkling gems, and collectible Catgirl player cards. A pure dopamine factory of chain reactions and shiny rewards. Bright, chaotic, and effortlessly fun for every kind of gamer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053140/3e9d3e8dd7d431799c1d444aebac72445f52054a/header.jpg?t=1759554294" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053140/3e9d3e8dd7d431799c1d444aebac72445f52054a/header.jpg?t=1759554294" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053140/3e9d3e8dd7d431799c1d444aebac72445f52054a/header.jpg?t=1759554294" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4053140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053140/3e9d3e8dd7d431799c1d444aebac72445f52054a/header.jpg?t=1759554294" alt="Catgirl Gemfall（新規追加）" /></a></p><p>Catgirl Gemfall is a magical coin pusher arcade blast, mixing wild physics, sparkling gems, and collectible Catgirl player cards. A pure dopamine factory of chain reactions and shiny rewards. Bright, chaotic, and effortlessly fun for every kind of gamer.</p><p><a href="https://store.steampowered.com/app/4053140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Inspiral: Supporter Pack（新規追加）</title>
   <link>https://store.steampowered.com/app/3878010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076540/e8a4521d6f29a689947402f4bee567f3f0e05b7b/header.jpg?t=1759432230" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076540/e8a4521d6f29a689947402f4bee567f3f0e05b7b/header.jpg?t=1759432230" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4076540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076540/e8a4521d6f29a689947402f4bee567f3f0e05b7b/header.jpg?t=1759432230" alt="Invasion Survivors Demo（新規追加）" /></a></p><p>Invasion Survivors is a fast-paced bullet heaven and bullet hell arena shooter with roguelike elements. Explore a colorful and chaotic world where survival depends on your skills, quick reflexes, and every choice you make.</p><p><a href="https://store.steampowered.com/app/4076540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Stellar Nemesis Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4042210/</link>
-  <guid isPermaLink="false">steam-store-published-4042210</guid>
-  <pubDate>Thu, 02 Oct 2025 20:44:22 +0000</pubDate>
-  <description>A high-definition arcade shooter blending old-school action with modern polish. Battle across the Solar System, upgrade your weapons, and unlock tougher challenges in Nemesis Mode - all set to a hypnotic, retro-electro soundtrack.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042210/bc9443f5198c672bfdd9f18a3ba76dada678d3ca/header.jpg?t=1759434134" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042210/bc9443f5198c672bfdd9f18a3ba76dada678d3ca/header.jpg?t=1759434134" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042210/bc9443f5198c672bfdd9f18a3ba76dada678d3ca/header.jpg?t=1759434134" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4042210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042210/bc9443f5198c672bfdd9f18a3ba76dada678d3ca/header.jpg?t=1759434134" alt="Stellar Nemesis Demo（新規追加）" /></a></p><p>A high-definition arcade shooter blending old-school action with modern polish. Battle across the Solar System, upgrade your weapons, and unlock tougher challenges in Nemesis Mode - all set to a hypnotic, retro-electro soundtrack.</p><p><a href="https://store.steampowered.com/app/4042210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
