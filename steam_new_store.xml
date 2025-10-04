@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Oct 2025 19:24:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Oct 2025 20:44:51 +0000</lastBuildDate>
+<item>
+  <title>Mech Shop Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4079260/</link>
+  <guid isPermaLink="false">steam-store-published-4079260</guid>
+  <pubDate>Sat, 04 Oct 2025 20:44:51 +0000</pubDate>
+  <description>type=demo, appid=4079260</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079260/f812e92c65a054ad0703f3b8505600c3b19cb52e/header.jpg?t=1759609489" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079260/f812e92c65a054ad0703f3b8505600c3b19cb52e/header.jpg?t=1759609489" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079260/f812e92c65a054ad0703f3b8505600c3b19cb52e/header.jpg?t=1759609489" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4079260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079260/f812e92c65a054ad0703f3b8505600c3b19cb52e/header.jpg?t=1759609489" alt="Mech Shop Demo（新規追加）" /></a></p><p>type=demo, appid=4079260</p><p><a href="https://store.steampowered.com/app/4079260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>The Three Moons Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4076580/</link>
+  <guid isPermaLink="false">steam-store-published-4076580</guid>
+  <pubDate>Sat, 04 Oct 2025 20:44:51 +0000</pubDate>
+  <description>type=game, appid=4076580</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076580/f7ab8dadd21f44fafcaf6b836031618a01beb922/header.jpg?t=1759608071" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076580/f7ab8dadd21f44fafcaf6b836031618a01beb922/header.jpg?t=1759608071" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076580/f7ab8dadd21f44fafcaf6b836031618a01beb922/header.jpg?t=1759608071" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4076580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076580/f7ab8dadd21f44fafcaf6b836031618a01beb922/header.jpg?t=1759608071" alt="The Three Moons Playtest（新規追加）" /></a></p><p>type=game, appid=4076580</p><p><a href="https://store.steampowered.com/app/4076580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Netbreak（新規追加）</title>
+  <link>https://store.steampowered.com/app/3851990/</link>
+  <guid isPermaLink="false">steam-store-published-3851990</guid>
+  <pubDate>Sat, 04 Oct 2025 20:44:51 +0000</pubDate>
+  <description>Welcome to Netbreak™, a horror-puzzle experience. When a mysterious USB drive arrives on your desk, your curiosity drags you into a nightmare. Piece together clues, watch forbidden videos, and take down an underground SNUFF marketplace, that allows you to see interactive torture and murder.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851990/53ca5f640f76a0f594b50fc5d7f317771de10c9b/header.jpg?t=1759605009" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851990/53ca5f640f76a0f594b50fc5d7f317771de10c9b/header.jpg?t=1759605009" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851990/53ca5f640f76a0f594b50fc5d7f317771de10c9b/header.jpg?t=1759605009" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3851990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851990/53ca5f640f76a0f594b50fc5d7f317771de10c9b/header.jpg?t=1759605009" alt="Netbreak（新規追加）" /></a></p><p>Welcome to Netbreak™, a horror-puzzle experience. When a mysterious USB drive arrives on your desk, your curiosity drags you into a nightmare. Piece together clues, watch forbidden videos, and take down an underground SNUFF marketplace, that allows you to see interactive torture and murder.</p><p><a href="https://store.steampowered.com/app/3851990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Goldanniyatech（新規追加）</title>
   <link>https://store.steampowered.com/app/3585280/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3099440/43e4e50071d49415063e7524aeec46070ac21cb5/header.jpg?t=1759456229" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3099440/43e4e50071d49415063e7524aeec46070ac21cb5/header.jpg?t=1759456229" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3099440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3099440/43e4e50071d49415063e7524aeec46070ac21cb5/header.jpg?t=1759456229" alt="The Rake - Starter Pack（新規追加）" /></a></p><p>The Rake Starter Pack opens up the camper next to the the player home which you can find a golden AKU with a sight, 40 rounds of ammo, crowbar, night-vision goggles, and some health &amp;amp; equipment items.</p><p><a href="https://store.steampowered.com/app/3099440/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Daemon X Machina: Titanic Scion - Avatar Customization Pack 4（新規追加）</title>
-  <link>https://store.steampowered.com/app/3817470/</link>
-  <guid isPermaLink="false">steam-store-published-3817470</guid>
-  <pubDate>Fri, 03 Oct 2025 02:35:23 +0000</pubDate>
-  <description>Customize the look of your avatar with these unique appearance options.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817470/9f7205632366ab099b16714421c2497f5859e84a/header.jpg?t=1759453164" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817470/9f7205632366ab099b16714421c2497f5859e84a/header.jpg?t=1759453164" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817470/9f7205632366ab099b16714421c2497f5859e84a/header.jpg?t=1759453164" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3817470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817470/9f7205632366ab099b16714421c2497f5859e84a/header.jpg?t=1759453164" alt="Daemon X Machina: Titanic Scion - Avatar Customization Pack 4（新規追加）" /></a></p><p>Customize the look of your avatar with these unique appearance options.</p><p><a href="https://store.steampowered.com/app/3817470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SWAMH（新規追加）</title>
-  <link>https://store.steampowered.com/app/4038810/</link>
-  <guid isPermaLink="false">steam-store-published-4038810</guid>
-  <pubDate>Fri, 03 Oct 2025 02:35:23 +0000</pubDate>
-  <description>A 3D action-adventure game where a mermaid uses the power of her song to dispel the dark mist and restore the ocean’s vibrant beauty. Purify the darkened corals by delivering your song and restore their beauty. Swim swiftly by passing through bubble rings scattered across the field.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038810/465947ab4bd79757614dbeeeab4234183a250617/header.jpg?t=1759452967" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038810/465947ab4bd79757614dbeeeab4234183a250617/header.jpg?t=1759452967" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038810/465947ab4bd79757614dbeeeab4234183a250617/header.jpg?t=1759452967" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4038810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038810/465947ab4bd79757614dbeeeab4234183a250617/header.jpg?t=1759452967" alt="SWAMH（新規追加）" /></a></p><p>A 3D action-adventure game where a mermaid uses the power of her song to dispel the dark mist and restore the ocean’s vibrant beauty. Purify the darkened corals by delivering your song and restore their beauty. Swim swiftly by passing through bubble rings scattered across the field.</p><p><a href="https://store.steampowered.com/app/4038810/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hypno Halo Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4029810/</link>
-  <guid isPermaLink="false">steam-store-published-4029810</guid>
-  <pubDate>Fri, 03 Oct 2025 02:35:23 +0000</pubDate>
-  <description>type=demo, appid=4029810</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029810/e8b95d385342f1d331547f7b65489535552e89f9/header.jpg?t=1759453154" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029810/e8b95d385342f1d331547f7b65489535552e89f9/header.jpg?t=1759453154" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029810/e8b95d385342f1d331547f7b65489535552e89f9/header.jpg?t=1759453154" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4029810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029810/e8b95d385342f1d331547f7b65489535552e89f9/header.jpg?t=1759453154" alt="Hypno Halo Demo（新規追加）" /></a></p><p>type=demo, appid=4029810</p><p><a href="https://store.steampowered.com/app/4029810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
