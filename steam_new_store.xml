@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Oct 2025 17:44:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 18:50:27 +0000</lastBuildDate>
+<item>
+  <title>Sweet Casino 2（新規追加）</title>
+  <link>https://store.steampowered.com/app/4074420/</link>
+  <guid isPermaLink="false">steam-store-published-4074420</guid>
+  <pubDate>Sun, 05 Oct 2025 18:50:27 +0000</pubDate>
+  <description>Sweet Casino 2 - A simple, aesthetically pleasing puzzle game set in a casino setting. It depicts the daily work lives of five beautiful and lovely casino employees, accompanied by relaxing music. After completing a level, you can view their photos in the gallery.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074420/0f7b99b0e227ba8a556bafa58e45dabfc39be798/header.jpg?t=1759688818" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074420/0f7b99b0e227ba8a556bafa58e45dabfc39be798/header.jpg?t=1759688818" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074420/0f7b99b0e227ba8a556bafa58e45dabfc39be798/header.jpg?t=1759688818" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4074420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074420/0f7b99b0e227ba8a556bafa58e45dabfc39be798/header.jpg?t=1759688818" alt="Sweet Casino 2（新規追加）" /></a></p><p>Sweet Casino 2 - A simple, aesthetically pleasing puzzle game set in a casino setting. It depicts the daily work lives of five beautiful and lovely casino employees, accompanied by relaxing music. After completing a level, you can view their photos in the gallery.</p><p><a href="https://store.steampowered.com/app/4074420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ChessRPG（新規追加）</title>
   <link>https://store.steampowered.com/app/3223170/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057570/279682ac6dc67150f2b24faa71a8f7e49ee2e75c/header.jpg?t=1759485298" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057570/279682ac6dc67150f2b24faa71a8f7e49ee2e75c/header.jpg?t=1759485298" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4057570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057570/279682ac6dc67150f2b24faa71a8f7e49ee2e75c/header.jpg?t=1759485298" alt="Storm Horse Simulator Demo（新規追加）" /></a></p><p>This is a DEMO version of Storm Horse Simulator! You are Storm, son of the legendary Amadeus. Now it’s time to rescue your lost siblings across deserts, forests, and farms. Reunite the herd. Your journey begins here. Add Storm Horse Simulator to your Wishlist to be ready for the full adventure!</p><p><a href="https://store.steampowered.com/app/4057570/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lust Goddess — Mascot Zelia（新規追加）</title>
-  <link>https://store.steampowered.com/app/3824190/</link>
-  <guid isPermaLink="false">steam-store-published-3824190</guid>
-  <pubDate>Fri, 03 Oct 2025 10:45:34 +0000</pubDate>
-  <description>Unlock a unique mascot, Zelia, to entertain you every time you visit the main screen! Enjoy Lust Goddess with this super sidekick and some extra resources to boost your progress.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3824190/acaab469ec5320049f2357d4e5deab4d2e3d061e/header.jpg?t=1759486091" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3824190/acaab469ec5320049f2357d4e5deab4d2e3d061e/header.jpg?t=1759486091" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3824190/acaab469ec5320049f2357d4e5deab4d2e3d061e/header.jpg?t=1759486091" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3824190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3824190/acaab469ec5320049f2357d4e5deab4d2e3d061e/header.jpg?t=1759486091" alt="Lust Goddess — Mascot Zelia（新規追加）" /></a></p><p>Unlock a unique mascot, Zelia, to entertain you every time you visit the main screen! Enjoy Lust Goddess with this super sidekick and some extra resources to boost your progress.</p><p><a href="https://store.steampowered.com/app/3824190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
