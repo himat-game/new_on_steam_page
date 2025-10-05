@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Oct 2025 02:47:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 03:50:59 +0000</lastBuildDate>
+<item>
+  <title>Ten Tek（新規追加）</title>
+  <link>https://store.steampowered.com/app/4025190/</link>
+  <guid isPermaLink="false">steam-store-published-4025190</guid>
+  <pubDate>Sun, 05 Oct 2025 03:50:59 +0000</pubDate>
+  <description>TenTek is an atmospheric mystical game where you play as a friendly ghost. Explore the town, uncover the hidden stories of its residents, solve puzzles, and collect over 150 photos and 80 videos to reveal all their secrets.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025190/c7b166fc4fd617285eb529ec8cb3f438a4bbbb1b/header.jpg?t=1759634792" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025190/c7b166fc4fd617285eb529ec8cb3f438a4bbbb1b/header.jpg?t=1759634792" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025190/c7b166fc4fd617285eb529ec8cb3f438a4bbbb1b/header.jpg?t=1759634792" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4025190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025190/c7b166fc4fd617285eb529ec8cb3f438a4bbbb1b/header.jpg?t=1759634792" alt="Ten Tek（新規追加）" /></a></p><p>TenTek is an atmospheric mystical game where you play as a friendly ghost. Explore the town, uncover the hidden stories of its residents, solve puzzles, and collect over 150 photos and 80 videos to reveal all their secrets.</p><p><a href="https://store.steampowered.com/app/4025190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Such a guy  - 4K Edition（新規追加）</title>
   <link>https://store.steampowered.com/app/3868110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005440/2ddb50db4e785dcaea4a620a4d544505112fa0e3/header.jpg?t=1759466771" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005440/2ddb50db4e785dcaea4a620a4d544505112fa0e3/header.jpg?t=1759466771" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4005440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005440/2ddb50db4e785dcaea4a620a4d544505112fa0e3/header.jpg?t=1759466771" alt="6 Ways To 7（新規追加）" /></a></p><p>6 ways to 7  is a high-stakes roguelike twist on the classic dice game Craps! It combines the hard choices of a roguelike, with the push your luck gameplay of craps!</p><p><a href="https://store.steampowered.com/app/4005440/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Harem Fantasy Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3951710/</link>
-  <guid isPermaLink="false">steam-store-published-3951710</guid>
-  <pubDate>Fri, 03 Oct 2025 05:44:30 +0000</pubDate>
-  <description>⛩️ Harem Fantasy is a visual novel in which you become a court healer in the Imperial Harem, populated with enchanting beauties and full of deadly intrigues. Treat, seduce, untwine the conspiracies and survive among passion and betrayal in the heart of the Celestial Empire 🐉</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3951710/7f2afdec7d332a9b8e49595fb62b307d300271cc/header.jpg?t=1759467978" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3951710/7f2afdec7d332a9b8e49595fb62b307d300271cc/header.jpg?t=1759467978" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3951710/7f2afdec7d332a9b8e49595fb62b307d300271cc/header.jpg?t=1759467978" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3951710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3951710/7f2afdec7d332a9b8e49595fb62b307d300271cc/header.jpg?t=1759467978" alt="Harem Fantasy Demo（新規追加）" /></a></p><p>⛩️ Harem Fantasy is a visual novel in which you become a court healer in the Imperial Harem, populated with enchanting beauties and full of deadly intrigues. Treat, seduce, untwine the conspiracies and survive among passion and betrayal in the heart of the Celestial Empire 🐉</p><p><a href="https://store.steampowered.com/app/3951710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
