@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Oct 2025 10:44:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 12:28:23 +0000</lastBuildDate>
+<item>
+  <title>A Lenda de Niterói（新規追加）</title>
+  <link>https://store.steampowered.com/app/3680350/</link>
+  <guid isPermaLink="false">steam-store-published-3680350</guid>
+  <pubDate>Sun, 05 Oct 2025 12:28:23 +0000</pubDate>
+  <description>Embark on Arariboia’s journey during the 16th-century struggle for Guanabara Bay. Explore lush forests, face Tupinambás and French forces, and uncover ancestral echoes that still resonate today, in an action-adventure with exploration and metroidvania-inspired elements.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680350/6f4979207395c3723bba7427e8d164d38941c1b8/header.jpg?t=1759664095" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680350/6f4979207395c3723bba7427e8d164d38941c1b8/header.jpg?t=1759664095" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680350/6f4979207395c3723bba7427e8d164d38941c1b8/header.jpg?t=1759664095" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3680350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680350/6f4979207395c3723bba7427e8d164d38941c1b8/header.jpg?t=1759664095" alt="A Lenda de Niterói（新規追加）" /></a></p><p>Embark on Arariboia’s journey during the 16th-century struggle for Guanabara Bay. Explore lush forests, face Tupinambás and French forces, and uncover ancestral echoes that still resonate today, in an action-adventure with exploration and metroidvania-inspired elements.</p><p><a href="https://store.steampowered.com/app/3680350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Baptized in Dismay（新規追加）</title>
   <link>https://store.steampowered.com/app/3921750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072460/7885fe4040f943e53d02f5085c58581f634726fa/header.jpg?t=1759480056" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072460/7885fe4040f943e53d02f5085c58581f634726fa/header.jpg?t=1759480056" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4072460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072460/7885fe4040f943e53d02f5085c58581f634726fa/header.jpg?t=1759480056" alt="Crownguard（新規追加）" /></a></p><p>You&#x27;re a guard tasked to protect the crown prince from monsters that have invaded the royal castle. Kill the monsters and save the royal bloodline from upcoming danger.</p><p><a href="https://store.steampowered.com/app/4072460/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Jamboy, a Jelly-cious Hero: Original Soundtrack（新規追加）</title>
-  <link>https://store.steampowered.com/app/3864130/</link>
-  <guid isPermaLink="false">steam-store-published-3864130</guid>
-  <pubDate>Fri, 03 Oct 2025 08:52:18 +0000</pubDate>
-  <description>This delicious Soundtrack contains 10 juicy tracks prepared with care,  from the world of Jamboy! Enjoy your meal!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864130/0dbbbbdb094c1a0638fcb1248567fe2becb0e2a0/header.jpg?t=1759475175" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864130/0dbbbbdb094c1a0638fcb1248567fe2becb0e2a0/header.jpg?t=1759475175" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864130/0dbbbbdb094c1a0638fcb1248567fe2becb0e2a0/header.jpg?t=1759475175" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3864130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864130/0dbbbbdb094c1a0638fcb1248567fe2becb0e2a0/header.jpg?t=1759475175" alt="Jamboy, a Jelly-cious Hero: Original Soundtrack（新規追加）" /></a></p><p>This delicious Soundtrack contains 10 juicy tracks prepared with care,  from the world of Jamboy! Enjoy your meal!</p><p><a href="https://store.steampowered.com/app/3864130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
