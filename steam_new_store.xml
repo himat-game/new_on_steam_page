@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Oct 2025 04:44:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 05:45:00 +0000</lastBuildDate>
+<item>
+  <title>Natalie &amp; Soldiers Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4059630/</link>
+  <guid isPermaLink="false">steam-store-published-4059630</guid>
+  <pubDate>Sun, 05 Oct 2025 05:45:00 +0000</pubDate>
+  <description>type=demo, appid=4059630</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059630/0399651b1c5fdeca4e36c6d6822b9e5cd8215da7/header.jpg?t=1759641928" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059630/0399651b1c5fdeca4e36c6d6822b9e5cd8215da7/header.jpg?t=1759641928" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059630/0399651b1c5fdeca4e36c6d6822b9e5cd8215da7/header.jpg?t=1759641928" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4059630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059630/0399651b1c5fdeca4e36c6d6822b9e5cd8215da7/header.jpg?t=1759641928" alt="Natalie &amp; Soldiers Demo（新規追加）" /></a></p><p>type=demo, appid=4059630</p><p><a href="https://store.steampowered.com/app/4059630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>剑与魔法：最后的光辉（新規追加）</title>
   <link>https://store.steampowered.com/app/4062330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564770/6a5cc9cc26eb739c10904205a71005cd606061a1/header.jpg?t=1759472120" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564770/6a5cc9cc26eb739c10904205a71005cd606061a1/header.jpg?t=1759472120" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3564770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564770/6a5cc9cc26eb739c10904205a71005cd606061a1/header.jpg?t=1759472120" alt="Bubbles and babes（新規追加）" /></a></p><p>Adult visual novel set in a mountain bathhouse. Explore freely, reconnect with old friends and employees, and unlock intimate encounters. Features full English voice acting and animated adult scenes.</p><p><a href="https://store.steampowered.com/app/3564770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>PARRY COUNTER（新規追加）</title>
-  <link>https://store.steampowered.com/app/3682280/</link>
-  <guid isPermaLink="false">steam-store-published-3682280</guid>
-  <pubDate>Fri, 03 Oct 2025 06:23:05 +0000</pubDate>
-  <description>PARRY COUNTER is a 2D side-scrolling Soulslike action game that puts your timing to the ultimate test. Master perfect parries to deflect enemy strikes and challenge a relentless boss rush. Every battle tests your skill, precision, and courage. Will you rise to counter every attack?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682280/edc8ea229c93ed0863e6aad53e67ad652e11905d/header.jpg?t=1759470651" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682280/edc8ea229c93ed0863e6aad53e67ad652e11905d/header.jpg?t=1759470651" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682280/edc8ea229c93ed0863e6aad53e67ad652e11905d/header.jpg?t=1759470651" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3682280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682280/edc8ea229c93ed0863e6aad53e67ad652e11905d/header.jpg?t=1759470651" alt="PARRY COUNTER（新規追加）" /></a></p><p>PARRY COUNTER is a 2D side-scrolling Soulslike action game that puts your timing to the ultimate test. Master perfect parries to deflect enemy strikes and challenge a relentless boss rush. Every battle tests your skill, precision, and courage. Will you rise to counter every attack?</p><p><a href="https://store.steampowered.com/app/3682280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
