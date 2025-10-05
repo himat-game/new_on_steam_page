@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Oct 2025 09:44:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 10:44:47 +0000</lastBuildDate>
+<item>
+  <title>Baptized in Dismay（新規追加）</title>
+  <link>https://store.steampowered.com/app/3921750/</link>
+  <guid isPermaLink="false">steam-store-published-3921750</guid>
+  <pubDate>Sun, 05 Oct 2025 10:44:47 +0000</pubDate>
+  <description>Baptized in Dismay is a psychological horror RPG set in a dystopian 1980s. Nations have turned to isolation and walls to prevent another war. But a curse, or sickness, spreads... consuming people from within and erasing their humanity. Will you endure… or be Baptized in Dismay?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921750/bd66ce39c82d169b221b17b2094b668a3a1964c3/header.jpg?t=1759658384" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921750/bd66ce39c82d169b221b17b2094b668a3a1964c3/header.jpg?t=1759658384" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921750/bd66ce39c82d169b221b17b2094b668a3a1964c3/header.jpg?t=1759658384" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3921750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921750/bd66ce39c82d169b221b17b2094b668a3a1964c3/header.jpg?t=1759658384" alt="Baptized in Dismay（新規追加）" /></a></p><p>Baptized in Dismay is a psychological horror RPG set in a dystopian 1980s. Nations have turned to isolation and walls to prevent another war. But a curse, or sickness, spreads... consuming people from within and erasing their humanity. Will you endure… or be Baptized in Dismay?</p><p><a href="https://store.steampowered.com/app/3921750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BongBongCapy（新規追加）</title>
   <link>https://store.steampowered.com/app/3835910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864130/0dbbbbdb094c1a0638fcb1248567fe2becb0e2a0/header.jpg?t=1759475175" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864130/0dbbbbdb094c1a0638fcb1248567fe2becb0e2a0/header.jpg?t=1759475175" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3864130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864130/0dbbbbdb094c1a0638fcb1248567fe2becb0e2a0/header.jpg?t=1759475175" alt="Jamboy, a Jelly-cious Hero: Original Soundtrack（新規追加）" /></a></p><p>This delicious Soundtrack contains 10 juicy tracks prepared with care,  from the world of Jamboy! Enjoy your meal!</p><p><a href="https://store.steampowered.com/app/3864130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Game Maker: A Carol Reed Mystery（新規追加）</title>
-  <link>https://store.steampowered.com/app/3979550/</link>
-  <guid isPermaLink="false">steam-store-published-3979550</guid>
-  <pubDate>Fri, 03 Oct 2025 08:52:18 +0000</pubDate>
-  <description>Follow detective Carol Reed in this colorful mystery, made with real-life photographs. The game features a classic adventure game interface, plenty of puzzles, and a series of minigames as an integrated part of the story.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979550/5a8d6d86b6ff8a9e6df52ab94e72bd447ae86bac/header.jpg?t=1759474997" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979550/5a8d6d86b6ff8a9e6df52ab94e72bd447ae86bac/header.jpg?t=1759474997" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979550/5a8d6d86b6ff8a9e6df52ab94e72bd447ae86bac/header.jpg?t=1759474997" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3979550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979550/5a8d6d86b6ff8a9e6df52ab94e72bd447ae86bac/header.jpg?t=1759474997" alt="The Game Maker: A Carol Reed Mystery（新規追加）" /></a></p><p>Follow detective Carol Reed in this colorful mystery, made with real-life photographs. The game features a classic adventure game interface, plenty of puzzles, and a series of minigames as an integrated part of the story.</p><p><a href="https://store.steampowered.com/app/3979550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
