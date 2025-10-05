@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Oct 2025 12:28:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 13:01:15 +0000</lastBuildDate>
+<item>
+  <title>MysteryJars（新規追加）</title>
+  <link>https://store.steampowered.com/app/4043530/</link>
+  <guid isPermaLink="false">steam-store-published-4043530</guid>
+  <pubDate>Sun, 05 Oct 2025 13:01:15 +0000</pubDate>
+  <description>Team up, scavenge, and defend your base against relentless waves of monsters. Every 10-minute round in MysteryJar is a fight for survival and discovery.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043530/0ab3e8862847f51286e8d5d797066b4b56b7eb59/header.jpg?t=1759665909" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043530/0ab3e8862847f51286e8d5d797066b4b56b7eb59/header.jpg?t=1759665909" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043530/0ab3e8862847f51286e8d5d797066b4b56b7eb59/header.jpg?t=1759665909" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4043530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043530/0ab3e8862847f51286e8d5d797066b4b56b7eb59/header.jpg?t=1759665909" alt="MysteryJars（新規追加）" /></a></p><p>Team up, scavenge, and defend your base against relentless waves of monsters. Every 10-minute round in MysteryJar is a fight for survival and discovery.</p><p><a href="https://store.steampowered.com/app/4043530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Lenda de Niterói（新規追加）</title>
   <link>https://store.steampowered.com/app/3680350/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4002270/6e1b9b7c9a2feb5b24a9ea5b4e278c5565089463/header.jpg?t=1759480628" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4002270/6e1b9b7c9a2feb5b24a9ea5b4e278c5565089463/header.jpg?t=1759480628" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4002270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4002270/6e1b9b7c9a2feb5b24a9ea5b4e278c5565089463/header.jpg?t=1759480628" alt="FrontWars（新規追加）" /></a></p><p>FrontWars is an intense PvP battle-royale where hundreds clash on a vast map, forging alliances, amassing wealth, and unleashing nuclear strikes to dominate the world.</p><p><a href="https://store.steampowered.com/app/4002270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Crownguard（新規追加）</title>
-  <link>https://store.steampowered.com/app/4072460/</link>
-  <guid isPermaLink="false">steam-store-published-4072460</guid>
-  <pubDate>Fri, 03 Oct 2025 08:52:18 +0000</pubDate>
-  <description>You&#x27;re a guard tasked to protect the crown prince from monsters that have invaded the royal castle. Kill the monsters and save the royal bloodline from upcoming danger.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072460/7885fe4040f943e53d02f5085c58581f634726fa/header.jpg?t=1759480056" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072460/7885fe4040f943e53d02f5085c58581f634726fa/header.jpg?t=1759480056" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072460/7885fe4040f943e53d02f5085c58581f634726fa/header.jpg?t=1759480056" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4072460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072460/7885fe4040f943e53d02f5085c58581f634726fa/header.jpg?t=1759480056" alt="Crownguard（新規追加）" /></a></p><p>You&#x27;re a guard tasked to protect the crown prince from monsters that have invaded the royal castle. Kill the monsters and save the royal bloodline from upcoming danger.</p><p><a href="https://store.steampowered.com/app/4072460/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
