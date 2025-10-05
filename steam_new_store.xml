@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Oct 2025 22:44:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 23:26:39 +0000</lastBuildDate>
+<item>
+  <title>Hentai Dungeon Lord（新規追加）</title>
+  <link>https://store.steampowered.com/app/4053560/</link>
+  <guid isPermaLink="false">steam-store-published-4053560</guid>
+  <pubDate>Sun, 05 Oct 2025 23:26:39 +0000</pubDate>
+  <description>A lane-pushing strategy game with autobattles where you summon heroes that march forward and fight on their own. Explore different worlds and maps, follow the story through dialogs, and upgrade your strength after each victory. Progress through battles to unlock exclusive adult rewards.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053560/504a18500251b525bf05d367b5705371e5af74ea/header.jpg?t=1759704861" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053560/504a18500251b525bf05d367b5705371e5af74ea/header.jpg?t=1759704861" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053560/504a18500251b525bf05d367b5705371e5af74ea/header.jpg?t=1759704861" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4053560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4053560/504a18500251b525bf05d367b5705371e5af74ea/header.jpg?t=1759704861" alt="Hentai Dungeon Lord（新規追加）" /></a></p><p>A lane-pushing strategy game with autobattles where you summon heroes that march forward and fight on their own. Explore different worlds and maps, follow the story through dialogs, and upgrade your strength after each victory. Progress through battles to unlock exclusive adult rewards.</p><p><a href="https://store.steampowered.com/app/4053560/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aquanima Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3948750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005760/d694130a431b8d1e92e9626ed2e3af5c511a6ddd/header.jpg?t=1759491831" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005760/d694130a431b8d1e92e9626ed2e3af5c511a6ddd/header.jpg?t=1759491831" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4005760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005760/d694130a431b8d1e92e9626ed2e3af5c511a6ddd/header.jpg?t=1759491831" alt="The people of Sea, Sun &amp; Salt Demo（新規追加）" /></a></p><p>Will you create a lasting civilization or see it collapse into the sea? In The People of Sea, Sun &amp;amp; Salt demo, you build a city on a small mediterranean island. Define the tenets of your culture, deal with your subjects&#x27; needs and withstand the forces of the elements.</p><p><a href="https://store.steampowered.com/app/4005760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Side Effects Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4055160/</link>
-  <guid isPermaLink="false">steam-store-published-4055160</guid>
-  <pubDate>Fri, 03 Oct 2025 11:44:50 +0000</pubDate>
-  <description>Two test subjects. One twisted medical trial. Only one leaves. A turn-based medical roulette game where every dose could be your last</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055160/d1fea483ea051e543342fc0221d2f3e124ec9075/header.jpg?t=1759489153" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055160/d1fea483ea051e543342fc0221d2f3e124ec9075/header.jpg?t=1759489153" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055160/d1fea483ea051e543342fc0221d2f3e124ec9075/header.jpg?t=1759489153" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4055160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055160/d1fea483ea051e543342fc0221d2f3e124ec9075/header.jpg?t=1759489153" alt="Side Effects Demo（新規追加）" /></a></p><p>Two test subjects. One twisted medical trial. Only one leaves. A turn-based medical roulette game where every dose could be your last</p><p><a href="https://store.steampowered.com/app/4055160/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
