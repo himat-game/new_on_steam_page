@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 06 Oct 2025 03:31:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 05:45:20 +0000</lastBuildDate>
+<item>
+  <title>MR. ELEVATOR OST（新規追加）</title>
+  <link>https://store.steampowered.com/app/3984610/</link>
+  <guid isPermaLink="false">steam-store-published-3984610</guid>
+  <pubDate>Mon, 06 Oct 2025 05:45:20 +0000</pubDate>
+  <description>MR.ELEVATOR Original Soundtrack by Mushio Funazawa. Features 7 tracks.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984610/3df654df3810ef9102916020f484a2df776fa16b/header.jpg?t=1759725964" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984610/3df654df3810ef9102916020f484a2df776fa16b/header.jpg?t=1759725964" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984610/3df654df3810ef9102916020f484a2df776fa16b/header.jpg?t=1759725964" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3984610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3984610/3df654df3810ef9102916020f484a2df776fa16b/header.jpg?t=1759725964" alt="MR. ELEVATOR OST（新規追加）" /></a></p><p>MR.ELEVATOR Original Soundtrack by Mushio Funazawa. Features 7 tracks.</p><p><a href="https://store.steampowered.com/app/3984610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chest！Gotcha！（新規追加）</title>
   <link>https://store.steampowered.com/app/3869860/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082880/be5166979689dd3cd2eec2e9bd8b6e251e007ee1/header.jpg?t=1759495396" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082880/be5166979689dd3cd2eec2e9bd8b6e251e007ee1/header.jpg?t=1759495396" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4082880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082880/be5166979689dd3cd2eec2e9bd8b6e251e007ee1/header.jpg?t=1759495396" alt="Many Mini Typing Games Demo（新規追加）" /></a></p><p>type=demo, appid=4082880</p><p><a href="https://store.steampowered.com/app/4082880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ReSoul:Jack Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4058110/</link>
-  <guid isPermaLink="false">steam-store-published-4058110</guid>
-  <pubDate>Fri, 03 Oct 2025 13:46:53 +0000</pubDate>
-  <description>type=demo, appid=4058110</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058110/d93a12e6c71c1298ea940e8b36ccae860591f59c/header.jpg?t=1759497078" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058110/d93a12e6c71c1298ea940e8b36ccae860591f59c/header.jpg?t=1759497078" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058110/d93a12e6c71c1298ea940e8b36ccae860591f59c/header.jpg?t=1759497078" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4058110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058110/d93a12e6c71c1298ea940e8b36ccae860591f59c/header.jpg?t=1759497078" alt="ReSoul:Jack Demo（新規追加）" /></a></p><p>type=demo, appid=4058110</p><p><a href="https://store.steampowered.com/app/4058110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
