@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 06 Oct 2025 05:45:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 08:51:35 +0000</lastBuildDate>
+<item>
+  <title>Heroic Songs: the Remix! Original Soundtrack（新規追加）</title>
+  <link>https://store.steampowered.com/app/4070660/</link>
+  <guid isPermaLink="false">steam-store-published-4070660</guid>
+  <pubDate>Mon, 06 Oct 2025 08:51:35 +0000</pubDate>
+  <description>This is an original soundtrack featuring newly composed songs from the idol × city-building simulation game “Heroic Songs: the Remix!”</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070660/7a2bd08a20f27525596b1051e3f1c26dc8e4ab44/header.jpg?t=1759737762" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070660/7a2bd08a20f27525596b1051e3f1c26dc8e4ab44/header.jpg?t=1759737762" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070660/7a2bd08a20f27525596b1051e3f1c26dc8e4ab44/header.jpg?t=1759737762" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4070660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070660/7a2bd08a20f27525596b1051e3f1c26dc8e4ab44/header.jpg?t=1759737762" alt="Heroic Songs: the Remix! Original Soundtrack（新規追加）" /></a></p><p>This is an original soundtrack featuring newly composed songs from the idol × city-building simulation game “Heroic Songs: the Remix!”</p><p><a href="https://store.steampowered.com/app/4070660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>MR. ELEVATOR OST（新規追加）</title>
   <link>https://store.steampowered.com/app/3984610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873100/aae7754597c04392f28c5c34dec46b574a1d83d3/header.jpg?t=1759499558" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873100/aae7754597c04392f28c5c34dec46b574a1d83d3/header.jpg?t=1759499558" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3873100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873100/aae7754597c04392f28c5c34dec46b574a1d83d3/header.jpg?t=1759499558" alt="Coffie Simulator - Prologue（新規追加）" /></a></p><p>In Coffie Simulator Prologue , run your own café, serve unique cusstomers, and master the art of coffee-making! Customize, upgrade, and manage your shop while handling orders with precision. Every choice matters. Can you succeed?</p><p><a href="https://store.steampowered.com/app/3873100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Many Mini Typing Games Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4082880/</link>
-  <guid isPermaLink="false">steam-store-published-4082880</guid>
-  <pubDate>Fri, 03 Oct 2025 13:46:53 +0000</pubDate>
-  <description>type=demo, appid=4082880</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082880/be5166979689dd3cd2eec2e9bd8b6e251e007ee1/header.jpg?t=1759495396" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082880/be5166979689dd3cd2eec2e9bd8b6e251e007ee1/header.jpg?t=1759495396" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082880/be5166979689dd3cd2eec2e9bd8b6e251e007ee1/header.jpg?t=1759495396" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4082880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082880/be5166979689dd3cd2eec2e9bd8b6e251e007ee1/header.jpg?t=1759495396" alt="Many Mini Typing Games Demo（新規追加）" /></a></p><p>type=demo, appid=4082880</p><p><a href="https://store.steampowered.com/app/4082880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
