@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 07 Oct 2025 09:46:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Oct 2025 10:16:35 +0000</lastBuildDate>
+<item>
+  <title>Abyss Lord Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4070530/</link>
+  <guid isPermaLink="false">steam-store-published-4070530</guid>
+  <pubDate>Tue, 07 Oct 2025 10:16:35 +0000</pubDate>
+  <description>What does the future hold for the young man? A long and happy life with his loved ones? Loss and suffering befalling an inglorious country? The throne of humanity&#x27;s enemy? A harem of representatives of various races, from charming goblins to graceful vampires? A single love until death?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070530/3daadc45a84f731cc095be469aab2ed4f11ad9a9/header.jpg?t=1759828766" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070530/3daadc45a84f731cc095be469aab2ed4f11ad9a9/header.jpg?t=1759828766" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070530/3daadc45a84f731cc095be469aab2ed4f11ad9a9/header.jpg?t=1759828766" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4070530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4070530/3daadc45a84f731cc095be469aab2ed4f11ad9a9/header.jpg?t=1759828766" alt="Abyss Lord Demo（新規追加）" /></a></p><p>What does the future hold for the young man? A long and happy life with his loved ones? Loss and suffering befalling an inglorious country? The throne of humanity&#x27;s enemy? A harem of representatives of various races, from charming goblins to graceful vampires? A single love until death?</p><p><a href="https://store.steampowered.com/app/4070530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Irezumi Defenders（新規追加）</title>
   <link>https://store.steampowered.com/app/4053750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051750/b04551b719f9cea52e14d4adf7431c78e8fc515c/header.jpg?t=1759610303" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051750/b04551b719f9cea52e14d4adf7431c78e8fc515c/header.jpg?t=1759610303" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4051750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051750/b04551b719f9cea52e14d4adf7431c78e8fc515c/header.jpg?t=1759610303" alt="Shell Soldier Demo（新規追加）" /></a></p><p>type=demo, appid=4051750</p><p><a href="https://store.steampowered.com/app/4051750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>银河卡牌游戏 Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4056680/</link>
-  <guid isPermaLink="false">steam-store-published-4056680</guid>
-  <pubDate>Sat, 04 Oct 2025 21:27:14 +0000</pubDate>
-  <description>type=game, appid=4056680</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056680/9b1630e9c5d291d827ff1e43e5e21f82a7334975/header.jpg?t=1759611114" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056680/9b1630e9c5d291d827ff1e43e5e21f82a7334975/header.jpg?t=1759611114" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056680/9b1630e9c5d291d827ff1e43e5e21f82a7334975/header.jpg?t=1759611114" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4056680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056680/9b1630e9c5d291d827ff1e43e5e21f82a7334975/header.jpg?t=1759611114" alt="银河卡牌游戏 Playtest（新規追加）" /></a></p><p>type=game, appid=4056680</p><p><a href="https://store.steampowered.com/app/4056680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
