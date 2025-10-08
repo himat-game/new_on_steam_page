@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 08 Oct 2025 10:48:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Oct 2025 11:45:03 +0000</lastBuildDate>
+<item>
+  <title>Alea（新規追加）</title>
+  <link>https://store.steampowered.com/app/3913910/</link>
+  <guid isPermaLink="false">steam-store-published-3913910</guid>
+  <pubDate>Wed, 08 Oct 2025 11:45:03 +0000</pubDate>
+  <description>A Balatro-like deck-building strategy battler built on Yacht dice hands. Weigh odds, manage rerolls, and chain rune effects to defeat Tarot-inspired enemies. Roll the dice and resist fate.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913910/00387f34017628d84a53056b40f89ac0f3cceabf/header.jpg?t=1759919373" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913910/00387f34017628d84a53056b40f89ac0f3cceabf/header.jpg?t=1759919373" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913910/00387f34017628d84a53056b40f89ac0f3cceabf/header.jpg?t=1759919373" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3913910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913910/00387f34017628d84a53056b40f89ac0f3cceabf/header.jpg?t=1759919373" alt="Alea（新規追加）" /></a></p><p>A Balatro-like deck-building strategy battler built on Yacht dice hands. Weigh odds, manage rerolls, and chain rune effects to defeat Tarot-inspired enemies. Roll the dice and resist fate.</p><p><a href="https://store.steampowered.com/app/3913910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Flappy Witch Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/4002440/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976840/b209597eb11ab6975e34bb1736d68330ec48029f/header.jpg?t=1759776271" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976840/b209597eb11ab6975e34bb1736d68330ec48029f/header.jpg?t=1759776271" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3976840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976840/b209597eb11ab6975e34bb1736d68330ec48029f/header.jpg?t=1759776271" alt="FRUKT Demo（新規追加）" /></a></p><p>A voxel-based death sandbox with ultra-detailed ragdolls. Shoot, dismember, and crush humanoid creatures with realistic body physics.</p><p><a href="https://store.steampowered.com/app/3976840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Serena: Yellow Creek（新規追加）</title>
-  <link>https://store.steampowered.com/app/4060650/</link>
-  <guid isPermaLink="false">steam-store-published-4060650</guid>
-  <pubDate>Mon, 06 Oct 2025 19:44:28 +0000</pubDate>
-  <description>In Yellow Creek, Julian and Serena rebuild their love after a haunting nightmare. Secrets unravel as Margaret hides a past romance and Dr. Hart sows temptation. Navigate love, betrayal, and family mysteries in this erotic visual novel where every choice shapes your destiny in Clearwater County.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060650/12ace4efe40acaff338f93155e0b4e0e8f7eecbb/header.jpg?t=1759776855" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060650/12ace4efe40acaff338f93155e0b4e0e8f7eecbb/header.jpg?t=1759776855" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060650/12ace4efe40acaff338f93155e0b4e0e8f7eecbb/header.jpg?t=1759776855" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4060650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060650/12ace4efe40acaff338f93155e0b4e0e8f7eecbb/header.jpg?t=1759776855" alt="Serena: Yellow Creek（新規追加）" /></a></p><p>In Yellow Creek, Julian and Serena rebuild their love after a haunting nightmare. Secrets unravel as Margaret hides a past romance and Dr. Hart sows temptation. Navigate love, betrayal, and family mysteries in this erotic visual novel where every choice shapes your destiny in Clearwater County.</p><p><a href="https://store.steampowered.com/app/4060650/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
