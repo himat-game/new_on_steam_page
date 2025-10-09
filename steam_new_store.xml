@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 09 Oct 2025 13:42:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Oct 2025 14:40:03 +0000</lastBuildDate>
+<item>
+  <title>Hextalia Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4097360/</link>
+  <guid isPermaLink="false">steam-store-published-4097360</guid>
+  <pubDate>Thu, 09 Oct 2025 14:40:03 +0000</pubDate>
+  <description>type=demo, appid=4097360</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097360/ae7f75ce104c5e5382740f58e79ffd5aa40dd001/header.jpg?t=1760017307" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097360/ae7f75ce104c5e5382740f58e79ffd5aa40dd001/header.jpg?t=1760017307" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097360/ae7f75ce104c5e5382740f58e79ffd5aa40dd001/header.jpg?t=1760017307" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4097360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4097360/ae7f75ce104c5e5382740f58e79ffd5aa40dd001/header.jpg?t=1760017307" alt="Hextalia Demo（新規追加）" /></a></p><p>type=demo, appid=4097360</p><p><a href="https://store.steampowered.com/app/4097360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Molitva Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3913680/</link>
+  <guid isPermaLink="false">steam-store-published-3913680</guid>
+  <pubDate>Thu, 09 Oct 2025 14:40:03 +0000</pubDate>
+  <description>Molitva – a brutal, nonlinear visual novel about sins committed and the final chance for redemption. Are you worthy of forgiveness?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913680/427417b2b20bfb35772bb75321d291057f3ec392/header.jpg?t=1760017317" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913680/427417b2b20bfb35772bb75321d291057f3ec392/header.jpg?t=1760017317" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913680/427417b2b20bfb35772bb75321d291057f3ec392/header.jpg?t=1760017317" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3913680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913680/427417b2b20bfb35772bb75321d291057f3ec392/header.jpg?t=1760017317" alt="Molitva Demo（新規追加）" /></a></p><p>Molitva – a brutal, nonlinear visual novel about sins committed and the final chance for redemption. Are you worthy of forgiveness?</p><p><a href="https://store.steampowered.com/app/3913680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Rust Warhammer Pack（新規追加）</title>
+  <link>https://store.steampowered.com/app/3891560/</link>
+  <guid isPermaLink="false">steam-store-published-3891560</guid>
+  <pubDate>Thu, 09 Oct 2025 14:40:03 +0000</pubDate>
+  <description>The infamous Death Korps of Krieg march into Rust, bringing their grim, war-forged resolve to the island. This pack delivers battle-scarred war gear, inspired by one of Warhammer 40,000’s most fearless regiments.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891560/3833382bd430c09e294d1b5a894bce46eaf12d87/header.jpg?t=1760019038" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891560/3833382bd430c09e294d1b5a894bce46eaf12d87/header.jpg?t=1760019038" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891560/3833382bd430c09e294d1b5a894bce46eaf12d87/header.jpg?t=1760019038" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3891560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891560/3833382bd430c09e294d1b5a894bce46eaf12d87/header.jpg?t=1760019038" alt="Rust Warhammer Pack（新規追加）" /></a></p><p>The infamous Death Korps of Krieg march into Rust, bringing their grim, war-forged resolve to the island. This pack delivers battle-scarred war gear, inspired by one of Warhammer 40,000’s most fearless regiments.</p><p><a href="https://store.steampowered.com/app/3891560/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Treasure Drop（新規追加）</title>
   <link>https://store.steampowered.com/app/3165470/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058920/a14ccf11d4b8062013e55046274f7388447e559e/header.jpg?t=1759917499" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058920/a14ccf11d4b8062013e55046274f7388447e559e/header.jpg?t=1759917499" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4058920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4058920/a14ccf11d4b8062013e55046274f7388447e559e/header.jpg?t=1759917499" alt="Not A.C.A.B.（新規追加）" /></a></p><p>Set up checkpoints, inspect drivers, and enforce the law. Use your police tablet to issue fines, make arrests, or let them go. Chase down fleeing suspects, complete daily tasks, and prove yourself as a fair or relentless officer.</p><p><a href="https://store.steampowered.com/app/4058920/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nano Flat Owner（新規追加）</title>
-  <link>https://store.steampowered.com/app/4020000/</link>
-  <guid isPermaLink="false">steam-store-published-4020000</guid>
-  <pubDate>Wed, 08 Oct 2025 10:48:44 +0000</pubDate>
-  <description>You are a owner of nano flats, responsible for decorating each mini space to attract tenants and earn impressive profits! As your income grows, keep buying more units and gradually expand your rental kingdom, easily stepping toward financial freedom!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020000/de9395a85b0f3889ad6cb997e484cd5676d162d9/header.jpg?t=1759917876" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020000/de9395a85b0f3889ad6cb997e484cd5676d162d9/header.jpg?t=1759917876" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020000/de9395a85b0f3889ad6cb997e484cd5676d162d9/header.jpg?t=1759917876" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4020000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020000/de9395a85b0f3889ad6cb997e484cd5676d162d9/header.jpg?t=1759917876" alt="Nano Flat Owner（新規追加）" /></a></p><p>You are a owner of nano flats, responsible for decorating each mini space to attract tenants and earn impressive profits! As your income grows, keep buying more units and gradually expand your rental kingdom, easily stepping toward financial freedom!</p><p><a href="https://store.steampowered.com/app/4020000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wayside Marina（新規追加）</title>
-  <link>https://store.steampowered.com/app/4015650/</link>
-  <guid isPermaLink="false">steam-store-published-4015650</guid>
-  <pubDate>Wed, 08 Oct 2025 10:48:44 +0000</pubDate>
-  <description>Wayside Marina is a melee based, dungeon adventure. Explore the outposts and the grottos beyond the horizon, uncovering mysteries that threaten your world on the surface. And helping the eclectic mariners you meet along the way.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015650/e9b0c385c23aa4f0c39b56fd018341006fda18ef/header.jpg?t=1759917578" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015650/e9b0c385c23aa4f0c39b56fd018341006fda18ef/header.jpg?t=1759917578" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015650/e9b0c385c23aa4f0c39b56fd018341006fda18ef/header.jpg?t=1759917578" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4015650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015650/e9b0c385c23aa4f0c39b56fd018341006fda18ef/header.jpg?t=1759917578" alt="Wayside Marina（新規追加）" /></a></p><p>Wayside Marina is a melee based, dungeon adventure. Explore the outposts and the grottos beyond the horizon, uncovering mysteries that threaten your world on the surface. And helping the eclectic mariners you meet along the way.</p><p><a href="https://store.steampowered.com/app/4015650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>STEEB（新規追加）</title>
-  <link>https://store.steampowered.com/app/2467470/</link>
-  <guid isPermaLink="false">steam-store-published-2467470</guid>
-  <pubDate>Wed, 08 Oct 2025 10:48:44 +0000</pubDate>
-  <description>STEEB is a 2D top-down, non-linear exploration game. You are a bio-robot scout, sent out to explore and survive on unknown planets. Take samples from alien organisms to gain unique abilities. Gather scraps and strategically choose upgrades. Will your discoveries save humanity?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467470/40f1bc22e8263060128e9039ec00cf710679b342/header.jpg?t=1759917992" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467470/40f1bc22e8263060128e9039ec00cf710679b342/header.jpg?t=1759917992" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467470/40f1bc22e8263060128e9039ec00cf710679b342/header.jpg?t=1759917992" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2467470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467470/40f1bc22e8263060128e9039ec00cf710679b342/header.jpg?t=1759917992" alt="STEEB（新規追加）" /></a></p><p>STEEB is a 2D top-down, non-linear exploration game. You are a bio-robot scout, sent out to explore and survive on unknown planets. Take samples from alien organisms to gain unique abilities. Gather scraps and strategically choose upgrades. Will your discoveries save humanity?</p><p><a href="https://store.steampowered.com/app/2467470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
