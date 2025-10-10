@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 10 Oct 2025 03:23:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Oct 2025 03:51:18 +0000</lastBuildDate>
+<item>
+  <title>DEFRAG Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4079140/</link>
+  <guid isPermaLink="false">steam-store-published-4079140</guid>
+  <pubDate>Fri, 10 Oct 2025 03:51:18 +0000</pubDate>
+  <description>DEFRAG is a game about cleansing corrupted sectors and refining them through optimization to build a stronger system. Collect resources, adjust configurations, and complete your build as you progress.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079140/a00e1f554dce1511605bacfe633073fb325646e3/header.jpg?t=1760065626" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079140/a00e1f554dce1511605bacfe633073fb325646e3/header.jpg?t=1760065626" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079140/a00e1f554dce1511605bacfe633073fb325646e3/header.jpg?t=1760065626" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4079140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079140/a00e1f554dce1511605bacfe633073fb325646e3/header.jpg?t=1760065626" alt="DEFRAG Demo（新規追加）" /></a></p><p>DEFRAG is a game about cleansing corrupted sectors and refining them through optimization to build a stronger system. Collect resources, adjust configurations, and complete your build as you progress.</p><p><a href="https://store.steampowered.com/app/4079140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>서유기런: Wukong Run（新規追加）</title>
   <link>https://store.steampowered.com/app/4035300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914750/6d699efe8e863b69e7516d3e1cf7cd47710eace3/header.jpg?t=1759953988" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914750/6d699efe8e863b69e7516d3e1cf7cd47710eace3/header.jpg?t=1759953988" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3914750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914750/6d699efe8e863b69e7516d3e1cf7cd47710eace3/header.jpg?t=1759953988" alt="Where Are You?（新規追加）" /></a></p><p>Where Are You? is a story-driven 2D adventure about curiosity, loss, and the search for truth — and about the question of whether it is enough to admire Jesus’ teachings while rejecting Him Himself.</p><p><a href="https://store.steampowered.com/app/3914750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Only Animals Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4085960/</link>
-  <guid isPermaLink="false">steam-store-published-4085960</guid>
-  <pubDate>Wed, 08 Oct 2025 20:45:49 +0000</pubDate>
-  <description>Explore the vast open world of Endless Wilderness! Capture and transform into over 100 unique animals, journey across ever-shifting biomes, and take on two epic boss encounters. The skill tree progression is disabled in this demo, but there’s no limit to how far you can travel or playtime.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085960/da880d8ad5cb9eac53fbd90e2daab59335d47a15/header.jpg?t=1759951539" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085960/da880d8ad5cb9eac53fbd90e2daab59335d47a15/header.jpg?t=1759951539" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085960/da880d8ad5cb9eac53fbd90e2daab59335d47a15/header.jpg?t=1759951539" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4085960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085960/da880d8ad5cb9eac53fbd90e2daab59335d47a15/header.jpg?t=1759951539" alt="Only Animals Demo（新規追加）" /></a></p><p>Explore the vast open world of Endless Wilderness! Capture and transform into over 100 unique animals, journey across ever-shifting biomes, and take on two epic boss encounters. The skill tree progression is disabled in this demo, but there’s no limit to how far you can travel or playtime.</p><p><a href="https://store.steampowered.com/app/4085960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
