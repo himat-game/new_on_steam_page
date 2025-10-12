@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Oct 2025 14:44:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Oct 2025 15:44:50 +0000</lastBuildDate>
+<item>
+  <title>Colorboration（新規追加）</title>
+  <link>https://store.steampowered.com/app/4042850/</link>
+  <guid isPermaLink="false">steam-store-published-4042850</guid>
+  <pubDate>Sun, 12 Oct 2025 15:44:50 +0000</pubDate>
+  <description>Without crossing colors, move the blob characters around the field. By pushing boxes, have the blobs interact and together help them reach their goals.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042850/58a06cb68e537bcb88eb674a961e45add3790fed/header.jpg?t=1760277588" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042850/58a06cb68e537bcb88eb674a961e45add3790fed/header.jpg?t=1760277588" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042850/58a06cb68e537bcb88eb674a961e45add3790fed/header.jpg?t=1760277588" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4042850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042850/58a06cb68e537bcb88eb674a961e45add3790fed/header.jpg?t=1760277588" alt="Colorboration（新規追加）" /></a></p><p>Without crossing colors, move the blob characters around the field. By pushing boxes, have the blobs interact and together help them reach their goals.</p><p><a href="https://store.steampowered.com/app/4042850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Peripheral（新規追加）</title>
   <link>https://store.steampowered.com/app/4079150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039760/757e21deafaf323e4cd66def1409c330056650da/header.jpg?t=1760103194" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039760/757e21deafaf323e4cd66def1409c330056650da/header.jpg?t=1760103194" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4039760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039760/757e21deafaf323e4cd66def1409c330056650da/header.jpg?t=1760103194" alt="Sweet Hamster Days Demo（新規追加）" /></a></p><p>&amp;quot;I got reincarnated... as a hamster! My owners are three sisters: a charming cosplayer, a straight-laced and caring one, and one with a sharp tongue and a sweet side.</p><p><a href="https://store.steampowered.com/app/4039760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Network Notation Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3941100/</link>
-  <guid isPermaLink="false">steam-store-published-3941100</guid>
-  <pubDate>Fri, 10 Oct 2025 14:15:47 +0000</pubDate>
-  <description>Infiltrate abstract computer networks filled with defensive complications to expand your world. Improve your capabilities to overcome ever greater challenges. Learn about the state of the world and what you were made for.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941100/b665e1f121f26ab8ba0d2bde638bc586bac29675/header.jpg?t=1760103997" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941100/b665e1f121f26ab8ba0d2bde638bc586bac29675/header.jpg?t=1760103997" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941100/b665e1f121f26ab8ba0d2bde638bc586bac29675/header.jpg?t=1760103997" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3941100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3941100/b665e1f121f26ab8ba0d2bde638bc586bac29675/header.jpg?t=1760103997" alt="Network Notation Demo（新規追加）" /></a></p><p>Infiltrate abstract computer networks filled with defensive complications to expand your world. Improve your capabilities to overcome ever greater challenges. Learn about the state of the world and what you were made for.</p><p><a href="https://store.steampowered.com/app/3941100/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
