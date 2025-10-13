@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 13 Oct 2025 10:19:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Oct 2025 10:41:38 +0000</lastBuildDate>
+<item>
+  <title>Ashen Vow Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4083610/</link>
+  <guid isPermaLink="false">steam-store-published-4083610</guid>
+  <pubDate>Mon, 13 Oct 2025 10:41:38 +0000</pubDate>
+  <description>type=demo, appid=4083610</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083610/625c1897e808bb8c554ede97ee01e09ddcc39b73/header.jpg?t=1760349632" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083610/625c1897e808bb8c554ede97ee01e09ddcc39b73/header.jpg?t=1760349632" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083610/625c1897e808bb8c554ede97ee01e09ddcc39b73/header.jpg?t=1760349632" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4083610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083610/625c1897e808bb8c554ede97ee01e09ddcc39b73/header.jpg?t=1760349632" alt="Ashen Vow Demo（新規追加）" /></a></p><p>type=demo, appid=4083610</p><p><a href="https://store.steampowered.com/app/4083610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aether HeXXen: Death-Space Requiem Act1（新規追加）</title>
   <link>https://store.steampowered.com/app/4033750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844340/f5e12ca8f4138f8920c7e52cd96ebc4212ac1046/header.jpg?t=1760139172" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844340/f5e12ca8f4138f8920c7e52cd96ebc4212ac1046/header.jpg?t=1760139172" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3844340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844340/f5e12ca8f4138f8920c7e52cd96ebc4212ac1046/header.jpg?t=1760139172" alt="Dreams Far Away（新規追加）" /></a></p><p>This game offers a first-person platforming experience for up to 8 players. After a mutated rabies virus began to threaten life on Earth, humanity found refuge in safe cities built in the sky. Overcome obstacles to reach the safe city — and be the first to get there.</p><p><a href="https://store.steampowered.com/app/3844340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chaos Hero（新規追加）</title>
-  <link>https://store.steampowered.com/app/4091570/</link>
-  <guid isPermaLink="false">steam-store-published-4091570</guid>
-  <pubDate>Fri, 10 Oct 2025 23:44:37 +0000</pubDate>
-  <description>Dive into bullet-hell auto-combat! Fight through hordes of monsters and experience the thrill of going from barely scraping by to tearing through everything!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4091570/724aa9180f33b410ff519dceb65eee442054a4db/header.jpg?t=1760136382" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4091570/724aa9180f33b410ff519dceb65eee442054a4db/header.jpg?t=1760136382" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4091570/724aa9180f33b410ff519dceb65eee442054a4db/header.jpg?t=1760136382" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4091570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4091570/724aa9180f33b410ff519dceb65eee442054a4db/header.jpg?t=1760136382" alt="Chaos Hero（新規追加）" /></a></p><p>Dive into bullet-hell auto-combat! Fight through hordes of monsters and experience the thrill of going from barely scraping by to tearing through everything!</p><p><a href="https://store.steampowered.com/app/4091570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
