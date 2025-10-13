@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 13 Oct 2025 21:44:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Oct 2025 22:45:13 +0000</lastBuildDate>
+<item>
+  <title>Rustic City（新規追加）</title>
+  <link>https://store.steampowered.com/app/3897840/</link>
+  <guid isPermaLink="false">steam-store-published-3897840</guid>
+  <pubDate>Mon, 13 Oct 2025 22:45:13 +0000</pubDate>
+  <description>Design charming habitats for small quirky creatures in this relaxing citybuilder.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3897840/72c38f99a0c5ad768c9cbe06b0e4d5caa0dc3a40/header.jpg?t=1760394357" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3897840/72c38f99a0c5ad768c9cbe06b0e4d5caa0dc3a40/header.jpg?t=1760394357" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3897840/72c38f99a0c5ad768c9cbe06b0e4d5caa0dc3a40/header.jpg?t=1760394357" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3897840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3897840/72c38f99a0c5ad768c9cbe06b0e4d5caa0dc3a40/header.jpg?t=1760394357" alt="Rustic City（新規追加）" /></a></p><p>Design charming habitats for small quirky creatures in this relaxing citybuilder.</p><p><a href="https://store.steampowered.com/app/3897840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cat President: 3rd-Rate Candidate（新規追加）</title>
   <link>https://store.steampowered.com/app/2916480/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911070/aa08ea42c4d07b23ccd33c50b72eb7e0b72ee3f2/header.jpg?t=1760257927" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911070/aa08ea42c4d07b23ccd33c50b72eb7e0b72ee3f2/header.jpg?t=1760257927" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3911070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911070/aa08ea42c4d07b23ccd33c50b72eb7e0b72ee3f2/header.jpg?t=1760257927" alt="Heroes Saga Demo（新規追加）" /></a></p><p>type=demo, appid=3911070</p><p><a href="https://store.steampowered.com/app/3911070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Red Awe（新規追加）</title>
-  <link>https://store.steampowered.com/app/4021570/</link>
-  <guid isPermaLink="false">steam-store-published-4021570</guid>
-  <pubDate>Sun, 12 Oct 2025 08:47:32 +0000</pubDate>
-  <description>A short horror game where you take photos of a volcanic planet in the deep space to reveal out the conspiracy theory about a scientist...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021570/d2aee81838ca7705e24180074087a35a9cbacb9e/header.jpg?t=1760255164" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021570/d2aee81838ca7705e24180074087a35a9cbacb9e/header.jpg?t=1760255164" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021570/d2aee81838ca7705e24180074087a35a9cbacb9e/header.jpg?t=1760255164" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4021570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021570/d2aee81838ca7705e24180074087a35a9cbacb9e/header.jpg?t=1760255164" alt="Red Awe（新規追加）" /></a></p><p>A short horror game where you take photos of a volcanic planet in the deep space to reveal out the conspiracy theory about a scientist...</p><p><a href="https://store.steampowered.com/app/4021570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
