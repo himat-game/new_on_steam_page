@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 13 Oct 2025 11:44:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Oct 2025 12:33:33 +0000</lastBuildDate>
+<item>
+  <title>【REDACTED】：SexCP-069 Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3964880/</link>
+  <guid isPermaLink="false">steam-store-published-3964880</guid>
+  <pubDate>Mon, 13 Oct 2025 12:33:33 +0000</pubDate>
+  <description>《【READACTED】：SexCP-069》 is a training and conditioning simulation game. Sense their thoughts, gather information, and target the right girls. Use special powers to break down defenses and reveal their true selves.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964880/41c4b62bbcc498b8d33ff727c9d2161f800e31a6/header.jpg?t=1760356136" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964880/41c4b62bbcc498b8d33ff727c9d2161f800e31a6/header.jpg?t=1760356136" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964880/41c4b62bbcc498b8d33ff727c9d2161f800e31a6/header.jpg?t=1760356136" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3964880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964880/41c4b62bbcc498b8d33ff727c9d2161f800e31a6/header.jpg?t=1760356136" alt="【REDACTED】：SexCP-069 Demo（新規追加）" /></a></p><p>《【READACTED】：SexCP-069》 is a training and conditioning simulation game. Sense their thoughts, gather information, and target the right girls. Use special powers to break down defenses and reveal their true selves.</p><p><a href="https://store.steampowered.com/app/3964880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tower! Simulator 3 - KEWR Airport（新規追加）</title>
   <link>https://store.steampowered.com/app/4094140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056560/1d10171cee0d5807fa55ee656272eaaee8f4e3b6/header.jpg?t=1760144997" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056560/1d10171cee0d5807fa55ee656272eaaee8f4e3b6/header.jpg?t=1760144997" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4056560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056560/1d10171cee0d5807fa55ee656272eaaee8f4e3b6/header.jpg?t=1760144997" alt="Arthur&#x27;s 1st Grade（新規追加）" /></a></p><p>Arthur&#x27;s 1st Grade is the perfect combination of learning, fun, and helpful features. With 15 different educational activities and 20 creative activities, Arthur&#x27;s 1st Grade teaches a full year&#x27;s worth of first grade skills and entertains your child with limitless fun and learning!</p><p><a href="https://store.steampowered.com/app/4056560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Arthur&#x27;s Kindergarten（新規追加）</title>
-  <link>https://store.steampowered.com/app/4056580/</link>
-  <guid isPermaLink="false">steam-store-published-4056580</guid>
-  <pubDate>Sat, 11 Oct 2025 02:33:19 +0000</pubDate>
-  <description>Arthur&#x27;s Kindergarten is the perfect combination of learning, fun, and helpful features. With 15 different educational activities, Arthur&#x27;s Kindergarten teaches a full year&#x27;s worth of kindergarten skills and entertains your child with limitless fun and learning!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056580/3c0d012843f297a5c05f75e39830fa5b42bdd158/header.jpg?t=1760145005" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056580/3c0d012843f297a5c05f75e39830fa5b42bdd158/header.jpg?t=1760145005" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056580/3c0d012843f297a5c05f75e39830fa5b42bdd158/header.jpg?t=1760145005" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4056580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056580/3c0d012843f297a5c05f75e39830fa5b42bdd158/header.jpg?t=1760145005" alt="Arthur&#x27;s Kindergarten（新規追加）" /></a></p><p>Arthur&#x27;s Kindergarten is the perfect combination of learning, fun, and helpful features. With 15 different educational activities, Arthur&#x27;s Kindergarten teaches a full year&#x27;s worth of kindergarten skills and entertains your child with limitless fun and learning!</p><p><a href="https://store.steampowered.com/app/4056580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
