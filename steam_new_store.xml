@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 14 Oct 2025 05:44:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Oct 2025 06:24:27 +0000</lastBuildDate>
+<item>
+  <title>Room 304 - A Boys&#x27; Love Story（新規追加）</title>
+  <link>https://store.steampowered.com/app/4059320/</link>
+  <guid isPermaLink="false">steam-store-published-4059320</guid>
+  <pubDate>Tue, 14 Oct 2025 06:24:27 +0000</pubDate>
+  <description>Room 304 is a short boys’ love visual novel set in a dorm room rumored to be cursed. Over the course of four days, your choices shape the bond between the timid Ian and his confident roommate, Eric, revealing their fears, hopes, and hidden feelings.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059320/7b20eea1ba20907d4ac17de55819bbe2b0b983b8/header.jpg?t=1760420345" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059320/7b20eea1ba20907d4ac17de55819bbe2b0b983b8/header.jpg?t=1760420345" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059320/7b20eea1ba20907d4ac17de55819bbe2b0b983b8/header.jpg?t=1760420345" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4059320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059320/7b20eea1ba20907d4ac17de55819bbe2b0b983b8/header.jpg?t=1760420345" alt="Room 304 - A Boys&#x27; Love Story（新規追加）" /></a></p><p>Room 304 is a short boys’ love visual novel set in a dorm room rumored to be cursed. Over the course of four days, your choices shape the bond between the timid Ian and his confident roommate, Eric, revealing their fears, hopes, and hidden feelings.</p><p><a href="https://store.steampowered.com/app/4059320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Trainz Plus DLC - Pro Train: SW1500 Loco Pack 2（新規追加）</title>
   <link>https://store.steampowered.com/app/4053670/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071330/066aeeb04b8708133bbad0163ac549447ee5e067/header.jpg?t=1760281746" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071330/066aeeb04b8708133bbad0163ac549447ee5e067/header.jpg?t=1760281746" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4071330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071330/066aeeb04b8708133bbad0163ac549447ee5e067/header.jpg?t=1760281746" alt="Avalon Jewels（新規追加）" /></a></p><p>Explore Avalon in this enchanting match-3 puzzle game! Solve 250+ levels, create Rainbow Gems, battle unique foes, and journey through magical lands. Relax at your pace or test your skills in Puzzle Mode.</p><p><a href="https://store.steampowered.com/app/4071330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lead To Gold Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4063330/</link>
-  <guid isPermaLink="false">steam-store-published-4063330</guid>
-  <pubDate>Sun, 12 Oct 2025 16:46:10 +0000</pubDate>
-  <description>type=demo, appid=4063330</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4063330/ecb3a01e68a89fdfecab440c03d45c41c252e6a0/header.jpg?t=1760286077" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4063330/ecb3a01e68a89fdfecab440c03d45c41c252e6a0/header.jpg?t=1760286077" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4063330/ecb3a01e68a89fdfecab440c03d45c41c252e6a0/header.jpg?t=1760286077" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4063330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4063330/ecb3a01e68a89fdfecab440c03d45c41c252e6a0/header.jpg?t=1760286077" alt="Lead To Gold Demo（新規追加）" /></a></p><p>type=demo, appid=4063330</p><p><a href="https://store.steampowered.com/app/4063330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
