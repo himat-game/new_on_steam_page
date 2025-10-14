@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 14 Oct 2025 15:48:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Oct 2025 16:20:24 +0000</lastBuildDate>
+<item>
+  <title>Echoes of Eclipse（新規追加）</title>
+  <link>https://store.steampowered.com/app/3670490/</link>
+  <guid isPermaLink="false">steam-store-published-3670490</guid>
+  <pubDate>Tue, 14 Oct 2025 16:20:24 +0000</pubDate>
+  <description>Echoes of Eclipse is a roguelite shoot ’em up survival game that combines fast-paced combat with strategic skill building. Choose your champion, create your ideal build, and survive relentless enemy waves alone or up to 4 players in local co-op on a constantly changing battlefield.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3670490/bafc8d267cfb38a898a09e9aacf6efef01f1417a/header.jpg?t=1760456836" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3670490/bafc8d267cfb38a898a09e9aacf6efef01f1417a/header.jpg?t=1760456836" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3670490/bafc8d267cfb38a898a09e9aacf6efef01f1417a/header.jpg?t=1760456836" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3670490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3670490/bafc8d267cfb38a898a09e9aacf6efef01f1417a/header.jpg?t=1760456836" alt="Echoes of Eclipse（新規追加）" /></a></p><p>Echoes of Eclipse is a roguelite shoot ’em up survival game that combines fast-paced combat with strategic skill building. Choose your champion, create your ideal build, and survive relentless enemy waves alone or up to 4 players in local co-op on a constantly changing battlefield.</p><p><a href="https://store.steampowered.com/app/3670490/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Animal Girls Dating Agency（新規追加）</title>
   <link>https://store.steampowered.com/app/4048400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079190/939a54d143b177aeb78ebbdeba9c0758de293637/header.jpg?t=1760319256" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079190/939a54d143b177aeb78ebbdeba9c0758de293637/header.jpg?t=1760319256" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4079190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079190/939a54d143b177aeb78ebbdeba9c0758de293637/header.jpg?t=1760319256" alt="Planet Keeper Program Demo（新規追加）" /></a></p><p>You were chosen for the Planet Keeper Program. Defend the planet in this retro-inspired incremental game. Upgrade our defenses, destroy our enemies, ensure our future.</p><p><a href="https://store.steampowered.com/app/4079190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Type Her to Sleep Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4092800/</link>
-  <guid isPermaLink="false">steam-store-published-4092800</guid>
-  <pubDate>Mon, 13 Oct 2025 02:48:59 +0000</pubDate>
-  <description>Ever spelled out your thoughts to fall asleep faster? Type Her to Sleep is a lo-fi cozy typing game about helping Ada get a good night&#x27;s rest by typing her bedtime thoughts. Before bed, you choose how she handles her workday dilemma, and your choice affects how peacefully she sleeps.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092800/fcc400ac7b57f19c0d811605e3a498c3934ce011/header.jpg?t=1760319936" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092800/fcc400ac7b57f19c0d811605e3a498c3934ce011/header.jpg?t=1760319936" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092800/fcc400ac7b57f19c0d811605e3a498c3934ce011/header.jpg?t=1760319936" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4092800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092800/fcc400ac7b57f19c0d811605e3a498c3934ce011/header.jpg?t=1760319936" alt="Type Her to Sleep Demo（新規追加）" /></a></p><p>Ever spelled out your thoughts to fall asleep faster? Type Her to Sleep is a lo-fi cozy typing game about helping Ada get a good night&#x27;s rest by typing her bedtime thoughts. Before bed, you choose how she handles her workday dilemma, and your choice affects how peacefully she sleeps.</p><p><a href="https://store.steampowered.com/app/4092800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
