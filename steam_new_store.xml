@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 14 Oct 2025 06:24:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Oct 2025 07:44:54 +0000</lastBuildDate>
+<item>
+  <title>Honu Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4092630/</link>
+  <guid isPermaLink="false">steam-store-published-4092630</guid>
+  <pubDate>Tue, 14 Oct 2025 07:44:54 +0000</pubDate>
+  <description>type=demo, appid=4092630</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092630/3eee06788d49f43fd3c14f9c2b2f12e7def12a0f/header.jpg?t=1760423029" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092630/3eee06788d49f43fd3c14f9c2b2f12e7def12a0f/header.jpg?t=1760423029" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092630/3eee06788d49f43fd3c14f9c2b2f12e7def12a0f/header.jpg?t=1760423029" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4092630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092630/3eee06788d49f43fd3c14f9c2b2f12e7def12a0f/header.jpg?t=1760423029" alt="Honu Demo（新規追加）" /></a></p><p>type=demo, appid=4092630</p><p><a href="https://store.steampowered.com/app/4092630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Room 304 - A Boys&#x27; Love Story（新規追加）</title>
   <link>https://store.steampowered.com/app/4059320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979310/572da24e5ef50dd1c84426b0fdd258306263ad16/header.jpg?t=1760284346" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979310/572da24e5ef50dd1c84426b0fdd258306263ad16/header.jpg?t=1760284346" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3979310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979310/572da24e5ef50dd1c84426b0fdd258306263ad16/header.jpg?t=1760284346" alt="HIDDEN CATS 6: After us（新規追加）" /></a></p><p>Explore the continuation of this mysterious robotic world of another civilization, finding cute cats and paint black - white locations with colored paints.</p><p><a href="https://store.steampowered.com/app/3979310/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Avalon Jewels（新規追加）</title>
-  <link>https://store.steampowered.com/app/4071330/</link>
-  <guid isPermaLink="false">steam-store-published-4071330</guid>
-  <pubDate>Sun, 12 Oct 2025 16:46:10 +0000</pubDate>
-  <description>Explore Avalon in this enchanting match-3 puzzle game! Solve 250+ levels, create Rainbow Gems, battle unique foes, and journey through magical lands. Relax at your pace or test your skills in Puzzle Mode.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071330/066aeeb04b8708133bbad0163ac549447ee5e067/header.jpg?t=1760281746" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071330/066aeeb04b8708133bbad0163ac549447ee5e067/header.jpg?t=1760281746" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071330/066aeeb04b8708133bbad0163ac549447ee5e067/header.jpg?t=1760281746" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4071330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071330/066aeeb04b8708133bbad0163ac549447ee5e067/header.jpg?t=1760281746" alt="Avalon Jewels（新規追加）" /></a></p><p>Explore Avalon in this enchanting match-3 puzzle game! Solve 250+ levels, create Rainbow Gems, battle unique foes, and journey through magical lands. Relax at your pace or test your skills in Puzzle Mode.</p><p><a href="https://store.steampowered.com/app/4071330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
