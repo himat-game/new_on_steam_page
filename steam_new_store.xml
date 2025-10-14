@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 14 Oct 2025 18:23:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Oct 2025 18:50:25 +0000</lastBuildDate>
+<item>
+  <title>The Apple Girl Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4076500/</link>
+  <guid isPermaLink="false">steam-store-published-4076500</guid>
+  <pubDate>Tue, 14 Oct 2025 18:50:25 +0000</pubDate>
+  <description>type=demo, appid=4076500</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076500/c8934d1277ed1eb0161a5434bfd33977c8aa1a91/header.jpg?t=1760465882" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076500/c8934d1277ed1eb0161a5434bfd33977c8aa1a91/header.jpg?t=1760465882" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076500/c8934d1277ed1eb0161a5434bfd33977c8aa1a91/header.jpg?t=1760465882" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4076500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076500/c8934d1277ed1eb0161a5434bfd33977c8aa1a91/header.jpg?t=1760465882" alt="The Apple Girl Demo（新規追加）" /></a></p><p>type=demo, appid=4076500</p><p><a href="https://store.steampowered.com/app/4076500/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hellborn: No Survivors（新規追加）</title>
   <link>https://store.steampowered.com/app/4022420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994360/73fdba9a9ef008dac43d1c4d6efcaa5848f93ed3/header.jpg?t=1760343576" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994360/73fdba9a9ef008dac43d1c4d6efcaa5848f93ed3/header.jpg?t=1760343576" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3994360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994360/73fdba9a9ef008dac43d1c4d6efcaa5848f93ed3/header.jpg?t=1760343576" alt="Knights of Messiah IF: Castle in an Alternate Dimension Demo（新規追加）" /></a></p><p>When Alicia and Maya are captured by the evil prince of Windsor, Ritz, you and your friends must explore dungeons in search of the Gemstones that&#x27;ll allow you to access his castle! This demo lets you explore one of the dungeons from the full game! Enjoy!</p><p><a href="https://store.steampowered.com/app/3994360/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pushkin vs Vampires（新規追加）</title>
-  <link>https://store.steampowered.com/app/3967140/</link>
-  <guid isPermaLink="false">steam-store-published-3967140</guid>
-  <pubDate>Mon, 13 Oct 2025 08:54:03 +0000</pubDate>
-  <description>A visceral, top-down twitch shooter in which a Russian daredevil hacks the vile undead to pieces against the shadow-drenched backdrop of 19th-century St. Petersburg.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967140/04ac23edaabf3a1dbcb6cd7abd62f1b8f3dd3eae/header.jpg?t=1760343009" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967140/04ac23edaabf3a1dbcb6cd7abd62f1b8f3dd3eae/header.jpg?t=1760343009" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967140/04ac23edaabf3a1dbcb6cd7abd62f1b8f3dd3eae/header.jpg?t=1760343009" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3967140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967140/04ac23edaabf3a1dbcb6cd7abd62f1b8f3dd3eae/header.jpg?t=1760343009" alt="Pushkin vs Vampires（新規追加）" /></a></p><p>A visceral, top-down twitch shooter in which a Russian daredevil hacks the vile undead to pieces against the shadow-drenched backdrop of 19th-century St. Petersburg.</p><p><a href="https://store.steampowered.com/app/3967140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
