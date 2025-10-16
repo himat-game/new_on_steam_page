@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 15 Oct 2025 22:44:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Oct 2025 23:44:38 +0000</lastBuildDate>
+<item>
+  <title>1v1 Me（新規追加）</title>
+  <link>https://store.steampowered.com/app/2194740/</link>
+  <guid isPermaLink="false">steam-store-published-2194740</guid>
+  <pubDate>Wed, 15 Oct 2025 23:44:38 +0000</pubDate>
+  <description>JUST. PLAY. BETTER. Use your powers as a living machine to shoot, dash, and slash through enemies as you outplay your opponents in a duel to the death in the dark. 1v1 Me is an easy to learn, but difficult to master arena fighter! Surpass your limits, right here, right now in 1v1 Me!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2194740/ef6a2426977d2d5f7641bfa6ec3a5a5ee4efc6af/header.jpg?t=1760569160" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2194740/ef6a2426977d2d5f7641bfa6ec3a5a5ee4efc6af/header.jpg?t=1760569160" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2194740/ef6a2426977d2d5f7641bfa6ec3a5a5ee4efc6af/header.jpg?t=1760569160" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2194740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2194740/ef6a2426977d2d5f7641bfa6ec3a5a5ee4efc6af/header.jpg?t=1760569160" alt="1v1 Me（新規追加）" /></a></p><p>JUST. PLAY. BETTER. Use your powers as a living machine to shoot, dash, and slash through enemies as you outplay your opponents in a duel to the death in the dark. 1v1 Me is an easy to learn, but difficult to master arena fighter! Surpass your limits, right here, right now in 1v1 Me!</p><p><a href="https://store.steampowered.com/app/2194740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Project:Null Hypothesis Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3196880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4065370/295caa33f34f364517985d05cc559bb2055baac4/header.jpg?t=1760453539" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4065370/295caa33f34f364517985d05cc559bb2055baac4/header.jpg?t=1760453539" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4065370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4065370/295caa33f34f364517985d05cc559bb2055baac4/header.jpg?t=1760453539" alt="Woj&#x27;s:Threads of Time（新規追加）" /></a></p><p>Play as Woj to run a successful vintage clothing store in space. Travel in time to different decades &amp;amp; places on Earth to buy inventory and try to match your customer wants for the most profit. Build your deck of contacts, develop your store, manage staff &amp;amp; create sponsored clothing with celebrities</p><p><a href="https://store.steampowered.com/app/4065370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>KasaSaburo&#x27;s Secret Fishing Spot（新規追加）</title>
-  <link>https://store.steampowered.com/app/2115670/</link>
-  <guid isPermaLink="false">steam-store-published-2115670</guid>
-  <pubDate>Tue, 14 Oct 2025 15:48:22 +0000</pubDate>
-  <description>Pixel frog fishing with a relaxing rhythm. Let KasaSaburo help you fish, collect curious species, and build your secret fishing spot</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115670/a146be14c10f0c9a37fb3b7014f4a48c93b74f6a/header.jpg?t=1760455109" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115670/a146be14c10f0c9a37fb3b7014f4a48c93b74f6a/header.jpg?t=1760455109" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115670/a146be14c10f0c9a37fb3b7014f4a48c93b74f6a/header.jpg?t=1760455109" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2115670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115670/a146be14c10f0c9a37fb3b7014f4a48c93b74f6a/header.jpg?t=1760455109" alt="KasaSaburo&#x27;s Secret Fishing Spot（新規追加）" /></a></p><p>Pixel frog fishing with a relaxing rhythm. Let KasaSaburo help you fish, collect curious species, and build your secret fishing spot</p><p><a href="https://store.steampowered.com/app/2115670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
