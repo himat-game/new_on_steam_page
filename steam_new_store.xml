@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 16 Oct 2025 14:52:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Oct 2025 15:17:23 +0000</lastBuildDate>
+<item>
+  <title>Als Gott schlief（新規追加）</title>
+  <link>https://store.steampowered.com/app/3979540/</link>
+  <guid isPermaLink="false">steam-store-published-3979540</guid>
+  <pubDate>Thu, 16 Oct 2025 15:17:23 +0000</pubDate>
+  <description>&amp;quot;Als Gott schlief&amp;quot; is an emotional and personal First-Person story-driven Adventure about the Holocaust. The Player explores, solves, and interacts with a chaotic and war-torn world around them to bear witness to the stories of three people, whose perspective on this atrocity could not differ more.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979540/618d8d01cdf29fed6ef7a98ae4e991e0795e4fe8/header.jpg?t=1760624803" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979540/618d8d01cdf29fed6ef7a98ae4e991e0795e4fe8/header.jpg?t=1760624803" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979540/618d8d01cdf29fed6ef7a98ae4e991e0795e4fe8/header.jpg?t=1760624803" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3979540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979540/618d8d01cdf29fed6ef7a98ae4e991e0795e4fe8/header.jpg?t=1760624803" alt="Als Gott schlief（新規追加）" /></a></p><p>&amp;quot;Als Gott schlief&amp;quot; is an emotional and personal First-Person story-driven Adventure about the Holocaust. The Player explores, solves, and interacts with a chaotic and war-torn world around them to bear witness to the stories of three people, whose perspective on this atrocity could not differ more.</p><p><a href="https://store.steampowered.com/app/3979540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sonny&#x27;s Lagoon（新規追加）</title>
   <link>https://store.steampowered.com/app/3976150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052210/d38af16be00d1501d24f8452eb73c367fb71de72/header.jpg?t=1760485132" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052210/d38af16be00d1501d24f8452eb73c367fb71de72/header.jpg?t=1760485132" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4052210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052210/d38af16be00d1501d24f8452eb73c367fb71de72/header.jpg?t=1760485132" alt="FuwaFuwa Survivors Demo（新規追加）" /></a></p><p>Survive with your fluffy companions! FuwaFuwa Survivors is a survivor-style action roguelite game. Control cute animals to fight through swarming enemies and defeat powerful bosses in tight 15minute run. Level up and combine skill evolutions with 50+ unique enchantments to forge your own builds!</p><p><a href="https://store.steampowered.com/app/4052210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>企布斯大冒險（新規追加）</title>
-  <link>https://store.steampowered.com/app/4047400/</link>
-  <guid isPermaLink="false">steam-store-published-4047400</guid>
-  <pubDate>Wed, 15 Oct 2025 01:13:30 +0000</pubDate>
-  <description>After waking up, Cybus finds out that his treasured, super-delicious cosmic fish has been stolen—and to make matters worse, a blizzard has blown a hole in his home’s wall. Join Cybus on his quest to reclaim the cosmic delicacy and see what absurd adventures await him along the way!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047400/722d997c622a39e61faada28a576e88182f1be90/header.jpg?t=1760485766" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047400/722d997c622a39e61faada28a576e88182f1be90/header.jpg?t=1760485766" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047400/722d997c622a39e61faada28a576e88182f1be90/header.jpg?t=1760485766" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4047400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047400/722d997c622a39e61faada28a576e88182f1be90/header.jpg?t=1760485766" alt="企布斯大冒險（新規追加）" /></a></p><p>After waking up, Cybus finds out that his treasured, super-delicious cosmic fish has been stolen—and to make matters worse, a blizzard has blown a hole in his home’s wall. Join Cybus on his quest to reclaim the cosmic delicacy and see what absurd adventures await him along the way!</p><p><a href="https://store.steampowered.com/app/4047400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
