@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 16 Oct 2025 09:48:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Oct 2025 10:18:15 +0000</lastBuildDate>
+<item>
+  <title>StoryFlow Editor（新規追加）</title>
+  <link>https://store.steampowered.com/app/4088380/</link>
+  <guid isPermaLink="false">steam-store-published-4088380</guid>
+  <pubDate>Thu, 16 Oct 2025 10:18:15 +0000</pubDate>
+  <description>StoryFlow Editor is a visual node-based tool for designing branching narratives and dialogue systems for games. If you&#x27;re building a narrative-heavy game and tired of juggling spreadsheets, docs, and text files, this is built for you. Export as HTML or JSON and use in Unity, Unreal Engine or Godot.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088380/554448724f104b20e2d10cba95c825ed26c4835d/header.jpg?t=1760607395" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088380/554448724f104b20e2d10cba95c825ed26c4835d/header.jpg?t=1760607395" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088380/554448724f104b20e2d10cba95c825ed26c4835d/header.jpg?t=1760607395" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4088380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088380/554448724f104b20e2d10cba95c825ed26c4835d/header.jpg?t=1760607395" alt="StoryFlow Editor（新規追加）" /></a></p><p>StoryFlow Editor is a visual node-based tool for designing branching narratives and dialogue systems for games. If you&#x27;re building a narrative-heavy game and tired of juggling spreadsheets, docs, and text files, this is built for you. Export as HTML or JSON and use in Unity, Unreal Engine or Godot.</p><p><a href="https://store.steampowered.com/app/4088380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Nightmare Class Project（新規追加）</title>
+  <link>https://store.steampowered.com/app/3939400/</link>
+  <guid isPermaLink="false">steam-store-published-3939400</guid>
+  <pubDate>Thu, 16 Oct 2025 10:18:15 +0000</pubDate>
+  <description>Nightmare Class Project is a PSX style 3rd person fantasy adventure game where you must survive through each day. Meet ambiguous people (and creatures), collect cosmetics, slide out of your dorm and uncover the secrets of the school, or die trying.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939400/9244a6da1c2f2c7cb024c88625e6164d1d4c90bf/header.jpg?t=1760606981" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939400/9244a6da1c2f2c7cb024c88625e6164d1d4c90bf/header.jpg?t=1760606981" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939400/9244a6da1c2f2c7cb024c88625e6164d1d4c90bf/header.jpg?t=1760606981" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3939400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939400/9244a6da1c2f2c7cb024c88625e6164d1d4c90bf/header.jpg?t=1760606981" alt="Nightmare Class Project（新規追加）" /></a></p><p>Nightmare Class Project is a PSX style 3rd person fantasy adventure game where you must survive through each day. Meet ambiguous people (and creatures), collect cosmetics, slide out of your dorm and uncover the secrets of the school, or die trying.</p><p><a href="https://store.steampowered.com/app/3939400/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dig a Hole Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3891110/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098390/95413bd0bddaeea6ebf6157e0626a1f3aa51fc93/header.jpg?t=1760475098" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098390/95413bd0bddaeea6ebf6157e0626a1f3aa51fc93/header.jpg?t=1760475098" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4098390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098390/95413bd0bddaeea6ebf6157e0626a1f3aa51fc93/header.jpg?t=1760475098" alt="Slay The King Demo（新規追加）" /></a></p><p>type=demo, appid=4098390</p><p><a href="https://store.steampowered.com/app/4098390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SALVO（新規追加）</title>
-  <link>https://store.steampowered.com/app/4076880/</link>
-  <guid isPermaLink="false">steam-store-published-4076880</guid>
-  <pubDate>Tue, 14 Oct 2025 21:44:35 +0000</pubDate>
-  <description>Experience cinematic space warfare in SALVO, an action packed real-time tactical combat simulator. Command your flagship and engage in intense battles in a war-torn solar system. Play a story-driven campaign, or forge your own destiny across the dangerous frontiers.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076880/86b6b6cf82dd33d9d644e2a83bd8aaf491f3cd22/header.jpg?t=1760474430" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076880/86b6b6cf82dd33d9d644e2a83bd8aaf491f3cd22/header.jpg?t=1760474430" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076880/86b6b6cf82dd33d9d644e2a83bd8aaf491f3cd22/header.jpg?t=1760474430" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4076880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076880/86b6b6cf82dd33d9d644e2a83bd8aaf491f3cd22/header.jpg?t=1760474430" alt="SALVO（新規追加）" /></a></p><p>Experience cinematic space warfare in SALVO, an action packed real-time tactical combat simulator. Command your flagship and engage in intense battles in a war-torn solar system. Play a story-driven campaign, or forge your own destiny across the dangerous frontiers.</p><p><a href="https://store.steampowered.com/app/4076880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Zupay: Shadows of Independence（新規追加）</title>
-  <link>https://store.steampowered.com/app/4074370/</link>
-  <guid isPermaLink="false">steam-store-published-4074370</guid>
-  <pubDate>Tue, 14 Oct 2025 21:44:35 +0000</pubDate>
-  <description>They messed with your homeland. A violent demon saved you from death and now pushes you to get revenge. In this Hack and Slash, explore a revolutionary land, merge with the environment, and consume your enemies&#x27; fear to unleash the Zupay.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074370/c8a50db82989fb203bb009794e2b7de1cf32f49d/header.jpg?t=1760475099" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074370/c8a50db82989fb203bb009794e2b7de1cf32f49d/header.jpg?t=1760475099" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074370/c8a50db82989fb203bb009794e2b7de1cf32f49d/header.jpg?t=1760475099" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4074370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074370/c8a50db82989fb203bb009794e2b7de1cf32f49d/header.jpg?t=1760475099" alt="Zupay: Shadows of Independence（新規追加）" /></a></p><p>They messed with your homeland. A violent demon saved you from death and now pushes you to get revenge. In this Hack and Slash, explore a revolutionary land, merge with the environment, and consume your enemies&#x27; fear to unleash the Zupay.</p><p><a href="https://store.steampowered.com/app/4074370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
