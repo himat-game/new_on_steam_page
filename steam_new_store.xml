@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 16 Oct 2025 16:21:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Oct 2025 16:51:11 +0000</lastBuildDate>
+<item>
+  <title>怪異ジャッジ・ドリーミー（新規追加）</title>
+  <link>https://store.steampowered.com/app/4098670/</link>
+  <guid isPermaLink="false">steam-store-published-4098670</guid>
+  <pubDate>Thu, 16 Oct 2025 16:51:11 +0000</pubDate>
+  <description>とびきりファンシーな怪異調査ノベルゲーム短編集！ メカクレ青年ハマメが、夢のような不思議な世界へ！</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098670/fd9117fa4115e27b73f936c9a005c5876de4c97d/header.jpg?t=1760631813" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098670/fd9117fa4115e27b73f936c9a005c5876de4c97d/header.jpg?t=1760631813" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098670/fd9117fa4115e27b73f936c9a005c5876de4c97d/header.jpg?t=1760631813" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4098670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098670/fd9117fa4115e27b73f936c9a005c5876de4c97d/header.jpg?t=1760631813" alt="怪異ジャッジ・ドリーミー（新規追加）" /></a></p><p>とびきりファンシーな怪異調査ノベルゲーム短編集！ メカクレ青年ハマメが、夢のような不思議な世界へ！</p><p><a href="https://store.steampowered.com/app/4098670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Fellowship - Wanderer’s Supporter Pack（新規追加）</title>
   <link>https://store.steampowered.com/app/4082980/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090860/2e6cf0ea7309abfaac171fab7d44a63c7d0c1382/header.jpg?t=1760502364" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090860/2e6cf0ea7309abfaac171fab7d44a63c7d0c1382/header.jpg?t=1760502364" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4090860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090860/2e6cf0ea7309abfaac171fab7d44a63c7d0c1382/header.jpg?t=1760502364" alt="Micro Macro Farm: Enchanted Fields（新規追加）" /></a></p><p>Grow magical crops, care for mystical creatures, and uncover the secrets of the enchanted valley in this cozy pixel farming adventure. Expand your land, craft potions, and let your helpers keep the farm alive while you shape your own spellbound homestead.</p><p><a href="https://store.steampowered.com/app/4090860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Anvilium: Forge Defense（新規追加）</title>
-  <link>https://store.steampowered.com/app/3893760/</link>
-  <guid isPermaLink="false">steam-store-published-3893760</guid>
-  <pubDate>Wed, 15 Oct 2025 05:45:37 +0000</pubDate>
-  <description>Defend Anvilium from endless waves of goblins and monsters! A tower defense roguelite where you deploy mighty golems, unleash powerful spells, and craft crazy builds through deep customization. Adapt your strategy, grow stronger, and see how long you can survive against ever-escalating threats.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893760/19e06513db66e552e2c1dba1ce9fb712e61444e6/header.jpg?t=1760504257" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893760/19e06513db66e552e2c1dba1ce9fb712e61444e6/header.jpg?t=1760504257" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893760/19e06513db66e552e2c1dba1ce9fb712e61444e6/header.jpg?t=1760504257" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3893760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893760/19e06513db66e552e2c1dba1ce9fb712e61444e6/header.jpg?t=1760504257" alt="Anvilium: Forge Defense（新規追加）" /></a></p><p>Defend Anvilium from endless waves of goblins and monsters! A tower defense roguelite where you deploy mighty golems, unleash powerful spells, and craft crazy builds through deep customization. Adapt your strategy, grow stronger, and see how long you can survive against ever-escalating threats.</p><p><a href="https://store.steampowered.com/app/3893760/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
