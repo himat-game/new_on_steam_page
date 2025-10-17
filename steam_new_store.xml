@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 17 Oct 2025 06:51:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Oct 2025 07:44:45 +0000</lastBuildDate>
+<item>
+  <title>The Predecessor（新規追加）</title>
+  <link>https://store.steampowered.com/app/4077160/</link>
+  <guid isPermaLink="false">steam-store-published-4077160</guid>
+  <pubDate>Fri, 17 Oct 2025 07:44:45 +0000</pubDate>
+  <description>Exploration-focused walking simulator. Traverse abstract worlds. Interact with enigmatic characters. Collect memories from the one who came before you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077160/94b27e150c665f310585f86fd67c234b470c92e8/header.jpg?t=1760683199" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077160/94b27e150c665f310585f86fd67c234b470c92e8/header.jpg?t=1760683199" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077160/94b27e150c665f310585f86fd67c234b470c92e8/header.jpg?t=1760683199" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4077160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077160/94b27e150c665f310585f86fd67c234b470c92e8/header.jpg?t=1760683199" alt="The Predecessor（新規追加）" /></a></p><p>Exploration-focused walking simulator. Traverse abstract worlds. Interact with enigmatic characters. Collect memories from the one who came before you.</p><p><a href="https://store.steampowered.com/app/4077160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Survalker（新規追加）</title>
   <link>https://store.steampowered.com/app/4071710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100890/dd659cfd7f59eaa54ce6cee9e5c0935223497347/header.jpg?t=1760553097" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100890/dd659cfd7f59eaa54ce6cee9e5c0935223497347/header.jpg?t=1760553097" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4100890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100890/dd659cfd7f59eaa54ce6cee9e5c0935223497347/header.jpg?t=1760553097" alt="でびるコネクショん - Original Soundtrack（新規追加）" /></a></p><p>This is the official soundtrack to the world of &amp;quot;Devil Connection&amp;quot;.</p><p><a href="https://store.steampowered.com/app/4100890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ARIA-404: Labyrinth Protocol（新規追加）</title>
-  <link>https://store.steampowered.com/app/4061580/</link>
-  <guid isPermaLink="false">steam-store-published-4061580</guid>
-  <pubDate>Wed, 15 Oct 2025 18:52:30 +0000</pubDate>
-  <description>A cyber‑mythic interactive narrative game blending quick‑time events with rich narrative-driven gameplay, &amp;amp; AI‑generated worlds. Shape the evolving Labyrinth &amp;amp; uncover its secrets in this solo‑developed revolution in interactive storytelling.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061580/abc9444dff224346128ce79553b9dfef11e9c603/header.jpg?t=1760551819" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061580/abc9444dff224346128ce79553b9dfef11e9c603/header.jpg?t=1760551819" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061580/abc9444dff224346128ce79553b9dfef11e9c603/header.jpg?t=1760551819" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4061580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061580/abc9444dff224346128ce79553b9dfef11e9c603/header.jpg?t=1760551819" alt="ARIA-404: Labyrinth Protocol（新規追加）" /></a></p><p>A cyber‑mythic interactive narrative game blending quick‑time events with rich narrative-driven gameplay, &amp;amp; AI‑generated worlds. Shape the evolving Labyrinth &amp;amp; uncover its secrets in this solo‑developed revolution in interactive storytelling.</p><p><a href="https://store.steampowered.com/app/4061580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
