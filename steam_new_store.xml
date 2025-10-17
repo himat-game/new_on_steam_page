@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 17 Oct 2025 10:17:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Oct 2025 10:48:54 +0000</lastBuildDate>
+<item>
+  <title>Gold Rush Ventures Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4084540/</link>
+  <guid isPermaLink="false">steam-store-published-4084540</guid>
+  <pubDate>Fri, 17 Oct 2025 10:48:54 +0000</pubDate>
+  <description>type=game, appid=4084540</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084540/e5f202b4023aabc2e10ec5ca63c9466c6de2f3e4/header.jpg?t=1760695026" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084540/e5f202b4023aabc2e10ec5ca63c9466c6de2f3e4/header.jpg?t=1760695026" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084540/e5f202b4023aabc2e10ec5ca63c9466c6de2f3e4/header.jpg?t=1760695026" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4084540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084540/e5f202b4023aabc2e10ec5ca63c9466c6de2f3e4/header.jpg?t=1760695026" alt="Gold Rush Ventures Playtest（新規追加）" /></a></p><p>type=game, appid=4084540</p><p><a href="https://store.steampowered.com/app/4084540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>MineDeeper（新規追加）</title>
   <link>https://store.steampowered.com/app/4104630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078820/a07c7a0244706ba2ea734fba2b78ffe91f56ba7e/header.jpg?t=1760556163" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078820/a07c7a0244706ba2ea734fba2b78ffe91f56ba7e/header.jpg?t=1760556163" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4078820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078820/a07c7a0244706ba2ea734fba2b78ffe91f56ba7e/header.jpg?t=1760556163" alt="Sky Rush（新規追加）" /></a></p><p>Race as birds down colorful slopes, build speed by sliding smoothly, and compete for best times with friends across diverse worlds like Mushroom, Grass, and Ice. Fun, fast-paced, and all about improving your record.</p><p><a href="https://store.steampowered.com/app/4078820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mutter（新規追加）</title>
-  <link>https://store.steampowered.com/app/2301240/</link>
-  <guid isPermaLink="false">steam-store-published-2301240</guid>
-  <pubDate>Wed, 15 Oct 2025 20:48:08 +0000</pubDate>
-  <description>In the midst of war, a far more personal horror takes root at home. Your mother is becoming a monster. Survive, uncover the truth, and navigate a heartbreaking bond in this unique stop-motion narrative horror adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301240/b97347733f877ad2e1678038d45e9af8c197cd9e/header.jpg?t=1760558031" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301240/b97347733f877ad2e1678038d45e9af8c197cd9e/header.jpg?t=1760558031" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301240/b97347733f877ad2e1678038d45e9af8c197cd9e/header.jpg?t=1760558031" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2301240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301240/b97347733f877ad2e1678038d45e9af8c197cd9e/header.jpg?t=1760558031" alt="Mutter（新規追加）" /></a></p><p>In the midst of war, a far more personal horror takes root at home. Your mother is becoming a monster. Survive, uncover the truth, and navigate a heartbreaking bond in this unique stop-motion narrative horror adventure.</p><p><a href="https://store.steampowered.com/app/2301240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
