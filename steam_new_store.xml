@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Oct 2025 01:20:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 03:06:21 +0000</lastBuildDate>
+<item>
+  <title>Salt VS Pepper（新規追加）</title>
+  <link>https://store.steampowered.com/app/3928310/</link>
+  <guid isPermaLink="false">steam-store-published-3928310</guid>
+  <pubDate>Sun, 19 Oct 2025 03:06:21 +0000</pubDate>
+  <description>Salt VS Pepper is a twin-stick shooter where you switch between black and white every 3 seconds, leaving behind an evil clone every time you switch! Use guns, walls, bowling balls, and anything in between as a weapon!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928310/af217e7422eeebab670861b4bdf5a21067d01860/header.jpg?t=1760837895" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928310/af217e7422eeebab670861b4bdf5a21067d01860/header.jpg?t=1760837895" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928310/af217e7422eeebab670861b4bdf5a21067d01860/header.jpg?t=1760837895" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3928310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928310/af217e7422eeebab670861b4bdf5a21067d01860/header.jpg?t=1760837895" alt="Salt VS Pepper（新規追加）" /></a></p><p>Salt VS Pepper is a twin-stick shooter where you switch between black and white every 3 seconds, leaving behind an evil clone every time you switch! Use guns, walls, bowling balls, and anything in between as a weapon!</p><p><a href="https://store.steampowered.com/app/3928310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Untold Winter Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3772520/</link>
+  <guid isPermaLink="false">steam-store-published-3772520</guid>
+  <pubDate>Sun, 19 Oct 2025 03:06:21 +0000</pubDate>
+  <description>type=demo, appid=3772520</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772520/9937a691747628f1a79b4ee954930810e42fcb6d/header.jpg?t=1760834451" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772520/9937a691747628f1a79b4ee954930810e42fcb6d/header.jpg?t=1760834451" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772520/9937a691747628f1a79b4ee954930810e42fcb6d/header.jpg?t=1760834451" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3772520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772520/9937a691747628f1a79b4ee954930810e42fcb6d/header.jpg?t=1760834451" alt="Untold Winter Demo（新規追加）" /></a></p><p>type=demo, appid=3772520</p><p><a href="https://store.steampowered.com/app/3772520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Abyssal Acres Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3969680/</link>
+  <guid isPermaLink="false">steam-store-published-3969680</guid>
+  <pubDate>Sun, 19 Oct 2025 03:06:21 +0000</pubDate>
+  <description>type=game, appid=3969680</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969680/492847c70083166069d065318f5c07e19c031bcb/header.jpg?t=1760837102" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969680/492847c70083166069d065318f5c07e19c031bcb/header.jpg?t=1760837102" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969680/492847c70083166069d065318f5c07e19c031bcb/header.jpg?t=1760837102" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3969680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969680/492847c70083166069d065318f5c07e19c031bcb/header.jpg?t=1760837102" alt="Abyssal Acres Playtest（新規追加）" /></a></p><p>type=game, appid=3969680</p><p><a href="https://store.steampowered.com/app/3969680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>8AM: The Shopping Mall（新規追加）</title>
   <link>https://store.steampowered.com/app/4100810/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411230/header.jpg?t=1760638954" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411230/header.jpg?t=1760638954" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3411230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411230/header.jpg?t=1760638954" alt="ChloroLink（新規追加）" /></a></p><p>In ChloroLink, a cute and cozy management game, guide Lux the plant of life as she spreads her rootweave to connect charming plants. Use each plant’s growth pattern to explore, reinforce the links between plants, overcome gentle challenges, and help Lux bloom the world back to life!</p><p><a href="https://store.steampowered.com/app/3411230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Summer Adventurers: Mediterranean（新規追加）</title>
-  <link>https://store.steampowered.com/app/4085560/</link>
-  <guid isPermaLink="false">steam-store-published-4085560</guid>
-  <pubDate>Thu, 16 Oct 2025 19:45:11 +0000</pubDate>
-  <description>Relax and explore the Mediterranean in a charming hidden-object adventure. Find cleverly hidden items, solve mini-puzzles, and uncover bonus sublevels filled with secrets!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085560/cf8c7b9610108fc4c3daaeb48d69c64b549ad511/header.jpg?t=1760640735" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085560/cf8c7b9610108fc4c3daaeb48d69c64b549ad511/header.jpg?t=1760640735" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085560/cf8c7b9610108fc4c3daaeb48d69c64b549ad511/header.jpg?t=1760640735" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4085560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4085560/cf8c7b9610108fc4c3daaeb48d69c64b549ad511/header.jpg?t=1760640735" alt="Summer Adventurers: Mediterranean（新規追加）" /></a></p><p>Relax and explore the Mediterranean in a charming hidden-object adventure. Find cleverly hidden items, solve mini-puzzles, and uncover bonus sublevels filled with secrets!</p><p><a href="https://store.steampowered.com/app/4085560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Goblinna&#x27;s Garden（新規追加）</title>
-  <link>https://store.steampowered.com/app/4087010/</link>
-  <guid isPermaLink="false">steam-store-published-4087010</guid>
-  <pubDate>Thu, 16 Oct 2025 19:45:11 +0000</pubDate>
-  <description>Quick to start play tower defence. Use 7 unique towers to squash waves of 10 unique enemy types. Dynamically change the maze map by raising and lowering dirt to block off parts of the path. Enjoy endless replayability with map customizers to allow for a personalized tower defence experience!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087010/420c3b78c97187614ad88459d2fcfac63e3b21da/header.jpg?t=1760639830" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087010/420c3b78c97187614ad88459d2fcfac63e3b21da/header.jpg?t=1760639830" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087010/420c3b78c97187614ad88459d2fcfac63e3b21da/header.jpg?t=1760639830" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4087010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087010/420c3b78c97187614ad88459d2fcfac63e3b21da/header.jpg?t=1760639830" alt="Goblinna&#x27;s Garden（新規追加）" /></a></p><p>Quick to start play tower defence. Use 7 unique towers to squash waves of 10 unique enemy types. Dynamically change the maze map by raising and lowering dirt to block off parts of the path. Enjoy endless replayability with map customizers to allow for a personalized tower defence experience!</p><p><a href="https://store.steampowered.com/app/4087010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Isometric Factories（新規追加）</title>
-  <link>https://store.steampowered.com/app/3718050/</link>
-  <guid isPermaLink="false">steam-store-published-3718050</guid>
-  <pubDate>Thu, 16 Oct 2025 18:52:03 +0000</pubDate>
-  <description>Construct sprawling factories in the void of space, unlock new eras of technology, and expand your influence from a single planet to the vastness of multiple solar systems. From survival to galactic domination—mine, build, trade, and expand across solar systems.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718050/ca864d17ca0ef8b99842cafb878ae299edd39479/header.jpg?t=1760638055" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718050/ca864d17ca0ef8b99842cafb878ae299edd39479/header.jpg?t=1760638055" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718050/ca864d17ca0ef8b99842cafb878ae299edd39479/header.jpg?t=1760638055" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3718050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718050/ca864d17ca0ef8b99842cafb878ae299edd39479/header.jpg?t=1760638055" alt="Isometric Factories（新規追加）" /></a></p><p>Construct sprawling factories in the void of space, unlock new eras of technology, and expand your influence from a single planet to the vastness of multiple solar systems. From survival to galactic domination—mine, build, trade, and expand across solar systems.</p><p><a href="https://store.steampowered.com/app/3718050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
