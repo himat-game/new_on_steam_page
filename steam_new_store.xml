@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Oct 2025 03:06:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 05:45:17 +0000</lastBuildDate>
+<item>
+  <title>After Dark（新規追加）</title>
+  <link>https://store.steampowered.com/app/4104020/</link>
+  <guid isPermaLink="false">steam-store-published-4104020</guid>
+  <pubDate>Sun, 19 Oct 2025 05:45:17 +0000</pubDate>
+  <description>After Dark is a first-person endless wave zombie shooter set across multiple locations. Survive as long as you can against relentless hordes of the dead in a fight that only ends when you do.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104020/2885689671f5220590f487ce40f848350f13d300/header.jpg?t=1760846381" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104020/2885689671f5220590f487ce40f848350f13d300/header.jpg?t=1760846381" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104020/2885689671f5220590f487ce40f848350f13d300/header.jpg?t=1760846381" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4104020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104020/2885689671f5220590f487ce40f848350f13d300/header.jpg?t=1760846381" alt="After Dark（新規追加）" /></a></p><p>After Dark is a first-person endless wave zombie shooter set across multiple locations. Survive as long as you can against relentless hordes of the dead in a fight that only ends when you do.</p><p><a href="https://store.steampowered.com/app/4104020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Salt VS Pepper（新規追加）</title>
   <link>https://store.steampowered.com/app/3928310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080150/1eb385b13ea5dda20f082a85494ad306db271f79/header.jpg?t=1760638735" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080150/1eb385b13ea5dda20f082a85494ad306db271f79/header.jpg?t=1760638735" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4080150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080150/1eb385b13ea5dda20f082a85494ad306db271f79/header.jpg?t=1760638735" alt="Y.E.L.L.（新規追加）" /></a></p><p>Scream to survive! In this chaotic voice-controlled brawler, yell instructions to move your dumb animal warrior. Battle friends or bots in explosive arenas where silence means death, and luck means victory!</p><p><a href="https://store.steampowered.com/app/4080150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ChloroLink（新規追加）</title>
-  <link>https://store.steampowered.com/app/3411230/</link>
-  <guid isPermaLink="false">steam-store-published-3411230</guid>
-  <pubDate>Thu, 16 Oct 2025 19:45:11 +0000</pubDate>
-  <description>In ChloroLink, a cute and cozy management game, guide Lux the plant of life as she spreads her rootweave to connect charming plants. Use each plant’s growth pattern to explore, reinforce the links between plants, overcome gentle challenges, and help Lux bloom the world back to life!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411230/header.jpg?t=1760638954" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411230/header.jpg?t=1760638954" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411230/header.jpg?t=1760638954" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3411230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3411230/header.jpg?t=1760638954" alt="ChloroLink（新規追加）" /></a></p><p>In ChloroLink, a cute and cozy management game, guide Lux the plant of life as she spreads her rootweave to connect charming plants. Use each plant’s growth pattern to explore, reinforce the links between plants, overcome gentle challenges, and help Lux bloom the world back to life!</p><p><a href="https://store.steampowered.com/app/3411230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
