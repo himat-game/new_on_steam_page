@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Oct 2025 20:44:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 22:44:21 +0000</lastBuildDate>
+<item>
+  <title>Alien Attorney Adventure Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4105710/</link>
+  <guid isPermaLink="false">steam-store-published-4105710</guid>
+  <pubDate>Sun, 19 Oct 2025 22:44:21 +0000</pubDate>
+  <description>type=game, appid=4105710</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105710/cb2de6f8dc20fc2bf71c4a53af8ae7316d63a53f/header.jpg?t=1760907704" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105710/cb2de6f8dc20fc2bf71c4a53af8ae7316d63a53f/header.jpg?t=1760907704" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105710/cb2de6f8dc20fc2bf71c4a53af8ae7316d63a53f/header.jpg?t=1760907704" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4105710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105710/cb2de6f8dc20fc2bf71c4a53af8ae7316d63a53f/header.jpg?t=1760907704" alt="Alien Attorney Adventure Playtest（新規追加）" /></a></p><p>type=game, appid=4105710</p><p><a href="https://store.steampowered.com/app/4105710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SempRecord（新規追加）</title>
   <link>https://store.steampowered.com/app/3980280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080740/643dc4e4ab6054fe2c4559768c71cb976212312c/header.jpg?t=1760653340" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080740/643dc4e4ab6054fe2c4559768c71cb976212312c/header.jpg?t=1760653340" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4080740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080740/643dc4e4ab6054fe2c4559768c71cb976212312c/header.jpg?t=1760653340" alt="The Man Who Walked（新規追加）" /></a></p><p>The Man Who Walked invites you to solve relaxing puzzles by switching between two worlds: in 2D you rearrange the environment, in 3D you explore it. Only by combining both perspectives will you uncover the end of the story.</p><p><a href="https://store.steampowered.com/app/4080740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dream Eater（新規追加）</title>
-  <link>https://store.steampowered.com/app/4055060/</link>
-  <guid isPermaLink="false">steam-store-published-4055060</guid>
-  <pubDate>Thu, 16 Oct 2025 23:44:48 +0000</pubDate>
-  <description>Dream Eater is a turn-based RPG about exploring a dark land that dreams no more. Recruit new party members, slay monsters, manage resources, and craft items as you journey to Originaught Castle in search of answers. Can you help them dream again?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055060/5ac58a9f8412c04a5cd0830c684928a23ee5b717/header.jpg?t=1760652383" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055060/5ac58a9f8412c04a5cd0830c684928a23ee5b717/header.jpg?t=1760652383" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055060/5ac58a9f8412c04a5cd0830c684928a23ee5b717/header.jpg?t=1760652383" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4055060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055060/5ac58a9f8412c04a5cd0830c684928a23ee5b717/header.jpg?t=1760652383" alt="Dream Eater（新規追加）" /></a></p><p>Dream Eater is a turn-based RPG about exploring a dark land that dreams no more. Recruit new party members, slay monsters, manage resources, and craft items as you journey to Originaught Castle in search of answers. Can you help them dream again?</p><p><a href="https://store.steampowered.com/app/4055060/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
