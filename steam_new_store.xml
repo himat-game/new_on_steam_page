@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Oct 2025 11:44:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 13:02:38 +0000</lastBuildDate>
+<item>
+  <title>ホロライブファンタジーバトル（新規追加）</title>
+  <link>https://store.steampowered.com/app/4003770/</link>
+  <guid isPermaLink="false">steam-store-published-4003770</guid>
+  <pubDate>Sun, 19 Oct 2025 13:02:38 +0000</pubDate>
+  <description>-Hololive 3rd Generation Members Unleash Chaos in Battle-</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003770/a6d6899aec90523bc04f48c34f7bd2435ab7a9df/header.jpg?t=1760875194" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003770/a6d6899aec90523bc04f48c34f7bd2435ab7a9df/header.jpg?t=1760875194" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003770/a6d6899aec90523bc04f48c34f7bd2435ab7a9df/header.jpg?t=1760875194" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4003770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003770/a6d6899aec90523bc04f48c34f7bd2435ab7a9df/header.jpg?t=1760875194" alt="ホロライブファンタジーバトル（新規追加）" /></a></p><p>-Hololive 3rd Generation Members Unleash Chaos in Battle-</p><p><a href="https://store.steampowered.com/app/4003770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PROJECT X Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3899210/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104760/906f5f065798391fe84c79a968de48de7630221d/header.jpg?t=1760646222" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104760/906f5f065798391fe84c79a968de48de7630221d/header.jpg?t=1760646222" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4104760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104760/906f5f065798391fe84c79a968de48de7630221d/header.jpg?t=1760646222" alt="Fixer Toolkit – Window &amp; Layout Manager（新規追加）" /></a></p><p>Take full control of your windows and games. Resize, move, go borderless or fullscreen, keep on top, add colorful borders, lock your mouse inside the window, and save your perfect layouts.</p><p><a href="https://store.steampowered.com/app/4104760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Catfighter, In the Lands of Sinners（新規追加）</title>
-  <link>https://store.steampowered.com/app/3664280/</link>
-  <guid isPermaLink="false">steam-store-published-3664280</guid>
-  <pubDate>Thu, 16 Oct 2025 21:45:03 +0000</pubDate>
-  <description>A fantasy Souls-like and CUTE~ top-down action game. Step into the despised Lands of Sinners as Mickesh, where lovely cats enjoy fast-paced battles, family friendly interactions, and the most adorable ?sUfF3r1nG? imaginable!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664280/c131b01e07ba66a897be76533ed03f6728de6bf3/header.jpg?t=1760649617" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664280/c131b01e07ba66a897be76533ed03f6728de6bf3/header.jpg?t=1760649617" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664280/c131b01e07ba66a897be76533ed03f6728de6bf3/header.jpg?t=1760649617" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3664280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664280/c131b01e07ba66a897be76533ed03f6728de6bf3/header.jpg?t=1760649617" alt="Catfighter, In the Lands of Sinners（新規追加）" /></a></p><p>A fantasy Souls-like and CUTE~ top-down action game. Step into the despised Lands of Sinners as Mickesh, where lovely cats enjoy fast-paced battles, family friendly interactions, and the most adorable ?sUfF3r1nG? imaginable!</p><p><a href="https://store.steampowered.com/app/3664280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
