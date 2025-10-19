@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Oct 2025 05:45:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 07:44:17 +0000</lastBuildDate>
+<item>
+  <title>Internal Incident Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4094920/</link>
+  <guid isPermaLink="false">steam-store-published-4094920</guid>
+  <pubDate>Sun, 19 Oct 2025 07:44:17 +0000</pubDate>
+  <description>type=demo, appid=4094920</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094920/9bb2291aef4c8d67947782bc9704300878f813c4/header.jpg?t=1760851779" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094920/9bb2291aef4c8d67947782bc9704300878f813c4/header.jpg?t=1760851779" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094920/9bb2291aef4c8d67947782bc9704300878f813c4/header.jpg?t=1760851779" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4094920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094920/9bb2291aef4c8d67947782bc9704300878f813c4/header.jpg?t=1760851779" alt="Internal Incident Demo（新規追加）" /></a></p><p>type=demo, appid=4094920</p><p><a href="https://store.steampowered.com/app/4094920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Ancient Chinese Cities (Playtest)（新規追加）</title>
+  <link>https://store.steampowered.com/app/3989840/</link>
+  <guid isPermaLink="false">steam-store-published-3989840</guid>
+  <pubDate>Sun, 19 Oct 2025 07:44:17 +0000</pubDate>
+  <description>type=game, appid=3989840</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989840/628861dc38d980e0670f1a71e1f754289f2a7ee5/header.jpg?t=1760852255" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989840/628861dc38d980e0670f1a71e1f754289f2a7ee5/header.jpg?t=1760852255" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989840/628861dc38d980e0670f1a71e1f754289f2a7ee5/header.jpg?t=1760852255" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3989840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989840/628861dc38d980e0670f1a71e1f754289f2a7ee5/header.jpg?t=1760852255" alt="Ancient Chinese Cities (Playtest)（新規追加）" /></a></p><p>type=game, appid=3989840</p><p><a href="https://store.steampowered.com/app/3989840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Floor 13（新規追加）</title>
+  <link>https://store.steampowered.com/app/4105730/</link>
+  <guid isPermaLink="false">steam-store-published-4105730</guid>
+  <pubDate>Sun, 19 Oct 2025 07:44:17 +0000</pubDate>
+  <description>In Floor13, reality doesn’t change all at once — it shifts quietly, waiting for you to notice.You walk the same office corridor over and over, but something always feels… slightly off.Your task is simple: observe, detect, report. If you fail to see the difference, the corridor will keep you forever.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105730/9edb0937cc7e87d46d379d2276ee5818f8d32609/header.jpg?t=1760855766" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105730/9edb0937cc7e87d46d379d2276ee5818f8d32609/header.jpg?t=1760855766" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105730/9edb0937cc7e87d46d379d2276ee5818f8d32609/header.jpg?t=1760855766" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4105730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105730/9edb0937cc7e87d46d379d2276ee5818f8d32609/header.jpg?t=1760855766" alt="Floor 13（新規追加）" /></a></p><p>In Floor13, reality doesn’t change all at once — it shifts quietly, waiting for you to notice.You walk the same office corridor over and over, but something always feels… slightly off.Your task is simple: observe, detect, report. If you fail to see the difference, the corridor will keep you forever.</p><p><a href="https://store.steampowered.com/app/4105730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>After Dark（新規追加）</title>
   <link>https://store.steampowered.com/app/4104020/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377150/7771c2a1fe7f011037fdf3c5fee9705e13e9869a/header.jpg?t=1760647176" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377150/7771c2a1fe7f011037fdf3c5fee9705e13e9869a/header.jpg?t=1760647176" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3377150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3377150/7771c2a1fe7f011037fdf3c5fee9705e13e9869a/header.jpg?t=1760647176" alt="Battle Lads（新規追加）" /></a></p><p>A roguelike action-strategy of chaotic tribal warfare. Fight alongside your troops while barking commands as the chief of your tribe. Each run, draft new champions, experiment with artifacts and upgrades, and conquer shifting maps that play differently every time.</p><p><a href="https://store.steampowered.com/app/3377150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>EXD - Extra Dimensional（新規追加）</title>
-  <link>https://store.steampowered.com/app/3962020/</link>
-  <guid isPermaLink="false">steam-store-published-3962020</guid>
-  <pubDate>Thu, 16 Oct 2025 19:45:11 +0000</pubDate>
-  <description>A delivery guy. A dimensional rift. A quest across another world. Master telekinesis and elemental magic in Erath, where everyday objects become legendary weapons. Battle mythical creatures. Solve ancient puzzles. Uncover dark truths. Advanced VR physics meet epic fantasy adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962020/b9607a4d63f5480c3a4558cf0f41977606980d6e/header.jpg?t=1760640225" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962020/b9607a4d63f5480c3a4558cf0f41977606980d6e/header.jpg?t=1760640225" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962020/b9607a4d63f5480c3a4558cf0f41977606980d6e/header.jpg?t=1760640225" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3962020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962020/b9607a4d63f5480c3a4558cf0f41977606980d6e/header.jpg?t=1760640225" alt="EXD - Extra Dimensional（新規追加）" /></a></p><p>A delivery guy. A dimensional rift. A quest across another world. Master telekinesis and elemental magic in Erath, where everyday objects become legendary weapons. Battle mythical creatures. Solve ancient puzzles. Uncover dark truths. Advanced VR physics meet epic fantasy adventure.</p><p><a href="https://store.steampowered.com/app/3962020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Happy Hour（新規追加）</title>
-  <link>https://store.steampowered.com/app/4078340/</link>
-  <guid isPermaLink="false">steam-store-published-4078340</guid>
-  <pubDate>Thu, 16 Oct 2025 19:45:11 +0000</pubDate>
-  <description>Happy Hour is a first-person adventure game focused on relationships. Explore the office, meet characters, build and manage connections, and guide the story through your choices. But be careful, the night may heat up in ways you didn’t expect.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078340/4c0f9353f032134ab339984dbb5dba589459a4dc/header.jpg?t=1760638861" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078340/4c0f9353f032134ab339984dbb5dba589459a4dc/header.jpg?t=1760638861" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078340/4c0f9353f032134ab339984dbb5dba589459a4dc/header.jpg?t=1760638861" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4078340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078340/4c0f9353f032134ab339984dbb5dba589459a4dc/header.jpg?t=1760638861" alt="Happy Hour（新規追加）" /></a></p><p>Happy Hour is a first-person adventure game focused on relationships. Explore the office, meet characters, build and manage connections, and guide the story through your choices. But be careful, the night may heat up in ways you didn’t expect.</p><p><a href="https://store.steampowered.com/app/4078340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Y.E.L.L.（新規追加）</title>
-  <link>https://store.steampowered.com/app/4080150/</link>
-  <guid isPermaLink="false">steam-store-published-4080150</guid>
-  <pubDate>Thu, 16 Oct 2025 19:45:11 +0000</pubDate>
-  <description>Scream to survive! In this chaotic voice-controlled brawler, yell instructions to move your dumb animal warrior. Battle friends or bots in explosive arenas where silence means death, and luck means victory!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080150/1eb385b13ea5dda20f082a85494ad306db271f79/header.jpg?t=1760638735" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080150/1eb385b13ea5dda20f082a85494ad306db271f79/header.jpg?t=1760638735" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080150/1eb385b13ea5dda20f082a85494ad306db271f79/header.jpg?t=1760638735" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4080150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080150/1eb385b13ea5dda20f082a85494ad306db271f79/header.jpg?t=1760638735" alt="Y.E.L.L.（新規追加）" /></a></p><p>Scream to survive! In this chaotic voice-controlled brawler, yell instructions to move your dumb animal warrior. Battle friends or bots in explosive arenas where silence means death, and luck means victory!</p><p><a href="https://store.steampowered.com/app/4080150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
