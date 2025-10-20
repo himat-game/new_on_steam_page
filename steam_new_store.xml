@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 20 Oct 2025 03:45:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 04:22:25 +0000</lastBuildDate>
+<item>
+  <title>简单飞行 Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3983530/</link>
+  <guid isPermaLink="false">steam-store-published-3983530</guid>
+  <pubDate>Mon, 20 Oct 2025 04:22:25 +0000</pubDate>
+  <description>type=demo, appid=3983530</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983530/578421a65214f708e8075c9d3dd166d89da45cd7/header.jpg?t=1760931830" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983530/578421a65214f708e8075c9d3dd166d89da45cd7/header.jpg?t=1760931830" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983530/578421a65214f708e8075c9d3dd166d89da45cd7/header.jpg?t=1760931830" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3983530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983530/578421a65214f708e8075c9d3dd166d89da45cd7/header.jpg?t=1760931830" alt="简单飞行 Demo（新規追加）" /></a></p><p>type=demo, appid=3983530</p><p><a href="https://store.steampowered.com/app/3983530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>KALPA: Cosmic Symphony - Rotaeno Collaboration Pack（新規追加）</title>
   <link>https://store.steampowered.com/app/4108350/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044520/dfa73e0fb7c4954876212c8a6c7f34b4b80d4c52/header.jpg?t=1760657057" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044520/dfa73e0fb7c4954876212c8a6c7f34b4b80d4c52/header.jpg?t=1760657057" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4044520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044520/dfa73e0fb7c4954876212c8a6c7f34b4b80d4c52/header.jpg?t=1760657057" alt="Biblically Inaccurate（新規追加）" /></a></p><p>A fast-paced subversive endless runner, where you play as the runner&#x27;s guardian angel. Protect them with your mouse by clicking and dragging obstacles out of the way as they running through ancient rome.</p><p><a href="https://store.steampowered.com/app/4044520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Final Flame Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4106400/</link>
-  <guid isPermaLink="false">steam-store-published-4106400</guid>
-  <pubDate>Fri, 17 Oct 2025 01:12:38 +0000</pubDate>
-  <description>type=demo, appid=4106400</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106400/59ee03b89d6687bda93164357edf2139c21740a5/header.jpg?t=1760659685" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106400/59ee03b89d6687bda93164357edf2139c21740a5/header.jpg?t=1760659685" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106400/59ee03b89d6687bda93164357edf2139c21740a5/header.jpg?t=1760659685" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4106400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106400/59ee03b89d6687bda93164357edf2139c21740a5/header.jpg?t=1760659685" alt="The Final Flame Demo（新規追加）" /></a></p><p>type=demo, appid=4106400</p><p><a href="https://store.steampowered.com/app/4106400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
