@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 20 Oct 2025 11:44:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 12:34:20 +0000</lastBuildDate>
+<item>
+  <title>The Sushi Restaurant（新規追加）</title>
+  <link>https://store.steampowered.com/app/3307830/</link>
+  <guid isPermaLink="false">steam-store-published-3307830</guid>
+  <pubDate>Mon, 20 Oct 2025 12:34:20 +0000</pubDate>
+  <description>Prepare sushi in this cozy horror game and unlock new recipes every day. But something is making the atmosphere grow creepier. Can you figure out what?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3307830/b48eed428b86d959dfa9108b6422e22629d1788d/header.jpg?t=1760960420" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3307830/b48eed428b86d959dfa9108b6422e22629d1788d/header.jpg?t=1760960420" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3307830/b48eed428b86d959dfa9108b6422e22629d1788d/header.jpg?t=1760960420" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3307830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3307830/b48eed428b86d959dfa9108b6422e22629d1788d/header.jpg?t=1760960420" alt="The Sushi Restaurant（新規追加）" /></a></p><p>Prepare sushi in this cozy horror game and unlock new recipes every day. But something is making the atmosphere grow creepier. Can you figure out what?</p><p><a href="https://store.steampowered.com/app/3307830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lulu（新規追加）</title>
   <link>https://store.steampowered.com/app/4102840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948820/6c5dd3ff07f4d2e1d37f5af58c4ce05000ee63e2/header.jpg?t=1760660963" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948820/6c5dd3ff07f4d2e1d37f5af58c4ce05000ee63e2/header.jpg?t=1760660963" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3948820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948820/6c5dd3ff07f4d2e1d37f5af58c4ce05000ee63e2/header.jpg?t=1760660963" alt="Senpie（新規追加）" /></a></p><p>Help Granny become the ultimate Senpie by making Strawberry, Peach and Apple pies to appease her hungry customers!</p><p><a href="https://store.steampowered.com/app/3948820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sanctuary of Giving（新規追加）</title>
-  <link>https://store.steampowered.com/app/4101590/</link>
-  <guid isPermaLink="false">steam-store-published-4101590</guid>
-  <pubDate>Fri, 17 Oct 2025 02:41:01 +0000</pubDate>
-  <description>Set in a dystopian world, destroyed by greed, the last of their kind gather around the rumored island. This island is protected by a mysterious force. Only pure souls cleansed of greed may enter. Are you worthy to step foot on the Sanctuary of Giving?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101590/a73ded6cae1c8c697c33bccf58620649ef2f8aef/header.jpg?t=1760661894" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101590/a73ded6cae1c8c697c33bccf58620649ef2f8aef/header.jpg?t=1760661894" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101590/a73ded6cae1c8c697c33bccf58620649ef2f8aef/header.jpg?t=1760661894" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4101590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101590/a73ded6cae1c8c697c33bccf58620649ef2f8aef/header.jpg?t=1760661894" alt="Sanctuary of Giving（新規追加）" /></a></p><p>Set in a dystopian world, destroyed by greed, the last of their kind gather around the rumored island. This island is protected by a mysterious force. Only pure souls cleansed of greed may enter. Are you worthy to step foot on the Sanctuary of Giving?</p><p><a href="https://store.steampowered.com/app/4101590/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
