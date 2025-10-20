@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 20 Oct 2025 09:48:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 10:41:15 +0000</lastBuildDate>
+<item>
+  <title>Idle Pixel Fantasy - Halloween Pack（新規追加）</title>
+  <link>https://store.steampowered.com/app/4090620/</link>
+  <guid isPermaLink="false">steam-store-published-4090620</guid>
+  <pubDate>Mon, 20 Oct 2025 10:41:15 +0000</pubDate>
+  <description>A spooky pack of nightmares: Baby Pumpkin, Mother Pumpkin and Mimic are here to help you, generating gold and crystals</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090620/d06564cbeda99505f5ef860b36a07ff30fcac502/header.jpg?t=1760953496" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090620/d06564cbeda99505f5ef860b36a07ff30fcac502/header.jpg?t=1760953496" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090620/d06564cbeda99505f5ef860b36a07ff30fcac502/header.jpg?t=1760953496" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4090620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090620/d06564cbeda99505f5ef860b36a07ff30fcac502/header.jpg?t=1760953496" alt="Idle Pixel Fantasy - Halloween Pack（新規追加）" /></a></p><p>A spooky pack of nightmares: Baby Pumpkin, Mother Pumpkin and Mimic are here to help you, generating gold and crystals</p><p><a href="https://store.steampowered.com/app/4090620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Space Novel: Forsaken Cargo（新規追加）</title>
   <link>https://store.steampowered.com/app/4089750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974170/f9d573611355a43c7a7bbd3ed2f931a9ce24c12f/header.jpg?t=1760665841" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974170/f9d573611355a43c7a7bbd3ed2f931a9ce24c12f/header.jpg?t=1760665841" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3974170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974170/f9d573611355a43c7a7bbd3ed2f931a9ce24c12f/header.jpg?t=1760665841" alt="Throne and Liberty Anniversary Celebration Pack: Silver（新規追加）" /></a></p><p>Celebrate Solisium and your own achievements with 2,875 Lucent, plus a striking set of Morphs: Fire Hound Dash Morph and Lapis Drakan Swim Morph.</p><p><a href="https://store.steampowered.com/app/3974170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Throne and Liberty Anniversary Celebration Pack: Gold（新規追加）</title>
-  <link>https://store.steampowered.com/app/3974180/</link>
-  <guid isPermaLink="false">steam-store-published-3974180</guid>
-  <pubDate>Fri, 17 Oct 2025 02:41:01 +0000</pubDate>
-  <description>Make this a celebration of Solisium to remember! Dress like a conqueror of Stonegard Castle with the Mystic of the Forgotten Tower Outfit, Infernal Caproth Glide Morph and Mask of Mystic Headpiece, plus 6,000 Lucent.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974180/2e086a2ab7991c0a218a1a9869461ed142fab6ed/header.jpg?t=1760665845" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974180/2e086a2ab7991c0a218a1a9869461ed142fab6ed/header.jpg?t=1760665845" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974180/2e086a2ab7991c0a218a1a9869461ed142fab6ed/header.jpg?t=1760665845" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3974180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974180/2e086a2ab7991c0a218a1a9869461ed142fab6ed/header.jpg?t=1760665845" alt="Throne and Liberty Anniversary Celebration Pack: Gold（新規追加）" /></a></p><p>Make this a celebration of Solisium to remember! Dress like a conqueror of Stonegard Castle with the Mystic of the Forgotten Tower Outfit, Infernal Caproth Glide Morph and Mask of Mystic Headpiece, plus 6,000 Lucent.</p><p><a href="https://store.steampowered.com/app/3974180/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
