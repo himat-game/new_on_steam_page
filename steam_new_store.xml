@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Oct 2025 23:45:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 01:18:35 +0000</lastBuildDate>
+<item>
+  <title>Children of Birch（新規追加）</title>
+  <link>https://store.steampowered.com/app/3589000/</link>
+  <guid isPermaLink="false">steam-store-published-3589000</guid>
+  <pubDate>Mon, 20 Oct 2025 01:18:35 +0000</pubDate>
+  <description>&amp;quot;Children of the Birch&amp;quot; is a Slavic dark fantasy metroidvania inspired by classic games in this genre and the mythology of various Slavic peoples.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589000/e33743b3107dccc6b4ca098cf49e615b9dfc4bef/header.jpg?t=1760922381" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589000/e33743b3107dccc6b4ca098cf49e615b9dfc4bef/header.jpg?t=1760922381" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589000/e33743b3107dccc6b4ca098cf49e615b9dfc4bef/header.jpg?t=1760922381" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3589000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3589000/e33743b3107dccc6b4ca098cf49e615b9dfc4bef/header.jpg?t=1760922381" alt="Children of Birch（新規追加）" /></a></p><p>&amp;quot;Children of the Birch&amp;quot; is a Slavic dark fantasy metroidvania inspired by classic games in this genre and the mythology of various Slavic peoples.</p><p><a href="https://store.steampowered.com/app/3589000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SoundWarZ Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/4021030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3827200/e2ffae964b8b054308fd29edcf25b0ef511a2baa/header.jpg?t=1760653051" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3827200/e2ffae964b8b054308fd29edcf25b0ef511a2baa/header.jpg?t=1760653051" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3827200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3827200/e2ffae964b8b054308fd29edcf25b0ef511a2baa/header.jpg?t=1760653051" alt="Shrouded Siege（新規追加）" /></a></p><p>A maze-building, roguelike, tower defense designed from the ground up to be a great solo or co-op experience. Each Irish mythology-inspired campaign is unique, with unending combinations of upgrades to combine, and each battle is filled with unique and randomized tactical challenges to overcome.</p><p><a href="https://store.steampowered.com/app/3827200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Groupel（新規追加）</title>
-  <link>https://store.steampowered.com/app/4095030/</link>
-  <guid isPermaLink="false">steam-store-published-4095030</guid>
-  <pubDate>Thu, 16 Oct 2025 23:44:48 +0000</pubDate>
-  <description>A strategic roguelike inspired by casinos: combine jokers, manipulate luck, and challenge the house in a completely reimagined roulette experience.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095030/56d060aaf440ebdf94fa0acab414275667f08659/header.jpg?t=1760654879" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095030/56d060aaf440ebdf94fa0acab414275667f08659/header.jpg?t=1760654879" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095030/56d060aaf440ebdf94fa0acab414275667f08659/header.jpg?t=1760654879" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4095030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4095030/56d060aaf440ebdf94fa0acab414275667f08659/header.jpg?t=1760654879" alt="Groupel（新規追加）" /></a></p><p>A strategic roguelike inspired by casinos: combine jokers, manipulate luck, and challenge the house in a completely reimagined roulette experience.</p><p><a href="https://store.steampowered.com/app/4095030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
