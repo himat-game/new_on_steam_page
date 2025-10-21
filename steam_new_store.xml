@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 21 Oct 2025 05:45:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 06:24:40 +0000</lastBuildDate>
+<item>
+  <title>Silent Hunt（新規追加）</title>
+  <link>https://store.steampowered.com/app/3607330/</link>
+  <guid isPermaLink="false">steam-store-published-3607330</guid>
+  <pubDate>Tue, 21 Oct 2025 06:24:40 +0000</pubDate>
+  <description>Play as a police officer sent to a remote island in British Columbia. Investigate disappearances on Mist Island. Explore the island on foot or by car. Hide, fight and survive the threat that lurks in the forest. Protect the local population and put an end to the vicious dinosaurs !</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607330/13f450802cf8113b9d3c836d0add4c9248a8a100/header.jpg?t=1761023922" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607330/13f450802cf8113b9d3c836d0add4c9248a8a100/header.jpg?t=1761023922" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607330/13f450802cf8113b9d3c836d0add4c9248a8a100/header.jpg?t=1761023922" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3607330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607330/13f450802cf8113b9d3c836d0add4c9248a8a100/header.jpg?t=1761023922" alt="Silent Hunt（新規追加）" /></a></p><p>Play as a police officer sent to a remote island in British Columbia. Investigate disappearances on Mist Island. Explore the island on foot or by car. Hide, fight and survive the threat that lurks in the forest. Protect the local population and put an end to the vicious dinosaurs !</p><p><a href="https://store.steampowered.com/app/3607330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cryoborn : convergence（新規追加）</title>
   <link>https://store.steampowered.com/app/4095450/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044230/9e9e4c5ac119b1e611ebc8bb9373501e986e9d3b/header.jpg?t=1760739656" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044230/9e9e4c5ac119b1e611ebc8bb9373501e986e9d3b/header.jpg?t=1760739656" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4044230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044230/9e9e4c5ac119b1e611ebc8bb9373501e986e9d3b/header.jpg?t=1760739656" alt="Wreckage Demo（新規追加）" /></a></p><p>type=demo, appid=4044230</p><p><a href="https://store.steampowered.com/app/4044230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lost In The Backrooms: Day 100 Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3985360/</link>
-  <guid isPermaLink="false">steam-store-published-3985360</guid>
-  <pubDate>Fri, 17 Oct 2025 23:44:54 +0000</pubDate>
-  <description>type=demo, appid=3985360</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985360/155c061fd7721fe5008a2708f364de2a0087e62d/header.jpg?t=1760729629" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985360/155c061fd7721fe5008a2708f364de2a0087e62d/header.jpg?t=1760729629" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985360/155c061fd7721fe5008a2708f364de2a0087e62d/header.jpg?t=1760729629" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3985360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985360/155c061fd7721fe5008a2708f364de2a0087e62d/header.jpg?t=1760729629" alt="Lost In The Backrooms: Day 100 Demo（新規追加）" /></a></p><p>type=demo, appid=3985360</p><p><a href="https://store.steampowered.com/app/3985360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
