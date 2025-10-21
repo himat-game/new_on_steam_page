@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 21 Oct 2025 11:45:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 12:35:09 +0000</lastBuildDate>
+<item>
+  <title>Yots（新規追加）</title>
+  <link>https://store.steampowered.com/app/3620240/</link>
+  <guid isPermaLink="false">steam-store-published-3620240</guid>
+  <pubDate>Tue, 21 Oct 2025 12:35:09 +0000</pubDate>
+  <description>Cooperative survival horror for up to 4 players, mixing the traditions of classic survival horror with modern co-op mechanics. Complete the Quota, fight the creatures birthed by City of Mist, and build your own powerful loadout using unique artifacts.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3620240/1ed4d048f9de86bfc464bc76f362f505722b8d2e/header.jpg?t=1761047420" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3620240/1ed4d048f9de86bfc464bc76f362f505722b8d2e/header.jpg?t=1761047420" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3620240/1ed4d048f9de86bfc464bc76f362f505722b8d2e/header.jpg?t=1761047420" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3620240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3620240/1ed4d048f9de86bfc464bc76f362f505722b8d2e/header.jpg?t=1761047420" alt="Yots（新規追加）" /></a></p><p>Cooperative survival horror for up to 4 players, mixing the traditions of classic survival horror with modern co-op mechanics. Complete the Quota, fight the creatures birthed by City of Mist, and build your own powerful loadout using unique artifacts.</p><p><a href="https://store.steampowered.com/app/3620240/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>默示琉璃镜 Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3989370/</link>
+  <guid isPermaLink="false">steam-store-published-3989370</guid>
+  <pubDate>Tue, 21 Oct 2025 12:35:09 +0000</pubDate>
+  <description>&amp;quot;Cryptic Glaze Mirror&amp;quot; is a plot-driven, mildly horror-themed puzzle otome game. You play as Shui Liuli, a newcomer to the workplace, who unexpectedly finds herself trapped in an ancient Western-style mansion.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989370/7bb35137a1d6ca56cb289cb5a0f7c901229a0b6c/header.jpg?t=1761047055" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989370/7bb35137a1d6ca56cb289cb5a0f7c901229a0b6c/header.jpg?t=1761047055" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989370/7bb35137a1d6ca56cb289cb5a0f7c901229a0b6c/header.jpg?t=1761047055" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3989370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989370/7bb35137a1d6ca56cb289cb5a0f7c901229a0b6c/header.jpg?t=1761047055" alt="默示琉璃镜 Demo（新規追加）" /></a></p><p>&amp;quot;Cryptic Glaze Mirror&amp;quot; is a plot-driven, mildly horror-themed puzzle otome game. You play as Shui Liuli, a newcomer to the workplace, who unexpectedly finds herself trapped in an ancient Western-style mansion.</p><p><a href="https://store.steampowered.com/app/3989370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>VORON Soundtrack（新規追加）</title>
   <link>https://store.steampowered.com/app/4097020/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108520/fe5bcf3343184a4b7adc38654d5eb6b933719348/header.jpg?t=1760767642" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108520/fe5bcf3343184a4b7adc38654d5eb6b933719348/header.jpg?t=1760767642" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4108520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108520/fe5bcf3343184a4b7adc38654d5eb6b933719348/header.jpg?t=1760767642" alt="Typing Ascension Playtest（新規追加）" /></a></p><p>type=game, appid=4108520</p><p><a href="https://store.steampowered.com/app/4108520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Exit Zone Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3254070/</link>
-  <guid isPermaLink="false">steam-store-published-3254070</guid>
-  <pubDate>Sat, 18 Oct 2025 07:44:41 +0000</pubDate>
-  <description>Enter the world of Halloween Terror, where 1-5 players face a night of horrors. A ghostly spirit watches your every move and hears your voice. Collect items and try to escape before it gets you! Can you survive this terrifying hunt?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3254070/9348431e05ce6405654073772b03d437bb1128e2/header.jpg?t=1760769599" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3254070/9348431e05ce6405654073772b03d437bb1128e2/header.jpg?t=1760769599" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3254070/9348431e05ce6405654073772b03d437bb1128e2/header.jpg?t=1760769599" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3254070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3254070/9348431e05ce6405654073772b03d437bb1128e2/header.jpg?t=1760769599" alt="Exit Zone Demo（新規追加）" /></a></p><p>Enter the world of Halloween Terror, where 1-5 players face a night of horrors. A ghostly spirit watches your every move and hears your voice. Collect items and try to escape before it gets you! Can you survive this terrifying hunt?</p><p><a href="https://store.steampowered.com/app/3254070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pilgrim of Darkness Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4100220/</link>
-  <guid isPermaLink="false">steam-store-published-4100220</guid>
-  <pubDate>Sat, 18 Oct 2025 07:44:41 +0000</pubDate>
-  <description>type=demo, appid=4100220</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100220/a9fc18f4b7408c34213d18c4676bca928b4884cb/header.jpg?t=1760768719" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100220/a9fc18f4b7408c34213d18c4676bca928b4884cb/header.jpg?t=1760768719" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100220/a9fc18f4b7408c34213d18c4676bca928b4884cb/header.jpg?t=1760768719" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4100220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100220/a9fc18f4b7408c34213d18c4676bca928b4884cb/header.jpg?t=1760768719" alt="Pilgrim of Darkness Demo（新規追加）" /></a></p><p>type=demo, appid=4100220</p><p><a href="https://store.steampowered.com/app/4100220/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
