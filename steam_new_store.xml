@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 21 Oct 2025 06:24:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 21 Oct 2025 06:53:04 +0000</lastBuildDate>
+<item>
+  <title>Cat Chaos Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4005780/</link>
+  <guid isPermaLink="false">steam-store-published-4005780</guid>
+  <pubDate>Tue, 21 Oct 2025 06:53:04 +0000</pubDate>
+  <description>type=game, appid=4005780</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005780/27a2143dc3357e795add55e212d75c59327fc6ae/header.jpg?t=1761028285" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005780/27a2143dc3357e795add55e212d75c59327fc6ae/header.jpg?t=1761028285" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005780/27a2143dc3357e795add55e212d75c59327fc6ae/header.jpg?t=1761028285" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4005780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005780/27a2143dc3357e795add55e212d75c59327fc6ae/header.jpg?t=1761028285" alt="Cat Chaos Playtest（新規追加）" /></a></p><p>type=game, appid=4005780</p><p><a href="https://store.steampowered.com/app/4005780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Silent Hunt（新規追加）</title>
   <link>https://store.steampowered.com/app/3607330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045540/b5ead9b3037e9dc35285dc60f61023a0d9a054d6/header.jpg?t=1760727804" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045540/b5ead9b3037e9dc35285dc60f61023a0d9a054d6/header.jpg?t=1760727804" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4045540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045540/b5ead9b3037e9dc35285dc60f61023a0d9a054d6/header.jpg?t=1760727804" alt="Agrivore（新規追加）" /></a></p><p>Agrivore is a incremental farming game where you equip magical farming gear, harvest crops, and feed a gluttonous King to unlock eternal power.</p><p><a href="https://store.steampowered.com/app/4045540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wreckage Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4044230/</link>
-  <guid isPermaLink="false">steam-store-published-4044230</guid>
-  <pubDate>Fri, 17 Oct 2025 23:44:54 +0000</pubDate>
-  <description>type=demo, appid=4044230</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044230/9e9e4c5ac119b1e611ebc8bb9373501e986e9d3b/header.jpg?t=1760739656" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044230/9e9e4c5ac119b1e611ebc8bb9373501e986e9d3b/header.jpg?t=1760739656" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044230/9e9e4c5ac119b1e611ebc8bb9373501e986e9d3b/header.jpg?t=1760739656" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4044230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044230/9e9e4c5ac119b1e611ebc8bb9373501e986e9d3b/header.jpg?t=1760739656" alt="Wreckage Demo（新規追加）" /></a></p><p>type=demo, appid=4044230</p><p><a href="https://store.steampowered.com/app/4044230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
