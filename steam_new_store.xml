@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 23 Oct 2025 12:35:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 13:18:25 +0000</lastBuildDate>
+<item>
+  <title>DON&#x27;T SCREAM TOGETHER（新規追加）</title>
+  <link>https://store.steampowered.com/app/2692990/</link>
+  <guid isPermaLink="false">steam-store-published-2692990</guid>
+  <pubDate>Thu, 23 Oct 2025 13:18:25 +0000</pubDate>
+  <description>DON&#x27;T SCREAM TOGETHER is an online co-op jumpscare horror simulator where you and friends walk through a pitch-black forest with camcorders in 1993. Use proximity chat and escape the forest. But if anyone screams or speaks too loudly, the game restarts or the screamer returns as the hunter!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg?t=1761224164" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg?t=1761224164" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg?t=1761224164" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2692990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg?t=1761224164" alt="DON&#x27;T SCREAM TOGETHER（新規追加）" /></a></p><p>DON&#x27;T SCREAM TOGETHER is an online co-op jumpscare horror simulator where you and friends walk through a pitch-black forest with camcorders in 1993. Use proximity chat and escape the forest. But if anyone screams or speaks too loudly, the game restarts or the screamer returns as the hunter!</p><p><a href="https://store.steampowered.com/app/2692990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Electronics Store Simulator Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/4013530/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989630/1d6c6cb824ca45389fbb82e2de1a710a22fb9221/header.jpg?t=1761119493" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989630/1d6c6cb824ca45389fbb82e2de1a710a22fb9221/header.jpg?t=1761119493" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3989630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989630/1d6c6cb824ca45389fbb82e2de1a710a22fb9221/header.jpg?t=1761119493" alt="Brass Rain Playtest（新規追加）" /></a></p><p>type=game, appid=3989630</p><p><a href="https://store.steampowered.com/app/3989630/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lost Lands Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4111980/</link>
-  <guid isPermaLink="false">steam-store-published-4111980</guid>
-  <pubDate>Wed, 22 Oct 2025 08:23:32 +0000</pubDate>
-  <description>type=game, appid=4111980</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111980/95fda3080b30c96e98b0efb9f9b59fb9aa506763/header.jpg?t=1761117723" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111980/95fda3080b30c96e98b0efb9f9b59fb9aa506763/header.jpg?t=1761117723" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111980/95fda3080b30c96e98b0efb9f9b59fb9aa506763/header.jpg?t=1761117723" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4111980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111980/95fda3080b30c96e98b0efb9f9b59fb9aa506763/header.jpg?t=1761117723" alt="Lost Lands Playtest（新規追加）" /></a></p><p>type=game, appid=4111980</p><p><a href="https://store.steampowered.com/app/4111980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
