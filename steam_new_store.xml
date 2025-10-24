@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 24 Oct 2025 03:23:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 03:51:26 +0000</lastBuildDate>
+<item>
+  <title>Macro lens: The Slimes（新規追加）</title>
+  <link>https://store.steampowered.com/app/4115690/</link>
+  <guid isPermaLink="false">steam-store-published-4115690</guid>
+  <pubDate>Fri, 24 Oct 2025 03:51:26 +0000</pubDate>
+  <description>Macrolens: The Slimes simulates a camera’s perspective observing a slime in a small garden. The yellow slime plays mini-games to collect Earth Energy. With its cute visuals, the game can sit in the corner of your screen and includes a Pomodoro timer to help you relax and work more efficiently.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115690/d58cb0c143d972ad6701315ca8c852db4686596e/header.jpg?t=1761273725" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115690/d58cb0c143d972ad6701315ca8c852db4686596e/header.jpg?t=1761273725" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115690/d58cb0c143d972ad6701315ca8c852db4686596e/header.jpg?t=1761273725" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4115690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115690/d58cb0c143d972ad6701315ca8c852db4686596e/header.jpg?t=1761273725" alt="Macro lens: The Slimes（新規追加）" /></a></p><p>Macrolens: The Slimes simulates a camera’s perspective observing a slime in a small garden. The yellow slime plays mini-games to collect Earth Energy. With its cute visuals, the game can sit in the corner of your screen and includes a Pomodoro timer to help you relax and work more efficiently.</p><p><a href="https://store.steampowered.com/app/4115690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Be King Soundtrack（新規追加）</title>
   <link>https://store.steampowered.com/app/4119660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104160/c16279772af18e19845641f3264a012fdf0732e7/header.jpg?t=1761179977" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104160/c16279772af18e19845641f3264a012fdf0732e7/header.jpg?t=1761179977" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4104160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104160/c16279772af18e19845641f3264a012fdf0732e7/header.jpg?t=1761179977" alt="Drifting Dots（新規追加）" /></a></p><p>A minimalist physics roguelite where you create a mesmerizing cascade of droplets. Choose from three distinct modes and discover powerful upgrade synergies to master the flow. Calm, complex, and endlessly replayable.</p><p><a href="https://store.steampowered.com/app/4104160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Flock Around（新規追加）</title>
-  <link>https://store.steampowered.com/app/3618030/</link>
-  <guid isPermaLink="false">steam-store-published-3618030</guid>
-  <pubDate>Thu, 23 Oct 2025 01:14:45 +0000</pubDate>
-  <description>Flock Around is a multiplayer bird watching game. Explore a nature sanctuary with friends, snap pictures of birds, and fill out the guide book!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/6a584b132f770716a4ed412a58e3a9d13eecac25/header.jpg?t=1761180884" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/6a584b132f770716a4ed412a58e3a9d13eecac25/header.jpg?t=1761180884" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/6a584b132f770716a4ed412a58e3a9d13eecac25/header.jpg?t=1761180884" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3618030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/6a584b132f770716a4ed412a58e3a9d13eecac25/header.jpg?t=1761180884" alt="Flock Around（新規追加）" /></a></p><p>Flock Around is a multiplayer bird watching game. Explore a nature sanctuary with friends, snap pictures of birds, and fill out the guide book!</p><p><a href="https://store.steampowered.com/app/3618030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
