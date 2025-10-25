@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 25 Oct 2025 05:44:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 06:21:40 +0000</lastBuildDate>
+<item>
+  <title>Project Life（新規追加）</title>
+  <link>https://store.steampowered.com/app/4107780/</link>
+  <guid isPermaLink="false">steam-store-published-4107780</guid>
+  <pubDate>Sat, 25 Oct 2025 06:21:40 +0000</pubDate>
+  <description>一款剧情丰富的roguelike互动小说游戏，也是一款拥有无限可能的构史引擎。假如人生可以重来，你将如何选择？主推故事集《中国式人生》，模拟90后/00后/10后的人生，在无数选择中体验一代人的共同记忆！游戏本体故事专为90后00后10后、互联网深度用户、喜欢搞笑抽象风格的玩家打造！</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107780/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1761369175" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107780/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1761369175" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107780/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1761369175" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4107780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107780/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1761369175" alt="Project Life（新規追加）" /></a></p><p>一款剧情丰富的roguelike互动小说游戏，也是一款拥有无限可能的构史引擎。假如人生可以重来，你将如何选择？主推故事集《中国式人生》，模拟90后/00后/10后的人生，在无数选择中体验一代人的共同记忆！游戏本体故事专为90后00后10后、互联网深度用户、喜欢搞笑抽象风格的玩家打造！</p><p><a href="https://store.steampowered.com/app/4107780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pumpkin Reaper（新規追加）</title>
   <link>https://store.steampowered.com/app/4125070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018960/cc9fffc3f391fac9a1713e03b5a25443ecc2e008/header.jpg?t=1761249322" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018960/cc9fffc3f391fac9a1713e03b5a25443ecc2e008/header.jpg?t=1761249322" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4018960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018960/cc9fffc3f391fac9a1713e03b5a25443ecc2e008/header.jpg?t=1761249322" alt="Rhythia Colors n&#x27; Shapes（新規追加）" /></a></p><p>Rhythia Colors n&#x27; Shapes DLC unlocks all existing and future decorations and customizations in-game.</p><p><a href="https://store.steampowered.com/app/4018960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Animaze - Azuro（新規追加）</title>
-  <link>https://store.steampowered.com/app/3959620/</link>
-  <guid isPermaLink="false">steam-store-published-3959620</guid>
-  <pubDate>Thu, 23 Oct 2025 20:46:23 +0000</pubDate>
-  <description>Azuro is an unusual and expressive avatar, designed to capture the feeling of a world turned upside down. This small but dramatic character looks like it escaped from a world of fantasy, ready to stand out in any virtual space.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959620/8ea7bc3b78413d44b37daff79d53a19030e9dc88/header.jpg?t=1761248673" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959620/8ea7bc3b78413d44b37daff79d53a19030e9dc88/header.jpg?t=1761248673" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959620/8ea7bc3b78413d44b37daff79d53a19030e9dc88/header.jpg?t=1761248673" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3959620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959620/8ea7bc3b78413d44b37daff79d53a19030e9dc88/header.jpg?t=1761248673" alt="Animaze - Azuro（新規追加）" /></a></p><p>Azuro is an unusual and expressive avatar, designed to capture the feeling of a world turned upside down. This small but dramatic character looks like it escaped from a world of fantasy, ready to stand out in any virtual space.</p><p><a href="https://store.steampowered.com/app/3959620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
