@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 25 Oct 2025 04:47:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 05:44:47 +0000</lastBuildDate>
+<item>
+  <title>Pumpkin Reaper（新規追加）</title>
+  <link>https://store.steampowered.com/app/4125070/</link>
+  <guid isPermaLink="false">steam-store-published-4125070</guid>
+  <pubDate>Sat, 25 Oct 2025 05:44:47 +0000</pubDate>
+  <description>A Halloween-themed action roguelike where you harness the powers of a Necromancer, a Druid, or a fusion of both to battle relentless hordes from the depths of Halloween Hell.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125070/8aafca5841a85aecbc42cc935fa88be3dc84fc36/header.jpg?t=1761367444" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125070/8aafca5841a85aecbc42cc935fa88be3dc84fc36/header.jpg?t=1761367444" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125070/8aafca5841a85aecbc42cc935fa88be3dc84fc36/header.jpg?t=1761367444" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4125070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125070/8aafca5841a85aecbc42cc935fa88be3dc84fc36/header.jpg?t=1761367444" alt="Pumpkin Reaper（新規追加）" /></a></p><p>A Halloween-themed action roguelike where you harness the powers of a Necromancer, a Druid, or a fusion of both to battle relentless hordes from the depths of Halloween Hell.</p><p><a href="https://store.steampowered.com/app/4125070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Football Life（新規追加）</title>
   <link>https://store.steampowered.com/app/4123760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959620/8ea7bc3b78413d44b37daff79d53a19030e9dc88/header.jpg?t=1761248673" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959620/8ea7bc3b78413d44b37daff79d53a19030e9dc88/header.jpg?t=1761248673" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3959620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959620/8ea7bc3b78413d44b37daff79d53a19030e9dc88/header.jpg?t=1761248673" alt="Animaze - Azuro（新規追加）" /></a></p><p>Azuro is an unusual and expressive avatar, designed to capture the feeling of a world turned upside down. This small but dramatic character looks like it escaped from a world of fantasy, ready to stand out in any virtual space.</p><p><a href="https://store.steampowered.com/app/3959620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Victory Saber 2D Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4122980/</link>
-  <guid isPermaLink="false">steam-store-published-4122980</guid>
-  <pubDate>Thu, 23 Oct 2025 20:46:23 +0000</pubDate>
-  <description>type=demo, appid=4122980</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122980/7faca0b44ee4676e26e759e697de85c1fedff74d/header.jpg?t=1761240383" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122980/7faca0b44ee4676e26e759e697de85c1fedff74d/header.jpg?t=1761240383" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122980/7faca0b44ee4676e26e759e697de85c1fedff74d/header.jpg?t=1761240383" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122980/7faca0b44ee4676e26e759e697de85c1fedff74d/header.jpg?t=1761240383" alt="Victory Saber 2D Demo（新規追加）" /></a></p><p>type=demo, appid=4122980</p><p><a href="https://store.steampowered.com/app/4122980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
