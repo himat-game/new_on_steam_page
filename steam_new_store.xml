@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Oct 2025 03:57:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 04:21:38 +0000</lastBuildDate>
+<item>
+  <title>BOBO ~In Animia~（新規追加）</title>
+  <link>https://store.steampowered.com/app/4108960/</link>
+  <guid isPermaLink="false">steam-store-published-4108960</guid>
+  <pubDate>Sun, 26 Oct 2025 04:21:38 +0000</pubDate>
+  <description>type=game, appid=4108960</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108960/8b8859eb98b9b60d421c091727cdcc02315789e9/header.jpg?t=1761449753" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108960/8b8859eb98b9b60d421c091727cdcc02315789e9/header.jpg?t=1761449753" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108960/8b8859eb98b9b60d421c091727cdcc02315789e9/header.jpg?t=1761449753" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4108960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108960/8b8859eb98b9b60d421c091727cdcc02315789e9/header.jpg?t=1761449753" alt="BOBO ~In Animia~（新規追加）" /></a></p><p>type=game, appid=4108960</p><p><a href="https://store.steampowered.com/app/4108960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Star Witch（新規追加）</title>
   <link>https://store.steampowered.com/app/3959930/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122770/ce7561ee4a259cc7d857fb8f01a33c53886d41ff/header.jpg?t=1761303388" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122770/ce7561ee4a259cc7d857fb8f01a33c53886d41ff/header.jpg?t=1761303388" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122770/ce7561ee4a259cc7d857fb8f01a33c53886d41ff/header.jpg?t=1761303388" alt="Zombocity（新規追加）" /></a></p><p>ZomboCity is a fast-paced, score-based FPS where you fight endless waves of zombies in a neon-lit city. Test your reflexes, stack up points, and see how long you can survive.</p><p><a href="https://store.steampowered.com/app/4122770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>星渊勇者 StarAbyss Heroes（新規追加）</title>
-  <link>https://store.steampowered.com/app/3956120/</link>
-  <guid isPermaLink="false">steam-store-published-3956120</guid>
-  <pubDate>Fri, 24 Oct 2025 12:35:39 +0000</pubDate>
-  <description>Torn by an ancient cataclysm, the world lies in ruins. In this ARPG, play a hero exploring relics, looting treasures, forging weapons, and mastering skills on a decaying yet fantastical journey.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956120/322db6331929faa1a6d1837a693d28a287ff766f/header.jpg?t=1761303888" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956120/322db6331929faa1a6d1837a693d28a287ff766f/header.jpg?t=1761303888" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956120/322db6331929faa1a6d1837a693d28a287ff766f/header.jpg?t=1761303888" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3956120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3956120/322db6331929faa1a6d1837a693d28a287ff766f/header.jpg?t=1761303888" alt="星渊勇者 StarAbyss Heroes（新規追加）" /></a></p><p>Torn by an ancient cataclysm, the world lies in ruins. In this ARPG, play a hero exploring relics, looting treasures, forging weapons, and mastering skills on a decaying yet fantastical journey.</p><p><a href="https://store.steampowered.com/app/3956120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
