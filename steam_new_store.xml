@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Oct 2025 04:21:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 04:46:58 +0000</lastBuildDate>
+<item>
+  <title>Tomo Jam（新規追加）</title>
+  <link>https://store.steampowered.com/app/4061530/</link>
+  <guid isPermaLink="false">steam-store-published-4061530</guid>
+  <pubDate>Sun, 26 Oct 2025 04:46:58 +0000</pubDate>
+  <description>TomoJam is a musical sandbox where up to 4 players can perform real MIDI songs using only their gamepads. Play, learn, and laugh as you hit (and miss) every note solo or together. Add your own MIDI files and explore a surprisingly deep, endlessly customizable way to make music and Jam with friends!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061530/b437b602af5b5fc73a2376e10d0c1031617f0d41/header.jpg?t=1761450485" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061530/b437b602af5b5fc73a2376e10d0c1031617f0d41/header.jpg?t=1761450485" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061530/b437b602af5b5fc73a2376e10d0c1031617f0d41/header.jpg?t=1761450485" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4061530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061530/b437b602af5b5fc73a2376e10d0c1031617f0d41/header.jpg?t=1761450485" alt="Tomo Jam（新規追加）" /></a></p><p>TomoJam is a musical sandbox where up to 4 players can perform real MIDI songs using only their gamepads. Play, learn, and laugh as you hit (and miss) every note solo or together. Add your own MIDI files and explore a surprisingly deep, endlessly customizable way to make music and Jam with friends!</p><p><a href="https://store.steampowered.com/app/4061530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BOBO ~In Animia~（新規追加）</title>
   <link>https://store.steampowered.com/app/4108960/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102790/22aa7fe5604718cf899c73fa63bd8fa836f68f4a/header.jpg?t=1761308378" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102790/22aa7fe5604718cf899c73fa63bd8fa836f68f4a/header.jpg?t=1761308378" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4102790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102790/22aa7fe5604718cf899c73fa63bd8fa836f68f4a/header.jpg?t=1761308378" alt="Royal Horde（新規追加）" /></a></p><p>Royal Horde is a game where, playing as one of the available kings, you take on the duty of defending your kingdom. You can construct buildings, hire warriors, forge weapons for them in the smithy, and even recruit your own generals!</p><p><a href="https://store.steampowered.com/app/4102790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Zombocity（新規追加）</title>
-  <link>https://store.steampowered.com/app/4122770/</link>
-  <guid isPermaLink="false">steam-store-published-4122770</guid>
-  <pubDate>Fri, 24 Oct 2025 12:35:39 +0000</pubDate>
-  <description>ZomboCity is a fast-paced, score-based FPS where you fight endless waves of zombies in a neon-lit city. Test your reflexes, stack up points, and see how long you can survive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122770/ce7561ee4a259cc7d857fb8f01a33c53886d41ff/header.jpg?t=1761303388" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122770/ce7561ee4a259cc7d857fb8f01a33c53886d41ff/header.jpg?t=1761303388" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122770/ce7561ee4a259cc7d857fb8f01a33c53886d41ff/header.jpg?t=1761303388" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122770/ce7561ee4a259cc7d857fb8f01a33c53886d41ff/header.jpg?t=1761303388" alt="Zombocity（新規追加）" /></a></p><p>ZomboCity is a fast-paced, score-based FPS where you fight endless waves of zombies in a neon-lit city. Test your reflexes, stack up points, and see how long you can survive.</p><p><a href="https://store.steampowered.com/app/4122770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
