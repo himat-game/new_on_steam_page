@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 28 Oct 2025 04:48:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Oct 2025 05:48:16 +0000</lastBuildDate>
+<item>
+  <title>DUSK INDEX: GION -Trial version-（新規追加）</title>
+  <link>https://store.steampowered.com/app/4064790/</link>
+  <guid isPermaLink="false">steam-store-published-4064790</guid>
+  <pubDate>Tue, 28 Oct 2025 05:48:16 +0000</pubDate>
+  <description>This is the trial version of the new visual novel game “DUSK INDEX: GION,” co-created by Cherrymochi of “Tokyo Dark.”</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064790/83918cb90c354dda2467d42706a1a32439ab1774/header.jpg?t=1761627655" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064790/83918cb90c354dda2467d42706a1a32439ab1774/header.jpg?t=1761627655" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064790/83918cb90c354dda2467d42706a1a32439ab1774/header.jpg?t=1761627655" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4064790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4064790/83918cb90c354dda2467d42706a1a32439ab1774/header.jpg?t=1761627655" alt="DUSK INDEX: GION -Trial version-（新規追加）" /></a></p><p>This is the trial version of the new visual novel game “DUSK INDEX: GION,” co-created by Cherrymochi of “Tokyo Dark.”</p><p><a href="https://store.steampowered.com/app/4064790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lines: A Gift For Mom（新規追加）</title>
   <link>https://store.steampowered.com/app/3996240/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113260/029eea8c3bf2385ec803148475482ab2862947a7/header.jpg?t=1761465366" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113260/029eea8c3bf2385ec803148475482ab2862947a7/header.jpg?t=1761465366" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4113260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113260/029eea8c3bf2385ec803148475482ab2862947a7/header.jpg?t=1761465366" alt="みつめ（新規追加）" /></a></p><p>『みつめ』は2人プレイの協力型ホラーゲームです。精神世界で分裂した2人の「私」となって異変を探し、終わらない負の輪廻から抜け出しましょう。</p><p><a href="https://store.steampowered.com/app/4113260/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Carnal Rage（新規追加）</title>
-  <link>https://store.steampowered.com/app/3986150/</link>
-  <guid isPermaLink="false">steam-store-published-3986150</guid>
-  <pubDate>Sun, 26 Oct 2025 09:45:21 +0000</pubDate>
-  <description>Carnal rage is an adult anthropomorphic fighting game which is heavily inspired by the classic era of 90&#x27;s fighting games.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986150/fa0e34a42a2c1c6d4bc263831f98be3c0fcc9b79/header.jpg?t=1761470209" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986150/fa0e34a42a2c1c6d4bc263831f98be3c0fcc9b79/header.jpg?t=1761470209" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986150/fa0e34a42a2c1c6d4bc263831f98be3c0fcc9b79/header.jpg?t=1761470209" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3986150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3986150/fa0e34a42a2c1c6d4bc263831f98be3c0fcc9b79/header.jpg?t=1761470209" alt="Carnal Rage（新規追加）" /></a></p><p>Carnal rage is an adult anthropomorphic fighting game which is heavily inspired by the classic era of 90&#x27;s fighting games.</p><p><a href="https://store.steampowered.com/app/3986150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
