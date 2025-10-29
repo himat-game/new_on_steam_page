@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 29 Oct 2025 05:17:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Oct 2025 05:49:31 +0000</lastBuildDate>
+<item>
+  <title>Terrier Manager Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4123610/</link>
+  <guid isPermaLink="false">steam-store-published-4123610</guid>
+  <pubDate>Wed, 29 Oct 2025 05:49:31 +0000</pubDate>
+  <description>Rats have infested your farm! Train a team of terriers to hunt them down in this incremental idle game. Breed your dogs to strengthen your team as you hunt down the ten Rat Lords who have taken over.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123610/ab3cc0119c9b79cb15f31b30ab423dd8baf76742/header.jpg?t=1761713011" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123610/ab3cc0119c9b79cb15f31b30ab423dd8baf76742/header.jpg?t=1761713011" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123610/ab3cc0119c9b79cb15f31b30ab423dd8baf76742/header.jpg?t=1761713011" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123610/ab3cc0119c9b79cb15f31b30ab423dd8baf76742/header.jpg?t=1761713011" alt="Terrier Manager Demo（新規追加）" /></a></p><p>Rats have infested your farm! Train a team of terriers to hunt them down in this incremental idle game. Breed your dogs to strengthen your team as you hunt down the ten Rat Lords who have taken over.</p><p><a href="https://store.steampowered.com/app/4123610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Living On Violent Experiences（新規追加）</title>
   <link>https://store.steampowered.com/app/3981690/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076890/86b6b6cf82dd33d9d644e2a83bd8aaf491f3cd22/header.jpg?t=1761599902" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076890/86b6b6cf82dd33d9d644e2a83bd8aaf491f3cd22/header.jpg?t=1761599902" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4076890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4076890/86b6b6cf82dd33d9d644e2a83bd8aaf491f3cd22/header.jpg?t=1761599902" alt="SALVO Demo（新規追加）" /></a></p><p>Experience cinematic space warfare in SALVO, an action packed real-time tactical combat simulator. Command your flagship and engage in intense battles in a war-torn solar system. Play a story-driven campaign, or forge your own destiny across the dangerous frontiers.</p><p><a href="https://store.steampowered.com/app/4076890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fianna（新規追加）</title>
-  <link>https://store.steampowered.com/app/4128080/</link>
-  <guid isPermaLink="false">steam-store-published-4128080</guid>
-  <pubDate>Mon, 27 Oct 2025 21:44:25 +0000</pubDate>
-  <description>Fianna is an indie action roguelite with fast-paced combat. As a new member of the Fianna, lead a group of 3 soldiers into a randomly generated dungeon. Fight through handcrafted rooms and find relics and ancient knowledge in order to power up. Will you be able to defeat War itself?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128080/0ded6975dbd97ba4f3a32ba6aeca5976a61c573b/header.jpg?t=1761598049" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128080/0ded6975dbd97ba4f3a32ba6aeca5976a61c573b/header.jpg?t=1761598049" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128080/0ded6975dbd97ba4f3a32ba6aeca5976a61c573b/header.jpg?t=1761598049" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128080/0ded6975dbd97ba4f3a32ba6aeca5976a61c573b/header.jpg?t=1761598049" alt="Fianna（新規追加）" /></a></p><p>Fianna is an indie action roguelite with fast-paced combat. As a new member of the Fianna, lead a group of 3 soldiers into a randomly generated dungeon. Fight through handcrafted rooms and find relics and ancient knowledge in order to power up. Will you be able to defeat War itself?</p><p><a href="https://store.steampowered.com/app/4128080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
