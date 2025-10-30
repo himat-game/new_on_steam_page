@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 30 Oct 2025 13:17:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 13:44:13 +0000</lastBuildDate>
+<item>
+  <title>Break Through（新規追加）</title>
+  <link>https://store.steampowered.com/app/4137540/</link>
+  <guid isPermaLink="false">steam-store-published-4137540</guid>
+  <pubDate>Thu, 30 Oct 2025 13:44:13 +0000</pubDate>
+  <description>Break Through is a roguelite top-down auto-battler shooter where you command a squad of robots to break through humanity’s final defense line. Equip gear, combine hex cores to trigger set effects, and conquer ever-changing battlefields on your way back to Mars.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137540/c48a54b5d1a9ebddb4e3985c91e6cdd56233a29e/header.jpg?t=1761829794" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137540/c48a54b5d1a9ebddb4e3985c91e6cdd56233a29e/header.jpg?t=1761829794" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137540/c48a54b5d1a9ebddb4e3985c91e6cdd56233a29e/header.jpg?t=1761829794" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4137540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137540/c48a54b5d1a9ebddb4e3985c91e6cdd56233a29e/header.jpg?t=1761829794" alt="Break Through（新規追加）" /></a></p><p>Break Through is a roguelite top-down auto-battler shooter where you command a squad of robots to break through humanity’s final defense line. Equip gear, combine hex cores to trigger set effects, and conquer ever-changing battlefields on your way back to Mars.</p><p><a href="https://store.steampowered.com/app/4137540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Parrot Hero（新規追加）</title>
   <link>https://store.steampowered.com/app/4042360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878430/7a95aef1317bd1c1f352acac6312566c7949299d/header.jpg?t=1761736364" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878430/7a95aef1317bd1c1f352acac6312566c7949299d/header.jpg?t=1761736364" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3878430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878430/7a95aef1317bd1c1f352acac6312566c7949299d/header.jpg?t=1761736364" alt="MEKANION Demo（新規追加）" /></a></p><p>Defeat Mekanions, the mechanical lifeforms consuming the entire world!</p><p><a href="https://store.steampowered.com/app/3878430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>腐根之里 Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4108380/</link>
-  <guid isPermaLink="false">steam-store-published-4108380</guid>
-  <pubDate>Wed, 29 Oct 2025 11:45:25 +0000</pubDate>
-  <description>type=game, appid=4108380</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108380/5f8b51b4187b537a3a604ac9b8b7d69b6602408c/header.jpg?t=1761733187" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108380/5f8b51b4187b537a3a604ac9b8b7d69b6602408c/header.jpg?t=1761733187" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108380/5f8b51b4187b537a3a604ac9b8b7d69b6602408c/header.jpg?t=1761733187" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4108380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108380/5f8b51b4187b537a3a604ac9b8b7d69b6602408c/header.jpg?t=1761733187" alt="腐根之里 Playtest（新規追加）" /></a></p><p>type=game, appid=4108380</p><p><a href="https://store.steampowered.com/app/4108380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
