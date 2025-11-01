@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 01 Nov 2025 13:03:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 13:44:45 +0000</lastBuildDate>
+<item>
+  <title>Sick Street Racer（新規追加）</title>
+  <link>https://store.steampowered.com/app/4128920/</link>
+  <guid isPermaLink="false">steam-store-published-4128920</guid>
+  <pubDate>Sat, 01 Nov 2025 13:44:45 +0000</pubDate>
+  <description>Live the life of an underground street racer - attend car meets, customize your cars, and hang out with the local street racing scene. Make friends, rivals, or form your own crew. Do you have what it takes to get to the top of the Sick Standings?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128920/92e87d0455f6ce7992061ef4b081a898170afc1c/header.jpg?t=1762002014" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128920/92e87d0455f6ce7992061ef4b081a898170afc1c/header.jpg?t=1762002014" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128920/92e87d0455f6ce7992061ef4b081a898170afc1c/header.jpg?t=1762002014" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128920/92e87d0455f6ce7992061ef4b081a898170afc1c/header.jpg?t=1762002014" alt="Sick Street Racer（新規追加）" /></a></p><p>Live the life of an underground street racer - attend car meets, customize your cars, and hang out with the local street racing scene. Make friends, rivals, or form your own crew. Do you have what it takes to get to the top of the Sick Standings?</p><p><a href="https://store.steampowered.com/app/4128920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>도도리 Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/4128610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119130/5173459929c9affd8e5ae05c3b58951de0123ade/header.jpg?t=1761859193" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119130/5173459929c9affd8e5ae05c3b58951de0123ade/header.jpg?t=1761859193" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4119130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119130/5173459929c9affd8e5ae05c3b58951de0123ade/header.jpg?t=1761859193" alt="H3LL0 H4CK3R（新規追加）" /></a></p><p>Realistic terminal hacking simulator. Use Unix commands, network scanning, password cracking, and cryptography to infiltrate 10 interconnected servers and expose a deadly government surveillance program. Your colleague is missing. You&#x27;re next.</p><p><a href="https://store.steampowered.com/app/4119130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nightmare Within — Original Soundtrack（新規追加）</title>
-  <link>https://store.steampowered.com/app/4143310/</link>
-  <guid isPermaLink="false">steam-store-published-4143310</guid>
-  <pubDate>Thu, 30 Oct 2025 20:47:42 +0000</pubDate>
-  <description>Official Nightmare Within soundtrack, composed by the game’s creator David Pankov. Over an hour of atmospheric music filled with horror and memories.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143310/079c765785bd3c63a6b8c9b8dcf3e8633759c593/header.jpg?t=1761855258" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143310/079c765785bd3c63a6b8c9b8dcf3e8633759c593/header.jpg?t=1761855258" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143310/079c765785bd3c63a6b8c9b8dcf3e8633759c593/header.jpg?t=1761855258" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4143310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143310/079c765785bd3c63a6b8c9b8dcf3e8633759c593/header.jpg?t=1761855258" alt="Nightmare Within — Original Soundtrack（新規追加）" /></a></p><p>Official Nightmare Within soundtrack, composed by the game’s creator David Pankov. Over an hour of atmospheric music filled with horror and memories.</p><p><a href="https://store.steampowered.com/app/4143310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
