@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 01 Nov 2025 11:44:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 12:29:30 +0000</lastBuildDate>
+<item>
+  <title>ミステリーアドベンチャー　犯人はメイド（新規追加）</title>
+  <link>https://store.steampowered.com/app/4087550/</link>
+  <guid isPermaLink="false">steam-store-published-4087550</guid>
+  <pubDate>Sat, 01 Nov 2025 12:29:30 +0000</pubDate>
+  <description>The culprit is—the maid. And the protagonist. your mission is to strike down six unsuspecting guests, one by one. But beware—you must never be suspected before your plan is complete. To escape suspicion, engage in heated debates and refute your opponents. Hide your true identity at all costs.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087550/165da5b1924e3c2acd0b86ce9285f8045e20cb35/header.jpg?t=1761998353" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087550/165da5b1924e3c2acd0b86ce9285f8045e20cb35/header.jpg?t=1761998353" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087550/165da5b1924e3c2acd0b86ce9285f8045e20cb35/header.jpg?t=1761998353" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4087550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087550/165da5b1924e3c2acd0b86ce9285f8045e20cb35/header.jpg?t=1761998353" alt="ミステリーアドベンチャー　犯人はメイド（新規追加）" /></a></p><p>The culprit is—the maid. And the protagonist. your mission is to strike down six unsuspecting guests, one by one. But beware—you must never be suspected before your plan is complete. To escape suspicion, engage in heated debates and refute your opponents. Hide your true identity at all costs.</p><p><a href="https://store.steampowered.com/app/4087550/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Unbound Souls Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/3662110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132790/2c7f195c9e18c9e06b3fcfa721c95ac961f38a27/header.jpg?t=1761854484" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132790/2c7f195c9e18c9e06b3fcfa721c95ac961f38a27/header.jpg?t=1761854484" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4132790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132790/2c7f195c9e18c9e06b3fcfa721c95ac961f38a27/header.jpg?t=1761854484" alt="Snouty And The Great Rift（新規追加）" /></a></p><p>Explore a hand-crafted fairytale world with Snouty, our hungry little hero! Enjoy swinging your sword and filling your Fungipedia in this solo-developed open-world adventure for all ages.</p><p><a href="https://store.steampowered.com/app/4132790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Stuck in a Trench（新規追加）</title>
-  <link>https://store.steampowered.com/app/4138540/</link>
-  <guid isPermaLink="false">steam-store-published-4138540</guid>
-  <pubDate>Thu, 30 Oct 2025 20:47:42 +0000</pubDate>
-  <description>You are the High Command. Guide generals as they send soldiers through wartime trenches, make agonizing strategic choices, learn from campaign outcomes, and build a lasting legacy across many fronts.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138540/7e321be85557b1b0649c06e4f1f363dba30d8140/header.jpg?t=1761855282" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138540/7e321be85557b1b0649c06e4f1f363dba30d8140/header.jpg?t=1761855282" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138540/7e321be85557b1b0649c06e4f1f363dba30d8140/header.jpg?t=1761855282" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4138540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138540/7e321be85557b1b0649c06e4f1f363dba30d8140/header.jpg?t=1761855282" alt="Stuck in a Trench（新規追加）" /></a></p><p>You are the High Command. Guide generals as they send soldiers through wartime trenches, make agonizing strategic choices, learn from campaign outcomes, and build a lasting legacy across many fronts.</p><p><a href="https://store.steampowered.com/app/4138540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
