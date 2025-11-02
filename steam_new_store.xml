@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 02 Nov 2025 01:20:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 02:53:58 +0000</lastBuildDate>
+<item>
+  <title>MykrosCursor（新規追加）</title>
+  <link>https://store.steampowered.com/app/3908750/</link>
+  <guid isPermaLink="false">steam-store-published-3908750</guid>
+  <pubDate>Sun, 02 Nov 2025 02:53:58 +0000</pubDate>
+  <description>Swap out obscure or hard-to-see cursors—even in games that include their own. Until now, replacing built-in game cursors was almost exclusively a Windows option. MykrosCursor bridges the gap with an OS-level cursor swap (not an overlay) on Linux and Steam Deck, in Desktop and Gaming Mode.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908750/6a746e6919e4f5a5e10cb6df496a7b9f9d444573/header.jpg?t=1762046758" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908750/6a746e6919e4f5a5e10cb6df496a7b9f9d444573/header.jpg?t=1762046758" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908750/6a746e6919e4f5a5e10cb6df496a7b9f9d444573/header.jpg?t=1762046758" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3908750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908750/6a746e6919e4f5a5e10cb6df496a7b9f9d444573/header.jpg?t=1762046758" alt="MykrosCursor（新規追加）" /></a></p><p>Swap out obscure or hard-to-see cursors—even in games that include their own. Until now, replacing built-in game cursors was almost exclusively a Windows option. MykrosCursor bridges the gap with an OS-level cursor swap (not an overlay) on Linux and Steam Deck, in Desktop and Gaming Mode.</p><p><a href="https://store.steampowered.com/app/3908750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Heartbeat House: Hong Kong（新規追加）</title>
   <link>https://store.steampowered.com/app/4131900/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061980/7ac8e933e4627d507bc01ca378f2d8aa955db9eb/header.jpg?t=1761865198" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061980/7ac8e933e4627d507bc01ca378f2d8aa955db9eb/header.jpg?t=1761865198" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4061980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061980/7ac8e933e4627d507bc01ca378f2d8aa955db9eb/header.jpg?t=1761865198" alt="Mysterious House（新規追加）" /></a></p><p>A wave of disappearances. A rabbit blamed. As fear turns the apartment into a cage of paranoia, a venomous rumor takes hold. But dig deeper, and you&#x27;ll find a truth far more sinister than any beast—a reality colder than murder.....</p><p><a href="https://store.steampowered.com/app/4061980/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mysterious House Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4061990/</link>
-  <guid isPermaLink="false">steam-store-published-4061990</guid>
-  <pubDate>Thu, 30 Oct 2025 23:44:31 +0000</pubDate>
-  <description>A wave of disappearances. A rabbit blamed. As fear turns the apartment into a cage of paranoia, a venomous rumor takes hold. But dig deeper, and you&#x27;ll find a truth far more sinister than any beast—a reality colder than murder.....</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061990/7ac8e933e4627d507bc01ca378f2d8aa955db9eb/header.jpg?t=1761865274" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061990/7ac8e933e4627d507bc01ca378f2d8aa955db9eb/header.jpg?t=1761865274" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061990/7ac8e933e4627d507bc01ca378f2d8aa955db9eb/header.jpg?t=1761865274" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4061990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061990/7ac8e933e4627d507bc01ca378f2d8aa955db9eb/header.jpg?t=1761865274" alt="Mysterious House Demo（新規追加）" /></a></p><p>A wave of disappearances. A rabbit blamed. As fear turns the apartment into a cage of paranoia, a venomous rumor takes hold. But dig deeper, and you&#x27;ll find a truth far more sinister than any beast—a reality colder than murder.....</p><p><a href="https://store.steampowered.com/app/4061990/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
