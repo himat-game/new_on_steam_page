@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 02 Nov 2025 15:44:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 16:49:07 +0000</lastBuildDate>
+<item>
+  <title>Animal Times Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4140450/</link>
+  <guid isPermaLink="false">steam-store-published-4140450</guid>
+  <pubDate>Sun, 02 Nov 2025 16:49:07 +0000</pubDate>
+  <description>type=game, appid=4140450</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140450/9053deaafc0bb729bc7e6f80f08400c220ffbb6d/header.jpg?t=1762100237" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140450/9053deaafc0bb729bc7e6f80f08400c220ffbb6d/header.jpg?t=1762100237" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140450/9053deaafc0bb729bc7e6f80f08400c220ffbb6d/header.jpg?t=1762100237" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4140450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140450/9053deaafc0bb729bc7e6f80f08400c220ffbb6d/header.jpg?t=1762100237" alt="Animal Times Playtest（新規追加）" /></a></p><p>type=game, appid=4140450</p><p><a href="https://store.steampowered.com/app/4140450/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Isle of Lament（新規追加）</title>
   <link>https://store.steampowered.com/app/3546140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966020/fbbbe7a1a8b4d8134340e1559e3c3bfc71f63dd5/header.jpg?t=1761879132" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966020/fbbbe7a1a8b4d8134340e1559e3c3bfc71f63dd5/header.jpg?t=1761879132" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3966020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966020/fbbbe7a1a8b4d8134340e1559e3c3bfc71f63dd5/header.jpg?t=1761879132" alt="Soulmask: Shifting Sands（新規追加）" /></a></p><p>Explore a world where Egyptian myths fuse with alien tech. Wear masks of gods like Horus and Anubis to gain divine powers. Use anti-gravity tech to craft your Solar Barge and uncover the lost secrets of gods, death, and eternal life. Rewrite the legend of a forgotten dynasty.</p><p><a href="https://store.steampowered.com/app/3966020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SisterWordEscape（新規追加）</title>
-  <link>https://store.steampowered.com/app/3966660/</link>
-  <guid isPermaLink="false">steam-store-published-3966660</guid>
-  <pubDate>Fri, 31 Oct 2025 03:41:50 +0000</pubDate>
-  <description>2D pixel adventure puzzle solving ACT! The operating nun sisters should escape from this den full of evil and monsters. If they are caught accidentally on the way, they will teach them well. A dynamic CG with a large amount of content, as well as color traps and defeat CG.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966660/b1e808fe98f5bd021b062b52183dedbae26801c7/header.jpg?t=1761880079" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966660/b1e808fe98f5bd021b062b52183dedbae26801c7/header.jpg?t=1761880079" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966660/b1e808fe98f5bd021b062b52183dedbae26801c7/header.jpg?t=1761880079" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3966660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966660/b1e808fe98f5bd021b062b52183dedbae26801c7/header.jpg?t=1761880079" alt="SisterWordEscape（新規追加）" /></a></p><p>2D pixel adventure puzzle solving ACT! The operating nun sisters should escape from this den full of evil and monsters. If they are caught accidentally on the way, they will teach them well. A dynamic CG with a large amount of content, as well as color traps and defeat CG.</p><p><a href="https://store.steampowered.com/app/3966660/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
