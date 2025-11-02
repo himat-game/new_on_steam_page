@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 02 Nov 2025 08:47:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 09:44:35 +0000</lastBuildDate>
+<item>
+  <title>Mystery of the Mysterious Futayuri Mystery Dungeon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4103580/</link>
+  <guid isPermaLink="false">steam-store-published-4103580</guid>
+  <pubDate>Sun, 02 Nov 2025 09:44:35 +0000</pubDate>
+  <description>Adventurers, let&#x27;s get exploring! Plunge into the mysterious dungeon and discover all sorts of wild mysteries...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103580/1ce2b6f66d609a552caa4c3ce6c6d248bcbe5fe0/header.jpg?t=1762072101" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103580/1ce2b6f66d609a552caa4c3ce6c6d248bcbe5fe0/header.jpg?t=1762072101" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103580/1ce2b6f66d609a552caa4c3ce6c6d248bcbe5fe0/header.jpg?t=1762072101" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4103580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103580/1ce2b6f66d609a552caa4c3ce6c6d248bcbe5fe0/header.jpg?t=1762072101" alt="Mystery of the Mysterious Futayuri Mystery Dungeon（新規追加）" /></a></p><p>Adventurers, let&#x27;s get exploring! Plunge into the mysterious dungeon and discover all sorts of wild mysteries...</p><p><a href="https://store.steampowered.com/app/4103580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Promise Tree of Alden（新規追加）</title>
   <link>https://store.steampowered.com/app/4128860/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834580/8e6bf6e3e64eebe30580466c478e6b6f6692afda/header.jpg?t=1761867836" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834580/8e6bf6e3e64eebe30580466c478e6b6f6692afda/header.jpg?t=1761867836" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3834580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834580/8e6bf6e3e64eebe30580466c478e6b6f6692afda/header.jpg?t=1761867836" alt="Kotenok（新規追加）" /></a></p><p>Play as a lost kitten in a dangerous forest! Master tight platforming controls, sprint, pounce, and double-jump through 50 tricky stages filled with spikes, enemies, and clever puzzles.</p><p><a href="https://store.steampowered.com/app/3834580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>刻印战记：封神传奇（新規追加）</title>
-  <link>https://store.steampowered.com/app/4009680/</link>
-  <guid isPermaLink="false">steam-store-published-4009680</guid>
-  <pubDate>Fri, 31 Oct 2025 01:15:19 +0000</pubDate>
-  <description>Former inter-dimensional adventurers Luo Wenhao and Lin Youyue, now living ordinary lives, are reunited by the ancient Canonization of the Gods. The book suddenly unleashes its power, devouring them and thrusting them into a new journey across worlds.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009680/71f1e8bc1a06d683f826b666383408ea424d9b55/header.jpg?t=1761870128" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009680/71f1e8bc1a06d683f826b666383408ea424d9b55/header.jpg?t=1761870128" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009680/71f1e8bc1a06d683f826b666383408ea424d9b55/header.jpg?t=1761870128" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4009680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009680/71f1e8bc1a06d683f826b666383408ea424d9b55/header.jpg?t=1761870128" alt="刻印战记：封神传奇（新規追加）" /></a></p><p>Former inter-dimensional adventurers Luo Wenhao and Lin Youyue, now living ordinary lives, are reunited by the ancient Canonization of the Gods. The book suddenly unleashes its power, devouring them and thrusting them into a new journey across worlds.</p><p><a href="https://store.steampowered.com/app/4009680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
