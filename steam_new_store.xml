@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 02 Nov 2025 07:44:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 08:47:42 +0000</lastBuildDate>
+<item>
+  <title>The Promise Tree of Alden（新規追加）</title>
+  <link>https://store.steampowered.com/app/4128860/</link>
+  <guid isPermaLink="false">steam-store-published-4128860</guid>
+  <pubDate>Sun, 02 Nov 2025 08:47:42 +0000</pubDate>
+  <description>The Promise Tree of Alden is a short, atmospheric narrative experience about remorse, memory, and the silence of a forest once alive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128860/1596a2cea68203e7348685174284d6f980c7a6e5/header.jpg?t=1762071091" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128860/1596a2cea68203e7348685174284d6f980c7a6e5/header.jpg?t=1762071091" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128860/1596a2cea68203e7348685174284d6f980c7a6e5/header.jpg?t=1762071091" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128860/1596a2cea68203e7348685174284d6f980c7a6e5/header.jpg?t=1762071091" alt="The Promise Tree of Alden（新規追加）" /></a></p><p>The Promise Tree of Alden is a short, atmospheric narrative experience about remorse, memory, and the silence of a forest once alive.</p><p><a href="https://store.steampowered.com/app/4128860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Toto`s mini house（新規追加）</title>
   <link>https://store.steampowered.com/app/4129600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009680/71f1e8bc1a06d683f826b666383408ea424d9b55/header.jpg?t=1761870128" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009680/71f1e8bc1a06d683f826b666383408ea424d9b55/header.jpg?t=1761870128" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4009680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009680/71f1e8bc1a06d683f826b666383408ea424d9b55/header.jpg?t=1761870128" alt="刻印战记：封神传奇（新規追加）" /></a></p><p>Former inter-dimensional adventurers Luo Wenhao and Lin Youyue, now living ordinary lives, are reunited by the ancient Canonization of the Gods. The book suddenly unleashes its power, devouring them and thrusting them into a new journey across worlds.</p><p><a href="https://store.steampowered.com/app/4009680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Boxed Up!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4106300/</link>
-  <guid isPermaLink="false">steam-store-published-4106300</guid>
-  <pubDate>Fri, 31 Oct 2025 01:15:19 +0000</pubDate>
-  <description>The Box Company™ is excited to hire you as our new Box Sorter! Act as our champion of quality, destroying discrepant packages, and keeping our service faultless and troll free!* *The Box Company™ denies any and all claims of trolls infiltrating our packaging. Such claims are without evidence.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106300/f2a1cc424d2b71f2448e3bdb094742813f744cad/header.jpg?t=1761867976" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106300/f2a1cc424d2b71f2448e3bdb094742813f744cad/header.jpg?t=1761867976" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106300/f2a1cc424d2b71f2448e3bdb094742813f744cad/header.jpg?t=1761867976" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4106300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106300/f2a1cc424d2b71f2448e3bdb094742813f744cad/header.jpg?t=1761867976" alt="Boxed Up!（新規追加）" /></a></p><p>The Box Company™ is excited to hire you as our new Box Sorter! Act as our champion of quality, destroying discrepant packages, and keeping our service faultless and troll free!* *The Box Company™ denies any and all claims of trolls infiltrating our packaging. Such claims are without evidence.</p><p><a href="https://store.steampowered.com/app/4106300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
