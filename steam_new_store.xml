@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 03 Nov 2025 06:26:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 07:45:18 +0000</lastBuildDate>
+<item>
+  <title>Stupid Spaceships（新規追加）</title>
+  <link>https://store.steampowered.com/app/4124000/</link>
+  <guid isPermaLink="false">steam-store-published-4124000</guid>
+  <pubDate>Mon, 03 Nov 2025 07:45:18 +0000</pubDate>
+  <description>Survive from the deadly space as the Deadly Duo “Toshiro” and “T-su” in their Stupid Spaceship. A 2 player co-op game (Solo is fine) in which you have to control each thrusters to steer the (Stupid) Spaceship to reach the goal before your Stupid Spaceship is broken!!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124000/dda136fd00c5a94b5294c32ea0c9744a2028bed0/header.jpg?t=1762151349" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124000/dda136fd00c5a94b5294c32ea0c9744a2028bed0/header.jpg?t=1762151349" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124000/dda136fd00c5a94b5294c32ea0c9744a2028bed0/header.jpg?t=1762151349" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4124000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124000/dda136fd00c5a94b5294c32ea0c9744a2028bed0/header.jpg?t=1762151349" alt="Stupid Spaceships（新規追加）" /></a></p><p>Survive from the deadly space as the Deadly Duo “Toshiro” and “T-su” in their Stupid Spaceship. A 2 player co-op game (Solo is fine) in which you have to control each thrusters to steer the (Stupid) Spaceship to reach the goal before your Stupid Spaceship is broken!!</p><p><a href="https://store.steampowered.com/app/4124000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>This cap is so fun, no cap（新規追加）</title>
   <link>https://store.steampowered.com/app/4118910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087370/a35265b46d4d8d6882f62f86f98d1d05bf4c5b7e/header.jpg?t=1761889158" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087370/a35265b46d4d8d6882f62f86f98d1d05bf4c5b7e/header.jpg?t=1761889158" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4087370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087370/a35265b46d4d8d6882f62f86f98d1d05bf4c5b7e/header.jpg?t=1761889158" alt="Unfathom（新規追加）" /></a></p><p>Dungeon-delve with up to eight friends in Unfathom, an arcade-style, class-based action RPG that pits two teams of four against one another in a frantic quest to complete objectives, collect treasure, and battle dungeon foes!</p><p><a href="https://store.steampowered.com/app/4087370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>デテイケ -GetOut-（新規追加）</title>
-  <link>https://store.steampowered.com/app/4052460/</link>
-  <guid isPermaLink="false">steam-store-published-4052460</guid>
-  <pubDate>Fri, 31 Oct 2025 07:44:40 +0000</pubDate>
-  <description>深夜、あなたは一人、呪われた家にいる。 カメラを設置するだけの簡単な仕事のはずだった。</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052460/9629b5230b872ee4c787ea4e193c9195c8c24602/header.jpg?t=1761889639" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052460/9629b5230b872ee4c787ea4e193c9195c8c24602/header.jpg?t=1761889639" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052460/9629b5230b872ee4c787ea4e193c9195c8c24602/header.jpg?t=1761889639" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4052460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052460/9629b5230b872ee4c787ea4e193c9195c8c24602/header.jpg?t=1761889639" alt="デテイケ -GetOut-（新規追加）" /></a></p><p>深夜、あなたは一人、呪われた家にいる。 カメラを設置するだけの簡単な仕事のはずだった。</p><p><a href="https://store.steampowered.com/app/4052460/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
