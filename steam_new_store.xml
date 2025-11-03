@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 03 Nov 2025 14:16:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 14:52:30 +0000</lastBuildDate>
+<item>
+  <title>Stupidfun Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3276150/</link>
+  <guid isPermaLink="false">steam-store-published-3276150</guid>
+  <pubDate>Mon, 03 Nov 2025 14:52:30 +0000</pubDate>
+  <description>type=game, appid=3276150</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276150/2d3374123fafddfb3f85cea9fea1ed3c545fbd11/header.jpg?t=1762180847" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276150/2d3374123fafddfb3f85cea9fea1ed3c545fbd11/header.jpg?t=1762180847" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276150/2d3374123fafddfb3f85cea9fea1ed3c545fbd11/header.jpg?t=1762180847" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3276150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276150/2d3374123fafddfb3f85cea9fea1ed3c545fbd11/header.jpg?t=1762180847" alt="Stupidfun Playtest（新規追加）" /></a></p><p>type=game, appid=3276150</p><p><a href="https://store.steampowered.com/app/3276150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>AI UPRISING（新規追加）</title>
   <link>https://store.steampowered.com/app/4097500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141370/4900d26e2d7bd76e7fc57ab87f578905f436d436/header.jpg?t=1761911028" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141370/4900d26e2d7bd76e7fc57ab87f578905f436d436/header.jpg?t=1761911028" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4141370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141370/4900d26e2d7bd76e7fc57ab87f578905f436d436/header.jpg?t=1761911028" alt="Survival Supplies Factory（新規追加）" /></a></p><p>Invest, craft, and spend to survive. An incremental, top-down game with resource management and autobattle.</p><p><a href="https://store.steampowered.com/app/4141370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>キー暴動（新規追加）</title>
-  <link>https://store.steampowered.com/app/4113090/</link>
-  <guid isPermaLink="false">steam-store-published-4113090</guid>
-  <pubDate>Fri, 31 Oct 2025 11:44:21 +0000</pubDate>
-  <description>A slightly educational time-attack puzzle game! The keys, tired of being typed on by humans, have started to riot—this is truly a Key Riot! Catch them all and return them to their original positions!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113090/b639d8ea1b1906c8a4e46299188c95c94eb353a1/header.jpg?t=1761909645" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113090/b639d8ea1b1906c8a4e46299188c95c94eb353a1/header.jpg?t=1761909645" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113090/b639d8ea1b1906c8a4e46299188c95c94eb353a1/header.jpg?t=1761909645" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4113090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113090/b639d8ea1b1906c8a4e46299188c95c94eb353a1/header.jpg?t=1761909645" alt="キー暴動（新規追加）" /></a></p><p>A slightly educational time-attack puzzle game! The keys, tired of being typed on by humans, have started to riot—this is truly a Key Riot! Catch them all and return them to their original positions!</p><p><a href="https://store.steampowered.com/app/4113090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
