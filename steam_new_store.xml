@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 03 Nov 2025 12:35:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Nov 2025 13:17:39 +0000</lastBuildDate>
+<item>
+  <title>VR OS Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3893370/</link>
+  <guid isPermaLink="false">steam-store-published-3893370</guid>
+  <pubDate>Mon, 03 Nov 2025 13:17:39 +0000</pubDate>
+  <description>type=game, appid=3893370</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893370/91dde4f9d8b60c367016ec3f0abe7508bee67f27/header.jpg?t=1762170973" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893370/91dde4f9d8b60c367016ec3f0abe7508bee67f27/header.jpg?t=1762170973" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893370/91dde4f9d8b60c367016ec3f0abe7508bee67f27/header.jpg?t=1762170973" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3893370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893370/91dde4f9d8b60c367016ec3f0abe7508bee67f27/header.jpg?t=1762170973" alt="VR OS Playtest（新規追加）" /></a></p><p>type=game, appid=3893370</p><p><a href="https://store.steampowered.com/app/3893370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Archetypes Festival（新規追加）</title>
+  <link>https://store.steampowered.com/app/4124510/</link>
+  <guid isPermaLink="false">steam-store-published-4124510</guid>
+  <pubDate>Mon, 03 Nov 2025 13:17:39 +0000</pubDate>
+  <description>Draw your knife and carve your way through the absurd world of archetypes. Overcome platforming stages, collect items, talk to unique characters and defeat powerful bosses.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124510/7f2216054e445f1cff337355e15c55b0943ded32/header.jpg?t=1762173672" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124510/7f2216054e445f1cff337355e15c55b0943ded32/header.jpg?t=1762173672" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124510/7f2216054e445f1cff337355e15c55b0943ded32/header.jpg?t=1762173672" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4124510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124510/7f2216054e445f1cff337355e15c55b0943ded32/header.jpg?t=1762173672" alt="Archetypes Festival（新規追加）" /></a></p><p>Draw your knife and carve your way through the absurd world of archetypes. Overcome platforming stages, collect items, talk to unique characters and defeat powerful bosses.</p><p><a href="https://store.steampowered.com/app/4124510/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Blades For Hire Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3812520/</link>
+  <guid isPermaLink="false">steam-store-published-3812520</guid>
+  <pubDate>Mon, 03 Nov 2025 13:17:39 +0000</pubDate>
+  <description>type=game, appid=3812520</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812520/decac1bb86dd3dd070d751156bde45e65f84aa37/header.jpg?t=1762171107" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812520/decac1bb86dd3dd070d751156bde45e65f84aa37/header.jpg?t=1762171107" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812520/decac1bb86dd3dd070d751156bde45e65f84aa37/header.jpg?t=1762171107" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3812520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812520/decac1bb86dd3dd070d751156bde45e65f84aa37/header.jpg?t=1762171107" alt="Blades For Hire Playtest（新規追加）" /></a></p><p>type=game, appid=3812520</p><p><a href="https://store.steampowered.com/app/3812520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Blockboy and The Wizard（新規追加）</title>
   <link>https://store.steampowered.com/app/2481500/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127790/ba57d14d016ed5a6f637f58aa7c84c9d68de4241/header.jpg?t=1761906532" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127790/ba57d14d016ed5a6f637f58aa7c84c9d68de4241/header.jpg?t=1761906532" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4127790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127790/ba57d14d016ed5a6f637f58aa7c84c9d68de4241/header.jpg?t=1761906532" alt="UNDYING: Kowloon in Red（新規追加）" /></a></p><p>Survive as a young, lost vampire in 1950s Kowloon and navigate its dark depths, but beware; you&#x27;re not the only thing that lurks within them. Grow as a vampire, using skills and vampiric abilities to overcome challenges, gain allies and manage your overwhelming thirst.</p><p><a href="https://store.steampowered.com/app/4127790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pixel Cross Stitch - Autumn Pack 3（新規追加）</title>
-  <link>https://store.steampowered.com/app/3306500/</link>
-  <guid isPermaLink="false">steam-store-published-3306500</guid>
-  <pubDate>Fri, 31 Oct 2025 10:50:43 +0000</pubDate>
-  <description>20 autumn-themed images to color by number or cross-stitch.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306500/70f83d303bbd0d2bde949f2f15748b31b21639fb/header.jpg?t=1761906640" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306500/70f83d303bbd0d2bde949f2f15748b31b21639fb/header.jpg?t=1761906640" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306500/70f83d303bbd0d2bde949f2f15748b31b21639fb/header.jpg?t=1761906640" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3306500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306500/70f83d303bbd0d2bde949f2f15748b31b21639fb/header.jpg?t=1761906640" alt="Pixel Cross Stitch - Autumn Pack 3（新規追加）" /></a></p><p>20 autumn-themed images to color by number or cross-stitch.</p><p><a href="https://store.steampowered.com/app/3306500/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Futa Night ⚔️（新規追加）</title>
-  <link>https://store.steampowered.com/app/4138270/</link>
-  <guid isPermaLink="false">steam-store-published-4138270</guid>
-  <pubDate>Fri, 31 Oct 2025 10:50:43 +0000</pubDate>
-  <description>Expert cat burglar Twyla is getting bored with her line of work. She’s just so good at her profession that she’s never really in danger. But on this particular night, she makes a simple mistake that will have long lasting sexy consequences she’ll never get away from!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138270/8c7f61177d3452ef3ceebc91da212008a812f623/header.jpg?t=1761903578" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138270/8c7f61177d3452ef3ceebc91da212008a812f623/header.jpg?t=1761903578" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138270/8c7f61177d3452ef3ceebc91da212008a812f623/header.jpg?t=1761903578" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4138270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4138270/8c7f61177d3452ef3ceebc91da212008a812f623/header.jpg?t=1761903578" alt="Futa Night ⚔️（新規追加）" /></a></p><p>Expert cat burglar Twyla is getting bored with her line of work. She’s just so good at her profession that she’s never really in danger. But on this particular night, she makes a simple mistake that will have long lasting sexy consequences she’ll never get away from!</p><p><a href="https://store.steampowered.com/app/4138270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Misadventures of Spaceman Biff Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4122270/</link>
-  <guid isPermaLink="false">steam-store-published-4122270</guid>
-  <pubDate>Fri, 31 Oct 2025 10:50:43 +0000</pubDate>
-  <description>type=demo, appid=4122270</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122270/0b5282e25dae06766dc51380e67de7a77907a011/header.jpg?t=1761906224" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122270/0b5282e25dae06766dc51380e67de7a77907a011/header.jpg?t=1761906224" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122270/0b5282e25dae06766dc51380e67de7a77907a011/header.jpg?t=1761906224" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122270/0b5282e25dae06766dc51380e67de7a77907a011/header.jpg?t=1761906224" alt="Misadventures of Spaceman Biff Demo（新規追加）" /></a></p><p>type=demo, appid=4122270</p><p><a href="https://store.steampowered.com/app/4122270/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
