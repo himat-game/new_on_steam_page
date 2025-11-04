@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 04 Nov 2025 06:54:56 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 07:46:05 +0000</lastBuildDate>
+<item>
+  <title>コンビニ戦争（新規追加）</title>
+  <link>https://store.steampowered.com/app/4128690/</link>
+  <guid isPermaLink="false">steam-store-published-4128690</guid>
+  <pubDate>Tue, 04 Nov 2025 07:46:05 +0000</pubDate>
+  <description>あなたはとある町のコンビニ「イレブンセブン」のオーナーです。 100万円の資金を元手にうまく仕入れてうまく客を捌いて大儲けしてください。</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128690/9fd5b1b7e1fd87da12a7d32fc7367314691a5c81/header.jpg?t=1762237186" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128690/9fd5b1b7e1fd87da12a7d32fc7367314691a5c81/header.jpg?t=1762237186" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128690/9fd5b1b7e1fd87da12a7d32fc7367314691a5c81/header.jpg?t=1762237186" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128690/9fd5b1b7e1fd87da12a7d32fc7367314691a5c81/header.jpg?t=1762237186" alt="コンビニ戦争（新規追加）" /></a></p><p>あなたはとある町のコンビニ「イレブンセブン」のオーナーです。 100万円の資金を元手にうまく仕入れてうまく客を捌いて大儲けしてください。</p><p><a href="https://store.steampowered.com/app/4128690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>After... Prologue（新規追加）</title>
   <link>https://store.steampowered.com/app/4094260/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093180/f02827b656f2686ea54fd389628fde0ba7276a9e/header.jpg?t=1761962342" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093180/f02827b656f2686ea54fd389628fde0ba7276a9e/header.jpg?t=1761962342" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4093180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093180/f02827b656f2686ea54fd389628fde0ba7276a9e/header.jpg?t=1761962342" alt="Dwarven Rampart Demo（新規追加）" /></a></p><p>Dwarven Rampart is a Fantasy strategy game where you build your Dwarven town, raise massive armies. How long can you survive?</p><p><a href="https://store.steampowered.com/app/4093180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>WITHER（新規追加）</title>
-  <link>https://store.steampowered.com/app/4121560/</link>
-  <guid isPermaLink="false">steam-store-published-4121560</guid>
-  <pubDate>Sat, 01 Nov 2025 02:51:11 +0000</pubDate>
-  <description>Step into the role of Eleanor Hartfield, a grieving widow suffering from dissociative amnesia. Wander the halls of an eerie 1920s mansion as haunting visions torment you and the line between reality and nightmare begins to blur.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121560/ae7ab3d88d7a73570dfd63b4ca839d63eeb37988/header.jpg?t=1761965414" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121560/ae7ab3d88d7a73570dfd63b4ca839d63eeb37988/header.jpg?t=1761965414" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121560/ae7ab3d88d7a73570dfd63b4ca839d63eeb37988/header.jpg?t=1761965414" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4121560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121560/ae7ab3d88d7a73570dfd63b4ca839d63eeb37988/header.jpg?t=1761965414" alt="WITHER（新規追加）" /></a></p><p>Step into the role of Eleanor Hartfield, a grieving widow suffering from dissociative amnesia. Wander the halls of an eerie 1920s mansion as haunting visions torment you and the line between reality and nightmare begins to blur.</p><p><a href="https://store.steampowered.com/app/4121560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
