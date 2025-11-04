@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 04 Nov 2025 13:52:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Nov 2025 14:17:32 +0000</lastBuildDate>
+<item>
+  <title>Cali and the Kingdom of the Yard（新規追加）</title>
+  <link>https://store.steampowered.com/app/4116900/</link>
+  <guid isPermaLink="false">steam-store-published-4116900</guid>
+  <pubDate>Tue, 04 Nov 2025 14:17:32 +0000</pubDate>
+  <description>Cali in new adventures! Our kitten&#x27;s last adventure was an unexpected encounter with an extremely dangerous creature: a playful golden retriever wanting to make friends! Curious to know how this encounter ends? Follow new scenes from Cali&#x27;s story in this puzzle game, composed of 8 levels.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4116900/5b6483592c933013e9418fc5512c4086ee177aba/header.jpg?t=1762263914" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4116900/5b6483592c933013e9418fc5512c4086ee177aba/header.jpg?t=1762263914" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4116900/5b6483592c933013e9418fc5512c4086ee177aba/header.jpg?t=1762263914" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4116900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4116900/5b6483592c933013e9418fc5512c4086ee177aba/header.jpg?t=1762263914" alt="Cali and the Kingdom of the Yard（新規追加）" /></a></p><p>Cali in new adventures! Our kitten&#x27;s last adventure was an unexpected encounter with an extremely dangerous creature: a playful golden retriever wanting to make friends! Curious to know how this encounter ends? Follow new scenes from Cali&#x27;s story in this puzzle game, composed of 8 levels.</p><p><a href="https://store.steampowered.com/app/4116900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hidden Cats in Spooky Village - Coloring Book and Poster（新規追加）</title>
   <link>https://store.steampowered.com/app/4141160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137080/ca9c0354371b67bf519b8dde5cb07c78dd730ec2/header.jpg?t=1762008577" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137080/ca9c0354371b67bf519b8dde5cb07c78dd730ec2/header.jpg?t=1762008577" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4137080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137080/ca9c0354371b67bf519b8dde5cb07c78dd730ec2/header.jpg?t=1762008577" alt="Friends of a Feather Playtest（新規追加）" /></a></p><p>type=game, appid=4137080</p><p><a href="https://store.steampowered.com/app/4137080/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Toto&#x27;s Journey Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4108980/</link>
-  <guid isPermaLink="false">steam-store-published-4108980</guid>
-  <pubDate>Sat, 01 Nov 2025 15:44:41 +0000</pubDate>
-  <description>type=game, appid=4108980</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108980/7e35ffe005e50dd2eb9e94b0dedd6d0d53377ca6/header.jpg?t=1762009763" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108980/7e35ffe005e50dd2eb9e94b0dedd6d0d53377ca6/header.jpg?t=1762009763" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108980/7e35ffe005e50dd2eb9e94b0dedd6d0d53377ca6/header.jpg?t=1762009763" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4108980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108980/7e35ffe005e50dd2eb9e94b0dedd6d0d53377ca6/header.jpg?t=1762009763" alt="Toto&#x27;s Journey Playtest（新規追加）" /></a></p><p>type=game, appid=4108980</p><p><a href="https://store.steampowered.com/app/4108980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
