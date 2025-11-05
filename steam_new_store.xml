@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 05 Nov 2025 12:35:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 13:18:18 +0000</lastBuildDate>
+<item>
+  <title>DYSTHANASIA（新規追加）</title>
+  <link>https://store.steampowered.com/app/3211490/</link>
+  <guid isPermaLink="false">steam-store-published-3211490</guid>
+  <pubDate>Wed, 05 Nov 2025 13:18:18 +0000</pubDate>
+  <description>You awaken in a cold unfamiliar building crawling with grotesque creatures. Stave off terror using your wits and anything you can find, then try to make it out alive in this highly atmospheric environmental horror game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211490/83a93eb72421a1a32d0457aa0483ba1df96f884f/header.jpg?t=1762343944" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211490/83a93eb72421a1a32d0457aa0483ba1df96f884f/header.jpg?t=1762343944" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211490/83a93eb72421a1a32d0457aa0483ba1df96f884f/header.jpg?t=1762343944" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3211490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3211490/83a93eb72421a1a32d0457aa0483ba1df96f884f/header.jpg?t=1762343944" alt="DYSTHANASIA（新規追加）" /></a></p><p>You awaken in a cold unfamiliar building crawling with grotesque creatures. Stave off terror using your wits and anything you can find, then try to make it out alive in this highly atmospheric environmental horror game.</p><p><a href="https://store.steampowered.com/app/3211490/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Nemire - Rivers of Blood（新規追加）</title>
   <link>https://store.steampowered.com/app/3538890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4062120/2a8c14863787212a5983510a270080b2c259714a/header.jpg?t=1762206703" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4062120/2a8c14863787212a5983510a270080b2c259714a/header.jpg?t=1762206703" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4062120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4062120/2a8c14863787212a5983510a270080b2c259714a/header.jpg?t=1762206703" alt="Solara and the Spirit Realm Playtest（新規追加）" /></a></p><p>type=game, appid=4062120</p><p><a href="https://store.steampowered.com/app/4062120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Deprived（新規追加）</title>
-  <link>https://store.steampowered.com/app/4087780/</link>
-  <guid isPermaLink="false">steam-store-published-4087780</guid>
-  <pubDate>Mon, 03 Nov 2025 21:44:43 +0000</pubDate>
-  <description>“Trapped in a loop, you must capture anomalies and find the red door to escape the house. But beware... something else lurks within these walls. Can you break the cycle?”</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087780/3d9d772682fdde48296c40977b72dfe8510ab26a/header.jpg?t=1762200602" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087780/3d9d772682fdde48296c40977b72dfe8510ab26a/header.jpg?t=1762200602" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087780/3d9d772682fdde48296c40977b72dfe8510ab26a/header.jpg?t=1762200602" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4087780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087780/3d9d772682fdde48296c40977b72dfe8510ab26a/header.jpg?t=1762200602" alt="Deprived（新規追加）" /></a></p><p>“Trapped in a loop, you must capture anomalies and find the red door to escape the house. But beware... something else lurks within these walls. Can you break the cycle?”</p><p><a href="https://store.steampowered.com/app/4087780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
