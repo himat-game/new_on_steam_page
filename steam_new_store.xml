@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 05 Nov 2025 11:45:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 12:35:06 +0000</lastBuildDate>
+<item>
+  <title>Nemire - Rivers of Blood（新規追加）</title>
+  <link>https://store.steampowered.com/app/3538890/</link>
+  <guid isPermaLink="false">steam-store-published-3538890</guid>
+  <pubDate>Wed, 05 Nov 2025 12:35:06 +0000</pubDate>
+  <description>Bathe in human blood as they paint the ground in blood.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538890/97f8c2b4032c05a8f569039785f9f854af009e71/header.jpg?t=1762343756" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538890/97f8c2b4032c05a8f569039785f9f854af009e71/header.jpg?t=1762343756" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538890/97f8c2b4032c05a8f569039785f9f854af009e71/header.jpg?t=1762343756" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3538890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538890/97f8c2b4032c05a8f569039785f9f854af009e71/header.jpg?t=1762343756" alt="Nemire - Rivers of Blood（新規追加）" /></a></p><p>Bathe in human blood as they paint the ground in blood.</p><p><a href="https://store.steampowered.com/app/3538890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SFXEngine Sound Pack: Doors（新規追加）</title>
   <link>https://store.steampowered.com/app/3414160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087780/3d9d772682fdde48296c40977b72dfe8510ab26a/header.jpg?t=1762200602" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087780/3d9d772682fdde48296c40977b72dfe8510ab26a/header.jpg?t=1762200602" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4087780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087780/3d9d772682fdde48296c40977b72dfe8510ab26a/header.jpg?t=1762200602" alt="Deprived（新規追加）" /></a></p><p>“Trapped in a loop, you must capture anomalies and find the red door to escape the house. But beware... something else lurks within these walls. Can you break the cycle?”</p><p><a href="https://store.steampowered.com/app/4087780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>CLEANING.INC（新規追加）</title>
-  <link>https://store.steampowered.com/app/4134300/</link>
-  <guid isPermaLink="false">steam-store-published-4134300</guid>
-  <pubDate>Mon, 03 Nov 2025 21:44:43 +0000</pubDate>
-  <description>Cleaning.INC is a cozy, casual, and easy-going cleaning game where you take on the role of manager of a newly established cleaning company in town!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134300/c22e25ab7674813f8ddd071dedfd63d288c85b4a/header.jpg?t=1762200225" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134300/c22e25ab7674813f8ddd071dedfd63d288c85b4a/header.jpg?t=1762200225" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134300/c22e25ab7674813f8ddd071dedfd63d288c85b4a/header.jpg?t=1762200225" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4134300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134300/c22e25ab7674813f8ddd071dedfd63d288c85b4a/header.jpg?t=1762200225" alt="CLEANING.INC（新規追加）" /></a></p><p>Cleaning.INC is a cozy, casual, and easy-going cleaning game where you take on the role of manager of a newly established cleaning company in town!</p><p><a href="https://store.steampowered.com/app/4134300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
