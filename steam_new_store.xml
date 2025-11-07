@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 07 Nov 2025 02:49:39 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Nov 2025 03:41:53 +0000</lastBuildDate>
+<item>
+  <title>阴界诡录·尸语公寓 Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4159640/</link>
+  <guid isPermaLink="false">steam-store-published-4159640</guid>
+  <pubDate>Fri, 07 Nov 2025 03:41:53 +0000</pubDate>
+  <description>type=demo, appid=4159640</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159640/6803b11f4f671731cb41f076e3007a62893f6c8e/header.jpg?t=1762483059" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159640/6803b11f4f671731cb41f076e3007a62893f6c8e/header.jpg?t=1762483059" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159640/6803b11f4f671731cb41f076e3007a62893f6c8e/header.jpg?t=1762483059" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4159640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159640/6803b11f4f671731cb41f076e3007a62893f6c8e/header.jpg?t=1762483059" alt="阴界诡录·尸语公寓 Demo（新規追加）" /></a></p><p>type=demo, appid=4159640</p><p><a href="https://store.steampowered.com/app/4159640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Inflafrog: Colector&#x27;s Edition（新規追加）</title>
   <link>https://store.steampowered.com/app/4128290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151950/62d5a6642b9169f9b76f0ceb6466e4b5adf88cac/header.jpg?t=1762378864" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151950/62d5a6642b9169f9b76f0ceb6466e4b5adf88cac/header.jpg?t=1762378864" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4151950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151950/62d5a6642b9169f9b76f0ceb6466e4b5adf88cac/header.jpg?t=1762378864" alt="Evil Doll Playtest（新規追加）" /></a></p><p>type=game, appid=4151950</p><p><a href="https://store.steampowered.com/app/4151950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Glitch Tower（新規追加）</title>
-  <link>https://store.steampowered.com/app/3724600/</link>
-  <guid isPermaLink="false">steam-store-published-3724600</guid>
-  <pubDate>Wed, 05 Nov 2025 22:46:27 +0000</pubDate>
-  <description>Glitch Tower is a precision 2D roguelike where every step can mutate the rules. Pick a hero, craft wild synergies from corrupted lists, and master fast combat. Bend the glitch, or be consumed. 🕰️ &amp;quot;Time judges. The Tower executes.&amp;quot;</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724600/144125cb67c798412bb5cd7bd7137149ce0958d0/header.jpg?t=1762378211" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724600/144125cb67c798412bb5cd7bd7137149ce0958d0/header.jpg?t=1762378211" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724600/144125cb67c798412bb5cd7bd7137149ce0958d0/header.jpg?t=1762378211" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3724600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724600/144125cb67c798412bb5cd7bd7137149ce0958d0/header.jpg?t=1762378211" alt="Glitch Tower（新規追加）" /></a></p><p>Glitch Tower is a precision 2D roguelike where every step can mutate the rules. Pick a hero, craft wild synergies from corrupted lists, and master fast combat. Bend the glitch, or be consumed. 🕰️ &amp;quot;Time judges. The Tower executes.&amp;quot;</p><p><a href="https://store.steampowered.com/app/3724600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
