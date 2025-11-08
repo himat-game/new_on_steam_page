@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 08 Nov 2025 20:47:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 21:44:57 +0000</lastBuildDate>
+<item>
+  <title>Cig Walk（新規追加）</title>
+  <link>https://store.steampowered.com/app/4160910/</link>
+  <guid isPermaLink="false">steam-store-published-4160910</guid>
+  <pubDate>Sat, 08 Nov 2025 21:44:57 +0000</pubDate>
+  <description>A place where civilization burned out long ago, but the snow still falls, and the wind still howls between dead apartment blocks. There are no missions. No miracles. Just the cold, the silence, and the soft glow of a cigarette. Relax in this doomer walking simulator and smoke them if you got them.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160910/359a86722c3ad292bd369cee11f0385cc5fb2dba/header.jpg?t=1762636413" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160910/359a86722c3ad292bd369cee11f0385cc5fb2dba/header.jpg?t=1762636413" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160910/359a86722c3ad292bd369cee11f0385cc5fb2dba/header.jpg?t=1762636413" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4160910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160910/359a86722c3ad292bd369cee11f0385cc5fb2dba/header.jpg?t=1762636413" alt="Cig Walk（新規追加）" /></a></p><p>A place where civilization burned out long ago, but the snow still falls, and the wind still howls between dead apartment blocks. There are no missions. No miracles. Just the cold, the silence, and the soft glow of a cigarette. Relax in this doomer walking simulator and smoke them if you got them.</p><p><a href="https://store.steampowered.com/app/4160910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sunset Racing Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4147330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818050/ef9182543ba024ae658939ede5967dfe95b8f514/header.jpg?t=1762481529" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818050/ef9182543ba024ae658939ede5967dfe95b8f514/header.jpg?t=1762481529" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3818050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818050/ef9182543ba024ae658939ede5967dfe95b8f514/header.jpg?t=1762481529" alt="Project SEVER Demo（新規追加）" /></a></p><p>type=demo, appid=3818050</p><p><a href="https://store.steampowered.com/app/3818050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Eclipse Breaker Soundtrack（新規追加）</title>
-  <link>https://store.steampowered.com/app/4159110/</link>
-  <guid isPermaLink="false">steam-store-published-4159110</guid>
-  <pubDate>Fri, 07 Nov 2025 02:49:39 +0000</pubDate>
-  <description>The original and official sound track of Eclipse Breaker, composed by Ivan Mychal Porter.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159110/8553995bbbe67c436bebe029c3e8636b950f6fa7/header.jpg?t=1762478686" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159110/8553995bbbe67c436bebe029c3e8636b950f6fa7/header.jpg?t=1762478686" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159110/8553995bbbe67c436bebe029c3e8636b950f6fa7/header.jpg?t=1762478686" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4159110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159110/8553995bbbe67c436bebe029c3e8636b950f6fa7/header.jpg?t=1762478686" alt="Eclipse Breaker Soundtrack（新規追加）" /></a></p><p>The original and official sound track of Eclipse Breaker, composed by Ivan Mychal Porter.</p><p><a href="https://store.steampowered.com/app/4159110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
