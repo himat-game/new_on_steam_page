@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 08 Nov 2025 19:44:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 20:47:09 +0000</lastBuildDate>
+<item>
+  <title>Sunset Racing Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4147330/</link>
+  <guid isPermaLink="false">steam-store-published-4147330</guid>
+  <pubDate>Sat, 08 Nov 2025 20:47:09 +0000</pubDate>
+  <description>type=demo, appid=4147330</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147330/bc1d0d3694a7602958642cae023046ca17bd6933/header.jpg?t=1762633192" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147330/bc1d0d3694a7602958642cae023046ca17bd6933/header.jpg?t=1762633192" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147330/bc1d0d3694a7602958642cae023046ca17bd6933/header.jpg?t=1762633192" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4147330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147330/bc1d0d3694a7602958642cae023046ca17bd6933/header.jpg?t=1762633192" alt="Sunset Racing Demo（新規追加）" /></a></p><p>type=demo, appid=4147330</p><p><a href="https://store.steampowered.com/app/4147330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>My Little Spider - Supporter Pack（新規追加）</title>
   <link>https://store.steampowered.com/app/4129310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159110/8553995bbbe67c436bebe029c3e8636b950f6fa7/header.jpg?t=1762478686" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159110/8553995bbbe67c436bebe029c3e8636b950f6fa7/header.jpg?t=1762478686" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4159110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159110/8553995bbbe67c436bebe029c3e8636b950f6fa7/header.jpg?t=1762478686" alt="Eclipse Breaker Soundtrack（新規追加）" /></a></p><p>The original and official sound track of Eclipse Breaker, composed by Ivan Mychal Porter.</p><p><a href="https://store.steampowered.com/app/4159110/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Lost Land Of Bahía Blanca（新規追加）</title>
-  <link>https://store.steampowered.com/app/4144100/</link>
-  <guid isPermaLink="false">steam-store-published-4144100</guid>
-  <pubDate>Fri, 07 Nov 2025 02:49:39 +0000</pubDate>
-  <description>A Visual Novel with light RPG elements set in a city ruled by vampires. Play as Omenzia, an elder woman returning from exile to seek her recently dissapeared family. Inspired by the true events of the last Argentine dictatorship.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144100/fd1239b01bed014833f7993b15e3605337059414/header.jpg?t=1762481045" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144100/fd1239b01bed014833f7993b15e3605337059414/header.jpg?t=1762481045" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144100/fd1239b01bed014833f7993b15e3605337059414/header.jpg?t=1762481045" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4144100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144100/fd1239b01bed014833f7993b15e3605337059414/header.jpg?t=1762481045" alt="The Lost Land Of Bahía Blanca（新規追加）" /></a></p><p>A Visual Novel with light RPG elements set in a city ruled by vampires. Play as Omenzia, an elder woman returning from exile to seek her recently dissapeared family. Inspired by the true events of the last Argentine dictatorship.</p><p><a href="https://store.steampowered.com/app/4144100/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
