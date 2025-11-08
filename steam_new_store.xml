@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 08 Nov 2025 17:44:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 18:49:27 +0000</lastBuildDate>
+<item>
+  <title>Below The Silence（新規追加）</title>
+  <link>https://store.steampowered.com/app/4115680/</link>
+  <guid isPermaLink="false">steam-store-published-4115680</guid>
+  <pubDate>Sat, 08 Nov 2025 18:49:27 +0000</pubDate>
+  <description>What begins as a simple escape room night between two friends turns into a descent into fear, memory, and a cult that was never supposed to be found.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115680/2facfc145de82af0126bde0c448468d580a62e03/header.jpg?t=1762623624" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115680/2facfc145de82af0126bde0c448468d580a62e03/header.jpg?t=1762623624" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115680/2facfc145de82af0126bde0c448468d580a62e03/header.jpg?t=1762623624" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4115680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115680/2facfc145de82af0126bde0c448468d580a62e03/header.jpg?t=1762623624" alt="Below The Silence（新規追加）" /></a></p><p>What begins as a simple escape room night between two friends turns into a descent into fear, memory, and a cult that was never supposed to be found.</p><p><a href="https://store.steampowered.com/app/4115680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Among Paws（新規追加）</title>
   <link>https://store.steampowered.com/app/4135530/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161170/34461b1f2d5a67eac84bbd0f8dc1924ca00591c2/header.jpg?t=1762477360" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161170/34461b1f2d5a67eac84bbd0f8dc1924ca00591c2/header.jpg?t=1762477360" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4161170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161170/34461b1f2d5a67eac84bbd0f8dc1924ca00591c2/header.jpg?t=1762477360" alt="The Willowmist Emporium of Antiques &amp; Curiosities Demo（新規追加）" /></a></p><p>type=demo, appid=4161170</p><p><a href="https://store.steampowered.com/app/4161170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Decromancy（新規追加）</title>
-  <link>https://store.steampowered.com/app/4137380/</link>
-  <guid isPermaLink="false">steam-store-published-4137380</guid>
-  <pubDate>Fri, 07 Nov 2025 02:49:39 +0000</pubDate>
-  <description>In this necromantic lane-based deck building RPG; Capture the essence of deceased beasts, resurrect and command them in strategic card combat against various other zombie animals, and wrestle with the secrets of death itself.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137380/ccba99bf200579918983b5cc48abf9a672f53daf/header.jpg?t=1762481169" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137380/ccba99bf200579918983b5cc48abf9a672f53daf/header.jpg?t=1762481169" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137380/ccba99bf200579918983b5cc48abf9a672f53daf/header.jpg?t=1762481169" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4137380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137380/ccba99bf200579918983b5cc48abf9a672f53daf/header.jpg?t=1762481169" alt="Decromancy（新規追加）" /></a></p><p>In this necromantic lane-based deck building RPG; Capture the essence of deceased beasts, resurrect and command them in strategic card combat against various other zombie animals, and wrestle with the secrets of death itself.</p><p><a href="https://store.steampowered.com/app/4137380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
