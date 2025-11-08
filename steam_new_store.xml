@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 08 Nov 2025 21:44:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 22:45:09 +0000</lastBuildDate>
+<item>
+  <title>Burrow（新規追加）</title>
+  <link>https://store.steampowered.com/app/4109940/</link>
+  <guid isPermaLink="false">steam-store-published-4109940</guid>
+  <pubDate>Sat, 08 Nov 2025 22:45:09 +0000</pubDate>
+  <description>A cozy game about digging. Find items to add to your collection, or sell them to buy new tools!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109940/a38510438adf130ebbd1cd008213eb95b13d0192/header.jpg?t=1762639808" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109940/a38510438adf130ebbd1cd008213eb95b13d0192/header.jpg?t=1762639808" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109940/a38510438adf130ebbd1cd008213eb95b13d0192/header.jpg?t=1762639808" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4109940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109940/a38510438adf130ebbd1cd008213eb95b13d0192/header.jpg?t=1762639808" alt="Burrow（新規追加）" /></a></p><p>A cozy game about digging. Find items to add to your collection, or sell them to buy new tools!</p><p><a href="https://store.steampowered.com/app/4109940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cig Walk（新規追加）</title>
   <link>https://store.steampowered.com/app/4160910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141770/2e83688d05c0f9188ebd6af27865115c7e13511b/header.jpg?t=1762479163" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141770/2e83688d05c0f9188ebd6af27865115c7e13511b/header.jpg?t=1762479163" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4141770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141770/2e83688d05c0f9188ebd6af27865115c7e13511b/header.jpg?t=1762479163" alt="Molili AI Friends: Your AI Desk Pal（新規追加）" /></a></p><p>Bring a charming AI friend to your desktop. Molili AI friend listens, reads by your side, blushes when you care, and helps with study or work using a smart personality system that remembers your moments, growing from curious visitor to the companion who understands you best.</p><p><a href="https://store.steampowered.com/app/4141770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Project SEVER Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/3818050/</link>
-  <guid isPermaLink="false">steam-store-published-3818050</guid>
-  <pubDate>Fri, 07 Nov 2025 02:49:39 +0000</pubDate>
-  <description>type=demo, appid=3818050</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818050/ef9182543ba024ae658939ede5967dfe95b8f514/header.jpg?t=1762481529" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818050/ef9182543ba024ae658939ede5967dfe95b8f514/header.jpg?t=1762481529" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818050/ef9182543ba024ae658939ede5967dfe95b8f514/header.jpg?t=1762481529" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3818050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818050/ef9182543ba024ae658939ede5967dfe95b8f514/header.jpg?t=1762481529" alt="Project SEVER Demo（新規追加）" /></a></p><p>type=demo, appid=3818050</p><p><a href="https://store.steampowered.com/app/3818050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
