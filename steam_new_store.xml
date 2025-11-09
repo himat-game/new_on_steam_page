@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Nov 2025 16:49:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 17:44:41 +0000</lastBuildDate>
+<item>
+  <title>The Ballad of a True Thug（新規追加）</title>
+  <link>https://store.steampowered.com/app/3985000/</link>
+  <guid isPermaLink="false">steam-store-published-3985000</guid>
+  <pubDate>Sun, 09 Nov 2025 17:44:41 +0000</pubDate>
+  <description>The dark underbelly of 1990s Europe, criminal enterprise, and rivers of blood. Rise from a petty crook to a criminal legend, where every shot must be precise and any mistake is fatal. A brutal, top-down tactical shooter.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985000/870edbb1c5732223a7a82a811408a0826929aa9a/header.jpg?t=1762706817" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985000/870edbb1c5732223a7a82a811408a0826929aa9a/header.jpg?t=1762706817" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985000/870edbb1c5732223a7a82a811408a0826929aa9a/header.jpg?t=1762706817" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3985000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985000/870edbb1c5732223a7a82a811408a0826929aa9a/header.jpg?t=1762706817" alt="The Ballad of a True Thug（新規追加）" /></a></p><p>The dark underbelly of 1990s Europe, criminal enterprise, and rivers of blood. Rise from a petty crook to a criminal legend, where every shot must be precise and any mistake is fatal. A brutal, top-down tactical shooter.</p><p><a href="https://store.steampowered.com/app/3985000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Backseat Champions（新規追加）</title>
   <link>https://store.steampowered.com/app/2174510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981890/67d524dc29c6fae3146ced4f1dfc1ba341267cee/header.jpg?t=1762497403" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981890/67d524dc29c6fae3146ced4f1dfc1ba341267cee/header.jpg?t=1762497403" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3981890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981890/67d524dc29c6fae3146ced4f1dfc1ba341267cee/header.jpg?t=1762497403" alt="Infinite Game Cartridge Collection - Unstable Towers（新規追加）" /></a></p><p>Try to get as high as possible before one of the blocks falls out of the construction zone.</p><p><a href="https://store.steampowered.com/app/3981890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Figure It Out: The Tantrum Simulator Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4129670/</link>
-  <guid isPermaLink="false">steam-store-published-4129670</guid>
-  <pubDate>Fri, 07 Nov 2025 07:44:44 +0000</pubDate>
-  <description>Her wrath shakes the earth - windows shatter, lava flows, everyone panics! Save the day by solving lightning-fast puzzles. Jump into the comic world, arrange illustrations and reveal the chain of events behind her explosive tantrums.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129670/7ce28e17be7ee0eac6d45af610aa71e0db47469b/header.jpg?t=1762495878" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129670/7ce28e17be7ee0eac6d45af610aa71e0db47469b/header.jpg?t=1762495878" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129670/7ce28e17be7ee0eac6d45af610aa71e0db47469b/header.jpg?t=1762495878" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4129670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129670/7ce28e17be7ee0eac6d45af610aa71e0db47469b/header.jpg?t=1762495878" alt="Figure It Out: The Tantrum Simulator Demo（新規追加）" /></a></p><p>Her wrath shakes the earth - windows shatter, lava flows, everyone panics! Save the day by solving lightning-fast puzzles. Jump into the comic world, arrange illustrations and reveal the chain of events behind her explosive tantrums.</p><p><a href="https://store.steampowered.com/app/4129670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
