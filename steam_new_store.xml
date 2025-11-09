@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Nov 2025 13:44:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 14:44:14 +0000</lastBuildDate>
+<item>
+  <title>And Eyes To See : Escape Room（新規追加）</title>
+  <link>https://store.steampowered.com/app/4114280/</link>
+  <guid isPermaLink="false">steam-store-published-4114280</guid>
+  <pubDate>Sun, 09 Nov 2025 14:44:14 +0000</pubDate>
+  <description>This is a story about a regular person. A person living in an attick apartment, struggling somewhat to make ends meet. Then, something rather odd happens ...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114280/c9614e7abccc9b3f2f9838ae51f57d91858bf58b/header.jpg?t=1762693915" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114280/c9614e7abccc9b3f2f9838ae51f57d91858bf58b/header.jpg?t=1762693915" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114280/c9614e7abccc9b3f2f9838ae51f57d91858bf58b/header.jpg?t=1762693915" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4114280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114280/c9614e7abccc9b3f2f9838ae51f57d91858bf58b/header.jpg?t=1762693915" alt="And Eyes To See : Escape Room（新規追加）" /></a></p><p>This is a story about a regular person. A person living in an attick apartment, struggling somewhat to make ends meet. Then, something rather odd happens ...</p><p><a href="https://store.steampowered.com/app/4114280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Offshore Sailor Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/4145750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056650/a81e3a490d35880b3127140d74c237895f90c27e/header.jpg?t=1762495594" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056650/a81e3a490d35880b3127140d74c237895f90c27e/header.jpg?t=1762495594" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4056650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056650/a81e3a490d35880b3127140d74c237895f90c27e/header.jpg?t=1762495594" alt="Ogu and the Secret Forest - Winter Festival Blast（新規追加）" /></a></p><p>Embark on an adventure to Winter Festival Island with Baby Ogu! Find the missing village chief and uncover the secrets hidden on the island. Includes a 1v1 local tennis battle game.</p><p><a href="https://store.steampowered.com/app/4056650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Million Card Game（新規追加）</title>
-  <link>https://store.steampowered.com/app/4082300/</link>
-  <guid isPermaLink="false">steam-store-published-4082300</guid>
-  <pubDate>Fri, 07 Nov 2025 06:54:13 +0000</pubDate>
-  <description>Compete with 1-5 players in this interactive cozy indie card game! Strategize table layouts and hand placement in order to be the first top win!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082300/5749654d8056bef50d2857f9ef008e89762bffb1/header.jpg?t=1762495026" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082300/5749654d8056bef50d2857f9ef008e89762bffb1/header.jpg?t=1762495026" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082300/5749654d8056bef50d2857f9ef008e89762bffb1/header.jpg?t=1762495026" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4082300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4082300/5749654d8056bef50d2857f9ef008e89762bffb1/header.jpg?t=1762495026" alt="Million Card Game（新規追加）" /></a></p><p>Compete with 1-5 players in this interactive cozy indie card game! Strategize table layouts and hand placement in order to be the first top win!</p><p><a href="https://store.steampowered.com/app/4082300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
