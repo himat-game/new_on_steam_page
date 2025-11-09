@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Nov 2025 06:22:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 07:44:21 +0000</lastBuildDate>
+<item>
+  <title>神券救我命 Playtest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4154500/</link>
+  <guid isPermaLink="false">steam-store-published-4154500</guid>
+  <pubDate>Sun, 09 Nov 2025 07:44:21 +0000</pubDate>
+  <description>type=game, appid=4154500</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154500/99180c0c19947132f7541c79c27980a4a51ef572/header.jpg?t=1762670221" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154500/99180c0c19947132f7541c79c27980a4a51ef572/header.jpg?t=1762670221" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154500/99180c0c19947132f7541c79c27980a4a51ef572/header.jpg?t=1762670221" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4154500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154500/99180c0c19947132f7541c79c27980a4a51ef572/header.jpg?t=1762670221" alt="神券救我命 Playtest（新規追加）" /></a></p><p>type=game, appid=4154500</p><p><a href="https://store.steampowered.com/app/4154500/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Good Day Fishing Playtest（新規追加）</title>
   <link>https://store.steampowered.com/app/3991230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747300/8c33cd7275acac8343952fd57b95b0c60bb291a9/header.jpg?t=1762486551" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747300/8c33cd7275acac8343952fd57b95b0c60bb291a9/header.jpg?t=1762486551" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2747300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747300/8c33cd7275acac8343952fd57b95b0c60bb291a9/header.jpg?t=1762486551" alt="Soulmask Playtest（新規追加）" /></a></p><p>type=game, appid=2747300</p><p><a href="https://store.steampowered.com/app/2747300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>别闹冒险王 Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4145440/</link>
-  <guid isPermaLink="false">steam-store-published-4145440</guid>
-  <pubDate>Fri, 07 Nov 2025 04:51:36 +0000</pubDate>
-  <description>type=game, appid=4145440</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145440/1786ef9d24436e7990be11720ee94adadf563cd9/header.jpg?t=1762487720" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145440/1786ef9d24436e7990be11720ee94adadf563cd9/header.jpg?t=1762487720" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145440/1786ef9d24436e7990be11720ee94adadf563cd9/header.jpg?t=1762487720" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4145440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145440/1786ef9d24436e7990be11720ee94adadf563cd9/header.jpg?t=1762487720" alt="别闹冒险王 Playtest（新規追加）" /></a></p><p>type=game, appid=4145440</p><p><a href="https://store.steampowered.com/app/4145440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
