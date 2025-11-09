@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Nov 2025 01:19:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 02:52:24 +0000</lastBuildDate>
+<item>
+  <title>Bungle Blast（新規追加）</title>
+  <link>https://store.steampowered.com/app/4133310/</link>
+  <guid isPermaLink="false">steam-store-published-4133310</guid>
+  <pubDate>Sun, 09 Nov 2025 02:52:24 +0000</pubDate>
+  <description>Blast your way through jungle dungeons, magic forests, molten volcanoes, and more in this action packed rogue like game. Take down wacky creatures with a variety of weapons. Upgrade to become stronger so that you can explore farther, and most importantly try not to die.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133310/38c57a44b94f0b49c7bbf7cbd1bf1a32139b20b7/header.jpg?t=1762654205" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133310/38c57a44b94f0b49c7bbf7cbd1bf1a32139b20b7/header.jpg?t=1762654205" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133310/38c57a44b94f0b49c7bbf7cbd1bf1a32139b20b7/header.jpg?t=1762654205" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4133310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133310/38c57a44b94f0b49c7bbf7cbd1bf1a32139b20b7/header.jpg?t=1762654205" alt="Bungle Blast（新規追加）" /></a></p><p>Blast your way through jungle dungeons, magic forests, molten volcanoes, and more in this action packed rogue like game. Take down wacky creatures with a variety of weapons. Upgrade to become stronger so that you can explore farther, and most importantly try not to die.</p><p><a href="https://store.steampowered.com/app/4133310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The last throne Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4137400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159640/6803b11f4f671731cb41f076e3007a62893f6c8e/header.jpg?t=1762483059" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159640/6803b11f4f671731cb41f076e3007a62893f6c8e/header.jpg?t=1762483059" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4159640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159640/6803b11f4f671731cb41f076e3007a62893f6c8e/header.jpg?t=1762483059" alt="阴界诡录·尸语公寓 Demo（新規追加）" /></a></p><p>type=demo, appid=4159640</p><p><a href="https://store.steampowered.com/app/4159640/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Inflafrog: Colector&#x27;s Edition（新規追加）</title>
-  <link>https://store.steampowered.com/app/4128290/</link>
-  <guid isPermaLink="false">steam-store-published-4128290</guid>
-  <pubDate>Fri, 07 Nov 2025 02:49:39 +0000</pubDate>
-  <description>Inflafrog is an Endless Arcade Platformer inspired by old retro games, in this game you&#x27;re a frog going through rooms filled with obstacles while engaging in many risk and reward mechanics to gain as much Score as possible.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128290/8da5e1350019c5bc35c4c0ee71ef1bedcfb68f0a/header.jpg?t=1762477933" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128290/8da5e1350019c5bc35c4c0ee71ef1bedcfb68f0a/header.jpg?t=1762477933" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128290/8da5e1350019c5bc35c4c0ee71ef1bedcfb68f0a/header.jpg?t=1762477933" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128290/8da5e1350019c5bc35c4c0ee71ef1bedcfb68f0a/header.jpg?t=1762477933" alt="Inflafrog: Colector&#x27;s Edition（新規追加）" /></a></p><p>Inflafrog is an Endless Arcade Platformer inspired by old retro games, in this game you&#x27;re a frog going through rooms filled with obstacles while engaging in many risk and reward mechanics to gain as much Score as possible.</p><p><a href="https://store.steampowered.com/app/4128290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
