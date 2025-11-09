@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Nov 2025 17:44:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 18:20:48 +0000</lastBuildDate>
+<item>
+  <title>Love: Fall in Death（新規追加）</title>
+  <link>https://store.steampowered.com/app/3077540/</link>
+  <guid isPermaLink="false">steam-store-published-3077540</guid>
+  <pubDate>Sun, 09 Nov 2025 18:20:48 +0000</pubDate>
+  <description>While trying to impress Ayşil at the bar, you&#x27;ll encounter the dark side of the night. An innocent flirt turns into an unexpected story. Your choices, timing, and a roll of the dice may lead this romantic tale to love… or disaster.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077540/fb1ff344a46a8a57edf1ace72f9a41321ea3c19b/header.jpg?t=1762710268" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077540/fb1ff344a46a8a57edf1ace72f9a41321ea3c19b/header.jpg?t=1762710268" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077540/fb1ff344a46a8a57edf1ace72f9a41321ea3c19b/header.jpg?t=1762710268" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3077540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077540/fb1ff344a46a8a57edf1ace72f9a41321ea3c19b/header.jpg?t=1762710268" alt="Love: Fall in Death（新規追加）" /></a></p><p>While trying to impress Ayşil at the bar, you&#x27;ll encounter the dark side of the night. An innocent flirt turns into an unexpected story. Your choices, timing, and a roll of the dice may lead this romantic tale to love… or disaster.</p><p><a href="https://store.steampowered.com/app/3077540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Ballad of a True Thug（新規追加）</title>
   <link>https://store.steampowered.com/app/3985000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678780/5225d39b0a413fc1efeb3d1c5c37251a2fbd9955/header.jpg?t=1762501201" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678780/5225d39b0a413fc1efeb3d1c5c37251a2fbd9955/header.jpg?t=1762501201" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3678780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678780/5225d39b0a413fc1efeb3d1c5c37251a2fbd9955/header.jpg?t=1762501201" alt="DREAMILL（新規追加）" /></a></p><p>“Alright, let me tell you what you’re getting into. Think of it as an adventure‑puzzle game—though a few scenes dip into light horror. You’ll be guiding this girl, but… saying anything more would spoil the surprise. Just give it a try. I’m sure you can clear it—I couldn’t.”</p><p><a href="https://store.steampowered.com/app/3678780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Infinite Game Cartridge Collection - Unstable Towers（新規追加）</title>
-  <link>https://store.steampowered.com/app/3981890/</link>
-  <guid isPermaLink="false">steam-store-published-3981890</guid>
-  <pubDate>Fri, 07 Nov 2025 07:44:44 +0000</pubDate>
-  <description>Try to get as high as possible before one of the blocks falls out of the construction zone.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981890/67d524dc29c6fae3146ced4f1dfc1ba341267cee/header.jpg?t=1762497403" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981890/67d524dc29c6fae3146ced4f1dfc1ba341267cee/header.jpg?t=1762497403" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981890/67d524dc29c6fae3146ced4f1dfc1ba341267cee/header.jpg?t=1762497403" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3981890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981890/67d524dc29c6fae3146ced4f1dfc1ba341267cee/header.jpg?t=1762497403" alt="Infinite Game Cartridge Collection - Unstable Towers（新規追加）" /></a></p><p>Try to get as high as possible before one of the blocks falls out of the construction zone.</p><p><a href="https://store.steampowered.com/app/3981890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
