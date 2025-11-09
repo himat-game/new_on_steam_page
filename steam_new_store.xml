@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Nov 2025 20:45:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Nov 2025 21:44:44 +0000</lastBuildDate>
+<item>
+  <title>DVG Survivors（新規追加）</title>
+  <link>https://store.steampowered.com/app/3538730/</link>
+  <guid isPermaLink="false">steam-store-published-3538730</guid>
+  <pubDate>Sun, 09 Nov 2025 21:44:44 +0000</pubDate>
+  <description>DVG Survivors is a idle-roguelike-survival game where you watch your DVG logo bounce across the screen and destroy your enemies with various abilities. Who are your enemies? Well none other than other mixed media from across the ages.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538730/490837a24d8f70ec6eb0f1b1a6bcd34ae27d1c92/header.jpg?t=1762721834" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538730/490837a24d8f70ec6eb0f1b1a6bcd34ae27d1c92/header.jpg?t=1762721834" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538730/490837a24d8f70ec6eb0f1b1a6bcd34ae27d1c92/header.jpg?t=1762721834" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3538730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538730/490837a24d8f70ec6eb0f1b1a6bcd34ae27d1c92/header.jpg?t=1762721834" alt="DVG Survivors（新規追加）" /></a></p><p>DVG Survivors is a idle-roguelike-survival game where you watch your DVG logo bounce across the screen and destroy your enemies with various abilities. Who are your enemies? Well none other than other mixed media from across the ages.</p><p><a href="https://store.steampowered.com/app/3538730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SQUAD XXX: Slut Hunt 🚨（新規追加）</title>
   <link>https://store.steampowered.com/app/4144180/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135160/606a0d11b5af1644d05e23ca9ba35e8e20ed546b/header.jpg?t=1762501132" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135160/606a0d11b5af1644d05e23ca9ba35e8e20ed546b/header.jpg?t=1762501132" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4135160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135160/606a0d11b5af1644d05e23ca9ba35e8e20ed546b/header.jpg?t=1762501132" alt="LumenKnight（新規追加）" /></a></p><p>Lumenknight is a roguelike arena-survival game. Fight through challenging enemy waves and epic bosses. Test your reflexes, timing, and strategy in every arena. One life per run. Step in and prove your skill.</p><p><a href="https://store.steampowered.com/app/4135160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>No-good Streamer Mirai-chan! - Forever Yours, Yukari-chan No-good Streamer Mirai-chan! DLC（新規追加）</title>
-  <link>https://store.steampowered.com/app/4110100/</link>
-  <guid isPermaLink="false">steam-store-published-4110100</guid>
-  <pubDate>Fri, 07 Nov 2025 08:22:17 +0000</pubDate>
-  <description>This DLC includes... a brand-new what-if story! What if the girl who moved in next door... wasn&#x27;t Mirai-chan, but Yukari-chan instead? You&#x27;re about to find out!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110100/2ab458ce821d906c2c8cbad9e6a8e0218602423d/header.jpg?t=1762498857" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110100/2ab458ce821d906c2c8cbad9e6a8e0218602423d/header.jpg?t=1762498857" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110100/2ab458ce821d906c2c8cbad9e6a8e0218602423d/header.jpg?t=1762498857" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4110100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110100/2ab458ce821d906c2c8cbad9e6a8e0218602423d/header.jpg?t=1762498857" alt="No-good Streamer Mirai-chan! - Forever Yours, Yukari-chan No-good Streamer Mirai-chan! DLC（新規追加）" /></a></p><p>This DLC includes... a brand-new what-if story! What if the girl who moved in next door... wasn&#x27;t Mirai-chan, but Yukari-chan instead? You&#x27;re about to find out!</p><p><a href="https://store.steampowered.com/app/4110100/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
