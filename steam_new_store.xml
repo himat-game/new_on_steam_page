@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 10 Nov 2025 16:21:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 17:44:58 +0000</lastBuildDate>
+<item>
+  <title>The Loopler（新規追加）</title>
+  <link>https://store.steampowered.com/app/4150860/</link>
+  <guid isPermaLink="false">steam-store-published-4150860</guid>
+  <pubDate>Mon, 10 Nov 2025 17:44:58 +0000</pubDate>
+  <description>The Loopler is a idle-like roguelite simulation of a car driving in loops. Pick upgrades, place gates and sit back and relax as the mesmerizing loop gets going and the dopamine hits of numbers going up fills your brain. See if you can go endless and beyond.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150860/06bbac9cd1458ad5b653b2e6b7e08eb784523f87/header.jpg?t=1762792881" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150860/06bbac9cd1458ad5b653b2e6b7e08eb784523f87/header.jpg?t=1762792881" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150860/06bbac9cd1458ad5b653b2e6b7e08eb784523f87/header.jpg?t=1762792881" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4150860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150860/06bbac9cd1458ad5b653b2e6b7e08eb784523f87/header.jpg?t=1762792881" alt="The Loopler（新規追加）" /></a></p><p>The Loopler is a idle-like roguelite simulation of a car driving in loops. Pick upgrades, place gates and sit back and relax as the mesmerizing loop gets going and the dopamine hits of numbers going up fills your brain. See if you can go endless and beyond.</p><p><a href="https://store.steampowered.com/app/4150860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>FEED THE QUEEN（新規追加）</title>
   <link>https://store.steampowered.com/app/4135750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118040/e638a6ea8330c0a0c73bf4c0a24f30fbca6360a1/header.jpg?t=1762532114" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118040/e638a6ea8330c0a0c73bf4c0a24f30fbca6360a1/header.jpg?t=1762532114" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4118040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118040/e638a6ea8330c0a0c73bf4c0a24f30fbca6360a1/header.jpg?t=1762532114" alt="ミズイロ・コンバージ（新規追加）" /></a></p><p>樹形図を用いた生物分類推察、生物学者の青年フィルゼとの交流。二つの要素が物語を生み出す、異色の『生物分類恋愛ADV』！</p><p><a href="https://store.steampowered.com/app/4118040/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Crow&#x27;s Requiem - Prologue Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4144030/</link>
-  <guid isPermaLink="false">steam-store-published-4144030</guid>
-  <pubDate>Fri, 07 Nov 2025 17:45:23 +0000</pubDate>
-  <description>The world is sick — and you are the body collector in this Pandemicpunk cRPG. Take the role of Fisher, a veteran Crow, and take your first steps into the City. Collect the dead; or risk joining them in the first two days of your Crow&#x27;s Requiem dark work.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144030/ccc07f044f687727ce3be2e7c07e202f758ddd6f/header.jpg?t=1762532663" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144030/ccc07f044f687727ce3be2e7c07e202f758ddd6f/header.jpg?t=1762532663" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144030/ccc07f044f687727ce3be2e7c07e202f758ddd6f/header.jpg?t=1762532663" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4144030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144030/ccc07f044f687727ce3be2e7c07e202f758ddd6f/header.jpg?t=1762532663" alt="Crow&#x27;s Requiem - Prologue Demo（新規追加）" /></a></p><p>The world is sick — and you are the body collector in this Pandemicpunk cRPG. Take the role of Fisher, a veteran Crow, and take your first steps into the City. Collect the dead; or risk joining them in the first two days of your Crow&#x27;s Requiem dark work.</p><p><a href="https://store.steampowered.com/app/4144030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
