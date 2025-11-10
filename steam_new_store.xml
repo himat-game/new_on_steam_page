@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 10 Nov 2025 03:50:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 04:24:15 +0000</lastBuildDate>
+<item>
+  <title>Band Stage - Song Expansion Pack（新規追加）</title>
+  <link>https://store.steampowered.com/app/3996570/</link>
+  <guid isPermaLink="false">steam-store-published-3996570</guid>
+  <pubDate>Mon, 10 Nov 2025 04:24:15 +0000</pubDate>
+  <description>Add 20 brand-new popular songs</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996570/e6c52f1238847701e650f32119055dcf92eab63b/header.jpg?t=1762744961" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996570/e6c52f1238847701e650f32119055dcf92eab63b/header.jpg?t=1762744961" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996570/e6c52f1238847701e650f32119055dcf92eab63b/header.jpg?t=1762744961" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3996570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996570/e6c52f1238847701e650f32119055dcf92eab63b/header.jpg?t=1762744961" alt="Band Stage - Song Expansion Pack（新規追加）" /></a></p><p>Add 20 brand-new popular songs</p><p><a href="https://store.steampowered.com/app/3996570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ぼうけんのしょをけしてしまいました〜！！（泣）（新規追加）</title>
   <link>https://store.steampowered.com/app/3443540/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149650/7d469b147965c17d8371a855a490934af5ba91e4/header.jpg?t=1762507359" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149650/7d469b147965c17d8371a855a490934af5ba91e4/header.jpg?t=1762507359" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4149650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149650/7d469b147965c17d8371a855a490934af5ba91e4/header.jpg?t=1762507359" alt="Timeless Solitaire Collection Demo（新規追加）" /></a></p><p>type=demo, appid=4149650</p><p><a href="https://store.steampowered.com/app/4149650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>人生计划 Project Life Playtest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4157480/</link>
-  <guid isPermaLink="false">steam-store-published-4157480</guid>
-  <pubDate>Fri, 07 Nov 2025 09:46:24 +0000</pubDate>
-  <description>type=game, appid=4157480</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157480/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1762505410" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157480/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1762505410" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157480/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1762505410" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4157480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157480/632330e62aa47cf708749f2b558bb2e3d5ca2fa0/header.jpg?t=1762505410" alt="人生计划 Project Life Playtest（新規追加）" /></a></p><p>type=game, appid=4157480</p><p><a href="https://store.steampowered.com/app/4157480/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
