@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 10 Nov 2025 13:44:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 14:17:11 +0000</lastBuildDate>
+<item>
+  <title>Neko Michi Demo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4156760/</link>
+  <guid isPermaLink="false">steam-store-published-4156760</guid>
+  <pubDate>Mon, 10 Nov 2025 14:17:11 +0000</pubDate>
+  <description>Build and manage a cozy Meiji-era street for cats. customize buildings, balance tradition and modernity, and create a peaceful cat community</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156760/6f2dc090fd21772e101fc404ac88ca767e508013/header.jpg?t=1762783663" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156760/6f2dc090fd21772e101fc404ac88ca767e508013/header.jpg?t=1762783663" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156760/6f2dc090fd21772e101fc404ac88ca767e508013/header.jpg?t=1762783663" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4156760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156760/6f2dc090fd21772e101fc404ac88ca767e508013/header.jpg?t=1762783663" alt="Neko Michi Demo（新規追加）" /></a></p><p>Build and manage a cozy Meiji-era street for cats. customize buildings, balance tradition and modernity, and create a peaceful cat community</p><p><a href="https://store.steampowered.com/app/4156760/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Anomaly Manor Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4122650/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834140/a81aeda941b5f47bba1c447b14693a48f61f2369/header.jpg?t=1762526813" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834140/a81aeda941b5f47bba1c447b14693a48f61f2369/header.jpg?t=1762526813" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3834140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834140/a81aeda941b5f47bba1c447b14693a48f61f2369/header.jpg?t=1762526813" alt="Architects of giants（新規追加）" /></a></p><p>Architects of Giants is a co-op, base building survival game where players embark on an epic journey aboard a colossal walking robot. Team up online and form your unique squad of squirrels engineers, tasked with constructing and guiding your giant on a grand pilgrimage to save a withering world.</p><p><a href="https://store.steampowered.com/app/3834140/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bagnomor（新規追加）</title>
-  <link>https://store.steampowered.com/app/4159540/</link>
-  <guid isPermaLink="false">steam-store-published-4159540</guid>
-  <pubDate>Fri, 07 Nov 2025 15:46:30 +0000</pubDate>
-  <description>Bagnomor is a bleak survival-horror set in a remote corner of Eastern Europe, where ancient entities were awakened by human folly. There is no escape, and the forest wall is closing in.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159540/9ce999967e8c36c0395c2b07c68e7e2fbe91ccaf/header.jpg?t=1762526617" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159540/9ce999967e8c36c0395c2b07c68e7e2fbe91ccaf/header.jpg?t=1762526617" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159540/9ce999967e8c36c0395c2b07c68e7e2fbe91ccaf/header.jpg?t=1762526617" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4159540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159540/9ce999967e8c36c0395c2b07c68e7e2fbe91ccaf/header.jpg?t=1762526617" alt="Bagnomor（新規追加）" /></a></p><p>Bagnomor is a bleak survival-horror set in a remote corner of Eastern Europe, where ancient entities were awakened by human folly. There is no escape, and the forest wall is closing in.</p><p><a href="https://store.steampowered.com/app/4159540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
