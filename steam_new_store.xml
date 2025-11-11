@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 11 Nov 2025 15:17:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 16:21:09 +0000</lastBuildDate>
+<item>
+  <title>Defcon Zero: Frontlines of Tomorrow（新規追加）</title>
+  <link>https://store.steampowered.com/app/2923140/</link>
+  <guid isPermaLink="false">steam-store-published-2923140</guid>
+  <pubDate>Tue, 11 Nov 2025 16:21:09 +0000</pubDate>
+  <description>Defcon Zero is a classic real-time strategy game set on planet Eros, where you dive into the story of ERA, the last beacon of civilization. Build your base, gather resources, engage your enemies and make strategic choices to prevail in combat. Are you ready to command the frontlines of tomorrow?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923140/b27e8a71a28d4652e11459465f5950faed85e99a/header.jpg?t=1762877013" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923140/b27e8a71a28d4652e11459465f5950faed85e99a/header.jpg?t=1762877013" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923140/b27e8a71a28d4652e11459465f5950faed85e99a/header.jpg?t=1762877013" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2923140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923140/b27e8a71a28d4652e11459465f5950faed85e99a/header.jpg?t=1762877013" alt="Defcon Zero: Frontlines of Tomorrow（新規追加）" /></a></p><p>Defcon Zero is a classic real-time strategy game set on planet Eros, where you dive into the story of ERA, the last beacon of civilization. Build your base, gather resources, engage your enemies and make strategic choices to prevail in combat. Are you ready to command the frontlines of tomorrow?</p><p><a href="https://store.steampowered.com/app/2923140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Island of Hearts Demo（新規追加）</title>
   <link>https://store.steampowered.com/app/4077910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160850/12d5765e9dc0e7f843ec0ac3bdeeba785bff6fc6/header.jpg?t=1762617192" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160850/12d5765e9dc0e7f843ec0ac3bdeeba785bff6fc6/header.jpg?t=1762617192" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4160850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160850/12d5765e9dc0e7f843ec0ac3bdeeba785bff6fc6/header.jpg?t=1762617192" alt="You Don&#x27;t Belong Here Playtest（新規追加）" /></a></p><p>type=game, appid=4160850</p><p><a href="https://store.steampowered.com/app/4160850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>現風少女 フタリ一夜に騒がして Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4084780/</link>
-  <guid isPermaLink="false">steam-store-published-4084780</guid>
-  <pubDate>Sat, 08 Nov 2025 16:49:50 +0000</pubDate>
-  <description>Carve your own path through swirling bullet barrages! Face stages that seamlessly shift between 2D and 3D, using melee attacks to gain the upper hand. A bullet-hell shooter with a literally diagonal twist! What is the true nature of the stolen clock hand?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084780/ae9d5fa0b71ed9646cba8fa9ca0842f686cb6dae/header.jpg?t=1762618046" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084780/ae9d5fa0b71ed9646cba8fa9ca0842f686cb6dae/header.jpg?t=1762618046" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084780/ae9d5fa0b71ed9646cba8fa9ca0842f686cb6dae/header.jpg?t=1762618046" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4084780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084780/ae9d5fa0b71ed9646cba8fa9ca0842f686cb6dae/header.jpg?t=1762618046" alt="現風少女 フタリ一夜に騒がして Demo（新規追加）" /></a></p><p>Carve your own path through swirling bullet barrages! Face stages that seamlessly shift between 2D and 3D, using melee attacks to gain the upper hand. A bullet-hell shooter with a literally diagonal twist! What is the true nature of the stolen clock hand?</p><p><a href="https://store.steampowered.com/app/4084780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
