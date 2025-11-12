@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 12 Nov 2025 06:25:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 06:54:58 +0000</lastBuildDate>
+<item>
+  <title>Fugitive Free Rider（新規追加）</title>
+  <link>https://store.steampowered.com/app/4147690/</link>
+  <guid isPermaLink="false">steam-store-published-4147690</guid>
+  <pubDate>Wed, 12 Nov 2025 06:54:58 +0000</pubDate>
+  <description>The chairman’s daughter ran away without doing her assignment. Join the group project, take down the troublemakers, and capture the chairman’s runaway daughter. A thrilling hack-and-slash “musou” action adventure with a cast of colorful, distinctive characters.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147690/229dab5c45540277057237da2b4bfa01b5d8b591/header.jpg?t=1762926508" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147690/229dab5c45540277057237da2b4bfa01b5d8b591/header.jpg?t=1762926508" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147690/229dab5c45540277057237da2b4bfa01b5d8b591/header.jpg?t=1762926508" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4147690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147690/229dab5c45540277057237da2b4bfa01b5d8b591/header.jpg?t=1762926508" alt="Fugitive Free Rider（新規追加）" /></a></p><p>The chairman’s daughter ran away without doing her assignment. Join the group project, take down the troublemakers, and capture the chairman’s runaway daughter. A thrilling hack-and-slash “musou” action adventure with a cast of colorful, distinctive characters.</p><p><a href="https://store.steampowered.com/app/4147690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sweet Household（新規追加）</title>
   <link>https://store.steampowered.com/app/4161690/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889470/3559321d2b4fed863619810814568dbd6e134902/header.jpg?t=1762794202" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889470/3559321d2b4fed863619810814568dbd6e134902/header.jpg?t=1762794202" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3889470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889470/3559321d2b4fed863619810814568dbd6e134902/header.jpg?t=1762794202" alt="Surviving Mars: Relaunched - Prime Mission（新規追加）" /></a></p><p>Join our ‘Prime Mission’, the first expansion pass for ‘Surviving Mars: Relaunched’. Featuring a new Mission Sponsor: ‘Interplanetary Codex’ (instant unlock) and two upcoming expansions: ‘Feeding the Future’ (Q2 ‘26) and ‘Machine Utopia’ (Q4 ‘26).</p><p><a href="https://store.steampowered.com/app/3889470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Benjumpin Hopkins Demo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4141550/</link>
-  <guid isPermaLink="false">steam-store-published-4141550</guid>
-  <pubDate>Mon, 10 Nov 2025 18:23:55 +0000</pubDate>
-  <description>A challenging high-stakes physics based precision platformer. You take a role of Benji The Frog, who likes to jump, has a goal to climb up to the top of this infamous magical well, where a princess might be waiting. A single missed jump can lead to a long fall back down, but Benji never gives up.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141550/21a10f12124f9a7a4bd4853f12fddc19299cbcff/header.jpg?t=1762793521" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141550/21a10f12124f9a7a4bd4853f12fddc19299cbcff/header.jpg?t=1762793521" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141550/21a10f12124f9a7a4bd4853f12fddc19299cbcff/header.jpg?t=1762793521" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4141550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4141550/21a10f12124f9a7a4bd4853f12fddc19299cbcff/header.jpg?t=1762793521" alt="Benjumpin Hopkins Demo（新規追加）" /></a></p><p>A challenging high-stakes physics based precision platformer. You take a role of Benji The Frog, who likes to jump, has a goal to climb up to the top of this infamous magical well, where a princess might be waiting. A single missed jump can lead to a long fall back down, but Benji never gives up.</p><p><a href="https://store.steampowered.com/app/4141550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
