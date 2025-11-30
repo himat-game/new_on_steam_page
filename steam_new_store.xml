@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 30 Nov 2025 13:06:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 13:47:59 +0000</lastBuildDate>
+<item>
+  <title>Meat is Murder（新規追加）</title>
+  <link>https://store.steampowered.com/app/4218740/</link>
+  <guid isPermaLink="false">steam-store-published-4218740</guid>
+  <pubDate>Sun, 30 Nov 2025 13:47:59 +0000</pubDate>
+  <description>A top-down survival horror game, with procedurally generated maps, where eating meat heals you... but every bite makes the vegan serial-killer faster.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218740/741b91746d5362422c0ab7ee9a4072ea6c62d2b4/header.jpg?t=1764508275" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218740/741b91746d5362422c0ab7ee9a4072ea6c62d2b4/header.jpg?t=1764508275" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218740/741b91746d5362422c0ab7ee9a4072ea6c62d2b4/header.jpg?t=1764508275" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4218740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218740/741b91746d5362422c0ab7ee9a4072ea6c62d2b4/header.jpg?t=1764508275" alt="Meat is Murder（新規追加）" /></a></p><p>A top-down survival horror game, with procedurally generated maps, where eating meat heals you... but every bite makes the vegan serial-killer faster.</p><p><a href="https://store.steampowered.com/app/4218740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>勇闯华强北（新規追加）</title>
   <link>https://store.steampowered.com/app/4199600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209150/81791437af4c7feb2321d5d7dc58e413370deccb/header.jpg?t=1764171717" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209150/81791437af4c7feb2321d5d7dc58e413370deccb/header.jpg?t=1764171717" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4209150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209150/81791437af4c7feb2321d5d7dc58e413370deccb/header.jpg?t=1764171717" alt="treasure of Y（新規追加）" /></a></p><p>《Treasure of Y》是一款冒险主题的回合制 RPG，玩家将在地图中探索遗迹与未知区域，通过移动、收集与解谜推进故事，并在遭遇敌人时进行策略性的回合制战斗。玩家需要选择技能、制定行动顺序并合理分配资源来战胜不同类型的敌人，同时通过装备与遗物构建适合自己的战斗风格。游戏的主要吸引力在于探索带来的新发现、回合制战斗的策略深度，以及收集秘宝碎片时逐渐呈现的神秘世界背景。</p><p><a href="https://store.steampowered.com/app/4209150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Seven Elemental Vases（新規追加）</title>
-  <link>https://store.steampowered.com/app/4188320/</link>
-  <guid isPermaLink="false">steam-store-published-4188320</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>Explore the world in its various biomes, fight magical enemies, meet gods and legends, while trying to prevent your father from obtaining the seven elemental vases in this retro-style story, where gods and humans meet again, thanks to the help of a simple mortal.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188320/ac1fbf7d9d36975765d8dd41db61438fa343204c/header.jpg?t=1764360223" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188320/ac1fbf7d9d36975765d8dd41db61438fa343204c/header.jpg?t=1764360223" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188320/ac1fbf7d9d36975765d8dd41db61438fa343204c/header.jpg?t=1764360223" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4188320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188320/ac1fbf7d9d36975765d8dd41db61438fa343204c/header.jpg?t=1764360223" alt="The Seven Elemental Vases（新規追加）" /></a></p><p>Explore the world in its various biomes, fight magical enemies, meet gods and legends, while trying to prevent your father from obtaining the seven elemental vases in this retro-style story, where gods and humans meet again, thanks to the help of a simple mortal.</p><p><a href="https://store.steampowered.com/app/4188320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
