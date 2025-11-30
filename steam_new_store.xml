@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 30 Nov 2025 11:44:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 12:33:16 +0000</lastBuildDate>
+<item>
+  <title>Bonds Defiled（新規追加）</title>
+  <link>https://store.steampowered.com/app/4170080/</link>
+  <guid isPermaLink="false">steam-store-published-4170080</guid>
+  <pubDate>Sun, 30 Nov 2025 12:33:16 +0000</pubDate>
+  <description>A dark fantasy visual novel of transformation, temptation, and choice. Shape your fate through branching paths of corruption, desire, and power. Nearly all adult content is optional and choice-driven.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170080/ad2da6942b7209f224f200fad123269257b12df8/header.jpg?t=1764505771" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170080/ad2da6942b7209f224f200fad123269257b12df8/header.jpg?t=1764505771" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170080/ad2da6942b7209f224f200fad123269257b12df8/header.jpg?t=1764505771" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4170080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170080/ad2da6942b7209f224f200fad123269257b12df8/header.jpg?t=1764505771" alt="Bonds Defiled（新規追加）" /></a></p><p>A dark fantasy visual novel of transformation, temptation, and choice. Shape your fate through branching paths of corruption, desire, and power. Nearly all adult content is optional and choice-driven.</p><p><a href="https://store.steampowered.com/app/4170080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hadal（新規追加）</title>
   <link>https://store.steampowered.com/app/4028630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210730/c6007ab4da89991393a0d41bb1fefdce8414cf7f/header.jpg?t=1764492190" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210730/c6007ab4da89991393a0d41bb1fefdce8414cf7f/header.jpg?t=1764492190" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4210730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210730/c6007ab4da89991393a0d41bb1fefdce8414cf7f/header.jpg?t=1764492190" alt="DRUNKEN BARON（新規追加）" /></a></p><p>DRUNKEN BARON is a fast-paced 2D arcade shooter inspired by classic flappy-style games. Keep your plane in the air by tapping the button, fly through chaotic corridors, shoot invading aliens, drop bombs, and survive as long as you can!</p><p><a href="https://store.steampowered.com/app/4210730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pradera（新規追加）</title>
-  <link>https://store.steampowered.com/app/4019190/</link>
-  <guid isPermaLink="false">steam-store-published-4019190</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>A first-person horror experience where you take on the role of Clarice. A story told out of sequence, in which you must unravel the events of something that has been happening for centuries.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019190/8971c18aa0bed4d2fe51742d3d158dde04bb9ae9/header.jpg?t=1764386467" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019190/8971c18aa0bed4d2fe51742d3d158dde04bb9ae9/header.jpg?t=1764386467" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019190/8971c18aa0bed4d2fe51742d3d158dde04bb9ae9/header.jpg?t=1764386467" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4019190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019190/8971c18aa0bed4d2fe51742d3d158dde04bb9ae9/header.jpg?t=1764386467" alt="Pradera（新規追加）" /></a></p><p>A first-person horror experience where you take on the role of Clarice. A story told out of sequence, in which you must unravel the events of something that has been happening for centuries.</p><p><a href="https://store.steampowered.com/app/4019190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
