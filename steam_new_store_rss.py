@@ -27,7 +27,8 @@ import urllib.request
 from urllib.error import HTTPError, URLError
 from typing import Dict, List, Optional, Tuple
 
-STEAM_APP_LIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
+# ここを新しいエンドポイントに変更
+STEAM_APP_LIST_URL = "https://api.steampowered.com/IStoreService/GetAppList/v1/"
 APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 
 # =========================
@@ -43,7 +44,7 @@ _last_request_ts = 0.0
 _slow_mode_until = 0.0
 
 # --- state I/O helpers: gzip対応 & 自動ダイエット（薄く保持） ---
-import os, json, gzip
+import gzip
 
 # 最大保持件数（RSS肥大防止）
 MAX_ITEMS    = 300     # 新規RSS
@@ -264,8 +265,40 @@ def build_rss(channel_title: str, channel_link: str, channel_desc: str, items: L
 # =========================
 
 def fetch_app_list() -> List[Dict]:
-    js = http_get_json(STEAM_APP_LIST_URL)
-    return js.get("applist", {}).get("apps", [])
+    """
+    Steam の AppList を IStoreService/GetAppList からページング取得する。
+    STEAM_WEB_API_KEY 環境変数に Web API キーが必要。
+    """
+    api_key = os.environ.get("STEAM_WEB_API_KEY")
+    if not api_key:
+        raise RuntimeError("STEAM_WEB_API_KEY is not set")
+
+    apps: List[Dict] = []
+    last_appid = 0
+
+    while True:
+        params = {
+            "key": api_key,
+            "last_appid": last_appid,
+            "max_results": 50000,
+        }
+
+        js = http_get_json(STEAM_APP_LIST_URL, params=params)
+        resp = js.get("response", {})
+        chunk = resp.get("apps", [])
+        if not chunk:
+            break
+
+        apps.extend(chunk)
+
+        if not resp.get("have_more_results"):
+            break
+
+        last_appid = resp.get("last_appid", 0)
+        if not last_appid:
+            break
+
+    return apps
 
 def fetch_appdetails_once(appid: int, cc: str, lang: str) -> Tuple[bool, Optional[Dict]]:
     js = http_get_json(APPDETAILS_URL, params={"appids": str(appid), "cc": cc, "l": lang})
