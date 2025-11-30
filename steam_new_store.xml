@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 30 Nov 2025 17:45:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 20:48:45 +0000</lastBuildDate>
+<item>
+  <title>Starship Command: Orion Spur（新規追加）</title>
+  <link>https://store.steampowered.com/app/4158420/</link>
+  <guid isPermaLink="false">steam-store-published-4158420</guid>
+  <pubDate>Sun, 30 Nov 2025 20:48:45 +0000</pubDate>
+  <description>Command the CSV Leonidas in authentic capital ship warfare. Lead from the bridge or take direct control as war erupts in the Orion Spur. Your ship. Your crew. Your orders.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158420/5668ff6a7f9b012f6470a82d30e8ef4bb45d9441/header.jpg?t=1764535535" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158420/5668ff6a7f9b012f6470a82d30e8ef4bb45d9441/header.jpg?t=1764535535" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158420/5668ff6a7f9b012f6470a82d30e8ef4bb45d9441/header.jpg?t=1764535535" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4158420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158420/5668ff6a7f9b012f6470a82d30e8ef4bb45d9441/header.jpg?t=1764535535" alt="Starship Command: Orion Spur（新規追加）" /></a></p><p>Command the CSV Leonidas in authentic capital ship warfare. Lead from the bridge or take direct control as war erupts in the Orion Spur. Your ship. Your crew. Your orders.</p><p><a href="https://store.steampowered.com/app/4158420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Eternal Mines（新規追加）</title>
   <link>https://store.steampowered.com/app/4194830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132190/924f1cf4632144c19d4ed0fecc511db11d7c1a1f/header.jpg?t=1764178927" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132190/924f1cf4632144c19d4ed0fecc511db11d7c1a1f/header.jpg?t=1764178927" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4132190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132190/924f1cf4632144c19d4ed0fecc511db11d7c1a1f/header.jpg?t=1764178927" alt="Raptor Evolution（新規追加）" /></a></p><p>Smash through environments, gather resources, and hunt grotesque human-mutants to evolve and grow stronger. Use what you collect to rebuild bridges, restore paths and push deeper into a world filled with danger and mystery.</p><p><a href="https://store.steampowered.com/app/4132190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Estória（新規追加）</title>
-  <link>https://store.steampowered.com/app/4201890/</link>
-  <guid isPermaLink="false">steam-store-published-4201890</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>An epic 2D coming of age adventure story, similar in style to Sierra and LucasArts classics like &amp;quot;King&#x27;s Quest.&amp;quot; Use items to solve puzzles, talk to characters, and unravel the mystery threatening the Kingdom of Estória. *iPhone / iPad version available on the App Store.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201890/117663c6c26811deccea4d4b900f42c6dd75214e/header.jpg?t=1764492455" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201890/117663c6c26811deccea4d4b900f42c6dd75214e/header.jpg?t=1764492455" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201890/117663c6c26811deccea4d4b900f42c6dd75214e/header.jpg?t=1764492455" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4201890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201890/117663c6c26811deccea4d4b900f42c6dd75214e/header.jpg?t=1764492455" alt="Estória（新規追加）" /></a></p><p>An epic 2D coming of age adventure story, similar in style to Sierra and LucasArts classics like &amp;quot;King&#x27;s Quest.&amp;quot; Use items to solve puzzles, talk to characters, and unravel the mystery threatening the Kingdom of Estória. *iPhone / iPad version available on the App Store.</p><p><a href="https://store.steampowered.com/app/4201890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
