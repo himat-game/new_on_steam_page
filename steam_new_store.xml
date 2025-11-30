@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 30 Nov 2025 20:48:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 21:44:59 +0000</lastBuildDate>
+<item>
+  <title>The Rusted（新規追加）</title>
+  <link>https://store.steampowered.com/app/4159290/</link>
+  <guid isPermaLink="false">steam-store-published-4159290</guid>
+  <pubDate>Sun, 30 Nov 2025 21:44:59 +0000</pubDate>
+  <description>Explore hauntingly beautiful, abandoned environments filled with corrupted machines in a rusted world. Test your platforming skills, and fight to survive. The Rusted is a fully hand-drawn action-adventure where you play as a loyal robot dog.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159290/d91fc8d0b01e59724b2f0f98d8e8395c67ce8c4c/header.jpg?t=1764537436" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159290/d91fc8d0b01e59724b2f0f98d8e8395c67ce8c4c/header.jpg?t=1764537436" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159290/d91fc8d0b01e59724b2f0f98d8e8395c67ce8c4c/header.jpg?t=1764537436" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4159290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159290/d91fc8d0b01e59724b2f0f98d8e8395c67ce8c4c/header.jpg?t=1764537436" alt="The Rusted（新規追加）" /></a></p><p>Explore hauntingly beautiful, abandoned environments filled with corrupted machines in a rusted world. Test your platforming skills, and fight to survive. The Rusted is a fully hand-drawn action-adventure where you play as a loyal robot dog.</p><p><a href="https://store.steampowered.com/app/4159290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Starship Command: Orion Spur（新規追加）</title>
   <link>https://store.steampowered.com/app/4158420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184630/575070bb494a3beedb2b079179d26843ba729498/header.jpg?t=1763749802" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184630/575070bb494a3beedb2b079179d26843ba729498/header.jpg?t=1763749802" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4184630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184630/575070bb494a3beedb2b079179d26843ba729498/header.jpg?t=1763749802" alt="MY WIFE IS A PORN STAR 2（新規追加）" /></a></p><p>My Wife Is a Porn Star 2 is a relationship and career simulator where you play the husband of an aspiring adult actress. Support her path to success, choose promotion strategies, and maintain trust in the relationship while balancing work, jealousy, and fame.</p><p><a href="https://store.steampowered.com/app/4184630/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Raptor Evolution（新規追加）</title>
-  <link>https://store.steampowered.com/app/4132190/</link>
-  <guid isPermaLink="false">steam-store-published-4132190</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>Smash through environments, gather resources, and hunt grotesque human-mutants to evolve and grow stronger. Use what you collect to rebuild bridges, restore paths and push deeper into a world filled with danger and mystery.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132190/924f1cf4632144c19d4ed0fecc511db11d7c1a1f/header.jpg?t=1764178927" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132190/924f1cf4632144c19d4ed0fecc511db11d7c1a1f/header.jpg?t=1764178927" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132190/924f1cf4632144c19d4ed0fecc511db11d7c1a1f/header.jpg?t=1764178927" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4132190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132190/924f1cf4632144c19d4ed0fecc511db11d7c1a1f/header.jpg?t=1764178927" alt="Raptor Evolution（新規追加）" /></a></p><p>Smash through environments, gather resources, and hunt grotesque human-mutants to evolve and grow stronger. Use what you collect to rebuild bridges, restore paths and push deeper into a world filled with danger and mystery.</p><p><a href="https://store.steampowered.com/app/4132190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
