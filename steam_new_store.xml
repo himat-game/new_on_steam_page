@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 30 Nov 2025 22:16:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 22:47:23 +0000</lastBuildDate>
+<item>
+  <title>Lawnpocalypse（新規追加）</title>
+  <link>https://store.steampowered.com/app/4173520/</link>
+  <guid isPermaLink="false">steam-store-published-4173520</guid>
+  <pubDate>Sun, 30 Nov 2025 22:47:23 +0000</pubDate>
+  <description>Lawnmowing Roguelike! Hop on your mower and battle back the overgrowth, muck, and hordes of garden pests. Fight and upgrade as you complete oddly satisfying yardwork. Invent game-breaking builds, customize your Gnome, and uncover secrets of the Lawnpocalypse!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173520/3f36f189b0eba0486d53576c5f84fa342ea6b616/header.jpg?t=1764542411" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173520/3f36f189b0eba0486d53576c5f84fa342ea6b616/header.jpg?t=1764542411" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173520/3f36f189b0eba0486d53576c5f84fa342ea6b616/header.jpg?t=1764542411" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4173520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173520/3f36f189b0eba0486d53576c5f84fa342ea6b616/header.jpg?t=1764542411" alt="Lawnpocalypse（新規追加）" /></a></p><p>Lawnmowing Roguelike! Hop on your mower and battle back the overgrowth, muck, and hordes of garden pests. Fight and upgrade as you complete oddly satisfying yardwork. Invent game-breaking builds, customize your Gnome, and uncover secrets of the Lawnpocalypse!</p><p><a href="https://store.steampowered.com/app/4173520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>RECursion（新規追加）</title>
   <link>https://store.steampowered.com/app/4196560/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153420/a60dea1cdd604ec1fdf12c0da30198f7fc98fba3/header.jpg?t=1764028999" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153420/a60dea1cdd604ec1fdf12c0da30198f7fc98fba3/header.jpg?t=1764028999" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4153420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153420/a60dea1cdd604ec1fdf12c0da30198f7fc98fba3/header.jpg?t=1764028999" alt="Silent Castle（新規追加）" /></a></p><p>“My dad was killed by the hero.” A short push-puzzle game about a boy cleaning up the deserted Demon Castle all by himself.</p><p><a href="https://store.steampowered.com/app/4153420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>HORDEKILL（新規追加）</title>
-  <link>https://store.steampowered.com/app/4163450/</link>
-  <guid isPermaLink="false">steam-store-published-4163450</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>In an unknown realm, you slay hordes of nightmarish swamp monsters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163450/818cdfefc3b4354475354ecf4f6739f2999cd191/header.jpg?t=1763745634" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163450/818cdfefc3b4354475354ecf4f6739f2999cd191/header.jpg?t=1763745634" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163450/818cdfefc3b4354475354ecf4f6739f2999cd191/header.jpg?t=1763745634" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4163450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163450/818cdfefc3b4354475354ecf4f6739f2999cd191/header.jpg?t=1763745634" alt="HORDEKILL（新規追加）" /></a></p><p>In an unknown realm, you slay hordes of nightmarish swamp monsters.</p><p><a href="https://store.steampowered.com/app/4163450/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
