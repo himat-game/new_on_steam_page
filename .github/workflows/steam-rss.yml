@@ -15,9 +15,9 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-  env:
-    STEAM_WEB_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
-    
+    env:
+      STEAM_WEB_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
+
     steps:
       - uses: actions/checkout@v4
 
