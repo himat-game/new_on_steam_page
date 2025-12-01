@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 01 Dec 2025 18:30:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 19:46:48 +0000</lastBuildDate>
+<item>
+  <title>Blobbymite: Hero Of Power（新規追加）</title>
+  <link>https://store.steampowered.com/app/4189780/</link>
+  <guid isPermaLink="false">steam-store-published-4189780</guid>
+  <pubDate>Mon, 01 Dec 2025 19:46:48 +0000</pubDate>
+  <description>Experience the complete adventure of Blobbymite: Hero of Power with a full campaign, powerful level editor, online leaderboards, and expanding story content that reveals the dark past of the Rebelord Pirates.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189780/7303d3f9f0918b67f89d0c492f6610a6a73fd883/header.jpg?t=1764617773" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189780/7303d3f9f0918b67f89d0c492f6610a6a73fd883/header.jpg?t=1764617773" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189780/7303d3f9f0918b67f89d0c492f6610a6a73fd883/header.jpg?t=1764617773" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4189780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189780/7303d3f9f0918b67f89d0c492f6610a6a73fd883/header.jpg?t=1764617773" alt="Blobbymite: Hero Of Power（新規追加）" /></a></p><p>Experience the complete adventure of Blobbymite: Hero of Power with a full campaign, powerful level editor, online leaderboards, and expanding story content that reveals the dark past of the Rebelord Pirates.</p><p><a href="https://store.steampowered.com/app/4189780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Clash of Peaks: Dynasty in Your Grasp（新規追加）</title>
   <link>https://store.steampowered.com/app/4216090/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169930/b75d09f071d84b2f82262f37b93c9d53fd8bbd06/header.jpg?t=1764377154" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169930/b75d09f071d84b2f82262f37b93c9d53fd8bbd06/header.jpg?t=1764377154" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4169930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169930/b75d09f071d84b2f82262f37b93c9d53fd8bbd06/header.jpg?t=1764377154" alt="My Eggduck (Desktop Random Idle Clicker)（新規追加）" /></a></p><p>Eggduck is a silly duck that lives on your monitor. Click to lay eggs (even golden ones!) and collect tons of cute skins for a new look every day. Perfect for multitasking, enjoy it as a clicker or an idle game. (Warning) Everything is random, so beware the addictive rush of DuckPamine!</p><p><a href="https://store.steampowered.com/app/4169930/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Phantom Museum（新規追加）</title>
-  <link>https://store.steampowered.com/app/4139810/</link>
-  <guid isPermaLink="false">steam-store-published-4139810</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>Rip the talismans from the beautiful spirits, solve their enchanting puzzles, evade a menagerie of monsters, and escape the haunted museum.Your body is gone. Your soul remains. The museum won’t let you leave. Trapped in a cursed museum where death is only the beginning.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139810/cdf793e87a9a34bebee6e524203d3d4ff30f66d8/header.jpg?t=1764470005" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139810/cdf793e87a9a34bebee6e524203d3d4ff30f66d8/header.jpg?t=1764470005" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139810/cdf793e87a9a34bebee6e524203d3d4ff30f66d8/header.jpg?t=1764470005" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4139810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139810/cdf793e87a9a34bebee6e524203d3d4ff30f66d8/header.jpg?t=1764470005" alt="Phantom Museum（新規追加）" /></a></p><p>Rip the talismans from the beautiful spirits, solve their enchanting puzzles, evade a menagerie of monsters, and escape the haunted museum.Your body is gone. Your soul remains. The museum won’t let you leave. Trapped in a cursed museum where death is only the beginning.</p><p><a href="https://store.steampowered.com/app/4139810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
