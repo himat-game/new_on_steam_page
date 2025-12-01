@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 01 Dec 2025 22:16:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 22:48:00 +0000</lastBuildDate>
+<item>
+  <title>Rulers of Cospaia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4169800/</link>
+  <guid isPermaLink="false">steam-store-published-4169800</guid>
+  <pubDate>Mon, 01 Dec 2025 22:48:00 +0000</pubDate>
+  <description>Rulers of Cospaia is a digital board game of medieval strategy where you build your realm on a hexagonal board, gather resources, expand your city, and choose your path to victory — through economy, strength, or sabotage.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169800/af1ea04eaebf693718a748ca28eb040c83259b52/header.jpg?t=1764627768" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169800/af1ea04eaebf693718a748ca28eb040c83259b52/header.jpg?t=1764627768" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169800/af1ea04eaebf693718a748ca28eb040c83259b52/header.jpg?t=1764627768" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4169800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4169800/af1ea04eaebf693718a748ca28eb040c83259b52/header.jpg?t=1764627768" alt="Rulers of Cospaia（新規追加）" /></a></p><p>Rulers of Cospaia is a digital board game of medieval strategy where you build your realm on a hexagonal board, gather resources, expand your city, and choose your path to victory — through economy, strength, or sabotage.</p><p><a href="https://store.steampowered.com/app/4169800/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Arctica（新規追加）</title>
+  <link>https://store.steampowered.com/app/3771960/</link>
+  <guid isPermaLink="false">steam-store-published-3771960</guid>
+  <pubDate>Mon, 01 Dec 2025 22:48:00 +0000</pubDate>
+  <description>An ancient terror emerges to threaten the survival of all humanity in this immersive first-person RPG. Explore 1980s Antarctica at the height of the cold war as the US leads an operation to secure the frozen frontier and ensure the end of the Soviet world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771960/99968a7508960cce68f19e3105decde4cb0ef0c0/header.jpg?t=1764628104" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771960/99968a7508960cce68f19e3105decde4cb0ef0c0/header.jpg?t=1764628104" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771960/99968a7508960cce68f19e3105decde4cb0ef0c0/header.jpg?t=1764628104" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3771960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3771960/99968a7508960cce68f19e3105decde4cb0ef0c0/header.jpg?t=1764628104" alt="Arctica（新規追加）" /></a></p><p>An ancient terror emerges to threaten the survival of all humanity in this immersive first-person RPG. Explore 1980s Antarctica at the height of the cold war as the US leads an operation to secure the frozen frontier and ensure the end of the Soviet world.</p><p><a href="https://store.steampowered.com/app/3771960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>No Roads: 4×4 Off-Road Challenge（新規追加）</title>
   <link>https://store.steampowered.com/app/4154250/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189480/081f4447b0cd095e67aa813a03a661abc9d8cc21/header.jpg?t=1764485485" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189480/081f4447b0cd095e67aa813a03a661abc9d8cc21/header.jpg?t=1764485485" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4189480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189480/081f4447b0cd095e67aa813a03a661abc9d8cc21/header.jpg?t=1764485485" alt="Poolscape（新規追加）" /></a></p><p>Poolscape is a retro reimagining of the Poolrooms, evoking the nostalgia of classic PSX games by immersing players in the iconic liminal space with authentic ’90s-styled visuals and atmosphere.</p><p><a href="https://store.steampowered.com/app/4189480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Police Chief Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/2938460/</link>
-  <guid isPermaLink="false">steam-store-published-2938460</guid>
-  <pubDate>Sun, 30 Nov 2025 10:47:19 +0000</pubDate>
-  <description>Welcome to Winston Springs, Officer! The local police station is in urgent need of a Chief of Police, and you’ve been chosen for the job! Handle incoming reports, renovate and expand the station, solve cases, and fight crime!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938460/d840a189aaf3c5a6d66ca7d0fa778d61e99922fb/header.jpg?t=1764345187" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938460/d840a189aaf3c5a6d66ca7d0fa778d61e99922fb/header.jpg?t=1764345187" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938460/d840a189aaf3c5a6d66ca7d0fa778d61e99922fb/header.jpg?t=1764345187" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2938460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938460/d840a189aaf3c5a6d66ca7d0fa778d61e99922fb/header.jpg?t=1764345187" alt="Police Chief Simulator（新規追加）" /></a></p><p>Welcome to Winston Springs, Officer! The local police station is in urgent need of a Chief of Police, and you’ve been chosen for the job! Handle incoming reports, renovate and expand the station, solve cases, and fight crime!</p><p><a href="https://store.steampowered.com/app/2938460/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Toilet 8（新規追加）</title>
-  <link>https://store.steampowered.com/app/4142980/</link>
-  <guid isPermaLink="false">steam-store-published-4142980</guid>
-  <pubDate>Sun, 30 Nov 2025 10:47:19 +0000</pubDate>
-  <description>You’re trapped in endless toilets. Watch these stalls carefully—every detail counts. If something’s wrong, turn back. If not… don’t you dare look behind. Or face the fart from hell.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142980/7599247faa0c50e649d19cfae352b04070a8b48a/header.jpg?t=1764066221" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142980/7599247faa0c50e649d19cfae352b04070a8b48a/header.jpg?t=1764066221" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142980/7599247faa0c50e649d19cfae352b04070a8b48a/header.jpg?t=1764066221" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4142980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142980/7599247faa0c50e649d19cfae352b04070a8b48a/header.jpg?t=1764066221" alt="Toilet 8（新規追加）" /></a></p><p>You’re trapped in endless toilets. Watch these stalls carefully—every detail counts. If something’s wrong, turn back. If not… don’t you dare look behind. Or face the fart from hell.</p><p><a href="https://store.steampowered.com/app/4142980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
