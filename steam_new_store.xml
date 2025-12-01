@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 01 Dec 2025 03:48:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 04:47:23 +0000</lastBuildDate>
+<item>
+  <title>Marble Quest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3282260/</link>
+  <guid isPermaLink="false">steam-store-published-3282260</guid>
+  <pubDate>Mon, 01 Dec 2025 04:47:23 +0000</pubDate>
+  <description>The Family Friendly, Marble Platformer Speedrunning Adventure Game</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282260/4a75b0cb40a719e979d443fef213f7dff0e96d41/header.jpg?t=1764561577" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282260/4a75b0cb40a719e979d443fef213f7dff0e96d41/header.jpg?t=1764561577" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282260/4a75b0cb40a719e979d443fef213f7dff0e96d41/header.jpg?t=1764561577" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3282260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282260/4a75b0cb40a719e979d443fef213f7dff0e96d41/header.jpg?t=1764561577" alt="Marble Quest（新規追加）" /></a></p><p>The Family Friendly, Marble Platformer Speedrunning Adventure Game</p><p><a href="https://store.steampowered.com/app/3282260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chrono Seoul（新規追加）</title>
   <link>https://store.steampowered.com/app/4155970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123780/171d09d8f61e285c636ae10c5dde84f59205659a/header.jpg?t=1763961743" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123780/171d09d8f61e285c636ae10c5dde84f59205659a/header.jpg?t=1763961743" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123780/171d09d8f61e285c636ae10c5dde84f59205659a/header.jpg?t=1763961743" alt="The wild darkness（新規追加）" /></a></p><p>Explore a survival-roguelike RPG set in an unknown and bizarre world. To withstand its many dangers, you&#x27;ll need to gain new knowledge, scavenge for food, and acquire useful items. Craft, build, and learn your way through a crucial adventure to uncover the world&#x27;s secrets.</p><p><a href="https://store.steampowered.com/app/4123780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Last Feather（新規追加）</title>
-  <link>https://store.steampowered.com/app/4180010/</link>
-  <guid isPermaLink="false">steam-store-published-4180010</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>The Last Feather is a high-octane top-down shooter packed with raw brutality, hard-edged gunfights, and bone-crushing close combat. Through neon-soaked streets and relentless encounters, it delivers a fierce journey of vengeance with every step.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180010/090bb1b1bae3ebd88a20e7c78c77b5cd9d9ceaa2/header.jpg?t=1764346727" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180010/090bb1b1bae3ebd88a20e7c78c77b5cd9d9ceaa2/header.jpg?t=1764346727" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180010/090bb1b1bae3ebd88a20e7c78c77b5cd9d9ceaa2/header.jpg?t=1764346727" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4180010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180010/090bb1b1bae3ebd88a20e7c78c77b5cd9d9ceaa2/header.jpg?t=1764346727" alt="The Last Feather（新規追加）" /></a></p><p>The Last Feather is a high-octane top-down shooter packed with raw brutality, hard-edged gunfights, and bone-crushing close combat. Through neon-soaked streets and relentless encounters, it delivers a fierce journey of vengeance with every step.</p><p><a href="https://store.steampowered.com/app/4180010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
