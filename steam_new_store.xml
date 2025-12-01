@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 01 Dec 2025 05:25:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 06:58:43 +0000</lastBuildDate>
+<item>
+  <title>Pulse Grid（新規追加）</title>
+  <link>https://store.steampowered.com/app/4130720/</link>
+  <guid isPermaLink="false">steam-store-published-4130720</guid>
+  <pubDate>Mon, 01 Dec 2025 06:58:43 +0000</pubDate>
+  <description>Pulse Grid is a rhythm-based spatial puzzle game where arrows spawn and move to the music&#x27;s beat. Redirect them with a 2x2 control zone, create color matches from stopped blocks, and master the risk-reward combo system to dominate the leaderboards.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130720/c0f88fb104a9620e090c45d7f024ea273d848f67/header.jpg?t=1764570025" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130720/c0f88fb104a9620e090c45d7f024ea273d848f67/header.jpg?t=1764570025" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130720/c0f88fb104a9620e090c45d7f024ea273d848f67/header.jpg?t=1764570025" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4130720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4130720/c0f88fb104a9620e090c45d7f024ea273d848f67/header.jpg?t=1764570025" alt="Pulse Grid（新規追加）" /></a></p><p>Pulse Grid is a rhythm-based spatial puzzle game where arrows spawn and move to the music&#x27;s beat. Redirect them with a 2x2 control zone, create color matches from stopped blocks, and master the risk-reward combo system to dominate the leaderboards.</p><p><a href="https://store.steampowered.com/app/4130720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DING DONG PITCH（新規追加）</title>
   <link>https://store.steampowered.com/app/3709740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119020/c64d9cb231a60210c8bd24058276d816e35d759c/header.jpg?t=1764401058" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119020/c64d9cb231a60210c8bd24058276d816e35d759c/header.jpg?t=1764401058" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4119020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119020/c64d9cb231a60210c8bd24058276d816e35d759c/header.jpg?t=1764401058" alt="Doomed Crew（新規追加）" /></a></p><p>Co-op Horror for 1-4 players. Dive into a brutal corporate environment, complete deadly objectives for your promised freedom. Trust nothing.</p><p><a href="https://store.steampowered.com/app/4119020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SlimeBattle（新規追加）</title>
-  <link>https://store.steampowered.com/app/4180940/</link>
-  <guid isPermaLink="false">steam-store-published-4180940</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>In the game, players will play as a slime and, by defeating swarms of small monsters, continuously upgrade and unlock up to 6 spells and items. By allocating basic attribute points, spell points, they can create their own combat style and eventually defeat the boss and achieve their own legend.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180940/4703202124443c0dc2da7b9472720f907e3b4922/header.jpg?t=1763786900" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180940/4703202124443c0dc2da7b9472720f907e3b4922/header.jpg?t=1763786900" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180940/4703202124443c0dc2da7b9472720f907e3b4922/header.jpg?t=1763786900" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4180940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180940/4703202124443c0dc2da7b9472720f907e3b4922/header.jpg?t=1763786900" alt="SlimeBattle（新規追加）" /></a></p><p>In the game, players will play as a slime and, by defeating swarms of small monsters, continuously upgrade and unlock up to 6 spells and items. By allocating basic attribute points, spell points, they can create their own combat style and eventually defeat the boss and achieve their own legend.</p><p><a href="https://store.steampowered.com/app/4180940/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
