@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 01 Dec 2025 14:19:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 15:19:39 +0000</lastBuildDate>
+<item>
+  <title>Spells &amp; Shells（新規追加）</title>
+  <link>https://store.steampowered.com/app/3976140/</link>
+  <guid isPermaLink="false">steam-store-published-3976140</guid>
+  <pubDate>Mon, 01 Dec 2025 15:19:39 +0000</pubDate>
+  <description>Dodge and blast through waves of enemies using powerful spells and magical weaponry in this fast-paced fantasy top-down twin-stick arena shooter. Acquire permanent enhancements, unlock new weapons and relics and create unique builds to dominate the battlefield.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976140/1dd1d9d2fcdcfdb5cf866e9f5efe7377b3827312/header.jpg?t=1764601280" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976140/1dd1d9d2fcdcfdb5cf866e9f5efe7377b3827312/header.jpg?t=1764601280" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976140/1dd1d9d2fcdcfdb5cf866e9f5efe7377b3827312/header.jpg?t=1764601280" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3976140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976140/1dd1d9d2fcdcfdb5cf866e9f5efe7377b3827312/header.jpg?t=1764601280" alt="Spells &amp; Shells（新規追加）" /></a></p><p>Dodge and blast through waves of enemies using powerful spells and magical weaponry in this fast-paced fantasy top-down twin-stick arena shooter. Acquire permanent enhancements, unlock new weapons and relics and create unique builds to dominate the battlefield.</p><p><a href="https://store.steampowered.com/app/3976140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>What&#x27;s the Password?（新規追加）</title>
   <link>https://store.steampowered.com/app/4095490/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191340/5a63ef5ed0800bfada2d44d3e9c5f001fad7642b/header.jpg?t=1764175036" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191340/5a63ef5ed0800bfada2d44d3e9c5f001fad7642b/header.jpg?t=1764175036" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4191340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191340/5a63ef5ed0800bfada2d44d3e9c5f001fad7642b/header.jpg?t=1764175036" alt="ZEROLIMIT（新規追加）" /></a></p><p>ZEROLIMIT is a chaotic, arena-style FPS. Where you tear through waves of ninjas. You are armed with an arsenal of deadly guns and even melee weapons. Inspired by the action shooters of the 90s. It delivers retro chaos, nonstop combat and arena FPS that rewards speed and precision.</p><p><a href="https://store.steampowered.com/app/4191340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ichorous（新規追加）</title>
-  <link>https://store.steampowered.com/app/4050810/</link>
-  <guid isPermaLink="false">steam-store-published-4050810</guid>
-  <pubDate>Sun, 30 Nov 2025 09:44:38 +0000</pubDate>
-  <description>The blood-splattering roguelike where you shred through enemies infested with Ichor. Use the blood you spill to heal and grow stronger! As you collect ichor for the god of blood, known only as The Patron, he will grant you upgrades that not only help you but also your enemies!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050810/92d9c1ca0e3816c333dcdcf781acaaf8585f9858/header.jpg?t=1764295051" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050810/92d9c1ca0e3816c333dcdcf781acaaf8585f9858/header.jpg?t=1764295051" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050810/92d9c1ca0e3816c333dcdcf781acaaf8585f9858/header.jpg?t=1764295051" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4050810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050810/92d9c1ca0e3816c333dcdcf781acaaf8585f9858/header.jpg?t=1764295051" alt="Ichorous（新規追加）" /></a></p><p>The blood-splattering roguelike where you shred through enemies infested with Ichor. Use the blood you spill to heal and grow stronger! As you collect ichor for the god of blood, known only as The Patron, he will grant you upgrades that not only help you but also your enemies!</p><p><a href="https://store.steampowered.com/app/4050810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
