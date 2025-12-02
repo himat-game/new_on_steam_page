@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 02 Dec 2025 18:59:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 19:25:04 +0000</lastBuildDate>
+<item>
+  <title>Horns（新規追加）</title>
+  <link>https://store.steampowered.com/app/4212650/</link>
+  <guid isPermaLink="false">steam-store-published-4212650</guid>
+  <pubDate>Tue, 02 Dec 2025 19:25:04 +0000</pubDate>
+  <description>A dark third-person action RPG with fast, punishing combat, limited inventory, execution-driven abilities, and evolving horned powers that push you to survive the relentless, unforgiving challenges of Velharion.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212650/0c3f9a3e33b25be41ba5790621d66ee913af2aae/header.jpg?t=1764702904" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212650/0c3f9a3e33b25be41ba5790621d66ee913af2aae/header.jpg?t=1764702904" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212650/0c3f9a3e33b25be41ba5790621d66ee913af2aae/header.jpg?t=1764702904" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4212650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212650/0c3f9a3e33b25be41ba5790621d66ee913af2aae/header.jpg?t=1764702904" alt="Horns（新規追加）" /></a></p><p>A dark third-person action RPG with fast, punishing combat, limited inventory, execution-driven abilities, and evolving horned powers that push you to survive the relentless, unforgiving challenges of Velharion.</p><p><a href="https://store.steampowered.com/app/4212650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bloodfly Keeper（新規追加）</title>
   <link>https://store.steampowered.com/app/3435460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799590/header.jpg?t=1647554850" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799590/header.jpg?t=1647554850" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1799590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799590/header.jpg?t=1647554850" alt="Red Colony 3 Uncensored（新規追加）" /></a></p><p>You play as Mina, a sexy, big bosomed android, who is returning to Titan with precious dino DNA, desired by her Queen. Her mission complete, Mina looks forward to her reward - to be ‘Turned’. However, her dreams come to a halt when a stowaway causes an uprising on Titan, which Mina is blamed for.</p><p><a href="https://store.steampowered.com/app/1799590/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>End Of Line（新規追加）</title>
-  <link>https://store.steampowered.com/app/3960370/</link>
-  <guid isPermaLink="false">steam-store-published-3960370</guid>
-  <pubDate>Sun, 30 Nov 2025 10:47:19 +0000</pubDate>
-  <description>Stay alive in this first-person horror-puzzle game. Trapped inside a claustrophobic train, each carriage tests you differently. Stay silent, outsmart monsters, and solve puzzles as you unravel its dark mysteries.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960370/ef87c53eba286dcb32b7b941e0a8a01e0a2ebee4/header.jpg?t=1762982149" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960370/ef87c53eba286dcb32b7b941e0a8a01e0a2ebee4/header.jpg?t=1762982149" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960370/ef87c53eba286dcb32b7b941e0a8a01e0a2ebee4/header.jpg?t=1762982149" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3960370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960370/ef87c53eba286dcb32b7b941e0a8a01e0a2ebee4/header.jpg?t=1762982149" alt="End Of Line（新規追加）" /></a></p><p>Stay alive in this first-person horror-puzzle game. Trapped inside a claustrophobic train, each carriage tests you differently. Stay silent, outsmart monsters, and solve puzzles as you unravel its dark mysteries.</p><p><a href="https://store.steampowered.com/app/3960370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
