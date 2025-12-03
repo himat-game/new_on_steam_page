@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 03 Dec 2025 05:18:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 05:50:35 +0000</lastBuildDate>
+<item>
+  <title>Flocking Wars（新規追加）</title>
+  <link>https://store.steampowered.com/app/4192330/</link>
+  <guid isPermaLink="false">steam-store-published-4192330</guid>
+  <pubDate>Wed, 03 Dec 2025 05:50:35 +0000</pubDate>
+  <description>Command armies of flocking creatures in this fast-paced RTS. Battle for control of strategic nodes, utilize terrain advantages, and dominate the continent in the single-player campaign.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192330/15ae29d9a067fad36d1f42b5d9dd2461fa2d4aff/header.jpg?t=1764740325" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192330/15ae29d9a067fad36d1f42b5d9dd2461fa2d4aff/header.jpg?t=1764740325" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192330/15ae29d9a067fad36d1f42b5d9dd2461fa2d4aff/header.jpg?t=1764740325" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4192330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192330/15ae29d9a067fad36d1f42b5d9dd2461fa2d4aff/header.jpg?t=1764740325" alt="Flocking Wars（新規追加）" /></a></p><p>Command armies of flocking creatures in this fast-paced RTS. Battle for control of strategic nodes, utilize terrain advantages, and dominate the continent in the single-player campaign.</p><p><a href="https://store.steampowered.com/app/4192330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Graffiti Rush（新規追加）</title>
   <link>https://store.steampowered.com/app/4146230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483340/c84b711a380fede781a902aa296692a2ceac821a/header.jpg?t=1763988797" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483340/c84b711a380fede781a902aa296692a2ceac821a/header.jpg?t=1763988797" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2483340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483340/c84b711a380fede781a902aa296692a2ceac821a/header.jpg?t=1763988797" alt="Tommygun&#x27;s Frag（新規追加）" /></a></p><p>Squad up and join the battlefield! Start with a pistol, frag enemies, secure objectives, and unlock an arsenal—from SMGs to attack helicopters. Every match resets progression—new tactics, new loadouts, same relentless gunplay. Gun-game meets Battlefield in this fast and chaotic PvP FPS!</p><p><a href="https://store.steampowered.com/app/2483340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>LabRATory（新規追加）</title>
-  <link>https://store.steampowered.com/app/4078280/</link>
-  <guid isPermaLink="false">steam-store-published-4078280</guid>
-  <pubDate>Sun, 30 Nov 2025 10:47:19 +0000</pubDate>
-  <description>Grab a friend and play as two scientist-turned-rats in this local co-op adventure. Use your tails and unique abilities to solve puzzles as you work together to find a way back to your human forms!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078280/a9e0bb518c03b6c6c88fd64696764bcabeee5339/header.jpg?t=1764413461" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078280/a9e0bb518c03b6c6c88fd64696764bcabeee5339/header.jpg?t=1764413461" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078280/a9e0bb518c03b6c6c88fd64696764bcabeee5339/header.jpg?t=1764413461" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4078280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078280/a9e0bb518c03b6c6c88fd64696764bcabeee5339/header.jpg?t=1764413461" alt="LabRATory（新規追加）" /></a></p><p>Grab a friend and play as two scientist-turned-rats in this local co-op adventure. Use your tails and unique abilities to solve puzzles as you work together to find a way back to your human forms!</p><p><a href="https://store.steampowered.com/app/4078280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
