@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 03 Dec 2025 22:18:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 22:51:56 +0000</lastBuildDate>
+<item>
+  <title>Jump or Die（新規追加）</title>
+  <link>https://store.steampowered.com/app/4203150/</link>
+  <guid isPermaLink="false">steam-store-published-4203150</guid>
+  <pubDate>Wed, 03 Dec 2025 22:51:56 +0000</pubDate>
+  <description>Jump, die, repeat. Fast-paced endless runner that will challenge you to make quick decisions and precise jumps.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203150/d0c479f4f2de5425cfb7b9afc076c881f53a250e/header.jpg?t=1764801762" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203150/d0c479f4f2de5425cfb7b9afc076c881f53a250e/header.jpg?t=1764801762" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203150/d0c479f4f2de5425cfb7b9afc076c881f53a250e/header.jpg?t=1764801762" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4203150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203150/d0c479f4f2de5425cfb7b9afc076c881f53a250e/header.jpg?t=1764801762" alt="Jump or Die（新規追加）" /></a></p><p>Jump, die, repeat. Fast-paced endless runner that will challenge you to make quick decisions and precise jumps.</p><p><a href="https://store.steampowered.com/app/4203150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bird Game 3（新規追加）</title>
   <link>https://store.steampowered.com/app/4223300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114690/c4a1414766f55b29d817d731b7d341c7d967492c/header.jpg?t=1764609110" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114690/c4a1414766f55b29d817d731b7d341c7d967492c/header.jpg?t=1764609110" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4114690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114690/c4a1414766f55b29d817d731b7d341c7d967492c/header.jpg?t=1764609110" alt="ZuOnline（新規追加）" /></a></p><p>Return to the legendary world of Zu Online - a martial arts MMORPG reborn. Explore ancient skies, master cultivation, and battle for immortality in a world inspired by Chinese mythology.</p><p><a href="https://store.steampowered.com/app/4114690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Namiko（新規追加）</title>
-  <link>https://store.steampowered.com/app/4201950/</link>
-  <guid isPermaLink="false">steam-store-published-4201950</guid>
-  <pubDate>Mon, 01 Dec 2025 16:57:02 +0000</pubDate>
-  <description>A PSX-style psychological horror adventure inspired by folklore and emotional storytelling. Awaken in a haunted bathhouse, explore a corrupted village, solve puzzles, face spirits, and uncover the truth behind Namiko’s past.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201950/240a726c9baa8314357cf97d3d74891efc65a6df/header.jpg?t=1764607067" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201950/240a726c9baa8314357cf97d3d74891efc65a6df/header.jpg?t=1764607067" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201950/240a726c9baa8314357cf97d3d74891efc65a6df/header.jpg?t=1764607067" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4201950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201950/240a726c9baa8314357cf97d3d74891efc65a6df/header.jpg?t=1764607067" alt="Namiko（新規追加）" /></a></p><p>A PSX-style psychological horror adventure inspired by folklore and emotional storytelling. Awaken in a haunted bathhouse, explore a corrupted village, solve puzzles, face spirits, and uncover the truth behind Namiko’s past.</p><p><a href="https://store.steampowered.com/app/4201950/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
