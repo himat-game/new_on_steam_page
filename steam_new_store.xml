@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 03 Dec 2025 15:42:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 16:25:56 +0000</lastBuildDate>
+<item>
+  <title>Passion Bay（新規追加）</title>
+  <link>https://store.steampowered.com/app/4179450/</link>
+  <guid isPermaLink="false">steam-store-published-4179450</guid>
+  <pubDate>Wed, 03 Dec 2025 16:25:56 +0000</pubDate>
+  <description>Become the ruler of your own paradise where a tropical island is filled with irresistible girls. Experience a captivating idle clicker as you restore and develop your island, grow your business, earn resources, and unlock new areas while deepening relationships with the beauties around you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179450/1c6a3cced30bbb96a4633c261b60d4fea8dad5ef/header.jpg?t=1764777348" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179450/1c6a3cced30bbb96a4633c261b60d4fea8dad5ef/header.jpg?t=1764777348" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179450/1c6a3cced30bbb96a4633c261b60d4fea8dad5ef/header.jpg?t=1764777348" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4179450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179450/1c6a3cced30bbb96a4633c261b60d4fea8dad5ef/header.jpg?t=1764777348" alt="Passion Bay（新規追加）" /></a></p><p>Become the ruler of your own paradise where a tropical island is filled with irresistible girls. Experience a captivating idle clicker as you restore and develop your island, grow your business, earn resources, and unlock new areas while deepening relationships with the beauties around you.</p><p><a href="https://store.steampowered.com/app/4179450/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>秋之轻语（新規追加）</title>
   <link>https://store.steampowered.com/app/3598290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211840/c96651fe1d2bae77288cf514aa3d67405040ff2c/header.jpg?t=1764516213" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211840/c96651fe1d2bae77288cf514aa3d67405040ff2c/header.jpg?t=1764516213" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4211840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211840/c96651fe1d2bae77288cf514aa3d67405040ff2c/header.jpg?t=1764516213" alt="HIDDEN CATS 8: Happy New Year 🎄🥂🎅（新規追加）" /></a></p><p>Explore the fairytale New Year&#x27;s town while finding cute cats and paint black - white locations with colored paints.</p><p><a href="https://store.steampowered.com/app/4211840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>IES0.97（新規追加）</title>
-  <link>https://store.steampowered.com/app/4197170/</link>
-  <guid isPermaLink="false">steam-store-published-4197170</guid>
-  <pubDate>Sun, 30 Nov 2025 15:45:17 +0000</pubDate>
-  <description>『IES0.97』 is a metafiction puzzle action game where slightly surreal conversations add to the fun. You must choose the right spell from the many magic spells Lorena possesses to proceed. Your choices will be tested.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197170/c253b4fb9ca656202b4a85d02cd0a68a90bb58f9/header.jpg?t=1764514874" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197170/c253b4fb9ca656202b4a85d02cd0a68a90bb58f9/header.jpg?t=1764514874" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197170/c253b4fb9ca656202b4a85d02cd0a68a90bb58f9/header.jpg?t=1764514874" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4197170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197170/c253b4fb9ca656202b4a85d02cd0a68a90bb58f9/header.jpg?t=1764514874" alt="IES0.97（新規追加）" /></a></p><p>『IES0.97』 is a metafiction puzzle action game where slightly surreal conversations add to the fun. You must choose the right spell from the many magic spells Lorena possesses to proceed. Your choices will be tested.</p><p><a href="https://store.steampowered.com/app/4197170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
