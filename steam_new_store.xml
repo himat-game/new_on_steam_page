@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 03 Dec 2025 12:38:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 13:23:51 +0000</lastBuildDate>
+<item>
+  <title>WISE GUYS（新規追加）</title>
+  <link>https://store.steampowered.com/app/3725630/</link>
+  <guid isPermaLink="false">steam-store-published-3725630</guid>
+  <pubDate>Wed, 03 Dec 2025 13:23:51 +0000</pubDate>
+  <description>Wise Guys is a ruthless, high-stakes social deduction game where trust is a weapon and betrayal is just survival. Up to 8 players race against time to clean up their criminal operation and get out before the raid hits. Meanwhile, a Rat is quietly sabotaging the crew at every turn.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725630/fb44d7fd57648c2652b2c2cde16b133287b6b750/header.jpg?t=1764767172" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725630/fb44d7fd57648c2652b2c2cde16b133287b6b750/header.jpg?t=1764767172" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725630/fb44d7fd57648c2652b2c2cde16b133287b6b750/header.jpg?t=1764767172" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3725630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725630/fb44d7fd57648c2652b2c2cde16b133287b6b750/header.jpg?t=1764767172" alt="WISE GUYS（新規追加）" /></a></p><p>Wise Guys is a ruthless, high-stakes social deduction game where trust is a weapon and betrayal is just survival. Up to 8 players race against time to clean up their criminal operation and get out before the raid hits. Meanwhile, a Rat is quietly sabotaging the crew at every turn.</p><p><a href="https://store.steampowered.com/app/3725630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Data Strafer（新規追加）</title>
   <link>https://store.steampowered.com/app/4213160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125400/bee1f076d72352af45f97170c09d0193f94b5b69/header.jpg?t=1764273910" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125400/bee1f076d72352af45f97170c09d0193f94b5b69/header.jpg?t=1764273910" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4125400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125400/bee1f076d72352af45f97170c09d0193f94b5b69/header.jpg?t=1764273910" alt="Limits（新規追加）" /></a></p><p>LIMITS is an experience of observation and obedience, concealed beneath the logic of a planetary restoration program. Execute the protocols. Analyze the zones. Cleanse the anomalies. C.A.L.L guides you. It watches over you.</p><p><a href="https://store.steampowered.com/app/4125400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Path of the Runecaster（新規追加）</title>
-  <link>https://store.steampowered.com/app/4132240/</link>
-  <guid isPermaLink="false">steam-store-published-4132240</guid>
-  <pubDate>Sun, 30 Nov 2025 11:44:29 +0000</pubDate>
-  <description>Combine seu poder mágico com poderosas runas para enfrentar hordas gigantescas de inimigos! Desbloqueie runas elementais seladas para ajudar em sua jornada. Siga sempre em frente e descubra o verdadeiro significado do caminho do Runecaster.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132240/619ed252c1ad0ebb744aa5446f550cdd34905ef6/header.jpg?t=1763558713" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132240/619ed252c1ad0ebb744aa5446f550cdd34905ef6/header.jpg?t=1763558713" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132240/619ed252c1ad0ebb744aa5446f550cdd34905ef6/header.jpg?t=1763558713" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4132240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132240/619ed252c1ad0ebb744aa5446f550cdd34905ef6/header.jpg?t=1763558713" alt="Path of the Runecaster（新規追加）" /></a></p><p>Combine seu poder mágico com poderosas runas para enfrentar hordas gigantescas de inimigos! Desbloqueie runas elementais seladas para ajudar em sua jornada. Siga sempre em frente e descubra o verdadeiro significado do caminho do Runecaster.</p><p><a href="https://store.steampowered.com/app/4132240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
