@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 03 Dec 2025 06:28:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Dec 2025 07:23:56 +0000</lastBuildDate>
+<item>
+  <title>Railroad to Amberfield（新規追加）</title>
+  <link>https://store.steampowered.com/app/4221850/</link>
+  <guid isPermaLink="false">steam-store-published-4221850</guid>
+  <pubDate>Wed, 03 Dec 2025 07:23:56 +0000</pubDate>
+  <description>Build railway routes across a cozy tile-based map. Guide your train toward Amberfield while completing a variety of tasks along the way. Enjoy the freedom to shape your own journey and reach the destination within a limited number of turns.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221850/aebefd0a061c48c95daabc9046e28878cdf2e2ed/header.jpg?t=1764745387" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221850/aebefd0a061c48c95daabc9046e28878cdf2e2ed/header.jpg?t=1764745387" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221850/aebefd0a061c48c95daabc9046e28878cdf2e2ed/header.jpg?t=1764745387" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221850/aebefd0a061c48c95daabc9046e28878cdf2e2ed/header.jpg?t=1764745387" alt="Railroad to Amberfield（新規追加）" /></a></p><p>Build railway routes across a cozy tile-based map. Guide your train toward Amberfield while completing a variety of tasks along the way. Enjoy the freedom to shape your own journey and reach the destination within a limited number of turns.</p><p><a href="https://store.steampowered.com/app/4221850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mindcage: Override（新規追加）</title>
   <link>https://store.steampowered.com/app/4219720/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145390/269ec93706be2b2684dc057cfb552ee2a1790116/header.jpg?t=1763094003" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145390/269ec93706be2b2684dc057cfb552ee2a1790116/header.jpg?t=1763094003" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4145390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145390/269ec93706be2b2684dc057cfb552ee2a1790116/header.jpg?t=1763094003" alt="The Beauty&#x27;s Plan -  Sword Shield（新規追加）" /></a></p><p>A third-person perspective roguelike action game: select your favorite combinations from dozens of skills to defeat dozens of enemy types and bosses, and obtain a variety of powerful items.</p><p><a href="https://store.steampowered.com/app/4145390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>On Love, On Monsters（新規追加）</title>
-  <link>https://store.steampowered.com/app/4189160/</link>
-  <guid isPermaLink="false">steam-store-published-4189160</guid>
-  <pubDate>Sun, 30 Nov 2025 10:47:19 +0000</pubDate>
-  <description>On Love, On Monsters is a Frankenstein-inspired story with an emphasis on love in its many forms. Play as three characters with alternating POVs; the Doctor, The Priest, and The Exile. Bond with allies and enemies, avoid raising suspicion in the town of Blackmoore, and learn what it means to love.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189160/23b934ede7fd58411f3e3b5830c996fbf14ab3a7/header.jpg?t=1763921167" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189160/23b934ede7fd58411f3e3b5830c996fbf14ab3a7/header.jpg?t=1763921167" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189160/23b934ede7fd58411f3e3b5830c996fbf14ab3a7/header.jpg?t=1763921167" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4189160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189160/23b934ede7fd58411f3e3b5830c996fbf14ab3a7/header.jpg?t=1763921167" alt="On Love, On Monsters（新規追加）" /></a></p><p>On Love, On Monsters is a Frankenstein-inspired story with an emphasis on love in its many forms. Play as three characters with alternating POVs; the Doctor, The Priest, and The Exile. Bond with allies and enemies, avoid raising suspicion in the town of Blackmoore, and learn what it means to love.</p><p><a href="https://store.steampowered.com/app/4189160/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
