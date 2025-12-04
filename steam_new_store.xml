@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 04 Dec 2025 22:15:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 22:48:05 +0000</lastBuildDate>
+<item>
+  <title>Unusual Tales: Deep Below（新規追加）</title>
+  <link>https://store.steampowered.com/app/3963520/</link>
+  <guid isPermaLink="false">steam-store-published-3963520</guid>
+  <pubDate>Thu, 04 Dec 2025 22:48:05 +0000</pubDate>
+  <description>You, a normal working Joe, decide to try to solve the mystery of the missing girl... Will you make it out alive? A horror game filled with mystery!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963520/e8e3b93690cc3036e605fcbd2e6824fd7c3aa5cf/header.jpg?t=1764887296" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963520/e8e3b93690cc3036e605fcbd2e6824fd7c3aa5cf/header.jpg?t=1764887296" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963520/e8e3b93690cc3036e605fcbd2e6824fd7c3aa5cf/header.jpg?t=1764887296" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3963520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963520/e8e3b93690cc3036e605fcbd2e6824fd7c3aa5cf/header.jpg?t=1764887296" alt="Unusual Tales: Deep Below（新規追加）" /></a></p><p>You, a normal working Joe, decide to try to solve the mystery of the missing girl... Will you make it out alive? A horror game filled with mystery!</p><p><a href="https://store.steampowered.com/app/3963520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Magnet Agent（新規追加）</title>
   <link>https://store.steampowered.com/app/4136610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435460/e1cb44a8941dba733d4cc4d1af2771d17429eb4c/header.jpg?t=1764700943" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435460/e1cb44a8941dba733d4cc4d1af2771d17429eb4c/header.jpg?t=1764700943" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3435460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435460/e1cb44a8941dba733d4cc4d1af2771d17429eb4c/header.jpg?t=1764700943" alt="Bloodfly Keeper（新規追加）" /></a></p><p>Breed unruly bloodflies, craft forbidden cures, and rise from outcast to underground healer in a city ruled by a corrupt medical regime.</p><p><a href="https://store.steampowered.com/app/3435460/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Flies.（新規追加）</title>
-  <link>https://store.steampowered.com/app/4194520/</link>
-  <guid isPermaLink="false">steam-store-published-4194520</guid>
-  <pubDate>Tue, 02 Dec 2025 18:59:10 +0000</pubDate>
-  <description>A house infested with rot. The smell of mold in the air. Why are you here? Who are you doing this for? Maybe with enough attempts you&#x27;ll find the real answer. You just have to remember it. After all, you don&#x27;t want to get swarmed by flies... Right?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194520/f877115e8be0cc67a59d1f0686a0a3f80c6cda14/header.jpg?t=1764700763" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194520/f877115e8be0cc67a59d1f0686a0a3f80c6cda14/header.jpg?t=1764700763" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194520/f877115e8be0cc67a59d1f0686a0a3f80c6cda14/header.jpg?t=1764700763" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4194520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194520/f877115e8be0cc67a59d1f0686a0a3f80c6cda14/header.jpg?t=1764700763" alt="Flies.（新規追加）" /></a></p><p>A house infested with rot. The smell of mold in the air. Why are you here? Who are you doing this for? Maybe with enough attempts you&#x27;ll find the real answer. You just have to remember it. After all, you don&#x27;t want to get swarmed by flies... Right?</p><p><a href="https://store.steampowered.com/app/4194520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
