@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 04 Dec 2025 17:24:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 17:50:38 +0000</lastBuildDate>
+<item>
+  <title>Berrus（新規追加）</title>
+  <link>https://store.steampowered.com/app/4126930/</link>
+  <guid isPermaLink="false">steam-store-published-4126930</guid>
+  <pubDate>Thu, 04 Dec 2025 17:50:38 +0000</pubDate>
+  <description>A free-to-play online tactical RPG set in post-apocalyptic Spain. Fight turn-based battles, explore procedural dungeons with dynamic loot, craft gear, and grind idle jobs. Inspired by RuneScape and Path of Exile.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126930/a4e64194e2c415a82dc999fb3ef480ab110cf957/header.jpg?t=1764869747" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126930/a4e64194e2c415a82dc999fb3ef480ab110cf957/header.jpg?t=1764869747" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126930/a4e64194e2c415a82dc999fb3ef480ab110cf957/header.jpg?t=1764869747" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4126930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126930/a4e64194e2c415a82dc999fb3ef480ab110cf957/header.jpg?t=1764869747" alt="Berrus（新規追加）" /></a></p><p>A free-to-play online tactical RPG set in post-apocalyptic Spain. Fight turn-based battles, explore procedural dungeons with dynamic loot, craft gear, and grind idle jobs. Inspired by RuneScape and Path of Exile.</p><p><a href="https://store.steampowered.com/app/4126930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pawn Shop Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/3954140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967330/fd45b7584bb1b29f7ae3ba03e080bc2caeb79598/header.jpg?t=1764675765" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967330/fd45b7584bb1b29f7ae3ba03e080bc2caeb79598/header.jpg?t=1764675765" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3967330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967330/fd45b7584bb1b29f7ae3ba03e080bc2caeb79598/header.jpg?t=1764675765" alt="Shadow of the Moonlight（新規追加）" /></a></p><p>A dark fantasy visual novel set in a medieval world, blending anime-inspired art with unexpected twists. Will you dare to face your weakness and your strength? How far will you go to find your true enemy? Uncover the secrets of your roots — and far beyond. Survive… if you can.</p><p><a href="https://store.steampowered.com/app/3967330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Countryball Football Online（新規追加）</title>
-  <link>https://store.steampowered.com/app/4190350/</link>
-  <guid isPermaLink="false">steam-store-published-4190350</guid>
-  <pubDate>Tue, 02 Dec 2025 10:20:52 +0000</pubDate>
-  <description>Pick your country and step up to field! Control one player on your team or control all team and compete. Play 5v5 matches with your favorite countryball and show your football skills.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190350/70ef67a3e33834cfd90d5466f5f4c7cae1230670/header.jpg?t=1764670119" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190350/70ef67a3e33834cfd90d5466f5f4c7cae1230670/header.jpg?t=1764670119" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190350/70ef67a3e33834cfd90d5466f5f4c7cae1230670/header.jpg?t=1764670119" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4190350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190350/70ef67a3e33834cfd90d5466f5f4c7cae1230670/header.jpg?t=1764670119" alt="Countryball Football Online（新規追加）" /></a></p><p>Pick your country and step up to field! Control one player on your team or control all team and compete. Play 5v5 matches with your favorite countryball and show your football skills.</p><p><a href="https://store.steampowered.com/app/4190350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
