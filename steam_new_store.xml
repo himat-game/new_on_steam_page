@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 04 Dec 2025 05:51:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 06:28:02 +0000</lastBuildDate>
+<item>
+  <title>美女，游泳健身了解一下（新規追加）</title>
+  <link>https://store.steampowered.com/app/4209350/</link>
+  <guid isPermaLink="false">steam-store-published-4209350</guid>
+  <pubDate>Thu, 04 Dec 2025 06:28:02 +0000</pubDate>
+  <description>《美女，游泳健身了解一下》是一款融合了都市创业与多线恋爱的互动影像游戏。你将扮演一位刚毕业的大学生，临危受命接手舅舅濒临倒闭的“蔚蓝游泳健身中心”。在这段绝地逆袭的旅程中，与六位身份各异、魅力非凡的女性命运交织。</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209350/88aa1296af841e6484fe16061132b7cdd82d196e/header.jpg?t=1764828659" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209350/88aa1296af841e6484fe16061132b7cdd82d196e/header.jpg?t=1764828659" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209350/88aa1296af841e6484fe16061132b7cdd82d196e/header.jpg?t=1764828659" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4209350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209350/88aa1296af841e6484fe16061132b7cdd82d196e/header.jpg?t=1764828659" alt="美女，游泳健身了解一下（新規追加）" /></a></p><p>《美女，游泳健身了解一下》是一款融合了都市创业与多线恋爱的互动影像游戏。你将扮演一位刚毕业的大学生，临危受命接手舅舅濒临倒闭的“蔚蓝游泳健身中心”。在这段绝地逆袭的旅程中，与六位身份各异、魅力非凡的女性命运交织。</p><p><a href="https://store.steampowered.com/app/4209350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Paleobiome（新規追加）</title>
   <link>https://store.steampowered.com/app/3328120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172300/41c7a2a959a6022008a3e478bcb43cd611449d66/header.jpg?t=1764635192" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172300/41c7a2a959a6022008a3e478bcb43cd611449d66/header.jpg?t=1764635192" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4172300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172300/41c7a2a959a6022008a3e478bcb43cd611449d66/header.jpg?t=1764635192" alt="Upbaka!（新規追加）" /></a></p><p>A chaotic roguelite where every floor is a mess, the enemies don’t know what they’re doing, and neither do you. Fight, loot, and climb the tower... or die trying (which is very likely).</p><p><a href="https://store.steampowered.com/app/4172300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lepton Development（新規追加）</title>
-  <link>https://store.steampowered.com/app/3056000/</link>
-  <guid isPermaLink="false">steam-store-published-3056000</guid>
-  <pubDate>Tue, 02 Dec 2025 01:20:45 +0000</pubDate>
-  <description>type=game, appid=3056000</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056000/8921a6c024852c119f62465a7bb8dd66d7b2833c/header.jpg?t=1764635276" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056000/8921a6c024852c119f62465a7bb8dd66d7b2833c/header.jpg?t=1764635276" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056000/8921a6c024852c119f62465a7bb8dd66d7b2833c/header.jpg?t=1764635276" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3056000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056000/8921a6c024852c119f62465a7bb8dd66d7b2833c/header.jpg?t=1764635276" alt="Lepton Development（新規追加）" /></a></p><p>type=game, appid=3056000</p><p><a href="https://store.steampowered.com/app/3056000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
