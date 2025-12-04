@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 04 Dec 2025 18:29:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 18:57:58 +0000</lastBuildDate>
+<item>
+  <title>Wellspring OLC（新規追加）</title>
+  <link>https://store.steampowered.com/app/4086230/</link>
+  <guid isPermaLink="false">steam-store-published-4086230</guid>
+  <pubDate>Thu, 04 Dec 2025 18:57:58 +0000</pubDate>
+  <description>Wellspring OLC is a GM-first adventure creation platform. One person builds and runs the world, everyone else joins for free. Create modules with in-game tools (no coding or art), share them on Workshop, and play online together or solo.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086230/d8e96405a44194ac0143d468356061ab9daaa2da/header.jpg?t=1764872986" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086230/d8e96405a44194ac0143d468356061ab9daaa2da/header.jpg?t=1764872986" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086230/d8e96405a44194ac0143d468356061ab9daaa2da/header.jpg?t=1764872986" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4086230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086230/d8e96405a44194ac0143d468356061ab9daaa2da/header.jpg?t=1764872986" alt="Wellspring OLC（新規追加）" /></a></p><p>Wellspring OLC is a GM-first adventure creation platform. One person builds and runs the world, everyone else joins for free. Create modules with in-game tools (no coding or art), share them on Workshop, and play online together or solo.</p><p><a href="https://store.steampowered.com/app/4086230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tales of Evion: Forgotten Dreams（新規追加）</title>
   <link>https://store.steampowered.com/app/4211780/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219010/ff71d4f07a42051b820393d596e25fe737736f84/header.jpg?t=1764678977" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219010/ff71d4f07a42051b820393d596e25fe737736f84/header.jpg?t=1764678977" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4219010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219010/ff71d4f07a42051b820393d596e25fe737736f84/header.jpg?t=1764678977" alt="Bird Game 3（新規追加）" /></a></p><p>Bird Game 3 is a competitive bird-survival sim where you and your flock defend your nest against rival players.</p><p><a href="https://store.steampowered.com/app/4219010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Last Departure（新規追加）</title>
-  <link>https://store.steampowered.com/app/4219430/</link>
-  <guid isPermaLink="false">steam-store-published-4219430</guid>
-  <pubDate>Tue, 02 Dec 2025 12:38:46 +0000</pubDate>
-  <description>The Last Departure is an atmospheric horror game set aboard the final run of a closing train line. Find your way out or loop forever.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219430/e8bbf7a644a9684595f5c1cb9113700f1428f183/header.jpg?t=1764677258" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219430/e8bbf7a644a9684595f5c1cb9113700f1428f183/header.jpg?t=1764677258" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219430/e8bbf7a644a9684595f5c1cb9113700f1428f183/header.jpg?t=1764677258" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4219430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219430/e8bbf7a644a9684595f5c1cb9113700f1428f183/header.jpg?t=1764677258" alt="The Last Departure（新規追加）" /></a></p><p>The Last Departure is an atmospheric horror game set aboard the final run of a closing train line. Find your way out or loop forever.</p><p><a href="https://store.steampowered.com/app/4219430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
