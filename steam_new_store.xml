@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 04 Dec 2025 04:00:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 04:46:18 +0000</lastBuildDate>
+<item>
+  <title>The Last Disease Z（新規追加）</title>
+  <link>https://store.steampowered.com/app/1843400/</link>
+  <guid isPermaLink="false">steam-store-published-1843400</guid>
+  <pubDate>Thu, 04 Dec 2025 04:46:18 +0000</pubDate>
+  <description>The Last Disease Z is a co-op survival experience where everything is against you. Abandoned cities, zombies and bandits, a struggle for resources and a place to live. Build, unite, and survive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843400/b85c069da4c4a613d9ccda47ab531d6f43a2e513/header.jpg?t=1764823104" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843400/b85c069da4c4a613d9ccda47ab531d6f43a2e513/header.jpg?t=1764823104" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843400/b85c069da4c4a613d9ccda47ab531d6f43a2e513/header.jpg?t=1764823104" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1843400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843400/b85c069da4c4a613d9ccda47ab531d6f43a2e513/header.jpg?t=1764823104" alt="The Last Disease Z（新規追加）" /></a></p><p>The Last Disease Z is a co-op survival experience where everything is against you. Abandoned cities, zombies and bandits, a struggle for resources and a place to live. Build, unite, and survive.</p><p><a href="https://store.steampowered.com/app/1843400/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ironforged（新規追加）</title>
   <link>https://store.steampowered.com/app/3855660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216200/cb0343ee0bd17070e8746d1fd34f87df31edfca4/header.jpg?t=1764632578" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216200/cb0343ee0bd17070e8746d1fd34f87df31edfca4/header.jpg?t=1764632578" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4216200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216200/cb0343ee0bd17070e8746d1fd34f87df31edfca4/header.jpg?t=1764632578" alt="迷宫梦魇-黑暗的尽头（新規追加）" /></a></p><p>《Maze Nightmare-Edge of Darkness》 is a first-person survival game. Trapped in a foggy, procedural maze, use limited ammo and faint breath sounds to locate the key-carrying zombie, find the key, and escape—or be lost forever.</p><p><a href="https://store.steampowered.com/app/4216200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pengo Friendo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4170280/</link>
-  <guid isPermaLink="false">steam-store-published-4170280</guid>
-  <pubDate>Mon, 01 Dec 2025 23:46:22 +0000</pubDate>
-  <description>Pengo Friendo is a cozy productivity companion where a robot penguin helps you stay focused, build discipline, and reach your goals through gentle nudges, habit tracking, and rewarding moments of concentration.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170280/b5996d625406b36f9bebe3f24220b7ba7496be6f/header.jpg?t=1764631478" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170280/b5996d625406b36f9bebe3f24220b7ba7496be6f/header.jpg?t=1764631478" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170280/b5996d625406b36f9bebe3f24220b7ba7496be6f/header.jpg?t=1764631478" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4170280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170280/b5996d625406b36f9bebe3f24220b7ba7496be6f/header.jpg?t=1764631478" alt="Pengo Friendo（新規追加）" /></a></p><p>Pengo Friendo is a cozy productivity companion where a robot penguin helps you stay focused, build discipline, and reach your goals through gentle nudges, habit tracking, and rewarding moments of concentration.</p><p><a href="https://store.steampowered.com/app/4170280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
