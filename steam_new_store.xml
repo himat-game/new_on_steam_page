@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 05 Dec 2025 03:59:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 04:54:13 +0000</lastBuildDate>
+<item>
+  <title>Ghlobot Galaxy（新規追加）</title>
+  <link>https://store.steampowered.com/app/4230940/</link>
+  <guid isPermaLink="false">steam-store-published-4230940</guid>
+  <pubDate>Fri, 05 Dec 2025 04:54:13 +0000</pubDate>
+  <description>Ghlobot Galaxy is a charming cosmic adventure where glowing Ghlobots travel across 7 vibrant galaxies to reclaim their stolen stars and rescue their queen from the Demon King. Explore 35 handcrafted levels and challenge 7 epic bosses in colorful, glowing worlds filled with secrets and surprises.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230940/7761291fc70fe855bf742b9d9cb33e31a9f3002e/header.jpg?t=1764908286" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230940/7761291fc70fe855bf742b9d9cb33e31a9f3002e/header.jpg?t=1764908286" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230940/7761291fc70fe855bf742b9d9cb33e31a9f3002e/header.jpg?t=1764908286" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4230940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230940/7761291fc70fe855bf742b9d9cb33e31a9f3002e/header.jpg?t=1764908286" alt="Ghlobot Galaxy（新規追加）" /></a></p><p>Ghlobot Galaxy is a charming cosmic adventure where glowing Ghlobots travel across 7 vibrant galaxies to reclaim their stolen stars and rescue their queen from the Demon King. Explore 35 handcrafted levels and challenge 7 epic bosses in colorful, glowing worlds filled with secrets and surprises.</p><p><a href="https://store.steampowered.com/app/4230940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Toilet Femdom 2: Christmas Afterparty（新規追加）</title>
   <link>https://store.steampowered.com/app/4220130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220940/41ef968bae51e823c0e9c621e9c4897f3d13da04/header.jpg?t=1764722857" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220940/41ef968bae51e823c0e9c621e9c4897f3d13da04/header.jpg?t=1764722857" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4220940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220940/41ef968bae51e823c0e9c621e9c4897f3d13da04/header.jpg?t=1764722857" alt="Five Nights In Saransk（新規追加）" /></a></p><p>You wake up in the middle of the night in your cozy one-room apartment and notice something wandering around your five-story panel building. Your only task is to prevent these strange creatures from getting inside.</p><p><a href="https://store.steampowered.com/app/4220940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Menace Below（新規追加）</title>
-  <link>https://store.steampowered.com/app/4128370/</link>
-  <guid isPermaLink="false">steam-store-published-4128370</guid>
-  <pubDate>Tue, 02 Dec 2025 23:46:23 +0000</pubDate>
-  <description>Short hand-drawn cinematic platformer about escaping from the lair of evil ratmen.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128370/9ddb05a07cdfa7d15176d817fa00bee61a77f8d5/header.jpg?t=1764715646" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128370/9ddb05a07cdfa7d15176d817fa00bee61a77f8d5/header.jpg?t=1764715646" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128370/9ddb05a07cdfa7d15176d817fa00bee61a77f8d5/header.jpg?t=1764715646" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128370/9ddb05a07cdfa7d15176d817fa00bee61a77f8d5/header.jpg?t=1764715646" alt="The Menace Below（新規追加）" /></a></p><p>Short hand-drawn cinematic platformer about escaping from the lair of evil ratmen.</p><p><a href="https://store.steampowered.com/app/4128370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
