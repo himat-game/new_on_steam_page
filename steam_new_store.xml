@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 05 Dec 2025 06:28:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 06:57:33 +0000</lastBuildDate>
+<item>
+  <title>Surface Breaker（新規追加）</title>
+  <link>https://store.steampowered.com/app/4152460/</link>
+  <guid isPermaLink="false">steam-store-published-4152460</guid>
+  <pubDate>Fri, 05 Dec 2025 06:57:33 +0000</pubDate>
+  <description>Sci-fi rogue-like mining/tower defense game. Mine through a procedurally generated world to discover artifacts. Defend your spaceship from waves of enemies. Discover and spend resources to improve your mining and spaceships combat ability.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152460/490d53453bb356553ff3f8e97716807cb21e5dde/header.jpg?t=1764917558" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152460/490d53453bb356553ff3f8e97716807cb21e5dde/header.jpg?t=1764917558" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152460/490d53453bb356553ff3f8e97716807cb21e5dde/header.jpg?t=1764917558" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4152460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152460/490d53453bb356553ff3f8e97716807cb21e5dde/header.jpg?t=1764917558" alt="Surface Breaker（新規追加）" /></a></p><p>Sci-fi rogue-like mining/tower defense game. Mine through a procedurally generated world to discover artifacts. Defend your spaceship from waves of enemies. Discover and spend resources to improve your mining and spaceships combat ability.</p><p><a href="https://store.steampowered.com/app/4152460/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Unbound（新規追加）</title>
   <link>https://store.steampowered.com/app/3659080/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180210/18bffba396592eaf4156c3c1a46da940c8757d99/header.jpg?t=1764722545" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180210/18bffba396592eaf4156c3c1a46da940c8757d99/header.jpg?t=1764722545" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4180210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180210/18bffba396592eaf4156c3c1a46da940c8757d99/header.jpg?t=1764722545" alt="HighScore Zero: Disc 1（新規追加）" /></a></p><p>In this retro style arcade game, go back to the basics with a collection of unique minigames where you try to get the best score possible. Collect medals to spend on unique cosmetic effects. Do you have what it takes to earn every medal?</p><p><a href="https://store.steampowered.com/app/4180210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chrono Wing: Cats in Space!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4219880/</link>
-  <guid isPermaLink="false">steam-store-published-4219880</guid>
-  <pubDate>Wed, 03 Dec 2025 01:21:08 +0000</pubDate>
-  <description>Chrono Wing: Cats in Space!&amp;quot; is a 90s-inspired SHMUP. Master five action-packed stages and use your time-rewinding abilities to dodge the game-over screen and build huge combos.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219880/3678e1953c4c4c5ba87f971fe7b18925a3f40ed0/header.jpg?t=1764724546" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219880/3678e1953c4c4c5ba87f971fe7b18925a3f40ed0/header.jpg?t=1764724546" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219880/3678e1953c4c4c5ba87f971fe7b18925a3f40ed0/header.jpg?t=1764724546" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4219880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219880/3678e1953c4c4c5ba87f971fe7b18925a3f40ed0/header.jpg?t=1764724546" alt="Chrono Wing: Cats in Space!（新規追加）" /></a></p><p>Chrono Wing: Cats in Space!&amp;quot; is a 90s-inspired SHMUP. Master five action-packed stages and use your time-rewinding abilities to dodge the game-over screen and build huge combos.</p><p><a href="https://store.steampowered.com/app/4219880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
