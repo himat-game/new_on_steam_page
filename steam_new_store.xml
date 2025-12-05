@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 05 Dec 2025 18:53:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 19:44:43 +0000</lastBuildDate>
+<item>
+  <title>Codename Medusa（新規追加）</title>
+  <link>https://store.steampowered.com/app/3652200/</link>
+  <guid isPermaLink="false">steam-store-published-3652200</guid>
+  <pubDate>Fri, 05 Dec 2025 19:44:43 +0000</pubDate>
+  <description>Build a new country, become a billionaire, or dive into our sprawling open-world to learn lore. Dictate the focus of your nation! Be wicked and have fun tormenting your struggling citizens for profit or nice by completing town projects to clean the corrupted area for your fellow deported monsters.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652200/21f51672dbbe0334b52ca49fba08e607ece8aff5/header.jpg?t=1764960863" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652200/21f51672dbbe0334b52ca49fba08e607ece8aff5/header.jpg?t=1764960863" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652200/21f51672dbbe0334b52ca49fba08e607ece8aff5/header.jpg?t=1764960863" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3652200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652200/21f51672dbbe0334b52ca49fba08e607ece8aff5/header.jpg?t=1764960863" alt="Codename Medusa（新規追加）" /></a></p><p>Build a new country, become a billionaire, or dive into our sprawling open-world to learn lore. Dictate the focus of your nation! Be wicked and have fun tormenting your struggling citizens for profit or nice by completing town projects to clean the corrupted area for your fellow deported monsters.</p><p><a href="https://store.steampowered.com/app/3652200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>NEON HEX（新規追加）</title>
   <link>https://store.steampowered.com/app/4226480/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164460/efbd56b778ce1846223e03b4deda17ab9b2a75d6/header.jpg?t=1764780865" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164460/efbd56b778ce1846223e03b4deda17ab9b2a75d6/header.jpg?t=1764780865" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4164460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164460/efbd56b778ce1846223e03b4deda17ab9b2a75d6/header.jpg?t=1764780865" alt="FOAM CUTTING SIMULATOR（新規追加）" /></a></p><p>Watching things get sliced cleanly feels like hitting your brain’s reset button and melting stress in a second.</p><p><a href="https://store.steampowered.com/app/4164460/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Virus Brotherhood（新規追加）</title>
-  <link>https://store.steampowered.com/app/4221730/</link>
-  <guid isPermaLink="false">steam-store-published-4221730</guid>
-  <pubDate>Wed, 03 Dec 2025 16:57:58 +0000</pubDate>
-  <description>You are a tiny virus, just born into the ruthless ecosystem of a single drop of water. There is no mercy here: billions of microbes are engaged in a constant struggle for existence, and their main enemy is hunger. Your life is measured in seconds on a hunger scale.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221730/ae2fdfbcf18ddd8af39481eadc30efdefea37f72/header.jpg?t=1764780302" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221730/ae2fdfbcf18ddd8af39481eadc30efdefea37f72/header.jpg?t=1764780302" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221730/ae2fdfbcf18ddd8af39481eadc30efdefea37f72/header.jpg?t=1764780302" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221730/ae2fdfbcf18ddd8af39481eadc30efdefea37f72/header.jpg?t=1764780302" alt="Virus Brotherhood（新規追加）" /></a></p><p>You are a tiny virus, just born into the ruthless ecosystem of a single drop of water. There is no mercy here: billions of microbes are engaged in a constant struggle for existence, and their main enemy is hunger. Your life is measured in seconds on a hunger scale.</p><p><a href="https://store.steampowered.com/app/4221730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
