@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 05 Dec 2025 12:37:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 13:19:59 +0000</lastBuildDate>
+<item>
+  <title>summer story（新規追加）</title>
+  <link>https://store.steampowered.com/app/4208680/</link>
+  <guid isPermaLink="false">steam-store-published-4208680</guid>
+  <pubDate>Fri, 05 Dec 2025 13:19:59 +0000</pubDate>
+  <description>Summer Story: An adventure game where you investigate and make choices that shape the story.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208680/bb7cb7413bd8e83ccc7f36c5fc40536228125214/header.jpg?t=1764940277" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208680/bb7cb7413bd8e83ccc7f36c5fc40536228125214/header.jpg?t=1764940277" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208680/bb7cb7413bd8e83ccc7f36c5fc40536228125214/header.jpg?t=1764940277" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4208680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208680/bb7cb7413bd8e83ccc7f36c5fc40536228125214/header.jpg?t=1764940277" alt="summer story（新規追加）" /></a></p><p>Summer Story: An adventure game where you investigate and make choices that shape the story.</p><p><a href="https://store.steampowered.com/app/4208680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mystery Phantoms: Ghostly Secrets Collector&#x27;s Edition（新規追加）</title>
   <link>https://store.steampowered.com/app/4176490/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218770/95561645370c2b71204c4d027b29c644a4f7539f/header.jpg?t=1764757956" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218770/95561645370c2b71204c4d027b29c644a4f7539f/header.jpg?t=1764757956" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4218770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218770/95561645370c2b71204c4d027b29c644a4f7539f/header.jpg?t=1764757956" alt="Lone Warrior（新規追加）" /></a></p><p>Lone Warrior is a fast-paced action roguelite about 1-on-1 reaction battles. Dodge enemy attacks, strike in short openings and spend the gold you keep after death to unlock new spells, stats and items.</p><p><a href="https://store.steampowered.com/app/4218770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tsugunohi -Supernatural Supermarket-（新規追加）</title>
-  <link>https://store.steampowered.com/app/3732620/</link>
-  <guid isPermaLink="false">steam-store-published-3732620</guid>
-  <pubDate>Wed, 03 Dec 2025 10:21:07 +0000</pubDate>
-  <description>You only walk to the left. A classic entry in the J-horror Tsugunohi series now comes to Steam. A part-time high-school girl hears unsettling rumors inside the supermarket after closing time…</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732620/024f6628acb028acca4738e6fec5790b17919950/header.jpg?t=1764755837" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732620/024f6628acb028acca4738e6fec5790b17919950/header.jpg?t=1764755837" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732620/024f6628acb028acca4738e6fec5790b17919950/header.jpg?t=1764755837" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3732620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732620/024f6628acb028acca4738e6fec5790b17919950/header.jpg?t=1764755837" alt="Tsugunohi -Supernatural Supermarket-（新規追加）" /></a></p><p>You only walk to the left. A classic entry in the J-horror Tsugunohi series now comes to Steam. A part-time high-school girl hears unsettling rumors inside the supermarket after closing time…</p><p><a href="https://store.steampowered.com/app/3732620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
