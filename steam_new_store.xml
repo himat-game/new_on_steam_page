@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 05 Dec 2025 06:57:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 07:23:36 +0000</lastBuildDate>
+<item>
+  <title>Bhangarh: The Untold Story（新規追加）</title>
+  <link>https://store.steampowered.com/app/3981150/</link>
+  <guid isPermaLink="false">steam-store-published-3981150</guid>
+  <pubDate>Fri, 05 Dec 2025 07:23:36 +0000</pubDate>
+  <description>A story driven survival horror game that puts you in the shoes of a journalist investigating a real-life haunted site, pulling you deep into its cursed corridors as you solve environmental puzzles and struggle to survive the malevolent force that stalks you from the shadows.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981150/fc76c0685e7dfb02b7e125f6ece19c0bac357d61/header.jpg?t=1764918074" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981150/fc76c0685e7dfb02b7e125f6ece19c0bac357d61/header.jpg?t=1764918074" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981150/fc76c0685e7dfb02b7e125f6ece19c0bac357d61/header.jpg?t=1764918074" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3981150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981150/fc76c0685e7dfb02b7e125f6ece19c0bac357d61/header.jpg?t=1764918074" alt="Bhangarh: The Untold Story（新規追加）" /></a></p><p>A story driven survival horror game that puts you in the shoes of a journalist investigating a real-life haunted site, pulling you deep into its cursed corridors as you solve environmental puzzles and struggle to survive the malevolent force that stalks you from the shadows.</p><p><a href="https://store.steampowered.com/app/3981150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Surface Breaker（新規追加）</title>
   <link>https://store.steampowered.com/app/4152460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214720/fac671efa45e6fa587051cae9c247b8175dc5e53/header.jpg?t=1764723841" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214720/fac671efa45e6fa587051cae9c247b8175dc5e53/header.jpg?t=1764723841" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4214720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214720/fac671efa45e6fa587051cae9c247b8175dc5e53/header.jpg?t=1764723841" alt="ナフダサガシ（新規追加）" /></a></p><p>“Nafuda Sagashi” is a psychological exploration game set in the liminal spaces of a Japanese school, where you wander through the building searching for lost name tags.</p><p><a href="https://store.steampowered.com/app/4214720/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>HighScore Zero: Disc 1（新規追加）</title>
-  <link>https://store.steampowered.com/app/4180210/</link>
-  <guid isPermaLink="false">steam-store-published-4180210</guid>
-  <pubDate>Wed, 03 Dec 2025 01:21:08 +0000</pubDate>
-  <description>In this retro style arcade game, go back to the basics with a collection of unique minigames where you try to get the best score possible. Collect medals to spend on unique cosmetic effects. Do you have what it takes to earn every medal?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180210/18bffba396592eaf4156c3c1a46da940c8757d99/header.jpg?t=1764722545" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180210/18bffba396592eaf4156c3c1a46da940c8757d99/header.jpg?t=1764722545" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180210/18bffba396592eaf4156c3c1a46da940c8757d99/header.jpg?t=1764722545" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4180210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180210/18bffba396592eaf4156c3c1a46da940c8757d99/header.jpg?t=1764722545" alt="HighScore Zero: Disc 1（新規追加）" /></a></p><p>In this retro style arcade game, go back to the basics with a collection of unique minigames where you try to get the best score possible. Collect medals to spend on unique cosmetic effects. Do you have what it takes to earn every medal?</p><p><a href="https://store.steampowered.com/app/4180210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
