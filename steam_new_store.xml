@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Dec 2025 13:48:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 15:45:22 +0000</lastBuildDate>
+<item>
+  <title>Fishy Dish（新規追加）</title>
+  <link>https://store.steampowered.com/app/4227430/</link>
+  <guid isPermaLink="false">steam-store-published-4227430</guid>
+  <pubDate>Sat, 06 Dec 2025 15:45:22 +0000</pubDate>
+  <description>Create and sell sushi in this roguelike inventory-management sushi-builder game. Collect fish, sauces, and tools, arrange them on a grid to trigger synergies, survive each round’s sales target, and build the ultimate sushi lineup.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227430/7511f3e88213b742be27ef48cf200eccc0503812/header.jpg?t=1765033277" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227430/7511f3e88213b742be27ef48cf200eccc0503812/header.jpg?t=1765033277" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227430/7511f3e88213b742be27ef48cf200eccc0503812/header.jpg?t=1765033277" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4227430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227430/7511f3e88213b742be27ef48cf200eccc0503812/header.jpg?t=1765033277" alt="Fishy Dish（新規追加）" /></a></p><p>Create and sell sushi in this roguelike inventory-management sushi-builder game. Collect fish, sauces, and tools, arrange them on a grid to trigger synergies, survive each round’s sales target, and build the ultimate sushi lineup.</p><p><a href="https://store.steampowered.com/app/4227430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Idle Car Clicker（新規追加）</title>
   <link>https://store.steampowered.com/app/3838760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199750/7b352bd0abcde0ac9e7d701c224c487e61bb73ec/header.jpg?t=1764818886" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199750/7b352bd0abcde0ac9e7d701c224c487e61bb73ec/header.jpg?t=1764818886" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4199750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199750/7b352bd0abcde0ac9e7d701c224c487e61bb73ec/header.jpg?t=1764818886" alt="Escape Game Room Collection Vol.1（新規追加）" /></a></p><p>A collection of four escape games with a calm and relaxing atmosphere. Enjoy classic escape gameplay with light exploration and puzzle-solving.</p><p><a href="https://store.steampowered.com/app/4199750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Full Course Mayhem（新規追加）</title>
-  <link>https://store.steampowered.com/app/4220360/</link>
-  <guid isPermaLink="false">steam-store-published-4220360</guid>
-  <pubDate>Thu, 04 Dec 2025 04:00:44 +0000</pubDate>
-  <description>Food! Explosions! Victory! &#x27;Full Course Mayhem&#x27; is a rhythm adventure game. Run a restaurant as the only human living in the Land of Monsters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220360/7fba17329cc295b146889878a57ba09a00f2af90/header.jpg?t=1764819183" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220360/7fba17329cc295b146889878a57ba09a00f2af90/header.jpg?t=1764819183" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220360/7fba17329cc295b146889878a57ba09a00f2af90/header.jpg?t=1764819183" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4220360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220360/7fba17329cc295b146889878a57ba09a00f2af90/header.jpg?t=1764819183" alt="Full Course Mayhem（新規追加）" /></a></p><p>Food! Explosions! Victory! &#x27;Full Course Mayhem&#x27; is a rhythm adventure game. Run a restaurant as the only human living in the Land of Monsters.</p><p><a href="https://store.steampowered.com/app/4220360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
