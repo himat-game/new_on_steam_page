@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Dec 2025 12:33:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 13:48:12 +0000</lastBuildDate>
+<item>
+  <title>Idle Car Clicker（新規追加）</title>
+  <link>https://store.steampowered.com/app/3838760/</link>
+  <guid isPermaLink="false">steam-store-published-3838760</guid>
+  <pubDate>Sat, 06 Dec 2025 13:48:12 +0000</pubDate>
+  <description>Idle Car Clicker is a desktop idle game that turns your screen’s corner into a tiny racetrack. Drop it anywhere on your screen, and let it grind cash endlessly as you focus on your tasks.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838760/6aa2f2d5a4d2784e817167409af5711e900cf9fc/header.jpg?t=1765027413" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838760/6aa2f2d5a4d2784e817167409af5711e900cf9fc/header.jpg?t=1765027413" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838760/6aa2f2d5a4d2784e817167409af5711e900cf9fc/header.jpg?t=1765027413" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3838760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838760/6aa2f2d5a4d2784e817167409af5711e900cf9fc/header.jpg?t=1765027413" alt="Idle Car Clicker（新規追加）" /></a></p><p>Idle Car Clicker is a desktop idle game that turns your screen’s corner into a tiny racetrack. Drop it anywhere on your screen, and let it grind cash endlessly as you focus on your tasks.</p><p><a href="https://store.steampowered.com/app/3838760/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Marblearium（新規追加）</title>
   <link>https://store.steampowered.com/app/3841910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220360/7fba17329cc295b146889878a57ba09a00f2af90/header.jpg?t=1764819183" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220360/7fba17329cc295b146889878a57ba09a00f2af90/header.jpg?t=1764819183" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4220360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220360/7fba17329cc295b146889878a57ba09a00f2af90/header.jpg?t=1764819183" alt="Full Course Mayhem（新規追加）" /></a></p><p>Food! Explosions! Victory! &#x27;Full Course Mayhem&#x27; is a rhythm adventure game. Run a restaurant as the only human living in the Land of Monsters.</p><p><a href="https://store.steampowered.com/app/4220360/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>C6: Frontlines（新規追加）</title>
-  <link>https://store.steampowered.com/app/4170660/</link>
-  <guid isPermaLink="false">steam-store-published-4170660</guid>
-  <pubDate>Thu, 04 Dec 2025 03:09:24 +0000</pubDate>
-  <description>C6: Frontlines is a bullet hell co-op roguelike where only YOU (and your friends) can bring the Azapall galaxy to peace. Wield 30+ weapons and gadgets of mass destruction to even the playing field, wave after wave, against a seemingly endless onslaught of evil!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170660/22658a11c0fdd45f99b4dcb2fb79c07a2eeb4c1b/header.jpg?t=1764817445" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170660/22658a11c0fdd45f99b4dcb2fb79c07a2eeb4c1b/header.jpg?t=1764817445" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170660/22658a11c0fdd45f99b4dcb2fb79c07a2eeb4c1b/header.jpg?t=1764817445" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4170660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170660/22658a11c0fdd45f99b4dcb2fb79c07a2eeb4c1b/header.jpg?t=1764817445" alt="C6: Frontlines（新規追加）" /></a></p><p>C6: Frontlines is a bullet hell co-op roguelike where only YOU (and your friends) can bring the Azapall galaxy to peace. Wield 30+ weapons and gadgets of mass destruction to even the playing field, wave after wave, against a seemingly endless onslaught of evil!</p><p><a href="https://store.steampowered.com/app/4170660/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
