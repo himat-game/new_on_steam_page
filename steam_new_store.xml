@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Dec 2025 02:47:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 03:41:11 +0000</lastBuildDate>
+<item>
+  <title>Periodic Table Game（新規追加）</title>
+  <link>https://store.steampowered.com/app/4187520/</link>
+  <guid isPermaLink="false">steam-store-published-4187520</guid>
+  <pubDate>Sat, 06 Dec 2025 03:41:11 +0000</pubDate>
+  <description>Master the Periodic Table using a minimalist, straight forward interface and gain easy access to a Periodic Table at your finger tips.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187520/471a7a537209b95ddfaea9f88d68b7610463d214/header.jpg?t=1764990747" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187520/471a7a537209b95ddfaea9f88d68b7610463d214/header.jpg?t=1764990747" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187520/471a7a537209b95ddfaea9f88d68b7610463d214/header.jpg?t=1764990747" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4187520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187520/471a7a537209b95ddfaea9f88d68b7610463d214/header.jpg?t=1764990747" alt="Periodic Table Game（新規追加）" /></a></p><p>Master the Periodic Table using a minimalist, straight forward interface and gain easy access to a Periodic Table at your finger tips.</p><p><a href="https://store.steampowered.com/app/4187520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Heroes Battle Awakening（新規追加）</title>
   <link>https://store.steampowered.com/app/4169570/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4168210/e80f634dea932b574a6e0ab957ba0a3d9efa3682/header.jpg?t=1764794474" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4168210/e80f634dea932b574a6e0ab957ba0a3d9efa3682/header.jpg?t=1764794474" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4168210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4168210/e80f634dea932b574a6e0ab957ba0a3d9efa3682/header.jpg?t=1764794474" alt="Author Sim（新規追加）" /></a></p><p>Have you ever dreamed of becoming a world-renowned author? Now&#x27;s your chance! Study masterpieces from other authors, craft breathtaking stories, and maintain a public profile in pursuit of your dream.</p><p><a href="https://store.steampowered.com/app/4168210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Putrid Snow 2: House of Yule（新規追加）</title>
-  <link>https://store.steampowered.com/app/4222290/</link>
-  <guid isPermaLink="false">steam-store-published-4222290</guid>
-  <pubDate>Wed, 03 Dec 2025 20:51:19 +0000</pubDate>
-  <description>Trapped alone in a mansion with relentless holiday monsters, you must scavenge for presents to find weapons and traps. Outsmart the AI, manage your inventory, and turn the holiday hunter into the hunted. Free to play!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222290/72aa66196963a6ffd9f4a95975129a9bcc4df89d/header.jpg?t=1764794966" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222290/72aa66196963a6ffd9f4a95975129a9bcc4df89d/header.jpg?t=1764794966" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222290/72aa66196963a6ffd9f4a95975129a9bcc4df89d/header.jpg?t=1764794966" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4222290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222290/72aa66196963a6ffd9f4a95975129a9bcc4df89d/header.jpg?t=1764794966" alt="Putrid Snow 2: House of Yule（新規追加）" /></a></p><p>Trapped alone in a mansion with relentless holiday monsters, you must scavenge for presents to find weapons and traps. Outsmart the AI, manage your inventory, and turn the holiday hunter into the hunted. Free to play!</p><p><a href="https://store.steampowered.com/app/4222290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
