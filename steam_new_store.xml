@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Dec 2025 10:48:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 11:45:06 +0000</lastBuildDate>
+<item>
+  <title>Void Nebula（新規追加）</title>
+  <link>https://store.steampowered.com/app/4212830/</link>
+  <guid isPermaLink="false">steam-store-published-4212830</guid>
+  <pubDate>Sat, 06 Dec 2025 11:45:06 +0000</pubDate>
+  <description>Dive into Void Nebula, a roguelike deckbuilder inspired by Balatro and Cobalt Core. Battle foes, upgrade your deck, and break the game with absurd synergies and hilariously stupid builds.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212830/d0eed552c249cb8d672d591544f9c6ec0509a812/header.jpg?t=1765019750" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212830/d0eed552c249cb8d672d591544f9c6ec0509a812/header.jpg?t=1765019750" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212830/d0eed552c249cb8d672d591544f9c6ec0509a812/header.jpg?t=1765019750" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4212830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212830/d0eed552c249cb8d672d591544f9c6ec0509a812/header.jpg?t=1765019750" alt="Void Nebula（新規追加）" /></a></p><p>Dive into Void Nebula, a roguelike deckbuilder inspired by Balatro and Cobalt Core. Battle foes, upgrade your deck, and break the game with absurd synergies and hilariously stupid builds.</p><p><a href="https://store.steampowered.com/app/4212830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>War Tactics（新規追加）</title>
   <link>https://store.steampowered.com/app/4199250/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483390/eb0360d3664f233d6a250a993388e5501a1eded6/header.jpg?t=1764813870" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483390/eb0360d3664f233d6a250a993388e5501a1eded6/header.jpg?t=1764813870" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2483390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483390/eb0360d3664f233d6a250a993388e5501a1eded6/header.jpg?t=1764813870" alt="AUDION（新規追加）" /></a></p><p>AUDION (early access) is an abstract, single-player arcade-style VR game focused on “spatial strategy” and fast-paced, physical gameplay ~ Get ready to smash Ions!</p><p><a href="https://store.steampowered.com/app/2483390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>合而不同JoinDifference（新規追加）</title>
-  <link>https://store.steampowered.com/app/4165440/</link>
-  <guid isPermaLink="false">steam-store-published-4165440</guid>
-  <pubDate>Thu, 04 Dec 2025 03:09:24 +0000</pubDate>
-  <description>JoinDifference is a rhythm-action casual game.Score points by interacting with objects of different border colors according to the playing method instructions.Objects with the same border color represent one type of playing method.Different types of playing method can be played at the same time.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165440/789ee48c4647eddc02487dcaf94aad9a8a1945d4/header.jpg?t=1764816211" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165440/789ee48c4647eddc02487dcaf94aad9a8a1945d4/header.jpg?t=1764816211" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165440/789ee48c4647eddc02487dcaf94aad9a8a1945d4/header.jpg?t=1764816211" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4165440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165440/789ee48c4647eddc02487dcaf94aad9a8a1945d4/header.jpg?t=1764816211" alt="合而不同JoinDifference（新規追加）" /></a></p><p>JoinDifference is a rhythm-action casual game.Score points by interacting with objects of different border colors according to the playing method instructions.Objects with the same border color represent one type of playing method.Different types of playing method can be played at the same time.</p><p><a href="https://store.steampowered.com/app/4165440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
