@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Dec 2025 07:44:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 08:21:48 +0000</lastBuildDate>
+<item>
+  <title>Seeker（新規追加）</title>
+  <link>https://store.steampowered.com/app/4224150/</link>
+  <guid isPermaLink="false">steam-store-published-4224150</guid>
+  <pubDate>Sat, 06 Dec 2025 08:21:48 +0000</pubDate>
+  <description>You are a treasure hunter. Venture into the Skull Castle, where an ancient artifact—the Golden Skull is hidden. Overcome devious traps, dangerous enemies, and your own inner demons in your quest for fame, for there are no safe havens within these walls...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224150/ecc3f363ea4648a1be5025675c6728dc88c02c21/header.jpg?t=1765008150" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224150/ecc3f363ea4648a1be5025675c6728dc88c02c21/header.jpg?t=1765008150" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224150/ecc3f363ea4648a1be5025675c6728dc88c02c21/header.jpg?t=1765008150" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224150/ecc3f363ea4648a1be5025675c6728dc88c02c21/header.jpg?t=1765008150" alt="Seeker（新規追加）" /></a></p><p>You are a treasure hunter. Venture into the Skull Castle, where an ancient artifact—the Golden Skull is hidden. Overcome devious traps, dangerous enemies, and your own inner demons in your quest for fame, for there are no safe havens within these walls...</p><p><a href="https://store.steampowered.com/app/4224150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>MuMu get to Work（新規追加）</title>
+  <link>https://store.steampowered.com/app/4152960/</link>
+  <guid isPermaLink="false">steam-store-published-4152960</guid>
+  <pubDate>Sat, 06 Dec 2025 08:21:48 +0000</pubDate>
+  <description>This is a simulation management and home-building game where you can raise all sorts of slimes. These slimes will cultivate farmland, bake bread, and produce various unique goods. Plan your shops to sell goods to customers and earn plenty of coins. As your wealth accumulates, build your own town.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152960/b625617ac80447fbf6546b716787ed6b854fedc1/header.jpg?t=1765008793" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152960/b625617ac80447fbf6546b716787ed6b854fedc1/header.jpg?t=1765008793" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152960/b625617ac80447fbf6546b716787ed6b854fedc1/header.jpg?t=1765008793" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4152960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152960/b625617ac80447fbf6546b716787ed6b854fedc1/header.jpg?t=1765008793" alt="MuMu get to Work（新規追加）" /></a></p><p>This is a simulation management and home-building game where you can raise all sorts of slimes. These slimes will cultivate farmland, bake bread, and produce various unique goods. Plan your shops to sell goods to customers and earn plenty of coins. As your wealth accumulates, build your own town.</p><p><a href="https://store.steampowered.com/app/4152960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>John The Retriever（新規追加）</title>
   <link>https://store.steampowered.com/app/4218080/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209110/c9885d4ac7ccc1df7291d3342701e270b855669d/header.jpg?t=1764805075" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209110/c9885d4ac7ccc1df7291d3342701e270b855669d/header.jpg?t=1764805075" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4209110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209110/c9885d4ac7ccc1df7291d3342701e270b855669d/header.jpg?t=1764805075" alt="東方恋物語 ~ Locked Together（新規追加）" /></a></p><p>The first of its kind on Steam. A retro-style Touhou Project fangame with a modern feeling. Beat some sense into the great library in love!</p><p><a href="https://store.steampowered.com/app/4209110/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Ninth Life（新規追加）</title>
-  <link>https://store.steampowered.com/app/4144530/</link>
-  <guid isPermaLink="false">steam-store-published-4144530</guid>
-  <pubDate>Wed, 03 Dec 2025 23:44:49 +0000</pubDate>
-  <description>A cute yet dark and mysterious fantasy roguelike where you battle Egyptian gods using magical dice, collect powerful relics, and shape your final destiny through a blend of luck and strategy.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144530/366f070b3e3b0f09a50ec7c701591db377ca51ed/header.jpg?t=1764802662" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144530/366f070b3e3b0f09a50ec7c701591db377ca51ed/header.jpg?t=1764802662" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144530/366f070b3e3b0f09a50ec7c701591db377ca51ed/header.jpg?t=1764802662" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4144530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144530/366f070b3e3b0f09a50ec7c701591db377ca51ed/header.jpg?t=1764802662" alt="The Ninth Life（新規追加）" /></a></p><p>A cute yet dark and mysterious fantasy roguelike where you battle Egyptian gods using magical dice, collect powerful relics, and shape your final destiny through a blend of luck and strategy.</p><p><a href="https://store.steampowered.com/app/4144530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Stream Survivors（新規追加）</title>
-  <link>https://store.steampowered.com/app/4194230/</link>
-  <guid isPermaLink="false">steam-store-published-4194230</guid>
-  <pubDate>Wed, 03 Dec 2025 23:44:49 +0000</pubDate>
-  <description>Build a growing camp in a fresh take on the incremental genre. Farm endlessly spawning resource nodes, unlock upgrades and new buildings, and climb multiple leaderboards designed for both idle and active players. Play solo or in multiplayer with full Twitch integration.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194230/49103f4a6775b13a2eee6be504f08f72c040ca39/header.jpg?t=1764804773" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194230/49103f4a6775b13a2eee6be504f08f72c040ca39/header.jpg?t=1764804773" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194230/49103f4a6775b13a2eee6be504f08f72c040ca39/header.jpg?t=1764804773" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4194230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194230/49103f4a6775b13a2eee6be504f08f72c040ca39/header.jpg?t=1764804773" alt="Stream Survivors（新規追加）" /></a></p><p>Build a growing camp in a fresh take on the incremental genre. Farm endlessly spawning resource nodes, unlock upgrades and new buildings, and climb multiple leaderboards designed for both idle and active players. Play solo or in multiplayer with full Twitch integration.</p><p><a href="https://store.steampowered.com/app/4194230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
