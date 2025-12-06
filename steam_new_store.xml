@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 06 Dec 2025 18:22:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 06 Dec 2025 19:44:52 +0000</lastBuildDate>
+<item>
+  <title>Unhinged（新規追加）</title>
+  <link>https://store.steampowered.com/app/2178350/</link>
+  <guid isPermaLink="false">steam-store-published-2178350</guid>
+  <pubDate>Sat, 06 Dec 2025 19:44:52 +0000</pubDate>
+  <description>Unhinged, a petty act of injustice spirals into obsession. Dynamic environments and psychological horror blur reality, testing your perception—and your sanity. You will find mazes, platforms to jump on, and interactions with your neighbor to find the one responsible.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178350/19e48a937c7e408f41e1353d382c455a52a38c99/header.jpg?t=1765049364" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178350/19e48a937c7e408f41e1353d382c455a52a38c99/header.jpg?t=1765049364" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178350/19e48a937c7e408f41e1353d382c455a52a38c99/header.jpg?t=1765049364" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2178350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178350/19e48a937c7e408f41e1353d382c455a52a38c99/header.jpg?t=1765049364" alt="Unhinged（新規追加）" /></a></p><p>Unhinged, a petty act of injustice spirals into obsession. Dynamic environments and psychological horror blur reality, testing your perception—and your sanity. You will find mazes, platforms to jump on, and interactions with your neighbor to find the one responsible.</p><p><a href="https://store.steampowered.com/app/2178350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Front Page（新規追加）</title>
   <link>https://store.steampowered.com/app/4075840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093400/a83e73d9f302e9b4b5c181a7e7c4818344851fe3/header.jpg?t=1764824516" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093400/a83e73d9f302e9b4b5c181a7e7c4818344851fe3/header.jpg?t=1764824516" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4093400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093400/a83e73d9f302e9b4b5c181a7e7c4818344851fe3/header.jpg?t=1764824516" alt="Sisterly Bliss ~Don&#x27;t Let Mom Find Out~（新規追加）" /></a></p><p>A light admonishment from Mom sparks the realization that these twin sisters care for each other in more than a familial sense. In this dramatic &amp;amp; romantic yuri Visual Novel, it&#x27;s up to you to navigate the forbidden tension between the sisters so their love can flourish without growing one-sided.</p><p><a href="https://store.steampowered.com/app/4093400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Vortex Protocol（新規追加）</title>
-  <link>https://store.steampowered.com/app/3536970/</link>
-  <guid isPermaLink="false">steam-store-published-3536970</guid>
-  <pubDate>Thu, 04 Dec 2025 05:17:56 +0000</pubDate>
-  <description>A multiplayer co-op adventure where you travel through magical dimensions to solve puzzles, fight guardians, and bring back home powerful energy for profit.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536970/13a4075426e19740341eb6cfe9b90cc52e9165bc/header.jpg?t=1764824468" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536970/13a4075426e19740341eb6cfe9b90cc52e9165bc/header.jpg?t=1764824468" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536970/13a4075426e19740341eb6cfe9b90cc52e9165bc/header.jpg?t=1764824468" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3536970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536970/13a4075426e19740341eb6cfe9b90cc52e9165bc/header.jpg?t=1764824468" alt="Vortex Protocol（新規追加）" /></a></p><p>A multiplayer co-op adventure where you travel through magical dimensions to solve puzzles, fight guardians, and bring back home powerful energy for profit.</p><p><a href="https://store.steampowered.com/app/3536970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
