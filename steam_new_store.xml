@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 07 Dec 2025 06:52:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 08:21:36 +0000</lastBuildDate>
+<item>
+  <title>The Lost Library（新規追加）</title>
+  <link>https://store.steampowered.com/app/4171200/</link>
+  <guid isPermaLink="false">steam-store-published-4171200</guid>
+  <pubDate>Sun, 07 Dec 2025 08:21:36 +0000</pubDate>
+  <description>The Lost Library, forgotten by everyone. Only by reading the stories within can this world be restored. Adventure through 14 volumes to restore the library. The stories range from mystery, romantic fantasy, Napolitan ghost stories, cooking, sailing, and even running a herb shop.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171200/bda816749224257d70e670484cf82d3037f26bda/header.jpg?t=1765093888" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171200/bda816749224257d70e670484cf82d3037f26bda/header.jpg?t=1765093888" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171200/bda816749224257d70e670484cf82d3037f26bda/header.jpg?t=1765093888" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4171200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171200/bda816749224257d70e670484cf82d3037f26bda/header.jpg?t=1765093888" alt="The Lost Library（新規追加）" /></a></p><p>The Lost Library, forgotten by everyone. Only by reading the stories within can this world be restored. Adventure through 14 volumes to restore the library. The stories range from mystery, romantic fantasy, Napolitan ghost stories, cooking, sailing, and even running a herb shop.</p><p><a href="https://store.steampowered.com/app/4171200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>VIOLA_（新規追加）</title>
   <link>https://store.steampowered.com/app/4133050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217080/7a7c8565c0b649380434cc8733c04ccf8b5cfb7f/header.jpg?t=1764849708" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217080/7a7c8565c0b649380434cc8733c04ccf8b5cfb7f/header.jpg?t=1764849708" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4217080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217080/7a7c8565c0b649380434cc8733c04ccf8b5cfb7f/header.jpg?t=1764849708" alt="EvilTrap: Prologue（新規追加）" /></a></p><p>Enter a sinister village that wants to keep you trapped forever. Eviltrap: Prologue is a standalone psychological horror experience where the environment shifts with every step. Open the door to an evil you thought had ended, but is just the beginning.</p><p><a href="https://store.steampowered.com/app/4217080/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Where We Went（新規追加）</title>
-  <link>https://store.steampowered.com/app/4179960/</link>
-  <guid isPermaLink="false">steam-store-published-4179960</guid>
-  <pubDate>Thu, 04 Dec 2025 11:46:16 +0000</pubDate>
-  <description>Where We Went is a narrative driven puzzle game. Step into the role of a mysterious character that can control ancient guardians to solve puzzles. Uncover the story behind your visit to the tomb and the reason for it&#x27;s existence!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179960/dc00301e5932e60bd9aa4411abcd9b0411b6d32e/header.jpg?t=1764847032" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179960/dc00301e5932e60bd9aa4411abcd9b0411b6d32e/header.jpg?t=1764847032" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179960/dc00301e5932e60bd9aa4411abcd9b0411b6d32e/header.jpg?t=1764847032" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4179960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179960/dc00301e5932e60bd9aa4411abcd9b0411b6d32e/header.jpg?t=1764847032" alt="Where We Went（新規追加）" /></a></p><p>Where We Went is a narrative driven puzzle game. Step into the role of a mysterious character that can control ancient guardians to solve puzzles. Uncover the story behind your visit to the tomb and the reason for it&#x27;s existence!</p><p><a href="https://store.steampowered.com/app/4179960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
