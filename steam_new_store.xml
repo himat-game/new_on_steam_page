@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Dec 2025 14:19:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 15:19:52 +0000</lastBuildDate>
+<item>
+  <title>PostBear Tales（新規追加）</title>
+  <link>https://store.steampowered.com/app/4127630/</link>
+  <guid isPermaLink="false">steam-store-published-4127630</guid>
+  <pubDate>Mon, 08 Dec 2025 15:19:52 +0000</pubDate>
+  <description>You are a bear, a PostBear, the best one! And you have an important mission, deliver a King&#x27;s letter to the neighbor kingdom!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127630/967a50e85926ba2fc025d2c7e2d6e7aa679b92fc/header.jpg?t=1765205369" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127630/967a50e85926ba2fc025d2c7e2d6e7aa679b92fc/header.jpg?t=1765205369" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127630/967a50e85926ba2fc025d2c7e2d6e7aa679b92fc/header.jpg?t=1765205369" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4127630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127630/967a50e85926ba2fc025d2c7e2d6e7aa679b92fc/header.jpg?t=1765205369" alt="PostBear Tales（新規追加）" /></a></p><p>You are a bear, a PostBear, the best one! And you have an important mission, deliver a King&#x27;s letter to the neighbor kingdom!</p><p><a href="https://store.steampowered.com/app/4127630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>KLITTER（新規追加）</title>
   <link>https://store.steampowered.com/app/4145970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg?t=1764878974" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg?t=1764878974" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3856530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg?t=1764878974" alt="About Fishing（新規追加）" /></a></p><p>Cast your line into calm waters and feel the quiet pull beneath the surface. Each cast brings rewards, but some things you reel in were never meant to be found.</p><p><a href="https://store.steampowered.com/app/3856530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Substructure（新規追加）</title>
-  <link>https://store.steampowered.com/app/3012600/</link>
-  <guid isPermaLink="false">steam-store-published-3012600</guid>
-  <pubDate>Thu, 04 Dec 2025 20:20:51 +0000</pubDate>
-  <description>Harness the power of automation in this factory game set on a rogue planet in the far reaches of the solar system. Dig down and explore the depths of an alien world, exploit its resources across complex production chains, and travel towards the core to uncover its deepest secrets.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012600/f7176f775c2a60ad625b62e3f367f8a417d10259/header.jpg?t=1764878771" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012600/f7176f775c2a60ad625b62e3f367f8a417d10259/header.jpg?t=1764878771" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012600/f7176f775c2a60ad625b62e3f367f8a417d10259/header.jpg?t=1764878771" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3012600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012600/f7176f775c2a60ad625b62e3f367f8a417d10259/header.jpg?t=1764878771" alt="Substructure（新規追加）" /></a></p><p>Harness the power of automation in this factory game set on a rogue planet in the far reaches of the solar system. Dig down and explore the depths of an alien world, exploit its resources across complex production chains, and travel towards the core to uncover its deepest secrets.</p><p><a href="https://store.steampowered.com/app/3012600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
