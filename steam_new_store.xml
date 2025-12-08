@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Dec 2025 03:11:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 04:04:46 +0000</lastBuildDate>
+<item>
+  <title>Out To Deliver（新規追加）</title>
+  <link>https://store.steampowered.com/app/4122640/</link>
+  <guid isPermaLink="false">steam-store-published-4122640</guid>
+  <pubDate>Mon, 08 Dec 2025 04:04:46 +0000</pubDate>
+  <description>A fast-paced survival action game where you race through dangerous streets, dodge enemies, upgrade your bike, and see how long you can stay alive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" alt="Out To Deliver（新規追加）" /></a></p><p>A fast-paced survival action game where you race through dangerous streets, dodge enemies, upgrade your bike, and see how long you can stay alive.</p><p><a href="https://store.steampowered.com/app/4122640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DEEP SLEEP（新規追加）</title>
   <link>https://store.steampowered.com/app/4155700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126930/a4e64194e2c415a82dc999fb3ef480ab110cf957/header.jpg?t=1764869747" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126930/a4e64194e2c415a82dc999fb3ef480ab110cf957/header.jpg?t=1764869747" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4126930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126930/a4e64194e2c415a82dc999fb3ef480ab110cf957/header.jpg?t=1764869747" alt="Berrus（新規追加）" /></a></p><p>A free-to-play online tactical RPG set in post-apocalyptic Spain. Fight turn-based battles, explore procedural dungeons with dynamic loot, craft gear, and grind idle jobs. Inspired by RuneScape and Path of Exile.</p><p><a href="https://store.steampowered.com/app/4126930/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pawn Shop Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/3954140/</link>
-  <guid isPermaLink="false">steam-store-published-3954140</guid>
-  <pubDate>Thu, 04 Dec 2025 17:24:47 +0000</pubDate>
-  <description>Open and manage your pawn shop in Las Vegas! Buy and sell increasingly prestigious items as your business grows, negotiate with your customers, hire seasoned experts to advise you, expand your store, and attract a wealthy clientele to unearth unique items.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954140/c75c9ade944e4b00b2161e9108d08d617f579462/header.jpg?t=1764867631" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954140/c75c9ade944e4b00b2161e9108d08d617f579462/header.jpg?t=1764867631" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954140/c75c9ade944e4b00b2161e9108d08d617f579462/header.jpg?t=1764867631" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3954140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3954140/c75c9ade944e4b00b2161e9108d08d617f579462/header.jpg?t=1764867631" alt="Pawn Shop Simulator（新規追加）" /></a></p><p>Open and manage your pawn shop in Las Vegas! Buy and sell increasingly prestigious items as your business grows, negotiate with your customers, hire seasoned experts to advise you, expand your store, and attract a wealthy clientele to unearth unique items.</p><p><a href="https://store.steampowered.com/app/3954140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
