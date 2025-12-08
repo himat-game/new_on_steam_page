@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Dec 2025 15:19:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 15:40:34 +0000</lastBuildDate>
+<item>
+  <title>Project: AFTERSHOCK（新規追加）</title>
+  <link>https://store.steampowered.com/app/4230350/</link>
+  <guid isPermaLink="false">steam-store-published-4230350</guid>
+  <pubDate>Mon, 08 Dec 2025 15:40:34 +0000</pubDate>
+  <description>Project: AFTERSHOCK is a fast-paced arcade hacking roguelite set in a dystopian future. Command a 20-year-old legacy terminal to breach enemy systems, siphon funds, and upgrade your hardware. Use your reflexes to survive the countdown and bring down the very system you created.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/e017274a859c2a48b036b1fb20a098644a5de59c/header.jpg?t=1765207926" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/e017274a859c2a48b036b1fb20a098644a5de59c/header.jpg?t=1765207926" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/e017274a859c2a48b036b1fb20a098644a5de59c/header.jpg?t=1765207926" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4230350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/e017274a859c2a48b036b1fb20a098644a5de59c/header.jpg?t=1765207926" alt="Project: AFTERSHOCK（新規追加）" /></a></p><p>Project: AFTERSHOCK is a fast-paced arcade hacking roguelite set in a dystopian future. Command a 20-year-old legacy terminal to breach enemy systems, siphon funds, and upgrade your hardware. Use your reflexes to survive the countdown and bring down the very system you created.</p><p><a href="https://store.steampowered.com/app/4230350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PostBear Tales（新規追加）</title>
   <link>https://store.steampowered.com/app/4127630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/832b37ddf2af75f21a7a070dbff78b64e3657d92/header.jpg?t=1764880742" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/832b37ddf2af75f21a7a070dbff78b64e3657d92/header.jpg?t=1764880742" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2321780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321780/832b37ddf2af75f21a7a070dbff78b64e3657d92/header.jpg?t=1764880742" alt="Starship Troopers: Ultimate Bug War!（新規追加）" /></a></p><p>Lock and load into the Starship Troopers universe and join the Mobile Infantry in the most realistic depiction of war ever made ! Experience an original story in this action-packed, first-person retro shooter. Would you like to know more?</p><p><a href="https://store.steampowered.com/app/2321780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>About Fishing（新規追加）</title>
-  <link>https://store.steampowered.com/app/3856530/</link>
-  <guid isPermaLink="false">steam-store-published-3856530</guid>
-  <pubDate>Thu, 04 Dec 2025 20:20:51 +0000</pubDate>
-  <description>Cast your line into calm waters and feel the quiet pull beneath the surface. Each cast brings rewards, but some things you reel in were never meant to be found.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg?t=1764878974" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg?t=1764878974" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg?t=1764878974" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3856530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856530/1ebfb6c3b1c01d7d264a1910db292df31437e451/header.jpg?t=1764878974" alt="About Fishing（新規追加）" /></a></p><p>Cast your line into calm waters and feel the quiet pull beneath the surface. Each cast brings rewards, but some things you reel in were never meant to be found.</p><p><a href="https://store.steampowered.com/app/3856530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
