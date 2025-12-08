@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Dec 2025 11:47:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 12:37:50 +0000</lastBuildDate>
+<item>
+  <title>Cassandra&#x27;s Show（新規追加）</title>
+  <link>https://store.steampowered.com/app/4126990/</link>
+  <guid isPermaLink="false">steam-store-published-4126990</guid>
+  <pubDate>Mon, 08 Dec 2025 12:37:50 +0000</pubDate>
+  <description>She never wanted the spotlight. Now she’s trapped in a twisted children’s show — on a stage run by a mad director. You have 30 days to save her.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126990/f8e23c2f29eb94b3a1f2ba22235f3923b3185f5a/header.jpg?t=1765196025" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126990/f8e23c2f29eb94b3a1f2ba22235f3923b3185f5a/header.jpg?t=1765196025" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126990/f8e23c2f29eb94b3a1f2ba22235f3923b3185f5a/header.jpg?t=1765196025" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4126990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126990/f8e23c2f29eb94b3a1f2ba22235f3923b3185f5a/header.jpg?t=1765196025" alt="Cassandra&#x27;s Show（新規追加）" /></a></p><p>She never wanted the spotlight. Now she’s trapped in a twisted children’s show — on a stage run by a mad director. You have 30 days to save her.</p><p><a href="https://store.steampowered.com/app/4126990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>回避男（新規追加）</title>
   <link>https://store.steampowered.com/app/4226760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219360/932da5802a77f4e06b1f4787419e1e0f82ff1753/header.jpg?t=1764878797" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219360/932da5802a77f4e06b1f4787419e1e0f82ff1753/header.jpg?t=1764878797" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3219360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219360/932da5802a77f4e06b1f4787419e1e0f82ff1753/header.jpg?t=1764878797" alt="SOL Shogunate（新規追加）" /></a></p><p>Paint the stars with the blood of your enemies in this Space-Samurai Action RPG set in an alt-future solar system ruled by the sword. A pulse-pounding soundtrack drives your gravity-defying, blood-soaked path of revenge as Yuzuki the “Shattered Heir” to a massacred clan who becomes an outlaw ronin.</p><p><a href="https://store.steampowered.com/app/3219360/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Anarchy School（新規追加）</title>
-  <link>https://store.steampowered.com/app/4221100/</link>
-  <guid isPermaLink="false">steam-store-published-4221100</guid>
-  <pubDate>Thu, 04 Dec 2025 19:46:02 +0000</pubDate>
-  <description>Anarchy School is a story-rich first-person action adventure set in a fictional upper school in Finland, of all places. Unravel the secrets of the school, and rise up against the malicious principal Nazier.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221100/dec072a7c17a921ea2eb6637357e87fcf0458c22/header.jpg?t=1764877216" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221100/dec072a7c17a921ea2eb6637357e87fcf0458c22/header.jpg?t=1764877216" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221100/dec072a7c17a921ea2eb6637357e87fcf0458c22/header.jpg?t=1764877216" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221100/dec072a7c17a921ea2eb6637357e87fcf0458c22/header.jpg?t=1764877216" alt="Anarchy School（新規追加）" /></a></p><p>Anarchy School is a story-rich first-person action adventure set in a fictional upper school in Finland, of all places. Unravel the secrets of the school, and rise up against the malicious principal Nazier.</p><p><a href="https://store.steampowered.com/app/4221100/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
