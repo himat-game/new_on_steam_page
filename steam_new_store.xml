@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 08 Dec 2025 22:17:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Dec 2025 22:50:26 +0000</lastBuildDate>
+<item>
+  <title>Joint Force（新規追加）</title>
+  <link>https://store.steampowered.com/app/4230960/</link>
+  <guid isPermaLink="false">steam-store-published-4230960</guid>
+  <pubDate>Mon, 08 Dec 2025 22:50:26 +0000</pubDate>
+  <description>Solve challenging puzzles to reunite Belcho and Nim.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230960/f436436436786620dbed6b0ff7f7196c929ae59b/header.jpg?t=1765234037" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230960/f436436436786620dbed6b0ff7f7196c929ae59b/header.jpg?t=1765234037" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230960/f436436436786620dbed6b0ff7f7196c929ae59b/header.jpg?t=1765234037" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4230960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230960/f436436436786620dbed6b0ff7f7196c929ae59b/header.jpg?t=1765234037" alt="Joint Force（新規追加）" /></a></p><p>Solve challenging puzzles to reunite Belcho and Nim.</p><p><a href="https://store.steampowered.com/app/4230960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bookmark Hero（新規追加）</title>
   <link>https://store.steampowered.com/app/3842110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226410/05867b501b947486af41d1a53e6dea449e414823/header.jpg?t=1764895675" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226410/05867b501b947486af41d1a53e6dea449e414823/header.jpg?t=1764895675" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4226410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226410/05867b501b947486af41d1a53e6dea449e414823/header.jpg?t=1764895675" alt="Velthurin（新規追加）" /></a></p><p>Journey across seven diverse realms—each a fully realized, lore-rich territory ruled by one of the great races. Discover ancient secrets, fractured alliances, and forbidden magics. What Decisions Will You Make?</p><p><a href="https://store.steampowered.com/app/4226410/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chicken TD: Defenders of the Coop（新規追加）</title>
-  <link>https://store.steampowered.com/app/3266880/</link>
-  <guid isPermaLink="false">steam-store-published-3266880</guid>
-  <pubDate>Fri, 05 Dec 2025 01:21:23 +0000</pubDate>
-  <description>Chicken TD is a unique tower defense game where you strategically summon and upgrade creature towers to defend your coop from waves of enemies, while also engaging in Souls-like melee combat with a chosen weapon to directly hold the line and collect meta-progression currency.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3266880/21237e9cb86caa7b0df40a722a0c50beb801ff85/header.jpg?t=1764894750" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3266880/21237e9cb86caa7b0df40a722a0c50beb801ff85/header.jpg?t=1764894750" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3266880/21237e9cb86caa7b0df40a722a0c50beb801ff85/header.jpg?t=1764894750" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3266880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3266880/21237e9cb86caa7b0df40a722a0c50beb801ff85/header.jpg?t=1764894750" alt="Chicken TD: Defenders of the Coop（新規追加）" /></a></p><p>Chicken TD is a unique tower defense game where you strategically summon and upgrade creature towers to defend your coop from waves of enemies, while also engaging in Souls-like melee combat with a chosen weapon to directly hold the line and collect meta-progression currency.</p><p><a href="https://store.steampowered.com/app/3266880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
