@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 09 Dec 2025 16:24:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 16:56:39 +0000</lastBuildDate>
+<item>
+  <title>CODEX MORTIS（新規追加）</title>
+  <link>https://store.steampowered.com/app/4084120/</link>
+  <guid isPermaLink="false">steam-store-published-4084120</guid>
+  <pubDate>Tue, 09 Dec 2025 16:56:39 +0000</pubDate>
+  <description>Death is your weapon. Mix five schools of dark magic, unleash devastating spell synergies, and raise undead armies in this necromantic bullet hell. Infinite builds, solo or co-op – embrace the forbidden and dominate. 100% AI-driven development.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084120/50cf7a6315399de6325699ef70d9d99b430a2bd9/header.jpg?t=1765298689" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084120/50cf7a6315399de6325699ef70d9d99b430a2bd9/header.jpg?t=1765298689" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084120/50cf7a6315399de6325699ef70d9d99b430a2bd9/header.jpg?t=1765298689" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4084120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084120/50cf7a6315399de6325699ef70d9d99b430a2bd9/header.jpg?t=1765298689" alt="CODEX MORTIS（新規追加）" /></a></p><p>Death is your weapon. Mix five schools of dark magic, unleash devastating spell synergies, and raise undead armies in this necromantic bullet hell. Infinite builds, solo or co-op – embrace the forbidden and dominate. 100% AI-driven development.</p><p><a href="https://store.steampowered.com/app/4084120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Car Parkour Together（新規追加）</title>
+  <link>https://store.steampowered.com/app/4233440/</link>
+  <guid isPermaLink="false">steam-store-published-4233440</guid>
+  <pubDate>Tue, 09 Dec 2025 16:56:39 +0000</pubDate>
+  <description>A skill-based car parkour game where speed, reflexes, and chaos collide! Play solo or with a friend, use your special abilities to overcome challenging obstacles, provoke your partner, or team up for victory.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233440/f0e2d00c1695159472772f7b3ca1ed9b9ec4a003/header.jpg?t=1765298586" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233440/f0e2d00c1695159472772f7b3ca1ed9b9ec4a003/header.jpg?t=1765298586" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233440/f0e2d00c1695159472772f7b3ca1ed9b9ec4a003/header.jpg?t=1765298586" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4233440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233440/f0e2d00c1695159472772f7b3ca1ed9b9ec4a003/header.jpg?t=1765298586" alt="Car Parkour Together（新規追加）" /></a></p><p>A skill-based car parkour game where speed, reflexes, and chaos collide! Play solo or with a friend, use your special abilities to overcome challenging obstacles, provoke your partner, or team up for victory.</p><p><a href="https://store.steampowered.com/app/4233440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>土界鎮 Twjie Town（新規追加）</title>
   <link>https://store.steampowered.com/app/4209230/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205020/2ec748906465bc67134edfc1a24dd62c7f5dac0c/header.jpg?t=1764951834" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205020/2ec748906465bc67134edfc1a24dd62c7f5dac0c/header.jpg?t=1764951834" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4205020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205020/2ec748906465bc67134edfc1a24dd62c7f5dac0c/header.jpg?t=1764951834" alt="Aurora Zen（新規追加）" /></a></p><p>Paint the sky with vibrant aurora. Relax and find your zen by filling the sky with brilliant ribbons of beautiful colour and shapes.</p><p><a href="https://store.steampowered.com/app/4205020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Jixo 4: Magical Nights Collector’s Edition（新規追加）</title>
-  <link>https://store.steampowered.com/app/4198010/</link>
-  <guid isPermaLink="false">steam-store-published-4198010</guid>
-  <pubDate>Fri, 05 Dec 2025 16:22:35 +0000</pubDate>
-  <description>A cosy, glowing celebration of festive nights filled with colourful picture puzzles, gentle logic challenges, hidden-object fun, and delightful bonus surprises.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198010/7b1f6fd7ece4a49b2d9720c8a9cd4a535b765fdb/header.jpg?t=1764950027" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198010/7b1f6fd7ece4a49b2d9720c8a9cd4a535b765fdb/header.jpg?t=1764950027" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198010/7b1f6fd7ece4a49b2d9720c8a9cd4a535b765fdb/header.jpg?t=1764950027" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4198010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198010/7b1f6fd7ece4a49b2d9720c8a9cd4a535b765fdb/header.jpg?t=1764950027" alt="Jixo 4: Magical Nights Collector’s Edition（新規追加）" /></a></p><p>A cosy, glowing celebration of festive nights filled with colourful picture puzzles, gentle logic challenges, hidden-object fun, and delightful bonus surprises.</p><p><a href="https://store.steampowered.com/app/4198010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Super Sticker Studio - Creative Fun for Everyone（新規追加）</title>
-  <link>https://store.steampowered.com/app/4212900/</link>
-  <guid isPermaLink="false">steam-store-published-4212900</guid>
-  <pubDate>Fri, 05 Dec 2025 16:22:35 +0000</pubDate>
-  <description>Create cozy sticker art, personalized greeting cards &amp;amp; comics! Drag &amp;amp; drop cute stickers from Christmas, Farm, Dinosaurs, Space, Knights, Halloween, Ocean, Construction &amp;amp; more. Relaxing creative fun for kids and adults – design, share, enjoy!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212900/fa554a2868ffebd3ea7062dfa3e0a492f1a2925d/header.jpg?t=1764950760" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212900/fa554a2868ffebd3ea7062dfa3e0a492f1a2925d/header.jpg?t=1764950760" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212900/fa554a2868ffebd3ea7062dfa3e0a492f1a2925d/header.jpg?t=1764950760" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4212900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212900/fa554a2868ffebd3ea7062dfa3e0a492f1a2925d/header.jpg?t=1764950760" alt="Super Sticker Studio - Creative Fun for Everyone（新規追加）" /></a></p><p>Create cozy sticker art, personalized greeting cards &amp;amp; comics! Drag &amp;amp; drop cute stickers from Christmas, Farm, Dinosaurs, Space, Knights, Halloween, Ocean, Construction &amp;amp; more. Relaxing creative fun for kids and adults – design, share, enjoy!</p><p><a href="https://store.steampowered.com/app/4212900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
