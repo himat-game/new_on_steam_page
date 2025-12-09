@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 09 Dec 2025 05:18:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 05:52:19 +0000</lastBuildDate>
+<item>
+  <title>REBADGE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4080840/</link>
+  <guid isPermaLink="false">steam-store-published-4080840</guid>
+  <pubDate>Tue, 09 Dec 2025 05:52:19 +0000</pubDate>
+  <description>REBADGE is a puzzle platformer where game rules exist as pin badges. Throw a badge to lose that rule, attach it to transfer the rule. Use rules that shift in realtime to explore this mystery badge world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080840/dea290df40e506ab5fe8144795d45169c0f00708/header.jpg?t=1765259466" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080840/dea290df40e506ab5fe8144795d45169c0f00708/header.jpg?t=1765259466" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080840/dea290df40e506ab5fe8144795d45169c0f00708/header.jpg?t=1765259466" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4080840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080840/dea290df40e506ab5fe8144795d45169c0f00708/header.jpg?t=1765259466" alt="REBADGE（新規追加）" /></a></p><p>REBADGE is a puzzle platformer where game rules exist as pin badges. Throw a badge to lose that rule, attach it to transfer the rule. Use rules that shift in realtime to explore this mystery badge world.</p><p><a href="https://store.steampowered.com/app/4080840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Box or Void（新規追加）</title>
   <link>https://store.steampowered.com/app/3878040/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119090/8d419af8044607275c1185ea5020caa892bbdb51/header.jpg?t=1764924601" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119090/8d419af8044607275c1185ea5020caa892bbdb51/header.jpg?t=1764924601" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4119090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119090/8d419af8044607275c1185ea5020caa892bbdb51/header.jpg?t=1764924601" alt="The Daughter（新規追加）" /></a></p><p>The Daughter is a first-person narrative horror game where the line between reality, dream, and memory slowly fades. You search for your missing daughter in a forest, only to find a house and a silent child who offers to help you… on one condition.</p><p><a href="https://store.steampowered.com/app/4119090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Long Live the Catgirls！（新規追加）</title>
-  <link>https://store.steampowered.com/app/3929580/</link>
-  <guid isPermaLink="false">steam-store-published-3929580</guid>
-  <pubDate>Fri, 05 Dec 2025 08:54:43 +0000</pubDate>
-  <description>This is a story about a human who accidentally stumbles into the Cat Tower, encounters and reunites with the cats. A vibrant Maine Coon in a dilapidated amusement park, a ragdoll living in a candy house built atop paradise, and the supreme god who controls the Cat Tower.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929580/2eb9bd5a13e89f748d4d15d71eafd30faf87b19d/header.jpg?t=1764923820" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929580/2eb9bd5a13e89f748d4d15d71eafd30faf87b19d/header.jpg?t=1764923820" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929580/2eb9bd5a13e89f748d4d15d71eafd30faf87b19d/header.jpg?t=1764923820" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3929580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929580/2eb9bd5a13e89f748d4d15d71eafd30faf87b19d/header.jpg?t=1764923820" alt="Long Live the Catgirls！（新規追加）" /></a></p><p>This is a story about a human who accidentally stumbles into the Cat Tower, encounters and reunites with the cats. A vibrant Maine Coon in a dilapidated amusement park, a ragdoll living in a candy house built atop paradise, and the supreme god who controls the Cat Tower.</p><p><a href="https://store.steampowered.com/app/3929580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
