@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 09 Dec 2025 08:56:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 09:26:11 +0000</lastBuildDate>
+<item>
+  <title>Enough（新規追加）</title>
+  <link>https://store.steampowered.com/app/3834850/</link>
+  <guid isPermaLink="false">steam-store-published-3834850</guid>
+  <pubDate>Tue, 09 Dec 2025 09:26:11 +0000</pubDate>
+  <description>Enough is a Sokoban-style puzzle game where you play as Bell, a demon who can’t bring themself to work in Hell any longer. Traverse forests, deserts, mountains, and seas on your journey to see whether Heaven will give you another chance.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834850/a1814ab4b58448d436d21084f3ea1d70b3ad4f25/header.jpg?t=1765270687" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834850/a1814ab4b58448d436d21084f3ea1d70b3ad4f25/header.jpg?t=1765270687" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834850/a1814ab4b58448d436d21084f3ea1d70b3ad4f25/header.jpg?t=1765270687" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3834850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834850/a1814ab4b58448d436d21084f3ea1d70b3ad4f25/header.jpg?t=1765270687" alt="Enough（新規追加）" /></a></p><p>Enough is a Sokoban-style puzzle game where you play as Bell, a demon who can’t bring themself to work in Hell any longer. Traverse forests, deserts, mountains, and seas on your journey to see whether Heaven will give you another chance.</p><p><a href="https://store.steampowered.com/app/3834850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>FamCram（新規追加）</title>
+  <link>https://store.steampowered.com/app/4109040/</link>
+  <guid isPermaLink="false">steam-store-published-4109040</guid>
+  <pubDate>Tue, 09 Dec 2025 09:26:11 +0000</pubDate>
+  <description>FamCram is a 3D grid-based puzzle game about two dads putting their kids to bed. Guide the children through increasingly challenging and multicultural settings, each with unique items, mechanics, and humor.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109040/f5fa8f4d17748a19c196f866a2ab41c4e8075d3e/header.jpg?t=1765270783" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109040/f5fa8f4d17748a19c196f866a2ab41c4e8075d3e/header.jpg?t=1765270783" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109040/f5fa8f4d17748a19c196f866a2ab41c4e8075d3e/header.jpg?t=1765270783" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4109040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109040/f5fa8f4d17748a19c196f866a2ab41c4e8075d3e/header.jpg?t=1765270783" alt="FamCram（新規追加）" /></a></p><p>FamCram is a 3D grid-based puzzle game about two dads putting their kids to bed. Guide the children through increasingly challenging and multicultural settings, each with unique items, mechanics, and humor.</p><p><a href="https://store.steampowered.com/app/4109040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Corridor Duel（新規追加）</title>
   <link>https://store.steampowered.com/app/4218730/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228130/147bb92a97e5e0b79e5d0526d4bd56981fcfe101/header.jpg?t=1764934001" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228130/147bb92a97e5e0b79e5d0526d4bd56981fcfe101/header.jpg?t=1764934001" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4228130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228130/147bb92a97e5e0b79e5d0526d4bd56981fcfe101/header.jpg?t=1764934001" alt="Bird Game 3 Online（新規追加）" /></a></p><p>You are a bird. Fly around, steal eggs, protect your nest, and fight other birds. Play in PvP or team up in Co-Op modes.</p><p><a href="https://store.steampowered.com/app/4228130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hunted Within: The Metro（新規追加）</title>
-  <link>https://store.steampowered.com/app/4220430/</link>
-  <guid isPermaLink="false">steam-store-published-4220430</guid>
-  <pubDate>Fri, 05 Dec 2025 11:45:46 +0000</pubDate>
-  <description>Dive into a story-driven horror FPS set in an abandoned metro system: escape underground prison, pilot a survival train through dark tunnels, and venture onto a deadly, frozen surface while hunting for your last friend and confronting the mastermind from your past.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220430/a341aaa0740fe8f62e322d5a1429e73d5764b436/header.jpg?t=1764931477" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220430/a341aaa0740fe8f62e322d5a1429e73d5764b436/header.jpg?t=1764931477" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220430/a341aaa0740fe8f62e322d5a1429e73d5764b436/header.jpg?t=1764931477" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4220430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220430/a341aaa0740fe8f62e322d5a1429e73d5764b436/header.jpg?t=1764931477" alt="Hunted Within: The Metro（新規追加）" /></a></p><p>Dive into a story-driven horror FPS set in an abandoned metro system: escape underground prison, pilot a survival train through dark tunnels, and venture onto a deadly, frozen surface while hunting for your last friend and confronting the mastermind from your past.</p><p><a href="https://store.steampowered.com/app/4220430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Monarchs at Play（新規追加）</title>
-  <link>https://store.steampowered.com/app/4179890/</link>
-  <guid isPermaLink="false">steam-store-published-4179890</guid>
-  <pubDate>Fri, 05 Dec 2025 11:45:46 +0000</pubDate>
-  <description>Turn-based 4x strategy with a board game soul. Build your empire, combine buildings for powerful adjacency effects and fight or trade with rival monarchs – solo or multiplayer. Simple rules, deep tactics – all in just one hour. </description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179890/51dbfab3a1072f2a0ed17ba45e7794140ce6550e/header.jpg?t=1764932811" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179890/51dbfab3a1072f2a0ed17ba45e7794140ce6550e/header.jpg?t=1764932811" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179890/51dbfab3a1072f2a0ed17ba45e7794140ce6550e/header.jpg?t=1764932811" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4179890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179890/51dbfab3a1072f2a0ed17ba45e7794140ce6550e/header.jpg?t=1764932811" alt="Monarchs at Play（新規追加）" /></a></p><p>Turn-based 4x strategy with a board game soul. Build your empire, combine buildings for powerful adjacency effects and fight or trade with rival monarchs – solo or multiplayer. Simple rules, deep tactics – all in just one hour. </p><p><a href="https://store.steampowered.com/app/4179890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
