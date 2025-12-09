@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 09 Dec 2025 08:26:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 08:56:59 +0000</lastBuildDate>
+<item>
+  <title>Corridor Duel（新規追加）</title>
+  <link>https://store.steampowered.com/app/4218730/</link>
+  <guid isPermaLink="false">steam-store-published-4218730</guid>
+  <pubDate>Tue, 09 Dec 2025 08:56:59 +0000</pubDate>
+  <description>A modern 3D strategy experience. Place walls, block your opponent, and reach the goal first.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218730/a2d9d442f05f0c299e903f5fa1b9f4ccb43f57e4/header.jpg?t=1765269852" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218730/a2d9d442f05f0c299e903f5fa1b9f4ccb43f57e4/header.jpg?t=1765269852" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218730/a2d9d442f05f0c299e903f5fa1b9f4ccb43f57e4/header.jpg?t=1765269852" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4218730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218730/a2d9d442f05f0c299e903f5fa1b9f4ccb43f57e4/header.jpg?t=1765269852" alt="Corridor Duel（新規追加）" /></a></p><p>A modern 3D strategy experience. Place walls, block your opponent, and reach the goal first.</p><p><a href="https://store.steampowered.com/app/4218730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Protocol X（新規追加）</title>
   <link>https://store.steampowered.com/app/4213730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179890/51dbfab3a1072f2a0ed17ba45e7794140ce6550e/header.jpg?t=1764932811" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179890/51dbfab3a1072f2a0ed17ba45e7794140ce6550e/header.jpg?t=1764932811" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4179890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179890/51dbfab3a1072f2a0ed17ba45e7794140ce6550e/header.jpg?t=1764932811" alt="Monarchs at Play（新規追加）" /></a></p><p>Turn-based 4x strategy with a board game soul. Build your empire, combine buildings for powerful adjacency effects and fight or trade with rival monarchs – solo or multiplayer. Simple rules, deep tactics – all in just one hour. </p><p><a href="https://store.steampowered.com/app/4179890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GagImpact（新規追加）</title>
-  <link>https://store.steampowered.com/app/4204990/</link>
-  <guid isPermaLink="false">steam-store-published-4204990</guid>
-  <pubDate>Fri, 05 Dec 2025 11:45:46 +0000</pubDate>
-  <description>Violence-themed,&amp;quot;Conversation &amp;amp; Violence Simulation Game!&amp;quot;As the rowdy lad Mike S Brown,knock the annoying blokes flying! Talk! Spew abuse!What will become of the lad&#x27;s future as a result...?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204990/f0230e449f73494a26ef9ec1dc6d498f594dc490/header.jpg?t=1764932554" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204990/f0230e449f73494a26ef9ec1dc6d498f594dc490/header.jpg?t=1764932554" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204990/f0230e449f73494a26ef9ec1dc6d498f594dc490/header.jpg?t=1764932554" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4204990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204990/f0230e449f73494a26ef9ec1dc6d498f594dc490/header.jpg?t=1764932554" alt="GagImpact（新規追加）" /></a></p><p>Violence-themed,&amp;quot;Conversation &amp;amp; Violence Simulation Game!&amp;quot;As the rowdy lad Mike S Brown,knock the annoying blokes flying! Talk! Spew abuse!What will become of the lad&#x27;s future as a result...?</p><p><a href="https://store.steampowered.com/app/4204990/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
