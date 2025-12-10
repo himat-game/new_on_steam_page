@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 10 Dec 2025 09:51:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 10:21:23 +0000</lastBuildDate>
+<item>
+  <title>DreadBound（新規追加）</title>
+  <link>https://store.steampowered.com/app/3994820/</link>
+  <guid isPermaLink="false">steam-store-published-3994820</guid>
+  <pubDate>Wed, 10 Dec 2025 10:21:23 +0000</pubDate>
+  <description>DreadBound is an atmospheric action roguelike with immersive sim elements. Steal your soul back from a cursed city, hide on roofs, eat bugs, make deals with demons, throw vases at your enemies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994820/6e491b1078a7af5130e70fd2fc18dff35106dfcc/header.jpg?t=1765360992" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994820/6e491b1078a7af5130e70fd2fc18dff35106dfcc/header.jpg?t=1765360992" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994820/6e491b1078a7af5130e70fd2fc18dff35106dfcc/header.jpg?t=1765360992" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3994820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994820/6e491b1078a7af5130e70fd2fc18dff35106dfcc/header.jpg?t=1765360992" alt="DreadBound（新規追加）" /></a></p><p>DreadBound is an atmospheric action roguelike with immersive sim elements. Steal your soul back from a cursed city, hide on roofs, eat bugs, make deals with demons, throw vases at your enemies.</p><p><a href="https://store.steampowered.com/app/3994820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>UD RĒA（新規追加）</title>
   <link>https://store.steampowered.com/app/4230060/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209690/fbd3a42cf66754c80a1fab49eb120120a230b898/header.jpg?t=1765115366" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209690/fbd3a42cf66754c80a1fab49eb120120a230b898/header.jpg?t=1765115366" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4209690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209690/fbd3a42cf66754c80a1fab49eb120120a230b898/header.jpg?t=1765115366" alt="Snekoban（新規追加）" /></a></p><p>Snekoban is a puzzle game, inspired by Snake and Sokoban. Help Sneko tidy up his space by pushing boxes, eat apples and earn a well deserved sleep on his favorite pillow : his own tail !</p><p><a href="https://store.steampowered.com/app/4209690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Super Blood Hockey: Rogue Manager（新規追加）</title>
-  <link>https://store.steampowered.com/app/3911400/</link>
-  <guid isPermaLink="false">steam-store-published-3911400</guid>
-  <pubDate>Sun, 07 Dec 2025 14:46:11 +0000</pubDate>
-  <description>A sports game where you don&#x27;t control the players, instead play as a shady coach and use your deck of dirty tricks to become season champion. A unique hybrid of roguelike deckbuilder, auto-battler, and high action arcade hockey.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911400/c0e009ed9f8a025d429890e87859ba468e16cb49/header.jpg?t=1765116959" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911400/c0e009ed9f8a025d429890e87859ba468e16cb49/header.jpg?t=1765116959" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911400/c0e009ed9f8a025d429890e87859ba468e16cb49/header.jpg?t=1765116959" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3911400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911400/c0e009ed9f8a025d429890e87859ba468e16cb49/header.jpg?t=1765116959" alt="Super Blood Hockey: Rogue Manager（新規追加）" /></a></p><p>A sports game where you don&#x27;t control the players, instead play as a shady coach and use your deck of dirty tricks to become season champion. A unique hybrid of roguelike deckbuilder, auto-battler, and high action arcade hockey.</p><p><a href="https://store.steampowered.com/app/3911400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
