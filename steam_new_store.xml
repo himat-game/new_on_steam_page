@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 10 Dec 2025 12:38:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 13:24:32 +0000</lastBuildDate>
+<item>
+  <title>Scrub Dudes（新規追加）</title>
+  <link>https://store.steampowered.com/app/4241300/</link>
+  <guid isPermaLink="false">steam-store-published-4241300</guid>
+  <pubDate>Wed, 10 Dec 2025 13:24:32 +0000</pubDate>
+  <description>A world built from cardboard, fabric and handcrafted creations. Everything is messy and covered in grime, but the Scrub Dudes team is ready for action. Climb, glide, collect trash, fix things and WASH it all clean. Enjoy this cozy handcrafted world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241300/7efe4a5a2a6e2855475672453a190a066be4cb5a/header.jpg?t=1765372085" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241300/7efe4a5a2a6e2855475672453a190a066be4cb5a/header.jpg?t=1765372085" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241300/7efe4a5a2a6e2855475672453a190a066be4cb5a/header.jpg?t=1765372085" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241300/7efe4a5a2a6e2855475672453a190a066be4cb5a/header.jpg?t=1765372085" alt="Scrub Dudes（新規追加）" /></a></p><p>A world built from cardboard, fabric and handcrafted creations. Everything is messy and covered in grime, but the Scrub Dudes team is ready for action. Climb, glide, collect trash, fix things and WASH it all clean. Enjoy this cozy handcrafted world.</p><p><a href="https://store.steampowered.com/app/4241300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Red Balloon（新規追加）</title>
   <link>https://store.steampowered.com/app/4221220/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214260/8276ddf4287d4535ff13b0cae12226c3083b11cf/header.jpg?t=1765147962" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214260/8276ddf4287d4535ff13b0cae12226c3083b11cf/header.jpg?t=1765147962" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4214260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214260/8276ddf4287d4535ff13b0cae12226c3083b11cf/header.jpg?t=1765147962" alt="Vespertales（新規追加）" /></a></p><p>Restore light, explore surreal worlds, and confront a creeping darkness to save your brother from a corrupted dream</p><p><a href="https://store.steampowered.com/app/4214260/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Resignation Agency（新規追加）</title>
-  <link>https://store.steampowered.com/app/4096550/</link>
-  <guid isPermaLink="false">steam-store-published-4096550</guid>
-  <pubDate>Sun, 07 Dec 2025 23:45:18 +0000</pubDate>
-  <description>After starting a job at a “Resignation Agency,” the protagonist gradually becomes entangled in unsettling incidents as the work unfolds. Resignation Agency × Walking Simulator</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096550/835b089ed65f2c626d8da2391d70d9c1a068fe1c/header.jpg?t=1765149727" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096550/835b089ed65f2c626d8da2391d70d9c1a068fe1c/header.jpg?t=1765149727" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096550/835b089ed65f2c626d8da2391d70d9c1a068fe1c/header.jpg?t=1765149727" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4096550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096550/835b089ed65f2c626d8da2391d70d9c1a068fe1c/header.jpg?t=1765149727" alt="Resignation Agency（新規追加）" /></a></p><p>After starting a job at a “Resignation Agency,” the protagonist gradually becomes entangled in unsettling incidents as the work unfolds. Resignation Agency × Walking Simulator</p><p><a href="https://store.steampowered.com/app/4096550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
