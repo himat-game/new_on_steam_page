@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 10 Dec 2025 14:55:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 15:22:00 +0000</lastBuildDate>
+<item>
+  <title>Siege at Sundown（新規追加）</title>
+  <link>https://store.steampowered.com/app/4218950/</link>
+  <guid isPermaLink="false">steam-store-published-4218950</guid>
+  <pubDate>Wed, 10 Dec 2025 15:22:00 +0000</pubDate>
+  <description>The match runs in cycles: during the day you develop your base and economy. At night you can no longer construct buildings; battles and the siege begin. Each subsequent night is longer, and the final night is endless. Victory goes to the one who destroys the opponent s fortress.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218950/526bf85251879150a2bec0169de65a59b2f089c5/header.jpg?t=1765378852" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218950/526bf85251879150a2bec0169de65a59b2f089c5/header.jpg?t=1765378852" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218950/526bf85251879150a2bec0169de65a59b2f089c5/header.jpg?t=1765378852" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4218950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218950/526bf85251879150a2bec0169de65a59b2f089c5/header.jpg?t=1765378852" alt="Siege at Sundown（新規追加）" /></a></p><p>The match runs in cycles: during the day you develop your base and economy. At night you can no longer construct buildings; battles and the siege begin. Each subsequent night is longer, and the final night is endless. Victory goes to the one who destroys the opponent s fortress.</p><p><a href="https://store.steampowered.com/app/4218950/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Session Notes: Night Vigil（新規追加）</title>
   <link>https://store.steampowered.com/app/4216460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221600/f9b13756d0ed51668e052259e7b2c8a0329f0e1c/header.jpg?t=1765175209" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221600/f9b13756d0ed51668e052259e7b2c8a0329f0e1c/header.jpg?t=1765175209" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221600/f9b13756d0ed51668e052259e7b2c8a0329f0e1c/header.jpg?t=1765175209" alt="Pripyat 0（新規追加）" /></a></p><p>Chernobyl has broken down. As radiation rains down upon you, the world starts rapidly mutating. You&#x27;ve gotten stuck in a nightmarish loop. Can you correctly spot the anomalies on time and get to safety? Or will you become one with the zone?</p><p><a href="https://store.steampowered.com/app/4221600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Out To Deliver（新規追加）</title>
-  <link>https://store.steampowered.com/app/4122640/</link>
-  <guid isPermaLink="false">steam-store-published-4122640</guid>
-  <pubDate>Mon, 08 Dec 2025 04:04:46 +0000</pubDate>
-  <description>A fast-paced survival action game where you race through dangerous streets, dodge enemies, upgrade your bike, and see how long you can stay alive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122640/0faa15d697fbd363a72c82d90bd35b648dd9163c/header.jpg?t=1765165473" alt="Out To Deliver（新規追加）" /></a></p><p>A fast-paced survival action game where you race through dangerous streets, dodge enemies, upgrade your bike, and see how long you can stay alive.</p><p><a href="https://store.steampowered.com/app/4122640/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
