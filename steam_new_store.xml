@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 11 Dec 2025 21:48:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 22:17:31 +0000</lastBuildDate>
+<item>
+  <title>A little Jumpingspider&#x27;s Garden Adventure (Day 1+2)（新規追加）</title>
+  <link>https://store.steampowered.com/app/4236080/</link>
+  <guid isPermaLink="false">steam-store-published-4236080</guid>
+  <pubDate>Thu, 11 Dec 2025 22:17:31 +0000</pubDate>
+  <description>Experience the world through the eyes of a cute little jumpingspider! All levels have completely different mechanics and each one challenges you in its own unique way. Let&#x27;s go for an amazing ride!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236080/2ac0ee49b6a6251bbb60008bda7500e6c3950eaf/header.jpg?t=1765490611" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236080/2ac0ee49b6a6251bbb60008bda7500e6c3950eaf/header.jpg?t=1765490611" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236080/2ac0ee49b6a6251bbb60008bda7500e6c3950eaf/header.jpg?t=1765490611" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236080/2ac0ee49b6a6251bbb60008bda7500e6c3950eaf/header.jpg?t=1765490611" alt="A little Jumpingspider&#x27;s Garden Adventure (Day 1+2)（新規追加）" /></a></p><p>Experience the world through the eyes of a cute little jumpingspider! All levels have completely different mechanics and each one challenges you in its own unique way. Let&#x27;s go for an amazing ride!</p><p><a href="https://store.steampowered.com/app/4236080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Wishbone（新規追加）</title>
   <link>https://store.steampowered.com/app/4140410/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg?t=1765307673" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg?t=1765307673" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2321960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg?t=1765307673" alt="Spirit Crossing（新規追加）" /></a></p><p>Befriend bears, aid lost spirits, ride fluffalo, and build a thriving village with other players in this multiplayer life-sim from the creators of &amp;quot;Cozy Grove.&amp;quot; Find endless opportunities to express yourself, make new friends, and enjoy a social experience unlike any other.</p><p><a href="https://store.steampowered.com/app/2321960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bolt Action（新規追加）</title>
-  <link>https://store.steampowered.com/app/3856030/</link>
-  <guid isPermaLink="false">steam-store-published-3856030</guid>
-  <pubDate>Tue, 09 Dec 2025 19:45:05 +0000</pubDate>
-  <description>Step into the boots of a battlefield commander in Bolt Action, a turn-based WWII strategy inspired by Warlord Games’ tabletop classic.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856030/e97777eb3a632df8e2cefa2f0c42753d501ab2a0/header.jpg?t=1765306753" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856030/e97777eb3a632df8e2cefa2f0c42753d501ab2a0/header.jpg?t=1765306753" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856030/e97777eb3a632df8e2cefa2f0c42753d501ab2a0/header.jpg?t=1765306753" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3856030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856030/e97777eb3a632df8e2cefa2f0c42753d501ab2a0/header.jpg?t=1765306753" alt="Bolt Action（新規追加）" /></a></p><p>Step into the boots of a battlefield commander in Bolt Action, a turn-based WWII strategy inspired by Warlord Games’ tabletop classic.</p><p><a href="https://store.steampowered.com/app/3856030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
