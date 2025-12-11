@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 11 Dec 2025 14:51:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 15:21:43 +0000</lastBuildDate>
+<item>
+  <title>Signal Zone（新規追加）</title>
+  <link>https://store.steampowered.com/app/4185580/</link>
+  <guid isPermaLink="false">steam-store-published-4185580</guid>
+  <pubDate>Thu, 11 Dec 2025 15:21:43 +0000</pubDate>
+  <description>Build, mine, and defend your base to survive the nights. Gather resources by day, reinforce your defenses, and survive attacks in this challenging minimalist strategy.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185580/bd1c0f74c02de6f4865398644ea01d016c579a3f/header.jpg?t=1765464876" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185580/bd1c0f74c02de6f4865398644ea01d016c579a3f/header.jpg?t=1765464876" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185580/bd1c0f74c02de6f4865398644ea01d016c579a3f/header.jpg?t=1765464876" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4185580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185580/bd1c0f74c02de6f4865398644ea01d016c579a3f/header.jpg?t=1765464876" alt="Signal Zone（新規追加）" /></a></p><p>Build, mine, and defend your base to survive the nights. Gather resources by day, reinforce your defenses, and survive attacks in this challenging minimalist strategy.</p><p><a href="https://store.steampowered.com/app/4185580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Trials of the Demonic Seal（新規追加）</title>
   <link>https://store.steampowered.com/app/3386780/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190200/ed10735b4f3e7912142083a489655576a81d7fed/header.jpg?t=1765277987" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190200/ed10735b4f3e7912142083a489655576a81d7fed/header.jpg?t=1765277987" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4190200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190200/ed10735b4f3e7912142083a489655576a81d7fed/header.jpg?t=1765277987" alt="Duckscape（新規追加）" /></a></p><p>Walk along your keyboard to spell out a swirly story. In Duckscape you will need to contort your fingers to move around your keyboard in this oddly controlled game. Unlock levels, game modes and modifiers, and an endless mode. Spell out a quaint tale of friendship in the modern age.</p><p><a href="https://store.steampowered.com/app/4190200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>HeroIsVeryArrogant（新規追加）</title>
-  <link>https://store.steampowered.com/app/4207190/</link>
-  <guid isPermaLink="false">steam-store-published-4207190</guid>
-  <pubDate>Tue, 09 Dec 2025 11:47:02 +0000</pubDate>
-  <description>&amp;quot;Hero Is Very Arrogant&amp;quot; is a battle game that combines Auto-Chess and Roguelike elements! You will become a battlefield commander, recruiting warriors with diverse abilities and combining various artifacts to build an unstoppable legendary troop.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207190/3ea7a3b232743ffc47ba63a59462562fecd92e78/header.jpg?t=1765278199" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207190/3ea7a3b232743ffc47ba63a59462562fecd92e78/header.jpg?t=1765278199" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207190/3ea7a3b232743ffc47ba63a59462562fecd92e78/header.jpg?t=1765278199" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4207190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207190/3ea7a3b232743ffc47ba63a59462562fecd92e78/header.jpg?t=1765278199" alt="HeroIsVeryArrogant（新規追加）" /></a></p><p>&amp;quot;Hero Is Very Arrogant&amp;quot; is a battle game that combines Auto-Chess and Roguelike elements! You will become a battlefield commander, recruiting warriors with diverse abilities and combining various artifacts to build an unstoppable legendary troop.</p><p><a href="https://store.steampowered.com/app/4207190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
