@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 12 Dec 2025 21:44:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 22:17:18 +0000</lastBuildDate>
+<item>
+  <title>スローライフサバイバー／SlowLife Survivor（新規追加）</title>
+  <link>https://store.steampowered.com/app/4236750/</link>
+  <guid isPermaLink="false">steam-store-published-4236750</guid>
+  <pubDate>Fri, 12 Dec 2025 22:17:18 +0000</pubDate>
+  <description>Like has come to a deserted island to live a second life. Fight and survive, fish and live a slow life, or develop the island, build a village and defeat strong enemies! The possibilities are endless!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236750/9ef7f717242b30b415ab354ac4b8f4151810d8c3/header.jpg?t=1765577262" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236750/9ef7f717242b30b415ab354ac4b8f4151810d8c3/header.jpg?t=1765577262" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236750/9ef7f717242b30b415ab354ac4b8f4151810d8c3/header.jpg?t=1765577262" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236750/9ef7f717242b30b415ab354ac4b8f4151810d8c3/header.jpg?t=1765577262" alt="スローライフサバイバー／SlowLife Survivor（新規追加）" /></a></p><p>Like has come to a deserted island to live a second life. Fight and survive, fish and live a slow life, or develop the island, build a village and defeat strong enemies! The possibilities are endless!</p><p><a href="https://store.steampowered.com/app/4236750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Stackable（新規追加）</title>
   <link>https://store.steampowered.com/app/4231400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171070/a985a92b3855c6a8b5cd1346f02035b658abfe74/header.jpg?t=1765382998" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171070/a985a92b3855c6a8b5cd1346f02035b658abfe74/header.jpg?t=1765382998" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4171070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171070/a985a92b3855c6a8b5cd1346f02035b658abfe74/header.jpg?t=1765382998" alt="derealization（新規追加）" /></a></p><p>A visual novel about a girl who escaped from a psychiatric hospital. She is pursued by a strange being from another world — and it seems she’s not the only one who can see visitors from beyond.</p><p><a href="https://store.steampowered.com/app/4171070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Three Feet From Death（新規追加）</title>
-  <link>https://store.steampowered.com/app/4243830/</link>
-  <guid isPermaLink="false">steam-store-published-4243830</guid>
-  <pubDate>Wed, 10 Dec 2025 16:25:16 +0000</pubDate>
-  <description>Enter into what might be the most insane gaming challenge created - Three Feet from Death. A precision platformer with bullet-hell elements, responsive, fast paced gameplay, and a skill ceiling that even masters of the genre may spend their lives reaching for. Good luck.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243830/18738937a19a250e1d9830d18fb20434d8e4ad43/header.jpg?t=1765383793" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243830/18738937a19a250e1d9830d18fb20434d8e4ad43/header.jpg?t=1765383793" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243830/18738937a19a250e1d9830d18fb20434d8e4ad43/header.jpg?t=1765383793" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243830/18738937a19a250e1d9830d18fb20434d8e4ad43/header.jpg?t=1765383793" alt="Three Feet From Death（新規追加）" /></a></p><p>Enter into what might be the most insane gaming challenge created - Three Feet from Death. A precision platformer with bullet-hell elements, responsive, fast paced gameplay, and a skill ceiling that even masters of the genre may spend their lives reaching for. Good luck.</p><p><a href="https://store.steampowered.com/app/4243830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
