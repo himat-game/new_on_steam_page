@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 12 Dec 2025 09:51:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 10:20:19 +0000</lastBuildDate>
+<item>
+  <title>Dear Lighthouse（新規追加）</title>
+  <link>https://store.steampowered.com/app/4222270/</link>
+  <guid isPermaLink="false">steam-store-published-4222270</guid>
+  <pubDate>Fri, 12 Dec 2025 10:20:19 +0000</pubDate>
+  <description>You are hired to restore a silent lighthouse. What starts as routine maintenance turns into unraveling a dark history. Bring the machinery back to life and discover that these malfunctions were no accident, and that the light doesn&#x27;t just guide ships.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222270/dcf67915e25d5ea71e75e2198ee65ccc94e7eeac/header.jpg?t=1765533396" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222270/dcf67915e25d5ea71e75e2198ee65ccc94e7eeac/header.jpg?t=1765533396" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222270/dcf67915e25d5ea71e75e2198ee65ccc94e7eeac/header.jpg?t=1765533396" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4222270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222270/dcf67915e25d5ea71e75e2198ee65ccc94e7eeac/header.jpg?t=1765533396" alt="Dear Lighthouse（新規追加）" /></a></p><p>You are hired to restore a silent lighthouse. What starts as routine maintenance turns into unraveling a dark history. Bring the machinery back to life and discover that these malfunctions were no accident, and that the light doesn&#x27;t just guide ships.</p><p><a href="https://store.steampowered.com/app/4222270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Variable Leach（新規追加）</title>
   <link>https://store.steampowered.com/app/4153500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236830/4c8b55b7be972cd409a1bedaa79a846d7b39c63d/header.jpg?t=1765340684" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236830/4c8b55b7be972cd409a1bedaa79a846d7b39c63d/header.jpg?t=1765340684" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236830/4c8b55b7be972cd409a1bedaa79a846d7b39c63d/header.jpg?t=1765340684" alt="Card Colony（新規追加）" /></a></p><p>A roguelike strategy game where you build structures on barren land and withstand trials while generating gold. Plan synergies from cards that reshuffle each turn, endure with careful strategy, and build your own empire!</p><p><a href="https://store.steampowered.com/app/4236830/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Legacy of Chaos Online（新規追加）</title>
-  <link>https://store.steampowered.com/app/4241960/</link>
-  <guid isPermaLink="false">steam-store-published-4241960</guid>
-  <pubDate>Wed, 10 Dec 2025 04:04:02 +0000</pubDate>
-  <description>Legacy of Chaos Online is not just a cooperative 3D Hack and Slash with Action-RPG elements, but a living legacy of a world where every hero is a bearer of ancient power, and you are the architect of their might.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241960/49ffa23b99748f62a3633446ee91d6cb7a3e4e57/header.jpg?t=1765338852" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241960/49ffa23b99748f62a3633446ee91d6cb7a3e4e57/header.jpg?t=1765338852" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241960/49ffa23b99748f62a3633446ee91d6cb7a3e4e57/header.jpg?t=1765338852" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241960/49ffa23b99748f62a3633446ee91d6cb7a3e4e57/header.jpg?t=1765338852" alt="Legacy of Chaos Online（新規追加）" /></a></p><p>Legacy of Chaos Online is not just a cooperative 3D Hack and Slash with Action-RPG elements, but a living legacy of a world where every hero is a bearer of ancient power, and you are the architect of their might.</p><p><a href="https://store.steampowered.com/app/4241960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
