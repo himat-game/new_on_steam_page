@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 12 Dec 2025 18:28:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 18:56:50 +0000</lastBuildDate>
+<item>
+  <title>Bridgelands（新規追加）</title>
+  <link>https://store.steampowered.com/app/3856950/</link>
+  <guid isPermaLink="false">steam-store-published-3856950</guid>
+  <pubDate>Fri, 12 Dec 2025 18:56:50 +0000</pubDate>
+  <description>Explore the mysterious islands of Bridgelands, fight dangerous creatures, gather resources, and craft powerful gear. Discover hidden secrets, upgrade your tools, and dive into fast-paced battles across ever-changing islands. An action-packed adventure full of exploration and combat awaits.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856950/bfd001f21f9d900abb9553b664ac8fb313eae45e/header.jpg?t=1765564740" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856950/bfd001f21f9d900abb9553b664ac8fb313eae45e/header.jpg?t=1765564740" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856950/bfd001f21f9d900abb9553b664ac8fb313eae45e/header.jpg?t=1765564740" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3856950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856950/bfd001f21f9d900abb9553b664ac8fb313eae45e/header.jpg?t=1765564740" alt="Bridgelands（新規追加）" /></a></p><p>Explore the mysterious islands of Bridgelands, fight dangerous creatures, gather resources, and craft powerful gear. Discover hidden secrets, upgrade your tools, and dive into fast-paced battles across ever-changing islands. An action-packed adventure full of exploration and combat awaits.</p><p><a href="https://store.steampowered.com/app/3856950/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aurora&#x27;s Awakening（新規追加）</title>
   <link>https://store.steampowered.com/app/4092730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026510/3eebaa32b4a1384b93e671b47b8063316193ca1e/header.jpg?t=1765375875" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026510/3eebaa32b4a1384b93e671b47b8063316193ca1e/header.jpg?t=1765375875" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4026510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026510/3eebaa32b4a1384b93e671b47b8063316193ca1e/header.jpg?t=1765375875" alt="Lucid Falls（新規追加）" /></a></p><p>Manipulate gravity, space and time, and survive terrifying nightmares in a deeply atmospheric lucid dream. Facing terrifying creatures, and solving challenges that bend reality, every moment reveals more of the dark truth behind Lucid Falls.</p><p><a href="https://store.steampowered.com/app/4026510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>R-Type Dimensions III（新規追加）</title>
-  <link>https://store.steampowered.com/app/4165620/</link>
-  <guid isPermaLink="false">steam-store-published-4165620</guid>
-  <pubDate>Wed, 10 Dec 2025 14:28:05 +0000</pubDate>
-  <description>Building on the legacy of R-Type Dimensions and R-Type Dimensions EX, Dimensions III has been completely re-envisioned with cutting-edge visuals and sounds, expanded gameplay modes, and a range of new features designed to deliver the most definitive modern edition of R-Type’s classic era. </description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165620/1a87537937f200f6a6d85ec1c2871fa7eb2d7e22/header.jpg?t=1765375241" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165620/1a87537937f200f6a6d85ec1c2871fa7eb2d7e22/header.jpg?t=1765375241" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165620/1a87537937f200f6a6d85ec1c2871fa7eb2d7e22/header.jpg?t=1765375241" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4165620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165620/1a87537937f200f6a6d85ec1c2871fa7eb2d7e22/header.jpg?t=1765375241" alt="R-Type Dimensions III（新規追加）" /></a></p><p>Building on the legacy of R-Type Dimensions and R-Type Dimensions EX, Dimensions III has been completely re-envisioned with cutting-edge visuals and sounds, expanded gameplay modes, and a range of new features designed to deliver the most definitive modern edition of R-Type’s classic era. </p><p><a href="https://store.steampowered.com/app/4165620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
