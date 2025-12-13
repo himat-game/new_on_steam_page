@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 13 Dec 2025 14:16:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 14:46:52 +0000</lastBuildDate>
+<item>
+  <title>Fish Tank Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4237230/</link>
+  <guid isPermaLink="false">steam-store-published-4237230</guid>
+  <pubDate>Sat, 13 Dec 2025 14:46:52 +0000</pubDate>
+  <description>Manage your own digital aquarium in various relaxing environments. Raise fish with unique behaviors, decorate tanks, and unlock rare species. Whether you enjoy min-maxing your income, unwinding with a cozy game, or you’re a fish lover looking for a digital tank, you’ll find it in Fish Tank Simulator</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237230/35673dbdded3116dc22d0fbdb40db93c615dfc53/header.jpg?t=1765636418" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237230/35673dbdded3116dc22d0fbdb40db93c615dfc53/header.jpg?t=1765636418" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237230/35673dbdded3116dc22d0fbdb40db93c615dfc53/header.jpg?t=1765636418" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4237230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237230/35673dbdded3116dc22d0fbdb40db93c615dfc53/header.jpg?t=1765636418" alt="Fish Tank Simulator（新規追加）" /></a></p><p>Manage your own digital aquarium in various relaxing environments. Raise fish with unique behaviors, decorate tanks, and unlock rare species. Whether you enjoy min-maxing your income, unwinding with a cozy game, or you’re a fish lover looking for a digital tank, you’ll find it in Fish Tank Simulator</p><p><a href="https://store.steampowered.com/app/4237230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Their Sky（新規追加）</title>
   <link>https://store.steampowered.com/app/3910320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964260/8a5b3274c0735a3db9c7f71caa90c2d351bfc345/header.jpg?t=1765402837" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964260/8a5b3274c0735a3db9c7f71caa90c2d351bfc345/header.jpg?t=1765402837" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3964260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3964260/8a5b3274c0735a3db9c7f71caa90c2d351bfc345/header.jpg?t=1765402837" alt="Rollin&#x27; Gun（新規追加）" /></a></p><p>A fast-paced roguelike top-down shooter. Take control of a badass in a wheelchair in this post-apocalyptic combat arena. Master the game&#x27;s unique controls and upgrade your weapons to become the champion.</p><p><a href="https://store.steampowered.com/app/3964260/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Invocation: Ghost Photography（新規追加）</title>
-  <link>https://store.steampowered.com/app/4243670/</link>
-  <guid isPermaLink="false">steam-store-published-4243670</guid>
-  <pubDate>Wed, 10 Dec 2025 21:51:13 +0000</pubDate>
-  <description>Play as a paranormal investigator and explore dark, atmospheric locations where lost spirits still lurk in the shadows.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243670/846c10ea3650c14e8f8bef3550f12549490b8169/header.jpg?t=1765403032" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243670/846c10ea3650c14e8f8bef3550f12549490b8169/header.jpg?t=1765403032" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243670/846c10ea3650c14e8f8bef3550f12549490b8169/header.jpg?t=1765403032" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243670/846c10ea3650c14e8f8bef3550f12549490b8169/header.jpg?t=1765403032" alt="Invocation: Ghost Photography（新規追加）" /></a></p><p>Play as a paranormal investigator and explore dark, atmospheric locations where lost spirits still lurk in the shadows.</p><p><a href="https://store.steampowered.com/app/4243670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
