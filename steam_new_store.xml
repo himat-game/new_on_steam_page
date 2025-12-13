@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 13 Dec 2025 12:34:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 13:49:51 +0000</lastBuildDate>
+<item>
+  <title>Maya, Valentina, Naomi（新規追加）</title>
+  <link>https://store.steampowered.com/app/4216960/</link>
+  <guid isPermaLink="false">steam-store-published-4216960</guid>
+  <pubDate>Sat, 13 Dec 2025 13:49:51 +0000</pubDate>
+  <description>A new semester, a blank notebook, and three distinct paths. Will you chase hidden stories with Maya, race against the clock with Valentina, or solve intricate puzzles with Naomi? A fully animated visual novel about connection, ambition, and finding your place in the chaos of university life.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216960/39a77290e4104d51331003c284309ad011c1b834/header.jpg?t=1765631666" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216960/39a77290e4104d51331003c284309ad011c1b834/header.jpg?t=1765631666" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216960/39a77290e4104d51331003c284309ad011c1b834/header.jpg?t=1765631666" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4216960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216960/39a77290e4104d51331003c284309ad011c1b834/header.jpg?t=1765631666" alt="Maya, Valentina, Naomi（新規追加）" /></a></p><p>A new semester, a blank notebook, and three distinct paths. Will you chase hidden stories with Maya, race against the clock with Valentina, or solve intricate puzzles with Naomi? A fully animated visual novel about connection, ambition, and finding your place in the chaos of university life.</p><p><a href="https://store.steampowered.com/app/4216960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Battle For The Raise（新規追加）</title>
   <link>https://store.steampowered.com/app/4246770/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210120/2ed891f8f16d0b2f2c8cf1f19d92e727925d3971/header.jpg?t=1765400667" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210120/2ed891f8f16d0b2f2c8cf1f19d92e727925d3971/header.jpg?t=1765400667" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4210120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210120/2ed891f8f16d0b2f2c8cf1f19d92e727925d3971/header.jpg?t=1765400667" alt="Trash Talkers（新規追加）" /></a></p><p>Come and trash talk in a 1V1 face off against another opponent! Use your wit to beat your opponent and convince the referee why you should be the winner! Or play as the referee and be the one to pick the winner yourself.</p><p><a href="https://store.steampowered.com/app/4210120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fast food RAGE（新規追加）</title>
-  <link>https://store.steampowered.com/app/4188600/</link>
-  <guid isPermaLink="false">steam-store-published-4188600</guid>
-  <pubDate>Wed, 10 Dec 2025 21:51:13 +0000</pubDate>
-  <description>Welcome to a universe where cheese is deadlier than lasers and extra bacon counts as heavy armor. Evil mutant pizzas have invaded your home planet, melting cities, clogging arteries and plotting to steal every spice in existence.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188600/9eae8e7e042387e7523b27f570fcc6a1777f0260/header.jpg?t=1765403257" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188600/9eae8e7e042387e7523b27f570fcc6a1777f0260/header.jpg?t=1765403257" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188600/9eae8e7e042387e7523b27f570fcc6a1777f0260/header.jpg?t=1765403257" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4188600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188600/9eae8e7e042387e7523b27f570fcc6a1777f0260/header.jpg?t=1765403257" alt="Fast food RAGE（新規追加）" /></a></p><p>Welcome to a universe where cheese is deadlier than lasers and extra bacon counts as heavy armor. Evil mutant pizzas have invaded your home planet, melting cities, clogging arteries and plotting to steal every spice in existence.</p><p><a href="https://store.steampowered.com/app/4188600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
