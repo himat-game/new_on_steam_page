@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 13 Dec 2025 07:45:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 08:22:07 +0000</lastBuildDate>
+<item>
+  <title>Plight of the Priestess（新規追加）</title>
+  <link>https://store.steampowered.com/app/3693230/</link>
+  <guid isPermaLink="false">steam-store-published-3693230</guid>
+  <pubDate>Sat, 13 Dec 2025 08:22:07 +0000</pubDate>
+  <description>Creepy critters have invaded your temple and your best friends are here to help. Heal and guide the adventurers out of danger or they&#x27;ll lose their clothes!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693230/6d6a6064363889f790a632435d2814724dc39aa0/header.jpg?t=1765612014" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693230/6d6a6064363889f790a632435d2814724dc39aa0/header.jpg?t=1765612014" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693230/6d6a6064363889f790a632435d2814724dc39aa0/header.jpg?t=1765612014" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3693230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693230/6d6a6064363889f790a632435d2814724dc39aa0/header.jpg?t=1765612014" alt="Plight of the Priestess（新規追加）" /></a></p><p>Creepy critters have invaded your temple and your best friends are here to help. Heal and guide the adventurers out of danger or they&#x27;ll lose their clothes!</p><p><a href="https://store.steampowered.com/app/3693230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Crownbreakers: The Ashen Wolves（新規追加）</title>
   <link>https://store.steampowered.com/app/4002660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233650/da03ef2235bb7218c8828aefd2a8fee06badd822/header.jpg?t=1765397476" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233650/da03ef2235bb7218c8828aefd2a8fee06badd822/header.jpg?t=1765397476" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4233650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233650/da03ef2235bb7218c8828aefd2a8fee06badd822/header.jpg?t=1765397476" alt="Monsters &amp; Men（新規追加）" /></a></p><p>A dark-fantasy JRPG where outcasts, monsters, and fallen heroes unite against a corrupt kingdom performing forbidden experiments. Lead a diverse party through an adventure filled with ancient relics, cosmic ruins, and heartbreaking outcomes as you uncover what truly separates monsters from men.</p><p><a href="https://store.steampowered.com/app/4233650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>NYRA: The Fall of Light（新規追加）</title>
-  <link>https://store.steampowered.com/app/4235630/</link>
-  <guid isPermaLink="false">steam-store-published-4235630</guid>
-  <pubDate>Wed, 10 Dec 2025 20:21:37 +0000</pubDate>
-  <description>NYRA: The Fall of Light is a story-driven third-person Action RPG set in a dark fantasy world. Follow Nyra on a mysterious journey featuring combat, exploration, atmospheric environments, and character progression.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235630/48f7e2f9866b28dbd99766d2bf4f798953c0f0f1/header.jpg?t=1765398026" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235630/48f7e2f9866b28dbd99766d2bf4f798953c0f0f1/header.jpg?t=1765398026" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235630/48f7e2f9866b28dbd99766d2bf4f798953c0f0f1/header.jpg?t=1765398026" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4235630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235630/48f7e2f9866b28dbd99766d2bf4f798953c0f0f1/header.jpg?t=1765398026" alt="NYRA: The Fall of Light（新規追加）" /></a></p><p>NYRA: The Fall of Light is a story-driven third-person Action RPG set in a dark fantasy world. Follow Nyra on a mysterious journey featuring combat, exploration, atmospheric environments, and character progression.</p><p><a href="https://store.steampowered.com/app/4235630/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
