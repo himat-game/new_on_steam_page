@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 13 Dec 2025 03:47:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 04:24:18 +0000</lastBuildDate>
+<item>
+  <title> Wraith’s Embrace（新規追加）</title>
+  <link>https://store.steampowered.com/app/4238300/</link>
+  <guid isPermaLink="false">steam-store-published-4238300</guid>
+  <pubDate>Sat, 13 Dec 2025 04:24:18 +0000</pubDate>
+  <description>The newly appointed priest Mior, sent to a desolate village, encounters a mysterious boy named Fei deep in the forest. White hair, red eyes. Smiling in solitude, he felt cold to the touch, yet terrifyingly captivating.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238300/8e5ab317fe2efb56b1d586f6531635cc1c2895d7/header.jpg?t=1765598620" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238300/8e5ab317fe2efb56b1d586f6531635cc1c2895d7/header.jpg?t=1765598620" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238300/8e5ab317fe2efb56b1d586f6531635cc1c2895d7/header.jpg?t=1765598620" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238300/8e5ab317fe2efb56b1d586f6531635cc1c2895d7/header.jpg?t=1765598620" alt=" Wraith’s Embrace（新規追加）" /></a></p><p>The newly appointed priest Mior, sent to a desolate village, encounters a mysterious boy named Fei deep in the forest. White hair, red eyes. Smiling in solitude, he felt cold to the touch, yet terrifyingly captivating.</p><p><a href="https://store.steampowered.com/app/4238300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Light&#x27;s Last Breath（新規追加）</title>
   <link>https://store.steampowered.com/app/4183760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044300/bb4ca07fc763bd08837e4844eebb74d900e4f20b/header.jpg?t=1765392453" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044300/bb4ca07fc763bd08837e4844eebb74d900e4f20b/header.jpg?t=1765392453" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4044300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044300/bb4ca07fc763bd08837e4844eebb74d900e4f20b/header.jpg?t=1765392453" alt="CorgiSpace（新規追加）" /></a></p><p>CorgiSpace is a collection of 8-bit games that have short legs on purpose. This anthology includes more than a dozen action, adventure, arcade, and puzzle games, and each can be thoroughly explored in under an hour.</p><p><a href="https://store.steampowered.com/app/4044300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>PIX Football Manager（新規追加）</title>
-  <link>https://store.steampowered.com/app/4195140/</link>
-  <guid isPermaLink="false">steam-store-published-4195140</guid>
-  <pubDate>Wed, 10 Dec 2025 18:56:36 +0000</pubDate>
-  <description>PIX Football Manager is a nostalgic, casual football management simulator focused on scouting. Set your tactics, find hidden gems, and improve your facilities as you build a dynasty. With no visible player stats, you must spot talent yourself. Grab your clipboard, the game starts now.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195140/cbfa02c5ce7e985086329b45d4f128bd6abd48c5/header.jpg?t=1765391827" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195140/cbfa02c5ce7e985086329b45d4f128bd6abd48c5/header.jpg?t=1765391827" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195140/cbfa02c5ce7e985086329b45d4f128bd6abd48c5/header.jpg?t=1765391827" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4195140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195140/cbfa02c5ce7e985086329b45d4f128bd6abd48c5/header.jpg?t=1765391827" alt="PIX Football Manager（新規追加）" /></a></p><p>PIX Football Manager is a nostalgic, casual football management simulator focused on scouting. Set your tactics, find hidden gems, and improve your facilities as you build a dynasty. With no visible player stats, you must spot talent yourself. Grab your clipboard, the game starts now.</p><p><a href="https://store.steampowered.com/app/4195140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
