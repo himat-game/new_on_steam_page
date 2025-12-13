@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 13 Dec 2025 04:51:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 05:18:13 +0000</lastBuildDate>
+<item>
+  <title>Eternal Lust: Realm of the Undead（新規追加）</title>
+  <link>https://store.steampowered.com/app/4244300/</link>
+  <guid isPermaLink="false">steam-store-published-4244300</guid>
+  <pubDate>Sat, 13 Dec 2025 05:18:13 +0000</pubDate>
+  <description>A dark-fantasy 18+ erotic game set in a parallel world of sentient undead-like beings. Explore a sensual graveyard realm with fully animated adult scenes, supernatural desire, and immersive intimate encounters.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244300/51995bec78a4b93629a6385f2f3b6998a6091c75/header.jpg?t=1765601786" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244300/51995bec78a4b93629a6385f2f3b6998a6091c75/header.jpg?t=1765601786" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244300/51995bec78a4b93629a6385f2f3b6998a6091c75/header.jpg?t=1765601786" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4244300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244300/51995bec78a4b93629a6385f2f3b6998a6091c75/header.jpg?t=1765601786" alt="Eternal Lust: Realm of the Undead（新規追加）" /></a></p><p>A dark-fantasy 18+ erotic game set in a parallel world of sentient undead-like beings. Explore a sensual graveyard realm with fully animated adult scenes, supernatural desire, and immersive intimate encounters.</p><p><a href="https://store.steampowered.com/app/4244300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Mystic Journey With Ignis（新規追加）</title>
   <link>https://store.steampowered.com/app/4244570/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213380/d53d903345cdd1b854dfdf8937409a33eeaf0087/header.jpg?t=1765392824" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213380/d53d903345cdd1b854dfdf8937409a33eeaf0087/header.jpg?t=1765392824" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4213380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213380/d53d903345cdd1b854dfdf8937409a33eeaf0087/header.jpg?t=1765392824" alt="Incremental Dungeon（新規追加）" /></a></p><p>Incremental Dungeon is an incremental game in which you fight combatants with exponentially increasing strength via an auto-battler system. Each defeated opponent on the main path unlocks new equipment, shops, or other ways of empowering your build!</p><p><a href="https://store.steampowered.com/app/4213380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>DoDoon（新規追加）</title>
-  <link>https://store.steampowered.com/app/4228510/</link>
-  <guid isPermaLink="false">steam-store-published-4228510</guid>
-  <pubDate>Wed, 10 Dec 2025 19:46:10 +0000</pubDate>
-  <description>Defend your castle from approaching monsters! Upgrade your defenses and survive all 30 fast-paced waves in this addictive defense shooter.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228510/1238ffbe74581d736766ec4b051c20e2e9988792/header.jpg?t=1765393131" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228510/1238ffbe74581d736766ec4b051c20e2e9988792/header.jpg?t=1765393131" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228510/1238ffbe74581d736766ec4b051c20e2e9988792/header.jpg?t=1765393131" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4228510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228510/1238ffbe74581d736766ec4b051c20e2e9988792/header.jpg?t=1765393131" alt="DoDoon（新規追加）" /></a></p><p>Defend your castle from approaching monsters! Upgrade your defenses and survive all 30 fast-paced waves in this addictive defense shooter.</p><p><a href="https://store.steampowered.com/app/4228510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
