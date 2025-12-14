@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 06:54:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 07:45:06 +0000</lastBuildDate>
+<item>
+  <title>我的修仙世界（新規追加）</title>
+  <link>https://store.steampowered.com/app/4226370/</link>
+  <guid isPermaLink="false">steam-store-published-4226370</guid>
+  <pubDate>Sun, 14 Dec 2025 07:45:06 +0000</pubDate>
+  <description>This is a multiplayer online text-based cultivation game (not single-player), co-created by a planner and a programmer. It focuses on the core experience of &amp;quot;idle gameplay for low stress + high freedom&amp;quot;.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226370/23ea4005e04c24a99a4fe547deac9b6e1ed65b17/header.jpg?t=1765695543" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226370/23ea4005e04c24a99a4fe547deac9b6e1ed65b17/header.jpg?t=1765695543" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226370/23ea4005e04c24a99a4fe547deac9b6e1ed65b17/header.jpg?t=1765695543" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4226370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226370/23ea4005e04c24a99a4fe547deac9b6e1ed65b17/header.jpg?t=1765695543" alt="我的修仙世界（新規追加）" /></a></p><p>This is a multiplayer online text-based cultivation game (not single-player), co-created by a planner and a programmer. It focuses on the core experience of &amp;quot;idle gameplay for low stress + high freedom&amp;quot;.</p><p><a href="https://store.steampowered.com/app/4226370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Michael Test（新規追加）</title>
   <link>https://store.steampowered.com/app/4217820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2573650/1de826badfed7957e733a8cc7564c30cf520d725/header.jpg?t=1765409358" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2573650/1de826badfed7957e733a8cc7564c30cf520d725/header.jpg?t=1765409358" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2573650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2573650/1de826badfed7957e733a8cc7564c30cf520d725/header.jpg?t=1765409358" alt="Gnomestead（新規追加）" /></a></p><p>Cozy point-and-click game for kids with eight different activities revolving around seasonal farm chores throughout the year. Help gnomes with planting, harvesting, foraging, chopping wood, and more.</p><p><a href="https://store.steampowered.com/app/2573650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pizza at Resort 64（新規追加）</title>
-  <link>https://store.steampowered.com/app/3926030/</link>
-  <guid isPermaLink="false">steam-store-published-3926030</guid>
-  <pubDate>Wed, 10 Dec 2025 23:45:11 +0000</pubDate>
-  <description>Welcome to your temporary vacation job! Work for seven days as a pizza chef at a tropical resort that&#x27;s too perfect to be real. Take care of the pizzeria, explore secluded areas of the island, and gradually realize that something in the routine isn&#x27;t quite right.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926030/9653827c7185ee37ffa2e74b795a5eb5a4dc1d24/header.jpg?t=1765406404" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926030/9653827c7185ee37ffa2e74b795a5eb5a4dc1d24/header.jpg?t=1765406404" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926030/9653827c7185ee37ffa2e74b795a5eb5a4dc1d24/header.jpg?t=1765406404" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3926030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926030/9653827c7185ee37ffa2e74b795a5eb5a4dc1d24/header.jpg?t=1765406404" alt="Pizza at Resort 64（新規追加）" /></a></p><p>Welcome to your temporary vacation job! Work for seven days as a pizza chef at a tropical resort that&#x27;s too perfect to be real. Take care of the pizzeria, explore secluded areas of the island, and gradually realize that something in the routine isn&#x27;t quite right.</p><p><a href="https://store.steampowered.com/app/3926030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
