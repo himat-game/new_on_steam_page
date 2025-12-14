@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 01:28:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 03:18:27 +0000</lastBuildDate>
+<item>
+  <title>Tiling Town（新規追加）</title>
+  <link>https://store.steampowered.com/app/4099630/</link>
+  <guid isPermaLink="false">steam-store-published-4099630</guid>
+  <pubDate>Sun, 14 Dec 2025 03:18:27 +0000</pubDate>
+  <description>Open-world logic puzzle game about building towns by laying tiles.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099630/3b13c1525a77dbea2d92106e67e12b701c72a76b/header.jpg?t=1765681856" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099630/3b13c1525a77dbea2d92106e67e12b701c72a76b/header.jpg?t=1765681856" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099630/3b13c1525a77dbea2d92106e67e12b701c72a76b/header.jpg?t=1765681856" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4099630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099630/3b13c1525a77dbea2d92106e67e12b701c72a76b/header.jpg?t=1765681856" alt="Tiling Town（新規追加）" /></a></p><p>Open-world logic puzzle game about building towns by laying tiles.</p><p><a href="https://store.steampowered.com/app/4099630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Evolution Of The Ancients（新規追加）</title>
   <link>https://store.steampowered.com/app/3606840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224510/a774bf19ba2a9e339c9a1978a3b89ad7563781a1/header.jpg?t=1765408450" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224510/a774bf19ba2a9e339c9a1978a3b89ad7563781a1/header.jpg?t=1765408450" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224510/a774bf19ba2a9e339c9a1978a3b89ad7563781a1/header.jpg?t=1765408450" alt="Motarium（新規追加）" /></a></p><p>A set of modern and accessible word games, blending puzzles, logical challenges and a relaxing atmosphere you can enjoy at your own pace.</p><p><a href="https://store.steampowered.com/app/4224510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>蛙爷的进化之路（新規追加）</title>
-  <link>https://store.steampowered.com/app/4200940/</link>
-  <guid isPermaLink="false">steam-store-published-4200940</guid>
-  <pubDate>Wed, 10 Dec 2025 23:45:11 +0000</pubDate>
-  <description>This is a multiplayer online word game! By obtaining monster cards, characters who evolve by fusing monster cards will gain new appearances and skills. Experience different professions with different weapons and equipment. Continuously unlocking new systems through evolution.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200940/c0f30bb9398f4ae92048737ab30bfb56b1ab62cf/header.jpg?t=1765407425" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200940/c0f30bb9398f4ae92048737ab30bfb56b1ab62cf/header.jpg?t=1765407425" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200940/c0f30bb9398f4ae92048737ab30bfb56b1ab62cf/header.jpg?t=1765407425" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4200940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200940/c0f30bb9398f4ae92048737ab30bfb56b1ab62cf/header.jpg?t=1765407425" alt="蛙爷的进化之路（新規追加）" /></a></p><p>This is a multiplayer online word game! By obtaining monster cards, characters who evolve by fusing monster cards will gain new appearances and skills. Experience different professions with different weapons and equipment. Continuously unlocking new systems through evolution.</p><p><a href="https://store.steampowered.com/app/4200940/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
