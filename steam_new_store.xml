@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 19:44:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 22:47:04 +0000</lastBuildDate>
+<item>
+  <title>VAL&#x27;TY（新規追加）</title>
+  <link>https://store.steampowered.com/app/3860970/</link>
+  <guid isPermaLink="false">steam-store-published-3860970</guid>
+  <pubDate>Sun, 14 Dec 2025 22:47:04 +0000</pubDate>
+  <description>Assert dominance in this Retro Reptilian oriented First Person Shooter. No humans allowed! GET VAL&#x27;TED!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3860970/2a3df651fd326034e4482a25529f689218085b2f/header.jpg?t=1765750993" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3860970/2a3df651fd326034e4482a25529f689218085b2f/header.jpg?t=1765750993" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3860970/2a3df651fd326034e4482a25529f689218085b2f/header.jpg?t=1765750993" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3860970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3860970/2a3df651fd326034e4482a25529f689218085b2f/header.jpg?t=1765750993" alt="VAL&#x27;TY（新規追加）" /></a></p><p>Assert dominance in this Retro Reptilian oriented First Person Shooter. No humans allowed! GET VAL&#x27;TED!</p><p><a href="https://store.steampowered.com/app/3860970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Spicy Tavern（新規追加）</title>
   <link>https://store.steampowered.com/app/3507580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241330/6b44a3b5dbb967a59fa67ec6f131b3238ae58d48/header.jpg?t=1765418117" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241330/6b44a3b5dbb967a59fa67ec6f131b3238ae58d48/header.jpg?t=1765418117" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241330/6b44a3b5dbb967a59fa67ec6f131b3238ae58d48/header.jpg?t=1765418117" alt="蝶のいる部屋 ｜ The Room With The Butterfly（新規追加）" /></a></p><p>All you do is talk to a butterfly. A very short horror game. Enjoy the story through simple click-only controls.</p><p><a href="https://store.steampowered.com/app/4241330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Take Root（新規追加）</title>
-  <link>https://store.steampowered.com/app/4156630/</link>
-  <guid isPermaLink="false">steam-store-published-4156630</guid>
-  <pubDate>Thu, 11 Dec 2025 03:14:44 +0000</pubDate>
-  <description>Take Root is a COOPERATIVE colony simulator where plants and robots survive together in an urban post-apocalypse. Develop your settlement, build outposts, explore a procedurally generated city, and uncover the mystery behind the strange Event.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156630/f82c8eb8890f58a613f7d5cd5b2628b4f24dfdcb/header.jpg?t=1765419001" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156630/f82c8eb8890f58a613f7d5cd5b2628b4f24dfdcb/header.jpg?t=1765419001" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156630/f82c8eb8890f58a613f7d5cd5b2628b4f24dfdcb/header.jpg?t=1765419001" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4156630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156630/f82c8eb8890f58a613f7d5cd5b2628b4f24dfdcb/header.jpg?t=1765419001" alt="Take Root（新規追加）" /></a></p><p>Take Root is a COOPERATIVE colony simulator where plants and robots survive together in an urban post-apocalypse. Develop your settlement, build outposts, explore a procedurally generated city, and uncover the mystery behind the strange Event.</p><p><a href="https://store.steampowered.com/app/4156630/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
