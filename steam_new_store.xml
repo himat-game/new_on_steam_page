@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 09:46:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 10:17:47 +0000</lastBuildDate>
+<item>
+  <title>Stickman Zombie Shooting 3D（新規追加）</title>
+  <link>https://store.steampowered.com/app/4172550/</link>
+  <guid isPermaLink="false">steam-store-published-4172550</guid>
+  <pubDate>Sun, 14 Dec 2025 10:17:47 +0000</pubDate>
+  <description>The city has been infected! Shoot and kill the zombie stickmen. Fast-paced arcade gameplay through dozens of bespoke levels. The stickman world needs your help - or at least for you not to die too quickly.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172550/e16d564fad524568206a85b23ac340837d9ae9d3/header.jpg?t=1765706399" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172550/e16d564fad524568206a85b23ac340837d9ae9d3/header.jpg?t=1765706399" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172550/e16d564fad524568206a85b23ac340837d9ae9d3/header.jpg?t=1765706399" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4172550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172550/e16d564fad524568206a85b23ac340837d9ae9d3/header.jpg?t=1765706399" alt="Stickman Zombie Shooting 3D（新規追加）" /></a></p><p>The city has been infected! Shoot and kill the zombie stickmen. Fast-paced arcade gameplay through dozens of bespoke levels. The stickman world needs your help - or at least for you not to die too quickly.</p><p><a href="https://store.steampowered.com/app/4172550/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>弈棋·三国志（新規追加）</title>
   <link>https://store.steampowered.com/app/4118960/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231100/71bba2d820fbae66840c1113b8827ebb1eb79ca5/header.jpg?t=1765412055" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231100/71bba2d820fbae66840c1113b8827ebb1eb79ca5/header.jpg?t=1765412055" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4231100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231100/71bba2d820fbae66840c1113b8827ebb1eb79ca5/header.jpg?t=1765412055" alt="Bird Game 4（新規追加）" /></a></p><p>Bird Wars is a fast-paced 1v1/2v2/3v3 hero brawler where you pick from unique birds, master their abilities, and battle to steal eggs from enemy nests. Choose from 6 roles, coordinate with your team, and fight for victory in action-packed 5-minute matches.</p><p><a href="https://store.steampowered.com/app/4231100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>先兆（新規追加）</title>
-  <link>https://store.steampowered.com/app/4225310/</link>
-  <guid isPermaLink="false">steam-store-published-4225310</guid>
-  <pubDate>Wed, 10 Dec 2025 23:45:11 +0000</pubDate>
-  <description>“一部邪恶的黑色短剧。”</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225310/d49f72f458761643a3ea5d75057aa31b95c57e78/header.jpg?t=1765409185" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225310/d49f72f458761643a3ea5d75057aa31b95c57e78/header.jpg?t=1765409185" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225310/d49f72f458761643a3ea5d75057aa31b95c57e78/header.jpg?t=1765409185" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4225310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225310/d49f72f458761643a3ea5d75057aa31b95c57e78/header.jpg?t=1765409185" alt="先兆（新規追加）" /></a></p><p>“一部邪恶的黑色短剧。”</p><p><a href="https://store.steampowered.com/app/4225310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
