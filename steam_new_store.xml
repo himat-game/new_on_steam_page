@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 16:20:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 18:24:40 +0000</lastBuildDate>
+<item>
+  <title>Edge of Destruction（新規追加）</title>
+  <link>https://store.steampowered.com/app/4090720/</link>
+  <guid isPermaLink="false">steam-store-published-4090720</guid>
+  <pubDate>Sun, 14 Dec 2025 18:24:40 +0000</pubDate>
+  <description>A cinematic, story-driven FPS where destruction is your greatest weapon. Play as Sara, trapped in a surreal world of her own creation. Explore. Destroy. Survive. Uncover the truth behind her digital prison.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090720/d70e1c931dcbad0463b19154f1726e77d281dc90/header.jpg?t=1765735109" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090720/d70e1c931dcbad0463b19154f1726e77d281dc90/header.jpg?t=1765735109" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090720/d70e1c931dcbad0463b19154f1726e77d281dc90/header.jpg?t=1765735109" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4090720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090720/d70e1c931dcbad0463b19154f1726e77d281dc90/header.jpg?t=1765735109" alt="Edge of Destruction（新規追加）" /></a></p><p>A cinematic, story-driven FPS where destruction is your greatest weapon. Play as Sara, trapped in a surreal world of her own creation. Explore. Destroy. Survive. Uncover the truth behind her digital prison.</p><p><a href="https://store.steampowered.com/app/4090720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Orbital Chaos（新規追加）</title>
   <link>https://store.steampowered.com/app/4219860/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245300/475fb9f516af56e0e345e3999d3f621e0074f10a/header.jpg?t=1765413652" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245300/475fb9f516af56e0e345e3999d3f621e0074f10a/header.jpg?t=1765413652" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245300/475fb9f516af56e0e345e3999d3f621e0074f10a/header.jpg?t=1765413652" alt="ClawBurst（新規追加）" /></a></p><p>ClawBurst is an action roguelite featuring distinctive heroes, dazzling visual effects, and deeply satisfying combat. Combine diverse Rune Skills to wipe out screen-filling hordes, and evolve your weapons through 3 stages to survive against massive bosses.</p><p><a href="https://store.steampowered.com/app/4245300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bird Game 5（新規追加）</title>
-  <link>https://store.steampowered.com/app/4218570/</link>
-  <guid isPermaLink="false">steam-store-published-4218570</guid>
-  <pubDate>Thu, 11 Dec 2025 01:23:41 +0000</pubDate>
-  <description>In Bird Game 5, birds battle for control using their unique skill sets. Whether you’re a speedy hummingbird, a tanky shoebill, or a tactical eagle, the goal is clear: Pick a bird. Master their skills. Bring home the eggs.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218570/82f1f69767d18a3deef11ec0a58c5f576c1c1241/header.jpg?t=1765410801" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218570/82f1f69767d18a3deef11ec0a58c5f576c1c1241/header.jpg?t=1765410801" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218570/82f1f69767d18a3deef11ec0a58c5f576c1c1241/header.jpg?t=1765410801" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4218570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218570/82f1f69767d18a3deef11ec0a58c5f576c1c1241/header.jpg?t=1765410801" alt="Bird Game 5（新規追加）" /></a></p><p>In Bird Game 5, birds battle for control using their unique skill sets. Whether you’re a speedy hummingbird, a tanky shoebill, or a tactical eagle, the goal is clear: Pick a bird. Master their skills. Bring home the eggs.</p><p><a href="https://store.steampowered.com/app/4218570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
