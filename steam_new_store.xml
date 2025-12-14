@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 18:52:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 19:44:49 +0000</lastBuildDate>
+<item>
+  <title>Spicy Tavern（新規追加）</title>
+  <link>https://store.steampowered.com/app/3507580/</link>
+  <guid isPermaLink="false">steam-store-published-3507580</guid>
+  <pubDate>Sun, 14 Dec 2025 19:44:49 +0000</pubDate>
+  <description>Become the master tavern keeper. Manage your business, create cocktails, and increase your reputation while forging relationships with female clients who are as charming as they are dangerous. Immerse yourself in an history full of sensuality and intrigue in a universe where women rule and you serve</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507580/ab520889eca63a2542416dc99dbbbb57791d3f9f/header.jpg?t=1765740411" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507580/ab520889eca63a2542416dc99dbbbb57791d3f9f/header.jpg?t=1765740411" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507580/ab520889eca63a2542416dc99dbbbb57791d3f9f/header.jpg?t=1765740411" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3507580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507580/ab520889eca63a2542416dc99dbbbb57791d3f9f/header.jpg?t=1765740411" alt="Spicy Tavern（新規追加）" /></a></p><p>Become the master tavern keeper. Manage your business, create cocktails, and increase your reputation while forging relationships with female clients who are as charming as they are dangerous. Immerse yourself in an history full of sensuality and intrigue in a universe where women rule and you serve</p><p><a href="https://store.steampowered.com/app/3507580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Us or Them（新規追加）</title>
   <link>https://store.steampowered.com/app/4163750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156630/f82c8eb8890f58a613f7d5cd5b2628b4f24dfdcb/header.jpg?t=1765419001" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156630/f82c8eb8890f58a613f7d5cd5b2628b4f24dfdcb/header.jpg?t=1765419001" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4156630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156630/f82c8eb8890f58a613f7d5cd5b2628b4f24dfdcb/header.jpg?t=1765419001" alt="Take Root（新規追加）" /></a></p><p>Take Root is a COOPERATIVE colony simulator where plants and robots survive together in an urban post-apocalypse. Develop your settlement, build outposts, explore a procedurally generated city, and uncover the mystery behind the strange Event.</p><p><a href="https://store.steampowered.com/app/4156630/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>黑暗战纪：魔王复苏（新規追加）</title>
-  <link>https://store.steampowered.com/app/3033970/</link>
-  <guid isPermaLink="false">steam-store-published-3033970</guid>
-  <pubDate>Thu, 11 Dec 2025 03:14:44 +0000</pubDate>
-  <description>A survivor-like game, an intense battle for survival where you must fight with all your might to dodge the relentless onslaught of demonic creatures. Each chapter features multiple mini-maps. On each mini-map, you&#x27;ll face waves of demons closing in from all sides.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033970/cb99e8c3c6f6e661692a7be972b2ae6713954b67/header.jpg?t=1765421354" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033970/cb99e8c3c6f6e661692a7be972b2ae6713954b67/header.jpg?t=1765421354" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033970/cb99e8c3c6f6e661692a7be972b2ae6713954b67/header.jpg?t=1765421354" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3033970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033970/cb99e8c3c6f6e661692a7be972b2ae6713954b67/header.jpg?t=1765421354" alt="黑暗战纪：魔王复苏（新規追加）" /></a></p><p>A survivor-like game, an intense battle for survival where you must fight with all your might to dodge the relentless onslaught of demonic creatures. Each chapter features multiple mini-maps. On each mini-map, you&#x27;ll face waves of demons closing in from all sides.</p><p><a href="https://store.steampowered.com/app/3033970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
