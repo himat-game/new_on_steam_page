@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 05:17:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 06:54:48 +0000</lastBuildDate>
+<item>
+  <title>Michael Test（新規追加）</title>
+  <link>https://store.steampowered.com/app/4217820/</link>
+  <guid isPermaLink="false">steam-store-published-4217820</guid>
+  <pubDate>Sun, 14 Dec 2025 06:54:48 +0000</pubDate>
+  <description>Michael Test is a point-and-click adventure game where you uncover hidden truths within classical paintings and follow faint traces of sound to deduce and choose the final ‘sin.’</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217820/913d0bf9de84f41196cf43a96e6db090cd019ddd/header.jpg?t=1765693730" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217820/913d0bf9de84f41196cf43a96e6db090cd019ddd/header.jpg?t=1765693730" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217820/913d0bf9de84f41196cf43a96e6db090cd019ddd/header.jpg?t=1765693730" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4217820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217820/913d0bf9de84f41196cf43a96e6db090cd019ddd/header.jpg?t=1765693730" alt="Michael Test（新規追加）" /></a></p><p>Michael Test is a point-and-click adventure game where you uncover hidden truths within classical paintings and follow faint traces of sound to deduce and choose the final ‘sin.’</p><p><a href="https://store.steampowered.com/app/4217820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ANAMNESIS: memoria war（新規追加）</title>
   <link>https://store.steampowered.com/app/4240600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926030/9653827c7185ee37ffa2e74b795a5eb5a4dc1d24/header.jpg?t=1765406404" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926030/9653827c7185ee37ffa2e74b795a5eb5a4dc1d24/header.jpg?t=1765406404" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3926030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3926030/9653827c7185ee37ffa2e74b795a5eb5a4dc1d24/header.jpg?t=1765406404" alt="Pizza at Resort 64（新規追加）" /></a></p><p>Welcome to your temporary vacation job! Work for seven days as a pizza chef at a tropical resort that&#x27;s too perfect to be real. Take care of the pizzeria, explore secluded areas of the island, and gradually realize that something in the routine isn&#x27;t quite right.</p><p><a href="https://store.steampowered.com/app/3926030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ぼくもダンジョンに潜りたい（新規追加）</title>
-  <link>https://store.steampowered.com/app/4128800/</link>
-  <guid isPermaLink="false">steam-store-published-4128800</guid>
-  <pubDate>Wed, 10 Dec 2025 23:45:11 +0000</pubDate>
-  <description>※Game Features ・Level cap: 999! ・Character Creation (Over 800 face graphics) → Includes a feature to import your own images ・Job Selection (23 classes) ・Random Dungeons ・etc...... Packed with features hack-and-slash fans will love! Build your own unique party and enjoy hack-and-slash gameplay!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128800/2e9ba3020870153ed16ed7a7933158b942339bbf/header.jpg?t=1765407810" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128800/2e9ba3020870153ed16ed7a7933158b942339bbf/header.jpg?t=1765407810" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128800/2e9ba3020870153ed16ed7a7933158b942339bbf/header.jpg?t=1765407810" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128800/2e9ba3020870153ed16ed7a7933158b942339bbf/header.jpg?t=1765407810" alt="ぼくもダンジョンに潜りたい（新規追加）" /></a></p><p>※Game Features ・Level cap: 999! ・Character Creation (Over 800 face graphics) → Includes a feature to import your own images ・Job Selection (23 classes) ・Random Dungeons ・etc...... Packed with features hack-and-slash fans will love! Build your own unique party and enjoy hack-and-slash gameplay!</p><p><a href="https://store.steampowered.com/app/4128800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
