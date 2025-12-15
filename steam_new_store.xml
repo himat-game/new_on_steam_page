@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 15 Dec 2025 08:28:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 08:59:38 +0000</lastBuildDate>
+<item>
+  <title>The Granny Detective Society（新規追加）</title>
+  <link>https://store.steampowered.com/app/4240620/</link>
+  <guid isPermaLink="false">steam-store-published-4240620</guid>
+  <pubDate>Mon, 15 Dec 2025 08:59:38 +0000</pubDate>
+  <description>A cozy and quirky detective game where Madeline, a retired little mouse, watches her street and dives into thrilling investigations… until the Granny Detective Society contacts her and she discovers that the whole neighborhood is living a double life… especially the grannies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240620/61fe5190829355becee104ea2dcd35c01e4ef092/header.jpg?t=1765788309" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240620/61fe5190829355becee104ea2dcd35c01e4ef092/header.jpg?t=1765788309" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240620/61fe5190829355becee104ea2dcd35c01e4ef092/header.jpg?t=1765788309" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4240620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240620/61fe5190829355becee104ea2dcd35c01e4ef092/header.jpg?t=1765788309" alt="The Granny Detective Society（新規追加）" /></a></p><p>A cozy and quirky detective game where Madeline, a retired little mouse, watches her street and dives into thrilling investigations… until the Granny Detective Society contacts her and she discovers that the whole neighborhood is living a double life… especially the grannies.</p><p><a href="https://store.steampowered.com/app/4240620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Westlanders（新規追加）</title>
   <link>https://store.steampowered.com/app/3886530/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156040/50ad321d20da2b226b881b8a722dd74230f3cd9e/header.jpg?t=1765438572" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156040/50ad321d20da2b226b881b8a722dd74230f3cd9e/header.jpg?t=1765438572" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4156040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156040/50ad321d20da2b226b881b8a722dd74230f3cd9e/header.jpg?t=1765438572" alt="Ratocalypse（新規追加）" /></a></p><p>A strategy RPG where you design the AI of your characters! The prince of a fallen kingdom, ruined by a zombie plague, investigates the capital overrun with the undead in search of hope to resolve the crisis.</p><p><a href="https://store.steampowered.com/app/4156040/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lament/邸宅の幽鬼（新規追加）</title>
-  <link>https://store.steampowered.com/app/4164260/</link>
-  <guid isPermaLink="false">steam-store-published-4164260</guid>
-  <pubDate>Thu, 11 Dec 2025 06:59:33 +0000</pubDate>
-  <description>絶望と現実に何度打ちのめされても&amp;quot;人間らしさ&amp;quot;を探し続ける。君の本当の願いは─────。現代日本とダークな世界観で繰り広げられる、「心理探究×クローズドADV」</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164260/31b17dc53476c8bdc26af1870facd4531b6540f8/header.jpg?t=1765435496" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164260/31b17dc53476c8bdc26af1870facd4531b6540f8/header.jpg?t=1765435496" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164260/31b17dc53476c8bdc26af1870facd4531b6540f8/header.jpg?t=1765435496" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4164260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164260/31b17dc53476c8bdc26af1870facd4531b6540f8/header.jpg?t=1765435496" alt="Lament/邸宅の幽鬼（新規追加）" /></a></p><p>絶望と現実に何度打ちのめされても&amp;quot;人間らしさ&amp;quot;を探し続ける。君の本当の願いは─────。現代日本とダークな世界観で繰り広げられる、「心理探究×クローズドADV」</p><p><a href="https://store.steampowered.com/app/4164260/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
