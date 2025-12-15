@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 15 Dec 2025 13:38:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 14:00:22 +0000</lastBuildDate>
+<item>
+  <title>Nippets（新規追加）</title>
+  <link>https://store.steampowered.com/app/4151830/</link>
+  <guid isPermaLink="false">steam-store-published-4151830</guid>
+  <pubDate>Mon, 15 Dec 2025 14:00:22 +0000</pubDate>
+  <description>A hand-drawn hidden-object game inspired by the joy of people watching and telling small stories. Shake trees, peek through windows and spin curious objects to uncover secrets and follow the lives of its charming inhabitants.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151830/824dfa3351cef6faf3999621109eea4fc1ea4fc8/header.jpg?t=1765806943" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151830/824dfa3351cef6faf3999621109eea4fc1ea4fc8/header.jpg?t=1765806943" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151830/824dfa3351cef6faf3999621109eea4fc1ea4fc8/header.jpg?t=1765806943" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4151830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151830/824dfa3351cef6faf3999621109eea4fc1ea4fc8/header.jpg?t=1765806943" alt="Nippets（新規追加）" /></a></p><p>A hand-drawn hidden-object game inspired by the joy of people watching and telling small stories. Shake trees, peek through windows and spin curious objects to uncover secrets and follow the lives of its charming inhabitants.</p><p><a href="https://store.steampowered.com/app/4151830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>GRIDRUSH（新規追加）</title>
   <link>https://store.steampowered.com/app/4166030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162170/17c20e0bf30e4dcda8853cb193b94a010984c6a0/header.jpg?t=1765439471" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162170/17c20e0bf30e4dcda8853cb193b94a010984c6a0/header.jpg?t=1765439471" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4162170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162170/17c20e0bf30e4dcda8853cb193b94a010984c6a0/header.jpg?t=1765439471" alt="Clean The City（新規追加）" /></a></p><p>The city is overrun by towering grass and hostile plant creatures! Play as AP and battle weeds, crabgrass, and wild botanicals using weedeaters, water guns, flaming basketballs, and more. Rescue neighbors and fight through 9 chaotic retro-action levels!</p><p><a href="https://store.steampowered.com/app/4162170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mira（新規追加）</title>
-  <link>https://store.steampowered.com/app/4171510/</link>
-  <guid isPermaLink="false">steam-store-published-4171510</guid>
-  <pubDate>Thu, 11 Dec 2025 08:26:35 +0000</pubDate>
-  <description>A dark, atmospheric 2D Metroidvania set in a collapsing dream world. Explore shifting regions, unlock new abilities, battle challenging enemies and multi-phase bosses, and uncover the hidden truth behind the Dreamfall in a story-driven journey through the subconscious.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171510/37bd02933b358ff44d6057339c98393a0c2a4ab8/header.jpg?t=1765439617" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171510/37bd02933b358ff44d6057339c98393a0c2a4ab8/header.jpg?t=1765439617" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171510/37bd02933b358ff44d6057339c98393a0c2a4ab8/header.jpg?t=1765439617" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4171510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171510/37bd02933b358ff44d6057339c98393a0c2a4ab8/header.jpg?t=1765439617" alt="Mira（新規追加）" /></a></p><p>A dark, atmospheric 2D Metroidvania set in a collapsing dream world. Explore shifting regions, unlock new abilities, battle challenging enemies and multi-phase bosses, and uncover the hidden truth behind the Dreamfall in a story-driven journey through the subconscious.</p><p><a href="https://store.steampowered.com/app/4171510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
