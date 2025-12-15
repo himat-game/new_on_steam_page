@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 15 Dec 2025 10:22:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 10:55:39 +0000</lastBuildDate>
+<item>
+  <title>Kriegsspiel ~ 7 Years&#x27; War（新規追加）</title>
+  <link>https://store.steampowered.com/app/4203630/</link>
+  <guid isPermaLink="false">steam-store-published-4203630</guid>
+  <pubDate>Mon, 15 Dec 2025 10:55:39 +0000</pubDate>
+  <description>Play as a 7 Years&#x27; War general in this real-time wargame. You command huge armies, but depend on couriers to send orders to your troops and to be aware of the situation on the battlefield. Think strategically, and send the right orders to win every battle of the game&#x27;s campaigns !</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203630/c8269f45d0ca52dc6e153b36e7a6827cae8b033b/header.jpg?t=1765795657" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203630/c8269f45d0ca52dc6e153b36e7a6827cae8b033b/header.jpg?t=1765795657" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203630/c8269f45d0ca52dc6e153b36e7a6827cae8b033b/header.jpg?t=1765795657" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4203630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203630/c8269f45d0ca52dc6e153b36e7a6827cae8b033b/header.jpg?t=1765795657" alt="Kriegsspiel ~ 7 Years&#x27; War（新規追加）" /></a></p><p>Play as a 7 Years&#x27; War general in this real-time wargame. You command huge armies, but depend on couriers to send orders to your troops and to be aware of the situation on the battlefield. Think strategically, and send the right orders to win every battle of the game&#x27;s campaigns !</p><p><a href="https://store.steampowered.com/app/4203630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Late for School（新規追加）</title>
   <link>https://store.steampowered.com/app/4127210/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127000/c8393104a1a8884024186fcd04f59a7e819b17d4/header.jpg?t=1765437355" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127000/c8393104a1a8884024186fcd04f59a7e819b17d4/header.jpg?t=1765437355" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4127000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127000/c8393104a1a8884024186fcd04f59a7e819b17d4/header.jpg?t=1765437355" alt="Frozen Stillness（新規追加）" /></a></p><p>Frozen Stillness is a rich yet concise pixel-art story about a father and daughter trying to survive on a planet that was once their home but has now become a deadly trap. Keep track of the characters’ conditions, use your energy shield and weapons to stay alive.</p><p><a href="https://store.steampowered.com/app/4127000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Blast Grid Battle Grounds（新規追加）</title>
-  <link>https://store.steampowered.com/app/4243930/</link>
-  <guid isPermaLink="false">steam-store-published-4243930</guid>
-  <pubDate>Thu, 11 Dec 2025 07:48:52 +0000</pubDate>
-  <description>This is a top-down 2D roguelike game. A fallen soul awakens in a hell made of corrupted game data. He must fight against the twisted game characters in an endless cycle of rebirth and real pain, striving to break the curse of this world — only to discover that he himself is part of the curse.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243930/a787db672f020e7f971395019cf50fe61df6e4be/header.jpg?t=1765436882" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243930/a787db672f020e7f971395019cf50fe61df6e4be/header.jpg?t=1765436882" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243930/a787db672f020e7f971395019cf50fe61df6e4be/header.jpg?t=1765436882" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243930/a787db672f020e7f971395019cf50fe61df6e4be/header.jpg?t=1765436882" alt="Blast Grid Battle Grounds（新規追加）" /></a></p><p>This is a top-down 2D roguelike game. A fallen soul awakens in a hell made of corrupted game data. He must fight against the twisted game characters in an endless cycle of rebirth and real pain, striving to break the curse of this world — only to discover that he himself is part of the curse.</p><p><a href="https://store.steampowered.com/app/4243930/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
