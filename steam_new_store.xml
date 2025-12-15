@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 15 Dec 2025 20:51:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 21:17:45 +0000</lastBuildDate>
+<item>
+  <title>Mana Runner（新規追加）</title>
+  <link>https://store.steampowered.com/app/4163350/</link>
+  <guid isPermaLink="false">steam-store-published-4163350</guid>
+  <pubDate>Mon, 15 Dec 2025 21:17:45 +0000</pubDate>
+  <description>Mana Runner is a 2D retro-cyberpunk RPG featuring a real-time action battle system. Traverse the dystopian streets of an alternate 1997 New Orleans. Hire Hackers, Enforcers, Mana Priests, and other specialists as you fight back against the corruption of the mega-corps.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163350/52f5b4d47c9fd95730ac24b1443eb8feb31a168e/header.jpg?t=1765832706" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163350/52f5b4d47c9fd95730ac24b1443eb8feb31a168e/header.jpg?t=1765832706" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163350/52f5b4d47c9fd95730ac24b1443eb8feb31a168e/header.jpg?t=1765832706" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4163350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163350/52f5b4d47c9fd95730ac24b1443eb8feb31a168e/header.jpg?t=1765832706" alt="Mana Runner（新規追加）" /></a></p><p>Mana Runner is a 2D retro-cyberpunk RPG featuring a real-time action battle system. Traverse the dystopian streets of an alternate 1997 New Orleans. Hire Hackers, Enforcers, Mana Priests, and other specialists as you fight back against the corruption of the mega-corps.</p><p><a href="https://store.steampowered.com/app/4163350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dead Bit（新規追加）</title>
   <link>https://store.steampowered.com/app/4240500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676230/9e8a2df18bfdd24267aefa6d3e14778c2ecb1708/header.jpg?t=1765475903" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676230/9e8a2df18bfdd24267aefa6d3e14778c2ecb1708/header.jpg?t=1765475903" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2676230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676230/9e8a2df18bfdd24267aefa6d3e14778c2ecb1708/header.jpg?t=1765475903" alt="FiveM（新規追加）" /></a></p><p>type=advertising, appid=2676230</p><p><a href="https://store.steampowered.com/app/2676230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>lunr.rdio.taxi（新規追加）</title>
-  <link>https://store.steampowered.com/app/3644540/</link>
-  <guid isPermaLink="false">steam-store-published-3644540</guid>
-  <pubDate>Thu, 11 Dec 2025 18:26:38 +0000</pubDate>
-  <description>lunr.rdio.taxi blends drifting and rhythm into an exhilarating spacetime &#x27;DRIFTHM&#x27; adventure! Slide and boost your way through the solar system to the beat of Brazil&#x27;s best DJs and earn big as an interplanetary taxi pilot trying to pay an infinite debt in this hypercapitalistic BrazaFunk future.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644540/f1b67c5ded88b183c58284aa8f9759d4e854f619/header.jpg?t=1765477279" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644540/f1b67c5ded88b183c58284aa8f9759d4e854f619/header.jpg?t=1765477279" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644540/f1b67c5ded88b183c58284aa8f9759d4e854f619/header.jpg?t=1765477279" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3644540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644540/f1b67c5ded88b183c58284aa8f9759d4e854f619/header.jpg?t=1765477279" alt="lunr.rdio.taxi（新規追加）" /></a></p><p>lunr.rdio.taxi blends drifting and rhythm into an exhilarating spacetime &#x27;DRIFTHM&#x27; adventure! Slide and boost your way through the solar system to the beat of Brazil&#x27;s best DJs and earn big as an interplanetary taxi pilot trying to pay an infinite debt in this hypercapitalistic BrazaFunk future.</p><p><a href="https://store.steampowered.com/app/3644540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
