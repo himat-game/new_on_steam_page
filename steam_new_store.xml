@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 15 Dec 2025 15:22:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 16:27:15 +0000</lastBuildDate>
+<item>
+  <title>St. Agony&#x27;s Rest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4117040/</link>
+  <guid isPermaLink="false">steam-store-published-4117040</guid>
+  <pubDate>Mon, 15 Dec 2025 16:27:15 +0000</pubDate>
+  <description>A first-person psychological horror game where you guide an elderly patient in her wheelchair through supernatural threats. Manage her medications, use her reactions to detect invisible entities, and rely on her guidance to survive encounters in this unique cooperative caretaking horror experience.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117040/b6f241321a559e55fd84ce62fefd3525a5269ecd/header.jpg?t=1765814618" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117040/b6f241321a559e55fd84ce62fefd3525a5269ecd/header.jpg?t=1765814618" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117040/b6f241321a559e55fd84ce62fefd3525a5269ecd/header.jpg?t=1765814618" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4117040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117040/b6f241321a559e55fd84ce62fefd3525a5269ecd/header.jpg?t=1765814618" alt="St. Agony&#x27;s Rest（新規追加）" /></a></p><p>A first-person psychological horror game where you guide an elderly patient in her wheelchair through supernatural threats. Manage her medications, use her reactions to detect invisible entities, and rely on her guidance to survive encounters in this unique cooperative caretaking horror experience.</p><p><a href="https://store.steampowered.com/app/4117040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Don&#x27;t press X to free the pirate!（新規追加）</title>
   <link>https://store.steampowered.com/app/4236380/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244150/09b61f76320493b36ddf2ff2bec906dfee0d2cee/header.jpg?t=1765445030" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244150/09b61f76320493b36ddf2ff2bec906dfee0d2cee/header.jpg?t=1765445030" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4244150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244150/09b61f76320493b36ddf2ff2bec906dfee0d2cee/header.jpg?t=1765445030" alt="True Christ（新規追加）" /></a></p><p>Experience the life of Jesus in True Christ, a faith-based simulation-adventure where you manage hunger, stamina, and health, explore biblical environments, climb, swim, collect items, use tools, and guide others in a family-friendly, story-driven journey.</p><p><a href="https://store.steampowered.com/app/4244150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Interdependent View-Dimension: Zena（新規追加）</title>
-  <link>https://store.steampowered.com/app/4154270/</link>
-  <guid isPermaLink="false">steam-store-published-4154270</guid>
-  <pubDate>Thu, 11 Dec 2025 09:51:45 +0000</pubDate>
-  <description>Meet Zena—your new 3D anime desktop buddy! Just leave the game running to collect free in-game rewards, and use them to dress her up, unlock cute expressions, or give her gifts to level up your bond! Psst… more fun interactive moments with Zena are on the way—keep an eye out!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154270/e4374852ce5556f25cadf93d7a8585a23ea5752d/header.jpg?t=1765445794" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154270/e4374852ce5556f25cadf93d7a8585a23ea5752d/header.jpg?t=1765445794" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154270/e4374852ce5556f25cadf93d7a8585a23ea5752d/header.jpg?t=1765445794" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4154270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154270/e4374852ce5556f25cadf93d7a8585a23ea5752d/header.jpg?t=1765445794" alt="The Interdependent View-Dimension: Zena（新規追加）" /></a></p><p>Meet Zena—your new 3D anime desktop buddy! Just leave the game running to collect free in-game rewards, and use them to dress her up, unlock cute expressions, or give her gifts to level up your bond! Psst… more fun interactive moments with Zena are on the way—keep an eye out!</p><p><a href="https://store.steampowered.com/app/4154270/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
