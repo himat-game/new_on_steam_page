@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Dec 2025 23:46:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 01:25:37 +0000</lastBuildDate>
+<item>
+  <title>Breathe of the Abyss（新規追加）</title>
+  <link>https://store.steampowered.com/app/4144730/</link>
+  <guid isPermaLink="false">steam-store-published-4144730</guid>
+  <pubDate>Mon, 15 Dec 2025 01:25:37 +0000</pubDate>
+  <description>A short first-person psychological horror game about repeatedly descending into the same stretch of ocean. Each dive reveals new anomalies and fragmented memories as you search for the truth hidden beneath the waves.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144730/09017c44dd2e2c0e49106ed144bd99dd8a1f96ba/header.jpg?t=1765758009" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144730/09017c44dd2e2c0e49106ed144bd99dd8a1f96ba/header.jpg?t=1765758009" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144730/09017c44dd2e2c0e49106ed144bd99dd8a1f96ba/header.jpg?t=1765758009" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4144730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144730/09017c44dd2e2c0e49106ed144bd99dd8a1f96ba/header.jpg?t=1765758009" alt="Breathe of the Abyss（新規追加）" /></a></p><p>A short first-person psychological horror game about repeatedly descending into the same stretch of ocean. Each dive reveals new anomalies and fragmented memories as you search for the truth hidden beneath the waves.</p><p><a href="https://store.steampowered.com/app/4144730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Make it! Kushikatsu（新規追加）</title>
   <link>https://store.steampowered.com/app/4249660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135810/447d46b0c46ea43557e50eb6cef756c8850744f1/header.jpg?t=1765419914" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135810/447d46b0c46ea43557e50eb6cef756c8850744f1/header.jpg?t=1765419914" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4135810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135810/447d46b0c46ea43557e50eb6cef756c8850744f1/header.jpg?t=1765419914" alt="Monster Lily（新規追加）" /></a></p><p>A Highly Tactical ASCII Roguelike with unique and often surprising mechanics. Explore Hanwu Divinity College and uncover its secrets.</p><p><a href="https://store.steampowered.com/app/4135810/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>LostVein:The Sunken Vestige（新規追加）</title>
-  <link>https://store.steampowered.com/app/4209600/</link>
-  <guid isPermaLink="false">steam-store-published-4209600</guid>
-  <pubDate>Thu, 11 Dec 2025 03:14:44 +0000</pubDate>
-  <description>A third-person action-adventure game focused on exploration and flexible playstyles. As a novice adventurer, you explore ruins, visit towns, gather materials, and craft through alchemy. After a sudden link to the mysterious Vestige, you journey across the land to uncover its secrets.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209600/b0cf9597ca03cdbbb6f777508a3c1a1360fd933e/header.jpg?t=1765417357" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209600/b0cf9597ca03cdbbb6f777508a3c1a1360fd933e/header.jpg?t=1765417357" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209600/b0cf9597ca03cdbbb6f777508a3c1a1360fd933e/header.jpg?t=1765417357" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4209600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209600/b0cf9597ca03cdbbb6f777508a3c1a1360fd933e/header.jpg?t=1765417357" alt="LostVein:The Sunken Vestige（新規追加）" /></a></p><p>A third-person action-adventure game focused on exploration and flexible playstyles. As a novice adventurer, you explore ruins, visit towns, gather materials, and craft through alchemy. After a sudden link to the mysterious Vestige, you journey across the land to uncover its secrets.</p><p><a href="https://store.steampowered.com/app/4209600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
