@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 16 Dec 2025 18:57:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 19:22:39 +0000</lastBuildDate>
+<item>
+  <title>Dead Fantasia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4160780/</link>
+  <guid isPermaLink="false">steam-store-published-4160780</guid>
+  <pubDate>Tue, 16 Dec 2025 19:22:39 +0000</pubDate>
+  <description>Dead Fantasia is a non-linear ARPG which brings forgotten game design of Kings Field to a modern audience. Explore interconnected levels, gather loot, and face challenging foes.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160780/9001000772c1dbece131ce6bfd0c8356413f0d72/header.jpg?t=1765912869" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160780/9001000772c1dbece131ce6bfd0c8356413f0d72/header.jpg?t=1765912869" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160780/9001000772c1dbece131ce6bfd0c8356413f0d72/header.jpg?t=1765912869" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4160780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160780/9001000772c1dbece131ce6bfd0c8356413f0d72/header.jpg?t=1765912869" alt="Dead Fantasia（新規追加）" /></a></p><p>Dead Fantasia is a non-linear ARPG which brings forgotten game design of Kings Field to a modern audience. Explore interconnected levels, gather loot, and face challenging foes.</p><p><a href="https://store.steampowered.com/app/4160780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Surviving Magic Academy as a Demon Lord（新規追加）</title>
   <link>https://store.steampowered.com/app/4245840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232750/d7969d2725fdef30f8f883f1cad0bd02bcf67131/header.jpg?t=1765544866" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232750/d7969d2725fdef30f8f883f1cad0bd02bcf67131/header.jpg?t=1765544866" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232750/d7969d2725fdef30f8f883f1cad0bd02bcf67131/header.jpg?t=1765544866" alt="Socket（新規追加）" /></a></p><p>Burnout. We all burn out. We sacrifice ourselves on the altar of success. And you will do the same. This will be your own first-person psychological horror. Humiliate yourself, suffer from guilt, get your hands dirty.</p><p><a href="https://store.steampowered.com/app/4232750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tracebound（新規追加）</title>
-  <link>https://store.steampowered.com/app/4240440/</link>
-  <guid isPermaLink="false">steam-store-published-4240440</guid>
-  <pubDate>Fri, 12 Dec 2025 12:38:19 +0000</pubDate>
-  <description>Tracebound is an atmospheric, fast paced, ice skating game. Slide and leap across the giant’s colossal body, shattering its shackles to restore nature’s movement.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240440/7b22f3e39ed2df6d9099c4de4ecd1f520e4e41ae/header.jpg?t=1765542883" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240440/7b22f3e39ed2df6d9099c4de4ecd1f520e4e41ae/header.jpg?t=1765542883" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240440/7b22f3e39ed2df6d9099c4de4ecd1f520e4e41ae/header.jpg?t=1765542883" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4240440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240440/7b22f3e39ed2df6d9099c4de4ecd1f520e4e41ae/header.jpg?t=1765542883" alt="Tracebound（新規追加）" /></a></p><p>Tracebound is an atmospheric, fast paced, ice skating game. Slide and leap across the giant’s colossal body, shattering its shackles to restore nature’s movement.</p><p><a href="https://store.steampowered.com/app/4240440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
