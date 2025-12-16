@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 16 Dec 2025 13:58:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Dec 2025 14:29:41 +0000</lastBuildDate>
+<item>
+  <title>Follow Us（新規追加）</title>
+  <link>https://store.steampowered.com/app/3014580/</link>
+  <guid isPermaLink="false">steam-store-published-3014580</guid>
+  <pubDate>Tue, 16 Dec 2025 14:29:41 +0000</pubDate>
+  <description>A co-op horror game for 2 players, where you risk your life outside to entertain a world that never leaves home. On Follow Us, contestants work in pairs: one explores, the other guides. Trust is your lifeline.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014580/25e4042a996ce4f06d1bca50b3cf5fa36859d07d/header.jpg?t=1765894913" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014580/25e4042a996ce4f06d1bca50b3cf5fa36859d07d/header.jpg?t=1765894913" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014580/25e4042a996ce4f06d1bca50b3cf5fa36859d07d/header.jpg?t=1765894913" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3014580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014580/25e4042a996ce4f06d1bca50b3cf5fa36859d07d/header.jpg?t=1765894913" alt="Follow Us（新規追加）" /></a></p><p>A co-op horror game for 2 players, where you risk your life outside to entertain a world that never leaves home. On Follow Us, contestants work in pairs: one explores, the other guides. Trust is your lifeline.</p><p><a href="https://store.steampowered.com/app/3014580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Coco Block（新規追加）</title>
   <link>https://store.steampowered.com/app/3796030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418720/cfe5b4f339705c4b7839d21a69d0c9ffb700c49b/header.jpg?t=1765516465" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418720/cfe5b4f339705c4b7839d21a69d0c9ffb700c49b/header.jpg?t=1765516465" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3418720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418720/cfe5b4f339705c4b7839d21a69d0c9ffb700c49b/header.jpg?t=1765516465" alt="禁地直播（新規追加）" /></a></p><p>This is a live-action suspense puzzle game where you will be embroiled in a decade-old unsolved case. The interlocking plot branches reveal the hidden shocking truth through reasoning and interaction. Brain-burning puzzles, multi-scene plot branches, and each level is full of unknown challenges!</p><p><a href="https://store.steampowered.com/app/3418720/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Easy Money（新規追加）</title>
-  <link>https://store.steampowered.com/app/4221530/</link>
-  <guid isPermaLink="false">steam-store-published-4221530</guid>
-  <pubDate>Fri, 12 Dec 2025 05:19:25 +0000</pubDate>
-  <description>Easy Money is a candid, first-person game about Emily, a student who finds herself at a financial impasse. With two semesters of unpaid tuition, the dean threatens to expel her but offers a deal that will determine her future at the university.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221530/4421dbe53508d21d98a86897abe2de59418bca56/header.jpg?t=1765515226" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221530/4421dbe53508d21d98a86897abe2de59418bca56/header.jpg?t=1765515226" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221530/4421dbe53508d21d98a86897abe2de59418bca56/header.jpg?t=1765515226" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221530/4421dbe53508d21d98a86897abe2de59418bca56/header.jpg?t=1765515226" alt="Easy Money（新規追加）" /></a></p><p>Easy Money is a candid, first-person game about Emily, a student who finds herself at a financial impasse. With two semesters of unpaid tuition, the dean threatens to expel her but offers a deal that will determine her future at the university.</p><p><a href="https://store.steampowered.com/app/4221530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
