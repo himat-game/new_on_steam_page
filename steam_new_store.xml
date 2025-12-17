@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Dec 2025 13:22:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 13:54:21 +0000</lastBuildDate>
+<item>
+  <title>Sprint City（新規追加）</title>
+  <link>https://store.steampowered.com/app/4191250/</link>
+  <guid isPermaLink="false">steam-store-published-4191250</guid>
+  <pubDate>Wed, 17 Dec 2025 13:54:21 +0000</pubDate>
+  <description>Sprint City is a shared world, competitive 2D platformer from the original creators of SpeedRunners. It’s all about fast movement, tight controls, and the constant fear that someone behind you just found a shortcut you didn’t know about.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191250/6ec890063a2df25f40b6fd7e92305a782d164cce/header.jpg?t=1765979101" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191250/6ec890063a2df25f40b6fd7e92305a782d164cce/header.jpg?t=1765979101" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191250/6ec890063a2df25f40b6fd7e92305a782d164cce/header.jpg?t=1765979101" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4191250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191250/6ec890063a2df25f40b6fd7e92305a782d164cce/header.jpg?t=1765979101" alt="Sprint City（新規追加）" /></a></p><p>Sprint City is a shared world, competitive 2D platformer from the original creators of SpeedRunners. It’s all about fast movement, tight controls, and the constant fear that someone behind you just found a shortcut you didn’t know about.</p><p><a href="https://store.steampowered.com/app/4191250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>City of Oaths（新規追加）</title>
   <link>https://store.steampowered.com/app/4253870/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241840/2c5e0b4b47efdd4a351069af77407a99910bbdfb/header.jpg?t=1765659969" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241840/2c5e0b4b47efdd4a351069af77407a99910bbdfb/header.jpg?t=1765659969" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241840/2c5e0b4b47efdd4a351069af77407a99910bbdfb/header.jpg?t=1765659969" alt="Sporbs（新規追加）" /></a></p><p>A relaxing, short incremental game where you harvest Orbs from newly discovered alien organisms. Upgrade your extraction technology, manage resources, and unlock new areas to maximise your yield.</p><p><a href="https://store.steampowered.com/app/4241840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RogueDiceR（新規追加）</title>
-  <link>https://store.steampowered.com/app/3636060/</link>
-  <guid isPermaLink="false">steam-store-published-3636060</guid>
-  <pubDate>Sat, 13 Dec 2025 21:44:50 +0000</pubDate>
-  <description>RogueDiceR is a Roguelite Dice-builder. Buy randomly generated dice and modify their values. Attach stickers to grant special effects or strengthen your dice deck with powerful artifacts. Fight your way through randomly generated dungeons filled with monsters, events and bosses.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636060/ffe90f2037c885fe1a2754ed9bc7d90ba4dc5d39/header.jpg?t=1765659142" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636060/ffe90f2037c885fe1a2754ed9bc7d90ba4dc5d39/header.jpg?t=1765659142" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636060/ffe90f2037c885fe1a2754ed9bc7d90ba4dc5d39/header.jpg?t=1765659142" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3636060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636060/ffe90f2037c885fe1a2754ed9bc7d90ba4dc5d39/header.jpg?t=1765659142" alt="RogueDiceR（新規追加）" /></a></p><p>RogueDiceR is a Roguelite Dice-builder. Buy randomly generated dice and modify their values. Attach stickers to grant special effects or strengthen your dice deck with powerful artifacts. Fight your way through randomly generated dungeons filled with monsters, events and bosses.</p><p><a href="https://store.steampowered.com/app/3636060/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
