@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Dec 2025 07:27:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 07:48:16 +0000</lastBuildDate>
+<item>
+  <title>Weather Dragger（新規追加）</title>
+  <link>https://store.steampowered.com/app/4254840/</link>
+  <guid isPermaLink="false">steam-store-published-4254840</guid>
+  <pubDate>Wed, 17 Dec 2025 07:48:16 +0000</pubDate>
+  <description>A chill strategy game about dragging weather across a dynamic, ever-shifting world to keep everything in balance. Shape clouds, sunshine, and storms as your map grows, challenges rise, and new possibilities open up each run.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254840/ec723467585ad80e2bf85fb558c83952c6a4478a/header.jpg?t=1765956889" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254840/ec723467585ad80e2bf85fb558c83952c6a4478a/header.jpg?t=1765956889" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254840/ec723467585ad80e2bf85fb558c83952c6a4478a/header.jpg?t=1765956889" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254840/ec723467585ad80e2bf85fb558c83952c6a4478a/header.jpg?t=1765956889" alt="Weather Dragger（新規追加）" /></a></p><p>A chill strategy game about dragging weather across a dynamic, ever-shifting world to keep everything in balance. Shape clouds, sunshine, and storms as your map grows, challenges rise, and new possibilities open up each run.</p><p><a href="https://store.steampowered.com/app/4254840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>HUNTACORE（新規追加）</title>
+  <link>https://store.steampowered.com/app/3603640/</link>
+  <guid isPermaLink="false">steam-store-published-3603640</guid>
+  <pubDate>Wed, 17 Dec 2025 07:48:16 +0000</pubDate>
+  <description>HUNTACORE is a dark, action-driven first-person shooter set in a world consumed by mutation. Enter hostile zones, face relentless threats, secure critical resources, and extract before the city claims you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603640/f841ce8d6c6b2f7a98bbdc790f59aaa694c4ff2e/header.jpg?t=1765956416" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603640/f841ce8d6c6b2f7a98bbdc790f59aaa694c4ff2e/header.jpg?t=1765956416" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603640/f841ce8d6c6b2f7a98bbdc790f59aaa694c4ff2e/header.jpg?t=1765956416" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3603640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3603640/f841ce8d6c6b2f7a98bbdc790f59aaa694c4ff2e/header.jpg?t=1765956416" alt="HUNTACORE（新規追加）" /></a></p><p>HUNTACORE is a dark, action-driven first-person shooter set in a world consumed by mutation. Enter hostile zones, face relentless threats, secure critical resources, and extract before the city claims you.</p><p><a href="https://store.steampowered.com/app/3603640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sol and Mani the Artifact （新規追加）</title>
   <link>https://store.steampowered.com/app/4197020/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241170/b887e8386682b869d3b625b3e0d31b10083d407e/header.jpg?t=1765603777" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241170/b887e8386682b869d3b625b3e0d31b10083d407e/header.jpg?t=1765603777" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241170/b887e8386682b869d3b625b3e0d31b10083d407e/header.jpg?t=1765603777" alt="The Herzbury Curse（新規追加）" /></a></p><p>A cruel twist of fate lets Annalie and Archibald stumble into Herzbury, a cursed and long fallen castle. Now separated, it is upon Annalie to save her beloved brother. A potentially deadly adventure, filled with puzzles and whimsical characters.</p><p><a href="https://store.steampowered.com/app/4241170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Command.Override（新規追加）</title>
-  <link>https://store.steampowered.com/app/4198680/</link>
-  <guid isPermaLink="false">steam-store-published-4198680</guid>
-  <pubDate>Sat, 13 Dec 2025 05:51:53 +0000</pubDate>
-  <description>A Real Time Tactics game. An AI with a directive that backfired horribly has made robots to wipe humanity out. In response, humanity built their own robots to fight back. By hacking the robots, you&#x27;ll sabotage the enemy and boost your allies to turn the tide of battle in humanity&#x27;s favor.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198680/8973b96294a3c7f694ed5d7131e2587077be4a59/header.jpg?t=1765604759" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198680/8973b96294a3c7f694ed5d7131e2587077be4a59/header.jpg?t=1765604759" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198680/8973b96294a3c7f694ed5d7131e2587077be4a59/header.jpg?t=1765604759" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4198680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198680/8973b96294a3c7f694ed5d7131e2587077be4a59/header.jpg?t=1765604759" alt="Command.Override（新規追加）" /></a></p><p>A Real Time Tactics game. An AI with a directive that backfired horribly has made robots to wipe humanity out. In response, humanity built their own robots to fight back. By hacking the robots, you&#x27;ll sabotage the enemy and boost your allies to turn the tide of battle in humanity&#x27;s favor.</p><p><a href="https://store.steampowered.com/app/4198680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sweet GYM2（新規追加）</title>
-  <link>https://store.steampowered.com/app/4246670/</link>
-  <guid isPermaLink="false">steam-store-published-4246670</guid>
-  <pubDate>Sat, 13 Dec 2025 05:51:53 +0000</pubDate>
-  <description>Sweet GYM2 - A simple and beautiful jigsaw puzzle game themed around a gym. It depicts the daily lives of five pretty and cute fitness girls, accompanied by relaxing music. After completing a level, you can view the girls&#x27; photos in the gallery.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246670/08d9bd787fb5cbec6ef0c8b7068428f675e74610/header.jpg?t=1765605056" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246670/08d9bd787fb5cbec6ef0c8b7068428f675e74610/header.jpg?t=1765605056" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246670/08d9bd787fb5cbec6ef0c8b7068428f675e74610/header.jpg?t=1765605056" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246670/08d9bd787fb5cbec6ef0c8b7068428f675e74610/header.jpg?t=1765605056" alt="Sweet GYM2（新規追加）" /></a></p><p>Sweet GYM2 - A simple and beautiful jigsaw puzzle game themed around a gym. It depicts the daily lives of five pretty and cute fitness girls, accompanied by relaxing music. After completing a level, you can view the girls&#x27; photos in the gallery.</p><p><a href="https://store.steampowered.com/app/4246670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
