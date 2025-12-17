@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 17 Dec 2025 09:34:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 10:21:39 +0000</lastBuildDate>
+<item>
+  <title>Gifts, Please（新規追加）</title>
+  <link>https://store.steampowered.com/app/3841400/</link>
+  <guid isPermaLink="false">steam-store-published-3841400</guid>
+  <pubDate>Wed, 17 Dec 2025 10:21:39 +0000</pubDate>
+  <description>Elf Controller, the Christmas fates are in your hands! Review the documents, uncover the tricksters, and give gifts only to the deserving. Your decision determines whether a child gets a celebration or just a lump of coal. This is your responsibility and your magic. Merry Christmas!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841400/ac32413b2b1c69ebe321723db59fed5dc8f53cd8/header.jpg?t=1765965694" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841400/ac32413b2b1c69ebe321723db59fed5dc8f53cd8/header.jpg?t=1765965694" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841400/ac32413b2b1c69ebe321723db59fed5dc8f53cd8/header.jpg?t=1765965694" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3841400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841400/ac32413b2b1c69ebe321723db59fed5dc8f53cd8/header.jpg?t=1765965694" alt="Gifts, Please（新規追加）" /></a></p><p>Elf Controller, the Christmas fates are in your hands! Review the documents, uncover the tricksters, and give gifts only to the deserving. Your decision determines whether a child gets a celebration or just a lump of coal. This is your responsibility and your magic. Merry Christmas!</p><p><a href="https://store.steampowered.com/app/3841400/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dungeon For Bosses（新規追加）</title>
   <link>https://store.steampowered.com/app/4237590/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241070/2c2383527e89978309e286f1fb199e12b05a1b1d/header.jpg?t=1765621848" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241070/2c2383527e89978309e286f1fb199e12b05a1b1d/header.jpg?t=1765621848" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241070/2c2383527e89978309e286f1fb199e12b05a1b1d/header.jpg?t=1765621848" alt="GlowBorn光裔（新規追加）" /></a></p><p>Become a tiny firefly in an endless night, switching red, blue and green light to fight monsters, cross deadly swamps and heal a dying forest in a gentle puzzle platformer about hope and courage.</p><p><a href="https://store.steampowered.com/app/4241070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ars Mechanica（新規追加）</title>
-  <link>https://store.steampowered.com/app/4223200/</link>
-  <guid isPermaLink="false">steam-store-published-4223200</guid>
-  <pubDate>Sat, 13 Dec 2025 10:17:30 +0000</pubDate>
-  <description>A PvE idle strategy game where auto-battles unfold on a 10×5 grid battlefield. Customize and position your humanoid mechanical soldiers, defeat the enemies that stand in your way, and build the strongest mechanized army.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223200/eef1a09ff1a98778af6aed16610d9a533894a417/header.jpg?t=1765620038" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223200/eef1a09ff1a98778af6aed16610d9a533894a417/header.jpg?t=1765620038" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223200/eef1a09ff1a98778af6aed16610d9a533894a417/header.jpg?t=1765620038" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4223200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223200/eef1a09ff1a98778af6aed16610d9a533894a417/header.jpg?t=1765620038" alt="Ars Mechanica（新規追加）" /></a></p><p>A PvE idle strategy game where auto-battles unfold on a 10×5 grid battlefield. Customize and position your humanoid mechanical soldiers, defeat the enemies that stand in your way, and build the strongest mechanized army.</p><p><a href="https://store.steampowered.com/app/4223200/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
