@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Dec 2025 19:20:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 19:45:23 +0000</lastBuildDate>
+<item>
+  <title>Milkraid（新規追加）</title>
+  <link>https://store.steampowered.com/app/4176230/</link>
+  <guid isPermaLink="false">steam-store-published-4176230</guid>
+  <pubDate>Thu, 18 Dec 2025 19:45:23 +0000</pubDate>
+  <description>Defend the milk at all costs! Place towers, build your base, recruit minions, and battle endless swarms of enemies. Unlock new towers, characters and base upgrades, and upgrade them to create ridiculous builds. Every run is unique.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176230/58270ce26ad691cd86ebe37abbb0ef078c836ce6/header.jpg?t=1766086113" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176230/58270ce26ad691cd86ebe37abbb0ef078c836ce6/header.jpg?t=1766086113" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176230/58270ce26ad691cd86ebe37abbb0ef078c836ce6/header.jpg?t=1766086113" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4176230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176230/58270ce26ad691cd86ebe37abbb0ef078c836ce6/header.jpg?t=1766086113" alt="Milkraid（新規追加）" /></a></p><p>Defend the milk at all costs! Place towers, build your base, recruit minions, and battle endless swarms of enemies. Unlock new towers, characters and base upgrades, and upgrade them to create ridiculous builds. Every run is unique.</p><p><a href="https://store.steampowered.com/app/4176230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lumia and the Eternal Tower（新規追加）</title>
   <link>https://store.steampowered.com/app/4245010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134600/a6d2dc45cc452e230165faa2dc268bb2a23d1a89/header.jpg?t=1765888936" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134600/a6d2dc45cc452e230165faa2dc268bb2a23d1a89/header.jpg?t=1765888936" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4134600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134600/a6d2dc45cc452e230165faa2dc268bb2a23d1a89/header.jpg?t=1765888936" alt="EverRail（新規追加）" /></a></p><p>Move or freeze! EverRail is an open world survival craft odyssey set in a frozen procedural wasteland. Ride the rails! Glide through the air! Brave the cold on foot! Single- and up to 4 Player Co-Op.</p><p><a href="https://store.steampowered.com/app/4134600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bones and Coins（新規追加）</title>
-  <link>https://store.steampowered.com/app/4134650/</link>
-  <guid isPermaLink="false">steam-store-published-4134650</guid>
-  <pubDate>Tue, 16 Dec 2025 13:25:25 +0000</pubDate>
-  <description>Incremental dungeon crawler where you loot various coins and items. Build a synergized hero party, unlock weapons with unique attack styles. Explore new dungeon rooms filled with new enemies and drops.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134650/1838499427be21225d1c38f437c970ba83aeb50a/header.jpg?t=1765891134" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134650/1838499427be21225d1c38f437c970ba83aeb50a/header.jpg?t=1765891134" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134650/1838499427be21225d1c38f437c970ba83aeb50a/header.jpg?t=1765891134" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4134650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134650/1838499427be21225d1c38f437c970ba83aeb50a/header.jpg?t=1765891134" alt="Bones and Coins（新規追加）" /></a></p><p>Incremental dungeon crawler where you loot various coins and items. Build a synergized hero party, unlock weapons with unique attack styles. Explore new dungeon rooms filled with new enemies and drops.</p><p><a href="https://store.steampowered.com/app/4134650/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
