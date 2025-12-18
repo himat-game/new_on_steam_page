@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Dec 2025 05:51:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 06:28:53 +0000</lastBuildDate>
+<item>
+  <title>Sandnight Hill Revelation（新規追加）</title>
+  <link>https://store.steampowered.com/app/4157190/</link>
+  <guid isPermaLink="false">steam-store-published-4157190</guid>
+  <pubDate>Thu, 18 Dec 2025 06:28:53 +0000</pubDate>
+  <description>In order to find her runaway cat,a girl ventures into the deep mountains where monsters roam. However, this mountain hides the truth of the world. By collecting the journals of lost wanderers who entered the Black Forest, she gradually approaches that truth. What, indeed, awaits her ahead...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157190/820b30e0c06cb33a0fba604b9184433f824b3a88/header.jpg?t=1766038668" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157190/820b30e0c06cb33a0fba604b9184433f824b3a88/header.jpg?t=1766038668" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157190/820b30e0c06cb33a0fba604b9184433f824b3a88/header.jpg?t=1766038668" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4157190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157190/820b30e0c06cb33a0fba604b9184433f824b3a88/header.jpg?t=1766038668" alt="Sandnight Hill Revelation（新規追加）" /></a></p><p>In order to find her runaway cat,a girl ventures into the deep mountains where monsters roam. However, this mountain hides the truth of the world. By collecting the journals of lost wanderers who entered the Black Forest, she gradually approaches that truth. What, indeed, awaits her ahead...</p><p><a href="https://store.steampowered.com/app/4157190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bottle It!: Beverage Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4260090/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212030/99cf0651b69d44aa981cedf1cf05df2438548162/header.jpg?t=1765834198" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212030/99cf0651b69d44aa981cedf1cf05df2438548162/header.jpg?t=1765834198" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4212030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212030/99cf0651b69d44aa981cedf1cf05df2438548162/header.jpg?t=1765834198" alt="True Galactic Mission（新規追加）" /></a></p><p>There are 5 pilots in training, each with unique characteristics. It is the day of the final level and everyone wil l face a test to see who will be able to accept the next challenge, a true galactic mission. Be you one of the selecteds!</p><p><a href="https://store.steampowered.com/app/4212030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Amyria（新規追加）</title>
-  <link>https://store.steampowered.com/app/4158980/</link>
-  <guid isPermaLink="false">steam-store-published-4158980</guid>
-  <pubDate>Mon, 15 Dec 2025 21:48:41 +0000</pubDate>
-  <description>A fully simulated action RPG where every character has a story, and your actions have real consequences. Factions rise and fall, loyalties shift, and the world evolves with or without you. Play solo or with friends.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158980/7dae1b36c132a7f7fbe7f045513779c6f3f8a203/header.jpg?t=1765834109" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158980/7dae1b36c132a7f7fbe7f045513779c6f3f8a203/header.jpg?t=1765834109" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158980/7dae1b36c132a7f7fbe7f045513779c6f3f8a203/header.jpg?t=1765834109" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4158980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158980/7dae1b36c132a7f7fbe7f045513779c6f3f8a203/header.jpg?t=1765834109" alt="Amyria（新規追加）" /></a></p><p>A fully simulated action RPG where every character has a story, and your actions have real consequences. Factions rise and fall, loyalties shift, and the world evolves with or without you. Play solo or with friends.</p><p><a href="https://store.steampowered.com/app/4158980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
