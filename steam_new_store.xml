@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Dec 2025 07:47:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 08:26:54 +0000</lastBuildDate>
+<item>
+  <title>MAZELOVE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4257300/</link>
+  <guid isPermaLink="false">steam-store-published-4257300</guid>
+  <pubDate>Thu, 18 Dec 2025 08:26:54 +0000</pubDate>
+  <description>Henry wakes up after an accident with no memories and returns home to find his wife, but instead discovers the truth he locked away years ago.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257300/38450df16681a88ca515203d38df5b5bcdf4fc00/header.jpg?t=1766045008" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257300/38450df16681a88ca515203d38df5b5bcdf4fc00/header.jpg?t=1766045008" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257300/38450df16681a88ca515203d38df5b5bcdf4fc00/header.jpg?t=1766045008" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4257300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257300/38450df16681a88ca515203d38df5b5bcdf4fc00/header.jpg?t=1766045008" alt="MAZELOVE（新規追加）" /></a></p><p>Henry wakes up after an accident with no memories and returns home to find his wife, but instead discovers the truth he locked away years ago.</p><p><a href="https://store.steampowered.com/app/4257300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BugoPhobia（新規追加）</title>
   <link>https://store.steampowered.com/app/4215620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224950/b721d8be957b1c8c349ee85c16769bc3b9313fb4/header.jpg?t=1765838414" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224950/b721d8be957b1c8c349ee85c16769bc3b9313fb4/header.jpg?t=1765838414" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224950/b721d8be957b1c8c349ee85c16769bc3b9313fb4/header.jpg?t=1765838414" alt="TonoTone（新規追加）" /></a></p><p>TonoTone is a built-for-VR cockpit style modular synthesizer. Using in-game waveform generation, learn to create dynamic melodies, polyrhythms, and complex compositions.</p><p><a href="https://store.steampowered.com/app/4224950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ふしぎな雨（新規追加）</title>
-  <link>https://store.steampowered.com/app/4250700/</link>
-  <guid isPermaLink="false">steam-store-published-4250700</guid>
-  <pubDate>Mon, 15 Dec 2025 22:17:51 +0000</pubDate>
-  <description>The story of a girl tossed about in a world where letters rain down.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250700/85a46e2905c838c693250fad7f52e6c87a5a5dbd/header.jpg?t=1765836882" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250700/85a46e2905c838c693250fad7f52e6c87a5a5dbd/header.jpg?t=1765836882" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250700/85a46e2905c838c693250fad7f52e6c87a5a5dbd/header.jpg?t=1765836882" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4250700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250700/85a46e2905c838c693250fad7f52e6c87a5a5dbd/header.jpg?t=1765836882" alt="ふしぎな雨（新規追加）" /></a></p><p>The story of a girl tossed about in a world where letters rain down.</p><p><a href="https://store.steampowered.com/app/4250700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
