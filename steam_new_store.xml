@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Dec 2025 05:27:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 05:51:28 +0000</lastBuildDate>
+<item>
+  <title>Bottle It!: Beverage Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4260090/</link>
+  <guid isPermaLink="false">steam-store-published-4260090</guid>
+  <pubDate>Thu, 18 Dec 2025 05:51:28 +0000</pubDate>
+  <description>Create unique drinks by experimenting with ingredients, learn from customer feedback, and grow your business from a small stand into a thriving beverage empire in this flavorful simulation game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260090/da3739b97bf5533ed77738dd1521ba9141111298/header.jpg?t=1766036303" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260090/da3739b97bf5533ed77738dd1521ba9141111298/header.jpg?t=1766036303" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260090/da3739b97bf5533ed77738dd1521ba9141111298/header.jpg?t=1766036303" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260090/da3739b97bf5533ed77738dd1521ba9141111298/header.jpg?t=1766036303" alt="Bottle It!: Beverage Simulator（新規追加）" /></a></p><p>Create unique drinks by experimenting with ingredients, learn from customer feedback, and grow your business from a small stand into a thriving beverage empire in this flavorful simulation game.</p><p><a href="https://store.steampowered.com/app/4260090/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mancer: Prelude（新規追加）</title>
   <link>https://store.steampowered.com/app/4189990/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158980/7dae1b36c132a7f7fbe7f045513779c6f3f8a203/header.jpg?t=1765834109" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158980/7dae1b36c132a7f7fbe7f045513779c6f3f8a203/header.jpg?t=1765834109" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4158980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158980/7dae1b36c132a7f7fbe7f045513779c6f3f8a203/header.jpg?t=1765834109" alt="Amyria（新規追加）" /></a></p><p>A fully simulated action RPG where every character has a story, and your actions have real consequences. Factions rise and fall, loyalties shift, and the world evolves with or without you. Play solo or with friends.</p><p><a href="https://store.steampowered.com/app/4158980/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Phantom Void（新規追加）</title>
-  <link>https://store.steampowered.com/app/3900670/</link>
-  <guid isPermaLink="false">steam-store-published-3900670</guid>
-  <pubDate>Mon, 15 Dec 2025 21:48:41 +0000</pubDate>
-  <description>Possess enemies, steal their powers, and shape your evolution in a cinematic sci-fi horror set in a collapsing dystopian world. Build your strength through a deep skill tree and physics-based combat.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900670/df2ecc2c3d6411f1b124f90cc7c151ebee9e9caf/header.jpg?t=1765834445" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900670/df2ecc2c3d6411f1b124f90cc7c151ebee9e9caf/header.jpg?t=1765834445" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900670/df2ecc2c3d6411f1b124f90cc7c151ebee9e9caf/header.jpg?t=1765834445" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3900670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900670/df2ecc2c3d6411f1b124f90cc7c151ebee9e9caf/header.jpg?t=1765834445" alt="Phantom Void（新規追加）" /></a></p><p>Possess enemies, steal their powers, and shape your evolution in a cinematic sci-fi horror set in a collapsing dystopian world. Build your strength through a deep skill tree and physics-based combat.</p><p><a href="https://store.steampowered.com/app/3900670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
