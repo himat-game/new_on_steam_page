@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Dec 2025 15:20:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 15:41:41 +0000</lastBuildDate>
+<item>
+  <title>Fish Box（新規追加）</title>
+  <link>https://store.steampowered.com/app/4081970/</link>
+  <guid isPermaLink="false">steam-store-published-4081970</guid>
+  <pubDate>Thu, 18 Dec 2025 15:41:41 +0000</pubDate>
+  <description>Sail through the beautiful seas on a cute boat and catch a variety of fish. Improve your fishing skills in the ever-deepening waters to catch even more and more diverse fish.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081970/b743c42a0411f4ac808b5965e27dbc3b6d87e63c/header.jpg?t=1766071213" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081970/b743c42a0411f4ac808b5965e27dbc3b6d87e63c/header.jpg?t=1766071213" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081970/b743c42a0411f4ac808b5965e27dbc3b6d87e63c/header.jpg?t=1766071213" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4081970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081970/b743c42a0411f4ac808b5965e27dbc3b6d87e63c/header.jpg?t=1766071213" alt="Fish Box（新規追加）" /></a></p><p>Sail through the beautiful seas on a cute boat and catch a variety of fish. Improve your fishing skills in the ever-deepening waters to catch even more and more diverse fish.</p><p><a href="https://store.steampowered.com/app/4081970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Timberveil（新規追加）</title>
   <link>https://store.steampowered.com/app/4060170/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251910/de4bd98105e33420454e192034987b41ac6e211e/header.jpg?t=1765850891" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251910/de4bd98105e33420454e192034987b41ac6e211e/header.jpg?t=1765850891" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251910/de4bd98105e33420454e192034987b41ac6e211e/header.jpg?t=1765850891" alt="Mini WW2 Simulator: Gear and War（新規追加）" /></a></p><p>“Mini WW2 Simulator” is a god-simulation game where you observe or influence nations’ military, economic, technological, and diplomatic paths. Customize WWII unit loadouts, shape resource-based development, and watch countries rise or fall.</p><p><a href="https://store.steampowered.com/app/4251910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chill Beach Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/3879140/</link>
-  <guid isPermaLink="false">steam-store-published-3879140</guid>
-  <pubDate>Tue, 16 Dec 2025 03:13:58 +0000</pubDate>
-  <description>A slow, cozy beach simulator. Watch the ocean, listen to the waves and gently interact with a lone bottle on the shore. No missions, no timers - just a small first-person place to relax and let time pass.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3879140/6b6e6b24ae94c04ff2a56ef9b635af98236fca95/header.jpg?t=1765852219" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3879140/6b6e6b24ae94c04ff2a56ef9b635af98236fca95/header.jpg?t=1765852219" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3879140/6b6e6b24ae94c04ff2a56ef9b635af98236fca95/header.jpg?t=1765852219" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3879140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3879140/6b6e6b24ae94c04ff2a56ef9b635af98236fca95/header.jpg?t=1765852219" alt="Chill Beach Simulator（新規追加）" /></a></p><p>A slow, cozy beach simulator. Watch the ocean, listen to the waves and gently interact with a lone bottle on the shore. No missions, no timers - just a small first-person place to relax and let time pass.</p><p><a href="https://store.steampowered.com/app/3879140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
