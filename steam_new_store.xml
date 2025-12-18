@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Dec 2025 14:26:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 14:53:26 +0000</lastBuildDate>
+<item>
+  <title>Liar’s Line（新規追加）</title>
+  <link>https://store.steampowered.com/app/4194060/</link>
+  <guid isPermaLink="false">steam-store-published-4194060</guid>
+  <pubDate>Thu, 18 Dec 2025 14:53:26 +0000</pubDate>
+  <description>A monster is hunting you from the phone line. A tense detective mystery. Listen to each caller, compare their stories, and expose the liar before you give away your location. One wrong judgment, and it comes to your door.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4194060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" alt="Liar’s Line（新規追加）" /></a></p><p>A monster is hunting you from the phone line. A tense detective mystery. Listen to each caller, compare their stories, and expose the liar before you give away your location. One wrong judgment, and it comes to your door.</p><p><a href="https://store.steampowered.com/app/4194060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dunk Cookies（新規追加）</title>
   <link>https://store.steampowered.com/app/4257230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200060/3164f6b2ff95c6537bb2b6774cb30a7d7435f14c/header.jpg?t=1765851791" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200060/3164f6b2ff95c6537bb2b6774cb30a7d7435f14c/header.jpg?t=1765851791" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4200060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200060/3164f6b2ff95c6537bb2b6774cb30a7d7435f14c/header.jpg?t=1765851791" alt="Tyrants Rafting（新規追加）" /></a></p><p>Tyrants Rafting is an online co-op game that’s all about intense, fast paced boat rafting with cool physics, where one player controls the left, the other takes the right, you pick your favorite tyrant, Bashar or Saddam, and use iconic power-ups with brain rot meme sound effects.</p><p><a href="https://store.steampowered.com/app/4200060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Infant God（新規追加）</title>
-  <link>https://store.steampowered.com/app/4238140/</link>
-  <guid isPermaLink="false">steam-store-published-4238140</guid>
-  <pubDate>Tue, 16 Dec 2025 03:13:58 +0000</pubDate>
-  <description>You are the guardian of an infant god. Guide Aistalt through the toxic ruins of the internet. Debate with random users, harvest their ideologies, and sculpt her personality matrix. Will you raise a benevolent savior or a tyrant who deletes humanity?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238140/c5c8793d09b913a5e931738846c40e7270adc467/header.jpg?t=1765854388" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238140/c5c8793d09b913a5e931738846c40e7270adc467/header.jpg?t=1765854388" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238140/c5c8793d09b913a5e931738846c40e7270adc467/header.jpg?t=1765854388" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238140/c5c8793d09b913a5e931738846c40e7270adc467/header.jpg?t=1765854388" alt="Infant God（新規追加）" /></a></p><p>You are the guardian of an infant god. Guide Aistalt through the toxic ruins of the internet. Debate with random users, harvest their ideologies, and sculpt her personality matrix. Will you raise a benevolent savior or a tyrant who deletes humanity?</p><p><a href="https://store.steampowered.com/app/4238140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
