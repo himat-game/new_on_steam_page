@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 18 Dec 2025 09:53:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 10:20:19 +0000</lastBuildDate>
+<item>
+  <title>Wong（新規追加）</title>
+  <link>https://store.steampowered.com/app/4232330/</link>
+  <guid isPermaLink="false">steam-store-published-4232330</guid>
+  <pubDate>Thu, 18 Dec 2025 10:20:19 +0000</pubDate>
+  <description>Wong is a 2D platformer designed for speedrunning, where you will clear levels, learn their shortcuts, and compete for the best score in a fluid, precise, and perfection-focused gameplay experience.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" alt="Wong（新規追加）" /></a></p><p>Wong is a 2D platformer designed for speedrunning, where you will clear levels, learn their shortcuts, and compete for the best score in a fluid, precise, and perfection-focused gameplay experience.</p><p><a href="https://store.steampowered.com/app/4232330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pratfall（新規追加）</title>
   <link>https://store.steampowered.com/app/4244510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245630/2fa0153c0ddea6e1096ab6f28ce100810c4716bc/header.jpg?t=1765845185" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245630/2fa0153c0ddea6e1096ab6f28ce100810c4716bc/header.jpg?t=1765845185" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245630/2fa0153c0ddea6e1096ab6f28ce100810c4716bc/header.jpg?t=1765845185" alt="Bastion of the Eldritch（新規追加）" /></a></p><p>WARNING: This game is fair, but difficult. Keyboard is supported, but gamepad/controller use is strongly advised. If you&#x27;re looking for a retro, pixel art style survival horror challenge, this is for you. This game doesn&#x27;t hold your hand and game mechanics are deeper than they seem on the surface.</p><p><a href="https://store.steampowered.com/app/4245630/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>生于午夜（新規追加）</title>
-  <link>https://store.steampowered.com/app/4237900/</link>
-  <guid isPermaLink="false">steam-store-published-4237900</guid>
-  <pubDate>Tue, 16 Dec 2025 01:24:04 +0000</pubDate>
-  <description>Born at Midnight is a first-person mystery game set in Hong Kong during the 1960s-1990s, depicting the struggles between police and criminals. The story follows several Hong Kong police officers as they attempt to solve a series of cases during that era, but things take a turn for the worse...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237900/eb6f409e3e046440d628f4bfa6ed7f14be65927b/header.jpg?t=1765847786" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237900/eb6f409e3e046440d628f4bfa6ed7f14be65927b/header.jpg?t=1765847786" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237900/eb6f409e3e046440d628f4bfa6ed7f14be65927b/header.jpg?t=1765847786" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4237900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237900/eb6f409e3e046440d628f4bfa6ed7f14be65927b/header.jpg?t=1765847786" alt="生于午夜（新規追加）" /></a></p><p>Born at Midnight is a first-person mystery game set in Hong Kong during the 1960s-1990s, depicting the struggles between police and criminals. The story follows several Hong Kong police officers as they attempt to solve a series of cases during that era, but things take a turn for the worse...</p><p><a href="https://store.steampowered.com/app/4237900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
