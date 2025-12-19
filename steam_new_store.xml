@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 19 Dec 2025 13:20:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Dec 2025 13:47:22 +0000</lastBuildDate>
+<item>
+  <title>Silent Core Night – Holiday Edition（新規追加）</title>
+  <link>https://store.steampowered.com/app/4259340/</link>
+  <guid isPermaLink="false">steam-store-published-4259340</guid>
+  <pubDate>Fri, 19 Dec 2025 13:47:22 +0000</pubDate>
+  <description>A quiet holiday experiment. Tend a softly glowing core like a small campfire, and let the room warm and calm.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259340/413fb8a069494028b3e3a9690ffcea972ac7cf3d/header.jpg?t=1766150447" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259340/413fb8a069494028b3e3a9690ffcea972ac7cf3d/header.jpg?t=1766150447" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259340/413fb8a069494028b3e3a9690ffcea972ac7cf3d/header.jpg?t=1766150447" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259340/413fb8a069494028b3e3a9690ffcea972ac7cf3d/header.jpg?t=1766150447" alt="Silent Core Night – Holiday Edition（新規追加）" /></a></p><p>A quiet holiday experiment. Tend a softly glowing core like a small campfire, and let the room warm and calm.</p><p><a href="https://store.steampowered.com/app/4259340/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mouse Trap（新規追加）</title>
   <link>https://store.steampowered.com/app/2280420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216670/5138776add9390abbbde1a179be9321a0cfe7a84/header.jpg?t=1765963210" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216670/5138776add9390abbbde1a179be9321a0cfe7a84/header.jpg?t=1765963210" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4216670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216670/5138776add9390abbbde1a179be9321a0cfe7a84/header.jpg?t=1765963210" alt="Typing Farmer（新規追加）" /></a></p><p>Welcome to Typing Farmer! This desktop idle healing game will make a corner of your screen a cozy farm. Your daily actions—typing and clicking—automatically foster crop growth, attract cute animals play with you. Let the healing charm of adorable creatures infuse your intense workdays~</p><p><a href="https://store.steampowered.com/app/4216670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lucky Shot（新規追加）</title>
-  <link>https://store.steampowered.com/app/3087230/</link>
-  <guid isPermaLink="false">steam-store-published-3087230</guid>
-  <pubDate>Wed, 17 Dec 2025 08:58:54 +0000</pubDate>
-  <description>Lucky Shot is a top-down roguelike shooter taking place inside the Casino of Fortuna where money is everything. Use your coins as ammunitions to progress through each room and buy upgrades at the shop to defeat your ennemies !</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087230/aa44749f2eda5b0dac6d4b506d114d90bfcc9bb4/header.jpg?t=1765960581" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087230/aa44749f2eda5b0dac6d4b506d114d90bfcc9bb4/header.jpg?t=1765960581" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087230/aa44749f2eda5b0dac6d4b506d114d90bfcc9bb4/header.jpg?t=1765960581" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3087230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087230/aa44749f2eda5b0dac6d4b506d114d90bfcc9bb4/header.jpg?t=1765960581" alt="Lucky Shot（新規追加）" /></a></p><p>Lucky Shot is a top-down roguelike shooter taking place inside the Casino of Fortuna where money is everything. Use your coins as ammunitions to progress through each room and buy upgrades at the shop to defeat your ennemies !</p><p><a href="https://store.steampowered.com/app/3087230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
