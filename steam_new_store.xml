@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Dec 2025 21:45:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 22:47:10 +0000</lastBuildDate>
+<item>
+  <title>Cyndefense Remastered（新規追加）</title>
+  <link>https://store.steampowered.com/app/4237830/</link>
+  <guid isPermaLink="false">steam-store-published-4237830</guid>
+  <pubDate>Sat, 20 Dec 2025 22:47:10 +0000</pubDate>
+  <description>Cyndefense Remastered is a casual Tower Defense game. With multiple modes its really easy to jump into a game and play for 10-20 minutes. For those who desire a challenge, the game offers multiple harder difficulties and maps if the casual experience is a little too casual.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4237830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" alt="Cyndefense Remastered（新規追加）" /></a></p><p>Cyndefense Remastered is a casual Tower Defense game. With multiple modes its really easy to jump into a game and play for 10-20 minutes. For those who desire a challenge, the game offers multiple harder difficulties and maps if the casual experience is a little too casual.</p><p><a href="https://store.steampowered.com/app/4237830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Barrok 2（新規追加）</title>
   <link>https://store.steampowered.com/app/4266660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189990/fac4591fe6915653d126dd20de4f6de5353630b5/header.jpg?t=1766034593" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189990/fac4591fe6915653d126dd20de4f6de5353630b5/header.jpg?t=1766034593" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4189990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4189990/fac4591fe6915653d126dd20de4f6de5353630b5/header.jpg?t=1766034593" alt="Mancer: Prelude（新規追加）" /></a></p><p>A short fantasy VN in the world of Mancer, a short story of comedy, action and adventure. Follow Alexis, a nerdy magic nerd enrolling into the magical academy at the Tower, facing not only the dangers of being a Mancer, but also unexpected new relationships?!</p><p><a href="https://store.steampowered.com/app/4189990/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>D.I.G. — Deep In Galaxy（新規追加）</title>
-  <link>https://store.steampowered.com/app/4015810/</link>
-  <guid isPermaLink="false">steam-store-published-4015810</guid>
-  <pubDate>Thu, 18 Dec 2025 05:27:12 +0000</pubDate>
-  <description>You are a prisoner condemned to die, given one choice: mine alien worlds or perish. Fight extreme conditions, extract resources, and risk stealing for profit. Co-op survival where every mission could be your last.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015810/631bb57ea6950a88fbd63a781ae121822e77c50a/header.jpg?t=1766035372" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015810/631bb57ea6950a88fbd63a781ae121822e77c50a/header.jpg?t=1766035372" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015810/631bb57ea6950a88fbd63a781ae121822e77c50a/header.jpg?t=1766035372" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4015810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015810/631bb57ea6950a88fbd63a781ae121822e77c50a/header.jpg?t=1766035372" alt="D.I.G. — Deep In Galaxy（新規追加）" /></a></p><p>You are a prisoner condemned to die, given one choice: mine alien worlds or perish. Fight extreme conditions, extract resources, and risk stealing for profit. Co-op survival where every mission could be your last.</p><p><a href="https://store.steampowered.com/app/4015810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
