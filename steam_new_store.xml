@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Dec 2025 18:22:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 20:46:51 +0000</lastBuildDate>
+<item>
+  <title>Vanakan 405（新規追加）</title>
+  <link>https://store.steampowered.com/app/3886270/</link>
+  <guid isPermaLink="false">steam-store-published-3886270</guid>
+  <pubDate>Sat, 20 Dec 2025 20:46:51 +0000</pubDate>
+  <description>It is the Golden Age of Armenia, the letters have been invented and the Bible is being translated by Mesrop Mashtots. Ohan of Van finds himself on a journey which brings him to the unknown land filled with mystery.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886270/6b5f5d5b83b8bdd4deddb29e683ee0a6883fe0a6/header.jpg?t=1766263581" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886270/6b5f5d5b83b8bdd4deddb29e683ee0a6883fe0a6/header.jpg?t=1766263581" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886270/6b5f5d5b83b8bdd4deddb29e683ee0a6883fe0a6/header.jpg?t=1766263581" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3886270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886270/6b5f5d5b83b8bdd4deddb29e683ee0a6883fe0a6/header.jpg?t=1766263581" alt="Vanakan 405（新規追加）" /></a></p><p>It is the Golden Age of Armenia, the letters have been invented and the Bible is being translated by Mesrop Mashtots. Ohan of Van finds himself on a journey which brings him to the unknown land filled with mystery.</p><p><a href="https://store.steampowered.com/app/3886270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Castle Cats（新規追加）</title>
   <link>https://store.steampowered.com/app/4232700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248230/9d687e3eb06f3b68643b5db9a4cb86c7b5422970/header.jpg?t=1766034660" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248230/9d687e3eb06f3b68643b5db9a4cb86c7b5422970/header.jpg?t=1766034660" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4248230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248230/9d687e3eb06f3b68643b5db9a4cb86c7b5422970/header.jpg?t=1766034660" alt="vitvitDRIVER 3D（新規追加）" /></a></p><p>a late-90s inspired eclectic delivery driving game. perform tricks, stack combos and complete deliveries to earn points across a set of unique maps.</p><p><a href="https://store.steampowered.com/app/4248230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Trails in the Sky 2nd Chapter（新規追加）</title>
-  <link>https://store.steampowered.com/app/4225980/</link>
-  <guid isPermaLink="false">steam-store-published-4225980</guid>
-  <pubDate>Thu, 18 Dec 2025 05:27:12 +0000</pubDate>
-  <description>Turn the page on the explosive 2nd chapter of Nihon Falcom’s legendary Trails saga! Estelle Bright sets out on a new journey across Liberl to uncover the truth behind Joshua’s disappearance and defeat the sinister Ouroboros organization.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1766034563" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1766034563" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1766034563" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4225980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1766034563" alt="Trails in the Sky 2nd Chapter（新規追加）" /></a></p><p>Turn the page on the explosive 2nd chapter of Nihon Falcom’s legendary Trails saga! Estelle Bright sets out on a new journey across Liberl to uncover the truth behind Joshua’s disappearance and defeat the sinister Ouroboros organization.</p><p><a href="https://store.steampowered.com/app/4225980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
