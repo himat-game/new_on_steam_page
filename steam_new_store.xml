@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Dec 2025 16:20:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 16:49:53 +0000</lastBuildDate>
+<item>
+  <title>Osman Ghazi: Ottoman Rising（新規追加）</title>
+  <link>https://store.steampowered.com/app/4185920/</link>
+  <guid isPermaLink="false">steam-store-published-4185920</guid>
+  <pubDate>Sat, 20 Dec 2025 16:49:53 +0000</pubDate>
+  <description>A third-person action adventure set in 13th-century Anatolia. Rise as Osman Gazi, hunt, fight, infiltrate enemy strongholds, and forge the foundations of an empire. Explore a vast historical world shaped by conquest, betrayal, and the birth of a legend.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4185920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" alt="Osman Ghazi: Ottoman Rising（新規追加）" /></a></p><p>A third-person action adventure set in 13th-century Anatolia. Rise as Osman Gazi, hunt, fight, infiltrate enemy strongholds, and forge the foundations of an empire. Explore a vast historical world shaped by conquest, betrayal, and the birth of a legend.</p><p><a href="https://store.steampowered.com/app/4185920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Children´s Fear（新規追加）</title>
   <link>https://store.steampowered.com/app/4083230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260320/26415c153e4a934862d3ed4a381f2aec8eefef27/header.jpg?t=1766028289" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260320/26415c153e4a934862d3ed4a381f2aec8eefef27/header.jpg?t=1766028289" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260320/26415c153e4a934862d3ed4a381f2aec8eefef27/header.jpg?t=1766028289" alt="SUPER ANT（新規追加）" /></a></p><p>Embark on a manic search to locate a ontological superweapon lost on a rogue planet. Bash vicious monsters in close-quarters combat and master hidden movement and fighting techniques to overpower and outspeed your problems.</p><p><a href="https://store.steampowered.com/app/4260320/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>War Alert（新規追加）</title>
-  <link>https://store.steampowered.com/app/3921010/</link>
-  <guid isPermaLink="false">steam-store-published-3921010</guid>
-  <pubDate>Thu, 18 Dec 2025 03:57:27 +0000</pubDate>
-  <description>As the frontline crawls through ruins and smoke, you command infantry, armor, and air support to shape the chaos. Capture points, break lines, encircle and counter-encircle. With no pay-to-win, only clear strategy and teamwork earns victory.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921010/57358f3516c4c1fc6c4751dbf4e747585ace699a/header.jpg?t=1766028629" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921010/57358f3516c4c1fc6c4751dbf4e747585ace699a/header.jpg?t=1766028629" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921010/57358f3516c4c1fc6c4751dbf4e747585ace699a/header.jpg?t=1766028629" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3921010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3921010/57358f3516c4c1fc6c4751dbf4e747585ace699a/header.jpg?t=1766028629" alt="War Alert（新規追加）" /></a></p><p>As the frontline crawls through ruins and smoke, you command infantry, armor, and air support to shape the chaos. Capture points, break lines, encircle and counter-encircle. With no pay-to-win, only clear strategy and teamwork earns victory.</p><p><a href="https://store.steampowered.com/app/3921010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
