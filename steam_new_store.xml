@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Dec 2025 08:22:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 08:52:14 +0000</lastBuildDate>
+<item>
+  <title>So Stoked（新規追加）</title>
+  <link>https://store.steampowered.com/app/4153180/</link>
+  <guid isPermaLink="false">steam-store-published-4153180</guid>
+  <pubDate>Sat, 20 Dec 2025 08:52:14 +0000</pubDate>
+  <description>A chill and cozy surf game about timing, flow, and discovery. Travel between islands, ride clean waves, and enjoy a calm, skill-driven ride with light RPG-style tasks and progression.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153180/b129d6d29e258417bc789b04c75bb40602ec183c/header.jpg?t=1766220424" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153180/b129d6d29e258417bc789b04c75bb40602ec183c/header.jpg?t=1766220424" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153180/b129d6d29e258417bc789b04c75bb40602ec183c/header.jpg?t=1766220424" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4153180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153180/b129d6d29e258417bc789b04c75bb40602ec183c/header.jpg?t=1766220424" alt="So Stoked（新規追加）" /></a></p><p>A chill and cozy surf game about timing, flow, and discovery. Travel between islands, ride clean waves, and enjoy a calm, skill-driven ride with light RPG-style tasks and progression.</p><p><a href="https://store.steampowered.com/app/4153180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>AMEN 11 11（新規追加）</title>
   <link>https://store.steampowered.com/app/4258550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3779560/10e807d91328ded9d0981e0d070d1cfbc061fbc4/header.jpg?t=1766019558" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3779560/10e807d91328ded9d0981e0d070d1cfbc061fbc4/header.jpg?t=1766019558" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3779560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3779560/10e807d91328ded9d0981e0d070d1cfbc061fbc4/header.jpg?t=1766019558" alt="Celeste Blue Wizard Luna（新規追加）" /></a></p><p>Help Luna form a resistance to take down Princess Lucia the Black Witch and free the skyborne land of Jupiterno from her tyranny!</p><p><a href="https://store.steampowered.com/app/3779560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cult of Five（新規追加）</title>
-  <link>https://store.steampowered.com/app/4246750/</link>
-  <guid isPermaLink="false">steam-store-published-4246750</guid>
-  <pubDate>Thu, 18 Dec 2025 01:20:06 +0000</pubDate>
-  <description>Cult of Five is a dark, turn-based roguelike deckbuilder where you choose one of five cursed characters, battle deadly creatures, upgrade your deck, and shape your destiny in a haunting mystical world.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246750/5d6e332e928c1b93edb4679abff8861ae12617b5/header.jpg?t=1766017385" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246750/5d6e332e928c1b93edb4679abff8861ae12617b5/header.jpg?t=1766017385" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246750/5d6e332e928c1b93edb4679abff8861ae12617b5/header.jpg?t=1766017385" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246750/5d6e332e928c1b93edb4679abff8861ae12617b5/header.jpg?t=1766017385" alt="Cult of Five（新規追加）" /></a></p><p>Cult of Five is a dark, turn-based roguelike deckbuilder where you choose one of five cursed characters, battle deadly creatures, upgrade your deck, and shape your destiny in a haunting mystical world.</p><p><a href="https://store.steampowered.com/app/4246750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
