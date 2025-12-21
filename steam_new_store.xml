@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 17:45:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 20:19:13 +0000</lastBuildDate>
+<item>
+  <title>Whisker Wars（新規追加）</title>
+  <link>https://store.steampowered.com/app/4263890/</link>
+  <guid isPermaLink="false">steam-store-published-4263890</guid>
+  <pubDate>Sun, 21 Dec 2025 20:19:13 +0000</pubDate>
+  <description>Whisker Wars is a fast-paced single-player arena survival game where growth is power and every decision matters. Start small, move smart, and fight to survive in a constantly evolving battlefield filled with aggressive AI enemies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263890/ef5ae27f6a71fa5e1ad911021c5ee9e2b269d1de/header.jpg?t=1766348195" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263890/ef5ae27f6a71fa5e1ad911021c5ee9e2b269d1de/header.jpg?t=1766348195" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263890/ef5ae27f6a71fa5e1ad911021c5ee9e2b269d1de/header.jpg?t=1766348195" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263890/ef5ae27f6a71fa5e1ad911021c5ee9e2b269d1de/header.jpg?t=1766348195" alt="Whisker Wars（新規追加）" /></a></p><p>Whisker Wars is a fast-paced single-player arena survival game where growth is power and every decision matters. Start small, move smart, and fight to survive in a constantly evolving battlefield filled with aggressive AI enemies.</p><p><a href="https://store.steampowered.com/app/4263890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pill Pusher ~Deluxe~（新規追加）</title>
   <link>https://store.steampowered.com/app/3484980/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/467ef103d4047e1acdf28c837956cf36c29e23f5/header.jpg?t=1766056254" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/467ef103d4047e1acdf28c837956cf36c29e23f5/header.jpg?t=1766056254" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1574290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/467ef103d4047e1acdf28c837956cf36c29e23f5/header.jpg?t=1766056254" alt="Steel Bounty（新規追加）" /></a></p><p>Dive into an immersive first-person mech simulation featuring extensive customization and mercenary company management. Battle for glory and wealth in a dynamic campaign where your choices shape the course of the war.</p><p><a href="https://store.steampowered.com/app/1574290/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Odds At Oddity（新規追加）</title>
-  <link>https://store.steampowered.com/app/4257680/</link>
-  <guid isPermaLink="false">steam-store-published-4257680</guid>
-  <pubDate>Thu, 18 Dec 2025 11:47:32 +0000</pubDate>
-  <description>Odds At Oddity is a blackjack based roguelike deck builder. Manage your power betting deck, create diverse combinations and scale your points as far as you can go!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257680/3dfeefb272c5c36554ae098ca025fc70860a6eb3/header.jpg?t=1766058406" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257680/3dfeefb272c5c36554ae098ca025fc70860a6eb3/header.jpg?t=1766058406" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257680/3dfeefb272c5c36554ae098ca025fc70860a6eb3/header.jpg?t=1766058406" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4257680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257680/3dfeefb272c5c36554ae098ca025fc70860a6eb3/header.jpg?t=1766058406" alt="Odds At Oddity（新規追加）" /></a></p><p>Odds At Oddity is a blackjack based roguelike deck builder. Manage your power betting deck, create diverse combinations and scale your points as far as you can go!</p><p><a href="https://store.steampowered.com/app/4257680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
