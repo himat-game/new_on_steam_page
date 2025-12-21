@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 16:20:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 16:50:35 +0000</lastBuildDate>
+<item>
+  <title>Alien Together（新規追加）</title>
+  <link>https://store.steampowered.com/app/4253660/</link>
+  <guid isPermaLink="false">steam-store-published-4253660</guid>
+  <pubDate>Sun, 21 Dec 2025 16:50:35 +0000</pubDate>
+  <description>As a pair or solo, test your coordination and your friendship by each controlling a thruster to steer your space car.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4253660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" alt="Alien Together（新規追加）" /></a></p><p>As a pair or solo, test your coordination and your friendship by each controlling a thruster to steer your space car.</p><p><a href="https://store.steampowered.com/app/4253660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>NOSTALGIA（新規追加）</title>
   <link>https://store.steampowered.com/app/4254680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953550/2838049dede59395781bf9c897fb6db186c53455/header.jpg?t=1766055827" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953550/2838049dede59395781bf9c897fb6db186c53455/header.jpg?t=1766055827" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953550/2838049dede59395781bf9c897fb6db186c53455/header.jpg?t=1766055827" alt="STAR GORE Western Garrison（新規追加）" /></a></p><p>STAR GORE Western Garrison is an indie simulation inspection game, with ancient-style checkpoints and alternating day and night.As a checkpoint inspector, you face moral choices and risk judgments during identity verification.</p><p><a href="https://store.steampowered.com/app/3953550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>PREQUEL（新規追加）</title>
-  <link>https://store.steampowered.com/app/3064590/</link>
-  <guid isPermaLink="false">steam-store-published-3064590</guid>
-  <pubDate>Thu, 18 Dec 2025 11:47:32 +0000</pubDate>
-  <description>Build, destroy, play as every creature and forge your own path in the beautiful and endless open world of PREQUEL! Your journey to conquer the Abyss as the reckless odd spirit awaits in the most unique and challenging Sandbox ARPG to date! WELCOME HOME, ODD SPIRIT!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064590/header.jpg?t=1766058134" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064590/header.jpg?t=1766058134" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064590/header.jpg?t=1766058134" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3064590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064590/header.jpg?t=1766058134" alt="PREQUEL（新規追加）" /></a></p><p>Build, destroy, play as every creature and forge your own path in the beautiful and endless open world of PREQUEL! Your journey to conquer the Abyss as the reckless odd spirit awaits in the most unique and challenging Sandbox ARPG to date! WELCOME HOME, ODD SPIRIT!</p><p><a href="https://store.steampowered.com/app/3064590/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
