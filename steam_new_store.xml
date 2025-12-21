@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 04:09:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 06:55:54 +0000</lastBuildDate>
+<item>
+  <title>Twilight Gallery（新規追加）</title>
+  <link>https://store.steampowered.com/app/4219500/</link>
+  <guid isPermaLink="false">steam-store-published-4219500</guid>
+  <pubDate>Sun, 21 Dec 2025 06:55:54 +0000</pubDate>
+  <description>Twilight Gallery is a surreal point-and-click puzzle game inspired by 1990s and early 2000s adventure games, blending liminal space exploration with retro dark fantasy and sci-fi for a uniquely handcrafted, atmospheric experience.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219500/ca09114ca5899dfe70bb24c5cf28b921b747120a/header.jpg?t=1766299119" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219500/ca09114ca5899dfe70bb24c5cf28b921b747120a/header.jpg?t=1766299119" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219500/ca09114ca5899dfe70bb24c5cf28b921b747120a/header.jpg?t=1766299119" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4219500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219500/ca09114ca5899dfe70bb24c5cf28b921b747120a/header.jpg?t=1766299119" alt="Twilight Gallery（新規追加）" /></a></p><p>Twilight Gallery is a surreal point-and-click puzzle game inspired by 1990s and early 2000s adventure games, blending liminal space exploration with retro dark fantasy and sci-fi for a uniquely handcrafted, atmospheric experience.</p><p><a href="https://store.steampowered.com/app/4219500/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Spider Game（新規追加）</title>
   <link>https://store.steampowered.com/app/4169010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257300/38450df16681a88ca515203d38df5b5bcdf4fc00/header.jpg?t=1766045008" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257300/38450df16681a88ca515203d38df5b5bcdf4fc00/header.jpg?t=1766045008" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4257300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257300/38450df16681a88ca515203d38df5b5bcdf4fc00/header.jpg?t=1766045008" alt="MAZELOVE（新規追加）" /></a></p><p>Henry wakes up after an accident with no memories and returns home to find his wife, but instead discovers the truth he locked away years ago.</p><p><a href="https://store.steampowered.com/app/4257300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BugoPhobia（新規追加）</title>
-  <link>https://store.steampowered.com/app/4215620/</link>
-  <guid isPermaLink="false">steam-store-published-4215620</guid>
-  <pubDate>Thu, 18 Dec 2025 07:47:31 +0000</pubDate>
-  <description>BugoPhobia is an indie survival horror game where you explore haunted places, avoid ghosts during ghost hunts, collect clues, and correctly identify the type of ghost</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4215620/44b48811aabcee483fa885e58fbbaa4a6bad9f03/header.jpg?t=1766043624" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4215620/44b48811aabcee483fa885e58fbbaa4a6bad9f03/header.jpg?t=1766043624" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4215620/44b48811aabcee483fa885e58fbbaa4a6bad9f03/header.jpg?t=1766043624" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4215620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4215620/44b48811aabcee483fa885e58fbbaa4a6bad9f03/header.jpg?t=1766043624" alt="BugoPhobia（新規追加）" /></a></p><p>BugoPhobia is an indie survival horror game where you explore haunted places, avoid ghosts during ghost hunts, collect clues, and correctly identify the type of ghost</p><p><a href="https://store.steampowered.com/app/4215620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
