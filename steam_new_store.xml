@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 14:47:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 15:46:00 +0000</lastBuildDate>
+<item>
+  <title>Silent Edge（新規追加）</title>
+  <link>https://store.steampowered.com/app/4203310/</link>
+  <guid isPermaLink="false">steam-store-published-4203310</guid>
+  <pubDate>Sun, 21 Dec 2025 15:46:00 +0000</pubDate>
+  <description>Silent Edge is a top-down 3D samurai action game with simple, beginner-friendly controls. Slash, dodge, and fire ranged techniques as you clear stylish feudal stages and tense boss battles, with sharp combat and a quiet, atmospheric presentation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4203310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" alt="Silent Edge（新規追加）" /></a></p><p>Silent Edge is a top-down 3D samurai action game with simple, beginner-friendly controls. Slash, dodge, and fire ranged techniques as you clear stylish feudal stages and tense boss battles, with sharp combat and a quiet, atmospheric presentation.</p><p><a href="https://store.steampowered.com/app/4203310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Helios Incident（新規追加）</title>
   <link>https://store.steampowered.com/app/4249910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255000/ab107dec66613c0890de4fbd68d4ccceb9b208e0/header.jpg?t=1766056194" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255000/ab107dec66613c0890de4fbd68d4ccceb9b208e0/header.jpg?t=1766056194" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255000/ab107dec66613c0890de4fbd68d4ccceb9b208e0/header.jpg?t=1766056194" alt="DECODE（新規追加）" /></a></p><p>DECODE is a minimalist logic puzzle game inspired by classic deduction systems. Analyse clues, break digital locks, and uncover hidden rules through text-based challenges. Every move matters. Think carefully.</p><p><a href="https://store.steampowered.com/app/4255000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Electro Idle（新規追加）</title>
-  <link>https://store.steampowered.com/app/4245260/</link>
-  <guid isPermaLink="false">steam-store-published-4245260</guid>
-  <pubDate>Thu, 18 Dec 2025 10:52:43 +0000</pubDate>
-  <description>Idle puzzle in the style of electrical circuits. Rearrange the wires to increase your income</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245260/0acc2240f20a1f093b5cc7c98413adf2ee9fc5d8/header.jpg?t=1766053604" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245260/0acc2240f20a1f093b5cc7c98413adf2ee9fc5d8/header.jpg?t=1766053604" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245260/0acc2240f20a1f093b5cc7c98413adf2ee9fc5d8/header.jpg?t=1766053604" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245260/0acc2240f20a1f093b5cc7c98413adf2ee9fc5d8/header.jpg?t=1766053604" alt="Electro Idle（新規追加）" /></a></p><p>Idle puzzle in the style of electrical circuits. Rearrange the wires to increase your income</p><p><a href="https://store.steampowered.com/app/4245260/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
