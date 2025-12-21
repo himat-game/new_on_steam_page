@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 16:50:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 17:45:58 +0000</lastBuildDate>
+<item>
+  <title>Pill Pusher ~Deluxe~（新規追加）</title>
+  <link>https://store.steampowered.com/app/3484980/</link>
+  <guid isPermaLink="false">steam-store-published-3484980</guid>
+  <pubDate>Sun, 21 Dec 2025 17:45:58 +0000</pubDate>
+  <description>Low-level drug-dealing and psychonautic text-based simulation game with role-playing elements inspired by rave and electronic music culture.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484980/36ebb02255cf9181c13359ee381067153c7f420a/header.jpg?t=1766336782" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484980/36ebb02255cf9181c13359ee381067153c7f420a/header.jpg?t=1766336782" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484980/36ebb02255cf9181c13359ee381067153c7f420a/header.jpg?t=1766336782" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3484980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484980/36ebb02255cf9181c13359ee381067153c7f420a/header.jpg?t=1766336782" alt="Pill Pusher ~Deluxe~（新規追加）" /></a></p><p>Low-level drug-dealing and psychonautic text-based simulation game with role-playing elements inspired by rave and electronic music culture.</p><p><a href="https://store.steampowered.com/app/3484980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Alien Together（新規追加）</title>
   <link>https://store.steampowered.com/app/4253660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257680/3dfeefb272c5c36554ae098ca025fc70860a6eb3/header.jpg?t=1766058406" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257680/3dfeefb272c5c36554ae098ca025fc70860a6eb3/header.jpg?t=1766058406" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4257680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257680/3dfeefb272c5c36554ae098ca025fc70860a6eb3/header.jpg?t=1766058406" alt="Odds At Oddity（新規追加）" /></a></p><p>Odds At Oddity is a blackjack based roguelike deck builder. Manage your power betting deck, create diverse combinations and scale your points as far as you can go!</p><p><a href="https://store.steampowered.com/app/4257680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>STAR GORE Western Garrison（新規追加）</title>
-  <link>https://store.steampowered.com/app/3953550/</link>
-  <guid isPermaLink="false">steam-store-published-3953550</guid>
-  <pubDate>Thu, 18 Dec 2025 11:47:32 +0000</pubDate>
-  <description>STAR GORE Western Garrison is an indie simulation inspection game, with ancient-style checkpoints and alternating day and night.As a checkpoint inspector, you face moral choices and risk judgments during identity verification.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953550/2838049dede59395781bf9c897fb6db186c53455/header.jpg?t=1766055827" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953550/2838049dede59395781bf9c897fb6db186c53455/header.jpg?t=1766055827" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953550/2838049dede59395781bf9c897fb6db186c53455/header.jpg?t=1766055827" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3953550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953550/2838049dede59395781bf9c897fb6db186c53455/header.jpg?t=1766055827" alt="STAR GORE Western Garrison（新規追加）" /></a></p><p>STAR GORE Western Garrison is an indie simulation inspection game, with ancient-style checkpoints and alternating day and night.As a checkpoint inspector, you face moral choices and risk judgments during identity verification.</p><p><a href="https://store.steampowered.com/app/3953550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
