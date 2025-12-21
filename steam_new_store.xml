@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 12:34:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 13:08:01 +0000</lastBuildDate>
+<item>
+  <title>STARFALL GIRL（新規追加）</title>
+  <link>https://store.steampowered.com/app/4135070/</link>
+  <guid isPermaLink="false">steam-store-published-4135070</guid>
+  <pubDate>Sun, 21 Dec 2025 13:08:01 +0000</pubDate>
+  <description>&amp;quot;Stronger desires draw out greater power from the meteorite. By growing closer to the girls and heightening lust, you enhance your allies’ strength. Live in a medieval town, hunt, trade materials, take guild quests, build a harem, and uncover the truth behind the millennia-old meteor shower.&amp;quot;</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135070/471c0929fb626dceb4a957a3c23a21a32592588b/header.jpg?t=1766320481" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135070/471c0929fb626dceb4a957a3c23a21a32592588b/header.jpg?t=1766320481" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135070/471c0929fb626dceb4a957a3c23a21a32592588b/header.jpg?t=1766320481" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4135070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135070/471c0929fb626dceb4a957a3c23a21a32592588b/header.jpg?t=1766320481" alt="STARFALL GIRL（新規追加）" /></a></p><p>&amp;quot;Stronger desires draw out greater power from the meteorite. By growing closer to the girls and heightening lust, you enhance your allies’ strength. Live in a medieval town, hunt, trade materials, take guild quests, build a harem, and uncover the truth behind the millennia-old meteor shower.&amp;quot;</p><p><a href="https://store.steampowered.com/app/4135070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Color Idle（新規追加）</title>
   <link>https://store.steampowered.com/app/3217490/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" alt="Wong（新規追加）" /></a></p><p>Wong is a 2D platformer designed for speedrunning, where you will clear levels, learn their shortcuts, and compete for the best score in a fluid, precise, and perfection-focused gameplay experience.</p><p><a href="https://store.steampowered.com/app/4232330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pratfall（新規追加）</title>
-  <link>https://store.steampowered.com/app/4244510/</link>
-  <guid isPermaLink="false">steam-store-published-4244510</guid>
-  <pubDate>Thu, 18 Dec 2025 09:53:31 +0000</pubDate>
-  <description>A co-op game where you fall, dig and explode your way down a dangerous cave system to find your lost dog. Catch your friends and watch your step on this journey full of traps, hazards and the most deadly of all: Gravity. Will you jump into the unknown to rescue your dog?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/ffa9847853c3970cb1db147866a5e8e71c89f8cd/header.jpg?t=1766050536" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/ffa9847853c3970cb1db147866a5e8e71c89f8cd/header.jpg?t=1766050536" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/ffa9847853c3970cb1db147866a5e8e71c89f8cd/header.jpg?t=1766050536" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4244510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244510/ffa9847853c3970cb1db147866a5e8e71c89f8cd/header.jpg?t=1766050536" alt="Pratfall（新規追加）" /></a></p><p>A co-op game where you fall, dig and explode your way down a dangerous cave system to find your lost dog. Catch your friends and watch your step on this journey full of traps, hazards and the most deadly of all: Gravity. Will you jump into the unknown to rescue your dog?</p><p><a href="https://store.steampowered.com/app/4244510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
