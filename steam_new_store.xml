@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 20:19:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 20:50:22 +0000</lastBuildDate>
+<item>
+  <title>Deadlock Protocol（新規追加）</title>
+  <link>https://store.steampowered.com/app/3573790/</link>
+  <guid isPermaLink="false">steam-store-published-3573790</guid>
+  <pubDate>Sun, 21 Dec 2025 20:50:22 +0000</pubDate>
+  <description>“Deadlock is a 2.5D top-down survival horror where supplies are scarce, the infected are relentless, and the only way out is through.”</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573790/35d52aef686eee874091c375d94a3bb256fbd4c6/header.jpg?t=1766349289" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573790/35d52aef686eee874091c375d94a3bb256fbd4c6/header.jpg?t=1766349289" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573790/35d52aef686eee874091c375d94a3bb256fbd4c6/header.jpg?t=1766349289" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3573790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573790/35d52aef686eee874091c375d94a3bb256fbd4c6/header.jpg?t=1766349289" alt="Deadlock Protocol（新規追加）" /></a></p><p>“Deadlock is a 2.5D top-down survival horror where supplies are scarce, the infected are relentless, and the only way out is through.”</p><p><a href="https://store.steampowered.com/app/3573790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Whisker Wars（新規追加）</title>
   <link>https://store.steampowered.com/app/4263890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181040/76ac559e72e29298d293ebec77cfe21af53b81a5/header.jpg?t=1766063734" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181040/76ac559e72e29298d293ebec77cfe21af53b81a5/header.jpg?t=1766063734" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4181040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181040/76ac559e72e29298d293ebec77cfe21af53b81a5/header.jpg?t=1766063734" alt="Immortal Rebirth（新規追加）" /></a></p><p>&amp;quot;Immortal Rebirth&amp;quot; is a survivor like roguelite blending loot hunting with inventory management. Face endless demon waves, mix elemental talents, manage your backpack, and unleash powerful synergies between celestial artifacts.</p><p><a href="https://store.steampowered.com/app/4181040/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Steel Bounty（新規追加）</title>
-  <link>https://store.steampowered.com/app/1574290/</link>
-  <guid isPermaLink="false">steam-store-published-1574290</guid>
-  <pubDate>Thu, 18 Dec 2025 11:47:32 +0000</pubDate>
-  <description>Dive into an immersive first-person mech simulation featuring extensive customization and mercenary company management. Battle for glory and wealth in a dynamic campaign where your choices shape the course of the war.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/467ef103d4047e1acdf28c837956cf36c29e23f5/header.jpg?t=1766056254" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/467ef103d4047e1acdf28c837956cf36c29e23f5/header.jpg?t=1766056254" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/467ef103d4047e1acdf28c837956cf36c29e23f5/header.jpg?t=1766056254" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1574290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574290/467ef103d4047e1acdf28c837956cf36c29e23f5/header.jpg?t=1766056254" alt="Steel Bounty（新規追加）" /></a></p><p>Dive into an immersive first-person mech simulation featuring extensive customization and mercenary company management. Battle for glory and wealth in a dynamic campaign where your choices shape the course of the war.</p><p><a href="https://store.steampowered.com/app/1574290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
