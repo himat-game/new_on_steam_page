@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Dec 2025 13:08:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 14:47:06 +0000</lastBuildDate>
+<item>
+  <title>The Helios Incident（新規追加）</title>
+  <link>https://store.steampowered.com/app/4249910/</link>
+  <guid isPermaLink="false">steam-store-published-4249910</guid>
+  <pubDate>Sun, 21 Dec 2025 14:47:06 +0000</pubDate>
+  <description>In this game you take command of a passenger spaceship that is unexpectedly swarmed by aliens. You must survive until help arrives. This game cannot be beaten by memorizing patterns or finding the right strategy. You must be present and rely on instinct.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249910/a63ef4ac7a0e235b37201286a2baf68bbcf4a317/header.jpg?t=1766326996" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249910/a63ef4ac7a0e235b37201286a2baf68bbcf4a317/header.jpg?t=1766326996" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249910/a63ef4ac7a0e235b37201286a2baf68bbcf4a317/header.jpg?t=1766326996" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249910/a63ef4ac7a0e235b37201286a2baf68bbcf4a317/header.jpg?t=1766326996" alt="The Helios Incident（新規追加）" /></a></p><p>In this game you take command of a passenger spaceship that is unexpectedly swarmed by aliens. You must survive until help arrives. This game cannot be beaten by memorizing patterns or finding the right strategy. You must be present and rely on instinct.</p><p><a href="https://store.steampowered.com/app/4249910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>STARFALL GIRL（新規追加）</title>
   <link>https://store.steampowered.com/app/4135070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245260/0acc2240f20a1f093b5cc7c98413adf2ee9fc5d8/header.jpg?t=1766053604" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245260/0acc2240f20a1f093b5cc7c98413adf2ee9fc5d8/header.jpg?t=1766053604" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245260/0acc2240f20a1f093b5cc7c98413adf2ee9fc5d8/header.jpg?t=1766053604" alt="Electro Idle（新規追加）" /></a></p><p>Idle puzzle in the style of electrical circuits. Rearrange the wires to increase your income</p><p><a href="https://store.steampowered.com/app/4245260/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wong（新規追加）</title>
-  <link>https://store.steampowered.com/app/4232330/</link>
-  <guid isPermaLink="false">steam-store-published-4232330</guid>
-  <pubDate>Thu, 18 Dec 2025 10:20:19 +0000</pubDate>
-  <description>Wong is a 2D platformer designed for speedrunning, where you will clear levels, learn their shortcuts, and compete for the best score in a fluid, precise, and perfection-focused gameplay experience.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232330/8347093c7a023d72d44c6d6935c0e810dd0f6ed5/header.jpg?t=1766052075" alt="Wong（新規追加）" /></a></p><p>Wong is a 2D platformer designed for speedrunning, where you will clear levels, learn their shortcuts, and compete for the best score in a fluid, precise, and perfection-focused gameplay experience.</p><p><a href="https://store.steampowered.com/app/4232330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
