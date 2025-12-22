@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Dec 2025 01:26:34 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 03:21:45 +0000</lastBuildDate>
+<item>
+  <title>Dread Neighbor（新規追加）</title>
+  <link>https://store.steampowered.com/app/4111260/</link>
+  <guid isPermaLink="false">steam-store-published-4111260</guid>
+  <pubDate>Mon, 22 Dec 2025 03:21:45 +0000</pubDate>
+  <description>&amp;quot;Dread Neighbor&amp;quot; is a 3D first-person horror game. You are a young woman who moves into a cheap, new apartment to save money. But something is wrong. From the closets, under the bed, through the cracks in the walls—you are being watched. Every corner feels alive with an unseen presence.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111260/f24f79ff0f56c8c2d32fe9b7477414066b351ee7/header.jpg?t=1766370720" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111260/f24f79ff0f56c8c2d32fe9b7477414066b351ee7/header.jpg?t=1766370720" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111260/f24f79ff0f56c8c2d32fe9b7477414066b351ee7/header.jpg?t=1766370720" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4111260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111260/f24f79ff0f56c8c2d32fe9b7477414066b351ee7/header.jpg?t=1766370720" alt="Dread Neighbor（新規追加）" /></a></p><p>&amp;quot;Dread Neighbor&amp;quot; is a 3D first-person horror game. You are a young woman who moves into a cheap, new apartment to save money. But something is wrong. From the closets, under the bed, through the cracks in the walls—you are being watched. Every corner feels alive with an unseen presence.</p><p><a href="https://store.steampowered.com/app/4111260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Animal Avenue（新規追加）</title>
   <link>https://store.steampowered.com/app/4259180/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245090/93b80f79c867ab4dd00668df6059986349b2a608/header.jpg?t=1766069900" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245090/93b80f79c867ab4dd00668df6059986349b2a608/header.jpg?t=1766069900" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245090/93b80f79c867ab4dd00668df6059986349b2a608/header.jpg?t=1766069900" alt="Warp Mania（新規追加）" /></a></p><p>A fast, challenging sci-fi arcade game built around a simple idea: switch your color to match the shape and break through incoming energy gates. Only your reflexes will keep you alive !</p><p><a href="https://store.steampowered.com/app/4245090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Liar’s Line（新規追加）</title>
-  <link>https://store.steampowered.com/app/4194060/</link>
-  <guid isPermaLink="false">steam-store-published-4194060</guid>
-  <pubDate>Thu, 18 Dec 2025 14:53:26 +0000</pubDate>
-  <description>A monster is hunting you from the phone line. A tense detective mystery. Listen to each caller, compare their stories, and expose the liar before you give away your location. One wrong judgment, and it comes to your door.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4194060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194060/b1ce25d2bd0bd49210170fb13ab98d425cdd6363/header.jpg?t=1766068594" alt="Liar’s Line（新規追加）" /></a></p><p>A monster is hunting you from the phone line. A tense detective mystery. Listen to each caller, compare their stories, and expose the liar before you give away your location. One wrong judgment, and it comes to your door.</p><p><a href="https://store.steampowered.com/app/4194060/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
