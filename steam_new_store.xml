@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Dec 2025 14:41:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 17:16:52 +0000</lastBuildDate>
+<item>
+  <title>Sea Warden（新規追加）</title>
+  <link>https://store.steampowered.com/app/4262380/</link>
+  <guid isPermaLink="false">steam-store-published-4262380</guid>
+  <pubDate>Mon, 22 Dec 2025 17:16:52 +0000</pubDate>
+  <description>Sea Warden is a co-op survival game set on a living island carried across the endless ocean by a massive sea turtle named Ao. The sea, the wind, and the creatures beneath the waves are always changing, but Ao keeps moving forward, no matter what.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262380/780127c443cdfac6db99f74a7beb0827892bd42f/header.jpg?t=1766422559" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262380/780127c443cdfac6db99f74a7beb0827892bd42f/header.jpg?t=1766422559" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262380/780127c443cdfac6db99f74a7beb0827892bd42f/header.jpg?t=1766422559" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262380/780127c443cdfac6db99f74a7beb0827892bd42f/header.jpg?t=1766422559" alt="Sea Warden（新規追加）" /></a></p><p>Sea Warden is a co-op survival game set on a living island carried across the endless ocean by a massive sea turtle named Ao. The sea, the wind, and the creatures beneath the waves are always changing, but Ao keeps moving forward, no matter what.</p><p><a href="https://store.steampowered.com/app/4262380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Shape world Level UP - Lite（新規追加）</title>
   <link>https://store.steampowered.com/app/4184820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122250/20cc3f4670b6ee113402e8f439256c925f9f89fd/header.jpg?t=1766075525" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122250/20cc3f4670b6ee113402e8f439256c925f9f89fd/header.jpg?t=1766075525" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122250/20cc3f4670b6ee113402e8f439256c925f9f89fd/header.jpg?t=1766075525" alt="Pussy Pass Denied（新規追加）" /></a></p><p>Pussy Pass Denied is a comedic adult detective visual novel where every case mixes murder, mystery, and absurdly sexy chaos. Investigate wild crimes, question outrageous suspects, and uncover scandals in a city where everyone has something to hide.</p><p><a href="https://store.steampowered.com/app/4122250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>FastBall 2（新規追加）</title>
-  <link>https://store.steampowered.com/app/4261800/</link>
-  <guid isPermaLink="false">steam-store-published-4261800</guid>
-  <pubDate>Thu, 18 Dec 2025 16:58:39 +0000</pubDate>
-  <description>FastBall 2 is back and faster than ever! Roll, jump, and dodge your way through 155 action-packed levels using simple one-tap controls. Easy to play, tricky to master, and endlessly addictive fun for players of all ages.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261800/3f1224b7568c0f9bc0cc283d7668f51bc3e892a5/header.jpg?t=1766076917" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261800/3f1224b7568c0f9bc0cc283d7668f51bc3e892a5/header.jpg?t=1766076917" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261800/3f1224b7568c0f9bc0cc283d7668f51bc3e892a5/header.jpg?t=1766076917" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261800/3f1224b7568c0f9bc0cc283d7668f51bc3e892a5/header.jpg?t=1766076917" alt="FastBall 2（新規追加）" /></a></p><p>FastBall 2 is back and faster than ever! Roll, jump, and dodge your way through 155 action-packed levels using simple one-tap controls. Easy to play, tricky to master, and endlessly addictive fun for players of all ages.</p><p><a href="https://store.steampowered.com/app/4261800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
