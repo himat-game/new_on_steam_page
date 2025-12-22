@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 22 Dec 2025 13:21:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 14:41:12 +0000</lastBuildDate>
+<item>
+  <title>Shape world Level UP - Lite（新規追加）</title>
+  <link>https://store.steampowered.com/app/4184820/</link>
+  <guid isPermaLink="false">steam-store-published-4184820</guid>
+  <pubDate>Mon, 22 Dec 2025 14:41:12 +0000</pubDate>
+  <description>A hyper clicker that combines control and strategy! From casual play to extreme difficulty, anyone can take on the challenge. Experience a vast adventure and endless leveling created by a solo developer!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184820/6167aab4d86c0bfffdcf06a705e4dec93f9623fd/header.jpg?t=1766413439" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184820/6167aab4d86c0bfffdcf06a705e4dec93f9623fd/header.jpg?t=1766413439" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184820/6167aab4d86c0bfffdcf06a705e4dec93f9623fd/header.jpg?t=1766413439" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4184820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184820/6167aab4d86c0bfffdcf06a705e4dec93f9623fd/header.jpg?t=1766413439" alt="Shape world Level UP - Lite（新規追加）" /></a></p><p>A hyper clicker that combines control and strategy! From casual play to extreme difficulty, anyone can take on the challenge. Experience a vast adventure and endless leveling created by a solo developer!</p><p><a href="https://store.steampowered.com/app/4184820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chaos Claw（新規追加）</title>
   <link>https://store.steampowered.com/app/4145900/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261800/3f1224b7568c0f9bc0cc283d7668f51bc3e892a5/header.jpg?t=1766076917" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261800/3f1224b7568c0f9bc0cc283d7668f51bc3e892a5/header.jpg?t=1766076917" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261800/3f1224b7568c0f9bc0cc283d7668f51bc3e892a5/header.jpg?t=1766076917" alt="FastBall 2（新規追加）" /></a></p><p>FastBall 2 is back and faster than ever! Roll, jump, and dodge your way through 155 action-packed levels using simple one-tap controls. Easy to play, tricky to master, and endlessly addictive fun for players of all ages.</p><p><a href="https://store.steampowered.com/app/4261800/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Battlemage Ascension（新規追加）</title>
-  <link>https://store.steampowered.com/app/4237220/</link>
-  <guid isPermaLink="false">steam-store-published-4237220</guid>
-  <pubDate>Thu, 18 Dec 2025 16:58:39 +0000</pubDate>
-  <description>Battlemage Ascension is a first-person melee slasher roguelite set in a dark fantasy world, where you play as a battle mage. Combine brutal melee combat with devastating elemental spells. Unleash physics-driven chaos - throw objects with telekinesis and kick enemies into deadly traps.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237220/09f222b7616a4f84ae510e60e724725fe6dbb728/header.jpg?t=1766075938" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237220/09f222b7616a4f84ae510e60e724725fe6dbb728/header.jpg?t=1766075938" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237220/09f222b7616a4f84ae510e60e724725fe6dbb728/header.jpg?t=1766075938" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4237220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237220/09f222b7616a4f84ae510e60e724725fe6dbb728/header.jpg?t=1766075938" alt="Battlemage Ascension（新規追加）" /></a></p><p>Battlemage Ascension is a first-person melee slasher roguelite set in a dark fantasy world, where you play as a battle mage. Combine brutal melee combat with devastating elemental spells. Unleash physics-driven chaos - throw objects with telekinesis and kick enemies into deadly traps.</p><p><a href="https://store.steampowered.com/app/4237220/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
