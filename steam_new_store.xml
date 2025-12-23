@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 15:19:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 15:53:25 +0000</lastBuildDate>
+<item>
+  <title>GRIDBUSTERS（新規追加）</title>
+  <link>https://store.steampowered.com/app/4226820/</link>
+  <guid isPermaLink="false">steam-store-published-4226820</guid>
+  <pubDate>Tue, 23 Dec 2025 15:53:25 +0000</pubDate>
+  <description>A cozy detective puzzle game where every case is a grid you must investigate, every clue is a piece of logic, and every deduction brings you closer to the truth. Solve handcrafted mysteries across story-driven cases. No guessing — only pure deduction.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4226820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" alt="GRIDBUSTERS（新規追加）" /></a></p><p>A cozy detective puzzle game where every case is a grid you must investigate, every clue is a piece of logic, and every deduction brings you closer to the truth. Solve handcrafted mysteries across story-driven cases. No guessing — only pure deduction.</p><p><a href="https://store.steampowered.com/app/4226820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Eternal Towers（新規追加）</title>
   <link>https://store.steampowered.com/app/4036730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412030/header.jpg?t=1766096049" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412030/header.jpg?t=1766096049" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1412030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412030/header.jpg?t=1766096049" alt="Maiden Maze（新規追加）" /></a></p><p>Catch followers and explore together, Procedural generated random maze, meet various beautiful girls, and then have sex with them while fighting to obtain gold coins, then buy new clothes and weapons, and change them freely.</p><p><a href="https://store.steampowered.com/app/1412030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beauty Escort（新規追加）</title>
-  <link>https://store.steampowered.com/app/2349960/</link>
-  <guid isPermaLink="false">steam-store-published-2349960</guid>
-  <pubDate>Thu, 18 Dec 2025 22:18:05 +0000</pubDate>
-  <description>This is a beat&#x27;em up game, combining Chinese Jiangshi and harem. You will lead your harem to explore the horror world, face diverse Chinese Jiangshi enemies. Develop a battle strategy based on the characteristics of your follower.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349960/header.jpg?t=1766096084" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349960/header.jpg?t=1766096084" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349960/header.jpg?t=1766096084" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2349960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349960/header.jpg?t=1766096084" alt="Beauty Escort（新規追加）" /></a></p><p>This is a beat&#x27;em up game, combining Chinese Jiangshi and harem. You will lead your harem to explore the horror world, face diverse Chinese Jiangshi enemies. Develop a battle strategy based on the characteristics of your follower.</p><p><a href="https://store.steampowered.com/app/2349960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
