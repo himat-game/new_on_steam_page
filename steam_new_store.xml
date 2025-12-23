@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 04:09:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 05:22:04 +0000</lastBuildDate>
+<item>
+  <title>NULL SECTOR: LAST PROTOCOL（新規追加）</title>
+  <link>https://store.steampowered.com/app/4151560/</link>
+  <guid isPermaLink="false">steam-store-published-4151560</guid>
+  <pubDate>Tue, 23 Dec 2025 05:22:04 +0000</pubDate>
+  <description>After the collapse, the machines took control of the cities. They watch, they listen, and they respond. Fight in a fast-paced FPS where awareness, timing, and skill are the keys to survival.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151560/7d6c2368a784f48c9a119b495da1659571c4d702/header.jpg?t=1766465567" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151560/7d6c2368a784f48c9a119b495da1659571c4d702/header.jpg?t=1766465567" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151560/7d6c2368a784f48c9a119b495da1659571c4d702/header.jpg?t=1766465567" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4151560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151560/7d6c2368a784f48c9a119b495da1659571c4d702/header.jpg?t=1766465567" alt="NULL SECTOR: LAST PROTOCOL（新規追加）" /></a></p><p>After the collapse, the machines took control of the cities. They watch, they listen, and they respond. Fight in a fast-paced FPS where awareness, timing, and skill are the keys to survival.</p><p><a href="https://store.steampowered.com/app/4151560/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Guarded by the AI: Painted with Love（新規追加）</title>
   <link>https://store.steampowered.com/app/4260750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176230/58270ce26ad691cd86ebe37abbb0ef078c836ce6/header.jpg?t=1766086113" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176230/58270ce26ad691cd86ebe37abbb0ef078c836ce6/header.jpg?t=1766086113" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4176230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176230/58270ce26ad691cd86ebe37abbb0ef078c836ce6/header.jpg?t=1766086113" alt="Milkraid（新規追加）" /></a></p><p>Defend the milk at all costs! Place towers, build your base, recruit minions, and battle endless swarms of enemies. Unlock new towers, characters and base upgrades, and upgrade them to create ridiculous builds. Every run is unique.</p><p><a href="https://store.steampowered.com/app/4176230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lumia and the Eternal Tower（新規追加）</title>
-  <link>https://store.steampowered.com/app/4245010/</link>
-  <guid isPermaLink="false">steam-store-published-4245010</guid>
-  <pubDate>Thu, 18 Dec 2025 19:20:39 +0000</pubDate>
-  <description>A 2D side-scrolling roguelike action RPG. Control Lumia as she climbs the Eternal Tower, where stages and monsters change with every run. Combine weapons and gacha-acquired modules to create unique combat styles in a dreamlike world blending pixel art and 3D effects.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245010/ce166a827dae25b6d007090fc91b81b2e061a611/header.jpg?t=1766084157" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245010/ce166a827dae25b6d007090fc91b81b2e061a611/header.jpg?t=1766084157" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245010/ce166a827dae25b6d007090fc91b81b2e061a611/header.jpg?t=1766084157" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245010/ce166a827dae25b6d007090fc91b81b2e061a611/header.jpg?t=1766084157" alt="Lumia and the Eternal Tower（新規追加）" /></a></p><p>A 2D side-scrolling roguelike action RPG. Control Lumia as she climbs the Eternal Tower, where stages and monsters change with every run. Combine weapons and gacha-acquired modules to create unique combat styles in a dreamlike world blending pixel art and 3D effects.</p><p><a href="https://store.steampowered.com/app/4245010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
