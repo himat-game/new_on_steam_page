@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 15:53:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 17:19:37 +0000</lastBuildDate>
+<item>
+  <title>SUBSUMED（新規追加）</title>
+  <link>https://store.steampowered.com/app/4259220/</link>
+  <guid isPermaLink="false">steam-store-published-4259220</guid>
+  <pubDate>Tue, 23 Dec 2025 17:19:37 +0000</pubDate>
+  <description>A claustrophobic first-person horror game about crawling through a dark, winding cave system in search of three missing divers.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" alt="SUBSUMED（新規追加）" /></a></p><p>A claustrophobic first-person horror game about crawling through a dark, winding cave system in search of three missing divers.</p><p><a href="https://store.steampowered.com/app/4259220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>GRIDBUSTERS（新規追加）</title>
   <link>https://store.steampowered.com/app/4226820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240950/ffc483d9b8c4c5de2f2575d91f7f91900c2cd6b0/header.jpg?t=1766097804" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240950/ffc483d9b8c4c5de2f2575d91f7f91900c2cd6b0/header.jpg?t=1766097804" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3240950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240950/ffc483d9b8c4c5de2f2575d91f7f91900c2cd6b0/header.jpg?t=1766097804" alt="MAINCORE（新規追加）" /></a></p><p>An open-world survival game featuring building, raiding, PvP, and PvE elements, playable in first- or third-person view. Scavenge resources to construct and fortify bases. Raid player structures for loot. Engage in PvP battles with survivors. Survive PvE threats from wildlife and AI.</p><p><a href="https://store.steampowered.com/app/3240950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Maiden Maze（新規追加）</title>
-  <link>https://store.steampowered.com/app/1412030/</link>
-  <guid isPermaLink="false">steam-store-published-1412030</guid>
-  <pubDate>Thu, 18 Dec 2025 22:18:05 +0000</pubDate>
-  <description>Catch followers and explore together, Procedural generated random maze, meet various beautiful girls, and then have sex with them while fighting to obtain gold coins, then buy new clothes and weapons, and change them freely.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412030/header.jpg?t=1766096049" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412030/header.jpg?t=1766096049" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412030/header.jpg?t=1766096049" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1412030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412030/header.jpg?t=1766096049" alt="Maiden Maze（新規追加）" /></a></p><p>Catch followers and explore together, Procedural generated random maze, meet various beautiful girls, and then have sex with them while fighting to obtain gold coins, then buy new clothes and weapons, and change them freely.</p><p><a href="https://store.steampowered.com/app/1412030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
