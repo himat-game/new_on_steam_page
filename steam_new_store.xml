@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 18:27:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 18:57:12 +0000</lastBuildDate>
+<item>
+  <title>A Sinister Glitch（新規追加）</title>
+  <link>https://store.steampowered.com/app/4268420/</link>
+  <guid isPermaLink="false">steam-store-published-4268420</guid>
+  <pubDate>Tue, 23 Dec 2025 18:57:12 +0000</pubDate>
+  <description>You&#x27;re a punk hacking into the cameras and devices of an abandoned building. Except it&#x27;s not really abandoned, and whatever inhabits it senses your presence and plans to eliminate you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268420/f22fc68b9912547b600491e5488e18c7a3741943/header.jpg?t=1766515518" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268420/f22fc68b9912547b600491e5488e18c7a3741943/header.jpg?t=1766515518" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268420/f22fc68b9912547b600491e5488e18c7a3741943/header.jpg?t=1766515518" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4268420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268420/f22fc68b9912547b600491e5488e18c7a3741943/header.jpg?t=1766515518" alt="A Sinister Glitch（新規追加）" /></a></p><p>You&#x27;re a punk hacking into the cameras and devices of an abandoned building. Except it&#x27;s not really abandoned, and whatever inhabits it senses your presence and plans to eliminate you.</p><p><a href="https://store.steampowered.com/app/4268420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sleuth Saga: Under Starless Skies（新規追加）</title>
   <link>https://store.steampowered.com/app/4060960/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256230/0b510653b30ade004f230d3673e5465f9740af24/header.jpg?t=1766099676" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256230/0b510653b30ade004f230d3673e5465f9740af24/header.jpg?t=1766099676" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256230/0b510653b30ade004f230d3673e5465f9740af24/header.jpg?t=1766099676" alt="Roadside Store Simulator（新規追加）" /></a></p><p>Roadside Store Simulator is a cozy and detailed simulation game where you build and run a roadside general store. Stock shelves, serve customers, hire workers, and grow your business over time while traffic and daily routines flow endlessly around your store.</p><p><a href="https://store.steampowered.com/app/4256230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Duolty（新規追加）</title>
-  <link>https://store.steampowered.com/app/4238690/</link>
-  <guid isPermaLink="false">steam-store-published-4238690</guid>
-  <pubDate>Thu, 18 Dec 2025 23:47:21 +0000</pubDate>
-  <description>Duolty is a mystery, exploration and puzzle game developed by a single person. Dive into a strange world and befriend its curious inhabitants. Will you discover who you really are before it’s too late?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238690/86bfd658a88a6fc667a69a66fd847fefb7009439/header.jpg?t=1766099275" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238690/86bfd658a88a6fc667a69a66fd847fefb7009439/header.jpg?t=1766099275" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238690/86bfd658a88a6fc667a69a66fd847fefb7009439/header.jpg?t=1766099275" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238690/86bfd658a88a6fc667a69a66fd847fefb7009439/header.jpg?t=1766099275" alt="Duolty（新規追加）" /></a></p><p>Duolty is a mystery, exploration and puzzle game developed by a single person. Dive into a strange world and befriend its curious inhabitants. Will you discover who you really are before it’s too late?</p><p><a href="https://store.steampowered.com/app/4238690/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
