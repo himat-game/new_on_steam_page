@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 07:49:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 08:26:22 +0000</lastBuildDate>
+<item>
+  <title>Idle Demon Summoner（新規追加）</title>
+  <link>https://store.steampowered.com/app/4238220/</link>
+  <guid isPermaLink="false">steam-store-published-4238220</guid>
+  <pubDate>Tue, 23 Dec 2025 08:26:22 +0000</pubDate>
+  <description>A dark yet vibrant idle game featuring creature collecting, tower-defense, and bullet-heaven elements. Unlock new demons and weapons to conquer distant worlds.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" alt="Idle Demon Summoner（新規追加）" /></a></p><p>A dark yet vibrant idle game featuring creature collecting, tower-defense, and bullet-heaven elements. Unlock new demons and weapons to conquer distant worlds.</p><p><a href="https://store.steampowered.com/app/4238220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sweetie Candy Maze: Brown Chocolate（新規追加）</title>
   <link>https://store.steampowered.com/app/4268740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251370/24f16f81458802e00cd362606d3e9b2eb246cff1/header.jpg?t=1766092691" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251370/24f16f81458802e00cd362606d3e9b2eb246cff1/header.jpg?t=1766092691" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251370/24f16f81458802e00cd362606d3e9b2eb246cff1/header.jpg?t=1766092691" alt="D.E.C.A.Y.（新規追加）" /></a></p><p>After a nuclear war, the United States became a network of dangerous sectors. You are a lone operative of D.E.C.A.Y., responsible for controlling a remote bunker. Explore ruins, gather resources, carry out orders, and interact with factions in a dying world where order is a matter of choice.</p><p><a href="https://store.steampowered.com/app/4251370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>VerbMeister（新規追加）</title>
-  <link>https://store.steampowered.com/app/4180850/</link>
-  <guid isPermaLink="false">steam-store-published-4180850</guid>
-  <pubDate>Thu, 18 Dec 2025 21:45:49 +0000</pubDate>
-  <description>Learn German irregular verbs through interactive exercises and short story-based challenges that simulate real-life situations.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180850/52debbf61491704cb19431c1ed2d45abaf866f6e/header.jpg?t=1766093421" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180850/52debbf61491704cb19431c1ed2d45abaf866f6e/header.jpg?t=1766093421" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180850/52debbf61491704cb19431c1ed2d45abaf866f6e/header.jpg?t=1766093421" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4180850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180850/52debbf61491704cb19431c1ed2d45abaf866f6e/header.jpg?t=1766093421" alt="VerbMeister（新規追加）" /></a></p><p>Learn German irregular verbs through interactive exercises and short story-based challenges that simulate real-life situations.</p><p><a href="https://store.steampowered.com/app/4180850/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
