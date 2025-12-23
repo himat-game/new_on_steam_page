@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 14:42:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 15:19:23 +0000</lastBuildDate>
+<item>
+  <title>Eternal Towers（新規追加）</title>
+  <link>https://store.steampowered.com/app/4036730/</link>
+  <guid isPermaLink="false">steam-store-published-4036730</guid>
+  <pubDate>Tue, 23 Dec 2025 15:19:23 +0000</pubDate>
+  <description>Build, fight, and adapt as you make your way into the next level in this Roguelite Tower Defense with a splash of action combat and a dash of puzzle mechanics.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" alt="Eternal Towers（新規追加）" /></a></p><p>Build, fight, and adapt as you make your way into the next level in this Roguelite Tower Defense with a splash of action combat and a dash of puzzle mechanics.</p><p><a href="https://store.steampowered.com/app/4036730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Abduct &#x27;Em（新規追加）</title>
   <link>https://store.steampowered.com/app/2712700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349960/header.jpg?t=1766096084" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349960/header.jpg?t=1766096084" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2349960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349960/header.jpg?t=1766096084" alt="Beauty Escort（新規追加）" /></a></p><p>This is a beat&#x27;em up game, combining Chinese Jiangshi and harem. You will lead your harem to explore the horror world, face diverse Chinese Jiangshi enemies. Develop a battle strategy based on the characteristics of your follower.</p><p><a href="https://store.steampowered.com/app/2349960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Your Otherworldly Harem（新規追加）</title>
-  <link>https://store.steampowered.com/app/2229020/</link>
-  <guid isPermaLink="false">steam-store-published-2229020</guid>
-  <pubDate>Thu, 18 Dec 2025 22:18:05 +0000</pubDate>
-  <description>The use of religious explanation, to explain the origin of ghosts in anime. The soul is immortal, the monster in the anime, is a well-designed body, can accurately trap the soul, the reason why the monster is hard and fast, is because the body good use of the energy of the trapped soul.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229020/header.jpg?t=1766096136" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229020/header.jpg?t=1766096136" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229020/header.jpg?t=1766096136" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2229020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2229020/header.jpg?t=1766096136" alt="Your Otherworldly Harem（新規追加）" /></a></p><p>The use of religious explanation, to explain the origin of ghosts in anime. The soul is immortal, the monster in the anime, is a well-designed body, can accurately trap the soul, the reason why the monster is hard and fast, is because the body good use of the energy of the trapped soul.</p><p><a href="https://store.steampowered.com/app/2229020/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
