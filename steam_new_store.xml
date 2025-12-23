@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 13:55:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 14:19:14 +0000</lastBuildDate>
+<item>
+  <title>StoryMode（新規追加）</title>
+  <link>https://store.steampowered.com/app/4245890/</link>
+  <guid isPermaLink="false">steam-store-published-4245890</guid>
+  <pubDate>Tue, 23 Dec 2025 14:19:14 +0000</pubDate>
+  <description>StoryMode is a reading tool completely built around idle/incremental gameplay and progression. Add manga and books, earn experience, levels, and rewards as you read. Complete quests, discover companions, and personalize your reading experience with customizable themes and animated backgrounds.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245890/b052d1419218e943bf0eedc454ea860a90fcc494/header.jpg?t=1766499248" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245890/b052d1419218e943bf0eedc454ea860a90fcc494/header.jpg?t=1766499248" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245890/b052d1419218e943bf0eedc454ea860a90fcc494/header.jpg?t=1766499248" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245890/b052d1419218e943bf0eedc454ea860a90fcc494/header.jpg?t=1766499248" alt="StoryMode（新規追加）" /></a></p><p>StoryMode is a reading tool completely built around idle/incremental gameplay and progression. Add manga and books, earn experience, levels, and rewards as you read. Complete quests, discover companions, and personalize your reading experience with customizable themes and animated backgrounds.</p><p><a href="https://store.steampowered.com/app/4245890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Running Beehind（新規追加）</title>
   <link>https://store.steampowered.com/app/4250560/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914640/header.jpg?t=1766096140" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914640/header.jpg?t=1766096140" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/914640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914640/header.jpg?t=1766096140" alt="Ice and Fire of Maiden（新規追加）" /></a></p><p>Control a sexy beauty to explore infinite random levels! Keep fighting and having sex with other beauties rushing towards you, then collect coins, unlock more and more sex positions and sexy costumes, and enjoy the fruits of your hard work in gallery where you can change sex positions and dresses!</p><p><a href="https://store.steampowered.com/app/914640/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Mirror Circle（新規追加）</title>
-  <link>https://store.steampowered.com/app/4250190/</link>
-  <guid isPermaLink="false">steam-store-published-4250190</guid>
-  <pubDate>Thu, 18 Dec 2025 21:45:49 +0000</pubDate>
-  <description>Naomi enters an abandoned mountain hotel searching for her missing sister. Armed only with a ritual mirror that reveals and purifies spirits, she must confront invisible horrors and uncover the truth hidden within the darkness.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250190/f9930c3887d78b82b7f2e9f3aa230e65eb3e0a1f/header.jpg?t=1766092563" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250190/f9930c3887d78b82b7f2e9f3aa230e65eb3e0a1f/header.jpg?t=1766092563" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250190/f9930c3887d78b82b7f2e9f3aa230e65eb3e0a1f/header.jpg?t=1766092563" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4250190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250190/f9930c3887d78b82b7f2e9f3aa230e65eb3e0a1f/header.jpg?t=1766092563" alt="The Mirror Circle（新規追加）" /></a></p><p>Naomi enters an abandoned mountain hotel searching for her missing sister. Armed only with a ritual mirror that reveals and purifies spirits, she must confront invisible horrors and uncover the truth hidden within the darkness.</p><p><a href="https://store.steampowered.com/app/4250190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
