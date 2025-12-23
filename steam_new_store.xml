@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 05:51:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 06:30:00 +0000</lastBuildDate>
+<item>
+  <title>Demolition Expert 拆迁专家（新規追加）</title>
+  <link>https://store.steampowered.com/app/4222970/</link>
+  <guid isPermaLink="false">steam-store-published-4222970</guid>
+  <pubDate>Tue, 23 Dec 2025 06:30:00 +0000</pubDate>
+  <description>Blast through walls, destroy pillars, and enjoy the moment of collapse. This game lets you destroy buildings in any way you want!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222970/542ba429a9a07b33af21d56151c718f74a26a828/header.jpg?t=1766469425" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222970/542ba429a9a07b33af21d56151c718f74a26a828/header.jpg?t=1766469425" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222970/542ba429a9a07b33af21d56151c718f74a26a828/header.jpg?t=1766469425" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4222970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222970/542ba429a9a07b33af21d56151c718f74a26a828/header.jpg?t=1766469425" alt="Demolition Expert 拆迁专家（新規追加）" /></a></p><p>Blast through walls, destroy pillars, and enjoy the moment of collapse. This game lets you destroy buildings in any way you want!</p><p><a href="https://store.steampowered.com/app/4222970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sweet Ancient（新規追加）</title>
   <link>https://store.steampowered.com/app/4261830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257150/7f0f9108f3c1941c361b7d082981bba969304547/header.jpg?t=1766088536" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257150/7f0f9108f3c1941c361b7d082981bba969304547/header.jpg?t=1766088536" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4257150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257150/7f0f9108f3c1941c361b7d082981bba969304547/header.jpg?t=1766088536" alt="이상의 용사(Hero of Ideal)（新規追加）" /></a></p><p>A story of Ideal that saves Perfection.</p><p><a href="https://store.steampowered.com/app/4257150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Grid Tactics: Duel（新規追加）</title>
-  <link>https://store.steampowered.com/app/3294170/</link>
-  <guid isPermaLink="false">steam-store-published-3294170</guid>
-  <pubDate>Thu, 18 Dec 2025 20:22:01 +0000</pubDate>
-  <description>Grid Tactics is a cosmic colonization adventure game that combines strategic board tactics with deck-building gameplay. Lead your expedition team as you land on diverse planets with shifting seasons, build a customized deck, and engage in tactical battles on an 8×8 grid battlefield.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3294170/2bd34481fb350ed5ae7649a6cb965daac08cd58b/header.jpg?t=1766088862" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3294170/2bd34481fb350ed5ae7649a6cb965daac08cd58b/header.jpg?t=1766088862" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3294170/2bd34481fb350ed5ae7649a6cb965daac08cd58b/header.jpg?t=1766088862" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3294170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3294170/2bd34481fb350ed5ae7649a6cb965daac08cd58b/header.jpg?t=1766088862" alt="Grid Tactics: Duel（新規追加）" /></a></p><p>Grid Tactics is a cosmic colonization adventure game that combines strategic board tactics with deck-building gameplay. Lead your expedition team as you land on diverse planets with shifting seasons, build a customized deck, and engage in tactical battles on an 8×8 grid battlefield.</p><p><a href="https://store.steampowered.com/app/3294170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
