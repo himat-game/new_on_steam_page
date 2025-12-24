@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Dec 2025 10:42:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 11:46:42 +0000</lastBuildDate>
+<item>
+  <title>Body &amp; Soul（新規追加）</title>
+  <link>https://store.steampowered.com/app/3878060/</link>
+  <guid isPermaLink="false">steam-store-published-3878060</guid>
+  <pubDate>Wed, 24 Dec 2025 11:46:42 +0000</pubDate>
+  <description>A 3D puzzle game. Possess different bodies to find the path to the Goal tile.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878060/7fb4d1004247bb87778fe07750f0bd760cbc5495/header.jpg?t=1766573448" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878060/7fb4d1004247bb87778fe07750f0bd760cbc5495/header.jpg?t=1766573448" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878060/7fb4d1004247bb87778fe07750f0bd760cbc5495/header.jpg?t=1766573448" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3878060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878060/7fb4d1004247bb87778fe07750f0bd760cbc5495/header.jpg?t=1766573448" alt="Body &amp; Soul（新規追加）" /></a></p><p>A 3D puzzle game. Possess different bodies to find the path to the Goal tile.</p><p><a href="https://store.steampowered.com/app/3878060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Little Physics Roguelike（新規追加）</title>
   <link>https://store.steampowered.com/app/4263470/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234700/458dd59d2e8b11c293776ab9fb295e1adb71c421/header.jpg?t=1766121345" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234700/458dd59d2e8b11c293776ab9fb295e1adb71c421/header.jpg?t=1766121345" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4234700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234700/458dd59d2e8b11c293776ab9fb295e1adb71c421/header.jpg?t=1766121345" alt="KingBack4:末世降临（新規追加）" /></a></p><p>KingBack sequel, traversing the apocalyptic world, inheriting beauties from the previous game, with adult anime videos viewable after each level clearance.</p><p><a href="https://store.steampowered.com/app/4234700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Street-Spec: 日本（新規追加）</title>
-  <link>https://store.steampowered.com/app/4230950/</link>
-  <guid isPermaLink="false">steam-store-published-4230950</guid>
-  <pubDate>Fri, 19 Dec 2025 04:49:00 +0000</pubDate>
-  <description>Street-Spec is a simcade car game set in Japan&#x27;s Kanto region. Customize your vehicle and push it to its limits at Japan&#x27;s most famous driving hotspots. Race through busy streets or on the track and enjoy a nostalgic, atmospheric vision of early 2000s Japan.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230950/ce2a6d0eb24b0b62cd28ffb011f24c1d62bb9bb1/header.jpg?t=1766119052" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230950/ce2a6d0eb24b0b62cd28ffb011f24c1d62bb9bb1/header.jpg?t=1766119052" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230950/ce2a6d0eb24b0b62cd28ffb011f24c1d62bb9bb1/header.jpg?t=1766119052" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4230950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230950/ce2a6d0eb24b0b62cd28ffb011f24c1d62bb9bb1/header.jpg?t=1766119052" alt="Street-Spec: 日本（新規追加）" /></a></p><p>Street-Spec is a simcade car game set in Japan&#x27;s Kanto region. Customize your vehicle and push it to its limits at Japan&#x27;s most famous driving hotspots. Race through busy streets or on the track and enjoy a nostalgic, atmospheric vision of early 2000s Japan.</p><p><a href="https://store.steampowered.com/app/4230950/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
