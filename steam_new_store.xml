@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Dec 2025 05:21:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 06:59:25 +0000</lastBuildDate>
+<item>
+  <title>Portal Together（新規追加）</title>
+  <link>https://store.steampowered.com/app/4204600/</link>
+  <guid isPermaLink="false">steam-store-published-4204600</guid>
+  <pubDate>Wed, 24 Dec 2025 06:59:25 +0000</pubDate>
+  <description>A co-op platform experience where you cannot progress without unity! In a vertical world full of obstacles, use portals with your teammate to devise creative solutions and escape together...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204600/ab36879c825ae324b079d01ae819f79fcc2a44a9/header.jpg?t=1766558429" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204600/ab36879c825ae324b079d01ae819f79fcc2a44a9/header.jpg?t=1766558429" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204600/ab36879c825ae324b079d01ae819f79fcc2a44a9/header.jpg?t=1766558429" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4204600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204600/ab36879c825ae324b079d01ae819f79fcc2a44a9/header.jpg?t=1766558429" alt="Portal Together（新規追加）" /></a></p><p>A co-op platform experience where you cannot progress without unity! In a vertical world full of obstacles, use portals with your teammate to devise creative solutions and escape together...</p><p><a href="https://store.steampowered.com/app/4204600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Let&#x27;s BUG Dumplings（新規追加）</title>
   <link>https://store.steampowered.com/app/4254960/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256820/9fc249bfd5b345f97ea55ce2a32118cc30a0c577/header.jpg?t=1766115753" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256820/9fc249bfd5b345f97ea55ce2a32118cc30a0c577/header.jpg?t=1766115753" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256820/9fc249bfd5b345f97ea55ce2a32118cc30a0c577/header.jpg?t=1766115753" alt="GIFT UP - FARM（新規追加）" /></a></p><p>A 3D platformer game. The player must climb to the top of a pyramid by jumping on objects and controlling the character with the WASD and spacebar.</p><p><a href="https://store.steampowered.com/app/4256820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TakaichiMornSeed（新規追加）</title>
-  <link>https://store.steampowered.com/app/3832720/</link>
-  <guid isPermaLink="false">steam-store-published-3832720</guid>
-  <pubDate>Fri, 19 Dec 2025 04:05:57 +0000</pubDate>
-  <description>A desktop pet simulator for the overworked. Drag your pet across the screen—it snaps to edges. Set work hours for break reminders. Its killer feature? Scolding your boss when you work late. This is your cute, cathartic companion against burnout.Takaichi acompany with you!Hope Takaichi make you happy</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832720/707011a53fa119ce589d155b294fe87d75053523/header.jpg?t=1766114458" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832720/707011a53fa119ce589d155b294fe87d75053523/header.jpg?t=1766114458" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832720/707011a53fa119ce589d155b294fe87d75053523/header.jpg?t=1766114458" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3832720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832720/707011a53fa119ce589d155b294fe87d75053523/header.jpg?t=1766114458" alt="TakaichiMornSeed（新規追加）" /></a></p><p>A desktop pet simulator for the overworked. Drag your pet across the screen—it snaps to edges. Set work hours for break reminders. Its killer feature? Scolding your boss when you work late. This is your cute, cathartic companion against burnout.Takaichi acompany with you!Hope Takaichi make you happy</p><p><a href="https://store.steampowered.com/app/3832720/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
