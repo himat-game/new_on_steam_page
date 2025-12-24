@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 23 Dec 2025 22:51:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 23:46:58 +0000</lastBuildDate>
+<item>
+  <title>SCP – Containment Breach（新規追加）</title>
+  <link>https://store.steampowered.com/app/2178380/</link>
+  <guid isPermaLink="false">steam-store-published-2178380</guid>
+  <pubDate>Tue, 23 Dec 2025 23:46:58 +0000</pubDate>
+  <description>A procedural first-person horror adventure. You are on your own after something goes terribly wrong in this top-secret containment facility. Collect items to aid in your escape and try to uncover the truth, as horror lurks behind every door. Can you make it out alive?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/88e7a8ddff53631236b094ed1b87e91eedd2c771/header.jpg?t=1766532841" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/88e7a8ddff53631236b094ed1b87e91eedd2c771/header.jpg?t=1766532841" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/88e7a8ddff53631236b094ed1b87e91eedd2c771/header.jpg?t=1766532841" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2178380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178380/88e7a8ddff53631236b094ed1b87e91eedd2c771/header.jpg?t=1766532841" alt="SCP – Containment Breach（新規追加）" /></a></p><p>A procedural first-person horror adventure. You are on your own after something goes terribly wrong in this top-secret containment facility. Collect items to aid in your escape and try to uncover the truth, as horror lurks behind every door. Can you make it out alive?</p><p><a href="https://store.steampowered.com/app/2178380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Halu - The Fish（新規追加）</title>
   <link>https://store.steampowered.com/app/4236810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243060/2435a5a965478d98bdeae12aa7b7a7edeb4fdae8/header.jpg?t=1766103113" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243060/2435a5a965478d98bdeae12aa7b7a7edeb4fdae8/header.jpg?t=1766103113" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243060/2435a5a965478d98bdeae12aa7b7a7edeb4fdae8/header.jpg?t=1766103113" alt="Wings of Vi 2: Guardian&#x27;s Heart（新規追加）" /></a></p><p>Myougi survived. She shattered the sin statues. Now the Seven Deadly Sins walk the shattered realms, and Vi returns, wings reforged, to hunt them down. The vision is a mix of what I&#x27;ve learned: a precision platformer with fast, fluid combat and more player agency.</p><p><a href="https://store.steampowered.com/app/4243060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Run Giraffe Run（新規追加）</title>
-  <link>https://store.steampowered.com/app/4260550/</link>
-  <guid isPermaLink="false">steam-store-published-4260550</guid>
-  <pubDate>Fri, 19 Dec 2025 01:23:25 +0000</pubDate>
-  <description>Run Giraffe Run is a multiplayer fast-paced giraffe racing 2D platformer. Poop bombs. Spit banana peels. Slip on banana peels. Race against friends through chaotic and colorful levels. Have you tried farting?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260550/d18aa4032ae6b1a99629c2689d844b10eaa83eaf/header.jpg?t=1766102397" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260550/d18aa4032ae6b1a99629c2689d844b10eaa83eaf/header.jpg?t=1766102397" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260550/d18aa4032ae6b1a99629c2689d844b10eaa83eaf/header.jpg?t=1766102397" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260550/d18aa4032ae6b1a99629c2689d844b10eaa83eaf/header.jpg?t=1766102397" alt="Run Giraffe Run（新規追加）" /></a></p><p>Run Giraffe Run is a multiplayer fast-paced giraffe racing 2D platformer. Poop bombs. Spit banana peels. Slip on banana peels. Race against friends through chaotic and colorful levels. Have you tried farting?</p><p><a href="https://store.steampowered.com/app/4260550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
