@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Dec 2025 09:26:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 10:19:43 +0000</lastBuildDate>
+<item>
+  <title>Three Jokers（新規追加）</title>
+  <link>https://store.steampowered.com/app/4036360/</link>
+  <guid isPermaLink="false">steam-store-published-4036360</guid>
+  <pubDate>Wed, 24 Dec 2025 10:19:43 +0000</pubDate>
+  <description>A card roguelike inspired by &amp;quot;Balatro&amp;quot; and &amp;quot;Cuphead&amp;quot;. Fight duels, play insane mini-games, build Joker City and rise to greatness — in «Three Jokers»!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" alt="Three Jokers（新規追加）" /></a></p><p>A card roguelike inspired by &amp;quot;Balatro&amp;quot; and &amp;quot;Cuphead&amp;quot;. Fight duels, play insane mini-games, build Joker City and rise to greatness — in «Three Jokers»!</p><p><a href="https://store.steampowered.com/app/4036360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Welcome To My Domain（新規追加）</title>
   <link>https://store.steampowered.com/app/4264170/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247180/fd8f4b4487b875cba5025e29492b33e919faac72/header.jpg?t=1766117629" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247180/fd8f4b4487b875cba5025e29492b33e919faac72/header.jpg?t=1766117629" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4247180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247180/fd8f4b4487b875cba5025e29492b33e919faac72/header.jpg?t=1766117629" alt="Vampires of the 99th Night（新規追加）" /></a></p><p>Blood is your currency, your HP, and your weapon. Reclaim your legacy in this Gothic Action-Roguelike with Base Building elements. Master physics minigames to strike deals, capture monsters in the heat of combat, and build a sprawling castle powered by the visceral fluids of your enemies.</p><p><a href="https://store.steampowered.com/app/4247180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ENDTIMES（新規追加）</title>
-  <link>https://store.steampowered.com/app/4252550/</link>
-  <guid isPermaLink="false">steam-store-published-4252550</guid>
-  <pubDate>Fri, 19 Dec 2025 04:49:00 +0000</pubDate>
-  <description>ENDTIMES IS A SCI-FI HORROR FPS THAT TAKES PLACE IN A COLD WAR BETWEEN ALIENS AND HUMANS AFTER DECADES OF FIGHTING. DISCOVER THE DARK SECRETS THAT LIE UNDERNEATH BILLIONS OF YEARS OF DUST AND DIRT THAT THEY WERE FIGHTING TO PROTECT.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252550/eb39fab1f95feb5ce7de07f068e3816d88aadaf1/header.jpg?t=1766117724" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252550/eb39fab1f95feb5ce7de07f068e3816d88aadaf1/header.jpg?t=1766117724" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252550/eb39fab1f95feb5ce7de07f068e3816d88aadaf1/header.jpg?t=1766117724" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4252550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252550/eb39fab1f95feb5ce7de07f068e3816d88aadaf1/header.jpg?t=1766117724" alt="ENDTIMES（新規追加）" /></a></p><p>ENDTIMES IS A SCI-FI HORROR FPS THAT TAKES PLACE IN A COLD WAR BETWEEN ALIENS AND HUMANS AFTER DECADES OF FIGHTING. DISCOVER THE DARK SECRETS THAT LIE UNDERNEATH BILLIONS OF YEARS OF DUST AND DIRT THAT THEY WERE FIGHTING TO PROTECT.</p><p><a href="https://store.steampowered.com/app/4252550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
