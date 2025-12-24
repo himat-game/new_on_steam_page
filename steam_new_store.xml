@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 24 Dec 2025 06:59:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 07:49:19 +0000</lastBuildDate>
+<item>
+  <title>SokoGhost: Unfinished Business（新規追加）</title>
+  <link>https://store.steampowered.com/app/4254020/</link>
+  <guid isPermaLink="false">steam-store-published-4254020</guid>
+  <pubDate>Wed, 24 Dec 2025 07:49:19 +0000</pubDate>
+  <description>SokoGhost: Unfinished Business is a block-pushing game where you can pass through walls and boxes! A new level of Sokoban inspired puzzles.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254020/aba22b5296337fd6367c76a3919a0018d7cd63eb/header.jpg?t=1766561986" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254020/aba22b5296337fd6367c76a3919a0018d7cd63eb/header.jpg?t=1766561986" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254020/aba22b5296337fd6367c76a3919a0018d7cd63eb/header.jpg?t=1766561986" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254020/aba22b5296337fd6367c76a3919a0018d7cd63eb/header.jpg?t=1766561986" alt="SokoGhost: Unfinished Business（新規追加）" /></a></p><p>SokoGhost: Unfinished Business is a block-pushing game where you can pass through walls and boxes! A new level of Sokoban inspired puzzles.</p><p><a href="https://store.steampowered.com/app/4254020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Portal Together（新規追加）</title>
   <link>https://store.steampowered.com/app/4204600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255540/e8699eb8d46aa5ddd1a85ec15260cb3d1c6b5df2/header.jpg?t=1766118047" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255540/e8699eb8d46aa5ddd1a85ec15260cb3d1c6b5df2/header.jpg?t=1766118047" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255540/e8699eb8d46aa5ddd1a85ec15260cb3d1c6b5df2/header.jpg?t=1766118047" alt="Hentai Adult Science（新規追加）" /></a></p><p>Hentai Adult Science - Do some real science! Solve puzzles and collect pictures. A great way to spend the evening. Choose your favorite difficulty level and test your attentiveness.</p><p><a href="https://store.steampowered.com/app/4255540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GIFT UP - FARM（新規追加）</title>
-  <link>https://store.steampowered.com/app/4256820/</link>
-  <guid isPermaLink="false">steam-store-published-4256820</guid>
-  <pubDate>Fri, 19 Dec 2025 04:05:57 +0000</pubDate>
-  <description>A 3D platformer game. The player must climb to the top of a pyramid by jumping on objects and controlling the character with the WASD and spacebar.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256820/9fc249bfd5b345f97ea55ce2a32118cc30a0c577/header.jpg?t=1766115753" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256820/9fc249bfd5b345f97ea55ce2a32118cc30a0c577/header.jpg?t=1766115753" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256820/9fc249bfd5b345f97ea55ce2a32118cc30a0c577/header.jpg?t=1766115753" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256820/9fc249bfd5b345f97ea55ce2a32118cc30a0c577/header.jpg?t=1766115753" alt="GIFT UP - FARM（新規追加）" /></a></p><p>A 3D platformer game. The player must climb to the top of a pyramid by jumping on objects and controlling the character with the WASD and spacebar.</p><p><a href="https://store.steampowered.com/app/4256820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
