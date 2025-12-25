@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Dec 2025 11:46:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 12:37:00 +0000</lastBuildDate>
+<item>
+  <title>KillGem - New Blood（新規追加）</title>
+  <link>https://store.steampowered.com/app/4266300/</link>
+  <guid isPermaLink="false">steam-store-published-4266300</guid>
+  <pubDate>Thu, 25 Dec 2025 12:37:00 +0000</pubDate>
+  <description>KillGem - New Blood is an epic tower defense game, featuring classical gameplay created in a modern engine. Build powerful defense systems and journey across the continent as you battle against the swarm.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266300/c6cd7882a960708db853f119f8111bacbbb4a3fd/header.jpg?t=1766664849" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266300/c6cd7882a960708db853f119f8111bacbbb4a3fd/header.jpg?t=1766664849" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266300/c6cd7882a960708db853f119f8111bacbbb4a3fd/header.jpg?t=1766664849" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266300/c6cd7882a960708db853f119f8111bacbbb4a3fd/header.jpg?t=1766664849" alt="KillGem - New Blood（新規追加）" /></a></p><p>KillGem - New Blood is an epic tower defense game, featuring classical gameplay created in a modern engine. Build powerful defense systems and journey across the continent as you battle against the swarm.</p><p><a href="https://store.steampowered.com/app/4266300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>冥河旅人(Duat Wayfarer)（新規追加）</title>
   <link>https://store.steampowered.com/app/4247770/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162110/735af490eca6f31313ccba48e120a6622a8fdd7e/header.jpg?t=1766148572" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162110/735af490eca6f31313ccba48e120a6622a8fdd7e/header.jpg?t=1766148572" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4162110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162110/735af490eca6f31313ccba48e120a6622a8fdd7e/header.jpg?t=1766148572" alt="VOSPETKA（新規追加）" /></a></p><p>WELCOME TO THE DORM! VOSPETKA is a chaotic dorm supervisor simulator where you must keep a horde of restless students under control, maintain order, fulfill the administration’s quotas, and sometimes… blow off some steam.</p><p><a href="https://store.steampowered.com/app/4162110/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TowerMancer II（新規追加）</title>
-  <link>https://store.steampowered.com/app/4252880/</link>
-  <guid isPermaLink="false">steam-store-published-4252880</guid>
-  <pubDate>Fri, 19 Dec 2025 12:36:56 +0000</pubDate>
-  <description>TowerMancer Cards is a construction-based deckbuilder in which the player defends their tower from waves of enemies while using cards to build it. The player relies on imps to gather resources and on new rooms to unlock powers and attack enemies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252880/43a5e371ddf01039de30ae6c50ec27fd9da7db39/header.jpg?t=1766146585" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252880/43a5e371ddf01039de30ae6c50ec27fd9da7db39/header.jpg?t=1766146585" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252880/43a5e371ddf01039de30ae6c50ec27fd9da7db39/header.jpg?t=1766146585" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4252880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252880/43a5e371ddf01039de30ae6c50ec27fd9da7db39/header.jpg?t=1766146585" alt="TowerMancer II（新規追加）" /></a></p><p>TowerMancer Cards is a construction-based deckbuilder in which the player defends their tower from waves of enemies while using cards to build it. The player relies on imps to gather resources and on new rooms to unlock powers and attack enemies.</p><p><a href="https://store.steampowered.com/app/4252880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
