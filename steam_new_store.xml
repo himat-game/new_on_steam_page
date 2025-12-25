@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Dec 2025 06:59:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 07:27:24 +0000</lastBuildDate>
+<item>
+  <title>Why Am I Here（新規追加）</title>
+  <link>https://store.steampowered.com/app/4256710/</link>
+  <guid isPermaLink="false">steam-store-published-4256710</guid>
+  <pubDate>Thu, 25 Dec 2025 07:27:24 +0000</pubDate>
+  <description>An immersive side-scrolling survival game combineing colony simulation with action survival. Gather resources, explore hazardous lands, manage and care for your companions&#x27; needs. Upgrade and defend your home using your own strategies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256710/95d943212041737b88f953a7eec5aa8ce468b04a/header.jpg?t=1766646243" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256710/95d943212041737b88f953a7eec5aa8ce468b04a/header.jpg?t=1766646243" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256710/95d943212041737b88f953a7eec5aa8ce468b04a/header.jpg?t=1766646243" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256710/95d943212041737b88f953a7eec5aa8ce468b04a/header.jpg?t=1766646243" alt="Why Am I Here（新規追加）" /></a></p><p>An immersive side-scrolling survival game combineing colony simulation with action survival. Gather resources, explore hazardous lands, manage and care for your companions&#x27; needs. Upgrade and defend your home using your own strategies.</p><p><a href="https://store.steampowered.com/app/4256710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Napolitan Hotel(2D)（新規追加）</title>
   <link>https://store.steampowered.com/app/4262510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110580/235222d442a1a0740ecefc887e5d05d290957510/header.jpg?t=1766138375" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110580/235222d442a1a0740ecefc887e5d05d290957510/header.jpg?t=1766138375" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4110580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110580/235222d442a1a0740ecefc887e5d05d290957510/header.jpg?t=1766138375" alt="GREXOVKA VILLAGE（新規追加）" /></a></p><p>You&#x27;ve come to the village to &amp;quot;recharge.&amp;quot; An hour later, you&#x27;re looking for something you&#x27;ve lost, sniffing incense in a barn, and arguing with people who smile when it suits them. Here, a glance, a pause, and what&#x27;s under the rug decide everything.</p><p><a href="https://store.steampowered.com/app/4110580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>I am the chief（新規追加）</title>
-  <link>https://store.steampowered.com/app/4128590/</link>
-  <guid isPermaLink="false">steam-store-published-4128590</guid>
-  <pubDate>Fri, 19 Dec 2025 10:19:52 +0000</pubDate>
-  <description>Call of Girls is a fantasy RPG centered around &amp;quot;character collection + idle gameplay + strategic combat,&amp;quot; emphasizing high-quality art and a relaxed, long-term play experience. The game features a unique storyline for each character, enhancing the collection and immersive experience.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128590/9a39cf18ed61d1d012f1a55bea7d16d176f11db4/header.jpg?t=1766138821" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128590/9a39cf18ed61d1d012f1a55bea7d16d176f11db4/header.jpg?t=1766138821" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128590/9a39cf18ed61d1d012f1a55bea7d16d176f11db4/header.jpg?t=1766138821" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128590/9a39cf18ed61d1d012f1a55bea7d16d176f11db4/header.jpg?t=1766138821" alt="I am the chief（新規追加）" /></a></p><p>Call of Girls is a fantasy RPG centered around &amp;quot;character collection + idle gameplay + strategic combat,&amp;quot; emphasizing high-quality art and a relaxed, long-term play experience. The game features a unique storyline for each character, enhancing the collection and immersive experience.</p><p><a href="https://store.steampowered.com/app/4128590/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
