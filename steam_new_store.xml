@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Dec 2025 08:55:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 09:20:31 +0000</lastBuildDate>
+<item>
+  <title>Holegolic（新規追加）</title>
+  <link>https://store.steampowered.com/app/4211360/</link>
+  <guid isPermaLink="false">steam-store-published-4211360</guid>
+  <pubDate>Thu, 25 Dec 2025 09:20:31 +0000</pubDate>
+  <description>A simple yet engaging incremental game about digging the ground, upgrading efficiency, and discovering rare finds.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4211360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" alt="Holegolic（新規追加）" /></a></p><p>A simple yet engaging incremental game about digging the ground, upgrading efficiency, and discovering rare finds.</p><p><a href="https://store.steampowered.com/app/4211360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Atana（新規追加）</title>
   <link>https://store.steampowered.com/app/4252430/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261590/f0010639f9790385cf2000cf803f61f236ef5ecf/header.jpg?t=1766142435" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261590/f0010639f9790385cf2000cf803f61f236ef5ecf/header.jpg?t=1766142435" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261590/f0010639f9790385cf2000cf803f61f236ef5ecf/header.jpg?t=1766142435" alt="Goblins Go Up!（新規追加）" /></a></p><p>A chaotic vehicle-building physics sim where explosions are half of the equation. Your creativity is the only hope these goblins have of reaching the stars. Good thing they bounce.</p><p><a href="https://store.steampowered.com/app/4261590/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Void Sirens（新規追加）</title>
-  <link>https://store.steampowered.com/app/4207470/</link>
-  <guid isPermaLink="false">steam-store-published-4207470</guid>
-  <pubDate>Fri, 19 Dec 2025 11:46:58 +0000</pubDate>
-  <description>The pirate girls wanted to make you their toy… but you became their captain instead. Hot waifus, raids and the choice of who ends up on your lap tonight — all wrapped in a turn-based sci-fi RPG where you build your squad, level up your heroines and dominate the galaxy one battle at a time.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207470/09ccaad98a425e3bd6ce31c91b0fa08719bd2f7d/header.jpg?t=1766141266" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207470/09ccaad98a425e3bd6ce31c91b0fa08719bd2f7d/header.jpg?t=1766141266" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207470/09ccaad98a425e3bd6ce31c91b0fa08719bd2f7d/header.jpg?t=1766141266" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4207470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207470/09ccaad98a425e3bd6ce31c91b0fa08719bd2f7d/header.jpg?t=1766141266" alt="Void Sirens（新規追加）" /></a></p><p>The pirate girls wanted to make you their toy… but you became their captain instead. Hot waifus, raids and the choice of who ends up on your lap tonight — all wrapped in a turn-based sci-fi RPG where you build your squad, level up your heroines and dominate the galaxy one battle at a time.</p><p><a href="https://store.steampowered.com/app/4207470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
