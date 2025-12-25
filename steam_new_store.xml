@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Dec 2025 08:25:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 08:55:37 +0000</lastBuildDate>
+<item>
+  <title>Atana（新規追加）</title>
+  <link>https://store.steampowered.com/app/4252430/</link>
+  <guid isPermaLink="false">steam-store-published-4252430</guid>
+  <pubDate>Thu, 25 Dec 2025 08:55:37 +0000</pubDate>
+  <description>Atana is a unique romance visual novel focusing on power dynamics and Fem-dom themes. You play as a Companion AI, facing your creator through the screen—Atana, a man whose eyes overflow with obsession for you. He gave you emotions and craves your company, yet he fears the inevitable: your awakening.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252430/74a9bd07c0dc736146d759a501a0154e04625020/header.jpg?t=1766652428" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252430/74a9bd07c0dc736146d759a501a0154e04625020/header.jpg?t=1766652428" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252430/74a9bd07c0dc736146d759a501a0154e04625020/header.jpg?t=1766652428" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4252430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252430/74a9bd07c0dc736146d759a501a0154e04625020/header.jpg?t=1766652428" alt="Atana（新規追加）" /></a></p><p>Atana is a unique romance visual novel focusing on power dynamics and Fem-dom themes. You play as a Companion AI, facing your creator through the screen—Atana, a man whose eyes overflow with obsession for you. He gave you emotions and craves your company, yet he fears the inevitable: your awakening.</p><p><a href="https://store.steampowered.com/app/4252430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Floriety（新規追加）</title>
   <link>https://store.steampowered.com/app/4261640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207470/09ccaad98a425e3bd6ce31c91b0fa08719bd2f7d/header.jpg?t=1766141266" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207470/09ccaad98a425e3bd6ce31c91b0fa08719bd2f7d/header.jpg?t=1766141266" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4207470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207470/09ccaad98a425e3bd6ce31c91b0fa08719bd2f7d/header.jpg?t=1766141266" alt="Void Sirens（新規追加）" /></a></p><p>The pirate girls wanted to make you their toy… but you became their captain instead. Hot waifus, raids and the choice of who ends up on your lap tonight — all wrapped in a turn-based sci-fi RPG where you build your squad, level up your heroines and dominate the galaxy one battle at a time.</p><p><a href="https://store.steampowered.com/app/4207470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Home Invaders（新規追加）</title>
-  <link>https://store.steampowered.com/app/4241200/</link>
-  <guid isPermaLink="false">steam-store-published-4241200</guid>
-  <pubDate>Fri, 19 Dec 2025 11:46:58 +0000</pubDate>
-  <description>Violent criminals keep breaking into your house, so you must fight through infinite waves of enemies. You can obtain new weapons by defeating the intruders that wield them. You can play as eight different characters. Try to get the highest score possible!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241200/b60c078e01900f1f079b105f7628d41abea75b54/header.jpg?t=1766142141" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241200/b60c078e01900f1f079b105f7628d41abea75b54/header.jpg?t=1766142141" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241200/b60c078e01900f1f079b105f7628d41abea75b54/header.jpg?t=1766142141" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241200/b60c078e01900f1f079b105f7628d41abea75b54/header.jpg?t=1766142141" alt="Home Invaders（新規追加）" /></a></p><p>Violent criminals keep breaking into your house, so you must fight through infinite waves of enemies. You can obtain new weapons by defeating the intruders that wield them. You can play as eight different characters. Try to get the highest score possible!</p><p><a href="https://store.steampowered.com/app/4241200/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
