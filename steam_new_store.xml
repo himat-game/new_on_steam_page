@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Dec 2025 04:51:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 05:51:31 +0000</lastBuildDate>
+<item>
+  <title>What&#x27;s in the box?（新規追加）</title>
+  <link>https://store.steampowered.com/app/4271720/</link>
+  <guid isPermaLink="false">steam-store-published-4271720</guid>
+  <pubDate>Thu, 25 Dec 2025 05:51:31 +0000</pubDate>
+  <description>A first-person incremental game where you buy and open containers filled with random items, repair and upgrade the things you find, and sell them for profit. In a dark industrial environment, upgrade your character, tools, and machines, earn money, and step by step work your way toward freedom.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" alt="What&#x27;s in the box?（新規追加）" /></a></p><p>A first-person incremental game where you buy and open containers filled with random items, repair and upgrade the things you find, and sell them for profit. In a dark industrial environment, upgrade your character, tools, and machines, earn money, and step by step work your way toward freedom.</p><p><a href="https://store.steampowered.com/app/4271720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Where’s My Lewd Deck? Deep ’n Dive（新規追加）</title>
   <link>https://store.steampowered.com/app/4237470/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221690/e760ab688ff77f14bfbdc850e6f804b298c69875/header.jpg?t=1766138802" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221690/e760ab688ff77f14bfbdc850e6f804b298c69875/header.jpg?t=1766138802" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221690/e760ab688ff77f14bfbdc850e6f804b298c69875/header.jpg?t=1766138802" alt="Viral Hunters（新規追加）" /></a></p><p>This is a local multiplayer asymmetric duel game for two players. You are trapped in the same facility, aiming to find a way out through the scattered &amp;quot;Vaccine Injectors&amp;quot;. The game&#x27;s core revolves around the crucial vaccines.</p><p><a href="https://store.steampowered.com/app/4221690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fiestag（新規追加）</title>
-  <link>https://store.steampowered.com/app/3916830/</link>
-  <guid isPermaLink="false">steam-store-published-3916830</guid>
-  <pubDate>Fri, 19 Dec 2025 10:19:52 +0000</pubDate>
-  <description>Fiestag is a sideview parkour party game that takes the rules of TAG and mixes them with new rules and various playground.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916830/e5f45256bf546db89491256870513a2572d7f3df/header.jpg?t=1766138837" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916830/e5f45256bf546db89491256870513a2572d7f3df/header.jpg?t=1766138837" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916830/e5f45256bf546db89491256870513a2572d7f3df/header.jpg?t=1766138837" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3916830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916830/e5f45256bf546db89491256870513a2572d7f3df/header.jpg?t=1766138837" alt="Fiestag（新規追加）" /></a></p><p>Fiestag is a sideview parkour party game that takes the rules of TAG and mixes them with new rules and various playground.</p><p><a href="https://store.steampowered.com/app/3916830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
