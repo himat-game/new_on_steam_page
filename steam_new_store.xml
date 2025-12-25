@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Dec 2025 14:52:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 21:46:40 +0000</lastBuildDate>
+<item>
+  <title>Pharma Noctis（新規追加）</title>
+  <link>https://store.steampowered.com/app/3886590/</link>
+  <guid isPermaLink="false">steam-store-published-3886590</guid>
+  <pubDate>Thu, 25 Dec 2025 21:46:40 +0000</pubDate>
+  <description>Pharma Noctis is a psychological horror game. You work as a pharmacist in a night pharmacy, serving customers and keeping things in order. The deeper you sink into the routine, the more you begin to feel that something is wrong within these walls.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886590/83e51f7d52cbbe17bd75786220a7af5579567ec6/header.jpg?t=1766697582" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886590/83e51f7d52cbbe17bd75786220a7af5579567ec6/header.jpg?t=1766697582" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886590/83e51f7d52cbbe17bd75786220a7af5579567ec6/header.jpg?t=1766697582" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3886590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886590/83e51f7d52cbbe17bd75786220a7af5579567ec6/header.jpg?t=1766697582" alt="Pharma Noctis（新規追加）" /></a></p><p>Pharma Noctis is a psychological horror game. You work as a pharmacist in a night pharmacy, serving customers and keeping things in order. The deeper you sink into the routine, the more you begin to feel that something is wrong within these walls.</p><p><a href="https://store.steampowered.com/app/3886590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Swordformer（新規追加）</title>
   <link>https://store.steampowered.com/app/4227110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232200/55aa0ecc3c007a90c4e2929e27a61c9a56be92de/header.jpg?t=1766148759" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232200/55aa0ecc3c007a90c4e2929e27a61c9a56be92de/header.jpg?t=1766148759" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232200/55aa0ecc3c007a90c4e2929e27a61c9a56be92de/header.jpg?t=1766148759" alt="HOTSHOTS（新規追加）" /></a></p><p>HOTSHOTS — is a dynamic, 2D adventure where the price of error is the complete loss of progress. There is no place for saving here: every run is an intense, separate battle. Your only reward for victory is taking valuable weapons with you to start the next, even more dangerous run...</p><p><a href="https://store.steampowered.com/app/4232200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Truckin It（新規追加）</title>
-  <link>https://store.steampowered.com/app/4150960/</link>
-  <guid isPermaLink="false">steam-store-published-4150960</guid>
-  <pubDate>Fri, 19 Dec 2025 13:20:12 +0000</pubDate>
-  <description>Truckin’ It is a fast-paced online co-op delivery game where two players struggle to deliver cargo quickly without losing it. Choose risky shortcuts or safer long routes, trust your partner, and enjoy the chaotic, silly world as you work together for the best score.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150960/497b9e344ed237825adfc5f078449ab2ae21c968/header.jpg?t=1766147560" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150960/497b9e344ed237825adfc5f078449ab2ae21c968/header.jpg?t=1766147560" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150960/497b9e344ed237825adfc5f078449ab2ae21c968/header.jpg?t=1766147560" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4150960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150960/497b9e344ed237825adfc5f078449ab2ae21c968/header.jpg?t=1766147560" alt="Truckin It（新規追加）" /></a></p><p>Truckin’ It is a fast-paced online co-op delivery game where two players struggle to deliver cargo quickly without losing it. Choose risky shortcuts or safer long routes, trust your partner, and enjoy the chaotic, silly world as you work together for the best score.</p><p><a href="https://store.steampowered.com/app/4150960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
