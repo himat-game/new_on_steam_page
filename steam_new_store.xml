@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 25 Dec 2025 12:37:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 14:52:26 +0000</lastBuildDate>
+<item>
+  <title>Swordformer（新規追加）</title>
+  <link>https://store.steampowered.com/app/4227110/</link>
+  <guid isPermaLink="false">steam-store-published-4227110</guid>
+  <pubDate>Thu, 25 Dec 2025 14:52:26 +0000</pubDate>
+  <description>Only two buttons for ultimate action: move and pick perks. Slash hordes, craft insane builds, and unleash wild weapons. Help Josh The Barbarian escape the Shadow Wizard Gang&#x27;s video game prison!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227110/c17123638a0e31931736b205ad0ec66d7ccf8ed5/header.jpg?t=1766673235" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227110/c17123638a0e31931736b205ad0ec66d7ccf8ed5/header.jpg?t=1766673235" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227110/c17123638a0e31931736b205ad0ec66d7ccf8ed5/header.jpg?t=1766673235" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4227110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227110/c17123638a0e31931736b205ad0ec66d7ccf8ed5/header.jpg?t=1766673235" alt="Swordformer（新規追加）" /></a></p><p>Only two buttons for ultimate action: move and pick perks. Slash hordes, craft insane builds, and unleash wild weapons. Help Josh The Barbarian escape the Shadow Wizard Gang&#x27;s video game prison!</p><p><a href="https://store.steampowered.com/app/4227110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>KillGem - New Blood（新規追加）</title>
   <link>https://store.steampowered.com/app/4266300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150960/497b9e344ed237825adfc5f078449ab2ae21c968/header.jpg?t=1766147560" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150960/497b9e344ed237825adfc5f078449ab2ae21c968/header.jpg?t=1766147560" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4150960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150960/497b9e344ed237825adfc5f078449ab2ae21c968/header.jpg?t=1766147560" alt="Truckin It（新規追加）" /></a></p><p>Truckin’ It is a fast-paced online co-op delivery game where two players struggle to deliver cargo quickly without losing it. Choose risky shortcuts or safer long routes, trust your partner, and enjoy the chaotic, silly world as you work together for the best score.</p><p><a href="https://store.steampowered.com/app/4150960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>VOSPETKA（新規追加）</title>
-  <link>https://store.steampowered.com/app/4162110/</link>
-  <guid isPermaLink="false">steam-store-published-4162110</guid>
-  <pubDate>Fri, 19 Dec 2025 13:20:12 +0000</pubDate>
-  <description>WELCOME TO THE DORM! VOSPETKA is a chaotic dorm supervisor simulator where you must keep a horde of restless students under control, maintain order, fulfill the administration’s quotas, and sometimes… blow off some steam.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162110/735af490eca6f31313ccba48e120a6622a8fdd7e/header.jpg?t=1766148572" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162110/735af490eca6f31313ccba48e120a6622a8fdd7e/header.jpg?t=1766148572" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162110/735af490eca6f31313ccba48e120a6622a8fdd7e/header.jpg?t=1766148572" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4162110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162110/735af490eca6f31313ccba48e120a6622a8fdd7e/header.jpg?t=1766148572" alt="VOSPETKA（新規追加）" /></a></p><p>WELCOME TO THE DORM! VOSPETKA is a chaotic dorm supervisor simulator where you must keep a horde of restless students under control, maintain order, fulfill the administration’s quotas, and sometimes… blow off some steam.</p><p><a href="https://store.steampowered.com/app/4162110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
