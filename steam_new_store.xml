@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 26 Dec 2025 20:19:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 20:50:52 +0000</lastBuildDate>
+<item>
+  <title>A Game About Having A Job（新規追加）</title>
+  <link>https://store.steampowered.com/app/4272350/</link>
+  <guid isPermaLink="false">steam-store-published-4272350</guid>
+  <pubDate>Fri, 26 Dec 2025 20:50:52 +0000</pubDate>
+  <description>The money management simulation where you work, trade, bank, and gamble in a procedurally generated world. Browse the job market, gain skills through employment, buy stocks, trade options, place risky bets, and hit it big in a world that&#x27;s different every time you play.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272350/79013709d20136465afec9439e06fdd140fa36fd/header.jpg?t=1766782172" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272350/79013709d20136465afec9439e06fdd140fa36fd/header.jpg?t=1766782172" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272350/79013709d20136465afec9439e06fdd140fa36fd/header.jpg?t=1766782172" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272350/79013709d20136465afec9439e06fdd140fa36fd/header.jpg?t=1766782172" alt="A Game About Having A Job（新規追加）" /></a></p><p>The money management simulation where you work, trade, bank, and gamble in a procedurally generated world. Browse the job market, gain skills through employment, buy stocks, trade options, place risky bets, and hit it big in a world that&#x27;s different every time you play.</p><p><a href="https://store.steampowered.com/app/4272350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Glorio（新規追加）</title>
   <link>https://store.steampowered.com/app/4269770/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232850/e2a936cca17ceb62d861c29cdb007a1bc707e23c/header.jpg?t=1766169962" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232850/e2a936cca17ceb62d861c29cdb007a1bc707e23c/header.jpg?t=1766169962" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232850/e2a936cca17ceb62d861c29cdb007a1bc707e23c/header.jpg?t=1766169962" alt="UltiMage（新規追加）" /></a></p><p>A top-down single-player rogue-lite where you master manual spellcasting, battle waves of enemies, and grow stronger through uncapped meta progression. Become the ultimate mage across ever-changing magical levels</p><p><a href="https://store.steampowered.com/app/4232850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GRID/（新規追加）</title>
-  <link>https://store.steampowered.com/app/4244590/</link>
-  <guid isPermaLink="false">steam-store-published-4244590</guid>
-  <pubDate>Fri, 19 Dec 2025 19:44:31 +0000</pubDate>
-  <description>Grid Slash is a fast-paced, grid-based visual debugging action game where you dive into consecutive battles and wipe out system-breaking bugs.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244590/ac0702bf5a1e1b85e411a0c5e3706acce234dda8/header.jpg?t=1766172944" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244590/ac0702bf5a1e1b85e411a0c5e3706acce234dda8/header.jpg?t=1766172944" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244590/ac0702bf5a1e1b85e411a0c5e3706acce234dda8/header.jpg?t=1766172944" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4244590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244590/ac0702bf5a1e1b85e411a0c5e3706acce234dda8/header.jpg?t=1766172944" alt="GRID/（新規追加）" /></a></p><p>Grid Slash is a fast-paced, grid-based visual debugging action game where you dive into consecutive battles and wipe out system-breaking bugs.</p><p><a href="https://store.steampowered.com/app/4244590/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
