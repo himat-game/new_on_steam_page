@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 26 Dec 2025 05:42:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 06:29:06 +0000</lastBuildDate>
+<item>
+  <title>星宇战舰 Astral-Battlecraft（新規追加）</title>
+  <link>https://store.steampowered.com/app/3848460/</link>
+  <guid isPermaLink="false">steam-store-published-3848460</guid>
+  <pubDate>Fri, 26 Dec 2025 06:29:06 +0000</pubDate>
+  <description>3D Rogue Game Space Battleship Rogue Game light Tactical System, Inertia System, Drift System DIY Weapons: Flexible weapon customization with independent cooldowns. Weapons can be destroyed.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848460/1cebd3555d4068c0db1a41c279bd18ea510f2f79/header.jpg?t=1766728458" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848460/1cebd3555d4068c0db1a41c279bd18ea510f2f79/header.jpg?t=1766728458" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848460/1cebd3555d4068c0db1a41c279bd18ea510f2f79/header.jpg?t=1766728458" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3848460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848460/1cebd3555d4068c0db1a41c279bd18ea510f2f79/header.jpg?t=1766728458" alt="星宇战舰 Astral-Battlecraft（新規追加）" /></a></p><p>3D Rogue Game Space Battleship Rogue Game light Tactical System, Inertia System, Drift System DIY Weapons: Flexible weapon customization with independent cooldowns. Weapons can be destroyed.</p><p><a href="https://store.steampowered.com/app/3848460/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pu-Tong Home（新規追加）</title>
   <link>https://store.steampowered.com/app/4121890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245760/d39b7aa82eae121466fa65fb1f143fdc48da3b08/header.jpg?t=1766152101" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245760/d39b7aa82eae121466fa65fb1f143fdc48da3b08/header.jpg?t=1766152101" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245760/d39b7aa82eae121466fa65fb1f143fdc48da3b08/header.jpg?t=1766152101" alt="Dino Quest（新規追加）" /></a></p><p>Travel the world hunting for rare dinosaur fossils to assemble full dinosaurs and build your dream museum! Dig smart, use tools and strategy to uncover prehistoric bones hidden underground and complete your dinosaur collection in Dino Quest!</p><p><a href="https://store.steampowered.com/app/4245760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>staccato（新規追加）</title>
-  <link>https://store.steampowered.com/app/4249170/</link>
-  <guid isPermaLink="false">steam-store-published-4249170</guid>
-  <pubDate>Fri, 19 Dec 2025 14:18:58 +0000</pubDate>
-  <description>A story about &amp;quot;Listening&amp;quot; and &amp;quot;Choosing.&amp;quot; After waking up in an unfamiliar place, &amp;quot;I&amp;quot; encounter a girl named ROSA. In an unfamiliar, empty era,Try to rediscover the world.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249170/0a0b3aee7b0efc0fc84bc2063e4de909998f6eea/header.jpg?t=1766153245" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249170/0a0b3aee7b0efc0fc84bc2063e4de909998f6eea/header.jpg?t=1766153245" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249170/0a0b3aee7b0efc0fc84bc2063e4de909998f6eea/header.jpg?t=1766153245" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249170/0a0b3aee7b0efc0fc84bc2063e4de909998f6eea/header.jpg?t=1766153245" alt="staccato（新規追加）" /></a></p><p>A story about &amp;quot;Listening&amp;quot; and &amp;quot;Choosing.&amp;quot; After waking up in an unfamiliar place, &amp;quot;I&amp;quot; encounter a girl named ROSA. In an unfamiliar, empty era,Try to rediscover the world.</p><p><a href="https://store.steampowered.com/app/4249170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
