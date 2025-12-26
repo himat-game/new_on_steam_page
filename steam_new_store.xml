@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 26 Dec 2025 15:50:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 16:20:56 +0000</lastBuildDate>
+<item>
+  <title>Reap &amp; Repay（新規追加）</title>
+  <link>https://store.steampowered.com/app/4259060/</link>
+  <guid isPermaLink="false">steam-store-published-4259060</guid>
+  <pubDate>Fri, 26 Dec 2025 16:20:56 +0000</pubDate>
+  <description>Reap and collect the crops to repay the debt of villagers in this short, non-idle incremental game. Start weak, invest in the skill tree to unlock various new abilities and become strong enough to harvest every field.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259060/d7ef27410507fc177a6bfb30f1f8f46aed251985/header.jpg?t=1766765928" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259060/d7ef27410507fc177a6bfb30f1f8f46aed251985/header.jpg?t=1766765928" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259060/d7ef27410507fc177a6bfb30f1f8f46aed251985/header.jpg?t=1766765928" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259060/d7ef27410507fc177a6bfb30f1f8f46aed251985/header.jpg?t=1766765928" alt="Reap &amp; Repay（新規追加）" /></a></p><p>Reap and collect the crops to repay the debt of villagers in this short, non-idle incremental game. Start weak, invest in the skill tree to unlock various new abilities and become strong enough to harvest every field.</p><p><a href="https://store.steampowered.com/app/4259060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Gilded Lady: Life and Love in a Cyborg Shop（新規追加）</title>
   <link>https://store.steampowered.com/app/3521800/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037480/457303e6a1d41b619c3d2b4ba928df3eabfaa29a/header.jpg?t=1766160565" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037480/457303e6a1d41b619c3d2b4ba928df3eabfaa29a/header.jpg?t=1766160565" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4037480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037480/457303e6a1d41b619c3d2b4ba928df3eabfaa29a/header.jpg?t=1766160565" alt="Dwarven Alchemist（新規追加）" /></a></p><p>Dwarven Alchemist is a traditional-modern dungeon-crawling roguelike where alchemy is a solution to every problem. Pick mushrooms, mine for ore, take parts of slain monsters. Brew potions, make explosives, craft vile poisons. Take contracts, rebuild your workshop, and become Master Alchemist!</p><p><a href="https://store.steampowered.com/app/4037480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>白纸星途:民国乱世歌姬（新規追加）</title>
-  <link>https://store.steampowered.com/app/4262000/</link>
-  <guid isPermaLink="false">steam-store-published-4262000</guid>
-  <pubDate>Fri, 19 Dec 2025 16:23:30 +0000</pubDate>
-  <description>&amp;quot;Oriental Songstress1930&amp;quot;​ is a FMV. Players will participate from a third-person perspective in the growth process of the historical figure &amp;quot;Zhou Xuan&amp;quot; . Explore Zhou Xuan’s story through extensive branching plots, item collection, and experience and collect the storylines of multiple characters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262000/beae0f21eb06cab49ac7d885f72f3d1920cba2b0/header.jpg?t=1766160232" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262000/beae0f21eb06cab49ac7d885f72f3d1920cba2b0/header.jpg?t=1766160232" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262000/beae0f21eb06cab49ac7d885f72f3d1920cba2b0/header.jpg?t=1766160232" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262000/beae0f21eb06cab49ac7d885f72f3d1920cba2b0/header.jpg?t=1766160232" alt="白纸星途:民国乱世歌姬（新規追加）" /></a></p><p>&amp;quot;Oriental Songstress1930&amp;quot;​ is a FMV. Players will participate from a third-person perspective in the growth process of the historical figure &amp;quot;Zhou Xuan&amp;quot; . Explore Zhou Xuan’s story through extensive branching plots, item collection, and experience and collect the storylines of multiple characters.</p><p><a href="https://store.steampowered.com/app/4262000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
