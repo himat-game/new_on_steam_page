@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 26 Dec 2025 21:45:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 22:17:57 +0000</lastBuildDate>
+<item>
+  <title>LOST INSIDE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4272970/</link>
+  <guid isPermaLink="false">steam-store-published-4272970</guid>
+  <pubDate>Fri, 26 Dec 2025 22:17:57 +0000</pubDate>
+  <description>LOST INSIDE is a story-driven, non-traditional RPG about a little human child who stumbles their way into the Spirit World. They soon find out that the world has been corrupted by a curse, and only they can save the world for good by finding the 3 energy stones.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272970/904b18412462bc113e2a67d22b978bc326517f3e/header.jpg?t=1766787149" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272970/904b18412462bc113e2a67d22b978bc326517f3e/header.jpg?t=1766787149" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272970/904b18412462bc113e2a67d22b978bc326517f3e/header.jpg?t=1766787149" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272970/904b18412462bc113e2a67d22b978bc326517f3e/header.jpg?t=1766787149" alt="LOST INSIDE（新規追加）" /></a></p><p>LOST INSIDE is a story-driven, non-traditional RPG about a little human child who stumbles their way into the Spirit World. They soon find out that the world has been corrupted by a curse, and only they can save the world for good by finding the 3 energy stones.</p><p><a href="https://store.steampowered.com/app/4272970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Trapped on the FlipSide（新規追加）</title>
   <link>https://store.steampowered.com/app/4272360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048250/578eed8679a190ec5ef5c991b433690d662a71a1/header.jpg?t=1766170565" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048250/578eed8679a190ec5ef5c991b433690d662a71a1/header.jpg?t=1766170565" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4048250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048250/578eed8679a190ec5ef5c991b433690d662a71a1/header.jpg?t=1766170565" alt="Jiří Kára Simulátor（新規追加）" /></a></p><p>Jiří Kára Simulator is a Czech independent action FPS inspired by the cult video The Wedding of Jiří Kára. Playing as Jirka, you dive into Prague at the turn of the millennium and experience what happened the day after his legendary wedding</p><p><a href="https://store.steampowered.com/app/4048250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Purrspective（新規追加）</title>
-  <link>https://store.steampowered.com/app/4005790/</link>
-  <guid isPermaLink="false">steam-store-published-4005790</guid>
-  <pubDate>Fri, 19 Dec 2025 19:44:31 +0000</pubDate>
-  <description>Scale objects around you to climb buildings and reach the top of the city. Collect powerups and become stronger to reach new heights! Explore the city, help the citizens of this wacky world and see how big or small you can make the objects around you!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005790/1cd3e91eb5bce0f00e184d61f9a6e87b531ec371/header.jpg?t=1766172499" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005790/1cd3e91eb5bce0f00e184d61f9a6e87b531ec371/header.jpg?t=1766172499" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005790/1cd3e91eb5bce0f00e184d61f9a6e87b531ec371/header.jpg?t=1766172499" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4005790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005790/1cd3e91eb5bce0f00e184d61f9a6e87b531ec371/header.jpg?t=1766172499" alt="Purrspective（新規追加）" /></a></p><p>Scale objects around you to climb buildings and reach the top of the city. Collect powerups and become stronger to reach new heights! Explore the city, help the citizens of this wacky world and see how big or small you can make the objects around you!</p><p><a href="https://store.steampowered.com/app/4005790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
