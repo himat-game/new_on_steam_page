@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 26 Dec 2025 17:46:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 18:26:36 +0000</lastBuildDate>
+<item>
+  <title>Batamonisk（新規追加）</title>
+  <link>https://store.steampowered.com/app/4220170/</link>
+  <guid isPermaLink="false">steam-store-published-4220170</guid>
+  <pubDate>Fri, 26 Dec 2025 18:26:36 +0000</pubDate>
+  <description>Batamonisk is an RPG action game with a fairly short story. Taking around 2 hours at most for the main story. A Story consisting of a holy dragon and a demon king, Even mentions of a demon god. I ask of you Nakato, Will you uncover this story in full? Or are you becoming a part of it?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220170/e1071539df6c895cd5385f41d0f0e8b86d53cbe4/header.jpg?t=1766771732" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220170/e1071539df6c895cd5385f41d0f0e8b86d53cbe4/header.jpg?t=1766771732" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220170/e1071539df6c895cd5385f41d0f0e8b86d53cbe4/header.jpg?t=1766771732" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4220170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220170/e1071539df6c895cd5385f41d0f0e8b86d53cbe4/header.jpg?t=1766771732" alt="Batamonisk（新規追加）" /></a></p><p>Batamonisk is an RPG action game with a fairly short story. Taking around 2 hours at most for the main story. A Story consisting of a holy dragon and a demon king, Even mentions of a demon god. I ask of you Nakato, Will you uncover this story in full? Or are you becoming a part of it?</p><p><a href="https://store.steampowered.com/app/4220170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mining Shift（新規追加）</title>
   <link>https://store.steampowered.com/app/3903590/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251310/f4969d22103774cbbd6bba7323877f4489d9bdf2/header.jpg?t=1766166298" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251310/f4969d22103774cbbd6bba7323877f4489d9bdf2/header.jpg?t=1766166298" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251310/f4969d22103774cbbd6bba7323877f4489d9bdf2/header.jpg?t=1766166298" alt="Dilemma（新規追加）" /></a></p><p>A grim and brutally realistic medical sim where every decision has consequences. Review patient records, consult the Medical Bible, and watch as your choices reshape your Ethics, Reputation, and Legal Risk. In this broken system, saving a life might bring more trouble than letting it go.</p><p><a href="https://store.steampowered.com/app/4251310/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Isernsmith（新規追加）</title>
-  <link>https://store.steampowered.com/app/4248520/</link>
-  <guid isPermaLink="false">steam-store-published-4248520</guid>
-  <pubDate>Fri, 19 Dec 2025 17:45:19 +0000</pubDate>
-  <description>Isernsmith is a gothic action-adventure RPG where you have to explore dungeons, gather resources, and forge new weapons and tools to overcome a tyrannical order. </description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248520/2046f8442229e9d437fc721da68af914831e8738/header.jpg?t=1766164115" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248520/2046f8442229e9d437fc721da68af914831e8738/header.jpg?t=1766164115" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248520/2046f8442229e9d437fc721da68af914831e8738/header.jpg?t=1766164115" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4248520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248520/2046f8442229e9d437fc721da68af914831e8738/header.jpg?t=1766164115" alt="Isernsmith（新規追加）" /></a></p><p>Isernsmith is a gothic action-adventure RPG where you have to explore dungeons, gather resources, and forge new weapons and tools to overcome a tyrannical order. </p><p><a href="https://store.steampowered.com/app/4248520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
