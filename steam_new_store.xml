@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Dec 2025 04:04:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 04:46:25 +0000</lastBuildDate>
+<item>
+  <title>VALERIAN（新規追加）</title>
+  <link>https://store.steampowered.com/app/4229000/</link>
+  <guid isPermaLink="false">steam-store-published-4229000</guid>
+  <pubDate>Sat, 27 Dec 2025 04:46:25 +0000</pubDate>
+  <description>Take control of two heroes in an unlikely alliance, help them in combat and exploration through a ruined world, and guide them to their ultimate fates.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229000/99dd77a6145b0f3962a56c74b8a3ab457913eaef/header.jpg?t=1766810639" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229000/99dd77a6145b0f3962a56c74b8a3ab457913eaef/header.jpg?t=1766810639" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229000/99dd77a6145b0f3962a56c74b8a3ab457913eaef/header.jpg?t=1766810639" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4229000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229000/99dd77a6145b0f3962a56c74b8a3ab457913eaef/header.jpg?t=1766810639" alt="VALERIAN（新規追加）" /></a></p><p>Take control of two heroes in an unlikely alliance, help them in combat and exploration through a ruined world, and guide them to their ultimate fates.</p><p><a href="https://store.steampowered.com/app/4229000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>패배자 박중붕(사랑이 뭐야?) Loser Park Jung-bung(What is Love?)（新規追加）</title>
   <link>https://store.steampowered.com/app/4238370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233470/3cdebd568829e68e24fffa0f92122c591d5725bd/header.jpg?t=1766182080" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233470/3cdebd568829e68e24fffa0f92122c591d5725bd/header.jpg?t=1766182080" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4233470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233470/3cdebd568829e68e24fffa0f92122c591d5725bd/header.jpg?t=1766182080" alt="Neighbor Master（新規追加）" /></a></p><p>Your neighbor just bought a SPORTS CAR. You? You&#x27;re broke. But you have a shovel and a backyard full of... opportunity. Dig, melt, and bottle snow to build a &amp;quot;Premium Glacier Water&amp;quot; empire. Send in the drones, upgrade your gear, and save up for a ride that will make his car look like a cheap toy.</p><p><a href="https://store.steampowered.com/app/4233470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Blade of Vengeance: Night Raid at Swift Peak Pass（新規追加）</title>
-  <link>https://store.steampowered.com/app/4214290/</link>
-  <guid isPermaLink="false">steam-store-published-4214290</guid>
-  <pubDate>Fri, 19 Dec 2025 22:18:21 +0000</pubDate>
-  <description>A 29th Army soldier in the 1933 night raid. Master shadows, avoid lights, and use your dadao in this UE5 stealth game. Execute enemies or deflect bullets. Chinese opera music and masks create a unique &amp;quot;war drama&amp;quot; across 4 missions of courage.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214290/f1cbd4f12d94a04f5309cc8f47c7422ef752a68b/header.jpg?t=1766180638" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214290/f1cbd4f12d94a04f5309cc8f47c7422ef752a68b/header.jpg?t=1766180638" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214290/f1cbd4f12d94a04f5309cc8f47c7422ef752a68b/header.jpg?t=1766180638" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4214290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214290/f1cbd4f12d94a04f5309cc8f47c7422ef752a68b/header.jpg?t=1766180638" alt="Blade of Vengeance: Night Raid at Swift Peak Pass（新規追加）" /></a></p><p>A 29th Army soldier in the 1933 night raid. Master shadows, avoid lights, and use your dadao in this UE5 stealth game. Execute enemies or deflect bullets. Chinese opera music and masks create a unique &amp;quot;war drama&amp;quot; across 4 missions of courage.</p><p><a href="https://store.steampowered.com/app/4214290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
