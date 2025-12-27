@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Dec 2025 08:53:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 10:17:42 +0000</lastBuildDate>
+<item>
+  <title>KunKunPrison（新規追加）</title>
+  <link>https://store.steampowered.com/app/4273100/</link>
+  <guid isPermaLink="false">steam-store-published-4273100</guid>
+  <pubDate>Sat, 27 Dec 2025 10:17:42 +0000</pubDate>
+  <description>This is a fictional story. In the game, you need to gather clues and uncover the secrets of this prison and leave safely. All content in the game is unrelated to reality, and any similarity is purely coincidental.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273100/d686f2fa9054069c5c7607627cb2999e854bcbc5/header.jpg?t=1766830043" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273100/d686f2fa9054069c5c7607627cb2999e854bcbc5/header.jpg?t=1766830043" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273100/d686f2fa9054069c5c7607627cb2999e854bcbc5/header.jpg?t=1766830043" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273100/d686f2fa9054069c5c7607627cb2999e854bcbc5/header.jpg?t=1766830043" alt="KunKunPrison（新規追加）" /></a></p><p>This is a fictional story. In the game, you need to gather clues and uncover the secrets of this prison and leave safely. All content in the game is unrelated to reality, and any similarity is purely coincidental.</p><p><a href="https://store.steampowered.com/app/4273100/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Peak or Die（新規追加）</title>
   <link>https://store.steampowered.com/app/4273370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957070/1ddbe5555a0f5973d2fbaecb31a69324e46f20d2/header.jpg?t=1766186004" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957070/1ddbe5555a0f5973d2fbaecb31a69324e46f20d2/header.jpg?t=1766186004" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2957070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957070/1ddbe5555a0f5973d2fbaecb31a69324e46f20d2/header.jpg?t=1766186004" alt="Cosmic Snake（新規追加）" /></a></p><p>What if your entire tower defense army was one snake? Slither through enemies, merge matching segments into evolved towers, and claim territory to victory.</p><p><a href="https://store.steampowered.com/app/2957070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Synephoria（新規追加）</title>
-  <link>https://store.steampowered.com/app/4254320/</link>
-  <guid isPermaLink="false">steam-store-published-4254320</guid>
-  <pubDate>Fri, 19 Dec 2025 23:46:16 +0000</pubDate>
-  <description>Ambient VR art studio where your voice shapes a living grotto and you paint with light, color, and geometric forms. Export your creations to use in other 3D apps for fine-tuning or animation.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254320/1085497703b883e465eb2446ea2fd93716e6cda7/header.jpg?t=1766185782" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254320/1085497703b883e465eb2446ea2fd93716e6cda7/header.jpg?t=1766185782" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254320/1085497703b883e465eb2446ea2fd93716e6cda7/header.jpg?t=1766185782" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254320/1085497703b883e465eb2446ea2fd93716e6cda7/header.jpg?t=1766185782" alt="Synephoria（新規追加）" /></a></p><p>Ambient VR art studio where your voice shapes a living grotto and you paint with light, color, and geometric forms. Export your creations to use in other 3D apps for fine-tuning or animation.</p><p><a href="https://store.steampowered.com/app/4254320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
