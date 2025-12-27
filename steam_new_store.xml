@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 26 Dec 2025 22:51:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 26 Dec 2025 23:47:46 +0000</lastBuildDate>
+<item>
+  <title>Eggtastic （新規追加）</title>
+  <link>https://store.steampowered.com/app/1867080/</link>
+  <guid isPermaLink="false">steam-store-published-1867080</guid>
+  <pubDate>Fri, 26 Dec 2025 23:47:46 +0000</pubDate>
+  <description>🥚 Eggtastic – A retro puzzle game where you paint, mask, and design eggs to match the target. Simple to learn, fun for all ages.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867080/841e67e7f4c8cebc7a80d9f3ee00a97373d39f85/header.jpg?t=1766789479" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867080/841e67e7f4c8cebc7a80d9f3ee00a97373d39f85/header.jpg?t=1766789479" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867080/841e67e7f4c8cebc7a80d9f3ee00a97373d39f85/header.jpg?t=1766789479" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1867080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867080/841e67e7f4c8cebc7a80d9f3ee00a97373d39f85/header.jpg?t=1766789479" alt="Eggtastic （新規追加）" /></a></p><p>🥚 Eggtastic – A retro puzzle game where you paint, mask, and design eggs to match the target. Simple to learn, fun for all ages.</p><p><a href="https://store.steampowered.com/app/1867080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Pixel It!（新規追加）</title>
+  <link>https://store.steampowered.com/app/4258780/</link>
+  <guid isPermaLink="false">steam-store-published-4258780</guid>
+  <pubDate>Fri, 26 Dec 2025 23:47:46 +0000</pubDate>
+  <description>Pixel it! – A Tetris-inspired puzzle game where you must recreate images by placing falling pieces. Play solo to relax, challenge your friends through online leaderboards, or unleash your creativity with the level editor and creative mode.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258780/c7c4dfc38f7a6cd3622e5c332613068a782ce5e1/header.jpg?t=1766790555" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258780/c7c4dfc38f7a6cd3622e5c332613068a782ce5e1/header.jpg?t=1766790555" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258780/c7c4dfc38f7a6cd3622e5c332613068a782ce5e1/header.jpg?t=1766790555" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258780/c7c4dfc38f7a6cd3622e5c332613068a782ce5e1/header.jpg?t=1766790555" alt="Pixel It!（新規追加）" /></a></p><p>Pixel it! – A Tetris-inspired puzzle game where you must recreate images by placing falling pieces. Play solo to relax, challenge your friends through online leaderboards, or unleash your creativity with the level editor and creative mode.</p><p><a href="https://store.steampowered.com/app/4258780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Galaxy Defender Elite 3D（新規追加）</title>
   <link>https://store.steampowered.com/app/4273150/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165730/170bad27f2b12dc73a70624292fd629a488f72ae/header.jpg?t=1766174135" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165730/170bad27f2b12dc73a70624292fd629a488f72ae/header.jpg?t=1766174135" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4165730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165730/170bad27f2b12dc73a70624292fd629a488f72ae/header.jpg?t=1766174135" alt="F.A.C.T.O（新規追加）" /></a></p><p>F.A.C.T.O is a top-down factory building and business simulation game where you are the big boss. You&#x27;ll have to start from scratch, build your factories and grow your business until you become one of the pillars of the global economy!</p><p><a href="https://store.steampowered.com/app/4165730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Slotomancer（新規追加）</title>
-  <link>https://store.steampowered.com/app/4192500/</link>
-  <guid isPermaLink="false">steam-store-published-4192500</guid>
-  <pubDate>Fri, 19 Dec 2025 20:20:24 +0000</pubDate>
-  <description>Battle wizards in this roguelike slot-battler! Spin the board to cast spells, summon creatures, and unleash powerful combos. Build your deck, unlock artifacts, and ascend through 15 unique wizard encounters. Every spin is a strategic decision!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192500/e75f78a3760179fbc40f3811f94e870940589968/header.jpg?t=1766173641" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192500/e75f78a3760179fbc40f3811f94e870940589968/header.jpg?t=1766173641" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192500/e75f78a3760179fbc40f3811f94e870940589968/header.jpg?t=1766173641" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4192500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192500/e75f78a3760179fbc40f3811f94e870940589968/header.jpg?t=1766173641" alt="Slotomancer（新規追加）" /></a></p><p>Battle wizards in this roguelike slot-battler! Spin the board to cast spells, summon creatures, and unleash powerful combos. Build your deck, unlock artifacts, and ascend through 15 unique wizard encounters. Every spin is a strategic decision!</p><p><a href="https://store.steampowered.com/app/4192500/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mayday Protocol（新規追加）</title>
-  <link>https://store.steampowered.com/app/4256070/</link>
-  <guid isPermaLink="false">steam-store-published-4256070</guid>
-  <pubDate>Fri, 19 Dec 2025 19:44:31 +0000</pubDate>
-  <description>The plane is going down. The Pilot sees the cockpit but has no idea how to fix it. The Co-Pilots have the manual but can’t see the screen. Talk fast, think faster, and land safely. Only one copy needed. Communicate or crash.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/7f25b6b514eaf20255c9cc5a85fa96382340a0d8/header.jpg?t=1766172186" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/7f25b6b514eaf20255c9cc5a85fa96382340a0d8/header.jpg?t=1766172186" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/7f25b6b514eaf20255c9cc5a85fa96382340a0d8/header.jpg?t=1766172186" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/7f25b6b514eaf20255c9cc5a85fa96382340a0d8/header.jpg?t=1766172186" alt="Mayday Protocol（新規追加）" /></a></p><p>The plane is going down. The Pilot sees the cockpit but has no idea how to fix it. The Co-Pilots have the manual but can’t see the screen. Talk fast, think faster, and land safely. Only one copy needed. Communicate or crash.</p><p><a href="https://store.steampowered.com/app/4256070/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
