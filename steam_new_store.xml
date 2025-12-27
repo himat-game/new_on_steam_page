@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Dec 2025 15:46:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 16:21:32 +0000</lastBuildDate>
+<item>
+  <title>RING TOSS SIMULATOR（新規追加）</title>
+  <link>https://store.steampowered.com/app/4030790/</link>
+  <guid isPermaLink="false">steam-store-published-4030790</guid>
+  <pubDate>Sat, 27 Dec 2025 16:21:32 +0000</pubDate>
+  <description>The realistic physics engine recreates the authentic feel of carnival ring toss! Experience the thrill with &#x27;millimeter-level&#x27; precision and enjoy the satisfaction of hitting the target with your fingertips. Come unlock the Ring Toss Master achievement and win the prizes you want!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030790/13f8a99f4e6a115886e110c8c0e9182e1410eeb3/header.jpg?t=1766852443" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030790/13f8a99f4e6a115886e110c8c0e9182e1410eeb3/header.jpg?t=1766852443" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030790/13f8a99f4e6a115886e110c8c0e9182e1410eeb3/header.jpg?t=1766852443" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4030790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030790/13f8a99f4e6a115886e110c8c0e9182e1410eeb3/header.jpg?t=1766852443" alt="RING TOSS SIMULATOR（新規追加）" /></a></p><p>The realistic physics engine recreates the authentic feel of carnival ring toss! Experience the thrill with &#x27;millimeter-level&#x27; precision and enjoy the satisfaction of hitting the target with your fingertips. Come unlock the Ring Toss Master achievement and win the prizes you want!</p><p><a href="https://store.steampowered.com/app/4030790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bullet Express（新規追加）</title>
   <link>https://store.steampowered.com/app/4221810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243430/7c175c27a6f7b3edc65cb5afe08f5ae3e438f55e/header.jpg?t=1766201740" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243430/7c175c27a6f7b3edc65cb5afe08f5ae3e438f55e/header.jpg?t=1766201740" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243430/7c175c27a6f7b3edc65cb5afe08f5ae3e438f55e/header.jpg?t=1766201740" alt="Nightfall（新規追加）" /></a></p><p>This is a top-down survival and building game where you scavenge for resources and construct a base to defend against zombie attacks when nightfall. Warning! The wilderness at night is extremely dangerous; please stay inside your base.</p><p><a href="https://store.steampowered.com/app/4243430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Brugmansia（新規追加）</title>
-  <link>https://store.steampowered.com/app/3664960/</link>
-  <guid isPermaLink="false">steam-store-published-3664960</guid>
-  <pubDate>Sat, 20 Dec 2025 03:47:30 +0000</pubDate>
-  <description>Writer Mark heads to a prestigious literary gathering, but a storm, blocked bridges, and a wrecked truck trap him on the road. Desperate, he turns onto a rural path—only to enter something no book ever prepared him for.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664960/f761c405c610dbd6ad9ea100899789cd7dae2ec4/header.jpg?t=1766201242" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664960/f761c405c610dbd6ad9ea100899789cd7dae2ec4/header.jpg?t=1766201242" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664960/f761c405c610dbd6ad9ea100899789cd7dae2ec4/header.jpg?t=1766201242" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3664960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664960/f761c405c610dbd6ad9ea100899789cd7dae2ec4/header.jpg?t=1766201242" alt="Brugmansia（新規追加）" /></a></p><p>Writer Mark heads to a prestigious literary gathering, but a storm, blocked bridges, and a wrecked truck trap him on the road. Desperate, he turns onto a rural path—only to enter something no book ever prepared him for.</p><p><a href="https://store.steampowered.com/app/3664960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
