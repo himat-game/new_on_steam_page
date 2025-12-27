@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Dec 2025 10:17:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 12:35:00 +0000</lastBuildDate>
+<item>
+  <title>Pickupbal（新規追加）</title>
+  <link>https://store.steampowered.com/app/4272720/</link>
+  <guid isPermaLink="false">steam-store-published-4272720</guid>
+  <pubDate>Sat, 27 Dec 2025 12:35:00 +0000</pubDate>
+  <description>A simple game all about picking up a ball. Do you want to play it?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272720/61e8d52a37518f0bbfcc5fd07a502abe33284c78/header.jpg?t=1766836919" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272720/61e8d52a37518f0bbfcc5fd07a502abe33284c78/header.jpg?t=1766836919" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272720/61e8d52a37518f0bbfcc5fd07a502abe33284c78/header.jpg?t=1766836919" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272720/61e8d52a37518f0bbfcc5fd07a502abe33284c78/header.jpg?t=1766836919" alt="Pickupbal（新規追加）" /></a></p><p>A simple game all about picking up a ball. Do you want to play it?</p><p><a href="https://store.steampowered.com/app/4272720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>KunKunPrison（新規追加）</title>
   <link>https://store.steampowered.com/app/4273100/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246570/7eb6d50a66f8e3d46e143ce85439e63020bcb9ed/header.jpg?t=1766187359" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246570/7eb6d50a66f8e3d46e143ce85439e63020bcb9ed/header.jpg?t=1766187359" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246570/7eb6d50a66f8e3d46e143ce85439e63020bcb9ed/header.jpg?t=1766187359" alt="Last Dolls（新規追加）" /></a></p><p>Last Dolls is a roguelite horror game set in a dark fairytale world. Do you have what it takes to survive in a shattered world of dolls, scavenging supplies while evading monsters?</p><p><a href="https://store.steampowered.com/app/4246570/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cosmic Snake（新規追加）</title>
-  <link>https://store.steampowered.com/app/2957070/</link>
-  <guid isPermaLink="false">steam-store-published-2957070</guid>
-  <pubDate>Fri, 19 Dec 2025 23:46:16 +0000</pubDate>
-  <description>What if your entire tower defense army was one snake? Slither through enemies, merge matching segments into evolved towers, and claim territory to victory.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957070/1ddbe5555a0f5973d2fbaecb31a69324e46f20d2/header.jpg?t=1766186004" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957070/1ddbe5555a0f5973d2fbaecb31a69324e46f20d2/header.jpg?t=1766186004" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957070/1ddbe5555a0f5973d2fbaecb31a69324e46f20d2/header.jpg?t=1766186004" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2957070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957070/1ddbe5555a0f5973d2fbaecb31a69324e46f20d2/header.jpg?t=1766186004" alt="Cosmic Snake（新規追加）" /></a></p><p>What if your entire tower defense army was one snake? Slither through enemies, merge matching segments into evolved towers, and claim territory to victory.</p><p><a href="https://store.steampowered.com/app/2957070/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
