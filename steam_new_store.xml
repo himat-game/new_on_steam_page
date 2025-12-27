@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Dec 2025 04:46:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 05:41:45 +0000</lastBuildDate>
+<item>
+  <title>Fee Payment &amp; Cigarettes（新規追加）</title>
+  <link>https://store.steampowered.com/app/4255120/</link>
+  <guid isPermaLink="false">steam-store-published-4255120</guid>
+  <pubDate>Sat, 27 Dec 2025 05:41:45 +0000</pubDate>
+  <description>Fee Payment &amp;amp; Cigarettes is a first-person psychological horror anomaly-spotting game. Enter a hospital in first-person, finish all payment checklists. Spot anomalies, then head to the payment counter or retreat to the smoking area to calm down.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255120/97093bf0736bf63d22053d3cad25fa5aebe5336a/header.jpg?t=1766813542" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255120/97093bf0736bf63d22053d3cad25fa5aebe5336a/header.jpg?t=1766813542" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255120/97093bf0736bf63d22053d3cad25fa5aebe5336a/header.jpg?t=1766813542" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255120/97093bf0736bf63d22053d3cad25fa5aebe5336a/header.jpg?t=1766813542" alt="Fee Payment &amp; Cigarettes（新規追加）" /></a></p><p>Fee Payment &amp;amp; Cigarettes is a first-person psychological horror anomaly-spotting game. Enter a hospital in first-person, finish all payment checklists. Spot anomalies, then head to the payment counter or retreat to the smoking area to calm down.</p><p><a href="https://store.steampowered.com/app/4255120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>VALERIAN（新規追加）</title>
   <link>https://store.steampowered.com/app/4229000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259720/59ec58a563ee5ccf1bb8b4726ff9efc18e723551/header.jpg?t=1766183210" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259720/59ec58a563ee5ccf1bb8b4726ff9efc18e723551/header.jpg?t=1766183210" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259720/59ec58a563ee5ccf1bb8b4726ff9efc18e723551/header.jpg?t=1766183210" alt="BECOME LIFE（新規追加）" /></a></p><p>A single-player narrative survival experience set in the abandoned landscapes of Gargano, Italy. Explore, endure, and uncover what happened after the disappearance where every choice leaves a mark.</p><p><a href="https://store.steampowered.com/app/4259720/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Neighbor Master（新規追加）</title>
-  <link>https://store.steampowered.com/app/4233470/</link>
-  <guid isPermaLink="false">steam-store-published-4233470</guid>
-  <pubDate>Fri, 19 Dec 2025 22:18:21 +0000</pubDate>
-  <description>Your neighbor just bought a SPORTS CAR. You? You&#x27;re broke. But you have a shovel and a backyard full of... opportunity. Dig, melt, and bottle snow to build a &amp;quot;Premium Glacier Water&amp;quot; empire. Send in the drones, upgrade your gear, and save up for a ride that will make his car look like a cheap toy.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233470/3cdebd568829e68e24fffa0f92122c591d5725bd/header.jpg?t=1766182080" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233470/3cdebd568829e68e24fffa0f92122c591d5725bd/header.jpg?t=1766182080" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233470/3cdebd568829e68e24fffa0f92122c591d5725bd/header.jpg?t=1766182080" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4233470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233470/3cdebd568829e68e24fffa0f92122c591d5725bd/header.jpg?t=1766182080" alt="Neighbor Master（新規追加）" /></a></p><p>Your neighbor just bought a SPORTS CAR. You? You&#x27;re broke. But you have a shovel and a backyard full of... opportunity. Dig, melt, and bottle snow to build a &amp;quot;Premium Glacier Water&amp;quot; empire. Send in the drones, upgrade your gear, and save up for a ride that will make his car look like a cheap toy.</p><p><a href="https://store.steampowered.com/app/4233470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
