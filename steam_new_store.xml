@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Dec 2025 13:09:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 13:40:54 +0000</lastBuildDate>
+<item>
+  <title>Mushroom Forest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4192050/</link>
+  <guid isPermaLink="false">steam-store-published-4192050</guid>
+  <pubDate>Sat, 27 Dec 2025 13:40:54 +0000</pubDate>
+  <description>Mushroom Forest is a simple and fun 2D platformer for children and all ages. Play as a small mushroom exploring the forest across stages filled with light challenges, basic jumping, and small puzzles. Meet friendly characters and discover the beginning of the story.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4192050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" alt="Mushroom Forest（新規追加）" /></a></p><p>Mushroom Forest is a simple and fun 2D platformer for children and all ages. Play as a small mushroom exploring the forest across stages filled with light challenges, basic jumping, and small puzzles. Meet friendly characters and discover the beginning of the story.</p><p><a href="https://store.steampowered.com/app/4192050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Clash of Builders（新規追加）</title>
   <link>https://store.steampowered.com/app/4253320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234130/af83e4360a44a28b4428876201d1b9c9513b1938/header.jpg?t=1766191626" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234130/af83e4360a44a28b4428876201d1b9c9513b1938/header.jpg?t=1766191626" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4234130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234130/af83e4360a44a28b4428876201d1b9c9513b1938/header.jpg?t=1766191626" alt="LOST IN THE DARK LABYRINTH（新規追加）" /></a></p><p>Explore a colossal labyrinth built on a near world-largest scale in this maze-exploration survival FPS. Rely on a weak light and scattered braziers, collect keys, and decide when to sneak or fight as you race to escape within 60 minutes.</p><p><a href="https://store.steampowered.com/app/4234130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>リベンジ・ハート（新規追加）</title>
-  <link>https://store.steampowered.com/app/4256240/</link>
-  <guid isPermaLink="false">steam-store-published-4256240</guid>
-  <pubDate>Sat, 20 Dec 2025 01:19:32 +0000</pubDate>
-  <description>「４日後に、俺の心臓を撃ちぬいて殺して欲しい」 リベンジ・ハートはワガママな殺し屋ケヴィンと、心臓を狙われた少年ルカが繰り広げる一本道ノベルADVです。 ――引き金が引かれるその時まで。復讐を願う少年とそれに加担した殺し屋の４日間が始まる。</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256240/9836c8bc0600ec13a21be9b3c550b8529ef6df31/header.jpg?t=1766190061" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256240/9836c8bc0600ec13a21be9b3c550b8529ef6df31/header.jpg?t=1766190061" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256240/9836c8bc0600ec13a21be9b3c550b8529ef6df31/header.jpg?t=1766190061" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256240/9836c8bc0600ec13a21be9b3c550b8529ef6df31/header.jpg?t=1766190061" alt="リベンジ・ハート（新規追加）" /></a></p><p>「４日後に、俺の心臓を撃ちぬいて殺して欲しい」 リベンジ・ハートはワガママな殺し屋ケヴィンと、心臓を狙われた少年ルカが繰り広げる一本道ノベルADVです。 ――引き金が引かれるその時まで。復讐を願う少年とそれに加担した殺し屋の４日間が始まる。</p><p><a href="https://store.steampowered.com/app/4256240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
