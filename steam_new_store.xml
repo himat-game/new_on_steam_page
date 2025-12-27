@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 27 Dec 2025 17:46:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Dec 2025 18:25:31 +0000</lastBuildDate>
+<item>
+  <title>Five Letters Only（新規追加）</title>
+  <link>https://store.steampowered.com/app/4115070/</link>
+  <guid isPermaLink="false">steam-store-published-4115070</guid>
+  <pubDate>Sat, 27 Dec 2025 18:25:31 +0000</pubDate>
+  <description>Five Letters Only is a fun, competitive word game. Submit 5-letter words for the highest scores. Climb to the top of all 3 leaderboards and be the best in the universe! Unlock new button themes. Adjust the background music, click sounds and other audio. No ads or in app purchases.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115070/b2e0571f939153f5d5efefdcfc02fe835c9a8abc/header.jpg?t=1766858789" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115070/b2e0571f939153f5d5efefdcfc02fe835c9a8abc/header.jpg?t=1766858789" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115070/b2e0571f939153f5d5efefdcfc02fe835c9a8abc/header.jpg?t=1766858789" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4115070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115070/b2e0571f939153f5d5efefdcfc02fe835c9a8abc/header.jpg?t=1766858789" alt="Five Letters Only（新規追加）" /></a></p><p>Five Letters Only is a fun, competitive word game. Submit 5-letter words for the highest scores. Climb to the top of all 3 leaderboards and be the best in the universe! Unlock new button themes. Adjust the background music, click sounds and other audio. No ads or in app purchases.</p><p><a href="https://store.steampowered.com/app/4115070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Can I get an Iced Coffee with Breastmilk!?（新規追加）</title>
   <link>https://store.steampowered.com/app/4158970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185280/9da42c8c459de0f086df3bcae3f4b24743a504a6/header.jpg?t=1766203970" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185280/9da42c8c459de0f086df3bcae3f4b24743a504a6/header.jpg?t=1766203970" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4185280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185280/9da42c8c459de0f086df3bcae3f4b24743a504a6/header.jpg?t=1766203970" alt="Little Christmas Workshop（新規追加）" /></a></p><p>Build Santa&#x27;s workshop in this adorable, stocking stuffer-sized casual game. Place rooms, conveyor belts, and worker elves to construct toys, then deliver them all to Santa&#x27;s sack!</p><p><a href="https://store.steampowered.com/app/4185280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lunatic Isle（新規追加）</title>
-  <link>https://store.steampowered.com/app/3330330/</link>
-  <guid isPermaLink="false">steam-store-published-3330330</guid>
-  <pubDate>Sat, 20 Dec 2025 04:24:21 +0000</pubDate>
-  <description>Step into *Moonfall Island*, a cursed realm plagued by ancient cults and periodic blood moons. Scavenge for resources, build shelters, explore ruins, and fight alongside friends—but prepare before the bell tolls. When the blood moon rises, the entire world will bare its fangs at you.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330330/beffa5d62ed33d3be0add351fb9ad52d80f133ad/header.jpg?t=1766202584" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330330/beffa5d62ed33d3be0add351fb9ad52d80f133ad/header.jpg?t=1766202584" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330330/beffa5d62ed33d3be0add351fb9ad52d80f133ad/header.jpg?t=1766202584" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3330330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330330/beffa5d62ed33d3be0add351fb9ad52d80f133ad/header.jpg?t=1766202584" alt="Lunatic Isle（新規追加）" /></a></p><p>Step into *Moonfall Island*, a cursed realm plagued by ancient cults and periodic blood moons. Scavenge for resources, build shelters, explore ruins, and fight alongside friends—but prepare before the bell tolls. When the blood moon rises, the entire world will bare its fangs at you.</p><p><a href="https://store.steampowered.com/app/3330330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
