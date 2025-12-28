@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 13:16:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 13:42:47 +0000</lastBuildDate>
+<item>
+  <title>outpost4（新規追加）</title>
+  <link>https://store.steampowered.com/app/4271680/</link>
+  <guid isPermaLink="false">steam-store-published-4271680</guid>
+  <pubDate>Sun, 28 Dec 2025 13:42:47 +0000</pubDate>
+  <description>Outpost 4 is a 2D cartoon-style idle resource management game focused on combat and progression. You will take your mobile base across different alien planets, each with its own unique enemies to conquer. With 20+ weapons and 100+ items, you can freely combine builds and create your own style</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" alt="outpost4（新規追加）" /></a></p><p>Outpost 4 is a 2D cartoon-style idle resource management game focused on combat and progression. You will take your mobile base across different alien planets, each with its own unique enemies to conquer. With 20+ weapons and 100+ items, you can freely combine builds and create your own style</p><p><a href="https://store.steampowered.com/app/4271680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aevum（新規追加）</title>
   <link>https://store.steampowered.com/app/4260150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977250/fbda62af7f2edb4941647ff8ce2f9b18099f1bbc/header.jpg?t=1766238845" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977250/fbda62af7f2edb4941647ff8ce2f9b18099f1bbc/header.jpg?t=1766238845" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2977250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977250/fbda62af7f2edb4941647ff8ce2f9b18099f1bbc/header.jpg?t=1766238845" alt="Fatberg（新規追加）" /></a></p><p>You, a lowly janitor, have been forced to go into the sewers to remove blockages that will cause a flood. But the inhabitants of this dark, slimy, stinking, writhing underworld do not like to be disturbed and will not let you leave alive.</p><p><a href="https://store.steampowered.com/app/2977250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>AxeSlinger（新規追加）</title>
-  <link>https://store.steampowered.com/app/4236580/</link>
-  <guid isPermaLink="false">steam-store-published-4236580</guid>
-  <pubDate>Sat, 20 Dec 2025 14:46:48 +0000</pubDate>
-  <description>AxeSlinger is a fast, heavy-metal roguelite FPS where you shred through demon-infested dimensions using guitar-weapons. Fight hordes, rack up insane combos, unlock powers, and battle colossal bosses as the last Death Angel of Shred on your path to reclaim your throne from the Battle Worm.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236580/d1a6a68a27ea3ce66864a8674427a6fdc2f25962/header.jpg?t=1766240171" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236580/d1a6a68a27ea3ce66864a8674427a6fdc2f25962/header.jpg?t=1766240171" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236580/d1a6a68a27ea3ce66864a8674427a6fdc2f25962/header.jpg?t=1766240171" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236580/d1a6a68a27ea3ce66864a8674427a6fdc2f25962/header.jpg?t=1766240171" alt="AxeSlinger（新規追加）" /></a></p><p>AxeSlinger is a fast, heavy-metal roguelite FPS where you shred through demon-infested dimensions using guitar-weapons. Fight hordes, rack up insane combos, unlock powers, and battle colossal bosses as the last Death Angel of Shred on your path to reclaim your throne from the Battle Worm.</p><p><a href="https://store.steampowered.com/app/4236580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
