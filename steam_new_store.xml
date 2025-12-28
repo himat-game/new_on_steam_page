@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 06:56:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 07:20:56 +0000</lastBuildDate>
+<item>
+  <title>Beef（新規追加）</title>
+  <link>https://store.steampowered.com/app/4267970/</link>
+  <guid isPermaLink="false">steam-store-published-4267970</guid>
+  <pubDate>Sun, 28 Dec 2025 07:20:56 +0000</pubDate>
+  <description>Clock in and discover the dark secret behind one of the world’s favorite canned meat brand in Beef, a surreal horror experience like no other.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4267970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" alt="Beef（新規追加）" /></a></p><p>Clock in and discover the dark secret behind one of the world’s favorite canned meat brand in Beef, a surreal horror experience like no other.</p><p><a href="https://store.steampowered.com/app/4267970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aiyoe&#x27;s Secret Room（新規追加）</title>
   <link>https://store.steampowered.com/app/4236940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258010/119d5aa28bdb8ccd4f25f6157063aa28a3da9068/header.jpg?t=1766223577" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258010/119d5aa28bdb8ccd4f25f6157063aa28a3da9068/header.jpg?t=1766223577" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258010/119d5aa28bdb8ccd4f25f6157063aa28a3da9068/header.jpg?t=1766223577" alt="Ocean Journey（新規追加）" /></a></p><p>This is a relaxing and therapeutic game where players control a ship, accompanied by a little sprite, to explore this boundless sea. Of course, there will be many dangers and unexpected encounters along the way. Choose the best strategy while avoiding danger to reach even greater destinations!</p><p><a href="https://store.steampowered.com/app/4258010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Algorithmically（新規追加）</title>
-  <link>https://store.steampowered.com/app/4186680/</link>
-  <guid isPermaLink="false">steam-store-published-4186680</guid>
-  <pubDate>Sat, 20 Dec 2025 09:46:14 +0000</pubDate>
-  <description>Visual programming. Design algorithms with intuitive flowcharts instead of typing code. Experiment with variables, build expressions, and see exactly how your logic flows. No syntax errors—just pure algorithmic thinking.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186680/d88a5168c306243ca3ab93a70be3c4ab46f4ae01/header.jpg?t=1766220899" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186680/d88a5168c306243ca3ab93a70be3c4ab46f4ae01/header.jpg?t=1766220899" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186680/d88a5168c306243ca3ab93a70be3c4ab46f4ae01/header.jpg?t=1766220899" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4186680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186680/d88a5168c306243ca3ab93a70be3c4ab46f4ae01/header.jpg?t=1766220899" alt="Algorithmically（新規追加）" /></a></p><p>Visual programming. Design algorithms with intuitive flowcharts instead of typing code. Experiment with variables, build expressions, and see exactly how your logic flows. No syntax errors—just pure algorithmic thinking.</p><p><a href="https://store.steampowered.com/app/4186680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
