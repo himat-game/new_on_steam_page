@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 07:46:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 08:53:24 +0000</lastBuildDate>
+<item>
+  <title>it&#x27;s solitaire（新規追加）</title>
+  <link>https://store.steampowered.com/app/3912770/</link>
+  <guid isPermaLink="false">steam-store-published-3912770</guid>
+  <pubDate>Sun, 28 Dec 2025 08:53:24 +0000</pubDate>
+  <description>it&#x27;s solitaire. draw cards, sort cards, pack cards, earn gems, relax. you know this game. it&#x27;s solitaire!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3912770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" alt="it&#x27;s solitaire（新規追加）" /></a></p><p>it&#x27;s solitaire. draw cards, sort cards, pack cards, earn gems, relax. you know this game. it&#x27;s solitaire!</p><p><a href="https://store.steampowered.com/app/3912770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Love on the Approach（新規追加）</title>
   <link>https://store.steampowered.com/app/4182690/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238460/e02adccc0b1f788443f3c27f36b4535018f7be5f/header.jpg?t=1766223902" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238460/e02adccc0b1f788443f3c27f36b4535018f7be5f/header.jpg?t=1766223902" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238460/e02adccc0b1f788443f3c27f36b4535018f7be5f/header.jpg?t=1766223902" alt="Be My Lust 3（新規追加）" /></a></p><p>Be My Lust 3 - is an erotic game set in a univerise far far away where human and non-humans are living on the same planet, in which you will have to break all the cubes to discover different girls with and without their uniform. This game is designed for adults (18+) only.</p><p><a href="https://store.steampowered.com/app/4238460/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>A frog in a small pond（新規追加）</title>
-  <link>https://store.steampowered.com/app/4195630/</link>
-  <guid isPermaLink="false">steam-store-published-4195630</guid>
-  <pubDate>Sat, 20 Dec 2025 09:46:14 +0000</pubDate>
-  <description>It is a game in which a frog that has heard about the sea from another frog goes on an adventure. Help the frog go through the forest and into the sea.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195630/821e02a616567963f9f5c853967b44181432e0bc/header.jpg?t=1766222349" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195630/821e02a616567963f9f5c853967b44181432e0bc/header.jpg?t=1766222349" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195630/821e02a616567963f9f5c853967b44181432e0bc/header.jpg?t=1766222349" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4195630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195630/821e02a616567963f9f5c853967b44181432e0bc/header.jpg?t=1766222349" alt="A frog in a small pond（新規追加）" /></a></p><p>It is a game in which a frog that has heard about the sea from another frog goes on an adventure. Help the frog go through the forest and into the sea.</p><p><a href="https://store.steampowered.com/app/4195630/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
