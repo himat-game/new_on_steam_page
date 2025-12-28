@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 15:47:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 16:21:47 +0000</lastBuildDate>
+<item>
+  <title>Orbit to Riches（新規追加）</title>
+  <link>https://store.steampowered.com/app/4261370/</link>
+  <guid isPermaLink="false">steam-store-published-4261370</guid>
+  <pubDate>Sun, 28 Dec 2025 16:21:47 +0000</pubDate>
+  <description>Orbit to Riches is a short incremental space game about mining asteroids, upgrading ships, and building long-term progress through multiple runs and idle systems.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261370/c37c73e3d5adaa98690eea13aca207d5422903f9/header.jpg?t=1766937397" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261370/c37c73e3d5adaa98690eea13aca207d5422903f9/header.jpg?t=1766937397" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261370/c37c73e3d5adaa98690eea13aca207d5422903f9/header.jpg?t=1766937397" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261370/c37c73e3d5adaa98690eea13aca207d5422903f9/header.jpg?t=1766937397" alt="Orbit to Riches（新規追加）" /></a></p><p>Orbit to Riches is a short incremental space game about mining asteroids, upgrading ships, and building long-term progress through multiple runs and idle systems.</p><p><a href="https://store.steampowered.com/app/4261370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cover The Lawn（新規追加）</title>
   <link>https://store.steampowered.com/app/4131410/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748940/08155066294773081b60aa1a747096cf4938fb4e/header.jpg?t=1766250355" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748940/08155066294773081b60aa1a747096cf4938fb4e/header.jpg?t=1766250355" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3748940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3748940/08155066294773081b60aa1a747096cf4938fb4e/header.jpg?t=1766250355" alt="The After Hours: Office Predators（新規追加）" /></a></p><p>Survive the corporate zoo. An adult furry roguelite where you battle (and more) your hot superiors and colleagues in surreal dreams.</p><p><a href="https://store.steampowered.com/app/3748940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Osman Ghazi: Ottoman Rising（新規追加）</title>
-  <link>https://store.steampowered.com/app/4185920/</link>
-  <guid isPermaLink="false">steam-store-published-4185920</guid>
-  <pubDate>Sat, 20 Dec 2025 16:49:53 +0000</pubDate>
-  <description>A third-person action adventure set in 13th-century Anatolia. Rise as Osman Gazi, hunt, fight, infiltrate enemy strongholds, and forge the foundations of an empire. Explore a vast historical world shaped by conquest, betrayal, and the birth of a legend.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4185920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" alt="Osman Ghazi: Ottoman Rising（新規追加）" /></a></p><p>A third-person action adventure set in 13th-century Anatolia. Rise as Osman Gazi, hunt, fight, infiltrate enemy strongholds, and forge the foundations of an empire. Explore a vast historical world shaped by conquest, betrayal, and the birth of a legend.</p><p><a href="https://store.steampowered.com/app/4185920/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
