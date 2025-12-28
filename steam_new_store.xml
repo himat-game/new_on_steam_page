@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 05:51:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 06:56:34 +0000</lastBuildDate>
+<item>
+  <title>Aiyoe&#x27;s Secret Room（新規追加）</title>
+  <link>https://store.steampowered.com/app/4236940/</link>
+  <guid isPermaLink="false">steam-store-published-4236940</guid>
+  <pubDate>Sun, 28 Dec 2025 06:56:34 +0000</pubDate>
+  <description>Adapted from the 2016-serialized manga of the same name (2023 anime streamable on Bilibili) this game brings a brand-new exclusive storyline a decade later. From expanding the worldview and wrapping up hidden plots to unveiling long-buried secrets, it’s the most complete Ai Yoe&#x27;s Chamber of Secrets</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236940/5e8d52c8f856565563c30bbface256cd78b23367/header.jpg?t=1766904805" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236940/5e8d52c8f856565563c30bbface256cd78b23367/header.jpg?t=1766904805" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236940/5e8d52c8f856565563c30bbface256cd78b23367/header.jpg?t=1766904805" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236940/5e8d52c8f856565563c30bbface256cd78b23367/header.jpg?t=1766904805" alt="Aiyoe&#x27;s Secret Room（新規追加）" /></a></p><p>Adapted from the 2016-serialized manga of the same name (2023 anime streamable on Bilibili) this game brings a brand-new exclusive storyline a decade later. From expanding the worldview and wrapping up hidden plots to unveiling long-buried secrets, it’s the most complete Ai Yoe&#x27;s Chamber of Secrets</p><p><a href="https://store.steampowered.com/app/4236940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Star Voyagers – Hentai Jigsaw（新規追加）</title>
   <link>https://store.steampowered.com/app/4269130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186680/d88a5168c306243ca3ab93a70be3c4ab46f4ae01/header.jpg?t=1766220899" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186680/d88a5168c306243ca3ab93a70be3c4ab46f4ae01/header.jpg?t=1766220899" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4186680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186680/d88a5168c306243ca3ab93a70be3c4ab46f4ae01/header.jpg?t=1766220899" alt="Algorithmically（新規追加）" /></a></p><p>Visual programming. Design algorithms with intuitive flowcharts instead of typing code. Experiment with variables, build expressions, and see exactly how your logic flows. No syntax errors—just pure algorithmic thinking.</p><p><a href="https://store.steampowered.com/app/4186680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Penguin Quest（新規追加）</title>
-  <link>https://store.steampowered.com/app/3389490/</link>
-  <guid isPermaLink="false">steam-store-published-3389490</guid>
-  <pubDate>Sat, 20 Dec 2025 09:46:14 +0000</pubDate>
-  <description>You’re a perky penguin who must find a suitable new place to live as your current surroundings are over-crowded. You’ve heard news of another flock just over the horizon, but it’s cold out there so watch out that you don’t freeze!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389490/c008eb7f3adde5e8a2eb0b9331ad19257bcbaa06/header.jpg?t=1766223206" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389490/c008eb7f3adde5e8a2eb0b9331ad19257bcbaa06/header.jpg?t=1766223206" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389490/c008eb7f3adde5e8a2eb0b9331ad19257bcbaa06/header.jpg?t=1766223206" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3389490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389490/c008eb7f3adde5e8a2eb0b9331ad19257bcbaa06/header.jpg?t=1766223206" alt="Penguin Quest（新規追加）" /></a></p><p>You’re a perky penguin who must find a suitable new place to live as your current surroundings are over-crowded. You’ve heard news of another flock just over the horizon, but it’s cold out there so watch out that you don’t freeze!</p><p><a href="https://store.steampowered.com/app/3389490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
