@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 19:44:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 21:46:10 +0000</lastBuildDate>
+<item>
+  <title>The Frog Festival（新規追加）</title>
+  <link>https://store.steampowered.com/app/3929750/</link>
+  <guid isPermaLink="false">steam-store-published-3929750</guid>
+  <pubDate>Sun, 28 Dec 2025 21:46:10 +0000</pubDate>
+  <description>Restore music and color to a cozy archipelago as a small frog, exploring instrument-themed islands and helping friendly frogs along the way.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929750/e5779cd823d905d6de541e39cc409eff60e6a33f/header.jpg?t=1766957447" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929750/e5779cd823d905d6de541e39cc409eff60e6a33f/header.jpg?t=1766957447" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929750/e5779cd823d905d6de541e39cc409eff60e6a33f/header.jpg?t=1766957447" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3929750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929750/e5779cd823d905d6de541e39cc409eff60e6a33f/header.jpg?t=1766957447" alt="The Frog Festival（新規追加）" /></a></p><p>Restore music and color to a cozy archipelago as a small frog, exploring instrument-themed islands and helping friendly frogs along the way.</p><p><a href="https://store.steampowered.com/app/3929750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Achievement Box（新規追加）</title>
   <link>https://store.steampowered.com/app/4271310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236170/34a9d34153086ef7a634b4e92e4d910cda1d7852/header.jpg?t=1766273133" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236170/34a9d34153086ef7a634b4e92e4d910cda1d7852/header.jpg?t=1766273133" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236170/34a9d34153086ef7a634b4e92e4d910cda1d7852/header.jpg?t=1766273133" alt="Isla Hearts（新規追加）" /></a></p><p>A dark 18+ RPG where enemies seduce rather than simply attack. Manage HP, SP, and Temptation in strategic combat. Defeat means losing your hard-earned experience. How long can you resist?</p><p><a href="https://store.steampowered.com/app/4236170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cyndefense Remastered（新規追加）</title>
-  <link>https://store.steampowered.com/app/4237830/</link>
-  <guid isPermaLink="false">steam-store-published-4237830</guid>
-  <pubDate>Sat, 20 Dec 2025 22:47:10 +0000</pubDate>
-  <description>Cyndefense Remastered is a casual Tower Defense game. With multiple modes its really easy to jump into a game and play for 10-20 minutes. For those who desire a challenge, the game offers multiple harder difficulties and maps if the casual experience is a little too casual.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4237830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237830/a0ef2ee0ec3d8c442930aab46fc452fb27889f81/header.jpg?t=1766270313" alt="Cyndefense Remastered（新規追加）" /></a></p><p>Cyndefense Remastered is a casual Tower Defense game. With multiple modes its really easy to jump into a game and play for 10-20 minutes. For those who desire a challenge, the game offers multiple harder difficulties and maps if the casual experience is a little too casual.</p><p><a href="https://store.steampowered.com/app/4237830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
