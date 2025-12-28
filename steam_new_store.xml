@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 07:20:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 07:46:28 +0000</lastBuildDate>
+<item>
+  <title>Love on the Approach（新規追加）</title>
+  <link>https://store.steampowered.com/app/4182690/</link>
+  <guid isPermaLink="false">steam-store-published-4182690</guid>
+  <pubDate>Sun, 28 Dec 2025 07:46:28 +0000</pubDate>
+  <description>You are the new manager of a university women&#x27;s volleyball team. Build deep relationships with the unique players through your choices, guiding them to victory on the court and exploring personal, mature connections off the court in this adult romantic visual novel.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4182690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" alt="Love on the Approach（新規追加）" /></a></p><p>You are the new manager of a university women&#x27;s volleyball team. Build deep relationships with the unique players through your choices, guiding them to victory on the court and exploring personal, mature connections off the court in this adult romantic visual novel.</p><p><a href="https://store.steampowered.com/app/4182690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Beef（新規追加）</title>
   <link>https://store.steampowered.com/app/4267970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195630/821e02a616567963f9f5c853967b44181432e0bc/header.jpg?t=1766222349" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195630/821e02a616567963f9f5c853967b44181432e0bc/header.jpg?t=1766222349" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4195630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195630/821e02a616567963f9f5c853967b44181432e0bc/header.jpg?t=1766222349" alt="A frog in a small pond（新規追加）" /></a></p><p>It is a game in which a frog that has heard about the sea from another frog goes on an adventure. Help the frog go through the forest and into the sea.</p><p><a href="https://store.steampowered.com/app/4195630/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ocean Journey（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258010/</link>
-  <guid isPermaLink="false">steam-store-published-4258010</guid>
-  <pubDate>Sat, 20 Dec 2025 09:46:14 +0000</pubDate>
-  <description>This is a relaxing and therapeutic game where players control a ship, accompanied by a little sprite, to explore this boundless sea. Of course, there will be many dangers and unexpected encounters along the way. Choose the best strategy while avoiding danger to reach even greater destinations!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258010/119d5aa28bdb8ccd4f25f6157063aa28a3da9068/header.jpg?t=1766223577" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258010/119d5aa28bdb8ccd4f25f6157063aa28a3da9068/header.jpg?t=1766223577" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258010/119d5aa28bdb8ccd4f25f6157063aa28a3da9068/header.jpg?t=1766223577" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258010/119d5aa28bdb8ccd4f25f6157063aa28a3da9068/header.jpg?t=1766223577" alt="Ocean Journey（新規追加）" /></a></p><p>This is a relaxing and therapeutic game where players control a ship, accompanied by a little sprite, to explore this boundless sea. Of course, there will be many dangers and unexpected encounters along the way. Choose the best strategy while avoiding danger to reach even greater destinations!</p><p><a href="https://store.steampowered.com/app/4258010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
