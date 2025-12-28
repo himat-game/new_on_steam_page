@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 14:16:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 14:51:15 +0000</lastBuildDate>
+<item>
+  <title>PASSENGER x PRINCESS: NO HOPE // MUST DIE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4232760/</link>
+  <guid isPermaLink="false">steam-store-published-4232760</guid>
+  <pubDate>Sun, 28 Dec 2025 14:51:15 +0000</pubDate>
+  <description>A self abating husk is forcibly coerced into a suicide pact by a &amp;quot;perfect&amp;quot; girl drowning in ennui and despair. The result is unfathomable heart rending terror and confusion.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232760/903c71c5c4ed26f66b6ee34c0fe5c8ebaab1c192/header.jpg?t=1766932838" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232760/903c71c5c4ed26f66b6ee34c0fe5c8ebaab1c192/header.jpg?t=1766932838" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232760/903c71c5c4ed26f66b6ee34c0fe5c8ebaab1c192/header.jpg?t=1766932838" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232760/903c71c5c4ed26f66b6ee34c0fe5c8ebaab1c192/header.jpg?t=1766932838" alt="PASSENGER x PRINCESS: NO HOPE // MUST DIE（新規追加）" /></a></p><p>A self abating husk is forcibly coerced into a suicide pact by a &amp;quot;perfect&amp;quot; girl drowning in ennui and despair. The result is unfathomable heart rending terror and confusion.</p><p><a href="https://store.steampowered.com/app/4232760/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Murmurs of the Mist（新規追加）</title>
   <link>https://store.steampowered.com/app/4187020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083230/02f8643ce6a08db702f6d2c0856f85b342ddf143/header.jpg?t=1766247267" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083230/02f8643ce6a08db702f6d2c0856f85b342ddf143/header.jpg?t=1766247267" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4083230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083230/02f8643ce6a08db702f6d2c0856f85b342ddf143/header.jpg?t=1766247267" alt="Children´s Fear（新規追加）" /></a></p><p>Children&#x27;s Fear is a turn-based RPG with horror elements where you will meet Zala, Luka, and Darko. After a series of events, they find themselves trapped in a journey where they must eliminate the darkness that stalks them in order to regain the life they had before arriving in the Paura Valley.</p><p><a href="https://store.steampowered.com/app/4083230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rosemary Village（新規追加）</title>
-  <link>https://store.steampowered.com/app/3958880/</link>
-  <guid isPermaLink="false">steam-store-published-3958880</guid>
-  <pubDate>Sat, 20 Dec 2025 16:20:42 +0000</pubDate>
-  <description>Play as Ferdinand, a young adventurer in search of a new journey. In Rosemary Village, even the simplest adventure can put a lot at stake, and in it, Ferdinand&#x27;s will and power will be his main weapons.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958880/9078ba3749eaa0eb6a7179ee7f363158145089af/header.jpg?t=1766247423" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958880/9078ba3749eaa0eb6a7179ee7f363158145089af/header.jpg?t=1766247423" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958880/9078ba3749eaa0eb6a7179ee7f363158145089af/header.jpg?t=1766247423" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3958880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958880/9078ba3749eaa0eb6a7179ee7f363158145089af/header.jpg?t=1766247423" alt="Rosemary Village（新規追加）" /></a></p><p>Play as Ferdinand, a young adventurer in search of a new journey. In Rosemary Village, even the simplest adventure can put a lot at stake, and in it, Ferdinand&#x27;s will and power will be his main weapons.</p><p><a href="https://store.steampowered.com/app/3958880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
