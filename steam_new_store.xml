@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 01:41:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 03:45:38 +0000</lastBuildDate>
+<item>
+  <title>Spibee（新規追加）</title>
+  <link>https://store.steampowered.com/app/4254400/</link>
+  <guid isPermaLink="false">steam-store-published-4254400</guid>
+  <pubDate>Sun, 28 Dec 2025 03:45:38 +0000</pubDate>
+  <description>A cooperative puzzle-platformer! Join a cute spider and bee on a thrilling adventure! Solve puzzles together, enjoy fun PvP minigames, and face epic boss battles!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254400/00bdd7199f48f54e0d0fe3e254259d3ad0fb52b3/header.jpg?t=1766890295" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254400/00bdd7199f48f54e0d0fe3e254259d3ad0fb52b3/header.jpg?t=1766890295" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254400/00bdd7199f48f54e0d0fe3e254259d3ad0fb52b3/header.jpg?t=1766890295" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254400/00bdd7199f48f54e0d0fe3e254259d3ad0fb52b3/header.jpg?t=1766890295" alt="Spibee（新規追加）" /></a></p><p>A cooperative puzzle-platformer! Join a cute spider and bee on a thrilling adventure! Solve puzzles together, enjoy fun PvP minigames, and face epic boss battles!</p><p><a href="https://store.steampowered.com/app/4254400/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sacred Angel Crossnia Heart（新規追加）</title>
   <link>https://store.steampowered.com/app/4260540/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153180/b129d6d29e258417bc789b04c75bb40602ec183c/header.jpg?t=1766220424" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153180/b129d6d29e258417bc789b04c75bb40602ec183c/header.jpg?t=1766220424" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4153180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4153180/b129d6d29e258417bc789b04c75bb40602ec183c/header.jpg?t=1766220424" alt="So Stoked（新規追加）" /></a></p><p>A chill and cozy surf game about timing, flow, and discovery. Travel between islands, ride clean waves, and enjoy a calm, skill-driven ride with light RPG-style tasks and progression.</p><p><a href="https://store.steampowered.com/app/4153180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>AMEN 11 11（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258550/</link>
-  <guid isPermaLink="false">steam-store-published-4258550</guid>
-  <pubDate>Sat, 20 Dec 2025 08:22:17 +0000</pubDate>
-  <description>AMEN 11 11 is a hidden object adventure game set in an atmosphere of apocalypse and psychological horror. The player&#x27;s task is to find objects hidden on the maps.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258550/55971783bf1fc38c83b948f4bec1e5399fdc2a0d/header.jpg?t=1766218061" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258550/55971783bf1fc38c83b948f4bec1e5399fdc2a0d/header.jpg?t=1766218061" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258550/55971783bf1fc38c83b948f4bec1e5399fdc2a0d/header.jpg?t=1766218061" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258550/55971783bf1fc38c83b948f4bec1e5399fdc2a0d/header.jpg?t=1766218061" alt="AMEN 11 11（新規追加）" /></a></p><p>AMEN 11 11 is a hidden object adventure game set in an atmosphere of apocalypse and psychological horror. The player&#x27;s task is to find objects hidden on the maps.</p><p><a href="https://store.steampowered.com/app/4258550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
