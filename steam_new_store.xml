@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 18:26:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 18:55:21 +0000</lastBuildDate>
+<item>
+  <title>Insanity Path（新規追加）</title>
+  <link>https://store.steampowered.com/app/4258590/</link>
+  <guid isPermaLink="false">steam-store-published-4258590</guid>
+  <pubDate>Sun, 28 Dec 2025 18:55:21 +0000</pubDate>
+  <description>A plague spreads alongside a spree of sudden disappearances... You don&#x27;t need more to get on with your adventure. Step into the world of an Auto-battler Roguelite, where each of your mistakes will send you further down the path of Insanity. Will you be able to free the forest from this tragic curse?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" alt="Insanity Path（新規追加）" /></a></p><p>A plague spreads alongside a spree of sudden disappearances... You don&#x27;t need more to get on with your adventure. Step into the world of an Auto-battler Roguelite, where each of your mistakes will send you further down the path of Insanity. Will you be able to free the forest from this tragic curse?</p><p><a href="https://store.steampowered.com/app/4258590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>MITNAL（新規追加）</title>
   <link>https://store.steampowered.com/app/4273050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232700/a26446637a01763202f8237e33bed347248a55bb/header.jpg?t=1766254873" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232700/a26446637a01763202f8237e33bed347248a55bb/header.jpg?t=1766254873" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232700/a26446637a01763202f8237e33bed347248a55bb/header.jpg?t=1766254873" alt="Castle Cats（新規追加）" /></a></p><p>Idle RPG and Cat-Collecting Adventure. Build a guild of heroic cats, train and evolve a wide cast of over 200 feline characters, take on quests at your own pace, customize your base, and dive into seasonal events and fun story updates in a cozy, ever-growing universe.</p><p><a href="https://store.steampowered.com/app/4232700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Carnival Roulette（新規追加）</title>
-  <link>https://store.steampowered.com/app/4260520/</link>
-  <guid isPermaLink="false">steam-store-published-4260520</guid>
-  <pubDate>Sat, 20 Dec 2025 18:22:48 +0000</pubDate>
-  <description>Sit at a twisted carnival table. Play your cards under the dealer’s watchful eye. Outsmart fate, survive the rounds, and walk away alive ... If the table allows it.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260520/05cd54859a767a2ad5665eeaa78a5af09570303d/header.jpg?t=1766253796" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260520/05cd54859a767a2ad5665eeaa78a5af09570303d/header.jpg?t=1766253796" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260520/05cd54859a767a2ad5665eeaa78a5af09570303d/header.jpg?t=1766253796" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260520/05cd54859a767a2ad5665eeaa78a5af09570303d/header.jpg?t=1766253796" alt="Carnival Roulette（新規追加）" /></a></p><p>Sit at a twisted carnival table. Play your cards under the dealer’s watchful eye. Outsmart fate, survive the rounds, and walk away alive ... If the table allows it.</p><p><a href="https://store.steampowered.com/app/4260520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
