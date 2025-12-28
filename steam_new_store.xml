@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 14:51:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 15:47:12 +0000</lastBuildDate>
+<item>
+  <title>Cover The Lawn（新規追加）</title>
+  <link>https://store.steampowered.com/app/4131410/</link>
+  <guid isPermaLink="false">steam-store-published-4131410</guid>
+  <pubDate>Sun, 28 Dec 2025 15:47:12 +0000</pubDate>
+  <description>&amp;quot;Cover The Lawn&amp;quot; is a digital puzzle game where players progress by dragging and paving the lawn to cover the grassland. A Players need to use their brains, calculate and think about the layout of the lawn, and quickly progress within a limited time frame.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131410/0d98856aac63984796c00e1790c0a2fcc511ad16/header.jpg?t=1766935146" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131410/0d98856aac63984796c00e1790c0a2fcc511ad16/header.jpg?t=1766935146" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131410/0d98856aac63984796c00e1790c0a2fcc511ad16/header.jpg?t=1766935146" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4131410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131410/0d98856aac63984796c00e1790c0a2fcc511ad16/header.jpg?t=1766935146" alt="Cover The Lawn（新規追加）" /></a></p><p>&amp;quot;Cover The Lawn&amp;quot; is a digital puzzle game where players progress by dragging and paving the lawn to cover the grassland. A Players need to use their brains, calculate and think about the layout of the lawn, and quickly progress within a limited time frame.</p><p><a href="https://store.steampowered.com/app/4131410/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PASSENGER x PRINCESS: NO HOPE // MUST DIE（新規追加）</title>
   <link>https://store.steampowered.com/app/4232760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4185920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185920/2f263bf796176d00e2541d2c786f7108b99378c8/header.jpg?t=1766248965" alt="Osman Ghazi: Ottoman Rising（新規追加）" /></a></p><p>A third-person action adventure set in 13th-century Anatolia. Rise as Osman Gazi, hunt, fight, infiltrate enemy strongholds, and forge the foundations of an empire. Explore a vast historical world shaped by conquest, betrayal, and the birth of a legend.</p><p><a href="https://store.steampowered.com/app/4185920/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Children´s Fear（新規追加）</title>
-  <link>https://store.steampowered.com/app/4083230/</link>
-  <guid isPermaLink="false">steam-store-published-4083230</guid>
-  <pubDate>Sat, 20 Dec 2025 16:20:42 +0000</pubDate>
-  <description>Children&#x27;s Fear is a turn-based RPG with horror elements where you will meet Zala, Luka, and Darko. After a series of events, they find themselves trapped in a journey where they must eliminate the darkness that stalks them in order to regain the life they had before arriving in the Paura Valley.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083230/02f8643ce6a08db702f6d2c0856f85b342ddf143/header.jpg?t=1766247267" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083230/02f8643ce6a08db702f6d2c0856f85b342ddf143/header.jpg?t=1766247267" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083230/02f8643ce6a08db702f6d2c0856f85b342ddf143/header.jpg?t=1766247267" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4083230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4083230/02f8643ce6a08db702f6d2c0856f85b342ddf143/header.jpg?t=1766247267" alt="Children´s Fear（新規追加）" /></a></p><p>Children&#x27;s Fear is a turn-based RPG with horror elements where you will meet Zala, Luka, and Darko. After a series of events, they find themselves trapped in a journey where they must eliminate the darkness that stalks them in order to regain the life they had before arriving in the Paura Valley.</p><p><a href="https://store.steampowered.com/app/4083230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
