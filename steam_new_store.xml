@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 20:21:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 20:50:43 +0000</lastBuildDate>
+<item>
+  <title>Survival Menu Live （新規追加）</title>
+  <link>https://store.steampowered.com/app/4043610/</link>
+  <guid isPermaLink="false">steam-store-published-4043610</guid>
+  <pubDate>Mon, 29 Dec 2025 20:50:43 +0000</pubDate>
+  <description>A chaotic Co-op survival cooking game! Team up with friends to gather ingredients, cook, serve dishes, survive monsters, and upgrade your gear to keep your deadly kitchen alive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043610/7c54884867c0ce483d671cdac966d09b74b6c271/header.jpg?t=1767039744" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043610/7c54884867c0ce483d671cdac966d09b74b6c271/header.jpg?t=1767039744" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043610/7c54884867c0ce483d671cdac966d09b74b6c271/header.jpg?t=1767039744" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4043610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4043610/7c54884867c0ce483d671cdac966d09b74b6c271/header.jpg?t=1767039744" alt="Survival Menu Live （新規追加）" /></a></p><p>A chaotic Co-op survival cooking game! Team up with friends to gather ingredients, cook, serve dishes, survive monsters, and upgrade your gear to keep your deadly kitchen alive.</p><p><a href="https://store.steampowered.com/app/4043610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Backpack Raiders（新規追加）</title>
   <link>https://store.steampowered.com/app/1880100/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258340/b2754ccfe5acff53c8e2ecab03b26cf75127aa5a/header.jpg?t=1766402720" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258340/b2754ccfe5acff53c8e2ecab03b26cf75127aa5a/header.jpg?t=1766402720" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258340/b2754ccfe5acff53c8e2ecab03b26cf75127aa5a/header.jpg?t=1766402720" alt="I&#x27;m a Human（新規追加）" /></a></p><p>Forget defense. This is Reverse Tower Defense where you are the threat. Lead the AI, build robots and destroy human bases. Your goal is invasion. Your weapon is the swarm.</p><p><a href="https://store.steampowered.com/app/4258340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>地下城竞技场（新規追加）</title>
-  <link>https://store.steampowered.com/app/4246640/</link>
-  <guid isPermaLink="false">steam-store-published-4246640</guid>
-  <pubDate>Mon, 22 Dec 2025 11:46:04 +0000</pubDate>
-  <description>Dungeon Brawls is an action roguelike game that supports 4-player co-op. Choose from dozens of heroes and freely combine hundreds of skills and relics. Team up with friends, take on the challenge, and battle through waves of enemies in intense, action-packed combat!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246640/b7e375d8e45b0c2745aaf3e85f6674e597331db8/header.jpg?t=1766400450" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246640/b7e375d8e45b0c2745aaf3e85f6674e597331db8/header.jpg?t=1766400450" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246640/b7e375d8e45b0c2745aaf3e85f6674e597331db8/header.jpg?t=1766400450" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246640/b7e375d8e45b0c2745aaf3e85f6674e597331db8/header.jpg?t=1766400450" alt="地下城竞技场（新規追加）" /></a></p><p>Dungeon Brawls is an action roguelike game that supports 4-player co-op. Choose from dozens of heroes and freely combine hundreds of skills and relics. Team up with friends, take on the challenge, and battle through waves of enemies in intense, action-packed combat!</p><p><a href="https://store.steampowered.com/app/4246640/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
