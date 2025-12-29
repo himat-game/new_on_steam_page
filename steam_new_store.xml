@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 07:01:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 07:40:38 +0000</lastBuildDate>
+<item>
+  <title>Notebook Battlegrounds（新規追加）</title>
+  <link>https://store.steampowered.com/app/4254250/</link>
+  <guid isPermaLink="false">steam-store-published-4254250</guid>
+  <pubDate>Mon, 29 Dec 2025 07:40:38 +0000</pubDate>
+  <description>A multiplayer game where your voice is the weapon. Play as a random letter and use proximity voice chat to hear nearby players. Say the funny words on your screen to shoot opponents, find secret words for special powers, and battle in Timed Deathmatch or Battle Royale!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" alt="Notebook Battlegrounds（新規追加）" /></a></p><p>A multiplayer game where your voice is the weapon. Play as a random letter and use proximity voice chat to hear nearby players. Say the funny words on your screen to shoot opponents, find secret words for special powers, and battle in Timed Deathmatch or Battle Royale!</p><p><a href="https://store.steampowered.com/app/4254250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>G Squad: Bonkageddon（新規追加）</title>
   <link>https://store.steampowered.com/app/4239550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217490/2019e9159339f215211a3dfd7463647a7b26cfad/header.jpg?t=1766318303" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217490/2019e9159339f215211a3dfd7463647a7b26cfad/header.jpg?t=1766318303" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3217490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217490/2019e9159339f215211a3dfd7463647a7b26cfad/header.jpg?t=1766318303" alt="Color Idle（新規追加）" /></a></p><p>Color Idle is a relaxing idle clicker where art paints itself! Click to color pixel art, complete quests, and unlock chapters of unique artwork. Earn gold, ascend for upgrades, recruit drones, and unlock hundreds of achievements as each masterpiece comes to life pixel by pixel.</p><p><a href="https://store.steampowered.com/app/3217490/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Synthie Maker（新規追加）</title>
-  <link>https://store.steampowered.com/app/4256540/</link>
-  <guid isPermaLink="false">steam-store-published-4256540</guid>
-  <pubDate>Sun, 21 Dec 2025 12:34:35 +0000</pubDate>
-  <description>Build your perfect Synthie waifu in a neon vaporworld. Deep face/body sculpting, anime→semi-real style dial, poses, dances and 18+ animations - saved as one shareable PNG Character Card. Create • Play • Save • Mix.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256540/cb7384b016cc0cde88fa844417c8a5c932050deb/header.jpg?t=1766319391" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256540/cb7384b016cc0cde88fa844417c8a5c932050deb/header.jpg?t=1766319391" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256540/cb7384b016cc0cde88fa844417c8a5c932050deb/header.jpg?t=1766319391" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256540/cb7384b016cc0cde88fa844417c8a5c932050deb/header.jpg?t=1766319391" alt="Synthie Maker（新規追加）" /></a></p><p>Build your perfect Synthie waifu in a neon vaporworld. Deep face/body sculpting, anime→semi-real style dial, poses, dances and 18+ animations - saved as one shareable PNG Character Card. Create • Play • Save • Mix.</p><p><a href="https://store.steampowered.com/app/4256540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
