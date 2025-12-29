@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 07:40:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 08:28:17 +0000</lastBuildDate>
+<item>
+  <title>Synthetic Orders（新規追加）</title>
+  <link>https://store.steampowered.com/app/4238890/</link>
+  <guid isPermaLink="false">steam-store-published-4238890</guid>
+  <pubDate>Mon, 29 Dec 2025 08:28:17 +0000</pubDate>
+  <description>A quick, hypercasual pattern-memory game. Watch the left-right yellow signals, memorize the sequence, and repeat it using two simple buttons - no grinding, no complex mechanics.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" alt="Synthetic Orders（新規追加）" /></a></p><p>A quick, hypercasual pattern-memory game. Watch the left-right yellow signals, memorize the sequence, and repeat it using two simple buttons - no grinding, no complex mechanics.</p><p><a href="https://store.steampowered.com/app/4238890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Notebook Battlegrounds（新規追加）</title>
   <link>https://store.steampowered.com/app/4254250/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135070/471c0929fb626dceb4a957a3c23a21a32592588b/header.jpg?t=1766320481" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135070/471c0929fb626dceb4a957a3c23a21a32592588b/header.jpg?t=1766320481" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4135070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135070/471c0929fb626dceb4a957a3c23a21a32592588b/header.jpg?t=1766320481" alt="STARFALL GIRL（新規追加）" /></a></p><p>&amp;quot;Stronger desires draw out greater power from the meteorite. By growing closer to the girls and heightening lust, you enhance your allies’ strength. Live in a medieval town, hunt, trade materials, take guild quests, build a harem, and uncover the truth behind the millennia-old meteor shower.&amp;quot;</p><p><a href="https://store.steampowered.com/app/4135070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Color Idle（新規追加）</title>
-  <link>https://store.steampowered.com/app/3217490/</link>
-  <guid isPermaLink="false">steam-store-published-3217490</guid>
-  <pubDate>Sun, 21 Dec 2025 12:34:35 +0000</pubDate>
-  <description>Color Idle is a relaxing idle clicker where art paints itself! Click to color pixel art, complete quests, and unlock chapters of unique artwork. Earn gold, ascend for upgrades, recruit drones, and unlock hundreds of achievements as each masterpiece comes to life pixel by pixel.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217490/2019e9159339f215211a3dfd7463647a7b26cfad/header.jpg?t=1766318303" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217490/2019e9159339f215211a3dfd7463647a7b26cfad/header.jpg?t=1766318303" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217490/2019e9159339f215211a3dfd7463647a7b26cfad/header.jpg?t=1766318303" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3217490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3217490/2019e9159339f215211a3dfd7463647a7b26cfad/header.jpg?t=1766318303" alt="Color Idle（新規追加）" /></a></p><p>Color Idle is a relaxing idle clicker where art paints itself! Click to color pixel art, complete quests, and unlock chapters of unique artwork. Earn gold, ascend for upgrades, recruit drones, and unlock hundreds of achievements as each masterpiece comes to life pixel by pixel.</p><p><a href="https://store.steampowered.com/app/3217490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
