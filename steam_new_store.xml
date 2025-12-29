@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 09:55:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 10:21:06 +0000</lastBuildDate>
+<item>
+  <title>SKULD（新規追加）</title>
+  <link>https://store.steampowered.com/app/4250430/</link>
+  <guid isPermaLink="false">steam-store-published-4250430</guid>
+  <pubDate>Mon, 29 Dec 2025 10:21:06 +0000</pubDate>
+  <description>Skuld is an action tower defense set in the Nine Realms of Norse mythology. Play as Skuld, a Norn chosen by the threads of fate to become a Valkyrie and defend the realms from Hela’s shadow, combining agile combat, tactical turrets, and divine powers against waves of corrupted mythical creatures.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250430/3b7e06d474b4a8fc6df39883efa56d6d2adae6dc/header.jpg?t=1767002772" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250430/3b7e06d474b4a8fc6df39883efa56d6d2adae6dc/header.jpg?t=1767002772" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250430/3b7e06d474b4a8fc6df39883efa56d6d2adae6dc/header.jpg?t=1767002772" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4250430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250430/3b7e06d474b4a8fc6df39883efa56d6d2adae6dc/header.jpg?t=1767002772" alt="SKULD（新規追加）" /></a></p><p>Skuld is an action tower defense set in the Nine Realms of Norse mythology. Play as Skuld, a Norn chosen by the threads of fate to become a Valkyrie and defend the realms from Hela’s shadow, combining agile combat, tactical turrets, and divine powers against waves of corrupted mythical creatures.</p><p><a href="https://store.steampowered.com/app/4250430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Abracademia（新規追加）</title>
   <link>https://store.steampowered.com/app/4145780/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254680/f39cb149ffc278b44e37c39f2729b9ae6c8aff42/header.jpg?t=1766332572" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254680/f39cb149ffc278b44e37c39f2729b9ae6c8aff42/header.jpg?t=1766332572" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254680/f39cb149ffc278b44e37c39f2729b9ae6c8aff42/header.jpg?t=1766332572" alt="NOSTALGIA（新規追加）" /></a></p><p>Nostalgia is a tile-based strategy card game. To reclaim the once-existing &amp;quot;Notia,&amp;quot; you must explore the diverse regions of Rodia, encountering loved ones and confronting looming threats. Where will your quest for lost memories lead you?</p><p><a href="https://store.steampowered.com/app/4254680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Room 713（新規追加）</title>
-  <link>https://store.steampowered.com/app/3961890/</link>
-  <guid isPermaLink="false">steam-store-published-3961890</guid>
-  <pubDate>Sun, 21 Dec 2025 16:20:28 +0000</pubDate>
-  <description>You find yourself in the endless, looping corridors of a mysterious, liminal hotel. Spot anomalies to climb floors and reach your room... or be trapped forever.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961890/51e3c1bf265ac8ad8196feda4a152580688689e6/header.jpg?t=1766332809" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961890/51e3c1bf265ac8ad8196feda4a152580688689e6/header.jpg?t=1766332809" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961890/51e3c1bf265ac8ad8196feda4a152580688689e6/header.jpg?t=1766332809" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3961890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961890/51e3c1bf265ac8ad8196feda4a152580688689e6/header.jpg?t=1766332809" alt="Room 713（新規追加）" /></a></p><p>You find yourself in the endless, looping corridors of a mysterious, liminal hotel. Spot anomalies to climb floors and reach your room... or be trapped forever.</p><p><a href="https://store.steampowered.com/app/3961890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
