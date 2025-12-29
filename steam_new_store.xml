@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 10:52:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 11:48:12 +0000</lastBuildDate>
+<item>
+  <title>No Nap November（新規追加）</title>
+  <link>https://store.steampowered.com/app/4275190/</link>
+  <guid isPermaLink="false">steam-store-published-4275190</guid>
+  <pubDate>Mon, 29 Dec 2025 11:48:12 +0000</pubDate>
+  <description>No Nap November is a short psychological horror game set in a kindergarten during an endless nap time. Observe each loop carefully, spot anomalies, and survive an entire month without sleep to save yourself and the children from a strange presence.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275190/e410ed486ae5e29f61d8081343ee65c9c19a47f9/header.jpg?t=1767006756" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275190/e410ed486ae5e29f61d8081343ee65c9c19a47f9/header.jpg?t=1767006756" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275190/e410ed486ae5e29f61d8081343ee65c9c19a47f9/header.jpg?t=1767006756" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275190/e410ed486ae5e29f61d8081343ee65c9c19a47f9/header.jpg?t=1767006756" alt="No Nap November（新規追加）" /></a></p><p>No Nap November is a short psychological horror game set in a kindergarten during an endless nap time. Observe each loop carefully, spot anomalies, and survive an entire month without sleep to save yourself and the children from a strange presence.</p><p><a href="https://store.steampowered.com/app/4275190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Pirates Survivors（新規追加）</title>
   <link>https://store.steampowered.com/app/3950220/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484980/36ebb02255cf9181c13359ee381067153c7f420a/header.jpg?t=1766336782" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484980/36ebb02255cf9181c13359ee381067153c7f420a/header.jpg?t=1766336782" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3484980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484980/36ebb02255cf9181c13359ee381067153c7f420a/header.jpg?t=1766336782" alt="Pill Pusher ~Deluxe~（新規追加）" /></a></p><p>Low-level drug-dealing and psychonautic text-based simulation game with role-playing elements inspired by rave and electronic music culture.</p><p><a href="https://store.steampowered.com/app/3484980/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Alien Together（新規追加）</title>
-  <link>https://store.steampowered.com/app/4253660/</link>
-  <guid isPermaLink="false">steam-store-published-4253660</guid>
-  <pubDate>Sun, 21 Dec 2025 16:50:35 +0000</pubDate>
-  <description>As a pair or solo, test your coordination and your friendship by each controlling a thruster to steer your space car.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4253660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253660/c7e7f78fd949a5b1302222d54cdebe0a7fa4b896/header.jpg?t=1766334232" alt="Alien Together（新規追加）" /></a></p><p>As a pair or solo, test your coordination and your friendship by each controlling a thruster to steer your space car.</p><p><a href="https://store.steampowered.com/app/4253660/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
