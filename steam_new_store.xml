@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 28 Dec 2025 23:47:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 01:40:12 +0000</lastBuildDate>
+<item>
+  <title>Sacred Light: Pyre of Hubris（新規追加）</title>
+  <link>https://store.steampowered.com/app/3867090/</link>
+  <guid isPermaLink="false">steam-store-published-3867090</guid>
+  <pubDate>Mon, 29 Dec 2025 01:40:12 +0000</pubDate>
+  <description>Sacred Light: Pyre of Hubris is a strategy RPG inspired by the Ogre Battle series. Develop, organize, then take command of your units, sending them into real-time battles and discover a rich, dangerous world full of political intrigue, black magic, and ancient powers.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867090/0538925e11e0ea478a212580c11dcf865b0571fa/header.jpg?t=1766971971" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867090/0538925e11e0ea478a212580c11dcf865b0571fa/header.jpg?t=1766971971" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867090/0538925e11e0ea478a212580c11dcf865b0571fa/header.jpg?t=1766971971" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3867090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867090/0538925e11e0ea478a212580c11dcf865b0571fa/header.jpg?t=1766971971" alt="Sacred Light: Pyre of Hubris（新規追加）" /></a></p><p>Sacred Light: Pyre of Hubris is a strategy RPG inspired by the Ogre Battle series. Develop, organize, then take command of your units, sending them into real-time battles and discover a rich, dangerous world full of political intrigue, black magic, and ancient powers.</p><p><a href="https://store.steampowered.com/app/3867090/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>CDL for a UFO（新規追加）</title>
   <link>https://store.steampowered.com/app/3356640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238920/5f50cbaac19c8d37e9cfdcc52607178ac1d1db7c/header.jpg?t=1766283094" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238920/5f50cbaac19c8d37e9cfdcc52607178ac1d1db7c/header.jpg?t=1766283094" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238920/5f50cbaac19c8d37e9cfdcc52607178ac1d1db7c/header.jpg?t=1766283094" alt="Paws Coven（新規追加）" /></a></p><p>Face the secrets of the ancient feline cult. Work together as occult cats to complete five eldritch rituals... Or be the only human opposing them to protect the humanity from the horrors beyond your comprehension.</p><p><a href="https://store.steampowered.com/app/4238920/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Alice and the Devil&#x27;s Prison（新規追加）</title>
-  <link>https://store.steampowered.com/app/4145350/</link>
-  <guid isPermaLink="false">steam-store-published-4145350</guid>
-  <pubDate>Sun, 21 Dec 2025 03:18:27 +0000</pubDate>
-  <description>Escape adventure game. During a tea party, Alice and her friends become trapped in a world created by demons. Will they be able to escape this twisted realm safely?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145350/d5b52eb953acb402c627006b5118b398118b9477/header.jpg?t=1766286972" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145350/d5b52eb953acb402c627006b5118b398118b9477/header.jpg?t=1766286972" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145350/d5b52eb953acb402c627006b5118b398118b9477/header.jpg?t=1766286972" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4145350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145350/d5b52eb953acb402c627006b5118b398118b9477/header.jpg?t=1766286972" alt="Alice and the Devil&#x27;s Prison（新規追加）" /></a></p><p>Escape adventure game. During a tea party, Alice and her friends become trapped in a world created by demons. Will they be able to escape this twisted realm safely?</p><p><a href="https://store.steampowered.com/app/4145350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
