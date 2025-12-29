@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 16:22:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 16:54:03 +0000</lastBuildDate>
+<item>
+  <title>Micro Overdrive: Home Tour（新規追加）</title>
+  <link>https://store.steampowered.com/app/4125010/</link>
+  <guid isPermaLink="false">steam-store-published-4125010</guid>
+  <pubDate>Mon, 29 Dec 2025 16:54:03 +0000</pubDate>
+  <description>Micro Overdrive: Home Tour is a fast-paced arcade racer where tiny cars turn everyday rooms into chaotic tracks. Race solo or with friends, master tight controls, dodge oversized obstacles, and fight for every corner in loud, playful races.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125010/02f84981a67bf13530b13b4ddada93868a7962f8/header.jpg?t=1767025727" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125010/02f84981a67bf13530b13b4ddada93868a7962f8/header.jpg?t=1767025727" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125010/02f84981a67bf13530b13b4ddada93868a7962f8/header.jpg?t=1767025727" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4125010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125010/02f84981a67bf13530b13b4ddada93868a7962f8/header.jpg?t=1767025727" alt="Micro Overdrive: Home Tour（新規追加）" /></a></p><p>Micro Overdrive: Home Tour is a fast-paced arcade racer where tiny cars turn everyday rooms into chaotic tracks. Race solo or with friends, master tight controls, dodge oversized obstacles, and fight for every corner in loud, playful races.</p><p><a href="https://store.steampowered.com/app/4125010/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Unsolved Case: Whispers of Elderwick Collector’s Edition（新規追加）</title>
   <link>https://store.steampowered.com/app/4253730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124400/716785c747c81cbd1161385e0d8e857aca13884c/header.jpg?t=1766395061" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124400/716785c747c81cbd1161385e0d8e857aca13884c/header.jpg?t=1766395061" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4124400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124400/716785c747c81cbd1161385e0d8e857aca13884c/header.jpg?t=1766395061" alt="PIVOT!（新規追加）" /></a></p><p>An online co-op game where your livelihood depends on how well your moving company can move valuable furniture. Team up to carry the sofa up the stairs and keep your financials only mildly tragic. Coordinate, communicate and cause chaos!</p><p><a href="https://store.steampowered.com/app/4124400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Black Hole: Farmageddon（新規追加）</title>
-  <link>https://store.steampowered.com/app/4197270/</link>
-  <guid isPermaLink="false">steam-store-published-4197270</guid>
-  <pubDate>Mon, 22 Dec 2025 09:31:57 +0000</pubDate>
-  <description>Grow your ever-growing black hole as you chase panicked animals across levels with janky physics. Catch them, stack incremental upgrades, and dive into fast runs that always tempt ‘just one more’.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197270/9a64b566b1ba64b018f2e65f161ebff2d96dee13/header.jpg?t=1766394761" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197270/9a64b566b1ba64b018f2e65f161ebff2d96dee13/header.jpg?t=1766394761" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197270/9a64b566b1ba64b018f2e65f161ebff2d96dee13/header.jpg?t=1766394761" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4197270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197270/9a64b566b1ba64b018f2e65f161ebff2d96dee13/header.jpg?t=1766394761" alt="Black Hole: Farmageddon（新規追加）" /></a></p><p>Grow your ever-growing black hole as you chase panicked animals across levels with janky physics. Catch them, stack incremental upgrades, and dive into fast runs that always tempt ‘just one more’.</p><p><a href="https://store.steampowered.com/app/4197270/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
