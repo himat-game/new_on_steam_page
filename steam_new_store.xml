@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 05:05:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 07:01:14 +0000</lastBuildDate>
+<item>
+  <title>G Squad: Bonkageddon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4239550/</link>
+  <guid isPermaLink="false">steam-store-published-4239550</guid>
+  <pubDate>Mon, 29 Dec 2025 07:01:14 +0000</pubDate>
+  <description>Simple, sexy strategy gameplay. G Squad: Bonkageddon is a polished, gameplay-first adult game (strategy autobattler with roguelite and RPG elements). Designed to scratch the strategy itch without being overwhelming. Also boobs. Lots of boobs.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239550/c09c924c043dbf27c13bfaf37bb71b7500a06a95/header.jpg?t=1766990806" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239550/c09c924c043dbf27c13bfaf37bb71b7500a06a95/header.jpg?t=1766990806" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239550/c09c924c043dbf27c13bfaf37bb71b7500a06a95/header.jpg?t=1766990806" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4239550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239550/c09c924c043dbf27c13bfaf37bb71b7500a06a95/header.jpg?t=1766990806" alt="G Squad: Bonkageddon（新規追加）" /></a></p><p>Simple, sexy strategy gameplay. G Squad: Bonkageddon is a polished, gameplay-first adult game (strategy autobattler with roguelite and RPG elements). Designed to scratch the strategy itch without being overwhelming. Also boobs. Lots of boobs.</p><p><a href="https://store.steampowered.com/app/4239550/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rance 03（新規追加）</title>
   <link>https://store.steampowered.com/app/3867190/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256540/cb7384b016cc0cde88fa844417c8a5c932050deb/header.jpg?t=1766319391" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256540/cb7384b016cc0cde88fa844417c8a5c932050deb/header.jpg?t=1766319391" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256540/cb7384b016cc0cde88fa844417c8a5c932050deb/header.jpg?t=1766319391" alt="Synthie Maker（新規追加）" /></a></p><p>Build your perfect Synthie waifu in a neon vaporworld. Deep face/body sculpting, anime→semi-real style dial, poses, dances and 18+ animations - saved as one shareable PNG Character Card. Create • Play • Save • Mix.</p><p><a href="https://store.steampowered.com/app/4256540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>VoidFire（新規追加）</title>
-  <link>https://store.steampowered.com/app/4260340/</link>
-  <guid isPermaLink="false">steam-store-published-4260340</guid>
-  <pubDate>Sun, 21 Dec 2025 10:51:39 +0000</pubDate>
-  <description>VoidFire is a dark horror shooter with fast-paced skirmish deathmatch combat, where fear and adrenaline collide.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260340/7f66ea64a679d104f2191f8958bbf26b3760a54f/header.jpg?t=1766314240" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260340/7f66ea64a679d104f2191f8958bbf26b3760a54f/header.jpg?t=1766314240" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260340/7f66ea64a679d104f2191f8958bbf26b3760a54f/header.jpg?t=1766314240" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260340/7f66ea64a679d104f2191f8958bbf26b3760a54f/header.jpg?t=1766314240" alt="VoidFire（新規追加）" /></a></p><p>VoidFire is a dark horror shooter with fast-paced skirmish deathmatch combat, where fear and adrenaline collide.</p><p><a href="https://store.steampowered.com/app/4260340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
