@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 29 Dec 2025 08:58:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Dec 2025 09:55:32 +0000</lastBuildDate>
+<item>
+  <title>Abracademia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4145780/</link>
+  <guid isPermaLink="false">steam-store-published-4145780</guid>
+  <pubDate>Mon, 29 Dec 2025 09:55:32 +0000</pubDate>
+  <description>Become a wizard, and a thumping good one! Abracademia is a cozy mage idle life-sim that lives on your screen and keeps you company while you work or play. Pick a coven, manage your daily routine, learn spells, make friends, embark on adventures, and pass exams on your way to graduation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145780/5a58a6260080530947cf8ae6e15e49816208fd08/header.jpg?t=1767001870" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145780/5a58a6260080530947cf8ae6e15e49816208fd08/header.jpg?t=1767001870" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145780/5a58a6260080530947cf8ae6e15e49816208fd08/header.jpg?t=1767001870" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4145780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145780/5a58a6260080530947cf8ae6e15e49816208fd08/header.jpg?t=1767001870" alt="Abracademia（新規追加）" /></a></p><p>Become a wizard, and a thumping good one! Abracademia is a cozy mage idle life-sim that lives on your screen and keeps you company while you work or play. Pick a coven, manage your daily routine, learn spells, make friends, embark on adventures, and pass exams on your way to graduation.</p><p><a href="https://store.steampowered.com/app/4145780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>OUR LUST SHELTER（新規追加）</title>
   <link>https://store.steampowered.com/app/4262790/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961890/51e3c1bf265ac8ad8196feda4a152580688689e6/header.jpg?t=1766332809" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961890/51e3c1bf265ac8ad8196feda4a152580688689e6/header.jpg?t=1766332809" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3961890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961890/51e3c1bf265ac8ad8196feda4a152580688689e6/header.jpg?t=1766332809" alt="Room 713（新規追加）" /></a></p><p>You find yourself in the endless, looping corridors of a mysterious, liminal hotel. Spot anomalies to climb floors and reach your room... or be trapped forever.</p><p><a href="https://store.steampowered.com/app/3961890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Silent Edge（新規追加）</title>
-  <link>https://store.steampowered.com/app/4203310/</link>
-  <guid isPermaLink="false">steam-store-published-4203310</guid>
-  <pubDate>Sun, 21 Dec 2025 15:46:00 +0000</pubDate>
-  <description>Silent Edge is a top-down 3D samurai action game with simple, beginner-friendly controls. Slash, dodge, and fire ranged techniques as you clear stylish feudal stages and tense boss battles, with sharp combat and a quiet, atmospheric presentation.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4203310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203310/990d0cfedc64cf1409d9e8be7f95a80854b17067/header.jpg?t=1766328675" alt="Silent Edge（新規追加）" /></a></p><p>Silent Edge is a top-down 3D samurai action game with simple, beginner-friendly controls. Slash, dodge, and fire ranged techniques as you clear stylish feudal stages and tense boss battles, with sharp combat and a quiet, atmospheric presentation.</p><p><a href="https://store.steampowered.com/app/4203310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
