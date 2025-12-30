@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 14:42:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 15:19:31 +0000</lastBuildDate>
+<item>
+  <title>孤狼之春（新規追加）</title>
+  <link>https://store.steampowered.com/app/4213770/</link>
+  <guid isPermaLink="false">steam-store-published-4213770</guid>
+  <pubDate>Tue, 30 Dec 2025 15:19:31 +0000</pubDate>
+  <description>This is a true-harem galgame set in a Western fantasy world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/1c2291baa66502c4a324e0a3336129690c7f317d/header.jpg?t=1767107448" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/1c2291baa66502c4a324e0a3336129690c7f317d/header.jpg?t=1767107448" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/1c2291baa66502c4a324e0a3336129690c7f317d/header.jpg?t=1767107448" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4213770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213770/1c2291baa66502c4a324e0a3336129690c7f317d/header.jpg?t=1767107448" alt="孤狼之春（新規追加）" /></a></p><p>This is a true-harem galgame set in a Western fantasy world.</p><p><a href="https://store.steampowered.com/app/4213770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lost in the Fire（新規追加）</title>
   <link>https://store.steampowered.com/app/4275570/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250010/6771c04e866d47512e203a67160e4e5a0b7a173a/header.jpg?t=1766457398" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250010/6771c04e866d47512e203a67160e4e5a0b7a173a/header.jpg?t=1766457398" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4250010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250010/6771c04e866d47512e203a67160e4e5a0b7a173a/header.jpg?t=1766457398" alt="My Roommate is a cute Ghost Girl!?（新規追加）" /></a></p><p>In the dilapidated cottage in the countryside, besides you, there also lives a mysterious ghost girl. You will embark on a fantastic romance story with this ghost, farming, working part-time, and repairing the house while fulfilling her wishes until she successfully reincarnates.</p><p><a href="https://store.steampowered.com/app/4250010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Obsession（新規追加）</title>
-  <link>https://store.steampowered.com/app/4249810/</link>
-  <guid isPermaLink="false">steam-store-published-4249810</guid>
-  <pubDate>Tue, 23 Dec 2025 01:23:28 +0000</pubDate>
-  <description>The Obsession Game is a first-person psychological horror game about how a past mistake is transformed into a ruthless threat by an obsessive individual. It&#x27;s not silence that awaits you; it&#x27;s the feeling of being watched.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/d9e64dcbb558cf341612c39726417b43189d9c85/header.jpg?t=1766447936" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/d9e64dcbb558cf341612c39726417b43189d9c85/header.jpg?t=1766447936" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/d9e64dcbb558cf341612c39726417b43189d9c85/header.jpg?t=1766447936" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/d9e64dcbb558cf341612c39726417b43189d9c85/header.jpg?t=1766447936" alt="The Obsession（新規追加）" /></a></p><p>The Obsession Game is a first-person psychological horror game about how a past mistake is transformed into a ruthless threat by an obsessive individual. It&#x27;s not silence that awaits you; it&#x27;s the feeling of being watched.</p><p><a href="https://store.steampowered.com/app/4249810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
