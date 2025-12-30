@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 21:48:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 22:17:36 +0000</lastBuildDate>
+<item>
+  <title>Runes &amp; Revenue（新規追加）</title>
+  <link>https://store.steampowered.com/app/3359700/</link>
+  <guid isPermaLink="false">steam-store-published-3359700</guid>
+  <pubDate>Tue, 30 Dec 2025 22:17:36 +0000</pubDate>
+  <description>Welcome to the enchanting world of magic retail! Runes &amp;amp; Revenue is a cozy, hands-off management game where you manage your own magic shop. Recruit staff, unlock new mystical services. Strategically purchase upgrades to keep up with customer demand and ensure every adventurer leaves happy.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359700/986574a7135f9b3afaea4c4f6e7e1a5b4dbcaabc/header.jpg?t=1767110155" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359700/986574a7135f9b3afaea4c4f6e7e1a5b4dbcaabc/header.jpg?t=1767110155" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359700/986574a7135f9b3afaea4c4f6e7e1a5b4dbcaabc/header.jpg?t=1767110155" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3359700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359700/986574a7135f9b3afaea4c4f6e7e1a5b4dbcaabc/header.jpg?t=1767110155" alt="Runes &amp; Revenue（新規追加）" /></a></p><p>Welcome to the enchanting world of magic retail! Runes &amp;amp; Revenue is a cozy, hands-off management game where you manage your own magic shop. Recruit staff, unlock new mystical services. Strategically purchase upgrades to keep up with customer demand and ensure every adventurer leaves happy.</p><p><a href="https://store.steampowered.com/app/3359700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Town of Nowhere: End Of The Line（新規追加）</title>
   <link>https://store.steampowered.com/app/4233970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255550/ee1a6984c2e4ef16b7549fb3cfdd8f69934d904f/header.jpg?t=1766480771" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255550/ee1a6984c2e4ef16b7549fb3cfdd8f69934d904f/header.jpg?t=1766480771" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255550/ee1a6984c2e4ef16b7549fb3cfdd8f69934d904f/header.jpg?t=1766480771" alt="Voxel Throne（新規追加）" /></a></p><p>Voxel Throne is a voxel-based action adventure RPG. Explore a beautiful world, alone or with friends! Help townsfolk, defeat enemies, loot powerful items and create your ultimate build!</p><p><a href="https://store.steampowered.com/app/4255550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Idle Demon Summoner（新規追加）</title>
-  <link>https://store.steampowered.com/app/4238220/</link>
-  <guid isPermaLink="false">steam-store-published-4238220</guid>
-  <pubDate>Tue, 23 Dec 2025 08:26:22 +0000</pubDate>
-  <description>A dark yet vibrant idle game featuring creature collecting, tower-defense, and bullet-heaven elements. Unlock new demons and weapons to conquer distant worlds.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" alt="Idle Demon Summoner（新規追加）" /></a></p><p>A dark yet vibrant idle game featuring creature collecting, tower-defense, and bullet-heaven elements. Unlock new demons and weapons to conquer distant worlds.</p><p><a href="https://store.steampowered.com/app/4238220/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
