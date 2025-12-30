@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 06:29:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 07:27:16 +0000</lastBuildDate>
+<item>
+  <title>ALIGNMENT : An Engineering Odyssey（新規追加）</title>
+  <link>https://store.steampowered.com/app/4267650/</link>
+  <guid isPermaLink="false">steam-store-published-4267650</guid>
+  <pubDate>Tue, 30 Dec 2025 07:27:16 +0000</pubDate>
+  <description>A professional-grade road design sim built on real-world maps. Recreate complex interchanges and iconic highways 1:1, engineer custom solutions with real workflows, and drive what you design. Collaborate with friends on massive infrastructure projects.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267650/05f99bbb2efd10b3709039639c561cb8dde09923/header.jpg?t=1767078207" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267650/05f99bbb2efd10b3709039639c561cb8dde09923/header.jpg?t=1767078207" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267650/05f99bbb2efd10b3709039639c561cb8dde09923/header.jpg?t=1767078207" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4267650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267650/05f99bbb2efd10b3709039639c561cb8dde09923/header.jpg?t=1767078207" alt="ALIGNMENT : An Engineering Odyssey（新規追加）" /></a></p><p>A professional-grade road design sim built on real-world maps. Recreate complex interchanges and iconic highways 1:1, engineer custom solutions with real workflows, and drive what you design. Collaborate with friends on massive infrastructure projects.</p><p><a href="https://store.steampowered.com/app/4267650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>CALLUS（新規追加）</title>
   <link>https://store.steampowered.com/app/4258330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258910/e70070d246be4bf2cafb70e949baf65bb4e5de69/header.jpg?t=1766434371" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258910/e70070d246be4bf2cafb70e949baf65bb4e5de69/header.jpg?t=1766434371" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258910/e70070d246be4bf2cafb70e949baf65bb4e5de69/header.jpg?t=1766434371" alt="Hunter From Hell（新規追加）" /></a></p><p>With your friends, form a team of paranormal experts to unravel the mysteries of the most terrifying places. Armed with sophisticated gadgets like EMF detectors, infrared cameras, and incantation books, your mission is simple: gather evidence of the beyond and survive chilling encounters.</p><p><a href="https://store.steampowered.com/app/4258910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>On Tape &lt;&lt; Rewind（新規追加）</title>
-  <link>https://store.steampowered.com/app/2316280/</link>
-  <guid isPermaLink="false">steam-store-published-2316280</guid>
-  <pubDate>Mon, 22 Dec 2025 20:20:06 +0000</pubDate>
-  <description>On Tape &amp;lt;&amp;lt; Rewind is a psychological horror story told through cassette tapes. Play recordings, search for clues, discover hidden cassettes, and manipulate audio. Unravel the mystery of a scientist’s disappearance and the obsession that consumed him — tape by tape.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316280/b1dd33fd578d35a192c62e32e1d567edb6aeca7f/header.jpg?t=1766434383" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316280/b1dd33fd578d35a192c62e32e1d567edb6aeca7f/header.jpg?t=1766434383" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316280/b1dd33fd578d35a192c62e32e1d567edb6aeca7f/header.jpg?t=1766434383" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2316280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316280/b1dd33fd578d35a192c62e32e1d567edb6aeca7f/header.jpg?t=1766434383" alt="On Tape &lt;&lt; Rewind（新規追加）" /></a></p><p>On Tape &amp;lt;&amp;lt; Rewind is a psychological horror story told through cassette tapes. Play recordings, search for clues, discover hidden cassettes, and manipulate audio. Unravel the mystery of a scientist’s disappearance and the obsession that consumed him — tape by tape.</p><p><a href="https://store.steampowered.com/app/2316280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
