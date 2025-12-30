@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 05:51:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 06:29:18 +0000</lastBuildDate>
+<item>
+  <title>CALLUS（新規追加）</title>
+  <link>https://store.steampowered.com/app/4258330/</link>
+  <guid isPermaLink="false">steam-store-published-4258330</guid>
+  <pubDate>Tue, 30 Dec 2025 06:29:18 +0000</pubDate>
+  <description>CALLUS is a short psychological horror walking simulator. A story about someone who never knew how to love.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258330/9496dd4c8605f9e10c886659ccba9c2cc805ef1f/header.jpg?t=1767075413" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258330/9496dd4c8605f9e10c886659ccba9c2cc805ef1f/header.jpg?t=1767075413" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258330/9496dd4c8605f9e10c886659ccba9c2cc805ef1f/header.jpg?t=1767075413" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258330/9496dd4c8605f9e10c886659ccba9c2cc805ef1f/header.jpg?t=1767075413" alt="CALLUS（新規追加）" /></a></p><p>CALLUS is a short psychological horror walking simulator. A story about someone who never knew how to love.</p><p><a href="https://store.steampowered.com/app/4258330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PsyUp: A Psychological Physics Puzzle（新規追加）</title>
   <link>https://store.steampowered.com/app/1704840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316280/b1dd33fd578d35a192c62e32e1d567edb6aeca7f/header.jpg?t=1766434383" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316280/b1dd33fd578d35a192c62e32e1d567edb6aeca7f/header.jpg?t=1766434383" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2316280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316280/b1dd33fd578d35a192c62e32e1d567edb6aeca7f/header.jpg?t=1766434383" alt="On Tape &lt;&lt; Rewind（新規追加）" /></a></p><p>On Tape &amp;lt;&amp;lt; Rewind is a psychological horror story told through cassette tapes. Play recordings, search for clues, discover hidden cassettes, and manipulate audio. Unravel the mystery of a scientist’s disappearance and the obsession that consumed him — tape by tape.</p><p><a href="https://store.steampowered.com/app/2316280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bunker KYS（新規追加）</title>
-  <link>https://store.steampowered.com/app/4155000/</link>
-  <guid isPermaLink="false">steam-store-published-4155000</guid>
-  <pubDate>Mon, 22 Dec 2025 19:45:15 +0000</pubDate>
-  <description>Survive in a bunker in this intense social game for 4-10 players. Form alliances, manipulate opponents, and vote on who to condemn to certain death. In a stylish low-poly atmosphere, your main weapon will be not strength, but your ability to negotiate.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155000/328433404e567d119de5683704409cf82001ccce/header.jpg?t=1766431189" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155000/328433404e567d119de5683704409cf82001ccce/header.jpg?t=1766431189" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155000/328433404e567d119de5683704409cf82001ccce/header.jpg?t=1766431189" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4155000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155000/328433404e567d119de5683704409cf82001ccce/header.jpg?t=1766431189" alt="Bunker KYS（新規追加）" /></a></p><p>Survive in a bunker in this intense social game for 4-10 players. Form alliances, manipulate opponents, and vote on who to condemn to certain death. In a stylish low-poly atmosphere, your main weapon will be not strength, but your ability to negotiate.</p><p><a href="https://store.steampowered.com/app/4155000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
