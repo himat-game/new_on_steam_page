@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 13:55:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 14:19:31 +0000</lastBuildDate>
+<item>
+  <title>Mytosis（新規追加）</title>
+  <link>https://store.steampowered.com/app/4275310/</link>
+  <guid isPermaLink="false">steam-store-published-4275310</guid>
+  <pubDate>Tue, 30 Dec 2025 14:19:31 +0000</pubDate>
+  <description>Mytosis is a short, experimental incremental game about evolving life forms from simple cells to complex procedural organisms.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" alt="Mytosis（新規追加）" /></a></p><p>Mytosis is a short, experimental incremental game about evolving life forms from simple cells to complex procedural organisms.</p><p><a href="https://store.steampowered.com/app/4275310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sister Other Paranoia（新規追加）</title>
   <link>https://store.steampowered.com/app/4240150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258960/ab9d84a53e6c70a3e97d3741c63cfcaa3d5bb2b8/header.jpg?t=1766451422" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258960/ab9d84a53e6c70a3e97d3741c63cfcaa3d5bb2b8/header.jpg?t=1766451422" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258960/ab9d84a53e6c70a3e97d3741c63cfcaa3d5bb2b8/header.jpg?t=1766451422" alt="Rise of State（新規追加）" /></a></p><p>Rise of State is a state management game focused on leadership and strategy. Every decision you make affects public happiness, military strength, the economy, and political stability. Manage crises, define your ideology, and try to keep your state standing.</p><p><a href="https://store.steampowered.com/app/4258960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Buddy City Inc.（新規追加）</title>
-  <link>https://store.steampowered.com/app/4246600/</link>
-  <guid isPermaLink="false">steam-store-published-4246600</guid>
-  <pubDate>Tue, 23 Dec 2025 01:23:28 +0000</pubDate>
-  <description>Raise a Buddy for a strange and mysterious company. Rise through the ranks as you learn and grow with your Buddy!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246600/0c6ee2e74e3c042231ce193fbf6feeccdcec6890/header.jpg?t=1766452463" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246600/0c6ee2e74e3c042231ce193fbf6feeccdcec6890/header.jpg?t=1766452463" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246600/0c6ee2e74e3c042231ce193fbf6feeccdcec6890/header.jpg?t=1766452463" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246600/0c6ee2e74e3c042231ce193fbf6feeccdcec6890/header.jpg?t=1766452463" alt="Buddy City Inc.（新規追加）" /></a></p><p>Raise a Buddy for a strange and mysterious company. Rise through the ranks as you learn and grow with your Buddy!</p><p><a href="https://store.steampowered.com/app/4246600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
