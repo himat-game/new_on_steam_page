@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 09:51:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 10:44:17 +0000</lastBuildDate>
+<item>
+  <title>Wasteland Spirit（新規追加）</title>
+  <link>https://store.steampowered.com/app/3955260/</link>
+  <guid isPermaLink="false">steam-store-published-3955260</guid>
+  <pubDate>Tue, 30 Dec 2025 10:44:17 +0000</pubDate>
+  <description>Embark on a journey across desolate worlds as a wandering spirit, capable of possessing any living being to endure the harshness of apocalyptic wastelands. Gather rare resources and lost relics, then return to the ethereal realm to restore and expand your personal farmstead.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3955260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" alt="Wasteland Spirit（新規追加）" /></a></p><p>Embark on a journey across desolate worlds as a wandering spirit, capable of possessing any living being to endure the harshness of apocalyptic wastelands. Gather rare resources and lost relics, then return to the ethereal realm to restore and expand your personal farmstead.</p><p><a href="https://store.steampowered.com/app/3955260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Farming Camp（新規追加）</title>
   <link>https://store.steampowered.com/app/2985880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263100/7d50f22dc9873f61eff189aed9d89dfdf0216917/header.jpg?t=1766452226" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263100/7d50f22dc9873f61eff189aed9d89dfdf0216917/header.jpg?t=1766452226" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263100/7d50f22dc9873f61eff189aed9d89dfdf0216917/header.jpg?t=1766452226" alt="Laments of a Platinum Rose（新規追加）" /></a></p><p>A mixed-media visual novel about a robot and God. A 3 hour story-focused visual novel game where the player can explore Nexus and interact with the world in whatever order they like, with a story emphasizing the player&#x27;s agency.</p><p><a href="https://store.steampowered.com/app/4263100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Infiltrating Roudille（新規追加）</title>
-  <link>https://store.steampowered.com/app/4077960/</link>
-  <guid isPermaLink="false">steam-store-published-4077960</guid>
-  <pubDate>Tue, 23 Dec 2025 01:23:28 +0000</pubDate>
-  <description>A retro-style JRPG dungeon crawler. Play as an elite knight and confront a perilous mission where success is the only option. Alone and deep in enemy territory, you must succeed at all costs.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077960/75f52cd5700d2bd0558b4a880f415684f5812a13/header.jpg?t=1766451580" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077960/75f52cd5700d2bd0558b4a880f415684f5812a13/header.jpg?t=1766451580" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077960/75f52cd5700d2bd0558b4a880f415684f5812a13/header.jpg?t=1766451580" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4077960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077960/75f52cd5700d2bd0558b4a880f415684f5812a13/header.jpg?t=1766451580" alt="Infiltrating Roudille（新規追加）" /></a></p><p>A retro-style JRPG dungeon crawler. Play as an elite knight and confront a perilous mission where success is the only option. Alone and deep in enemy territory, you must succeed at all costs.</p><p><a href="https://store.steampowered.com/app/4077960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
