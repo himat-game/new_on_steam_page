@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 17:40:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 18:28:12 +0000</lastBuildDate>
+<item>
+  <title>The Artisan of Glimmith（新規追加）</title>
+  <link>https://store.steampowered.com/app/4160210/</link>
+  <guid isPermaLink="false">steam-store-published-4160210</guid>
+  <pubDate>Tue, 30 Dec 2025 18:28:12 +0000</pubDate>
+  <description>The Artisan of Glimmith is a cozy, relaxing puzzle game about coloring stained glass and restoring the artworks of a kingdom above the clouds. Explore a world of handcrafted puzzles designed with intent, where simple rules lead to delightful surprises.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1767117280" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1767117280" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1767117280" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4160210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9ee76e41d658980856feaf5b4b9380866c428db5/header.jpg?t=1767117280" alt="The Artisan of Glimmith（新規追加）" /></a></p><p>The Artisan of Glimmith is a cozy, relaxing puzzle game about coloring stained glass and restoring the artworks of a kingdom above the clouds. Explore a world of handcrafted puzzles designed with intent, where simple rules lead to delightful surprises.</p><p><a href="https://store.steampowered.com/app/4160210/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Yomifuda: Kanji Survivors（新規追加）</title>
   <link>https://store.steampowered.com/app/4276660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261830/50ee43d27ef4f3158f31443575630826f9ec0436/header.jpg?t=1766468630" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261830/50ee43d27ef4f3158f31443575630826f9ec0436/header.jpg?t=1766468630" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261830/50ee43d27ef4f3158f31443575630826f9ec0436/header.jpg?t=1766468630" alt="Sweet Ancient（新規追加）" /></a></p><p>Sweet Ancient - A simple and beautiful retro-themed jigsaw puzzle game featuring the daily lives of five pretty and adorable retro-style girls. It&#x27;s accompanied by relaxing music, and after completing a level, you can view the girls&#x27; photos in the gallery.</p><p><a href="https://store.steampowered.com/app/4261830/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Other Me Reborn（新規追加）</title>
-  <link>https://store.steampowered.com/app/4243130/</link>
-  <guid isPermaLink="false">steam-store-published-4243130</guid>
-  <pubDate>Tue, 23 Dec 2025 05:51:51 +0000</pubDate>
-  <description>Step into the role of Ophelia as she returns to the isolated town she once shared with her twin, now twisted by secrets and shadows. Her search for answers spirals into a nightmare of shifting halls and memories that refuse to stay buried.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243130/0b2889a534f9f1b3a18c6496e266eb9cb1e70cf3/header.jpg?t=1766468090" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243130/0b2889a534f9f1b3a18c6496e266eb9cb1e70cf3/header.jpg?t=1766468090" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243130/0b2889a534f9f1b3a18c6496e266eb9cb1e70cf3/header.jpg?t=1766468090" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243130/0b2889a534f9f1b3a18c6496e266eb9cb1e70cf3/header.jpg?t=1766468090" alt="The Other Me Reborn（新規追加）" /></a></p><p>Step into the role of Ophelia as she returns to the isolated town she once shared with her twin, now twisted by secrets and shadows. Her search for answers spirals into a nightmare of shifting halls and memories that refuse to stay buried.</p><p><a href="https://store.steampowered.com/app/4243130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
