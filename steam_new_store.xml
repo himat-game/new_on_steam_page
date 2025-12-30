@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 14:19:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 14:42:25 +0000</lastBuildDate>
+<item>
+  <title>Lost in the Fire（新規追加）</title>
+  <link>https://store.steampowered.com/app/4275570/</link>
+  <guid isPermaLink="false">steam-store-published-4275570</guid>
+  <pubDate>Tue, 30 Dec 2025 14:42:25 +0000</pubDate>
+  <description>Lost in the Fire is an atmospheric first-person exploration game. Its diverse locations draw you into an unknown world where every shadow hides a story and every step deepens the mystery. Uncover the truth behind the mystery that started it all. Are you ready to get lost in different realities?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/837c09fa54c1f9a81de05d374b9b8fcea981e26e/header.jpg?t=1767104242" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/837c09fa54c1f9a81de05d374b9b8fcea981e26e/header.jpg?t=1767104242" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/837c09fa54c1f9a81de05d374b9b8fcea981e26e/header.jpg?t=1767104242" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/837c09fa54c1f9a81de05d374b9b8fcea981e26e/header.jpg?t=1767104242" alt="Lost in the Fire（新規追加）" /></a></p><p>Lost in the Fire is an atmospheric first-person exploration game. Its diverse locations draw you into an unknown world where every shadow hides a story and every step deepens the mystery. Uncover the truth behind the mystery that started it all. Are you ready to get lost in different realities?</p><p><a href="https://store.steampowered.com/app/4275570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mytosis（新規追加）</title>
   <link>https://store.steampowered.com/app/4275310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/d9e64dcbb558cf341612c39726417b43189d9c85/header.jpg?t=1766447936" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/d9e64dcbb558cf341612c39726417b43189d9c85/header.jpg?t=1766447936" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249810/d9e64dcbb558cf341612c39726417b43189d9c85/header.jpg?t=1766447936" alt="The Obsession（新規追加）" /></a></p><p>The Obsession Game is a first-person psychological horror game about how a past mistake is transformed into a ruthless threat by an obsessive individual. It&#x27;s not silence that awaits you; it&#x27;s the feeling of being watched.</p><p><a href="https://store.steampowered.com/app/4249810/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rise of State（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258960/</link>
-  <guid isPermaLink="false">steam-store-published-4258960</guid>
-  <pubDate>Tue, 23 Dec 2025 01:23:28 +0000</pubDate>
-  <description>Rise of State is a state management game focused on leadership and strategy. Every decision you make affects public happiness, military strength, the economy, and political stability. Manage crises, define your ideology, and try to keep your state standing.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258960/ab9d84a53e6c70a3e97d3741c63cfcaa3d5bb2b8/header.jpg?t=1766451422" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258960/ab9d84a53e6c70a3e97d3741c63cfcaa3d5bb2b8/header.jpg?t=1766451422" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258960/ab9d84a53e6c70a3e97d3741c63cfcaa3d5bb2b8/header.jpg?t=1766451422" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258960/ab9d84a53e6c70a3e97d3741c63cfcaa3d5bb2b8/header.jpg?t=1766451422" alt="Rise of State（新規追加）" /></a></p><p>Rise of State is a state management game focused on leadership and strategy. Every decision you make affects public happiness, military strength, the economy, and political stability. Manage crises, define your ideology, and try to keep your state standing.</p><p><a href="https://store.steampowered.com/app/4258960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
