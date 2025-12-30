@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 20:49:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 21:48:01 +0000</lastBuildDate>
+<item>
+  <title>The Town of Nowhere: End Of The Line（新規追加）</title>
+  <link>https://store.steampowered.com/app/4233970/</link>
+  <guid isPermaLink="false">steam-store-published-4233970</guid>
+  <pubDate>Tue, 30 Dec 2025 21:48:01 +0000</pubDate>
+  <description>This is the first downloadable entry in the Town of Nowhere series. This game was made with the intention of being playable and enjoyable regardless of if you know the back story of the larger surrealist horror series. Largely inspired by CGA DOS adventure games TTON:EotL is in full first person 3D.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233970/f39b91f52b978a40dc900584d37b3a02245fb220/header.jpg?t=1767130142" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233970/f39b91f52b978a40dc900584d37b3a02245fb220/header.jpg?t=1767130142" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233970/f39b91f52b978a40dc900584d37b3a02245fb220/header.jpg?t=1767130142" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4233970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233970/f39b91f52b978a40dc900584d37b3a02245fb220/header.jpg?t=1767130142" alt="The Town of Nowhere: End Of The Line（新規追加）" /></a></p><p>This is the first downloadable entry in the Town of Nowhere series. This game was made with the intention of being playable and enjoyable regardless of if you know the back story of the larger surrealist horror series. Largely inspired by CGA DOS adventure games TTON:EotL is in full first person 3D.</p><p><a href="https://store.steampowered.com/app/4233970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kulipari: United（新規追加）</title>
   <link>https://store.steampowered.com/app/4055250/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238220/699eebf5a7b47ca1d429927fe4dcfe92c7b1959c/header.jpg?t=1766477318" alt="Idle Demon Summoner（新規追加）" /></a></p><p>A dark yet vibrant idle game featuring creature collecting, tower-defense, and bullet-heaven elements. Unlock new demons and weapons to conquer distant worlds.</p><p><a href="https://store.steampowered.com/app/4238220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sweetie Candy Maze: Brown Chocolate（新規追加）</title>
-  <link>https://store.steampowered.com/app/4268740/</link>
-  <guid isPermaLink="false">steam-store-published-4268740</guid>
-  <pubDate>Tue, 23 Dec 2025 07:49:18 +0000</pubDate>
-  <description>Dive into a vibrant candy world! Collect delicious sweets and find your way through playful brown chocolate mazes in this sweet and colorful adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268740/e3c0cf1fa9d17323489417c3f0616504146a5cae/header.jpg?t=1766475981" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268740/e3c0cf1fa9d17323489417c3f0616504146a5cae/header.jpg?t=1766475981" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268740/e3c0cf1fa9d17323489417c3f0616504146a5cae/header.jpg?t=1766475981" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4268740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268740/e3c0cf1fa9d17323489417c3f0616504146a5cae/header.jpg?t=1766475981" alt="Sweetie Candy Maze: Brown Chocolate（新規追加）" /></a></p><p>Dive into a vibrant candy world! Collect delicious sweets and find your way through playful brown chocolate mazes in this sweet and colorful adventure.</p><p><a href="https://store.steampowered.com/app/4268740/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
