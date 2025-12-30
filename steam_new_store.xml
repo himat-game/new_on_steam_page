@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 05:21:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 05:51:28 +0000</lastBuildDate>
+<item>
+  <title>PsyUp: A Psychological Physics Puzzle（新規追加）</title>
+  <link>https://store.steampowered.com/app/1704840/</link>
+  <guid isPermaLink="false">steam-store-published-1704840</guid>
+  <pubDate>Tue, 30 Dec 2025 05:51:28 +0000</pubDate>
+  <description>An emotional breather disguised as a physics puzzle. Break blocks, solve puzzles, and explore stages inspired by psychological phenomena — each world is a dive into the human mind through the lens of a clinical psychologist.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1704840/8942d64c752a1685ae1df2c2509eacc415f4e661/header.jpg?t=1766945303" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1704840/8942d64c752a1685ae1df2c2509eacc415f4e661/header.jpg?t=1766945303" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1704840/8942d64c752a1685ae1df2c2509eacc415f4e661/header.jpg?t=1766945303" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1704840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1704840/8942d64c752a1685ae1df2c2509eacc415f4e661/header.jpg?t=1766945303" alt="PsyUp: A Psychological Physics Puzzle（新規追加）" /></a></p><p>An emotional breather disguised as a physics puzzle. Break blocks, solve puzzles, and explore stages inspired by psychological phenomena — each world is a dive into the human mind through the lens of a clinical psychologist.</p><p><a href="https://store.steampowered.com/app/1704840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hands up（新規追加）</title>
   <link>https://store.steampowered.com/app/4124540/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155000/328433404e567d119de5683704409cf82001ccce/header.jpg?t=1766431189" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155000/328433404e567d119de5683704409cf82001ccce/header.jpg?t=1766431189" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4155000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155000/328433404e567d119de5683704409cf82001ccce/header.jpg?t=1766431189" alt="Bunker KYS（新規追加）" /></a></p><p>Survive in a bunker in this intense social game for 4-10 players. Form alliances, manipulate opponents, and vote on who to condemn to certain death. In a stylish low-poly atmosphere, your main weapon will be not strength, but your ability to negotiate.</p><p><a href="https://store.steampowered.com/app/4155000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BlastForge– Forge your legend（新規追加）</title>
-  <link>https://store.steampowered.com/app/4230810/</link>
-  <guid isPermaLink="false">steam-store-published-4230810</guid>
-  <pubDate>Mon, 22 Dec 2025 19:45:15 +0000</pubDate>
-  <description>BlastForge– Forge your legend is a tactical FPS featuring clean gunplay, fast-paced combat, and carefully designed maps. Train your skills, fight intense PvP battles, and unlock new tactical options. Forge Your Legend.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230810/02bf11112cb774a009249647402cfd169695088d/header.jpg?t=1766431234" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230810/02bf11112cb774a009249647402cfd169695088d/header.jpg?t=1766431234" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230810/02bf11112cb774a009249647402cfd169695088d/header.jpg?t=1766431234" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4230810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230810/02bf11112cb774a009249647402cfd169695088d/header.jpg?t=1766431234" alt="BlastForge– Forge your legend（新規追加）" /></a></p><p>BlastForge– Forge your legend is a tactical FPS featuring clean gunplay, fast-paced combat, and carefully designed maps. Train your skills, fight intense PvP battles, and unlock new tactical options. Forge Your Legend.</p><p><a href="https://store.steampowered.com/app/4230810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
