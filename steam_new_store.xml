@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 30 Dec 2025 08:57:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 30 Dec 2025 09:51:13 +0000</lastBuildDate>
+<item>
+  <title>Farming Camp（新規追加）</title>
+  <link>https://store.steampowered.com/app/2985880/</link>
+  <guid isPermaLink="false">steam-store-published-2985880</guid>
+  <pubDate>Tue, 30 Dec 2025 09:51:13 +0000</pubDate>
+  <description>Every summer, Evertree Farming Camp searches for the next best Evertree Farmer, someone ready to raise the bar in agriculture. In hopes of a better future, young Alessandra enters the contest to claim the title, but she will have to face her peers and discover what it means to be an Evertree Farmer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985880/91adc9cde42db816c8ba8b71835c8cf0b7a10701/header.jpg?t=1767087974" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985880/91adc9cde42db816c8ba8b71835c8cf0b7a10701/header.jpg?t=1767087974" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985880/91adc9cde42db816c8ba8b71835c8cf0b7a10701/header.jpg?t=1767087974" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2985880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2985880/91adc9cde42db816c8ba8b71835c8cf0b7a10701/header.jpg?t=1767087974" alt="Farming Camp（新規追加）" /></a></p><p>Every summer, Evertree Farming Camp searches for the next best Evertree Farmer, someone ready to raise the bar in agriculture. In hopes of a better future, young Alessandra enters the contest to claim the title, but she will have to face her peers and discover what it means to be an Evertree Farmer.</p><p><a href="https://store.steampowered.com/app/2985880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Blackjack Descent（新規追加）</title>
   <link>https://store.steampowered.com/app/4277790/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077960/75f52cd5700d2bd0558b4a880f415684f5812a13/header.jpg?t=1766451580" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077960/75f52cd5700d2bd0558b4a880f415684f5812a13/header.jpg?t=1766451580" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4077960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077960/75f52cd5700d2bd0558b4a880f415684f5812a13/header.jpg?t=1766451580" alt="Infiltrating Roudille（新規追加）" /></a></p><p>A retro-style JRPG dungeon crawler. Play as an elite knight and confront a perilous mission where success is the only option. Alone and deep in enemy territory, you must succeed at all costs.</p><p><a href="https://store.steampowered.com/app/4077960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Reminiscence of Gusuku: Card and Explore（新規追加）</title>
-  <link>https://store.steampowered.com/app/2948530/</link>
-  <guid isPermaLink="false">steam-store-published-2948530</guid>
-  <pubDate>Tue, 23 Dec 2025 01:23:28 +0000</pubDate>
-  <description>Survive on a small island. Every choice reshapes your destiny in this deckbuilding roguelite. Stranded on an island said to gather everything that drifts ashore, you explore, build your deck, and push toward its deepest reaches.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948530/500186763bfa65a048ae3c839fb0a8d28d9f4725/header.jpg?t=1766448641" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948530/500186763bfa65a048ae3c839fb0a8d28d9f4725/header.jpg?t=1766448641" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948530/500186763bfa65a048ae3c839fb0a8d28d9f4725/header.jpg?t=1766448641" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2948530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948530/500186763bfa65a048ae3c839fb0a8d28d9f4725/header.jpg?t=1766448641" alt="Reminiscence of Gusuku: Card and Explore（新規追加）" /></a></p><p>Survive on a small island. Every choice reshapes your destiny in this deckbuilding roguelite. Stranded on an island said to gather everything that drifts ashore, you explore, build your deck, and push toward its deepest reaches.</p><p><a href="https://store.steampowered.com/app/2948530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
