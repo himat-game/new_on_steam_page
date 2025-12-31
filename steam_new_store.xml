@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 05:22:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 05:51:57 +0000</lastBuildDate>
+<item>
+  <title>FAP FEETS（新規追加）</title>
+  <link>https://store.steampowered.com/app/4233800/</link>
+  <guid isPermaLink="false">steam-store-published-4233800</guid>
+  <pubDate>Wed, 31 Dec 2025 05:51:57 +0000</pubDate>
+  <description>FAP FEETS - is an erotic game in the genre of &amp;quot;Arkanoid&amp;quot;, in which you will have to break the cubes and gradually discover really beautiful and hot images.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233800/1493fe2d8fe0603fd66fd86492eeab18b7e08425/header.jpg?t=1767158729" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233800/1493fe2d8fe0603fd66fd86492eeab18b7e08425/header.jpg?t=1767158729" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233800/1493fe2d8fe0603fd66fd86492eeab18b7e08425/header.jpg?t=1767158729" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4233800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233800/1493fe2d8fe0603fd66fd86492eeab18b7e08425/header.jpg?t=1767158729" alt="FAP FEETS（新規追加）" /></a></p><p>FAP FEETS - is an erotic game in the genre of &amp;quot;Arkanoid&amp;quot;, in which you will have to break the cubes and gradually discover really beautiful and hot images.</p><p><a href="https://store.steampowered.com/app/4233800/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PCUBES（新規追加）</title>
   <link>https://store.steampowered.com/app/4276520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4226820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" alt="GRIDBUSTERS（新規追加）" /></a></p><p>A cozy detective puzzle game where every case is a grid you must investigate, every clue is a piece of logic, and every deduction brings you closer to the truth. Solve handcrafted mysteries across story-driven cases. No guessing — only pure deduction.</p><p><a href="https://store.steampowered.com/app/4226820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Eternal Towers（新規追加）</title>
-  <link>https://store.steampowered.com/app/4036730/</link>
-  <guid isPermaLink="false">steam-store-published-4036730</guid>
-  <pubDate>Tue, 23 Dec 2025 15:19:23 +0000</pubDate>
-  <description>Build, fight, and adapt as you make your way into the next level in this Roguelite Tower Defense with a splash of action combat and a dash of puzzle mechanics.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" alt="Eternal Towers（新規追加）" /></a></p><p>Build, fight, and adapt as you make your way into the next level in this Roguelite Tower Defense with a splash of action combat and a dash of puzzle mechanics.</p><p><a href="https://store.steampowered.com/app/4036730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
