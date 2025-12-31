@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 17:16:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 17:47:00 +0000</lastBuildDate>
+<item>
+  <title>DishDash（新規追加）</title>
+  <link>https://store.steampowered.com/app/4260380/</link>
+  <guid isPermaLink="false">steam-store-published-4260380</guid>
+  <pubDate>Wed, 31 Dec 2025 17:47:00 +0000</pubDate>
+  <description>DishDash is a single-player time management restaurant game where you prepare meals, serve customers, and manage limited resources under constant time pressure, turning kitchen chaos into smooth rhythm through speed, focus, and smart decision-making.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260380/5e3f78a7c517285ba081105885bd1e1d12f8f8a1/header.jpg?t=1767202528" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260380/5e3f78a7c517285ba081105885bd1e1d12f8f8a1/header.jpg?t=1767202528" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260380/5e3f78a7c517285ba081105885bd1e1d12f8f8a1/header.jpg?t=1767202528" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260380/5e3f78a7c517285ba081105885bd1e1d12f8f8a1/header.jpg?t=1767202528" alt="DishDash（新規追加）" /></a></p><p>DishDash is a single-player time management restaurant game where you prepare meals, serve customers, and manage limited resources under constant time pressure, turning kitchen chaos into smooth rhythm through speed, focus, and smart decision-making.</p><p><a href="https://store.steampowered.com/app/4260380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>We Are So Cooked（新規追加）</title>
   <link>https://store.steampowered.com/app/4258290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174780/802143f9fcb8f5d1fd87a54bf18937833d5d7419/header.jpg?t=1766535246" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174780/802143f9fcb8f5d1fd87a54bf18937833d5d7419/header.jpg?t=1766535246" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4174780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174780/802143f9fcb8f5d1fd87a54bf18937833d5d7419/header.jpg?t=1766535246" alt="Maiden I&#x27;d Love to F（新規追加）" /></a></p><p>Want an adorable and pretty desktop pet? Elaria has heard your call—A cute anime maiden that stays on your screen and keeps you company!</p><p><a href="https://store.steampowered.com/app/4174780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Brother Hai&#x27;s Pho Restaurant（新規追加）</title>
-  <link>https://store.steampowered.com/app/4247820/</link>
-  <guid isPermaLink="false">steam-store-published-4247820</guid>
-  <pubDate>Wed, 24 Dec 2025 01:22:47 +0000</pubDate>
-  <description>A story-driven psychological horror game where you must balance cooking authentic Vietnamese Pho with surviving chilling, unexpected events in a quiet, mysterious village.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247820/7faa1af8d3be2990e0314814304a0c32fb0bd654/header.jpg?t=1766536508" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247820/7faa1af8d3be2990e0314814304a0c32fb0bd654/header.jpg?t=1766536508" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247820/7faa1af8d3be2990e0314814304a0c32fb0bd654/header.jpg?t=1766536508" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4247820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247820/7faa1af8d3be2990e0314814304a0c32fb0bd654/header.jpg?t=1766536508" alt="Brother Hai&#x27;s Pho Restaurant（新規追加）" /></a></p><p>A story-driven psychological horror game where you must balance cooking authentic Vietnamese Pho with surviving chilling, unexpected events in a quiet, mysterious village.</p><p><a href="https://store.steampowered.com/app/4247820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
