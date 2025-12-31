@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 05:51:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 07:29:08 +0000</lastBuildDate>
+<item>
+  <title>MYCO（新規追加）</title>
+  <link>https://store.steampowered.com/app/4262080/</link>
+  <guid isPermaLink="false">steam-store-published-4262080</guid>
+  <pubDate>Wed, 31 Dec 2025 07:29:08 +0000</pubDate>
+  <description>Embark on a quest to the corrupted hill to save your long-lost brother.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262080/592bb38c6bed03070847a067b60d1883eefe9f54/header.jpg?t=1767165127" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262080/592bb38c6bed03070847a067b60d1883eefe9f54/header.jpg?t=1767165127" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262080/592bb38c6bed03070847a067b60d1883eefe9f54/header.jpg?t=1767165127" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262080/592bb38c6bed03070847a067b60d1883eefe9f54/header.jpg?t=1767165127" alt="MYCO（新規追加）" /></a></p><p>Embark on a quest to the corrupted hill to save your long-lost brother.</p><p><a href="https://store.steampowered.com/app/4262080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>FAP FEETS（新規追加）</title>
   <link>https://store.steampowered.com/app/4233800/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" alt="SUBSUMED（新規追加）" /></a></p><p>A claustrophobic first-person horror game about crawling through a dark, winding cave system in search of three missing divers.</p><p><a href="https://store.steampowered.com/app/4259220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GRIDBUSTERS（新規追加）</title>
-  <link>https://store.steampowered.com/app/4226820/</link>
-  <guid isPermaLink="false">steam-store-published-4226820</guid>
-  <pubDate>Tue, 23 Dec 2025 15:53:25 +0000</pubDate>
-  <description>A cozy detective puzzle game where every case is a grid you must investigate, every clue is a piece of logic, and every deduction brings you closer to the truth. Solve handcrafted mysteries across story-driven cases. No guessing — only pure deduction.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4226820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226820/f35a0f1433b90d37e64b633ca40bb9da8e1f9863/header.jpg?t=1766504366" alt="GRIDBUSTERS（新規追加）" /></a></p><p>A cozy detective puzzle game where every case is a grid you must investigate, every clue is a piece of logic, and every deduction brings you closer to the truth. Solve handcrafted mysteries across story-driven cases. No guessing — only pure deduction.</p><p><a href="https://store.steampowered.com/app/4226820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
