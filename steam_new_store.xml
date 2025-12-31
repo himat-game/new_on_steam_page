@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 04:09:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 05:22:46 +0000</lastBuildDate>
+<item>
+  <title>PCUBES（新規追加）</title>
+  <link>https://store.steampowered.com/app/4276520/</link>
+  <guid isPermaLink="false">steam-store-published-4276520</guid>
+  <pubDate>Wed, 31 Dec 2025 05:22:46 +0000</pubDate>
+  <description>This is a 3D puzzle action game where players create and manipulate blocks using special abilities to clear stages. By stacking and rotating blocks, players overcome obstacles and gimmicks. Each stage has keys and an exit, and there is no single solution, allowing creative and flexible gameplay.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276520/f38fca60275d2e4aa5ab8f236c42a09bab558325/header.jpg?t=1767156883" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276520/f38fca60275d2e4aa5ab8f236c42a09bab558325/header.jpg?t=1767156883" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276520/f38fca60275d2e4aa5ab8f236c42a09bab558325/header.jpg?t=1767156883" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276520/f38fca60275d2e4aa5ab8f236c42a09bab558325/header.jpg?t=1767156883" alt="PCUBES（新規追加）" /></a></p><p>This is a 3D puzzle action game where players create and manipulate blocks using special abilities to clear stages. By stacking and rotating blocks, players overcome obstacles and gimmicks. Each stage has keys and an exit, and there is no single solution, allowing creative and flexible gameplay.</p><p><a href="https://store.steampowered.com/app/4276520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Fruit Casket（新規追加）</title>
   <link>https://store.steampowered.com/app/3801050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036730/6b2361a26af4528b5925b93369b28ea627d055ca/header.jpg?t=1766501331" alt="Eternal Towers（新規追加）" /></a></p><p>Build, fight, and adapt as you make your way into the next level in this Roguelite Tower Defense with a splash of action combat and a dash of puzzle mechanics.</p><p><a href="https://store.steampowered.com/app/4036730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Abduct &#x27;Em（新規追加）</title>
-  <link>https://store.steampowered.com/app/2712700/</link>
-  <guid isPermaLink="false">steam-store-published-2712700</guid>
-  <pubDate>Tue, 23 Dec 2025 14:42:23 +0000</pubDate>
-  <description>To take back earth, you must disarm its violent occupants. Abduct &#x27;Em is an isometric sandbox roguelike that has you in control of an upgradable UFO! Snatch humans to unlock upgrades, obliterate destructible cities while exploring hidden secrets on the path to neutralize the human threat to earth.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712700/cbb2bda102c5d76ec52c6e1920644b2eef012a3d/header.jpg?t=1766499877" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712700/cbb2bda102c5d76ec52c6e1920644b2eef012a3d/header.jpg?t=1766499877" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712700/cbb2bda102c5d76ec52c6e1920644b2eef012a3d/header.jpg?t=1766499877" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2712700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712700/cbb2bda102c5d76ec52c6e1920644b2eef012a3d/header.jpg?t=1766499877" alt="Abduct &#x27;Em（新規追加）" /></a></p><p>To take back earth, you must disarm its violent occupants. Abduct &#x27;Em is an isometric sandbox roguelike that has you in control of an upgradable UFO! Snatch humans to unlock upgrades, obliterate destructible cities while exploring hidden secrets on the path to neutralize the human threat to earth.</p><p><a href="https://store.steampowered.com/app/2712700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
