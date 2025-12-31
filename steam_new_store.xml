@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 15:18:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 15:50:27 +0000</lastBuildDate>
+<item>
+  <title>God&#x27;s Playground（新規追加）</title>
+  <link>https://store.steampowered.com/app/4212770/</link>
+  <guid isPermaLink="false">steam-store-published-4212770</guid>
+  <pubDate>Wed, 31 Dec 2025 15:50:27 +0000</pubDate>
+  <description>A play-driven city powered by algorithms and automation, where humans only create and enjoy while the underground Automa—once mere machines—silently sustain New Babylon from a sealed, lightless world below.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212770/17c8ddff64cbe5e56b997a2d8f86a3e2833b0186/header.jpg?t=1767195909" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212770/17c8ddff64cbe5e56b997a2d8f86a3e2833b0186/header.jpg?t=1767195909" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212770/17c8ddff64cbe5e56b997a2d8f86a3e2833b0186/header.jpg?t=1767195909" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4212770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212770/17c8ddff64cbe5e56b997a2d8f86a3e2833b0186/header.jpg?t=1767195909" alt="God&#x27;s Playground（新規追加）" /></a></p><p>A play-driven city powered by algorithms and automation, where humans only create and enjoy while the underground Automa—once mere machines—silently sustain New Babylon from a sealed, lightless world below.</p><p><a href="https://store.steampowered.com/app/4212770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Waddle Words（新規追加）</title>
   <link>https://store.steampowered.com/app/4204310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262410/1488f1c218352ee218b75ba713e23155e2e1188a/header.jpg?t=1766537520" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262410/1488f1c218352ee218b75ba713e23155e2e1188a/header.jpg?t=1766537520" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262410/1488f1c218352ee218b75ba713e23155e2e1188a/header.jpg?t=1766537520" alt="The Aurora Chronicles（新規追加）" /></a></p><p>A crew of four. Mysteries at the edge of known space. A utopia that might be more fragile than it appears. The Aurora Chronicles is an episodic sci-fi visual novel where your choices shape relationships, uncover buried secrets, and test whether hope can survive what you discover.</p><p><a href="https://store.steampowered.com/app/4262410/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>traveler of Y（新規追加）</title>
-  <link>https://store.steampowered.com/app/4270000/</link>
-  <guid isPermaLink="false">steam-store-published-4270000</guid>
-  <pubDate>Wed, 24 Dec 2025 01:22:47 +0000</pubDate>
-  <description>《Traveler of Y》是一款以旅途推进为主题的回合制 RPG，玩家将通过持续前行、组建队伍并制定战术，在战斗与成长中完成一段完整的单人冒险旅程。</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270000/d37af6fdd4bbcd5cff4e1d250abff0f3a49bac45/header.jpg?t=1766536980" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270000/d37af6fdd4bbcd5cff4e1d250abff0f3a49bac45/header.jpg?t=1766536980" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270000/d37af6fdd4bbcd5cff4e1d250abff0f3a49bac45/header.jpg?t=1766536980" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4270000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270000/d37af6fdd4bbcd5cff4e1d250abff0f3a49bac45/header.jpg?t=1766536980" alt="traveler of Y（新規追加）" /></a></p><p>《Traveler of Y》是一款以旅途推进为主题的回合制 RPG，玩家将通过持续前行、组建队伍并制定战术，在战斗与成长中完成一段完整的单人冒险旅程。</p><p><a href="https://store.steampowered.com/app/4270000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
