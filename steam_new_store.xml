@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 18:26:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 19:45:04 +0000</lastBuildDate>
+<item>
+  <title>Reunion Online（新規追加）</title>
+  <link>https://store.steampowered.com/app/4229920/</link>
+  <guid isPermaLink="false">steam-store-published-4229920</guid>
+  <pubDate>Wed, 31 Dec 2025 19:45:04 +0000</pubDate>
+  <description>Reunion Online is an open-world MMORPG with full cross-platform play. Fight monsters, team up with players, earn random loot, and grow your character through crafting and enchanting.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229920/c00f13705edd86429f95011facbe597a89bd443a/header.jpg?t=1767207345" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229920/c00f13705edd86429f95011facbe597a89bd443a/header.jpg?t=1767207345" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229920/c00f13705edd86429f95011facbe597a89bd443a/header.jpg?t=1767207345" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4229920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229920/c00f13705edd86429f95011facbe597a89bd443a/header.jpg?t=1767207345" alt="Reunion Online（新規追加）" /></a></p><p>Reunion Online is an open-world MMORPG with full cross-platform play. Fight monsters, team up with players, earn random loot, and grow your character through crafting and enchanting.</p><p><a href="https://store.steampowered.com/app/4229920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Neurosis（新規追加）</title>
   <link>https://store.steampowered.com/app/4256970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256560/bec0edb711c489fdd1088f11d76a210a278cd4b9/header.jpg?t=1766545315" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256560/bec0edb711c489fdd1088f11d76a210a278cd4b9/header.jpg?t=1766545315" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256560/bec0edb711c489fdd1088f11d76a210a278cd4b9/header.jpg?t=1766545315" alt="Against Wokou Frontline（新規追加）" /></a></p><p>Amidst the Wokou raids along the southeast coast of China during the Ming Dynasty (1552–1565), lead your troops, fortify your line, and repel the brutal invaders in this heroic tower defense game. Defend the common people and secure the shore!</p><p><a href="https://store.steampowered.com/app/4256560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Long Way Home（新規追加）</title>
-  <link>https://store.steampowered.com/app/4241230/</link>
-  <guid isPermaLink="false">steam-store-published-4241230</guid>
-  <pubDate>Wed, 24 Dec 2025 03:13:45 +0000</pubDate>
-  <description>A journey where some may never find their way back. ...Of course, you probably believe that won’t happen to you.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241230/8574b08c9ca6f3c78cfccb0ae9c25fab8ebe12d5/header.jpg?t=1766541027" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241230/8574b08c9ca6f3c78cfccb0ae9c25fab8ebe12d5/header.jpg?t=1766541027" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241230/8574b08c9ca6f3c78cfccb0ae9c25fab8ebe12d5/header.jpg?t=1766541027" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241230/8574b08c9ca6f3c78cfccb0ae9c25fab8ebe12d5/header.jpg?t=1766541027" alt="The Long Way Home（新規追加）" /></a></p><p>A journey where some may never find their way back. ...Of course, you probably believe that won’t happen to you.</p><p><a href="https://store.steampowered.com/app/4241230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
