@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 20:20:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 21:46:34 +0000</lastBuildDate>
+<item>
+  <title>Legacy of Y（新規追加）</title>
+  <link>https://store.steampowered.com/app/4281930/</link>
+  <guid isPermaLink="false">steam-store-published-4281930</guid>
+  <pubDate>Wed, 31 Dec 2025 21:46:34 +0000</pubDate>
+  <description>《Legacy of Y》是一款以成长传承为主题的回合制 RPG，玩家将在持续推进的战斗与冒险中培养角色、积累实力，并完成一段结构清晰的单人旅程。</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281930/6f721dd8370aee3f12e535e8580bf24e0dcefb92/header.jpg?t=1767216780" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281930/6f721dd8370aee3f12e535e8580bf24e0dcefb92/header.jpg?t=1767216780" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281930/6f721dd8370aee3f12e535e8580bf24e0dcefb92/header.jpg?t=1767216780" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4281930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281930/6f721dd8370aee3f12e535e8580bf24e0dcefb92/header.jpg?t=1767216780" alt="Legacy of Y（新規追加）" /></a></p><p>《Legacy of Y》是一款以成长传承为主题的回合制 RPG，玩家将在持续推进的战斗与冒险中培养角色、积累实力，并完成一段结构清晰的单人旅程。</p><p><a href="https://store.steampowered.com/app/4281930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Water Boiling Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4280820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694850/b3dcb556df30ae52656f6a5b2e6138e76ea7c3b2/header.jpg?t=1766549221" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694850/b3dcb556df30ae52656f6a5b2e6138e76ea7c3b2/header.jpg?t=1766549221" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3694850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694850/b3dcb556df30ae52656f6a5b2e6138e76ea7c3b2/header.jpg?t=1766549221" alt="L.A.P.（新規追加）" /></a></p><p>L.A.P is a minimalist time-attack racing game where you control a spaceship with just one button. Easy to learn, hard to master - loop around planets and climb the global leaderboards!</p><p><a href="https://store.steampowered.com/app/3694850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Captcha The Flag（新規追加）</title>
-  <link>https://store.steampowered.com/app/4127370/</link>
-  <guid isPermaLink="false">steam-store-published-4127370</guid>
-  <pubDate>Wed, 24 Dec 2025 04:06:52 +0000</pubDate>
-  <description>Make your friends dodge your earth shaking bombs while they struggle to solve simple captcha puzzles in this PvP capture the flag game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127370/1413ff497163be3dc693ba7740122c258f8614b7/header.jpg?t=1766546457" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127370/1413ff497163be3dc693ba7740122c258f8614b7/header.jpg?t=1766546457" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127370/1413ff497163be3dc693ba7740122c258f8614b7/header.jpg?t=1766546457" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4127370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127370/1413ff497163be3dc693ba7740122c258f8614b7/header.jpg?t=1766546457" alt="Captcha The Flag（新規追加）" /></a></p><p>Make your friends dodge your earth shaking bombs while they struggle to solve simple captcha puzzles in this PvP capture the flag game.</p><p><a href="https://store.steampowered.com/app/4127370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
