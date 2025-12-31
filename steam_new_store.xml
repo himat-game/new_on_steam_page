@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 31 Dec 2025 07:29:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 07:49:04 +0000</lastBuildDate>
+<item>
+  <title>KharkivVision 2035（新規追加）</title>
+  <link>https://store.steampowered.com/app/4277630/</link>
+  <guid isPermaLink="false">steam-store-published-4277630</guid>
+  <pubDate>Wed, 31 Dec 2025 07:49:04 +0000</pubDate>
+  <description>An atmospheric story-driven game about life, choices, and the open world of Kharkiv. 1:40–2 hours of story, created by a single developer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277630/d46a4f436f255db7fc7c4c9d216cdd87c7aa58cd/header.jpg?t=1767166375" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277630/d46a4f436f255db7fc7c4c9d216cdd87c7aa58cd/header.jpg?t=1767166375" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277630/d46a4f436f255db7fc7c4c9d216cdd87c7aa58cd/header.jpg?t=1767166375" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4277630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277630/d46a4f436f255db7fc7c4c9d216cdd87c7aa58cd/header.jpg?t=1767166375" alt="KharkivVision 2035（新規追加）" /></a></p><p>An atmospheric story-driven game about life, choices, and the open world of Kharkiv. 1:40–2 hours of story, created by a single developer.</p><p><a href="https://store.steampowered.com/app/4277630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>MYCO（新規追加）</title>
   <link>https://store.steampowered.com/app/4262080/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014900/4ca2f9d2c24bc97615b9ba6028d78594c6d9616e/header.jpg?t=1766511080" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014900/4ca2f9d2c24bc97615b9ba6028d78594c6d9616e/header.jpg?t=1766511080" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014900/4ca2f9d2c24bc97615b9ba6028d78594c6d9616e/header.jpg?t=1766511080" alt="RECLOCK（新規追加）" /></a></p><p>Armed with a neural implant that rewinds time, CIA operative Wolf Cross must save civilization from an eco-terrorist mastermind wielding future technology. As Wolf, use your RECLOCK ability to outflank enemies, resurrect allies, solve physics puzzles, and perform stunts while time runs in reverse.</p><p><a href="https://store.steampowered.com/app/4014900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SUBSUMED（新規追加）</title>
-  <link>https://store.steampowered.com/app/4259220/</link>
-  <guid isPermaLink="false">steam-store-published-4259220</guid>
-  <pubDate>Tue, 23 Dec 2025 17:19:37 +0000</pubDate>
-  <description>A claustrophobic first-person horror game about crawling through a dark, winding cave system in search of three missing divers.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259220/dc0021fdff7c6aa0800522e9e85e8ddce59c7efc/header.jpg?t=1766509871" alt="SUBSUMED（新規追加）" /></a></p><p>A claustrophobic first-person horror game about crawling through a dark, winding cave system in search of three missing divers.</p><p><a href="https://store.steampowered.com/app/4259220/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
