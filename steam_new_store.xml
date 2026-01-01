@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 01 Jan 2026 10:20:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 14:18:08 +0000</lastBuildDate>
+<item>
+  <title>King&#x27;s Downfall（新規追加）</title>
+  <link>https://store.steampowered.com/app/4236290/</link>
+  <guid isPermaLink="false">steam-store-published-4236290</guid>
+  <pubDate>Thu, 01 Jan 2026 14:18:08 +0000</pubDate>
+  <description>Defy the tyrant. Build your settlement, defend it from invasions, and gain enough power to overthrow the king.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236290/7ba4ad9a04223284961340990af076e72068879f/header.jpg?t=1767276083" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236290/7ba4ad9a04223284961340990af076e72068879f/header.jpg?t=1767276083" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236290/7ba4ad9a04223284961340990af076e72068879f/header.jpg?t=1767276083" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236290/7ba4ad9a04223284961340990af076e72068879f/header.jpg?t=1767276083" alt="King&#x27;s Downfall（新規追加）" /></a></p><p>Defy the tyrant. Build your settlement, defend it from invasions, and gain enough power to overthrow the king.</p><p><a href="https://store.steampowered.com/app/4236290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Jukai Maze（新規追加）</title>
   <link>https://store.steampowered.com/app/4182030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260300/51ab04f78fc2e7a8afb8ae01c2bd93aa576eeff8/header.jpg?t=1766583203" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260300/51ab04f78fc2e7a8afb8ae01c2bd93aa576eeff8/header.jpg?t=1766583203" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260300/51ab04f78fc2e7a8afb8ae01c2bd93aa576eeff8/header.jpg?t=1766583203" alt="Tombbound（新規追加）" /></a></p><p>Welcome to the afterlife’s most dangerous internship. In this co-op extraction horror, you serve Anubis. Raid cursed tombs, dodge mythological horrors, and collect enough cursed relics to meet the God of Death&#x27;s quota. Remember: The scales of justice do not tolerate lighter wallets.</p><p><a href="https://store.steampowered.com/app/4260300/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TROX-THE REVERSAL（新規追加）</title>
-  <link>https://store.steampowered.com/app/4249970/</link>
-  <guid isPermaLink="false">steam-store-published-4249970</guid>
-  <pubDate>Wed, 24 Dec 2025 13:46:43 +0000</pubDate>
-  <description>TROX: The Reversal is a dark, story driven first person survival-horror game set in a world rebuilt on sacrifice. Explore and investigate your surroundings to uncover disturbing truths and survive the psychological toll of a collapsing society.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249970/b66fd4eb3e14ce2eaecc1947d5442ae29419b85b/header.jpg?t=1766582689" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249970/b66fd4eb3e14ce2eaecc1947d5442ae29419b85b/header.jpg?t=1766582689" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249970/b66fd4eb3e14ce2eaecc1947d5442ae29419b85b/header.jpg?t=1766582689" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249970/b66fd4eb3e14ce2eaecc1947d5442ae29419b85b/header.jpg?t=1766582689" alt="TROX-THE REVERSAL（新規追加）" /></a></p><p>TROX: The Reversal is a dark, story driven first person survival-horror game set in a world rebuilt on sacrifice. Explore and investigate your surroundings to uncover disturbing truths and survive the psychological toll of a collapsing society.</p><p><a href="https://store.steampowered.com/app/4249970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
