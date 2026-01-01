@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 01 Jan 2026 04:45:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 05:54:04 +0000</lastBuildDate>
+<item>
+  <title>Sector 13: Haunted Woods（新規追加）</title>
+  <link>https://store.steampowered.com/app/4244040/</link>
+  <guid isPermaLink="false">steam-store-published-4244040</guid>
+  <pubDate>Thu, 01 Jan 2026 05:54:04 +0000</pubDate>
+  <description>🌲 Sector 13: Haunted Woods is a cooperative horror game for 1–4 players. Explore a cursed forest filled with deadly anomalies, recover forbidden artifacts, and survive the darkness where every sound can lead to death. 💀</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244040/025a0e23ff530108fea913b7df3e6623ebbb85dd/header.jpg?t=1767246405" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244040/025a0e23ff530108fea913b7df3e6623ebbb85dd/header.jpg?t=1767246405" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244040/025a0e23ff530108fea913b7df3e6623ebbb85dd/header.jpg?t=1767246405" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4244040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244040/025a0e23ff530108fea913b7df3e6623ebbb85dd/header.jpg?t=1767246405" alt="Sector 13: Haunted Woods（新規追加）" /></a></p><p>🌲 Sector 13: Haunted Woods is a cooperative horror game for 1–4 players. Explore a cursed forest filled with deadly anomalies, recover forbidden artifacts, and survive the darkness where every sound can lead to death. 💀</p><p><a href="https://store.steampowered.com/app/4244040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Redd&#x27;s Quest（新規追加）</title>
   <link>https://store.steampowered.com/app/3670390/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" alt="Three Jokers（新規追加）" /></a></p><p>A card roguelike inspired by &amp;quot;Balatro&amp;quot; and &amp;quot;Cuphead&amp;quot;. Fight duels, play insane mini-games, build Joker City and rise to greatness — in «Three Jokers»!</p><p><a href="https://store.steampowered.com/app/4036360/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Welcome To My Domain（新規追加）</title>
-  <link>https://store.steampowered.com/app/4264170/</link>
-  <guid isPermaLink="false">steam-store-published-4264170</guid>
-  <pubDate>Wed, 24 Dec 2025 09:26:26 +0000</pubDate>
-  <description>Ever wondered what it’s like to be chased by a dominant yandere demon? Well, this is the game! Welcome To My Domain is a psychological horror game with a unique retro-anime visual style, where you solve puzzles to escape the demon’s clutches.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264170/b0c8ffd070d8067019089e5b1543ee2e74c6986a/header.jpg?t=1766567119" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264170/b0c8ffd070d8067019089e5b1543ee2e74c6986a/header.jpg?t=1766567119" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264170/b0c8ffd070d8067019089e5b1543ee2e74c6986a/header.jpg?t=1766567119" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4264170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264170/b0c8ffd070d8067019089e5b1543ee2e74c6986a/header.jpg?t=1766567119" alt="Welcome To My Domain（新規追加）" /></a></p><p>Ever wondered what it’s like to be chased by a dominant yandere demon? Well, this is the game! Welcome To My Domain is a psychological horror game with a unique retro-anime visual style, where you solve puzzles to escape the demon’s clutches.</p><p><a href="https://store.steampowered.com/app/4264170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
