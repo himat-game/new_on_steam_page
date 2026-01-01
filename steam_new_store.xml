@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 01 Jan 2026 05:54:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 06:29:39 +0000</lastBuildDate>
+<item>
+  <title>福报镖局（新規追加）</title>
+  <link>https://store.steampowered.com/app/4227420/</link>
+  <guid isPermaLink="false">steam-store-published-4227420</guid>
+  <pubDate>Thu, 01 Jan 2026 06:29:39 +0000</pubDate>
+  <description>《福报镖局》是一款武侠跑酷游戏。你将扮演新加入福报镖局的见习镖师，管理真气并运用轻功穿越复杂地形，准时把快递送到各位官人手中。需在亡命狂奔与保住老腰之间，寻得一线生机。</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227420/32ad7ddcfe2e4477bd0ec87a6a454a67adbeed0f/header.jpg?t=1767247578" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227420/32ad7ddcfe2e4477bd0ec87a6a454a67adbeed0f/header.jpg?t=1767247578" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227420/32ad7ddcfe2e4477bd0ec87a6a454a67adbeed0f/header.jpg?t=1767247578" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4227420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227420/32ad7ddcfe2e4477bd0ec87a6a454a67adbeed0f/header.jpg?t=1767247578" alt="福报镖局（新規追加）" /></a></p><p>《福报镖局》是一款武侠跑酷游戏。你将扮演新加入福报镖局的见习镖师，管理真气并运用轻功穿越复杂地形，准时把快递送到各位官人手中。需在亡命狂奔与保住老腰之间，寻得一线生机。</p><p><a href="https://store.steampowered.com/app/4227420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Criticality（新規追加）</title>
+  <link>https://store.steampowered.com/app/4144990/</link>
+  <guid isPermaLink="false">steam-store-published-4144990</guid>
+  <pubDate>Thu, 01 Jan 2026 06:29:39 +0000</pubDate>
+  <description>A short incremental game about splitting atoms and going critical.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144990/840e630bce40950dafc8fae2715bae0cb8dff4f6/header.jpg?t=1767248851" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144990/840e630bce40950dafc8fae2715bae0cb8dff4f6/header.jpg?t=1767248851" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144990/840e630bce40950dafc8fae2715bae0cb8dff4f6/header.jpg?t=1767248851" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4144990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144990/840e630bce40950dafc8fae2715bae0cb8dff4f6/header.jpg?t=1767248851" alt="Criticality（新規追加）" /></a></p><p>A short incremental game about splitting atoms and going critical.</p><p><a href="https://store.steampowered.com/app/4144990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sector 13: Haunted Woods（新規追加）</title>
   <link>https://store.steampowered.com/app/4244040/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878060/7fb4d1004247bb87778fe07750f0bd760cbc5495/header.jpg?t=1766573448" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878060/7fb4d1004247bb87778fe07750f0bd760cbc5495/header.jpg?t=1766573448" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3878060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878060/7fb4d1004247bb87778fe07750f0bd760cbc5495/header.jpg?t=1766573448" alt="Body &amp; Soul（新規追加）" /></a></p><p>A 3D puzzle game. Possess different bodies to find the path to the Goal tile.</p><p><a href="https://store.steampowered.com/app/3878060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>A Little Physics Roguelike（新規追加）</title>
-  <link>https://store.steampowered.com/app/4263470/</link>
-  <guid isPermaLink="false">steam-store-published-4263470</guid>
-  <pubDate>Wed, 24 Dec 2025 10:42:51 +0000</pubDate>
-  <description>Grab your weapon, build your physics deck and defeat powerful enemies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263470/af6ed57fa10ced7a1604ac6c25dfec4809679963/header.jpg?t=1766571894" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263470/af6ed57fa10ced7a1604ac6c25dfec4809679963/header.jpg?t=1766571894" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263470/af6ed57fa10ced7a1604ac6c25dfec4809679963/header.jpg?t=1766571894" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263470/af6ed57fa10ced7a1604ac6c25dfec4809679963/header.jpg?t=1766571894" alt="A Little Physics Roguelike（新規追加）" /></a></p><p>Grab your weapon, build your physics deck and defeat powerful enemies.</p><p><a href="https://store.steampowered.com/app/4263470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Three Jokers（新規追加）</title>
-  <link>https://store.steampowered.com/app/4036360/</link>
-  <guid isPermaLink="false">steam-store-published-4036360</guid>
-  <pubDate>Wed, 24 Dec 2025 10:19:43 +0000</pubDate>
-  <description>A card roguelike inspired by &amp;quot;Balatro&amp;quot; and &amp;quot;Cuphead&amp;quot;. Fight duels, play insane mini-games, build Joker City and rise to greatness — in «Three Jokers»!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4036360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036360/cea3d83cb807e74d1caed304dfa5b3d5c55c4d60/header.jpg?t=1766569492" alt="Three Jokers（新規追加）" /></a></p><p>A card roguelike inspired by &amp;quot;Balatro&amp;quot; and &amp;quot;Cuphead&amp;quot;. Fight duels, play insane mini-games, build Joker City and rise to greatness — in «Three Jokers»!</p><p><a href="https://store.steampowered.com/app/4036360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
