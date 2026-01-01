@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 01 Jan 2026 08:26:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 08:56:20 +0000</lastBuildDate>
+<item>
+  <title>Beneath the Surface（新規追加）</title>
+  <link>https://store.steampowered.com/app/3886600/</link>
+  <guid isPermaLink="false">steam-store-published-3886600</guid>
+  <pubDate>Thu, 01 Jan 2026 08:56:20 +0000</pubDate>
+  <description>Based on a police report dismissed as fake, Beneath the Surface is a story-driven horror game set in 1958 BS Nepal. As Ved, uncover what really happened in the forest with his friend. Was it all in his head—or did something truly follow them back?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886600/42053dbafdf3239a687565ad059c49f2ae564af4/header.jpg?t=1767255844" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886600/42053dbafdf3239a687565ad059c49f2ae564af4/header.jpg?t=1767255844" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886600/42053dbafdf3239a687565ad059c49f2ae564af4/header.jpg?t=1767255844" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3886600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886600/42053dbafdf3239a687565ad059c49f2ae564af4/header.jpg?t=1767255844" alt="Beneath the Surface（新規追加）" /></a></p><p>Based on a police report dismissed as fake, Beneath the Surface is a story-driven horror game set in 1958 BS Nepal. As Ved, uncover what really happened in the forest with his friend. Was it all in his head—or did something truly follow them back?</p><p><a href="https://store.steampowered.com/app/3886600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Derby&#x27;s Tycoon Online（新規追加）</title>
   <link>https://store.steampowered.com/app/4118140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259690/b476d8a60fc223f989f0ab6de6096bab61653b49/header.jpg?t=1766582331" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259690/b476d8a60fc223f989f0ab6de6096bab61653b49/header.jpg?t=1766582331" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259690/b476d8a60fc223f989f0ab6de6096bab61653b49/header.jpg?t=1766582331" alt="Ajnabee - The Unknown（新規追加）" /></a></p><p>Follow Naina’s daily life as it slowly stops belonging to her alone. 🚪 An unseen presence watches 👁️, remembers 📝, and interferes 🕰️ as her sense of safety slowly collapses. 🌑 A deeply atmospheric psychological horror set in India, exploring obsession 💔, fear 😰, and emotional vulnerability.</p><p><a href="https://store.steampowered.com/app/4259690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Galacia Auto Card（新規追加）</title>
-  <link>https://store.steampowered.com/app/3693060/</link>
-  <guid isPermaLink="false">steam-store-published-3693060</guid>
-  <pubDate>Wed, 24 Dec 2025 12:37:47 +0000</pubDate>
-  <description>&amp;quot;Galacia Auto Card&amp;quot; is a fast-paced Collectible Card Game, which reimagines the genre with innovative real-time mechanics. It includes 1V1 and 2V2 PVP mode, multiplayer team PVE, and draft mode. There is also a unique AI-powered card-crafting system to create your own card.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693060/eed6d982d26f73a5a6fc2d44a5bb92a7d413fff0/header.jpg?t=1766578134" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693060/eed6d982d26f73a5a6fc2d44a5bb92a7d413fff0/header.jpg?t=1766578134" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693060/eed6d982d26f73a5a6fc2d44a5bb92a7d413fff0/header.jpg?t=1766578134" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3693060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3693060/eed6d982d26f73a5a6fc2d44a5bb92a7d413fff0/header.jpg?t=1766578134" alt="Galacia Auto Card（新規追加）" /></a></p><p>&amp;quot;Galacia Auto Card&amp;quot; is a fast-paced Collectible Card Game, which reimagines the genre with innovative real-time mechanics. It includes 1V1 and 2V2 PVP mode, multiplayer team PVE, and draft mode. There is also a unique AI-powered card-crafting system to create your own card.</p><p><a href="https://store.steampowered.com/app/3693060/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
