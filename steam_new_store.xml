@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 01 Jan 2026 20:20:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 22:40:28 +0000</lastBuildDate>
+<item>
+  <title>Func Key（新規追加）</title>
+  <link>https://store.steampowered.com/app/4268590/</link>
+  <guid isPermaLink="false">steam-store-published-4268590</guid>
+  <pubDate>Thu, 01 Jan 2026 22:40:28 +0000</pubDate>
+  <description>Deck out your keyboard with powerful upgrades in this roguelike word-builder. Snap on keycaps to buff entire rows or columns, install &amp;quot;broken&amp;quot; function keys, and pick your projects as you rise from a lowly intern to a corporate legend.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268590/9dd4da035cf6bf057338d7cc3790f86713949d8a/header.jpg?t=1767307007" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268590/9dd4da035cf6bf057338d7cc3790f86713949d8a/header.jpg?t=1767307007" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268590/9dd4da035cf6bf057338d7cc3790f86713949d8a/header.jpg?t=1767307007" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4268590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268590/9dd4da035cf6bf057338d7cc3790f86713949d8a/header.jpg?t=1767307007" alt="Func Key（新規追加）" /></a></p><p>Deck out your keyboard with powerful upgrades in this roguelike word-builder. Snap on keycaps to buff entire rows or columns, install &amp;quot;broken&amp;quot; function keys, and pick your projects as you rise from a lowly intern to a corporate legend.</p><p><a href="https://store.steampowered.com/app/4268590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aster Pebble and the Case of Bad Bureaucracy（新規追加）</title>
   <link>https://store.steampowered.com/app/4233520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122380/2416c9ffce7132d27573495ac3fb278790108765/header.jpg?t=1766599966" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122380/2416c9ffce7132d27573495ac3fb278790108765/header.jpg?t=1766599966" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122380/2416c9ffce7132d27573495ac3fb278790108765/header.jpg?t=1766599966" alt="Mr. Grin&#x27;s Final Act（新規追加）" /></a></p><p>Thirty years ago, a tragedy closed the studio forever. Now you&#x27;re back... and so is Mr. Grin. Explore abandoned TV sets. Stay out of sight. Piece together the truth. In this first-person survival horror, you&#x27;re not just running from death — you&#x27;re trapped in someone else&#x27;s twisted encore.</p><p><a href="https://store.steampowered.com/app/4122380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kepler 186F（新規追加）</title>
-  <link>https://store.steampowered.com/app/4263880/</link>
-  <guid isPermaLink="false">steam-store-published-4263880</guid>
-  <pubDate>Wed, 24 Dec 2025 20:52:25 +0000</pubDate>
-  <description>In Kepler 186F, survival is just the beginning—you must investigate. Your choices shape the story, unfolding a thrilling adventure from the planet&#x27;s dark side to its space station.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263880/420e3ba9cb7a926614efe0e0714334deddca46ef/header.jpg?t=1766600088" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263880/420e3ba9cb7a926614efe0e0714334deddca46ef/header.jpg?t=1766600088" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263880/420e3ba9cb7a926614efe0e0714334deddca46ef/header.jpg?t=1766600088" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263880/420e3ba9cb7a926614efe0e0714334deddca46ef/header.jpg?t=1766600088" alt="Kepler 186F（新規追加）" /></a></p><p>In Kepler 186F, survival is just the beginning—you must investigate. Your choices shape the story, unfolding a thrilling adventure from the planet&#x27;s dark side to its space station.</p><p><a href="https://store.steampowered.com/app/4263880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
