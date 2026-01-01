@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 01 Jan 2026 17:50:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 18:56:03 +0000</lastBuildDate>
+<item>
+  <title>Saviner（新規追加）</title>
+  <link>https://store.steampowered.com/app/3985870/</link>
+  <guid isPermaLink="false">steam-store-published-3985870</guid>
+  <pubDate>Thu, 01 Jan 2026 18:56:03 +0000</pubDate>
+  <description>Fight your way through a gauntlet of vicious enemies in this 2D action-platformer, where patience and timing is key and a single mistake can cost you everything.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985870/5ef82c9256fbab42359f84698d19ef9f4a52175c/header.jpg?t=1767293220" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985870/5ef82c9256fbab42359f84698d19ef9f4a52175c/header.jpg?t=1767293220" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985870/5ef82c9256fbab42359f84698d19ef9f4a52175c/header.jpg?t=1767293220" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3985870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985870/5ef82c9256fbab42359f84698d19ef9f4a52175c/header.jpg?t=1767293220" alt="Saviner（新規追加）" /></a></p><p>Fight your way through a gauntlet of vicious enemies in this 2D action-platformer, where patience and timing is key and a single mistake can cost you everything.</p><p><a href="https://store.steampowered.com/app/3985870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Giant Snake Girl wants The Burger!（新規追加）</title>
   <link>https://store.steampowered.com/app/4212730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258890/5faf3342529091a33d68de3753453b3f00e6c133/header.jpg?t=1766597918" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258890/5faf3342529091a33d68de3753453b3f00e6c133/header.jpg?t=1766597918" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258890/5faf3342529091a33d68de3753453b3f00e6c133/header.jpg?t=1766597918" alt="Recursive（新規追加）" /></a></p><p>A recursive incremental game where every system feeds another. Click enemies, unlock towns with unique minigames and currencies, and channel everything into your Giant’s growing power.</p><p><a href="https://store.steampowered.com/app/4258890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nightmare On Maple Road（新規追加）</title>
-  <link>https://store.steampowered.com/app/4259560/</link>
-  <guid isPermaLink="false">steam-store-published-4259560</guid>
-  <pubDate>Wed, 24 Dec 2025 17:47:10 +0000</pubDate>
-  <description>NIGHTMARE ON MAPLE ROAD is a survival horror game about juggling two characters at once—where failure for one means death for both. Solve puzzles, explore an abandoned house, and endure quick-time events while keeping them both alive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259560/b57e88f46d9366e844e369551f7c013332bf9417/header.jpg?t=1766598254" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259560/b57e88f46d9366e844e369551f7c013332bf9417/header.jpg?t=1766598254" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259560/b57e88f46d9366e844e369551f7c013332bf9417/header.jpg?t=1766598254" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259560/b57e88f46d9366e844e369551f7c013332bf9417/header.jpg?t=1766598254" alt="Nightmare On Maple Road（新規追加）" /></a></p><p>NIGHTMARE ON MAPLE ROAD is a survival horror game about juggling two characters at once—where failure for one means death for both. Solve puzzles, explore an abandoned house, and endure quick-time events while keeping them both alive.</p><p><a href="https://store.steampowered.com/app/4259560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
