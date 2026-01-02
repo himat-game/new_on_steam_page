@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 02 Jan 2026 05:52:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 08:25:56 +0000</lastBuildDate>
+<item>
+  <title>Shadow of Paris（新規追加）</title>
+  <link>https://store.steampowered.com/app/4238280/</link>
+  <guid isPermaLink="false">steam-store-published-4238280</guid>
+  <pubDate>Fri, 02 Jan 2026 08:25:56 +0000</pubDate>
+  <description>Paris’s life changes when she encounters a charming stranger who seems to be watching her. This choice-driven psychological visual novel delivers a tense, intimate story focused on curiosity, trust, and crossing dangerous boundaries.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" alt="Shadow of Paris（新規追加）" /></a></p><p>Paris’s life changes when she encounters a charming stranger who seems to be watching her. This choice-driven psychological visual novel delivers a tense, intimate story focused on curiosity, trust, and crossing dangerous boundaries.</p><p><a href="https://store.steampowered.com/app/4238280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Exone Rift（新規追加）</title>
   <link>https://store.steampowered.com/app/4247100/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262510/78468eafb0e9b9b8f4b179afd2b1ace2114cba96/header.jpg?t=1766645060" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262510/78468eafb0e9b9b8f4b179afd2b1ace2114cba96/header.jpg?t=1766645060" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262510/78468eafb0e9b9b8f4b179afd2b1ace2114cba96/header.jpg?t=1766645060" alt="Napolitan Hotel(2D)（新規追加）" /></a></p><p>Welcome to the Napolitan Hotel. Please show us your reasoning, patience, and survival skills.</p><p><a href="https://store.steampowered.com/app/4262510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>What&#x27;s in the box?（新規追加）</title>
-  <link>https://store.steampowered.com/app/4271720/</link>
-  <guid isPermaLink="false">steam-store-published-4271720</guid>
-  <pubDate>Thu, 25 Dec 2025 05:51:31 +0000</pubDate>
-  <description>A first-person incremental game where you buy and open containers filled with random items, repair and upgrade the things you find, and sell them for profit. In a dark industrial environment, upgrade your character, tools, and machines, earn money, and step by step work your way toward freedom.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271720/76aa3c9d2aaf6fa03e2b26f64c5130c7090144e4/header.jpg?t=1766641441" alt="What&#x27;s in the box?（新規追加）" /></a></p><p>A first-person incremental game where you buy and open containers filled with random items, repair and upgrade the things you find, and sell them for profit. In a dark industrial environment, upgrade your character, tools, and machines, earn money, and step by step work your way toward freedom.</p><p><a href="https://store.steampowered.com/app/4271720/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
