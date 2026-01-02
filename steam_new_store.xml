@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 02 Jan 2026 19:45:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 20:19:52 +0000</lastBuildDate>
+<item>
+  <title>The Elquest | The Legend of Immortal Dremond（新規追加）</title>
+  <link>https://store.steampowered.com/app/4104990/</link>
+  <guid isPermaLink="false">steam-store-published-4104990</guid>
+  <pubDate>Fri, 02 Jan 2026 20:19:52 +0000</pubDate>
+  <description>Uncover the past of the ancient wizard who doomed the world and find the path to save it! Join Prince Hideki&#x27;s journey, meet new allies and win every battle to prevent a terrible future.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104990/c49c5eb6db13be9fe7f3b17df8b051dc9795f045/header.jpg?t=1767383930" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104990/c49c5eb6db13be9fe7f3b17df8b051dc9795f045/header.jpg?t=1767383930" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104990/c49c5eb6db13be9fe7f3b17df8b051dc9795f045/header.jpg?t=1767383930" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4104990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4104990/c49c5eb6db13be9fe7f3b17df8b051dc9795f045/header.jpg?t=1767383930" alt="The Elquest | The Legend of Immortal Dremond（新規追加）" /></a></p><p>Uncover the past of the ancient wizard who doomed the world and find the path to save it! Join Prince Hideki&#x27;s journey, meet new allies and win every battle to prevent a terrible future.</p><p><a href="https://store.steampowered.com/app/4104990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Weed Empire（新規追加）</title>
   <link>https://store.steampowered.com/app/4130400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/3fc9c7fbda3ab6bfc7f4664571f2586f382257d1/header.jpg?t=1766778265" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/3fc9c7fbda3ab6bfc7f4664571f2586f382257d1/header.jpg?t=1766778265" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/3fc9c7fbda3ab6bfc7f4664571f2586f382257d1/header.jpg?t=1766778265" alt="Corner King（新規追加）" /></a></p><p>Build your gym! Develop champions! Rule the ring. A deep boxing management sim where training, finances, rivalries, and fight night collide. Every decision echoes through your fighters&#x27; carrers.</p><p><a href="https://store.steampowered.com/app/4259990/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Silicon Scars（新規追加）</title>
-  <link>https://store.steampowered.com/app/2627350/</link>
-  <guid isPermaLink="false">steam-store-published-2627350</guid>
-  <pubDate>Fri, 26 Dec 2025 19:44:57 +0000</pubDate>
-  <description>Running. Gunning. Reading.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1766777062" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1766777062" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1766777062" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2627350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1766777062" alt="Silicon Scars（新規追加）" /></a></p><p>Running. Gunning. Reading.</p><p><a href="https://store.steampowered.com/app/2627350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
