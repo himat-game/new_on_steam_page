@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 02 Jan 2026 13:47:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 14:18:42 +0000</lastBuildDate>
+<item>
+  <title>La Cosa Nostra（新規追加）</title>
+  <link>https://store.steampowered.com/app/4259630/</link>
+  <guid isPermaLink="false">steam-store-published-4259630</guid>
+  <pubDate>Fri, 02 Jan 2026 14:18:42 +0000</pubDate>
+  <description>La Cosa Nostra is a story-driven 2.5D side-scrolling action game set in 1920s America. Play as an immigrant navigating the world of organized crime, combining melee combat and shooter gameplay within a gritty mafia-themed narrative.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259630/dbb1089a376ee27eff720901c943d5cfbc1dc311/header.jpg?t=1767361736" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259630/dbb1089a376ee27eff720901c943d5cfbc1dc311/header.jpg?t=1767361736" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259630/dbb1089a376ee27eff720901c943d5cfbc1dc311/header.jpg?t=1767361736" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259630/dbb1089a376ee27eff720901c943d5cfbc1dc311/header.jpg?t=1767361736" alt="La Cosa Nostra（新規追加）" /></a></p><p>La Cosa Nostra is a story-driven 2.5D side-scrolling action game set in 1920s America. Play as an immigrant navigating the world of organized crime, combining melee combat and shooter gameplay within a gritty mafia-themed narrative.</p><p><a href="https://store.steampowered.com/app/4259630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Abandoned car（新規追加）</title>
   <link>https://store.steampowered.com/app/4280320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118880/51214ead5b3ed98bd9dcab29e99b203a88e1cb8f/header.jpg?t=1766726500" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118880/51214ead5b3ed98bd9dcab29e99b203a88e1cb8f/header.jpg?t=1766726500" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4118880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118880/51214ead5b3ed98bd9dcab29e99b203a88e1cb8f/header.jpg?t=1766726500" alt="ElemenTale（新規追加）" /></a></p><p>다섯 가지 원소 마법과 정령의 힘을 조합하여 나만의 전투 스타일을 완성하는 액션 로그라이트입니다. 던전에서 획득한 재화로 파괴된 마을을 재건하고 플레이어의 능력을 강화하세요. 강력한 마법 액션과 전략적인 공물 선택, 그리고 NPC와의 상호작용을 통해 점차 강해지는 정령과 함께 최종 보스에 도전해야 합니다.</p><p><a href="https://store.steampowered.com/app/4118880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Human.exe（新規追加）</title>
-  <link>https://store.steampowered.com/app/4016270/</link>
-  <guid isPermaLink="false">steam-store-published-4016270</guid>
-  <pubDate>Fri, 26 Dec 2025 03:14:25 +0000</pubDate>
-  <description>An AI evaluating human morality has isolated the mind of a philosophy professor. You are to answer its questions.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016270/3d5487f351f0bb98d0e0773ff035074f6952a1d4/header.jpg?t=1766712616" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016270/3d5487f351f0bb98d0e0773ff035074f6952a1d4/header.jpg?t=1766712616" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016270/3d5487f351f0bb98d0e0773ff035074f6952a1d4/header.jpg?t=1766712616" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4016270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016270/3d5487f351f0bb98d0e0773ff035074f6952a1d4/header.jpg?t=1766712616" alt="Human.exe（新規追加）" /></a></p><p>An AI evaluating human morality has isolated the mind of a philosophy professor. You are to answer its questions.</p><p><a href="https://store.steampowered.com/app/4016270/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
