@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 02 Jan 2026 20:19:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 21:45:52 +0000</lastBuildDate>
+<item>
+  <title>Foreign Rim（新規追加）</title>
+  <link>https://store.steampowered.com/app/3553030/</link>
+  <guid isPermaLink="false">steam-store-published-3553030</guid>
+  <pubDate>Fri, 02 Jan 2026 21:45:52 +0000</pubDate>
+  <description>A rich Turn-Based Strategy with deep mechanics, big armies and complex balance. Lead an expedition to explore the vast desert expanses and secure your position in a world where danger still lurks. Play campaign, custom game, PvP, or create custom experiences with built-in scenarios and map editors!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553030/8a8e6674788570794b9a983691222ef3d98dfeac/header.jpg?t=1767387943" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553030/8a8e6674788570794b9a983691222ef3d98dfeac/header.jpg?t=1767387943" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553030/8a8e6674788570794b9a983691222ef3d98dfeac/header.jpg?t=1767387943" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3553030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553030/8a8e6674788570794b9a983691222ef3d98dfeac/header.jpg?t=1767387943" alt="Foreign Rim（新規追加）" /></a></p><p>A rich Turn-Based Strategy with deep mechanics, big armies and complex balance. Lead an expedition to explore the vast desert expanses and secure your position in a world where danger still lurks. Play campaign, custom game, PvP, or create custom experiences with built-in scenarios and map editors!</p><p><a href="https://store.steampowered.com/app/3553030/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Elquest | The Legend of Immortal Dremond（新規追加）</title>
   <link>https://store.steampowered.com/app/4104990/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254560/bd7d743bbf727340d4b13030f88e0d235630bbc2/header.jpg?t=1766778100" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254560/bd7d743bbf727340d4b13030f88e0d235630bbc2/header.jpg?t=1766778100" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254560/bd7d743bbf727340d4b13030f88e0d235630bbc2/header.jpg?t=1766778100" alt="3876 AD: Corruption（新規追加）" /></a></p><p>A hardcore military sci-fi survival roguelike set in the post-apocalyptic world of 3876 AD. Engage in tense tactical combat, scavenge for resources, complete dangerous quests, and explore an immersive lore full of dark themes and meaningful decisions.</p><p><a href="https://store.steampowered.com/app/4254560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Corner King（新規追加）</title>
-  <link>https://store.steampowered.com/app/4259990/</link>
-  <guid isPermaLink="false">steam-store-published-4259990</guid>
-  <pubDate>Fri, 26 Dec 2025 19:44:57 +0000</pubDate>
-  <description>Build your gym! Develop champions! Rule the ring. A deep boxing management sim where training, finances, rivalries, and fight night collide. Every decision echoes through your fighters&#x27; carrers.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/3fc9c7fbda3ab6bfc7f4664571f2586f382257d1/header.jpg?t=1766778265" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/3fc9c7fbda3ab6bfc7f4664571f2586f382257d1/header.jpg?t=1766778265" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/3fc9c7fbda3ab6bfc7f4664571f2586f382257d1/header.jpg?t=1766778265" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/3fc9c7fbda3ab6bfc7f4664571f2586f382257d1/header.jpg?t=1766778265" alt="Corner King（新規追加）" /></a></p><p>Build your gym! Develop champions! Rule the ring. A deep boxing management sim where training, finances, rivalries, and fight night collide. Every decision echoes through your fighters&#x27; carrers.</p><p><a href="https://store.steampowered.com/app/4259990/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
