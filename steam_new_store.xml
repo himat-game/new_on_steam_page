@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 02 Jan 2026 21:45:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 22:40:51 +0000</lastBuildDate>
+<item>
+  <title>The Lucky Stray Cat - 招财猫 - Mèo Chiêu Tài（新規追加）</title>
+  <link>https://store.steampowered.com/app/4270080/</link>
+  <guid isPermaLink="false">steam-store-published-4270080</guid>
+  <pubDate>Fri, 02 Jan 2026 22:40:51 +0000</pubDate>
+  <description>“The Lucky Stray Cat” is a hybrid Dungeon Crawler and Visual Novel, told through an urban horror narrative reminiscent of Junji Ito’s storytelling style.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270080/b890b04498a534b1dd7f0078574a610bc208d45e/header.jpg?t=1767393354" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270080/b890b04498a534b1dd7f0078574a610bc208d45e/header.jpg?t=1767393354" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270080/b890b04498a534b1dd7f0078574a610bc208d45e/header.jpg?t=1767393354" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4270080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270080/b890b04498a534b1dd7f0078574a610bc208d45e/header.jpg?t=1767393354" alt="The Lucky Stray Cat - 招财猫 - Mèo Chiêu Tài（新規追加）" /></a></p><p>“The Lucky Stray Cat” is a hybrid Dungeon Crawler and Visual Novel, told through an urban horror narrative reminiscent of Junji Ito’s storytelling style.</p><p><a href="https://store.steampowered.com/app/4270080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Foreign Rim（新規追加）</title>
   <link>https://store.steampowered.com/app/3553030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251490/1feb9e5fa77ea2223e4332a60d86c71868744a71/header.jpg?t=1766777178" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251490/1feb9e5fa77ea2223e4332a60d86c71868744a71/header.jpg?t=1766777178" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251490/1feb9e5fa77ea2223e4332a60d86c71868744a71/header.jpg?t=1766777178" alt="Kingster（新規追加）" /></a></p><p>Classic strategy rules are being rewritten in roguelike chaos. As a Jester who has accidentally ascended the throne, you must think like a King to survive. Manipulate the battlefield, wield your unique powers, build your deck, and rewrite your fate against all odds in this ruthless dungeon.</p><p><a href="https://store.steampowered.com/app/4251490/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>3876 AD: Corruption（新規追加）</title>
-  <link>https://store.steampowered.com/app/4254560/</link>
-  <guid isPermaLink="false">steam-store-published-4254560</guid>
-  <pubDate>Fri, 26 Dec 2025 19:44:57 +0000</pubDate>
-  <description>A hardcore military sci-fi survival roguelike set in the post-apocalyptic world of 3876 AD. Engage in tense tactical combat, scavenge for resources, complete dangerous quests, and explore an immersive lore full of dark themes and meaningful decisions.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254560/bd7d743bbf727340d4b13030f88e0d235630bbc2/header.jpg?t=1766778100" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254560/bd7d743bbf727340d4b13030f88e0d235630bbc2/header.jpg?t=1766778100" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254560/bd7d743bbf727340d4b13030f88e0d235630bbc2/header.jpg?t=1766778100" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254560/bd7d743bbf727340d4b13030f88e0d235630bbc2/header.jpg?t=1766778100" alt="3876 AD: Corruption（新規追加）" /></a></p><p>A hardcore military sci-fi survival roguelike set in the post-apocalyptic world of 3876 AD. Engage in tense tactical combat, scavenge for resources, complete dangerous quests, and explore an immersive lore full of dark themes and meaningful decisions.</p><p><a href="https://store.steampowered.com/app/4254560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
