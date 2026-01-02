@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 02 Jan 2026 08:56:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 09:26:00 +0000</lastBuildDate>
+<item>
+  <title>Ruff&#x27;s Bone（新規追加）</title>
+  <link>https://store.steampowered.com/app/4056660/</link>
+  <guid isPermaLink="false">steam-store-published-4056660</guid>
+  <pubDate>Fri, 02 Jan 2026 09:26:00 +0000</pubDate>
+  <description>Ruff&#x27;s Bone centers around a day in the life of Ruff, as he anticipates his weekly routine of fetching his trainer&#x27;s bone. Ruff finds himself chasing the bone into the most unlikely of places! Can you help Ruff recover the bone and make it home?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056660/961950e3c991d46366f0268d0fd21b25fff31a78/header.jpg?t=1767344211" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056660/961950e3c991d46366f0268d0fd21b25fff31a78/header.jpg?t=1767344211" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056660/961950e3c991d46366f0268d0fd21b25fff31a78/header.jpg?t=1767344211" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4056660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056660/961950e3c991d46366f0268d0fd21b25fff31a78/header.jpg?t=1767344211" alt="Ruff&#x27;s Bone（新規追加）" /></a></p><p>Ruff&#x27;s Bone centers around a day in the life of Ruff, as he anticipates his weekly routine of fetching his trainer&#x27;s bone. Ruff finds himself chasing the bone into the most unlikely of places! Can you help Ruff recover the bone and make it home?</p><p><a href="https://store.steampowered.com/app/4056660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Guerilla Cubes（新規追加）</title>
   <link>https://store.steampowered.com/app/4133500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261640/ae19532d4d4fd7b49d846d0f124d9e1fea3c4cd4/header.jpg?t=1766649504" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261640/ae19532d4d4fd7b49d846d0f124d9e1fea3c4cd4/header.jpg?t=1766649504" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261640/ae19532d4d4fd7b49d846d0f124d9e1fea3c4cd4/header.jpg?t=1766649504" alt="Floriety（新規追加）" /></a></p><p>Floriety is a cozy flower breeding game. Grow plants from seed to bloom, breed new colours and patterns, and customize your greenhouse in a calm, relaxing world designed for creativity and gentle discovery.</p><p><a href="https://store.steampowered.com/app/4261640/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Clownfield 6（新規追加）</title>
-  <link>https://store.steampowered.com/app/4216390/</link>
-  <guid isPermaLink="false">steam-store-published-4216390</guid>
-  <pubDate>Thu, 25 Dec 2025 08:25:20 +0000</pubDate>
-  <description>Clownfield 6 is a multiplayer shooter where precision tactics meet unpredictable chaos, giant explosions, and extremely questionable battle priorities. Pick your loadout, gather your squad and get ready to deploy in a tightly packed battlefield.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216390/779426c126203105d699b9e4bd9272d9900ba6a5/header.jpg?t=1766649590" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216390/779426c126203105d699b9e4bd9272d9900ba6a5/header.jpg?t=1766649590" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216390/779426c126203105d699b9e4bd9272d9900ba6a5/header.jpg?t=1766649590" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4216390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216390/779426c126203105d699b9e4bd9272d9900ba6a5/header.jpg?t=1766649590" alt="Clownfield 6（新規追加）" /></a></p><p>Clownfield 6 is a multiplayer shooter where precision tactics meet unpredictable chaos, giant explosions, and extremely questionable battle priorities. Pick your loadout, gather your squad and get ready to deploy in a tightly packed battlefield.</p><p><a href="https://store.steampowered.com/app/4216390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
