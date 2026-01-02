@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 02 Jan 2026 09:51:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 10:19:10 +0000</lastBuildDate>
+<item>
+  <title>C.A.R.S. - Creating A Ridiculous Shitshow（新規追加）</title>
+  <link>https://store.steampowered.com/app/4226780/</link>
+  <guid isPermaLink="false">steam-store-published-4226780</guid>
+  <pubDate>Fri, 02 Jan 2026 10:19:10 +0000</pubDate>
+  <description>A rebellious chaos sandbox where you weaponize junk, disrupt highway traffic, and engineer outrageous physics disasters to turn the morning commute into pure, glorious mayhem.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226780/f2942b6487cbe05dc90eebad2a838055e9b6ccdb/header.jpg?t=1767349088" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226780/f2942b6487cbe05dc90eebad2a838055e9b6ccdb/header.jpg?t=1767349088" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226780/f2942b6487cbe05dc90eebad2a838055e9b6ccdb/header.jpg?t=1767349088" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4226780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226780/f2942b6487cbe05dc90eebad2a838055e9b6ccdb/header.jpg?t=1767349088" alt="C.A.R.S. - Creating A Ridiculous Shitshow（新規追加）" /></a></p><p>A rebellious chaos sandbox where you weaponize junk, disrupt highway traffic, and engineer outrageous physics disasters to turn the morning commute into pure, glorious mayhem.</p><p><a href="https://store.steampowered.com/app/4226780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Darts RPG（新規追加）</title>
   <link>https://store.steampowered.com/app/4224110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250260/1f3f5c6e56866b694b63306169bb3c1cdf1cbe46/header.jpg?t=1766657301" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250260/1f3f5c6e56866b694b63306169bb3c1cdf1cbe46/header.jpg?t=1766657301" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4250260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250260/1f3f5c6e56866b694b63306169bb3c1cdf1cbe46/header.jpg?t=1766657301" alt="Slop Fest（新規追加）" /></a></p><p>An incremental horroresque game about feeding a gluttonous beast! Feed it slop, upgrade, repeat!</p><p><a href="https://store.steampowered.com/app/4250260/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Holegolic（新規追加）</title>
-  <link>https://store.steampowered.com/app/4211360/</link>
-  <guid isPermaLink="false">steam-store-published-4211360</guid>
-  <pubDate>Thu, 25 Dec 2025 09:20:31 +0000</pubDate>
-  <description>A simple yet engaging incremental game about digging the ground, upgrading efficiency, and discovering rare finds.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4211360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211360/fc5509be738fcffd5c636315fd602569401bf85d/header.jpg?t=1766653999" alt="Holegolic（新規追加）" /></a></p><p>A simple yet engaging incremental game about digging the ground, upgrading efficiency, and discovering rare finds.</p><p><a href="https://store.steampowered.com/app/4211360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
