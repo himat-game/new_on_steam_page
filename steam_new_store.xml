@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 07:46:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 08:23:59 +0000</lastBuildDate>
+<item>
+  <title>Soul•Last Bastion（新規追加）</title>
+  <link>https://store.steampowered.com/app/3607810/</link>
+  <guid isPermaLink="false">steam-store-published-3607810</guid>
+  <pubDate>Sat, 03 Jan 2026 08:23:59 +0000</pubDate>
+  <description>Roguelike Multiplayer Tower Defense, Roguelike Single-Player Tower Defense Challenges Avariety of units, and numerous random elements, you can build your favorite system. You can team up with friends to defend against attacks from alien creatures, or compete against them in a showdown.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607810/d72784200ea6a04ea17c7f23624e1cd7dcc894c9/header.jpg?t=1767428554" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607810/d72784200ea6a04ea17c7f23624e1cd7dcc894c9/header.jpg?t=1767428554" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607810/d72784200ea6a04ea17c7f23624e1cd7dcc894c9/header.jpg?t=1767428554" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3607810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607810/d72784200ea6a04ea17c7f23624e1cd7dcc894c9/header.jpg?t=1767428554" alt="Soul•Last Bastion（新規追加）" /></a></p><p>Roguelike Multiplayer Tower Defense, Roguelike Single-Player Tower Defense Challenges Avariety of units, and numerous random elements, you can build your favorite system. You can team up with friends to defend against attacks from alien creatures, or compete against them in a showdown.</p><p><a href="https://store.steampowered.com/app/3607810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Space Direct（新規追加）</title>
   <link>https://store.steampowered.com/app/4283740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896420/6c39e440cfc1e4f1dc77496bafcddf1eab22b206/header.jpg?t=1766802686" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896420/6c39e440cfc1e4f1dc77496bafcddf1eab22b206/header.jpg?t=1766802686" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3896420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896420/6c39e440cfc1e4f1dc77496bafcddf1eab22b206/header.jpg?t=1766802686" alt="Fluffy Chef（新規追加）" /></a></p><p>Become a cute animal chef and run a restaurant with your friends! Cook delicious meals, serve hungry customers, and decorate your restaurant to win their hearts. With physics-based controls, get ready for chaotic fun where anything can happen!</p><p><a href="https://store.steampowered.com/app/3896420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GoSifu(师傅快出招)（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258520/</link>
-  <guid isPermaLink="false">steam-store-published-4258520</guid>
-  <pubDate>Sat, 27 Dec 2025 03:12:21 +0000</pubDate>
-  <description>&amp;lt;GoSifu&amp;gt; is a personal indie work of roguelike turn-based card strategy. You will recruit and lead Masters with unique abilities, collect various skills, then sort, combine, and upgrade them. Defeat one powerful enemy after another in turn-based battles with auto-battle functionality.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258520/550044c21214d169d9746c5fb7fefa3ef25e5bbd/header.jpg?t=1766798827" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258520/550044c21214d169d9746c5fb7fefa3ef25e5bbd/header.jpg?t=1766798827" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258520/550044c21214d169d9746c5fb7fefa3ef25e5bbd/header.jpg?t=1766798827" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258520/550044c21214d169d9746c5fb7fefa3ef25e5bbd/header.jpg?t=1766798827" alt="GoSifu(师傅快出招)（新規追加）" /></a></p><p>&amp;lt;GoSifu&amp;gt; is a personal indie work of roguelike turn-based card strategy. You will recruit and lead Masters with unique abilities, collect various skills, then sort, combine, and upgrade them. Defeat one powerful enemy after another in turn-based battles with auto-battle functionality.</p><p><a href="https://store.steampowered.com/app/4258520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
