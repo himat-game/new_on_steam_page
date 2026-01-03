@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 16:52:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 17:46:49 +0000</lastBuildDate>
+<item>
+  <title>Dwarf Saga（新規追加）</title>
+  <link>https://store.steampowered.com/app/4268380/</link>
+  <guid isPermaLink="false">steam-store-published-4268380</guid>
+  <pubDate>Sat, 03 Jan 2026 17:46:49 +0000</pubDate>
+  <description>Embark on a premium match-3 adventure! Help the luckiest dwarf build history&#x27;s first surface village by solving puzzles, finding runestones, and defeating a treacherous villain&#x27;s plot. Enjoy stunning visuals, a charming story, and the quest to earn legendary status!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268380/e948d52cbd0b2bcbbe1accde29a6156e15cef8fb/header.jpg?t=1767460903" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268380/e948d52cbd0b2bcbbe1accde29a6156e15cef8fb/header.jpg?t=1767460903" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268380/e948d52cbd0b2bcbbe1accde29a6156e15cef8fb/header.jpg?t=1767460903" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4268380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268380/e948d52cbd0b2bcbbe1accde29a6156e15cef8fb/header.jpg?t=1767460903" alt="Dwarf Saga（新規追加）" /></a></p><p>Embark on a premium match-3 adventure! Help the luckiest dwarf build history&#x27;s first surface village by solving puzzles, finding runestones, and defeating a treacherous villain&#x27;s plot. Enjoy stunning visuals, a charming story, and the quest to earn legendary status!</p><p><a href="https://store.steampowered.com/app/4268380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tunnelers（新規追加）</title>
   <link>https://store.steampowered.com/app/4270010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273370/5b5ec51cfd08f0eaf71569a65901ca14b911b3d2/header.jpg?t=1766823653" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273370/5b5ec51cfd08f0eaf71569a65901ca14b911b3d2/header.jpg?t=1766823653" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273370/5b5ec51cfd08f0eaf71569a65901ca14b911b3d2/header.jpg?t=1766823653" alt="Peak or Die（新規追加）" /></a></p><p>Peak or Die is a narrative-driven survival game about leading a team of adventurers up a deadly mountain, where every decision has lasting consequences. Manage oxygen, food, and team morale while facing moral dilemmas, random events, and an unforgiving environment. Reach the summit — or fail trying.</p><p><a href="https://store.steampowered.com/app/4273370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>How Smart Are You? IQ Test（新規追加）</title>
-  <link>https://store.steampowered.com/app/4271920/</link>
-  <guid isPermaLink="false">steam-store-published-4271920</guid>
-  <pubDate>Sat, 27 Dec 2025 08:53:09 +0000</pubDate>
-  <description>How smart are you? Take this IQ test and find out!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271920/4a87989a84482110c5291ce3131409c53503a8f4/header.jpg?t=1766824767" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271920/4a87989a84482110c5291ce3131409c53503a8f4/header.jpg?t=1766824767" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271920/4a87989a84482110c5291ce3131409c53503a8f4/header.jpg?t=1766824767" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271920/4a87989a84482110c5291ce3131409c53503a8f4/header.jpg?t=1766824767" alt="How Smart Are You? IQ Test（新規追加）" /></a></p><p>How smart are you? Take this IQ test and find out!</p><p><a href="https://store.steampowered.com/app/4271920/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
