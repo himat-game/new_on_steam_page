@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 19:44:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 20:19:39 +0000</lastBuildDate>
+<item>
+  <title>Hi-Fi Roller（新規追加）</title>
+  <link>https://store.steampowered.com/app/4203370/</link>
+  <guid isPermaLink="false">steam-store-published-4203370</guid>
+  <pubDate>Sat, 03 Jan 2026 20:19:39 +0000</pubDate>
+  <description>Roll, jump and race your way through a &amp;quot;makerspace&amp;quot; turned obstacle course. Navigate a vast miniature world full of messy circuits, workbenches and finger skateboards in this photo‑realistic marble platformer built for skill and precision.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203370/7b2169689f6d805594beb2682930205f5a42a533/header.jpg?t=1767470025" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203370/7b2169689f6d805594beb2682930205f5a42a533/header.jpg?t=1767470025" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203370/7b2169689f6d805594beb2682930205f5a42a533/header.jpg?t=1767470025" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4203370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203370/7b2169689f6d805594beb2682930205f5a42a533/header.jpg?t=1767470025" alt="Hi-Fi Roller（新規追加）" /></a></p><p>Roll, jump and race your way through a &amp;quot;makerspace&amp;quot; turned obstacle course. Navigate a vast miniature world full of messy circuits, workbenches and finger skateboards in this photo‑realistic marble platformer built for skill and precision.</p><p><a href="https://store.steampowered.com/app/4203370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Flask &amp; Fury（新規追加）</title>
   <link>https://store.steampowered.com/app/4284950/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224610/f24a8ae2493b05c9161d59406bf8e9bc36cba1d0/header.jpg?t=1766849707" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224610/f24a8ae2493b05c9161d59406bf8e9bc36cba1d0/header.jpg?t=1766849707" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224610/f24a8ae2493b05c9161d59406bf8e9bc36cba1d0/header.jpg?t=1766849707" alt="Pixelance（新規追加）" /></a></p><p>Pixelance is a turn based roguelike adventure RPG with permadeath and multiple quests within dungeons and a vast overworld.</p><p><a href="https://store.steampowered.com/app/4224610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mushroom Forest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4192050/</link>
-  <guid isPermaLink="false">steam-store-published-4192050</guid>
-  <pubDate>Sat, 27 Dec 2025 13:40:54 +0000</pubDate>
-  <description>Mushroom Forest is a simple and fun 2D platformer for children and all ages. Play as a small mushroom exploring the forest across stages filled with light challenges, basic jumping, and small puzzles. Meet friendly characters and discover the beginning of the story.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4192050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" alt="Mushroom Forest（新規追加）" /></a></p><p>Mushroom Forest is a simple and fun 2D platformer for children and all ages. Play as a small mushroom exploring the forest across stages filled with light challenges, basic jumping, and small puzzles. Meet friendly characters and discover the beginning of the story.</p><p><a href="https://store.steampowered.com/app/4192050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
