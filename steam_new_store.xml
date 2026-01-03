@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 18:25:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 19:44:21 +0000</lastBuildDate>
+<item>
+  <title>Flask &amp; Fury（新規追加）</title>
+  <link>https://store.steampowered.com/app/4284950/</link>
+  <guid isPermaLink="false">steam-store-published-4284950</guid>
+  <pubDate>Sat, 03 Jan 2026 19:44:21 +0000</pubDate>
+  <description>Survive the Anomaly. Craft your own bullet hell. In this alchemical action roguelite, you don&#x27;t just find weapons—you brew them. Scavenge ingredients, synthesize powerful potions in real-time, and hurl liquid chaos at the endless horde. How long can you survive the Cursed Forest?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284950/70f9f8b6af40116290cacf4dedd84a27dead66bd/header.jpg?t=1767467574" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284950/70f9f8b6af40116290cacf4dedd84a27dead66bd/header.jpg?t=1767467574" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284950/70f9f8b6af40116290cacf4dedd84a27dead66bd/header.jpg?t=1767467574" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4284950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284950/70f9f8b6af40116290cacf4dedd84a27dead66bd/header.jpg?t=1767467574" alt="Flask &amp; Fury（新規追加）" /></a></p><p>Survive the Anomaly. Craft your own bullet hell. In this alchemical action roguelite, you don&#x27;t just find weapons—you brew them. Scavenge ingredients, synthesize powerful potions in real-time, and hurl liquid chaos at the endless horde. How long can you survive the Cursed Forest?</p><p><a href="https://store.steampowered.com/app/4284950/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Five Nights At Monkeys: Flat Mode（新規追加）</title>
   <link>https://store.steampowered.com/app/4283320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4192050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192050/b6ee58e84eec0492c5ac0a2a6a14551cd85c2e14/header.jpg?t=1766841630" alt="Mushroom Forest（新規追加）" /></a></p><p>Mushroom Forest is a simple and fun 2D platformer for children and all ages. Play as a small mushroom exploring the forest across stages filled with light challenges, basic jumping, and small puzzles. Meet friendly characters and discover the beginning of the story.</p><p><a href="https://store.steampowered.com/app/4192050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Clash of Builders（新規追加）</title>
-  <link>https://store.steampowered.com/app/4253320/</link>
-  <guid isPermaLink="false">steam-store-published-4253320</guid>
-  <pubDate>Sat, 27 Dec 2025 13:09:47 +0000</pubDate>
-  <description>A party game for up to 4 players. Awaken your inner engineer and construct a tower that can survive brutal challenges, shifting weather, and your opponents’ schemes. Adapt, sabotage, and race to the top before anyone else.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253320/0df5029a82f900074c6a9d8e57c697f64a0c0135/header.jpg?t=1766838783" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253320/0df5029a82f900074c6a9d8e57c697f64a0c0135/header.jpg?t=1766838783" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253320/0df5029a82f900074c6a9d8e57c697f64a0c0135/header.jpg?t=1766838783" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4253320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253320/0df5029a82f900074c6a9d8e57c697f64a0c0135/header.jpg?t=1766838783" alt="Clash of Builders（新規追加）" /></a></p><p>A party game for up to 4 players. Awaken your inner engineer and construct a tower that can survive brutal challenges, shifting weather, and your opponents’ schemes. Adapt, sabotage, and race to the top before anyone else.</p><p><a href="https://store.steampowered.com/app/4253320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
