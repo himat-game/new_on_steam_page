@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 05:19:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 07:46:15 +0000</lastBuildDate>
+<item>
+  <title>Space Direct（新規追加）</title>
+  <link>https://store.steampowered.com/app/4283740/</link>
+  <guid isPermaLink="false">steam-store-published-4283740</guid>
+  <pubDate>Sat, 03 Jan 2026 07:46:15 +0000</pubDate>
+  <description>Space Direct is a space-adventure game where you play as the pilot who survived a battle and has joined a new force to save the universe. Explore various worlds, uncover mysteries, and unravel the grand secrets of the universe.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283740/b27b18ea00f206cac635f4e0b6f16fc130a04a8b/header.jpg?t=1767425992" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283740/b27b18ea00f206cac635f4e0b6f16fc130a04a8b/header.jpg?t=1767425992" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283740/b27b18ea00f206cac635f4e0b6f16fc130a04a8b/header.jpg?t=1767425992" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283740/b27b18ea00f206cac635f4e0b6f16fc130a04a8b/header.jpg?t=1767425992" alt="Space Direct（新規追加）" /></a></p><p>Space Direct is a space-adventure game where you play as the pilot who survived a battle and has joined a new force to save the universe. Explore various worlds, uncover mysteries, and unravel the grand secrets of the universe.</p><p><a href="https://store.steampowered.com/app/4283740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>我喜欢的白毛美少女不可能是凶手（新規追加）</title>
   <link>https://store.steampowered.com/app/4270450/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258520/550044c21214d169d9746c5fb7fefa3ef25e5bbd/header.jpg?t=1766798827" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258520/550044c21214d169d9746c5fb7fefa3ef25e5bbd/header.jpg?t=1766798827" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258520/550044c21214d169d9746c5fb7fefa3ef25e5bbd/header.jpg?t=1766798827" alt="GoSifu(师傅快出招)（新規追加）" /></a></p><p>&amp;lt;GoSifu&amp;gt; is a personal indie work of roguelike turn-based card strategy. You will recruit and lead Masters with unique abilities, collect various skills, then sort, combine, and upgrade them. Defeat one powerful enemy after another in turn-based battles with auto-battle functionality.</p><p><a href="https://store.steampowered.com/app/4258520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ノースウェステリアの子供（新規追加）</title>
-  <link>https://store.steampowered.com/app/4256720/</link>
-  <guid isPermaLink="false">steam-store-published-4256720</guid>
-  <pubDate>Sat, 27 Dec 2025 01:21:54 +0000</pubDate>
-  <description>宝くじの隠し場所を聞く為に、地獄へ行く男の物語。プレイ時間1時間程度の、一人称ジャパニーズホラーゲーム。白黒とカラーの世界が地獄独特の恐怖と美しさを引き立てます。開発は、20歳の学生。プログラミングから演出まで、すべて独学で完成させた第3作。</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256720/872a570d705b5867e8f9ee75405aae2d44215933/header.jpg?t=1766796040" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256720/872a570d705b5867e8f9ee75405aae2d44215933/header.jpg?t=1766796040" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256720/872a570d705b5867e8f9ee75405aae2d44215933/header.jpg?t=1766796040" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256720/872a570d705b5867e8f9ee75405aae2d44215933/header.jpg?t=1766796040" alt="ノースウェステリアの子供（新規追加）" /></a></p><p>宝くじの隠し場所を聞く為に、地獄へ行く男の物語。プレイ時間1時間程度の、一人称ジャパニーズホラーゲーム。白黒とカラーの世界が地獄独特の恐怖と美しさを引き立てます。開発は、20歳の学生。プログラミングから演出まで、すべて独学で完成させた第3作。</p><p><a href="https://store.steampowered.com/app/4256720/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
