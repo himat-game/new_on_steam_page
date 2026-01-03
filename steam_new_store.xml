@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 20:19:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 20:52:09 +0000</lastBuildDate>
+<item>
+  <title>EYEVIRUS: Compression（新規追加）</title>
+  <link>https://store.steampowered.com/app/4283390/</link>
+  <guid isPermaLink="false">steam-store-published-4283390</guid>
+  <pubDate>Sat, 03 Jan 2026 20:52:09 +0000</pubDate>
+  <description>An AI neurochip developed for the human brain goes rogue. Your sense of time fractures, visual reality collapses, and the system traps you inside your own mind by cloning you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283390/6804c57358aafae89a111216b7e5ffcf5d0dd6a2/header.jpg?t=1767381902" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283390/6804c57358aafae89a111216b7e5ffcf5d0dd6a2/header.jpg?t=1767381902" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283390/6804c57358aafae89a111216b7e5ffcf5d0dd6a2/header.jpg?t=1767381902" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283390/6804c57358aafae89a111216b7e5ffcf5d0dd6a2/header.jpg?t=1767381902" alt="EYEVIRUS: Compression（新規追加）" /></a></p><p>An AI neurochip developed for the human brain goes rogue. Your sense of time fractures, visual reality collapses, and the system traps you inside your own mind by cloning you.</p><p><a href="https://store.steampowered.com/app/4283390/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hi-Fi Roller（新規追加）</title>
   <link>https://store.steampowered.com/app/4203370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081910/203adf6e108b5ea210c75c86bb80c2497cbdad07/header.jpg?t=1766848800" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081910/203adf6e108b5ea210c75c86bb80c2497cbdad07/header.jpg?t=1766848800" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4081910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081910/203adf6e108b5ea210c75c86bb80c2497cbdad07/header.jpg?t=1766848800" alt="Fetch!（新規追加）" /></a></p><p>Welcome, this is Fetch! A cozy game to relax and just have fun with. Explore beautiful nature scenes around the world, relax your mind to beautiful soundscapes and music, and discover unique challenges and puzzles within the world as you try to beat the level!</p><p><a href="https://store.steampowered.com/app/4081910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pixelance（新規追加）</title>
-  <link>https://store.steampowered.com/app/4224610/</link>
-  <guid isPermaLink="false">steam-store-published-4224610</guid>
-  <pubDate>Sat, 27 Dec 2025 15:46:01 +0000</pubDate>
-  <description>Pixelance is a turn based roguelike adventure RPG with permadeath and multiple quests within dungeons and a vast overworld.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224610/f24a8ae2493b05c9161d59406bf8e9bc36cba1d0/header.jpg?t=1766849707" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224610/f24a8ae2493b05c9161d59406bf8e9bc36cba1d0/header.jpg?t=1766849707" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224610/f24a8ae2493b05c9161d59406bf8e9bc36cba1d0/header.jpg?t=1766849707" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224610/f24a8ae2493b05c9161d59406bf8e9bc36cba1d0/header.jpg?t=1766849707" alt="Pixelance（新規追加）" /></a></p><p>Pixelance is a turn based roguelike adventure RPG with permadeath and multiple quests within dungeons and a vast overworld.</p><p><a href="https://store.steampowered.com/app/4224610/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
