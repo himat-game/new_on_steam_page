@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 09:47:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 10:18:27 +0000</lastBuildDate>
+<item>
+  <title>Uninvited: Security Service（新規追加）</title>
+  <link>https://store.steampowered.com/app/4251450/</link>
+  <guid isPermaLink="false">steam-store-published-4251450</guid>
+  <pubDate>Sat, 03 Jan 2026 10:18:27 +0000</pubDate>
+  <description>Uninvited: Security Service is a really simple stealth/exploration game where you sneak around a mansion while avoiding the butler that lives in there. Learn about the foolhardy protagonist and the stupid chain of events that led to the situation that’s happening there.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251450/bcfd2a63f1512f73705728e8caba41cbcec7c88f/header.jpg?t=1767435454" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251450/bcfd2a63f1512f73705728e8caba41cbcec7c88f/header.jpg?t=1767435454" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251450/bcfd2a63f1512f73705728e8caba41cbcec7c88f/header.jpg?t=1767435454" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251450/bcfd2a63f1512f73705728e8caba41cbcec7c88f/header.jpg?t=1767435454" alt="Uninvited: Security Service（新規追加）" /></a></p><p>Uninvited: Security Service is a really simple stealth/exploration game where you sneak around a mansion while avoiding the butler that lives in there. Learn about the foolhardy protagonist and the stupid chain of events that led to the situation that’s happening there.</p><p><a href="https://store.steampowered.com/app/4251450/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BDSM HISTORY（新規追加）</title>
   <link>https://store.steampowered.com/app/4233790/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265390/00f31cfa8cc842068ef9ac79c87465c014b50fde/header.jpg?t=1766801809" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265390/00f31cfa8cc842068ef9ac79c87465c014b50fde/header.jpg?t=1766801809" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4265390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265390/00f31cfa8cc842068ef9ac79c87465c014b50fde/header.jpg?t=1766801809" alt="Pepper Rush（新規追加）" /></a></p><p>Half duck. Half dog. Total chaos. Rosan got separated from Grandpa Spike in Pepper City and needs to get to the airport ASAP! Dodge insane traffic, eat peppers to turn into an unstoppable beast, and avoid sweets so you don&#x27;t get too fat to run. It&#x27;s crunch time in Pepper Rush!</p><p><a href="https://store.steampowered.com/app/4265390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>MOVING WITH THE MOON: Mastering Universal Gravitation!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4272960/</link>
-  <guid isPermaLink="false">steam-store-published-4272960</guid>
-  <pubDate>Sat, 27 Dec 2025 03:12:21 +0000</pubDate>
-  <description>This is a new action game where you steer the earth. Steer the Earth, when both the Earth and the Moon are in the goal zone, the stage is cleared. Stars are constantly pulling on each other with universal gravitation. You can experience a simulated universal gravitation.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272960/e0e92f776b808438a0ea017359f3c6f68a7a5e8c/header.jpg?t=1766799300" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272960/e0e92f776b808438a0ea017359f3c6f68a7a5e8c/header.jpg?t=1766799300" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272960/e0e92f776b808438a0ea017359f3c6f68a7a5e8c/header.jpg?t=1766799300" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272960/e0e92f776b808438a0ea017359f3c6f68a7a5e8c/header.jpg?t=1766799300" alt="MOVING WITH THE MOON: Mastering Universal Gravitation!（新規追加）" /></a></p><p>This is a new action game where you steer the earth. Steer the Earth, when both the Earth and the Moon are in the goal zone, the stage is cleared. Stars are constantly pulling on each other with universal gravitation. You can experience a simulated universal gravitation.</p><p><a href="https://store.steampowered.com/app/4272960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
