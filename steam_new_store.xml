@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 10:18:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 10:40:32 +0000</lastBuildDate>
+<item>
+  <title>迷你种田（新規追加）</title>
+  <link>https://store.steampowered.com/app/4269980/</link>
+  <guid isPermaLink="false">steam-store-published-4269980</guid>
+  <pubDate>Sat, 03 Jan 2026 10:40:32 +0000</pubDate>
+  <description>In this mini game, farm, raise animals and harvest crops automatically with a gentle mouse - slide. Keep unlocking new plants, and raise high - level animals later. Play by leaving it running in a small window while away</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269980/2bc1876c8cc7c4170c715bc46276bb6285731694/header.jpg?t=1767436267" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269980/2bc1876c8cc7c4170c715bc46276bb6285731694/header.jpg?t=1767436267" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269980/2bc1876c8cc7c4170c715bc46276bb6285731694/header.jpg?t=1767436267" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4269980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269980/2bc1876c8cc7c4170c715bc46276bb6285731694/header.jpg?t=1767436267" alt="迷你种田（新規追加）" /></a></p><p>In this mini game, farm, raise animals and harvest crops automatically with a gentle mouse - slide. Keep unlocking new plants, and raise high - level animals later. Play by leaving it running in a small window while away</p><p><a href="https://store.steampowered.com/app/4269980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Uninvited: Security Service（新規追加）</title>
   <link>https://store.steampowered.com/app/4251450/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265220/b158634d02ad7a2c3dee8d5a70adfab4c06c569a/header.jpg?t=1766799573" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265220/b158634d02ad7a2c3dee8d5a70adfab4c06c569a/header.jpg?t=1766799573" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4265220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265220/b158634d02ad7a2c3dee8d5a70adfab4c06c569a/header.jpg?t=1766799573" alt="绘色星落(Brush The Starfall）（新規追加）" /></a></p><p>Brush the Starfall uniquely blends strategic color filling with fragmented storytelling. Paint the board to specified colors within limited moves to solve elegant logic puzzles. Through journal entries, experience a poignant story of warmth and farewell.</p><p><a href="https://store.steampowered.com/app/4265220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pepper Rush（新規追加）</title>
-  <link>https://store.steampowered.com/app/4265390/</link>
-  <guid isPermaLink="false">steam-store-published-4265390</guid>
-  <pubDate>Sat, 27 Dec 2025 03:12:21 +0000</pubDate>
-  <description>Half duck. Half dog. Total chaos. Rosan got separated from Grandpa Spike in Pepper City and needs to get to the airport ASAP! Dodge insane traffic, eat peppers to turn into an unstoppable beast, and avoid sweets so you don&#x27;t get too fat to run. It&#x27;s crunch time in Pepper Rush!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265390/00f31cfa8cc842068ef9ac79c87465c014b50fde/header.jpg?t=1766801809" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265390/00f31cfa8cc842068ef9ac79c87465c014b50fde/header.jpg?t=1766801809" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265390/00f31cfa8cc842068ef9ac79c87465c014b50fde/header.jpg?t=1766801809" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4265390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265390/00f31cfa8cc842068ef9ac79c87465c014b50fde/header.jpg?t=1766801809" alt="Pepper Rush（新規追加）" /></a></p><p>Half duck. Half dog. Total chaos. Rosan got separated from Grandpa Spike in Pepper City and needs to get to the airport ASAP! Dodge insane traffic, eat peppers to turn into an unstoppable beast, and avoid sweets so you don&#x27;t get too fat to run. It&#x27;s crunch time in Pepper Rush!</p><p><a href="https://store.steampowered.com/app/4265390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
