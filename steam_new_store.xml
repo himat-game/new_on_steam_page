@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 12:35:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 14:16:21 +0000</lastBuildDate>
+<item>
+  <title>Liminal:Escape Route（新規追加）</title>
+  <link>https://store.steampowered.com/app/4272200/</link>
+  <guid isPermaLink="false">steam-store-published-4272200</guid>
+  <pubDate>Sat, 03 Jan 2026 14:16:21 +0000</pubDate>
+  <description>A game where your goal is to find a door to get to the next level! What could be scary?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272200/793bfd66240326ca0bf98a00a141fb0eec9156ef/header.jpg?t=1767447755" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272200/793bfd66240326ca0bf98a00a141fb0eec9156ef/header.jpg?t=1767447755" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272200/793bfd66240326ca0bf98a00a141fb0eec9156ef/header.jpg?t=1767447755" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272200/793bfd66240326ca0bf98a00a141fb0eec9156ef/header.jpg?t=1767447755" alt="Liminal:Escape Route（新規追加）" /></a></p><p>A game where your goal is to find a door to get to the next level! What could be scary?</p><p><a href="https://store.steampowered.com/app/4272200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Gauley : Experience Nepal（新規追加）</title>
   <link>https://store.steampowered.com/app/3687000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229000/99dd77a6145b0f3962a56c74b8a3ab457913eaef/header.jpg?t=1766810639" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229000/99dd77a6145b0f3962a56c74b8a3ab457913eaef/header.jpg?t=1766810639" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4229000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229000/99dd77a6145b0f3962a56c74b8a3ab457913eaef/header.jpg?t=1766810639" alt="VALERIAN（新規追加）" /></a></p><p>Take control of two heroes in an unlikely alliance, help them in combat and exploration through a ruined world, and guide them to their ultimate fates.</p><p><a href="https://store.steampowered.com/app/4229000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>패배자 박중붕(사랑이 뭐야?) Loser Park Jung-bung(What is Love?)（新規追加）</title>
-  <link>https://store.steampowered.com/app/4238370/</link>
-  <guid isPermaLink="false">steam-store-published-4238370</guid>
-  <pubDate>Sat, 27 Dec 2025 04:04:23 +0000</pubDate>
-  <description>Loser Park Jung-bung: (What is Love?) is a JRPG-style Visual Novel with Dating Simulation elements. Start your romance by striking up a conversation with women you meet by chance! Experience a variety of episodes, begin dating, and complete your own definition of love!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238370/9428bcb02bec4e6a7acd56a387aad3ee3f64a93f/header.jpg?t=1766807342" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238370/9428bcb02bec4e6a7acd56a387aad3ee3f64a93f/header.jpg?t=1766807342" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238370/9428bcb02bec4e6a7acd56a387aad3ee3f64a93f/header.jpg?t=1766807342" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238370/9428bcb02bec4e6a7acd56a387aad3ee3f64a93f/header.jpg?t=1766807342" alt="패배자 박중붕(사랑이 뭐야?) Loser Park Jung-bung(What is Love?)（新規追加）" /></a></p><p>Loser Park Jung-bung: (What is Love?) is a JRPG-style Visual Novel with Dating Simulation elements. Start your romance by striking up a conversation with women you meet by chance! Experience a variety of episodes, begin dating, and complete your own definition of love!</p><p><a href="https://store.steampowered.com/app/4238370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
