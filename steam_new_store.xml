@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 18:25:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 21:46:45 +0000</lastBuildDate>
+<item>
+  <title>The Northern Lighthouse（新規追加）</title>
+  <link>https://store.steampowered.com/app/4283130/</link>
+  <guid isPermaLink="false">steam-store-published-4283130</guid>
+  <pubDate>Sun, 04 Jan 2026 21:46:45 +0000</pubDate>
+  <description>You have been appointed to take care of a lighthouse in the Arctic Circle. Clean out the snow, take out the trash, and do your happy job on this happy and lovely island. Everything is so peaceful and delightful... except there is someone in the basement :D</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283130/b4b2b7eaf1f33107c88c6a108a20621a7b06f2bb/header.jpg?t=1767561983" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283130/b4b2b7eaf1f33107c88c6a108a20621a7b06f2bb/header.jpg?t=1767561983" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283130/b4b2b7eaf1f33107c88c6a108a20621a7b06f2bb/header.jpg?t=1767561983" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283130/b4b2b7eaf1f33107c88c6a108a20621a7b06f2bb/header.jpg?t=1767561983" alt="The Northern Lighthouse（新規追加）" /></a></p><p>You have been appointed to take care of a lighthouse in the Arctic Circle. Clean out the snow, take out the trash, and do your happy job on this happy and lovely island. Everything is so peaceful and delightful... except there is someone in the basement :D</p><p><a href="https://store.steampowered.com/app/4283130/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Grotto Escape（新規追加）</title>
   <link>https://store.steampowered.com/app/3433190/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3912770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" alt="it&#x27;s solitaire（新規追加）" /></a></p><p>it&#x27;s solitaire. draw cards, sort cards, pack cards, earn gems, relax. you know this game. it&#x27;s solitaire!</p><p><a href="https://store.steampowered.com/app/3912770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Love on the Approach（新規追加）</title>
-  <link>https://store.steampowered.com/app/4182690/</link>
-  <guid isPermaLink="false">steam-store-published-4182690</guid>
-  <pubDate>Sun, 28 Dec 2025 07:46:28 +0000</pubDate>
-  <description>You are the new manager of a university women&#x27;s volleyball team. Build deep relationships with the unique players through your choices, guiding them to victory on the court and exploring personal, mature connections off the court in this adult romantic visual novel.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4182690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" alt="Love on the Approach（新規追加）" /></a></p><p>You are the new manager of a university women&#x27;s volleyball team. Build deep relationships with the unique players through your choices, guiding them to victory on the court and exploring personal, mature connections off the court in this adult romantic visual novel.</p><p><a href="https://store.steampowered.com/app/4182690/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
