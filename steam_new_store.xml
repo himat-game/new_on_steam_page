@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 10:51:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 11:45:23 +0000</lastBuildDate>
+<item>
+  <title>Smart Lab（新規追加）</title>
+  <link>https://store.steampowered.com/app/4282200/</link>
+  <guid isPermaLink="false">steam-store-published-4282200</guid>
+  <pubDate>Sun, 04 Jan 2026 11:45:23 +0000</pubDate>
+  <description>Smart Lab: Build your lab from the ground up, research new recipes, optimize production chains, and craft valuable products. Produce in batches, improve quality, and sell your results to keep expanding.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282200/7447b642c7c92aa274fe8d97d9a3d0aee215245d/header.jpg?t=1767526487" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282200/7447b642c7c92aa274fe8d97d9a3d0aee215245d/header.jpg?t=1767526487" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282200/7447b642c7c92aa274fe8d97d9a3d0aee215245d/header.jpg?t=1767526487" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4282200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282200/7447b642c7c92aa274fe8d97d9a3d0aee215245d/header.jpg?t=1767526487" alt="Smart Lab（新規追加）" /></a></p><p>Smart Lab: Build your lab from the ground up, research new recipes, optimize production chains, and craft valuable products. Produce in batches, improve quality, and sell your results to keep expanding.</p><p><a href="https://store.steampowered.com/app/4282200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>悪人悪華 - AKUNIN-AKKA -（新規追加）</title>
+  <link>https://store.steampowered.com/app/4256090/</link>
+  <guid isPermaLink="false">steam-store-published-4256090</guid>
+  <pubDate>Sun, 04 Jan 2026 11:45:23 +0000</pubDate>
+  <description>An interrogation game where you play as the detective in charge of a case and interrogate suspects to uncover the truth behind the bombing. Uncover the weaknesses of the unique suspects and get to the bottom of the case!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" alt="悪人悪華 - AKUNIN-AKKA -（新規追加）" /></a></p><p>An interrogation game where you play as the detective in charge of a case and interrogate suspects to uncover the truth behind the bombing. Uncover the weaknesses of the unique suspects and get to the bottom of the case!</p><p><a href="https://store.steampowered.com/app/4256090/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>RagnaCook: Co-op Viking Kitchen（新規追加）</title>
   <link>https://store.steampowered.com/app/3834380/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241880/05df41fc73d79e6ae0371f4d40a2d89736d37a08/header.jpg?t=1766884807" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241880/05df41fc73d79e6ae0371f4d40a2d89736d37a08/header.jpg?t=1766884807" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241880/05df41fc73d79e6ae0371f4d40a2d89736d37a08/header.jpg?t=1766884807" alt="Alchemy Tunes（新規追加）" /></a></p><p>Alchemy Tunes is a delivery co-op game, cook with friends, deliver potions to nomads and survive the hardships of the vast desert.</p><p><a href="https://store.steampowered.com/app/4241880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BELOW（新規追加）</title>
-  <link>https://store.steampowered.com/app/4265400/</link>
-  <guid isPermaLink="false">steam-store-published-4265400</guid>
-  <pubDate>Sun, 28 Dec 2025 01:41:36 +0000</pubDate>
-  <description>BELOW is a co-op horror game about scavenging and cleaning trashed, abandoned deep sea outposts and research sites to repay your debt to a shady corporation!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265400/afcc1dd39e4e0355d2676def13660ede3c06c23b/header.jpg?t=1766879578" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265400/afcc1dd39e4e0355d2676def13660ede3c06c23b/header.jpg?t=1766879578" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265400/afcc1dd39e4e0355d2676def13660ede3c06c23b/header.jpg?t=1766879578" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4265400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265400/afcc1dd39e4e0355d2676def13660ede3c06c23b/header.jpg?t=1766879578" alt="BELOW（新規追加）" /></a></p><p>BELOW is a co-op horror game about scavenging and cleaning trashed, abandoned deep sea outposts and research sites to repay your debt to a shady corporation!</p><p><a href="https://store.steampowered.com/app/4265400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mewlin the Clicker（新規追加）</title>
-  <link>https://store.steampowered.com/app/4248080/</link>
-  <guid isPermaLink="false">steam-store-published-4248080</guid>
-  <pubDate>Sat, 27 Dec 2025 23:47:07 +0000</pubDate>
-  <description>Click to roll the crystal ball across the table, dodging obstacles and facing bosses while building a deck of cards that completely changes your strategy with every run. Help Mewlin, a very curious orange cat, make a total mess in this magical clicker with deckbuilding elements.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248080/5f9af324f62c97a5384671652ade8f8f2f25e715/header.jpg?t=1766877597" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248080/5f9af324f62c97a5384671652ade8f8f2f25e715/header.jpg?t=1766877597" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248080/5f9af324f62c97a5384671652ade8f8f2f25e715/header.jpg?t=1766877597" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4248080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248080/5f9af324f62c97a5384671652ade8f8f2f25e715/header.jpg?t=1766877597" alt="Mewlin the Clicker（新規追加）" /></a></p><p>Click to roll the crystal ball across the table, dodging obstacles and facing bosses while building a deck of cards that completely changes your strategy with every run. Help Mewlin, a very curious orange cat, make a total mess in this magical clicker with deckbuilding elements.</p><p><a href="https://store.steampowered.com/app/4248080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
