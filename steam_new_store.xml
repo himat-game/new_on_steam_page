@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 03 Jan 2026 22:50:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 23:47:03 +0000</lastBuildDate>
+<item>
+  <title>Moon Crashers（新規追加）</title>
+  <link>https://store.steampowered.com/app/4203270/</link>
+  <guid isPermaLink="false">steam-store-published-4203270</guid>
+  <pubDate>Sat, 03 Jan 2026 23:47:03 +0000</pubDate>
+  <description>Moon Crashers is a 4-player online co-op game. Crash-land on the lunar surface with your squad, drift across craters, scavenge junk &amp;amp; rare minerals, uncover ancient ruins, build your ride, and rocket back home. Think you can make it home?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203270/0ae428d3b74d9d74d9884bf3b0db3eab91fbd808/header.jpg?t=1767483311" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203270/0ae428d3b74d9d74d9884bf3b0db3eab91fbd808/header.jpg?t=1767483311" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203270/0ae428d3b74d9d74d9884bf3b0db3eab91fbd808/header.jpg?t=1767483311" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4203270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203270/0ae428d3b74d9d74d9884bf3b0db3eab91fbd808/header.jpg?t=1767483311" alt="Moon Crashers（新規追加）" /></a></p><p>Moon Crashers is a 4-player online co-op game. Crash-land on the lunar surface with your squad, drift across craters, scavenge junk &amp;amp; rare minerals, uncover ancient ruins, build your ride, and rocket back home. Think you can make it home?</p><p><a href="https://store.steampowered.com/app/4203270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Board of the Kings: A Chess RPG（新規追加）</title>
   <link>https://store.steampowered.com/app/4261580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030790/13f8a99f4e6a115886e110c8c0e9182e1410eeb3/header.jpg?t=1766852443" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030790/13f8a99f4e6a115886e110c8c0e9182e1410eeb3/header.jpg?t=1766852443" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4030790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030790/13f8a99f4e6a115886e110c8c0e9182e1410eeb3/header.jpg?t=1766852443" alt="RING TOSS SIMULATOR（新規追加）" /></a></p><p>The realistic physics engine recreates the authentic feel of carnival ring toss! Experience the thrill with &#x27;millimeter-level&#x27; precision and enjoy the satisfaction of hitting the target with your fingertips. Come unlock the Ring Toss Master achievement and win the prizes you want!</p><p><a href="https://store.steampowered.com/app/4030790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bullet Express（新規追加）</title>
-  <link>https://store.steampowered.com/app/4221810/</link>
-  <guid isPermaLink="false">steam-store-published-4221810</guid>
-  <pubDate>Sat, 27 Dec 2025 15:46:01 +0000</pubDate>
-  <description>Merge and upgrade your weapons as you retake the Bullet Express!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221810/2802ec21cfb93b76af99862b0a97618266b69cba/header.jpg?t=1766848977" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221810/2802ec21cfb93b76af99862b0a97618266b69cba/header.jpg?t=1766848977" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221810/2802ec21cfb93b76af99862b0a97618266b69cba/header.jpg?t=1766848977" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221810/2802ec21cfb93b76af99862b0a97618266b69cba/header.jpg?t=1766848977" alt="Bullet Express（新規追加）" /></a></p><p>Merge and upgrade your weapons as you retake the Bullet Express!</p><p><a href="https://store.steampowered.com/app/4221810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
