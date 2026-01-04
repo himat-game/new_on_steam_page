@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 21:46:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 22:17:28 +0000</lastBuildDate>
+<item>
+  <title>101 Cats Hidden in Denmark（新規追加）</title>
+  <link>https://store.steampowered.com/app/4235930/</link>
+  <guid isPermaLink="false">steam-store-published-4235930</guid>
+  <pubDate>Sun, 04 Jan 2026 22:17:28 +0000</pubDate>
+  <description>Join this adventure and discover the hiding places of 101 kittens 🐾 in the hand-crafted Denmark landscape. 🏆 Earn lots of achievements. How many 😺 can you find? 🔎 Be quick! ⏱️</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235930/bd2b2f9275e70f9926cd726d9c2959d66d355557/header.jpg?t=1767564228" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235930/bd2b2f9275e70f9926cd726d9c2959d66d355557/header.jpg?t=1767564228" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235930/bd2b2f9275e70f9926cd726d9c2959d66d355557/header.jpg?t=1767564228" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4235930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235930/bd2b2f9275e70f9926cd726d9c2959d66d355557/header.jpg?t=1767564228" alt="101 Cats Hidden in Denmark（新規追加）" /></a></p><p>Join this adventure and discover the hiding places of 101 kittens 🐾 in the hand-crafted Denmark landscape. 🏆 Earn lots of achievements. How many 😺 can you find? 🔎 Be quick! ⏱️</p><p><a href="https://store.steampowered.com/app/4235930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Northern Lighthouse（新規追加）</title>
   <link>https://store.steampowered.com/app/4283130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187650/8a2fb9734d5064f393cbd295c161f0720edbd18b/header.jpg?t=1766915784" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187650/8a2fb9734d5064f393cbd295c161f0720edbd18b/header.jpg?t=1766915784" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3187650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3187650/8a2fb9734d5064f393cbd295c161f0720edbd18b/header.jpg?t=1766915784" alt="Jigrift（新規追加）" /></a></p><p>Leap and swing around the lost tropical paradise of Jigrift as you assemble the island like a massive jigsaw puzzle.</p><p><a href="https://store.steampowered.com/app/3187650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>it&#x27;s solitaire（新規追加）</title>
-  <link>https://store.steampowered.com/app/3912770/</link>
-  <guid isPermaLink="false">steam-store-published-3912770</guid>
-  <pubDate>Sun, 28 Dec 2025 08:53:24 +0000</pubDate>
-  <description>it&#x27;s solitaire. draw cards, sort cards, pack cards, earn gems, relax. you know this game. it&#x27;s solitaire!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3912770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912770/7aae81efa71fc6612f62c952e4478ae77bb82ebc/header.jpg?t=1766910533" alt="it&#x27;s solitaire（新規追加）" /></a></p><p>it&#x27;s solitaire. draw cards, sort cards, pack cards, earn gems, relax. you know this game. it&#x27;s solitaire!</p><p><a href="https://store.steampowered.com/app/3912770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
