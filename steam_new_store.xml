@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 17:46:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 18:25:31 +0000</lastBuildDate>
+<item>
+  <title>Grotto Escape（新規追加）</title>
+  <link>https://store.steampowered.com/app/3433190/</link>
+  <guid isPermaLink="false">steam-store-published-3433190</guid>
+  <pubDate>Sun, 04 Jan 2026 18:25:31 +0000</pubDate>
+  <description>You play as a SF character facing Heroic Fantasy creatures in this Dungeon Crawler with Platformer gameplay.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433190/header.jpg?t=1767550702" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433190/header.jpg?t=1767550702" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433190/header.jpg?t=1767550702" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3433190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433190/header.jpg?t=1767550702" alt="Grotto Escape（新規追加）" /></a></p><p>You play as a SF character facing Heroic Fantasy creatures in this Dungeon Crawler with Platformer gameplay.</p><p><a href="https://store.steampowered.com/app/3433190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Smol Toad（新規追加）</title>
   <link>https://store.steampowered.com/app/4230130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4182690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182690/555bb972bcb481624202d3c0537c764771cd5b1a/header.jpg?t=1766907937" alt="Love on the Approach（新規追加）" /></a></p><p>You are the new manager of a university women&#x27;s volleyball team. Build deep relationships with the unique players through your choices, guiding them to victory on the court and exploring personal, mature connections off the court in this adult romantic visual novel.</p><p><a href="https://store.steampowered.com/app/4182690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beef（新規追加）</title>
-  <link>https://store.steampowered.com/app/4267970/</link>
-  <guid isPermaLink="false">steam-store-published-4267970</guid>
-  <pubDate>Sun, 28 Dec 2025 07:20:56 +0000</pubDate>
-  <description>Clock in and discover the dark secret behind one of the world’s favorite canned meat brand in Beef, a surreal horror experience like no other.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4267970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267970/1ce12d7c28ca762a78344beeb40ccee9ebc3f8cb/header.jpg?t=1766905583" alt="Beef（新規追加）" /></a></p><p>Clock in and discover the dark secret behind one of the world’s favorite canned meat brand in Beef, a surreal horror experience like no other.</p><p><a href="https://store.steampowered.com/app/4267970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
