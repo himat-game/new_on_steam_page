@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 06:57:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 08:24:09 +0000</lastBuildDate>
+<item>
+  <title>Basement To The Sky（新規追加）</title>
+  <link>https://store.steampowered.com/app/4258880/</link>
+  <guid isPermaLink="false">steam-store-published-4258880</guid>
+  <pubDate>Sun, 04 Jan 2026 08:24:09 +0000</pubDate>
+  <description>A bright afternoon, perfect weather. With your parents away, you’re left with a rocket toy you received as a birthday gift. Build your own rocket and launch it high into the sky! Enjoy delicious homemade meals and work part-time jobs to upgrade your rocket. Can your rocket reach outer space?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" alt="Basement To The Sky（新規追加）" /></a></p><p>A bright afternoon, perfect weather. With your parents away, you’re left with a rocket toy you received as a birthday gift. Build your own rocket and launch it high into the sky! Enjoy delicious homemade meals and work part-time jobs to upgrade your rocket. Can your rocket reach outer space?</p><p><a href="https://store.steampowered.com/app/4258880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Just Kill It（新規追加）</title>
   <link>https://store.steampowered.com/app/4258050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262600/c5b5e9f7447a673b516134b2b83cc9616459016b/header.jpg?t=1766870361" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262600/c5b5e9f7447a673b516134b2b83cc9616459016b/header.jpg?t=1766870361" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262600/c5b5e9f7447a673b516134b2b83cc9616459016b/header.jpg?t=1766870361" alt="The Dagby Files（新規追加）" /></a></p><p>Assemble beautiful hand-illustrated jigsaw puzzles to unveil the clues as intrepid Inspector Dagby investigates dastardly crimes. Listen in as Dagby questions the suspects. Then solve the case yourself! Seven perplexing mysteries await. Features 28 brand-new illustrations from artist Dave Montes. </p><p><a href="https://store.steampowered.com/app/4262600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Star and Serpent Solitaire（新規追加）</title>
-  <link>https://store.steampowered.com/app/4265330/</link>
-  <guid isPermaLink="false">steam-store-published-4265330</guid>
-  <pubDate>Sat, 27 Dec 2025 20:19:31 +0000</pubDate>
-  <description>A modern take on the classic game, based on Tarot.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265330/3a5b4bcb39a65af6bfda2194a68d3d3c10f470e1/header.jpg?t=1766865804" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265330/3a5b4bcb39a65af6bfda2194a68d3d3c10f470e1/header.jpg?t=1766865804" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265330/3a5b4bcb39a65af6bfda2194a68d3d3c10f470e1/header.jpg?t=1766865804" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4265330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265330/3a5b4bcb39a65af6bfda2194a68d3d3c10f470e1/header.jpg?t=1766865804" alt="Star and Serpent Solitaire（新規追加）" /></a></p><p>A modern take on the classic game, based on Tarot.</p><p><a href="https://store.steampowered.com/app/4265330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
