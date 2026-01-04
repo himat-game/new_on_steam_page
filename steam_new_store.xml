@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 11:45:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 12:35:51 +0000</lastBuildDate>
+<item>
+  <title>Welcome Demon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4266020/</link>
+  <guid isPermaLink="false">steam-store-published-4266020</guid>
+  <pubDate>Sun, 04 Jan 2026 12:35:51 +0000</pubDate>
+  <description>You are a dungeon warden. Sitting in the chair of the previous warden you killed, you must cleanse yourself of your sins within 666 hours. Place the incoming demons into six different dungeons based on your information, intuition, and limited resources.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266020/cf87b111520038e569737afdd19535d16bc8ca5a/header.jpg?t=1767528737" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266020/cf87b111520038e569737afdd19535d16bc8ca5a/header.jpg?t=1767528737" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266020/cf87b111520038e569737afdd19535d16bc8ca5a/header.jpg?t=1767528737" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266020/cf87b111520038e569737afdd19535d16bc8ca5a/header.jpg?t=1767528737" alt="Welcome Demon（新規追加）" /></a></p><p>You are a dungeon warden. Sitting in the chair of the previous warden you killed, you must cleanse yourself of your sins within 666 hours. Place the incoming demons into six different dungeons based on your information, intuition, and limited resources.</p><p><a href="https://store.steampowered.com/app/4266020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Smart Lab（新規追加）</title>
   <link>https://store.steampowered.com/app/4282200/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260540/110b5bb013cff372e5a6127b8e74c3946213d69d/header.jpg?t=1766879779" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260540/110b5bb013cff372e5a6127b8e74c3946213d69d/header.jpg?t=1766879779" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260540/110b5bb013cff372e5a6127b8e74c3946213d69d/header.jpg?t=1766879779" alt="Sacred Angel Crossnia Heart（新規追加）" /></a></p><p>In this adventure game with RPG elements, play as a boy Batsu, who awakens reborn as the heroine Crossnia Heart. Transform, battle the evil organization called Despercoia, absorb their power to upgrade your suit, and protect the city from the crime!</p><p><a href="https://store.steampowered.com/app/4260540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Alchemy Tunes（新規追加）</title>
-  <link>https://store.steampowered.com/app/4241880/</link>
-  <guid isPermaLink="false">steam-store-published-4241880</guid>
-  <pubDate>Sun, 28 Dec 2025 01:41:36 +0000</pubDate>
-  <description>Alchemy Tunes is a delivery co-op game, cook with friends, deliver potions to nomads and survive the hardships of the vast desert.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241880/05df41fc73d79e6ae0371f4d40a2d89736d37a08/header.jpg?t=1766884807" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241880/05df41fc73d79e6ae0371f4d40a2d89736d37a08/header.jpg?t=1766884807" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241880/05df41fc73d79e6ae0371f4d40a2d89736d37a08/header.jpg?t=1766884807" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241880/05df41fc73d79e6ae0371f4d40a2d89736d37a08/header.jpg?t=1766884807" alt="Alchemy Tunes（新規追加）" /></a></p><p>Alchemy Tunes is a delivery co-op game, cook with friends, deliver potions to nomads and survive the hardships of the vast desert.</p><p><a href="https://store.steampowered.com/app/4241880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
