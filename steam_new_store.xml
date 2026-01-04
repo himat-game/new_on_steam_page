@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 08:24:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 08:54:00 +0000</lastBuildDate>
+<item>
+  <title>The Devil Card（新規追加）</title>
+  <link>https://store.steampowered.com/app/3968080/</link>
+  <guid isPermaLink="false">steam-store-published-3968080</guid>
+  <pubDate>Sun, 04 Jan 2026 08:54:00 +0000</pubDate>
+  <description>A card battle game inspired by Final Fantasy VIII’s Triple Triad. Select 5 cards and place them on the Grid. Flip opponent cards to win, collect them, and progress through the story. Defeat the Devil to earn his soul card and complete the campaign, or play with custom rules in Freeplay mode.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968080/ad3d9bfea5214bc6296385101e313ed9a94e4066/header.jpg?t=1767503827" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968080/ad3d9bfea5214bc6296385101e313ed9a94e4066/header.jpg?t=1767503827" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968080/ad3d9bfea5214bc6296385101e313ed9a94e4066/header.jpg?t=1767503827" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3968080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3968080/ad3d9bfea5214bc6296385101e313ed9a94e4066/header.jpg?t=1767503827" alt="The Devil Card（新規追加）" /></a></p><p>A card battle game inspired by Final Fantasy VIII’s Triple Triad. Select 5 cards and place them on the Grid. Flip opponent cards to win, collect them, and progress through the story. Defeat the Devil to earn his soul card and complete the campaign, or play with custom rules in Freeplay mode.</p><p><a href="https://store.steampowered.com/app/3968080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Infinity Battle（新規追加）</title>
+  <link>https://store.steampowered.com/app/4143370/</link>
+  <guid isPermaLink="false">steam-store-published-4143370</guid>
+  <pubDate>Sun, 04 Jan 2026 08:54:00 +0000</pubDate>
+  <description>Infinity Battle is a 2D side-scroller game where you, as a spaceship navigator, destroy hordes of alien ships and collect power-ups, upgrade your ship, and customize your weapons.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143370/75d93478d0c5328029c4cc075b044cace0b8d650/header.jpg?t=1767515277" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143370/75d93478d0c5328029c4cc075b044cace0b8d650/header.jpg?t=1767515277" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143370/75d93478d0c5328029c4cc075b044cace0b8d650/header.jpg?t=1767515277" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4143370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143370/75d93478d0c5328029c4cc075b044cace0b8d650/header.jpg?t=1767515277" alt="Infinity Battle（新規追加）" /></a></p><p>Infinity Battle is a 2D side-scroller game where you, as a spaceship navigator, destroy hordes of alien ships and collect power-ups, upgrade your ship, and customize your weapons.</p><p><a href="https://store.steampowered.com/app/4143370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Basement To The Sky（新規追加）</title>
   <link>https://store.steampowered.com/app/4258880/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692520/de911cb943d8eb452afadb01860f9dd21d64f6e3/header.jpg?t=1766869811" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692520/de911cb943d8eb452afadb01860f9dd21d64f6e3/header.jpg?t=1766869811" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2692520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692520/de911cb943d8eb452afadb01860f9dd21d64f6e3/header.jpg?t=1766869811" alt="Project BLACKNODE（新規追加）" /></a></p><p>A post-apocalyptic earth leaves survivors locked inside bunkers. The only way to get supplies to each other is done by couriers, those who operate drones throughout the wasteland filled with hostile AI.</p><p><a href="https://store.steampowered.com/app/2692520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>My Tiny Grocery Store - Desktop Idle Supermarket Game（新規追加）</title>
-  <link>https://store.steampowered.com/app/4275130/</link>
-  <guid isPermaLink="false">steam-store-published-4275130</guid>
-  <pubDate>Sat, 27 Dec 2025 21:45:37 +0000</pubDate>
-  <description>My Tiny Grocery Store is an idle shopping simulator located in the bottom right corner of your screen that allows you to manage your store while also completing other tasks! Design your store, arrange your shelves, and enjoy earning money.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275130/760b40381d1e4d35eca58d719c05ec0dd5b66092/header.jpg?t=1766869320" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275130/760b40381d1e4d35eca58d719c05ec0dd5b66092/header.jpg?t=1766869320" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275130/760b40381d1e4d35eca58d719c05ec0dd5b66092/header.jpg?t=1766869320" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275130/760b40381d1e4d35eca58d719c05ec0dd5b66092/header.jpg?t=1766869320" alt="My Tiny Grocery Store - Desktop Idle Supermarket Game（新規追加）" /></a></p><p>My Tiny Grocery Store is an idle shopping simulator located in the bottom right corner of your screen that allows you to manage your store while also completing other tasks! Design your store, arrange your shelves, and enjoy earning money.</p><p><a href="https://store.steampowered.com/app/4275130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Dagby Files（新規追加）</title>
-  <link>https://store.steampowered.com/app/4262600/</link>
-  <guid isPermaLink="false">steam-store-published-4262600</guid>
-  <pubDate>Sat, 27 Dec 2025 21:45:37 +0000</pubDate>
-  <description>Assemble beautiful hand-illustrated jigsaw puzzles to unveil the clues as intrepid Inspector Dagby investigates dastardly crimes. Listen in as Dagby questions the suspects. Then solve the case yourself! Seven perplexing mysteries await. Features 28 brand-new illustrations from artist Dave Montes. </description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262600/c5b5e9f7447a673b516134b2b83cc9616459016b/header.jpg?t=1766870361" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262600/c5b5e9f7447a673b516134b2b83cc9616459016b/header.jpg?t=1766870361" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262600/c5b5e9f7447a673b516134b2b83cc9616459016b/header.jpg?t=1766870361" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262600/c5b5e9f7447a673b516134b2b83cc9616459016b/header.jpg?t=1766870361" alt="The Dagby Files（新規追加）" /></a></p><p>Assemble beautiful hand-illustrated jigsaw puzzles to unveil the clues as intrepid Inspector Dagby investigates dastardly crimes. Listen in as Dagby questions the suspects. Then solve the case yourself! Seven perplexing mysteries await. Features 28 brand-new illustrations from artist Dave Montes. </p><p><a href="https://store.steampowered.com/app/4262600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
