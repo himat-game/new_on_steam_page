@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 23:48:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 01:43:01 +0000</lastBuildDate>
+<item>
+  <title>Legend of YMIR（新規追加）</title>
+  <link>https://store.steampowered.com/app/4172530/</link>
+  <guid isPermaLink="false">steam-store-published-4172530</guid>
+  <pubDate>Mon, 05 Jan 2026 01:43:01 +0000</pubDate>
+  <description>Forge your destiny in Legend of YMIR, a next-generation MMORPG inspired by Norse mythology and powered by Unreal Engine 5. Master skill-based combat, lead your clan to glory in massive server wars, and carve your name among the legends.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172530/b24ca14ad3a67f243f69e2b38b01cc73af7be261/header.jpg?t=1767576091" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172530/b24ca14ad3a67f243f69e2b38b01cc73af7be261/header.jpg?t=1767576091" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172530/b24ca14ad3a67f243f69e2b38b01cc73af7be261/header.jpg?t=1767576091" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4172530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172530/b24ca14ad3a67f243f69e2b38b01cc73af7be261/header.jpg?t=1767576091" alt="Legend of YMIR（新規追加）" /></a></p><p>Forge your destiny in Legend of YMIR, a next-generation MMORPG inspired by Norse mythology and powered by Unreal Engine 5. Master skill-based combat, lead your clan to glory in massive server wars, and carve your name among the legends.</p><p><a href="https://store.steampowered.com/app/4172530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DREADMARCH（新規追加）</title>
   <link>https://store.steampowered.com/app/4285180/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165340/966f253145c9441e3b41bfb76295f7e07f8de75f/header.jpg?t=1766920489" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165340/966f253145c9441e3b41bfb76295f7e07f8de75f/header.jpg?t=1766920489" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4165340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165340/966f253145c9441e3b41bfb76295f7e07f8de75f/header.jpg?t=1766920489" alt="Blades or Bets（新規追加）" /></a></p><p>Survive the ambush and become the Steward of ruined Corvarg. A tactical FPP RPG blending dungeon crawling with deep HnS loot and brutal city management. Fight turn-based battles, rebuild your town, and gamble your fate to satisfy the Tyrant King’s demands.</p><p><a href="https://store.steampowered.com/app/4165340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Preset Rocket Plan（新規追加）</title>
-  <link>https://store.steampowered.com/app/4123210/</link>
-  <guid isPermaLink="false">steam-store-published-4123210</guid>
-  <pubDate>Sun, 28 Dec 2025 11:45:22 +0000</pubDate>
-  <description>A rocket simulation game inspired by SpaceX&#x27;s rocket recovery technology: Precisely control rocket engines, plan launches, complete missions, secure government funding, deliver supplies to Mars, and ultimately achieve Mars terraforming and human colonization.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123210/cf3c01bbdc9b3ba148dc57692c883ed197ae4c5d/header.jpg?t=1766922188" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123210/cf3c01bbdc9b3ba148dc57692c883ed197ae4c5d/header.jpg?t=1766922188" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123210/cf3c01bbdc9b3ba148dc57692c883ed197ae4c5d/header.jpg?t=1766922188" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123210/cf3c01bbdc9b3ba148dc57692c883ed197ae4c5d/header.jpg?t=1766922188" alt="Preset Rocket Plan（新規追加）" /></a></p><p>A rocket simulation game inspired by SpaceX&#x27;s rocket recovery technology: Precisely control rocket engines, plan launches, complete missions, secure government funding, deliver supplies to Mars, and ultimately achieve Mars terraforming and human colonization.</p><p><a href="https://store.steampowered.com/app/4123210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
