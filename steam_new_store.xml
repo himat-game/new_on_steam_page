@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 15:21:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 15:52:38 +0000</lastBuildDate>
+<item>
+  <title>Cursed Ghost（新規追加）</title>
+  <link>https://store.steampowered.com/app/4276220/</link>
+  <guid isPermaLink="false">steam-store-published-4276220</guid>
+  <pubDate>Mon, 05 Jan 2026 15:52:38 +0000</pubDate>
+  <description>Once a ghost, now trapped in flesh—avoid every obstacle, evade human eyes, and use brief moments of spectral freedom to find your way out.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276220/f9e97b5e5dcfa03ea2f89c4c8e5c0eab711ec911/header.jpg?t=1767627868" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276220/f9e97b5e5dcfa03ea2f89c4c8e5c0eab711ec911/header.jpg?t=1767627868" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276220/f9e97b5e5dcfa03ea2f89c4c8e5c0eab711ec911/header.jpg?t=1767627868" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276220/f9e97b5e5dcfa03ea2f89c4c8e5c0eab711ec911/header.jpg?t=1767627868" alt="Cursed Ghost（新規追加）" /></a></p><p>Once a ghost, now trapped in flesh—avoid every obstacle, evade human eyes, and use brief moments of spectral freedom to find your way out.</p><p><a href="https://store.steampowered.com/app/4276220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Skyward Bastion（新規追加）</title>
+  <link>https://store.steampowered.com/app/3682650/</link>
+  <guid isPermaLink="false">steam-store-published-3682650</guid>
+  <pubDate>Mon, 05 Jan 2026 15:52:38 +0000</pubDate>
+  <description>Skyward Bastion is a tower defense roguelite set on floating islands. Build and upgrade your defenses, survive endless waves of enemies, and explore procedurally expanding maps under a living day-night cycle.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682650/2da7d7a767d35acdc5f96aeabfcfbb6f4bfe2f79/header.jpg?t=1767627818" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682650/2da7d7a767d35acdc5f96aeabfcfbb6f4bfe2f79/header.jpg?t=1767627818" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682650/2da7d7a767d35acdc5f96aeabfcfbb6f4bfe2f79/header.jpg?t=1767627818" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3682650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682650/2da7d7a767d35acdc5f96aeabfcfbb6f4bfe2f79/header.jpg?t=1767627818" alt="Skyward Bastion（新規追加）" /></a></p><p>Skyward Bastion is a tower defense roguelite set on floating islands. Build and upgrade your defenses, survive endless waves of enemies, and explore procedurally expanding maps under a living day-night cycle.</p><p><a href="https://store.steampowered.com/app/3682650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Martyr（新規追加）</title>
   <link>https://store.steampowered.com/app/4285280/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356640/51ed977d19749ddb7e72b59f3bf5460585216078/header.jpg?t=1766965117" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356640/51ed977d19749ddb7e72b59f3bf5460585216078/header.jpg?t=1766965117" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3356640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356640/51ed977d19749ddb7e72b59f3bf5460585216078/header.jpg?t=1766965117" alt="CDL for a UFO（新規追加）" /></a></p><p>Play as a starship captain who is woefully unqualified for the job. With an unfamiliar control panel in front of you, all 45 keys of your keyboard are randomized at the start of every attempt. Guide your ship through a variety of obstacles in an attempt to make it to your destination in one piece.</p><p><a href="https://store.steampowered.com/app/3356640/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Orienteering VR（新規追加）</title>
-  <link>https://store.steampowered.com/app/3633860/</link>
-  <guid isPermaLink="false">steam-store-published-3633860</guid>
-  <pubDate>Sun, 28 Dec 2025 23:47:39 +0000</pubDate>
-  <description>Become the best orienteer and conquer the difficult forest. Navigate through tricky terrain and finish the route with the best time!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633860/301760cac759c21335172c80b4dcb20cc205b404/header.jpg?t=1766963696" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633860/301760cac759c21335172c80b4dcb20cc205b404/header.jpg?t=1766963696" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633860/301760cac759c21335172c80b4dcb20cc205b404/header.jpg?t=1766963696" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3633860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3633860/301760cac759c21335172c80b4dcb20cc205b404/header.jpg?t=1766963696" alt="Orienteering VR（新規追加）" /></a></p><p>Become the best orienteer and conquer the difficult forest. Navigate through tricky terrain and finish the route with the best time!</p><p><a href="https://store.steampowered.com/app/3633860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Whiskers In The Sand（新規追加）</title>
-  <link>https://store.steampowered.com/app/4221330/</link>
-  <guid isPermaLink="false">steam-store-published-4221330</guid>
-  <pubDate>Sun, 28 Dec 2025 23:47:39 +0000</pubDate>
-  <description>Dive into the desert to shred through waves of undead and sand-born horrors. Whiskers In The Sand mixes survivors-like arena combat with roguelite buildcrafting — unlock new cats, gather relics, stack upgrades, and forge ridiculous builds. Experiment, survive, and end the pharaoh’s second reign.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221330/14e8cc9a24bf86395cf77b77b55413d3f7cc5212/header.jpg?t=1766965566" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221330/14e8cc9a24bf86395cf77b77b55413d3f7cc5212/header.jpg?t=1766965566" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221330/14e8cc9a24bf86395cf77b77b55413d3f7cc5212/header.jpg?t=1766965566" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221330/14e8cc9a24bf86395cf77b77b55413d3f7cc5212/header.jpg?t=1766965566" alt="Whiskers In The Sand（新規追加）" /></a></p><p>Dive into the desert to shred through waves of undead and sand-born horrors. Whiskers In The Sand mixes survivors-like arena combat with roguelite buildcrafting — unlock new cats, gather relics, stack upgrades, and forge ridiculous builds. Experiment, survive, and end the pharaoh’s second reign.</p><p><a href="https://store.steampowered.com/app/4221330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
