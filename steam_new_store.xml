@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 04:55:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 05:33:27 +0000</lastBuildDate>
+<item>
+  <title>Always Bet on Quack（新規追加）</title>
+  <link>https://store.steampowered.com/app/3882040/</link>
+  <guid isPermaLink="false">steam-store-published-3882040</guid>
+  <pubDate>Mon, 05 Jan 2026 05:33:27 +0000</pubDate>
+  <description>Gamble with your friends, as ducks! Customize your bird, win chips in fun takes on casino classics, and strut your way up the leaderboard. No microtransactions required. Just feathers, fun, and a whole lot of quacking.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882040/f74dcd012489e1a552898e8248cbe39140c70870/header.jpg?t=1767591098" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882040/f74dcd012489e1a552898e8248cbe39140c70870/header.jpg?t=1767591098" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882040/f74dcd012489e1a552898e8248cbe39140c70870/header.jpg?t=1767591098" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3882040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3882040/f74dcd012489e1a552898e8248cbe39140c70870/header.jpg?t=1767591098" alt="Always Bet on Quack（新規追加）" /></a></p><p>Gamble with your friends, as ducks! Customize your bird, win chips in fun takes on casino classics, and strut your way up the leaderboard. No microtransactions required. Just feathers, fun, and a whole lot of quacking.</p><p><a href="https://store.steampowered.com/app/3882040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cats Around Us: Yarn Ball（新規追加）</title>
   <link>https://store.steampowered.com/app/4255190/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260150/f561b4d1fd100048639405d24056c047a6584b09/header.jpg?t=1766925174" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260150/f561b4d1fd100048639405d24056c047a6584b09/header.jpg?t=1766925174" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260150/f561b4d1fd100048639405d24056c047a6584b09/header.jpg?t=1766925174" alt="Aevum（新規追加）" /></a></p><p>Aevum is a short atmospheric platforming journey about atrophy, loss, and acceptance. Help a young moth to follow the light, don&#x27;t lose hope as your powers wane and find new ways to navigate this visually stunning, hand-crafted reverse metroidvania.</p><p><a href="https://store.steampowered.com/app/4260150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ghosts With Hats（新規追加）</title>
-  <link>https://store.steampowered.com/app/4040130/</link>
-  <guid isPermaLink="false">steam-store-published-4040130</guid>
-  <pubDate>Sun, 28 Dec 2025 12:35:49 +0000</pubDate>
-  <description>Ghosts With Hats is a fast-paced top-down arcade racing game where ghosts compete on dynamic tracks. Collect relics, upgrade your unique character, and dash to victory!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4040130/3d9ff251a3fbac7060a526c09fdb5612c069da9b/header.jpg?t=1766923437" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4040130/3d9ff251a3fbac7060a526c09fdb5612c069da9b/header.jpg?t=1766923437" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4040130/3d9ff251a3fbac7060a526c09fdb5612c069da9b/header.jpg?t=1766923437" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4040130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4040130/3d9ff251a3fbac7060a526c09fdb5612c069da9b/header.jpg?t=1766923437" alt="Ghosts With Hats（新規追加）" /></a></p><p>Ghosts With Hats is a fast-paced top-down arcade racing game where ghosts compete on dynamic tracks. Collect relics, upgrade your unique character, and dash to victory!</p><p><a href="https://store.steampowered.com/app/4040130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
