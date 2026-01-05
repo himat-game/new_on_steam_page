@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 12:41:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 14:00:03 +0000</lastBuildDate>
+<item>
+  <title>Slide &amp; Magic（新規追加）</title>
+  <link>https://store.steampowered.com/app/4096950/</link>
+  <guid isPermaLink="false">steam-store-published-4096950</guid>
+  <pubDate>Mon, 05 Jan 2026 14:00:03 +0000</pubDate>
+  <description>An old wizard needs your help to gather all the crystals hidden deep within magical dungeons. Slide every object at once, outwit magical chambers, and crack 200+ puzzles inspired by Sokoban and 2048.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096950/22c88e699e1e16ec98353dab9af022689360d707/header.jpg?t=1767620713" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096950/22c88e699e1e16ec98353dab9af022689360d707/header.jpg?t=1767620713" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096950/22c88e699e1e16ec98353dab9af022689360d707/header.jpg?t=1767620713" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4096950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096950/22c88e699e1e16ec98353dab9af022689360d707/header.jpg?t=1767620713" alt="Slide &amp; Magic（新規追加）" /></a></p><p>An old wizard needs your help to gather all the crystals hidden deep within magical dungeons. Slide every object at once, outwit magical chambers, and crack 200+ puzzles inspired by Sokoban and 2048.</p><p><a href="https://store.steampowered.com/app/4096950/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hocus Focus（新規追加）</title>
   <link>https://store.steampowered.com/app/4202710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224080/ad9deb03cbf898c53eb0a998ea6678711bbc0dc6/header.jpg?t=1766948354" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224080/ad9deb03cbf898c53eb0a998ea6678711bbc0dc6/header.jpg?t=1766948354" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224080/ad9deb03cbf898c53eb0a998ea6678711bbc0dc6/header.jpg?t=1766948354" alt="White Memories（新規追加）" /></a></p><p>Take the mantle of a postman who refuses to give up his job, even after death. Clinging to your last memory, take off into the world of the forgotten to deliver your letters to the ghosts that are stuck there, allowing them to reach the afterlife. Protect your mail from those who are pursuing you.</p><p><a href="https://store.steampowered.com/app/4224080/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Insanity Path（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258590/</link>
-  <guid isPermaLink="false">steam-store-published-4258590</guid>
-  <pubDate>Sun, 28 Dec 2025 18:55:21 +0000</pubDate>
-  <description>A plague spreads alongside a spree of sudden disappearances... You don&#x27;t need more to get on with your adventure. Step into the world of an Auto-battler Roguelite, where each of your mistakes will send you further down the path of Insanity. Will you be able to free the forest from this tragic curse?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258590/2ffd6449370b74065f9b43a755f5b02b241d0a23/header.jpg?t=1766946667" alt="Insanity Path（新規追加）" /></a></p><p>A plague spreads alongside a spree of sudden disappearances... You don&#x27;t need more to get on with your adventure. Step into the world of an Auto-battler Roguelite, where each of your mistakes will send you further down the path of Insanity. Will you be able to free the forest from this tragic curse?</p><p><a href="https://store.steampowered.com/app/4258590/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
