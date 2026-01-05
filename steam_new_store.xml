@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 04 Jan 2026 22:52:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Jan 2026 23:48:09 +0000</lastBuildDate>
+<item>
+  <title>DREADMARCH（新規追加）</title>
+  <link>https://store.steampowered.com/app/4285180/</link>
+  <guid isPermaLink="false">steam-store-published-4285180</guid>
+  <pubDate>Sun, 04 Jan 2026 23:48:09 +0000</pubDate>
+  <description>From the Celestial Bastion, send heroes across a Might &amp;amp; Magic–style world map and survive endless waves of infernal enemies in brutal combat grounds. Grow stronger between runs and hold the line against the Dreadmarch.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285180/6422421497274e0e35248b8f3c209fe347e1c108/header.jpg?t=1767567647" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285180/6422421497274e0e35248b8f3c209fe347e1c108/header.jpg?t=1767567647" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285180/6422421497274e0e35248b8f3c209fe347e1c108/header.jpg?t=1767567647" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285180/6422421497274e0e35248b8f3c209fe347e1c108/header.jpg?t=1767567647" alt="DREADMARCH（新規追加）" /></a></p><p>From the Celestial Bastion, send heroes across a Might &amp;amp; Magic–style world map and survive endless waves of infernal enemies in brutal combat grounds. Grow stronger between runs and hold the line against the Dreadmarch.</p><p><a href="https://store.steampowered.com/app/4285180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Break Protocol（新規追加）</title>
   <link>https://store.steampowered.com/app/4277550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123210/cf3c01bbdc9b3ba148dc57692c883ed197ae4c5d/header.jpg?t=1766922188" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123210/cf3c01bbdc9b3ba148dc57692c883ed197ae4c5d/header.jpg?t=1766922188" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123210/cf3c01bbdc9b3ba148dc57692c883ed197ae4c5d/header.jpg?t=1766922188" alt="Preset Rocket Plan（新規追加）" /></a></p><p>A rocket simulation game inspired by SpaceX&#x27;s rocket recovery technology: Precisely control rocket engines, plan launches, complete missions, secure government funding, deliver supplies to Mars, and ultimately achieve Mars terraforming and human colonization.</p><p><a href="https://store.steampowered.com/app/4123210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tower of Lust（新規追加）</title>
-  <link>https://store.steampowered.com/app/4075060/</link>
-  <guid isPermaLink="false">steam-store-published-4075060</guid>
-  <pubDate>Sun, 28 Dec 2025 11:45:22 +0000</pubDate>
-  <description>Tower of Lust is a high-speed, 3D side-scrolling action game where you take on a colossal tower and its mysterious forces to rescue your kidnapped friend. Master timed attacks and dodges in fast-paced combat against a wide variety of enemies and challenging bosses.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075060/b67a2dbd9d6760f702de6b61a16d911a543fe617/header.jpg?t=1766920619" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075060/b67a2dbd9d6760f702de6b61a16d911a543fe617/header.jpg?t=1766920619" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075060/b67a2dbd9d6760f702de6b61a16d911a543fe617/header.jpg?t=1766920619" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4075060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075060/b67a2dbd9d6760f702de6b61a16d911a543fe617/header.jpg?t=1766920619" alt="Tower of Lust（新規追加）" /></a></p><p>Tower of Lust is a high-speed, 3D side-scrolling action game where you take on a colossal tower and its mysterious forces to rescue your kidnapped friend. Master timed attacks and dodges in fast-paced combat against a wide variety of enemies and challenging bosses.</p><p><a href="https://store.steampowered.com/app/4075060/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
