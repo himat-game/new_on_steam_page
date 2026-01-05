@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 05:33:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 10:22:22 +0000</lastBuildDate>
+<item>
+  <title>Echoes of Fear（新規追加）</title>
+  <link>https://store.steampowered.com/app/3963840/</link>
+  <guid isPermaLink="false">steam-store-published-3963840</guid>
+  <pubDate>Mon, 05 Jan 2026 10:22:22 +0000</pubDate>
+  <description>Record. Research. Survive! Trapped in a research complex that bends mind and space, every choice shapes your fate in this turn-based survival horror RPG where unspeakable horrors lurk in fractured space.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963840/f0b2e133bd7dc53791b286b85a61ae47007a559c/header.jpg?t=1767607621" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963840/f0b2e133bd7dc53791b286b85a61ae47007a559c/header.jpg?t=1767607621" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963840/f0b2e133bd7dc53791b286b85a61ae47007a559c/header.jpg?t=1767607621" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3963840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963840/f0b2e133bd7dc53791b286b85a61ae47007a559c/header.jpg?t=1767607621" alt="Echoes of Fear（新規追加）" /></a></p><p>Record. Research. Survive! Trapped in a research complex that bends mind and space, every choice shapes your fate in this turn-based survival horror RPG where unspeakable horrors lurk in fractured space.</p><p><a href="https://store.steampowered.com/app/3963840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Always Bet on Quack（新規追加）</title>
   <link>https://store.steampowered.com/app/3882040/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" alt="outpost4（新規追加）" /></a></p><p>Outpost 4 is a 2D cartoon-style idle resource management game focused on combat and progression. You will take your mobile base across different alien planets, each with its own unique enemies to conquer. With 20+ weapons and 100+ items, you can freely combine builds and create your own style</p><p><a href="https://store.steampowered.com/app/4271680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Aevum（新規追加）</title>
-  <link>https://store.steampowered.com/app/4260150/</link>
-  <guid isPermaLink="false">steam-store-published-4260150</guid>
-  <pubDate>Sun, 28 Dec 2025 13:16:41 +0000</pubDate>
-  <description>Aevum is a short atmospheric platforming journey about atrophy, loss, and acceptance. Help a young moth to follow the light, don&#x27;t lose hope as your powers wane and find new ways to navigate this visually stunning, hand-crafted reverse metroidvania.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260150/f561b4d1fd100048639405d24056c047a6584b09/header.jpg?t=1766925174" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260150/f561b4d1fd100048639405d24056c047a6584b09/header.jpg?t=1766925174" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260150/f561b4d1fd100048639405d24056c047a6584b09/header.jpg?t=1766925174" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260150/f561b4d1fd100048639405d24056c047a6584b09/header.jpg?t=1766925174" alt="Aevum（新規追加）" /></a></p><p>Aevum is a short atmospheric platforming journey about atrophy, loss, and acceptance. Help a young moth to follow the light, don&#x27;t lose hope as your powers wane and find new ways to navigate this visually stunning, hand-crafted reverse metroidvania.</p><p><a href="https://store.steampowered.com/app/4260150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
