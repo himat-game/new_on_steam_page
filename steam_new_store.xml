@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 18:58:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 19:26:01 +0000</lastBuildDate>
+<item>
+  <title>From Devil&#x27;s Womb（新規追加）</title>
+  <link>https://store.steampowered.com/app/4282810/</link>
+  <guid isPermaLink="false">steam-store-published-4282810</guid>
+  <pubDate>Mon, 05 Jan 2026 19:26:01 +0000</pubDate>
+  <description>You are a broken ex–police officer haunted by your partner’s disappearance. A mysterious clue drags you into decaying places infected by a devilish presence, breathing, waiting, watching from the dark. Solve cryptic puzzles, face buried guilt, and uncover a truth that was never meant to surface.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282810/fab787a60feadef9e4b1188519652359ed0ad95b/header.jpg?t=1767636401" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282810/fab787a60feadef9e4b1188519652359ed0ad95b/header.jpg?t=1767636401" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282810/fab787a60feadef9e4b1188519652359ed0ad95b/header.jpg?t=1767636401" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4282810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282810/fab787a60feadef9e4b1188519652359ed0ad95b/header.jpg?t=1767636401" alt="From Devil&#x27;s Womb（新規追加）" /></a></p><p>You are a broken ex–police officer haunted by your partner’s disappearance. A mysterious clue drags you into decaying places infected by a devilish presence, breathing, waiting, watching from the dark. Solve cryptic puzzles, face buried guilt, and uncover a truth that was never meant to surface.</p><p><a href="https://store.steampowered.com/app/4282810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Meow Mages（新規追加）</title>
   <link>https://store.steampowered.com/app/4269020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" alt="Synthetic Orders（新規追加）" /></a></p><p>A quick, hypercasual pattern-memory game. Watch the left-right yellow signals, memorize the sequence, and repeat it using two simple buttons - no grinding, no complex mechanics.</p><p><a href="https://store.steampowered.com/app/4238890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Notebook Battlegrounds（新規追加）</title>
-  <link>https://store.steampowered.com/app/4254250/</link>
-  <guid isPermaLink="false">steam-store-published-4254250</guid>
-  <pubDate>Mon, 29 Dec 2025 07:40:38 +0000</pubDate>
-  <description>A multiplayer game where your voice is the weapon. Play as a random letter and use proximity voice chat to hear nearby players. Say the funny words on your screen to shoot opponents, find secret words for special powers, and battle in Timed Deathmatch or Battle Royale!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4254250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254250/15df41c0dd53bf54bf1b708104b79c7bf69cfcdd/header.jpg?t=1766991889" alt="Notebook Battlegrounds（新規追加）" /></a></p><p>A multiplayer game where your voice is the weapon. Play as a random letter and use proximity voice chat to hear nearby players. Say the funny words on your screen to shoot opponents, find secret words for special powers, and battle in Timed Deathmatch or Battle Royale!</p><p><a href="https://store.steampowered.com/app/4254250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
