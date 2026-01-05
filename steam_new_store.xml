@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 14:55:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 15:21:58 +0000</lastBuildDate>
+<item>
+  <title>Martyr（新規追加）</title>
+  <link>https://store.steampowered.com/app/4285280/</link>
+  <guid isPermaLink="false">steam-store-published-4285280</guid>
+  <pubDate>Mon, 05 Jan 2026 15:21:58 +0000</pubDate>
+  <description>Rise as a martyr in a plague-scarred, heretical Europe. Surrounded by disease, paganism, and relentless foes, you will fall, return as a Shade, and forge power from sacrifice. Death is not the end. Every fall strengthens you, every relic will help you, but enemies will hunt you for your faith.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285280/87a5b6c3a9e6056320b90ce4150ffd73df8e9893/header.jpg?t=1767626361" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285280/87a5b6c3a9e6056320b90ce4150ffd73df8e9893/header.jpg?t=1767626361" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285280/87a5b6c3a9e6056320b90ce4150ffd73df8e9893/header.jpg?t=1767626361" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285280/87a5b6c3a9e6056320b90ce4150ffd73df8e9893/header.jpg?t=1767626361" alt="Martyr（新規追加）" /></a></p><p>Rise as a martyr in a plague-scarred, heretical Europe. Surrounded by disease, paganism, and relentless foes, you will fall, return as a Shade, and forge power from sacrifice. Death is not the end. Every fall strengthens you, every relic will help you, but enemies will hunt you for your faith.</p><p><a href="https://store.steampowered.com/app/4285280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Possessed Kingdom（新規追加）</title>
   <link>https://store.steampowered.com/app/4254920/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221330/14e8cc9a24bf86395cf77b77b55413d3f7cc5212/header.jpg?t=1766965566" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221330/14e8cc9a24bf86395cf77b77b55413d3f7cc5212/header.jpg?t=1766965566" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221330/14e8cc9a24bf86395cf77b77b55413d3f7cc5212/header.jpg?t=1766965566" alt="Whiskers In The Sand（新規追加）" /></a></p><p>Dive into the desert to shred through waves of undead and sand-born horrors. Whiskers In The Sand mixes survivors-like arena combat with roguelite buildcrafting — unlock new cats, gather relics, stack upgrades, and forge ridiculous builds. Experiment, survive, and end the pharaoh’s second reign.</p><p><a href="https://store.steampowered.com/app/4221330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Gardener（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258790/</link>
-  <guid isPermaLink="false">steam-store-published-4258790</guid>
-  <pubDate>Sun, 28 Dec 2025 22:17:24 +0000</pubDate>
-  <description>In this puzzle game you explore a grand garden, discover exotic flora and uncover their rules to solve tile-based lawn mowing puzzles. You play as Hectare who receives a mysterious letter from the missing owner of this garden asking you to tend to the lawns. Solve puzzles and uncover the mystery!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258790/f9088f17383a4c5aa10eb4bb40f24e2fe198764f/header.jpg?t=1766959525" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258790/f9088f17383a4c5aa10eb4bb40f24e2fe198764f/header.jpg?t=1766959525" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258790/f9088f17383a4c5aa10eb4bb40f24e2fe198764f/header.jpg?t=1766959525" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258790/f9088f17383a4c5aa10eb4bb40f24e2fe198764f/header.jpg?t=1766959525" alt="The Gardener（新規追加）" /></a></p><p>In this puzzle game you explore a grand garden, discover exotic flora and uncover their rules to solve tile-based lawn mowing puzzles. You play as Hectare who receives a mysterious letter from the missing owner of this garden asking you to tend to the lawns. Solve puzzles and uncover the mystery!</p><p><a href="https://store.steampowered.com/app/4258790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
