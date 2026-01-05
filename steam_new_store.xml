@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 10:22:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 10:55:18 +0000</lastBuildDate>
+<item>
+  <title>Ever Flip（新規追加）</title>
+  <link>https://store.steampowered.com/app/4279210/</link>
+  <guid isPermaLink="false">steam-store-published-4279210</guid>
+  <pubDate>Mon, 05 Jan 2026 10:55:18 +0000</pubDate>
+  <description>Ever Flip is an incremental coin-flipping game where consecutive 50% chance wins create powerful streaks, bigger rewards, and increasing automation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279210/d5922aa48c7df3ab508ee6d144046ae30ddf15d4/header.jpg?t=1767609730" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279210/d5922aa48c7df3ab508ee6d144046ae30ddf15d4/header.jpg?t=1767609730" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279210/d5922aa48c7df3ab508ee6d144046ae30ddf15d4/header.jpg?t=1767609730" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4279210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279210/d5922aa48c7df3ab508ee6d144046ae30ddf15d4/header.jpg?t=1767609730" alt="Ever Flip（新規追加）" /></a></p><p>Ever Flip is an incremental coin-flipping game where consecutive 50% chance wins create powerful streaks, bigger rewards, and increasing automation.</p><p><a href="https://store.steampowered.com/app/4279210/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Echoes of Fear（新規追加）</title>
   <link>https://store.steampowered.com/app/3963840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187020/e81ce83c83f9941f58f017fe79f4772dc0cb1a47/header.jpg?t=1766929923" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187020/e81ce83c83f9941f58f017fe79f4772dc0cb1a47/header.jpg?t=1766929923" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4187020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187020/e81ce83c83f9941f58f017fe79f4772dc0cb1a47/header.jpg?t=1766929923" alt="Murmurs of the Mist（新規追加）" /></a></p><p>In this game, you’ll encounter puzzles which require you to use your environment in order to solve them. Take note of every detail, they can help you in uncovering Sofia’s story.</p><p><a href="https://store.steampowered.com/app/4187020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>outpost4（新規追加）</title>
-  <link>https://store.steampowered.com/app/4271680/</link>
-  <guid isPermaLink="false">steam-store-published-4271680</guid>
-  <pubDate>Sun, 28 Dec 2025 13:42:47 +0000</pubDate>
-  <description>Outpost 4 is a 2D cartoon-style idle resource management game focused on combat and progression. You will take your mobile base across different alien planets, each with its own unique enemies to conquer. With 20+ weapons and 100+ items, you can freely combine builds and create your own style</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271680/10c31c2939799542a0fba0a845ca00d0cdbf8f12/header.jpg?t=1766928502" alt="outpost4（新規追加）" /></a></p><p>Outpost 4 is a 2D cartoon-style idle resource management game focused on combat and progression. You will take your mobile base across different alien planets, each with its own unique enemies to conquer. With 20+ weapons and 100+ items, you can freely combine builds and create your own style</p><p><a href="https://store.steampowered.com/app/4271680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
