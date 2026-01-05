@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 19:26:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 19:46:24 +0000</lastBuildDate>
+<item>
+  <title>Monster Mercs（新規追加）</title>
+  <link>https://store.steampowered.com/app/4234330/</link>
+  <guid isPermaLink="false">steam-store-published-4234330</guid>
+  <pubDate>Mon, 05 Jan 2026 19:46:24 +0000</pubDate>
+  <description>Transform into the monsters you slay and unleash new spells and abilities. Team up with up to 3 friends, take on unique contracts to get paid, upgrade your character and gear, and unlock powerful transformations in this fast-paced co-op action RPG.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234330/32bd740d159d927b2ff2f01b2f9db3e63a7ee09c/header.jpg?t=1767641248" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234330/32bd740d159d927b2ff2f01b2f9db3e63a7ee09c/header.jpg?t=1767641248" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234330/32bd740d159d927b2ff2f01b2f9db3e63a7ee09c/header.jpg?t=1767641248" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4234330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234330/32bd740d159d927b2ff2f01b2f9db3e63a7ee09c/header.jpg?t=1767641248" alt="Monster Mercs（新規追加）" /></a></p><p>Transform into the monsters you slay and unleash new spells and abilities. Team up with up to 3 friends, take on unique contracts to get paid, upgrade your character and gear, and unlock powerful transformations in this fast-paced co-op action RPG.</p><p><a href="https://store.steampowered.com/app/4234330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>From Devil&#x27;s Womb（新規追加）</title>
   <link>https://store.steampowered.com/app/4282810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072400/9ddae521d4328d3a5920509d2affa065779a4b85/header.jpg?t=1766997498" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072400/9ddae521d4328d3a5920509d2affa065779a4b85/header.jpg?t=1766997498" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4072400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072400/9ddae521d4328d3a5920509d2affa065779a4b85/header.jpg?t=1766997498" alt="Meow Time: cozy cat room（新規追加）" /></a></p><p>Decorate a cozy little room, raise an adorable kitten, and improve your focus with a variety of simple and practical tools. Spend this wonderful time with your cute kitten! The longer you spend with your feline friend, the more surprises await you!</p><p><a href="https://store.steampowered.com/app/4072400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Synthetic Orders（新規追加）</title>
-  <link>https://store.steampowered.com/app/4238890/</link>
-  <guid isPermaLink="false">steam-store-published-4238890</guid>
-  <pubDate>Mon, 29 Dec 2025 08:28:17 +0000</pubDate>
-  <description>A quick, hypercasual pattern-memory game. Watch the left-right yellow signals, memorize the sequence, and repeat it using two simple buttons - no grinding, no complex mechanics.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238890/f4575ff12754528ea59f37c38c15c5ded1ed7cec/header.jpg?t=1766995914" alt="Synthetic Orders（新規追加）" /></a></p><p>A quick, hypercasual pattern-memory game. Watch the left-right yellow signals, memorize the sequence, and repeat it using two simple buttons - no grinding, no complex mechanics.</p><p><a href="https://store.steampowered.com/app/4238890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
