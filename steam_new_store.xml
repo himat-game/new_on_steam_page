@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 21:51:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 22:18:21 +0000</lastBuildDate>
+<item>
+  <title>BREKEKEKEX（新規追加）</title>
+  <link>https://store.steampowered.com/app/4012150/</link>
+  <guid isPermaLink="false">steam-store-published-4012150</guid>
+  <pubDate>Mon, 05 Jan 2026 22:18:21 +0000</pubDate>
+  <description>Hunt frogs, clash with cultists, and survive close-range arena combat in this short, skill-driven swamp adventure.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012150/7a028bfe5c832cc378d616f0128eaff69962e75e/header.jpg?t=1767650408" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012150/7a028bfe5c832cc378d616f0128eaff69962e75e/header.jpg?t=1767650408" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012150/7a028bfe5c832cc378d616f0128eaff69962e75e/header.jpg?t=1767650408" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4012150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4012150/7a028bfe5c832cc378d616f0128eaff69962e75e/header.jpg?t=1767650408" alt="BREKEKEKEX（新規追加）" /></a></p><p>Hunt frogs, clash with cultists, and survive close-range arena combat in this short, skill-driven swamp adventure.</p><p><a href="https://store.steampowered.com/app/4012150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Endless Greed（新規追加）</title>
   <link>https://store.steampowered.com/app/4263250/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274480/d13550ec081879f3311ffa9b43d1a461c3a4aa06/header.jpg?t=1767012771" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274480/d13550ec081879f3311ffa9b43d1a461c3a4aa06/header.jpg?t=1767012771" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4274480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274480/d13550ec081879f3311ffa9b43d1a461c3a4aa06/header.jpg?t=1767012771" alt="DonDonKitchen（新規追加）" /></a></p><p>No more boring cooking—chop, season, and flip the pan to the beat, and turn cooking into your very own show!</p><p><a href="https://store.steampowered.com/app/4274480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Blood for the Queen（新規追加）</title>
-  <link>https://store.steampowered.com/app/4246660/</link>
-  <guid isPermaLink="false">steam-store-published-4246660</guid>
-  <pubDate>Mon, 29 Dec 2025 12:39:32 +0000</pubDate>
-  <description>A card-based roguelike and auto-battler where your fighters are meant to die. Their blood is a precious resource, while their lives are worthless. Command deadly battles, collect the bloody tribute, and quench your Queen&#x27;s thirst.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246660/83f268027a737efd00a248a6bce3d93209099c6a/header.jpg?t=1767011488" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246660/83f268027a737efd00a248a6bce3d93209099c6a/header.jpg?t=1767011488" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246660/83f268027a737efd00a248a6bce3d93209099c6a/header.jpg?t=1767011488" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246660/83f268027a737efd00a248a6bce3d93209099c6a/header.jpg?t=1767011488" alt="Blood for the Queen（新規追加）" /></a></p><p>A card-based roguelike and auto-battler where your fighters are meant to die. Their blood is a precious resource, while their lives are worthless. Command deadly battles, collect the bloody tribute, and quench your Queen&#x27;s thirst.</p><p><a href="https://store.steampowered.com/app/4246660/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
