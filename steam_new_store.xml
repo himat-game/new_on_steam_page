@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 05 Jan 2026 20:52:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 21:18:12 +0000</lastBuildDate>
+<item>
+  <title>Souls Arena 100 Trials（新規追加）</title>
+  <link>https://store.steampowered.com/app/4255480/</link>
+  <guid isPermaLink="false">steam-store-published-4255480</guid>
+  <pubDate>Mon, 05 Jan 2026 21:18:12 +0000</pubDate>
+  <description>A mini Souls-like arena game. Survive waves of enemies, defeat mini-bosses, loot weapons and potions, and unlock 100 achievements in an intense and compact experience.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255480/6d33346ac711c6cd6c9890370877f3846d514e64/header.jpg?t=1767393419" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255480/6d33346ac711c6cd6c9890370877f3846d514e64/header.jpg?t=1767393419" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255480/6d33346ac711c6cd6c9890370877f3846d514e64/header.jpg?t=1767393419" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255480/6d33346ac711c6cd6c9890370877f3846d514e64/header.jpg?t=1767393419" alt="Souls Arena 100 Trials（新規追加）" /></a></p><p>A mini Souls-like arena game. Survive waves of enemies, defeat mini-bosses, loot weapons and potions, and unlock 100 achievements in an intense and compact experience.</p><p><a href="https://store.steampowered.com/app/4255480/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dice Rogues（新規追加）</title>
   <link>https://store.steampowered.com/app/4140190/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275190/e410ed486ae5e29f61d8081343ee65c9c19a47f9/header.jpg?t=1767006756" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275190/e410ed486ae5e29f61d8081343ee65c9c19a47f9/header.jpg?t=1767006756" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275190/e410ed486ae5e29f61d8081343ee65c9c19a47f9/header.jpg?t=1767006756" alt="No Nap November（新規追加）" /></a></p><p>No Nap November is a short psychological horror game set in a kindergarten during an endless nap time. Observe each loop carefully, spot anomalies, and survive an entire month without sleep to save yourself and the children from a strange presence.</p><p><a href="https://store.steampowered.com/app/4275190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hentai Pirates Survivors（新規追加）</title>
-  <link>https://store.steampowered.com/app/3950220/</link>
-  <guid isPermaLink="false">steam-store-published-3950220</guid>
-  <pubDate>Mon, 29 Dec 2025 10:52:56 +0000</pubDate>
-  <description>Rouge-lite game with Visual Novel elements. Sail the seven sea, hunt for the lust stone, f**k a hot of hot pirate ladies and claim the booty.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950220/955a5f592c47017f870918f9e0d67b83f1758cae/header.jpg?t=1767003105" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950220/955a5f592c47017f870918f9e0d67b83f1758cae/header.jpg?t=1767003105" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950220/955a5f592c47017f870918f9e0d67b83f1758cae/header.jpg?t=1767003105" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3950220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950220/955a5f592c47017f870918f9e0d67b83f1758cae/header.jpg?t=1767003105" alt="Hentai Pirates Survivors（新規追加）" /></a></p><p>Rouge-lite game with Visual Novel elements. Sail the seven sea, hunt for the lust stone, f**k a hot of hot pirate ladies and claim the booty.</p><p><a href="https://store.steampowered.com/app/3950220/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
