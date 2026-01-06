@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 09:34:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 10:20:34 +0000</lastBuildDate>
+<item>
+  <title>Dungeon Element Fantasy（新規追加）</title>
+  <link>https://store.steampowered.com/app/3389160/</link>
+  <guid isPermaLink="false">steam-store-published-3389160</guid>
+  <pubDate>Tue, 06 Jan 2026 10:20:34 +0000</pubDate>
+  <description>Explore the fantasy dungeon, use the elements flexibly, experience varied events and use different mechanisms to solve challenges. And, face powerful beings head on.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389160/4c35a598074a38f2ec549558aa1363efe7ab97d4/header.jpg?t=1767693638" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389160/4c35a598074a38f2ec549558aa1363efe7ab97d4/header.jpg?t=1767693638" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389160/4c35a598074a38f2ec549558aa1363efe7ab97d4/header.jpg?t=1767693638" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3389160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389160/4c35a598074a38f2ec549558aa1363efe7ab97d4/header.jpg?t=1767693638" alt="Dungeon Element Fantasy（新規追加）" /></a></p><p>Explore the fantasy dungeon, use the elements flexibly, experience varied events and use different mechanisms to solve challenges. And, face powerful beings head on.</p><p><a href="https://store.steampowered.com/app/3389160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>失踪トンネル（新規追加）</title>
   <link>https://store.steampowered.com/app/4257830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/837c09fa54c1f9a81de05d374b9b8fcea981e26e/header.jpg?t=1767104242" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/837c09fa54c1f9a81de05d374b9b8fcea981e26e/header.jpg?t=1767104242" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275570/837c09fa54c1f9a81de05d374b9b8fcea981e26e/header.jpg?t=1767104242" alt="Lost in the Fire（新規追加）" /></a></p><p>Lost in the Fire is an atmospheric first-person exploration game. Its diverse locations draw you into an unknown world where every shadow hides a story and every step deepens the mystery. Uncover the truth behind the mystery that started it all. Are you ready to get lost in different realities?</p><p><a href="https://store.steampowered.com/app/4275570/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mytosis（新規追加）</title>
-  <link>https://store.steampowered.com/app/4275310/</link>
-  <guid isPermaLink="false">steam-store-published-4275310</guid>
-  <pubDate>Tue, 30 Dec 2025 14:19:31 +0000</pubDate>
-  <description>Mytosis is a short, experimental incremental game about evolving life forms from simple cells to complex procedural organisms.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275310/1625031abee04f2f5763df54639a0c94219dea24/header.jpg?t=1767103509" alt="Mytosis（新規追加）" /></a></p><p>Mytosis is a short, experimental incremental game about evolving life forms from simple cells to complex procedural organisms.</p><p><a href="https://store.steampowered.com/app/4275310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
