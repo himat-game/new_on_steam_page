@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 21:19:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 21:51:39 +0000</lastBuildDate>
+<item>
+  <title>The Raincoat Man: Chaput’s Cradle（新規追加）</title>
+  <link>https://store.steampowered.com/app/1935620/</link>
+  <guid isPermaLink="false">steam-store-published-1935620</guid>
+  <pubDate>Tue, 06 Jan 2026 21:51:39 +0000</pubDate>
+  <description>Hired to babysit in a strange house, you soon realize nothing is normal. The baby is a doll, the silence feels heavy, and mirrors reveal a figure that doesn’t belong. A psychological horror experience focused on tension, puzzles, and atmosphere.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1935620/cbb999a08f759c57d3c3d7ad1266b048a261ca9f/header.jpg?t=1767736079" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1935620/cbb999a08f759c57d3c3d7ad1266b048a261ca9f/header.jpg?t=1767736079" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1935620/cbb999a08f759c57d3c3d7ad1266b048a261ca9f/header.jpg?t=1767736079" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1935620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1935620/cbb999a08f759c57d3c3d7ad1266b048a261ca9f/header.jpg?t=1767736079" alt="The Raincoat Man: Chaput’s Cradle（新規追加）" /></a></p><p>Hired to babysit in a strange house, you soon realize nothing is normal. The baby is a doll, the silence feels heavy, and mirrors reveal a figure that doesn’t belong. A psychological horror experience focused on tension, puzzles, and atmosphere.</p><p><a href="https://store.steampowered.com/app/1935620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cosmic Rays（新規追加）</title>
   <link>https://store.steampowered.com/app/4208890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177070/5697398caeca918a760fbad2ca80457cc18b982e/header.jpg?t=1767183195" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177070/5697398caeca918a760fbad2ca80457cc18b982e/header.jpg?t=1767183195" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4177070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4177070/5697398caeca918a760fbad2ca80457cc18b982e/header.jpg?t=1767183195" alt="MouseEscape（新規追加）" /></a></p><p>A horror game about escaping a sealed-off city.</p><p><a href="https://store.steampowered.com/app/4177070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Dinner Table（新規追加）</title>
-  <link>https://store.steampowered.com/app/4225900/</link>
-  <guid isPermaLink="false">steam-store-published-4225900</guid>
-  <pubDate>Wed, 31 Dec 2025 11:45:49 +0000</pubDate>
-  <description>A blend of visual novel elements with platforming levels. An ode to the challenging levels of the 16-bit era. No checkpoints.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225900/1408128f1dd26db9d32ae01ba8e079cac3a896a7/header.jpg?t=1767178046" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225900/1408128f1dd26db9d32ae01ba8e079cac3a896a7/header.jpg?t=1767178046" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225900/1408128f1dd26db9d32ae01ba8e079cac3a896a7/header.jpg?t=1767178046" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4225900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225900/1408128f1dd26db9d32ae01ba8e079cac3a896a7/header.jpg?t=1767178046" alt="The Dinner Table（新規追加）" /></a></p><p>A blend of visual novel elements with platforming levels. An ode to the challenging levels of the 16-bit era. No checkpoints.</p><p><a href="https://store.steampowered.com/app/4225900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
