@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 16:25:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 16:59:35 +0000</lastBuildDate>
+<item>
+  <title>DungeonOS（新規追加）</title>
+  <link>https://store.steampowered.com/app/4221660/</link>
+  <guid isPermaLink="false">steam-store-published-4221660</guid>
+  <pubDate>Tue, 06 Jan 2026 16:59:35 +0000</pubDate>
+  <description>Crawl Dungeons, Loot and Equip your Adventurers! Log in to an old-school operating system. Manage your adventurers and use puzzles to damage your enemies. Are you ready to find the five artifacts you always dreamed of?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221660/251e22330f44601f224c69e9238a291095bf88e8/header.jpg?t=1767718443" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221660/251e22330f44601f224c69e9238a291095bf88e8/header.jpg?t=1767718443" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221660/251e22330f44601f224c69e9238a291095bf88e8/header.jpg?t=1767718443" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221660/251e22330f44601f224c69e9238a291095bf88e8/header.jpg?t=1767718443" alt="DungeonOS（新規追加）" /></a></p><p>Crawl Dungeons, Loot and Equip your Adventurers! Log in to an old-school operating system. Manage your adventurers and use puzzles to damage your enemies. Are you ready to find the five artifacts you always dreamed of?</p><p><a href="https://store.steampowered.com/app/4221660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Banana Cowboy: The Wild Bunch（新規追加）</title>
   <link>https://store.steampowered.com/app/3554200/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214170/ab17bb32794679fd159a60fbc54988bdc560fcbb/header.jpg?t=1767137225" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214170/ab17bb32794679fd159a60fbc54988bdc560fcbb/header.jpg?t=1767137225" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4214170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214170/ab17bb32794679fd159a60fbc54988bdc560fcbb/header.jpg?t=1767137225" alt="Hellfire Factory（新規追加）" /></a></p><p>Serve monsters, orcs and demons and solve a mystery in the hellish depths of a factory with gorilla man Alex in this adult gay / bara 3d point&#x27;n click adventure.</p><p><a href="https://store.steampowered.com/app/4214170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dead Rush（新規追加）</title>
-  <link>https://store.steampowered.com/app/4275970/</link>
-  <guid isPermaLink="false">steam-store-published-4275970</guid>
-  <pubDate>Tue, 30 Dec 2025 23:46:49 +0000</pubDate>
-  <description>Dead Rush is an FPS arcade shooter that combines fast-paced action, stylized visuals, and relentless waves of zombies. Choose your weapon, fight with friends, and see how long you can survive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275970/77be395fc183fd3aad8edaed8da787c5228618ea/header.jpg?t=1767137868" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275970/77be395fc183fd3aad8edaed8da787c5228618ea/header.jpg?t=1767137868" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275970/77be395fc183fd3aad8edaed8da787c5228618ea/header.jpg?t=1767137868" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275970/77be395fc183fd3aad8edaed8da787c5228618ea/header.jpg?t=1767137868" alt="Dead Rush（新規追加）" /></a></p><p>Dead Rush is an FPS arcade shooter that combines fast-paced action, stylized visuals, and relentless waves of zombies. Choose your weapon, fight with friends, and see how long you can survive.</p><p><a href="https://store.steampowered.com/app/4275970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
