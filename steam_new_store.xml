@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 16:59:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 17:30:27 +0000</lastBuildDate>
+<item>
+  <title>Project: Home!（新規追加）</title>
+  <link>https://store.steampowered.com/app/4045760/</link>
+  <guid isPermaLink="false">steam-store-published-4045760</guid>
+  <pubDate>Tue, 06 Jan 2026 17:30:27 +0000</pubDate>
+  <description>After losing your job, you return to your hometown to rebuild your life—and your family house. But you’re not alone. Two old friends, Lola and Mira, offer to help you renovate… and maybe build something more.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045760/8041b792dbfb8ad4f4f869feb9da025eef5973c2/header.jpg?t=1767720120" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045760/8041b792dbfb8ad4f4f869feb9da025eef5973c2/header.jpg?t=1767720120" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045760/8041b792dbfb8ad4f4f869feb9da025eef5973c2/header.jpg?t=1767720120" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4045760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045760/8041b792dbfb8ad4f4f869feb9da025eef5973c2/header.jpg?t=1767720120" alt="Project: Home!（新規追加）" /></a></p><p>After losing your job, you return to your hometown to rebuild your life—and your family house. But you’re not alone. Two old friends, Lola and Mira, offer to help you renovate… and maybe build something more.</p><p><a href="https://store.steampowered.com/app/4045760/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>BABEL（新規追加）</title>
+  <link>https://store.steampowered.com/app/4100520/</link>
+  <guid isPermaLink="false">steam-store-published-4100520</guid>
+  <pubDate>Tue, 06 Jan 2026 17:30:27 +0000</pubDate>
+  <description>BABEL is a 2.5D multi-narrative action adventure game in a meta-apocalyptic world, built from the paintings of Hieronymus Bosch, Pieter Bruegel, Giuseppe Arcimboldo and other visionary masters.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100520/f6543720e72d7877d285ca8c2c839b7e4eee8002/header.jpg?t=1767719802" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100520/f6543720e72d7877d285ca8c2c839b7e4eee8002/header.jpg?t=1767719802" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100520/f6543720e72d7877d285ca8c2c839b7e4eee8002/header.jpg?t=1767719802" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4100520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100520/f6543720e72d7877d285ca8c2c839b7e4eee8002/header.jpg?t=1767719802" alt="BABEL（新規追加）" /></a></p><p>BABEL is a 2.5D multi-narrative action adventure game in a meta-apocalyptic world, built from the paintings of Hieronymus Bosch, Pieter Bruegel, Giuseppe Arcimboldo and other visionary masters.</p><p><a href="https://store.steampowered.com/app/4100520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DungeonOS（新規追加）</title>
   <link>https://store.steampowered.com/app/4221660/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128660/a9f13f11515efab8579f42df3aecb7c9745e1f02/header.jpg?t=1767144350" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128660/a9f13f11515efab8579f42df3aecb7c9745e1f02/header.jpg?t=1767144350" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4128660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128660/a9f13f11515efab8579f42df3aecb7c9745e1f02/header.jpg?t=1767144350" alt="異中道-The Other Way（新規追加）" /></a></p><p>An Exit 8–style game. Judge whether anomalies exist within the time limit and aim for the goal.</p><p><a href="https://store.steampowered.com/app/4128660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Grimtrace（新規追加）</title>
-  <link>https://store.steampowered.com/app/4187750/</link>
-  <guid isPermaLink="false">steam-store-published-4187750</guid>
-  <pubDate>Wed, 31 Dec 2025 01:24:54 +0000</pubDate>
-  <description>A monster-themed deduction game focused on solving brutal murders. Investigate crime scenes by uncovering hidden evidence, analyzing fingerprints, and testing blood samples. Identify the killer, determine the creature responsible, and solve seven thrilling cases</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187750/ba3ed027c5efd67bd55bf06ea6691880d44c34a7/header.jpg?t=1767139690" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187750/ba3ed027c5efd67bd55bf06ea6691880d44c34a7/header.jpg?t=1767139690" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187750/ba3ed027c5efd67bd55bf06ea6691880d44c34a7/header.jpg?t=1767139690" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4187750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187750/ba3ed027c5efd67bd55bf06ea6691880d44c34a7/header.jpg?t=1767139690" alt="Grimtrace（新規追加）" /></a></p><p>A monster-themed deduction game focused on solving brutal murders. Investigate crime scenes by uncovering hidden evidence, analyzing fingerprints, and testing blood samples. Identify the killer, determine the creature responsible, and solve seven thrilling cases</p><p><a href="https://store.steampowered.com/app/4187750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hellfire Factory（新規追加）</title>
-  <link>https://store.steampowered.com/app/4214170/</link>
-  <guid isPermaLink="false">steam-store-published-4214170</guid>
-  <pubDate>Tue, 30 Dec 2025 23:46:49 +0000</pubDate>
-  <description>Serve monsters, orcs and demons and solve a mystery in the hellish depths of a factory with gorilla man Alex in this adult gay / bara 3d point&#x27;n click adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214170/ab17bb32794679fd159a60fbc54988bdc560fcbb/header.jpg?t=1767137225" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214170/ab17bb32794679fd159a60fbc54988bdc560fcbb/header.jpg?t=1767137225" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214170/ab17bb32794679fd159a60fbc54988bdc560fcbb/header.jpg?t=1767137225" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4214170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214170/ab17bb32794679fd159a60fbc54988bdc560fcbb/header.jpg?t=1767137225" alt="Hellfire Factory（新規追加）" /></a></p><p>Serve monsters, orcs and demons and solve a mystery in the hellish depths of a factory with gorilla man Alex in this adult gay / bara 3d point&#x27;n click adventure.</p><p><a href="https://store.steampowered.com/app/4214170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
