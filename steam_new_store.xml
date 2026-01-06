@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 15:20:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 15:42:15 +0000</lastBuildDate>
+<item>
+  <title>Under the Banner（新規追加）</title>
+  <link>https://store.steampowered.com/app/4131380/</link>
+  <guid isPermaLink="false">steam-store-published-4131380</guid>
+  <pubDate>Tue, 06 Jan 2026 15:42:15 +0000</pubDate>
+  <description>In Under the Banner, you don’t lead a single hero, you lead a guild. You prepare adventurers for their quests, balance your resources, and decide their fate. Care for your adventurers’ happiness and needs. The stories written under your banner shape both their legacy and yours.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131380/1bbc5513acd3b2274451e25c9751fc0e5ab7b479/header.jpg?t=1767713431" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131380/1bbc5513acd3b2274451e25c9751fc0e5ab7b479/header.jpg?t=1767713431" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131380/1bbc5513acd3b2274451e25c9751fc0e5ab7b479/header.jpg?t=1767713431" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4131380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131380/1bbc5513acd3b2274451e25c9751fc0e5ab7b479/header.jpg?t=1767713431" alt="Under the Banner（新規追加）" /></a></p><p>In Under the Banner, you don’t lead a single hero, you lead a guild. You prepare adventurers for their quests, balance your resources, and decide their fate. Care for your adventurers’ happiness and needs. The stories written under your banner shape both their legacy and yours.</p><p><a href="https://store.steampowered.com/app/4131380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Up to the top!（新規追加）</title>
   <link>https://store.steampowered.com/app/4272710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055250/afd05e27228144a5b7912f985f8aa4ba40c9613d/header.jpg?t=1767127744" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055250/afd05e27228144a5b7912f985f8aa4ba40c9613d/header.jpg?t=1767127744" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4055250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055250/afd05e27228144a5b7912f985f8aa4ba40c9613d/header.jpg?t=1767127744" alt="Kulipari: United（新規追加）" /></a></p><p>In this 3D arcade inspired beat&#x27;em-up, help the warriors of the Amphibilands protect their home!</p><p><a href="https://store.steampowered.com/app/4055250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RageByte（新規追加）</title>
-  <link>https://store.steampowered.com/app/4266190/</link>
-  <guid isPermaLink="false">steam-store-published-4266190</guid>
-  <pubDate>Tue, 30 Dec 2025 20:49:59 +0000</pubDate>
-  <description>A minimalist precision platformer designed to lie to you. Dodge spikes, survive portal shifts, and trust nothing.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266190/3f21732a0a7e4842d2ec08389162f06d61589249/header.jpg?t=1767127717" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266190/3f21732a0a7e4842d2ec08389162f06d61589249/header.jpg?t=1767127717" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266190/3f21732a0a7e4842d2ec08389162f06d61589249/header.jpg?t=1767127717" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266190/3f21732a0a7e4842d2ec08389162f06d61589249/header.jpg?t=1767127717" alt="RageByte（新規追加）" /></a></p><p>A minimalist precision platformer designed to lie to you. Dodge spikes, survive portal shifts, and trust nothing.</p><p><a href="https://store.steampowered.com/app/4266190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
