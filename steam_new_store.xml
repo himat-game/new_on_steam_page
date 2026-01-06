@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 20:49:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 21:19:12 +0000</lastBuildDate>
+<item>
+  <title>Cosmic Rays（新規追加）</title>
+  <link>https://store.steampowered.com/app/4208890/</link>
+  <guid isPermaLink="false">steam-store-published-4208890</guid>
+  <pubDate>Tue, 06 Jan 2026 21:19:12 +0000</pubDate>
+  <description>Jump and shoot in this 2D platformer to destroy the hivemind controlling the aliens that are attacking Earth. Hopefully nothing goes wrong on this mission...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208890/533a55b54fb3902241a4682f57b46027bf51f262/header.jpg?t=1767734139" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208890/533a55b54fb3902241a4682f57b46027bf51f262/header.jpg?t=1767734139" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208890/533a55b54fb3902241a4682f57b46027bf51f262/header.jpg?t=1767734139" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4208890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208890/533a55b54fb3902241a4682f57b46027bf51f262/header.jpg?t=1767734139" alt="Cosmic Rays（新規追加）" /></a></p><p>Jump and shoot in this 2D platformer to destroy the hivemind controlling the aliens that are attacking Earth. Hopefully nothing goes wrong on this mission...</p><p><a href="https://store.steampowered.com/app/4208890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Space Vampires（新規追加）</title>
   <link>https://store.steampowered.com/app/4265870/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225900/1408128f1dd26db9d32ae01ba8e079cac3a896a7/header.jpg?t=1767178046" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225900/1408128f1dd26db9d32ae01ba8e079cac3a896a7/header.jpg?t=1767178046" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4225900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225900/1408128f1dd26db9d32ae01ba8e079cac3a896a7/header.jpg?t=1767178046" alt="The Dinner Table（新規追加）" /></a></p><p>A blend of visual novel elements with platforming levels. An ode to the challenging levels of the 16-bit era. No checkpoints.</p><p><a href="https://store.steampowered.com/app/4225900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>2025: Mosaic Retrospective（新規追加）</title>
-  <link>https://store.steampowered.com/app/4266120/</link>
-  <guid isPermaLink="false">steam-store-published-4266120</guid>
-  <pubDate>Wed, 31 Dec 2025 11:45:49 +0000</pubDate>
-  <description>2025: Mosaic Retrospective is a picross/minesweeper hybrid featuring a single ENORMOUS puzzle inspired by global news stories from throughout the year.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266120/d4f565d0c1cbed842aa273872542f9361ace070a/header.jpg?t=1767178812" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266120/d4f565d0c1cbed842aa273872542f9361ace070a/header.jpg?t=1767178812" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266120/d4f565d0c1cbed842aa273872542f9361ace070a/header.jpg?t=1767178812" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266120/d4f565d0c1cbed842aa273872542f9361ace070a/header.jpg?t=1767178812" alt="2025: Mosaic Retrospective（新規追加）" /></a></p><p>2025: Mosaic Retrospective is a picross/minesweeper hybrid featuring a single ENORMOUS puzzle inspired by global news stories from throughout the year.</p><p><a href="https://store.steampowered.com/app/4266120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
