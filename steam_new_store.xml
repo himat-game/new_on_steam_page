@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 13:57:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 14:25:51 +0000</lastBuildDate>
+<item>
+  <title>Rasen（新規追加）</title>
+  <link>https://store.steampowered.com/app/3967860/</link>
+  <guid isPermaLink="false">steam-store-published-3967860</guid>
+  <pubDate>Tue, 06 Jan 2026 14:25:51 +0000</pubDate>
+  <description>Strike with precision, time your deflects and fight flawlessly to your own rhythm. Step into atmospheric PvP or PvE arena duels and fast-paced clashes with a variety of lethal characters.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3967860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" alt="Rasen（新規追加）" /></a></p><p>Strike with precision, time your deflects and fight flawlessly to your own rhythm. Step into atmospheric PvP or PvE arena duels and fast-paced clashes with a variety of lethal characters.</p><p><a href="https://store.steampowered.com/app/3967860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Skyrest（新規追加）</title>
   <link>https://store.steampowered.com/app/4271530/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278330/39300f6fff58fbb10c920be005a33d57a1c852fc/header.jpg?t=1767121498" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278330/39300f6fff58fbb10c920be005a33d57a1c852fc/header.jpg?t=1767121498" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4278330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278330/39300f6fff58fbb10c920be005a33d57a1c852fc/header.jpg?t=1767121498" alt="Wasteland Outpost（新規追加）" /></a></p><p>Wasteland Outpost is an explosive online cocktail of tactical shooter, base building, and survival. Scavenge for resources, build an impregnable fortress, and fight off hordes of mutants and the enemy team. Fortify your base or watch it burn in the flames of the apocalypse!</p><p><a href="https://store.steampowered.com/app/4278330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dance Dance Detective（新規追加）</title>
-  <link>https://store.steampowered.com/app/4273950/</link>
-  <guid isPermaLink="false">steam-store-published-4273950</guid>
-  <pubDate>Tue, 30 Dec 2025 19:45:06 +0000</pubDate>
-  <description>Grab your dance shoes, and Dance, Dance, Detective! Go undercover as a dance teacher on a cruise ship full of wacky suspects. Create choreographies to uncover their dark secrets, follow the leads, and connect clues to find who killed the chief science officer of Bolero Chocolate Company.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273950/015bc73c8b8857ae53edee75f23a0b2205101bf4/header.jpg?t=1767122578" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273950/015bc73c8b8857ae53edee75f23a0b2205101bf4/header.jpg?t=1767122578" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273950/015bc73c8b8857ae53edee75f23a0b2205101bf4/header.jpg?t=1767122578" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273950/015bc73c8b8857ae53edee75f23a0b2205101bf4/header.jpg?t=1767122578" alt="Dance Dance Detective（新規追加）" /></a></p><p>Grab your dance shoes, and Dance, Dance, Detective! Go undercover as a dance teacher on a cruise ship full of wacky suspects. Create choreographies to uncover their dark secrets, follow the leads, and connect clues to find who killed the chief science officer of Bolero Chocolate Company.</p><p><a href="https://store.steampowered.com/app/4273950/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
