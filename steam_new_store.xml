@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 04:54:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 05:22:45 +0000</lastBuildDate>
+<item>
+  <title>黒洞々｜KOKUTOTO（新規追加）</title>
+  <link>https://store.steampowered.com/app/4223230/</link>
+  <guid isPermaLink="false">steam-store-published-4223230</guid>
+  <pubDate>Tue, 06 Jan 2026 05:22:45 +0000</pubDate>
+  <description>This is a multi-ending adventure game that questions the boundaries of good and evil. With its compact scope, you can enjoy exploring the bleak aspects of modern society and making nerve-wracking scenario choices. What ending will you reach?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223230/7e00e41820d94303bdc26795830d5fc925d2e640/header.jpg?t=1767676815" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223230/7e00e41820d94303bdc26795830d5fc925d2e640/header.jpg?t=1767676815" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223230/7e00e41820d94303bdc26795830d5fc925d2e640/header.jpg?t=1767676815" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4223230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223230/7e00e41820d94303bdc26795830d5fc925d2e640/header.jpg?t=1767676815" alt="黒洞々｜KOKUTOTO（新規追加）" /></a></p><p>This is a multi-ending adventure game that questions the boundaries of good and evil. With its compact scope, you can enjoy exploring the bleak aspects of modern society and making nerve-wracking scenario choices. What ending will you reach?</p><p><a href="https://store.steampowered.com/app/4223230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Barely Alive（新規追加）</title>
   <link>https://store.steampowered.com/app/2982710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246340/607e9b923b5a4dc57b386189ef4333304575f90d/header.jpg?t=1767063174" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246340/607e9b923b5a4dc57b386189ef4333304575f90d/header.jpg?t=1767063174" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246340/607e9b923b5a4dc57b386189ef4333304575f90d/header.jpg?t=1767063174" alt="Gorotsuki Paradise（新規追加）" /></a></p><p>Gorotsuki Paradise is an online PvP card game where you build your deck as you battle.🃏 Recruit over 150 unique &amp;quot;gorotsuki&amp;quot; (Japanese for gangsters, thugs, and outlaws) to dominate a mad city called Saitama.🦹 It’s completely free to play, with no pay-to-win mechanics!🤑</p><p><a href="https://store.steampowered.com/app/4246340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Game Company Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4276180/</link>
-  <guid isPermaLink="false">steam-store-published-4276180</guid>
-  <pubDate>Tue, 30 Dec 2025 03:17:39 +0000</pubDate>
-  <description>A weary ex‑developer, tired of pay‑to‑win and toxic workplaces, creates a simulation where you play as a game company boss. Recruit staff, push their potential, battle rivals, and aim to dominate the market with blockbuster hits to reach the pinnacle of success.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276180/8c87afa00870dc8656574d519bbf0d3944482567/header.jpg?t=1767063645" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276180/8c87afa00870dc8656574d519bbf0d3944482567/header.jpg?t=1767063645" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276180/8c87afa00870dc8656574d519bbf0d3944482567/header.jpg?t=1767063645" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276180/8c87afa00870dc8656574d519bbf0d3944482567/header.jpg?t=1767063645" alt="Game Company Simulator（新規追加）" /></a></p><p>A weary ex‑developer, tired of pay‑to‑win and toxic workplaces, creates a simulation where you play as a game company boss. Recruit staff, push their potential, battle rivals, and aim to dominate the market with blockbuster hits to reach the pinnacle of success.</p><p><a href="https://store.steampowered.com/app/4276180/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
