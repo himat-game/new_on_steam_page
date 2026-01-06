@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 06 Jan 2026 07:41:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Jan 2026 08:27:30 +0000</lastBuildDate>
+<item>
+  <title>Medieval Life Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4278710/</link>
+  <guid isPermaLink="false">steam-store-published-4278710</guid>
+  <pubDate>Tue, 06 Jan 2026 08:27:30 +0000</pubDate>
+  <description>Rise from nothing to wealth! Mine ore, harvest crops, cut trees, gather livestock products, sell resources, hire workers, buy rentable houses, gamble with card games, bet on fights, and expand into an empire.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278710/f80d0d9682d8e297fff3ffd96a27b64ac0ebe5cd/header.jpg?t=1767686592" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278710/f80d0d9682d8e297fff3ffd96a27b64ac0ebe5cd/header.jpg?t=1767686592" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278710/f80d0d9682d8e297fff3ffd96a27b64ac0ebe5cd/header.jpg?t=1767686592" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4278710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278710/f80d0d9682d8e297fff3ffd96a27b64ac0ebe5cd/header.jpg?t=1767686592" alt="Medieval Life Simulator（新規追加）" /></a></p><p>Rise from nothing to wealth! Mine ore, harvest crops, cut trees, gather livestock products, sell resources, hire workers, buy rentable houses, gamble with card games, bet on fights, and expand into an empire.</p><p><a href="https://store.steampowered.com/app/4278710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Asterogue（新規追加）</title>
   <link>https://store.steampowered.com/app/4152940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277940/d37a25c613d7b4d7bb6f9d9e8a4c735d393792bc/header.jpg?t=1767092074" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277940/d37a25c613d7b4d7bb6f9d9e8a4c735d393792bc/header.jpg?t=1767092074" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4277940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277940/d37a25c613d7b4d7bb6f9d9e8a4c735d393792bc/header.jpg?t=1767092074" alt="Hentai Furry Raccoon（新規追加）" /></a></p><p>Hentai Furry Raccoon is an exciting game that combines puzzles, light humor, and a seductive furry atmosphere. You will dive into a colorful and playful universe where temptation, cunning, and flirtation intertwine into a single story.</p><p><a href="https://store.steampowered.com/app/4277940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wasteland Spirit（新規追加）</title>
-  <link>https://store.steampowered.com/app/3955260/</link>
-  <guid isPermaLink="false">steam-store-published-3955260</guid>
-  <pubDate>Tue, 30 Dec 2025 10:44:17 +0000</pubDate>
-  <description>Embark on a journey across desolate worlds as a wandering spirit, capable of possessing any living being to endure the harshness of apocalyptic wastelands. Gather rare resources and lost relics, then return to the ethereal realm to restore and expand your personal farmstead.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3955260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955260/c5aad16343c905753d096f2e9b8bf8217d7b4779/header.jpg?t=1767090060" alt="Wasteland Spirit（新規追加）" /></a></p><p>Embark on a journey across desolate worlds as a wandering spirit, capable of possessing any living being to endure the harshness of apocalyptic wastelands. Gather rare resources and lost relics, then return to the ethereal realm to restore and expand your personal farmstead.</p><p><a href="https://store.steampowered.com/app/3955260/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
