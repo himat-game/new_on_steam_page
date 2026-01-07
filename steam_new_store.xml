@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 07 Jan 2026 18:59:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 19:26:54 +0000</lastBuildDate>
+<item>
+  <title>Chamber One（新規追加）</title>
+  <link>https://store.steampowered.com/app/4275250/</link>
+  <guid isPermaLink="false">steam-store-published-4275250</guid>
+  <pubDate>Wed, 07 Jan 2026 19:26:54 +0000</pubDate>
+  <description>Chamber One is a story-driven 3D puzzle platformer. You wake up in a sterile elevator with no memories. As part of the Rebuild Test Program, you progress through test chambers to uncover the truth about the system and yourself.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275250/216102b285413d27aeec2900774b35f9f7b5d5e5/header.jpg?t=1767813073" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275250/216102b285413d27aeec2900774b35f9f7b5d5e5/header.jpg?t=1767813073" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275250/216102b285413d27aeec2900774b35f9f7b5d5e5/header.jpg?t=1767813073" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275250/216102b285413d27aeec2900774b35f9f7b5d5e5/header.jpg?t=1767813073" alt="Chamber One（新規追加）" /></a></p><p>Chamber One is a story-driven 3D puzzle platformer. You wake up in a sterile elevator with no memories. As part of the Rebuild Test Program, you progress through test chambers to uncover the truth about the system and yourself.</p><p><a href="https://store.steampowered.com/app/4275250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Maloomify the Ocean（新規追加）</title>
   <link>https://store.steampowered.com/app/4103090/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066190/a653debbb9884dcdfd4d175d795012f9d3887726/header.jpg?t=1767378076" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066190/a653debbb9884dcdfd4d175d795012f9d3887726/header.jpg?t=1767378076" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4066190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066190/a653debbb9884dcdfd4d175d795012f9d3887726/header.jpg?t=1767378076" alt="Jiaozi &amp; Shopkeeper（新規追加）" /></a></p><p>&amp;quot;Jiaozi &amp;amp; Shopkeeper&amp;quot; is a simulation game themed around cooking dumplings. You will become a dumpling shop owner, making dumplings, managing the shop, and improving your skills; you&#x27;ll encounter friendly fellow shop owners and comfortably grow your business from a novice to a thriving business.</p><p><a href="https://store.steampowered.com/app/4066190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>IGNOBLE（新規追加）</title>
-  <link>https://store.steampowered.com/app/4216180/</link>
-  <guid isPermaLink="false">steam-store-published-4216180</guid>
-  <pubDate>Fri, 02 Jan 2026 17:47:38 +0000</pubDate>
-  <description>Ignoble is a one-of-a-kind, brutal incremental beat-’em-up platformer. Destroy enemies and harvest blood, bones, and marrow to grow stronger, unlock forbidden skills, and wipe out the Ignoble tyrants who dare threaten your master.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216180/741d89d9e0902c7f2d6a000ce05402e79c6aa0ae/header.jpg?t=1767374154" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216180/741d89d9e0902c7f2d6a000ce05402e79c6aa0ae/header.jpg?t=1767374154" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216180/741d89d9e0902c7f2d6a000ce05402e79c6aa0ae/header.jpg?t=1767374154" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4216180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216180/741d89d9e0902c7f2d6a000ce05402e79c6aa0ae/header.jpg?t=1767374154" alt="IGNOBLE（新規追加）" /></a></p><p>Ignoble is a one-of-a-kind, brutal incremental beat-’em-up platformer. Destroy enemies and harvest blood, bones, and marrow to grow stronger, unlock forbidden skills, and wipe out the Ignoble tyrants who dare threaten your master.</p><p><a href="https://store.steampowered.com/app/4216180/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
