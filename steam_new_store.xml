@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 07 Jan 2026 14:32:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 14:55:51 +0000</lastBuildDate>
+<item>
+  <title>Stealth Maker（新規追加）</title>
+  <link>https://store.steampowered.com/app/4037820/</link>
+  <guid isPermaLink="false">steam-store-published-4037820</guid>
+  <pubDate>Wed, 07 Jan 2026 14:55:51 +0000</pubDate>
+  <description>Stealth Maker, Make your own level of infiltration and distraction, kill guards, pickup their body, strangle them, shoot them or just drug them. Timing is important, and mission objectives should all be met.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037820/b496a2f3f518735db51ad65417bba5235578c7a9/header.jpg?t=1767797338" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037820/b496a2f3f518735db51ad65417bba5235578c7a9/header.jpg?t=1767797338" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037820/b496a2f3f518735db51ad65417bba5235578c7a9/header.jpg?t=1767797338" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4037820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4037820/b496a2f3f518735db51ad65417bba5235578c7a9/header.jpg?t=1767797338" alt="Stealth Maker（新規追加）" /></a></p><p>Stealth Maker, Make your own level of infiltration and distraction, kill guards, pickup their body, strangle them, shoot them or just drug them. Timing is important, and mission objectives should all be met.</p><p><a href="https://store.steampowered.com/app/4037820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ammo Station Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4203970/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271360/949cf8d0a573f5890cc5754c6cdf221323d2639f/header.jpg?t=1767343922" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271360/949cf8d0a573f5890cc5754c6cdf221323d2639f/header.jpg?t=1767343922" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271360/949cf8d0a573f5890cc5754c6cdf221323d2639f/header.jpg?t=1767343922" alt="Serendipalette（新規追加）" /></a></p><p>Serendipalette is a relaxing tile placing game with the mood of watercolor painting. Build up your color palette to earn balloons using combinations of colors.</p><p><a href="https://store.steampowered.com/app/4271360/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Shadow of Paris（新規追加）</title>
-  <link>https://store.steampowered.com/app/4238280/</link>
-  <guid isPermaLink="false">steam-store-published-4238280</guid>
-  <pubDate>Fri, 02 Jan 2026 08:25:56 +0000</pubDate>
-  <description>Paris’s life changes when she encounters a charming stranger who seems to be watching her. This choice-driven psychological visual novel delivers a tense, intimate story focused on curiosity, trust, and crossing dangerous boundaries.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4238280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238280/2668f696fa026f9eab08536900dfee75c1c37e41/header.jpg?t=1767340667" alt="Shadow of Paris（新規追加）" /></a></p><p>Paris’s life changes when she encounters a charming stranger who seems to be watching her. This choice-driven psychological visual novel delivers a tense, intimate story focused on curiosity, trust, and crossing dangerous boundaries.</p><p><a href="https://store.steampowered.com/app/4238280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
