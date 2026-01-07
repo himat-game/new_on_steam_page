@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 07 Jan 2026 05:52:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 06:30:15 +0000</lastBuildDate>
+<item>
+  <title>Comedian In The Big City（新規追加）</title>
+  <link>https://store.steampowered.com/app/4213630/</link>
+  <guid isPermaLink="false">steam-store-published-4213630</guid>
+  <pubDate>Wed, 07 Jan 2026 06:30:15 +0000</pubDate>
+  <description>A free to play comedy game, find the jokes and win over the crowd in this chill comedy platformer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213630/24c5e17a6825f6ba105e2623e717062513ed1aa1/header.jpg?t=1767765669" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213630/24c5e17a6825f6ba105e2623e717062513ed1aa1/header.jpg?t=1767765669" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213630/24c5e17a6825f6ba105e2623e717062513ed1aa1/header.jpg?t=1767765669" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4213630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213630/24c5e17a6825f6ba105e2623e717062513ed1aa1/header.jpg?t=1767765669" alt="Comedian In The Big City（新規追加）" /></a></p><p>A free to play comedy game, find the jokes and win over the crowd in this chill comedy platformer.</p><p><a href="https://store.steampowered.com/app/4213630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dawn Vantor（新規追加）</title>
   <link>https://store.steampowered.com/app/4274180/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886600/42053dbafdf3239a687565ad059c49f2ae564af4/header.jpg?t=1767255844" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886600/42053dbafdf3239a687565ad059c49f2ae564af4/header.jpg?t=1767255844" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3886600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886600/42053dbafdf3239a687565ad059c49f2ae564af4/header.jpg?t=1767255844" alt="Beneath the Surface（新規追加）" /></a></p><p>Based on a police report dismissed as fake, Beneath the Surface is a story-driven horror game set in 1958 BS Nepal. As Ved, uncover what really happened in the forest with his friend. Was it all in his head—or did something truly follow them back?</p><p><a href="https://store.steampowered.com/app/3886600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Derby&#x27;s Tycoon Online（新規追加）</title>
-  <link>https://store.steampowered.com/app/4118140/</link>
-  <guid isPermaLink="false">steam-store-published-4118140</guid>
-  <pubDate>Thu, 01 Jan 2026 08:26:10 +0000</pubDate>
-  <description>Become a horse owner, own your own horses, train and participate in various races, and cultivate horse kings to dominate the track! Buy luxury cars, own your own independent villa, decorate your own mansion, form your own horse racing club with like-minded people, and become the derby&#x27;s tycoon!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118140/7b81eccf6da0c19b6f6a8686db10479f7704c1dc/header.jpg?t=1766735965" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118140/7b81eccf6da0c19b6f6a8686db10479f7704c1dc/header.jpg?t=1766735965" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118140/7b81eccf6da0c19b6f6a8686db10479f7704c1dc/header.jpg?t=1766735965" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4118140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118140/7b81eccf6da0c19b6f6a8686db10479f7704c1dc/header.jpg?t=1766735965" alt="Derby&#x27;s Tycoon Online（新規追加）" /></a></p><p>Become a horse owner, own your own horses, train and participate in various races, and cultivate horse kings to dominate the track! Buy luxury cars, own your own independent villa, decorate your own mansion, form your own horse racing club with like-minded people, and become the derby&#x27;s tycoon!</p><p><a href="https://store.steampowered.com/app/4118140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
