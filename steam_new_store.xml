@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 07 Jan 2026 13:27:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 13:59:06 +0000</lastBuildDate>
+<item>
+  <title>INARI（新規追加）</title>
+  <link>https://store.steampowered.com/app/3910680/</link>
+  <guid isPermaLink="false">steam-store-published-3910680</guid>
+  <pubDate>Wed, 07 Jan 2026 13:59:06 +0000</pubDate>
+  <description>INARI is a high-speed kunai action platformer set in an Eastern fantasy world. You are an executioner sent to hunt down the Seven Daughters who dared defy the mighty Lord. Engage in rapid, relentless combat using kunai and instant teleportation. Face overwhelming odds with a single life.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910680/b46765fad9b8be398d25a85ce04b330d2a80bfb0/header.jpg?t=1767793267" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910680/b46765fad9b8be398d25a85ce04b330d2a80bfb0/header.jpg?t=1767793267" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910680/b46765fad9b8be398d25a85ce04b330d2a80bfb0/header.jpg?t=1767793267" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3910680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910680/b46765fad9b8be398d25a85ce04b330d2a80bfb0/header.jpg?t=1767793267" alt="INARI（新規追加）" /></a></p><p>INARI is a high-speed kunai action platformer set in an Eastern fantasy world. You are an executioner sent to hunt down the Seven Daughters who dared defy the mighty Lord. Engage in rapid, relentless combat using kunai and instant teleportation. Face overwhelming odds with a single life.</p><p><a href="https://store.steampowered.com/app/3910680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Blood Red Rebirth（新規追加）</title>
   <link>https://store.steampowered.com/app/4193120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260960/13f4102901e2c58336d10b17cf401f35b2d1f862/header.jpg?t=1767324740" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260960/13f4102901e2c58336d10b17cf401f35b2d1f862/header.jpg?t=1767324740" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260960/13f4102901e2c58336d10b17cf401f35b2d1f862/header.jpg?t=1767324740" alt="Caveworks（新規追加）" /></a></p><p>Caveworks is a 1-4 player co-op action-adventure game. Explore procedurally generated lunar caves and pioneer unknown regions to fulfill your assigned missions.</p><p><a href="https://store.steampowered.com/app/4260960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>6-7（新規追加）</title>
-  <link>https://store.steampowered.com/app/1436640/</link>
-  <guid isPermaLink="false">steam-store-published-1436640</guid>
-  <pubDate>Fri, 02 Jan 2026 04:13:11 +0000</pubDate>
-  <description>A short game where you guess whether it is a 6 or a 7. Can you 6-7 to the top?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436640/6e5a55b3d0d9a5aa66ba76e770f99693b8ee01dc/header.jpg?t=1767324081" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436640/6e5a55b3d0d9a5aa66ba76e770f99693b8ee01dc/header.jpg?t=1767324081" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436640/6e5a55b3d0d9a5aa66ba76e770f99693b8ee01dc/header.jpg?t=1767324081" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1436640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436640/6e5a55b3d0d9a5aa66ba76e770f99693b8ee01dc/header.jpg?t=1767324081" alt="6-7（新規追加）" /></a></p><p>A short game where you guess whether it is a 6 or a 7. Can you 6-7 to the top?</p><p><a href="https://store.steampowered.com/app/1436640/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
