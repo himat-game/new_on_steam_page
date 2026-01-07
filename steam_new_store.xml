@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 07 Jan 2026 17:34:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 17:53:34 +0000</lastBuildDate>
+<item>
+  <title>Call The Exterminator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4278840/</link>
+  <guid isPermaLink="false">steam-store-published-4278840</guid>
+  <pubDate>Wed, 07 Jan 2026 17:53:34 +0000</pubDate>
+  <description>When the world’s most dangerous terrorists crawl out of the shadows, there’s only one number the government dials: yours. CTE is classic 90&#x27;s 2.5D action. Suit up, Light up, its time to Call The Exterminator.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278840/7dbd532fa31730b2250020a35d96d831d39dda6f/header.jpg?t=1767807248" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278840/7dbd532fa31730b2250020a35d96d831d39dda6f/header.jpg?t=1767807248" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278840/7dbd532fa31730b2250020a35d96d831d39dda6f/header.jpg?t=1767807248" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4278840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278840/7dbd532fa31730b2250020a35d96d831d39dda6f/header.jpg?t=1767807248" alt="Call The Exterminator（新規追加）" /></a></p><p>When the world’s most dangerous terrorists crawl out of the shadows, there’s only one number the government dials: yours. CTE is classic 90&#x27;s 2.5D action. Suit up, Light up, its time to Call The Exterminator.</p><p><a href="https://store.steampowered.com/app/4278840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Obscure Figures（新規追加）</title>
   <link>https://store.steampowered.com/app/4272030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108670/1adeac97a28e5f6d5bb31eb38bff45c87dcd5f4c/header.jpg?t=1767368075" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108670/1adeac97a28e5f6d5bb31eb38bff45c87dcd5f4c/header.jpg?t=1767368075" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4108670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108670/1adeac97a28e5f6d5bb31eb38bff45c87dcd5f4c/header.jpg?t=1767368075" alt="DoomBus（新規追加）" /></a></p><p>DoomBus offers high-speed fun in a post-apocalyptic world. Drive modified vehicles, drift fiercely on tricky ruined tracks, and enjoy dramatic physical collisions. You can traverse wastelands, defeat zombies, rescue survivors or go head-to-head with alien UFOs.</p><p><a href="https://store.steampowered.com/app/4108670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cubettiny（新規追加）</title>
-  <link>https://store.steampowered.com/app/4220390/</link>
-  <guid isPermaLink="false">steam-store-published-4220390</guid>
-  <pubDate>Fri, 02 Jan 2026 15:52:24 +0000</pubDate>
-  <description>Cubettiny is a fast-paced 2.5D arcade game where you guide a sad blue cube through low-poly levels filled with obstacles, traps, and power-ups. Collect cubes, complete chains, unlock hidden paths, use power-ups, and push through each stage to bring order back to Numeria!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220390/212d67c90c8a15d8615fb0724cb67994b317d686/header.jpg?t=1767368473" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220390/212d67c90c8a15d8615fb0724cb67994b317d686/header.jpg?t=1767368473" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220390/212d67c90c8a15d8615fb0724cb67994b317d686/header.jpg?t=1767368473" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4220390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220390/212d67c90c8a15d8615fb0724cb67994b317d686/header.jpg?t=1767368473" alt="Cubettiny（新規追加）" /></a></p><p>Cubettiny is a fast-paced 2.5D arcade game where you guide a sad blue cube through low-poly levels filled with obstacles, traps, and power-ups. Collect cubes, complete chains, unlock hidden paths, use power-ups, and push through each stage to bring order back to Numeria!</p><p><a href="https://store.steampowered.com/app/4220390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
