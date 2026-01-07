@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 07 Jan 2026 11:48:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 12:39:59 +0000</lastBuildDate>
+<item>
+  <title>Incremental Cats（新規追加）</title>
+  <link>https://store.steampowered.com/app/4249200/</link>
+  <guid isPermaLink="false">steam-store-published-4249200</guid>
+  <pubDate>Wed, 07 Jan 2026 12:39:59 +0000</pubDate>
+  <description>Incremental Cats is a short incremental game about befriending cute cats of all rarities, from common to legendary, while generating cosmic amounts of hearts to unlock upgrades.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249200/a6e4226eef51c624d8cb85295ee8a9b31c98cdfd/header.jpg?t=1767789553" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249200/a6e4226eef51c624d8cb85295ee8a9b31c98cdfd/header.jpg?t=1767789553" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249200/a6e4226eef51c624d8cb85295ee8a9b31c98cdfd/header.jpg?t=1767789553" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249200/a6e4226eef51c624d8cb85295ee8a9b31c98cdfd/header.jpg?t=1767789553" alt="Incremental Cats（新規追加）" /></a></p><p>Incremental Cats is a short incremental game about befriending cute cats of all rarities, from common to legendary, while generating cosmic amounts of hearts to unlock upgrades.</p><p><a href="https://store.steampowered.com/app/4249200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Carry the Patient Together（新規追加）</title>
   <link>https://store.steampowered.com/app/3818280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175180/5e7710a252ab8bd234f8977ee604620c4f844513/header.jpg?t=1767325267" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175180/5e7710a252ab8bd234f8977ee604620c4f844513/header.jpg?t=1767325267" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4175180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175180/5e7710a252ab8bd234f8977ee604620c4f844513/header.jpg?t=1767325267" alt="DREADNOUGHT TARTARUS（新規追加）" /></a></p><p>DREADNOUGHT: TARTARUS is a semi-automated strategic simulation game centered around a single, colossal battleship. Take control of the massive warship TARTARUS and destroy everything in your path as the battlefield continuously advances！</p><p><a href="https://store.steampowered.com/app/4175180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bubba Yuga（新規追加）</title>
-  <link>https://store.steampowered.com/app/3459490/</link>
-  <guid isPermaLink="false">steam-store-published-3459490</guid>
-  <pubDate>Fri, 02 Jan 2026 04:13:11 +0000</pubDate>
-  <description>Bubba Yuga is a 2-player couch co-op puzzle game based on the Slavic folktales of the Baba Yaga. Playing as a pair of tied together witches, you and a friend must work together with your walking house to capture all the woodland children and break the curse that’s been placed upon your family.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459490/99b729ae53b473c7aafcb6091317a3998ca77e0b/header.jpg?t=1767325236" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459490/99b729ae53b473c7aafcb6091317a3998ca77e0b/header.jpg?t=1767325236" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459490/99b729ae53b473c7aafcb6091317a3998ca77e0b/header.jpg?t=1767325236" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3459490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459490/99b729ae53b473c7aafcb6091317a3998ca77e0b/header.jpg?t=1767325236" alt="Bubba Yuga（新規追加）" /></a></p><p>Bubba Yuga is a 2-player couch co-op puzzle game based on the Slavic folktales of the Baba Yaga. Playing as a pair of tied together witches, you and a friend must work together with your walking house to capture all the woodland children and break the curse that’s been placed upon your family.</p><p><a href="https://store.steampowered.com/app/3459490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
