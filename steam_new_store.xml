@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 07 Jan 2026 05:23:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 05:52:55 +0000</lastBuildDate>
+<item>
+  <title>Dawn Vantor（新規追加）</title>
+  <link>https://store.steampowered.com/app/4274180/</link>
+  <guid isPermaLink="false">steam-store-published-4274180</guid>
+  <pubDate>Wed, 07 Jan 2026 05:52:55 +0000</pubDate>
+  <description>Dawn Vantor is a single-player stealth-action story game where you play a lone elite operative sent on a final covert mission. Infiltrate hostile forests and caves, eliminate enemy forces, uncover a hidden base, and destroy it before dawn.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274180/855183b7fa387d12bffd2209115c21dcf31d0daf/header.jpg?t=1767763542" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274180/855183b7fa387d12bffd2209115c21dcf31d0daf/header.jpg?t=1767763542" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274180/855183b7fa387d12bffd2209115c21dcf31d0daf/header.jpg?t=1767763542" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4274180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274180/855183b7fa387d12bffd2209115c21dcf31d0daf/header.jpg?t=1767763542" alt="Dawn Vantor（新規追加）" /></a></p><p>Dawn Vantor is a single-player stealth-action story game where you play a lone elite operative sent on a final covert mission. Infiltrate hostile forests and caves, eliminate enemy forces, uncover a hidden base, and destroy it before dawn.</p><p><a href="https://store.steampowered.com/app/4274180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ariana&#x27;s Perverted Diary: or how I turned my family into a free use home（新規追加）</title>
   <link>https://store.steampowered.com/app/3872210/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118140/7b81eccf6da0c19b6f6a8686db10479f7704c1dc/header.jpg?t=1766735965" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118140/7b81eccf6da0c19b6f6a8686db10479f7704c1dc/header.jpg?t=1766735965" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4118140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118140/7b81eccf6da0c19b6f6a8686db10479f7704c1dc/header.jpg?t=1766735965" alt="Derby&#x27;s Tycoon Online（新規追加）" /></a></p><p>Become a horse owner, own your own horses, train and participate in various races, and cultivate horse kings to dominate the track! Buy luxury cars, own your own independent villa, decorate your own mansion, form your own horse racing club with like-minded people, and become the derby&#x27;s tycoon!</p><p><a href="https://store.steampowered.com/app/4118140/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tile Tactics（新規追加）</title>
-  <link>https://store.steampowered.com/app/4271540/</link>
-  <guid isPermaLink="false">steam-store-published-4271540</guid>
-  <pubDate>Thu, 01 Jan 2026 08:26:10 +0000</pubDate>
-  <description>Build, gamble, and survive in this rogue-lite tower defense where everything is a tile. Use the slot-machine shop to draft towers and physical upgrade tiles to buff your grid. With hundreds of unique synergies, will you hit the jackpot or let the enemies break your base? Play the odds today!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271540/408b60c4e483abf004358360d321e7c4fb57677f/header.jpg?t=1767255582" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271540/408b60c4e483abf004358360d321e7c4fb57677f/header.jpg?t=1767255582" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271540/408b60c4e483abf004358360d321e7c4fb57677f/header.jpg?t=1767255582" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271540/408b60c4e483abf004358360d321e7c4fb57677f/header.jpg?t=1767255582" alt="Tile Tactics（新規追加）" /></a></p><p>Build, gamble, and survive in this rogue-lite tower defense where everything is a tile. Use the slot-machine shop to draft towers and physical upgrade tiles to buff your grid. With hundreds of unique synergies, will you hit the jackpot or let the enemies break your base? Play the odds today!</p><p><a href="https://store.steampowered.com/app/4271540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
