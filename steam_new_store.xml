@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 08 Jan 2026 10:54:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 11:18:49 +0000</lastBuildDate>
+<item>
+  <title>Skinator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4251290/</link>
+  <guid isPermaLink="false">steam-store-published-4251290</guid>
+  <pubDate>Thu, 08 Jan 2026 11:18:49 +0000</pubDate>
+  <description>A turn-based tactical combat game where you dismantle enemies limb by limb, steal their body parts, and use them to rebuild your character in order to become the most overpower god in history.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251290/fe9779835e900f1b8f90ee70c7bbc7859d38ab28/header.jpg?t=1767870109" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251290/fe9779835e900f1b8f90ee70c7bbc7859d38ab28/header.jpg?t=1767870109" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251290/fe9779835e900f1b8f90ee70c7bbc7859d38ab28/header.jpg?t=1767870109" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251290/fe9779835e900f1b8f90ee70c7bbc7859d38ab28/header.jpg?t=1767870109" alt="Skinator（新規追加）" /></a></p><p>A turn-based tactical combat game where you dismantle enemies limb by limb, steal their body parts, and use them to rebuild your character in order to become the most overpower god in history.</p><p><a href="https://store.steampowered.com/app/4251290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pocket Chef: Asia（新規追加）</title>
   <link>https://store.steampowered.com/app/4280040/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282200/7447b642c7c92aa274fe8d97d9a3d0aee215245d/header.jpg?t=1767526487" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282200/7447b642c7c92aa274fe8d97d9a3d0aee215245d/header.jpg?t=1767526487" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4282200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282200/7447b642c7c92aa274fe8d97d9a3d0aee215245d/header.jpg?t=1767526487" alt="Smart Lab（新規追加）" /></a></p><p>Smart Lab: Build your lab from the ground up, research new recipes, optimize production chains, and craft valuable products. Produce in batches, improve quality, and sell your results to keep expanding.</p><p><a href="https://store.steampowered.com/app/4282200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>悪人悪華 - AKUNIN-AKKA -（新規追加）</title>
-  <link>https://store.steampowered.com/app/4256090/</link>
-  <guid isPermaLink="false">steam-store-published-4256090</guid>
-  <pubDate>Sun, 04 Jan 2026 11:45:23 +0000</pubDate>
-  <description>An interrogation game where you play as the detective in charge of a case and interrogate suspects to uncover the truth behind the bombing. Uncover the weaknesses of the unique suspects and get to the bottom of the case!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256090/fef69d9e0769d7a3a148f212aa3d690bdf22c9b0/header.jpg?t=1767524299" alt="悪人悪華 - AKUNIN-AKKA -（新規追加）" /></a></p><p>An interrogation game where you play as the detective in charge of a case and interrogate suspects to uncover the truth behind the bombing. Uncover the weaknesses of the unique suspects and get to the bottom of the case!</p><p><a href="https://store.steampowered.com/app/4256090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
