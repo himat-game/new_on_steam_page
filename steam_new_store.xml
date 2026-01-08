@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 08 Jan 2026 21:18:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 21:51:52 +0000</lastBuildDate>
+<item>
+  <title>Just A Block（新規追加）</title>
+  <link>https://store.steampowered.com/app/4199220/</link>
+  <guid isPermaLink="false">steam-store-published-4199220</guid>
+  <pubDate>Thu, 08 Jan 2026 21:51:52 +0000</pubDate>
+  <description>Pop boxes, solve physics puzzles, and float to safety in this cozy and colorful puzzle game. Play solo or enjoy local co-op with a friend, using creativity and strategy to complete each challenge.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199220/7c0d2c1e2aa03392952d38d64c5ebdeafc6143af/header.jpg?t=1767908854" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199220/7c0d2c1e2aa03392952d38d64c5ebdeafc6143af/header.jpg?t=1767908854" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199220/7c0d2c1e2aa03392952d38d64c5ebdeafc6143af/header.jpg?t=1767908854" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4199220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199220/7c0d2c1e2aa03392952d38d64c5ebdeafc6143af/header.jpg?t=1767908854" alt="Just A Block（新規追加）" /></a></p><p>Pop boxes, solve physics puzzles, and float to safety in this cozy and colorful puzzle game. Play solo or enjoy local co-op with a friend, using creativity and strategy to complete each challenge.</p><p><a href="https://store.steampowered.com/app/4199220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PlaneShift（新規追加）</title>
   <link>https://store.steampowered.com/app/4268510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099650/4dd47d90efc31f3ab5c4c103c974e77cc85b6e3f/header.jpg?t=1767652072" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099650/4dd47d90efc31f3ab5c4c103c974e77cc85b6e3f/header.jpg?t=1767652072" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4099650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099650/4dd47d90efc31f3ab5c4c103c974e77cc85b6e3f/header.jpg?t=1767652072" alt="It&#x27;s Ponpai（新規追加）" /></a></p><p>It&#x27;s Ponpai! It&#x27;s a comedic, offbeat monster-collecting RPG with a strategic turn-based battle system. Gather your ponpai friends, explore the city, and help out the local community!</p><p><a href="https://store.steampowered.com/app/4099650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Auto-Arcana（新規追加）</title>
-  <link>https://store.steampowered.com/app/4281360/</link>
-  <guid isPermaLink="false">steam-store-published-4281360</guid>
-  <pubDate>Mon, 05 Jan 2026 22:41:58 +0000</pubDate>
-  <description>Devise the ultimate spell rotation and watch it obliterate your foes. In this dark fantasy roguelike auto-battler, engineer synergies between rare spells and game-changing relics. Draft spells, sequence your skillbar, and architect your Broken Build.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281360/b06c677c3ee5cfe8be2ab54ea86bb0845d9ae606/header.jpg?t=1767652256" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281360/b06c677c3ee5cfe8be2ab54ea86bb0845d9ae606/header.jpg?t=1767652256" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281360/b06c677c3ee5cfe8be2ab54ea86bb0845d9ae606/header.jpg?t=1767652256" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4281360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281360/b06c677c3ee5cfe8be2ab54ea86bb0845d9ae606/header.jpg?t=1767652256" alt="Auto-Arcana（新規追加）" /></a></p><p>Devise the ultimate spell rotation and watch it obliterate your foes. In this dark fantasy roguelike auto-battler, engineer synergies between rare spells and game-changing relics. Draft spells, sequence your skillbar, and architect your Broken Build.</p><p><a href="https://store.steampowered.com/app/4281360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
