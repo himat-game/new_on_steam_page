@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 08 Jan 2026 08:27:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 08:59:15 +0000</lastBuildDate>
+<item>
+  <title>Type or Die（新規追加）</title>
+  <link>https://store.steampowered.com/app/4252830/</link>
+  <guid isPermaLink="false">steam-store-published-4252830</guid>
+  <pubDate>Thu, 08 Jan 2026 08:59:15 +0000</pubDate>
+  <description>In the heart of a medieval manuscript, a horse takes up arms to avenge its fallen master. Type to attack, collect cards, explore a living board, and survive in a roguelite where every word becomes a weapon.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/321d37e532668c80be34b0da86047d13692c223f/header.jpg?t=1767859278" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/321d37e532668c80be34b0da86047d13692c223f/header.jpg?t=1767859278" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/321d37e532668c80be34b0da86047d13692c223f/header.jpg?t=1767859278" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4252830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252830/321d37e532668c80be34b0da86047d13692c223f/header.jpg?t=1767859278" alt="Type or Die（新規追加）" /></a></p><p>In the heart of a medieval manuscript, a horse takes up arms to avenge its fallen master. Type to attack, collect cards, explore a living board, and survive in a roguelite where every word becomes a weapon.</p><p><a href="https://store.steampowered.com/app/4252830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Automation Farm（新規追加）</title>
   <link>https://store.steampowered.com/app/4274690/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143370/75d93478d0c5328029c4cc075b044cace0b8d650/header.jpg?t=1767515277" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143370/75d93478d0c5328029c4cc075b044cace0b8d650/header.jpg?t=1767515277" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4143370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143370/75d93478d0c5328029c4cc075b044cace0b8d650/header.jpg?t=1767515277" alt="Infinity Battle（新規追加）" /></a></p><p>Infinity Battle is a 2D side-scroller game where you, as a spaceship navigator, destroy hordes of alien ships and collect power-ups, upgrade your ship, and customize your weapons.</p><p><a href="https://store.steampowered.com/app/4143370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Basement To The Sky（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258880/</link>
-  <guid isPermaLink="false">steam-store-published-4258880</guid>
-  <pubDate>Sun, 04 Jan 2026 08:24:09 +0000</pubDate>
-  <description>A bright afternoon, perfect weather. With your parents away, you’re left with a rocket toy you received as a birthday gift. Build your own rocket and launch it high into the sky! Enjoy delicious homemade meals and work part-time jobs to upgrade your rocket. Can your rocket reach outer space?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258880/16ae02e88fb3ac581a9b486aa0d0170d7a83f036/header.jpg?t=1767513523" alt="Basement To The Sky（新規追加）" /></a></p><p>A bright afternoon, perfect weather. With your parents away, you’re left with a rocket toy you received as a birthday gift. Build your own rocket and launch it high into the sky! Enjoy delicious homemade meals and work part-time jobs to upgrade your rocket. Can your rocket reach outer space?</p><p><a href="https://store.steampowered.com/app/4258880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
