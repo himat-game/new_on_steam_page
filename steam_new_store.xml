@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 08 Jan 2026 09:35:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 10:21:53 +0000</lastBuildDate>
+<item>
+  <title>The Long Drift（新規追加）</title>
+  <link>https://store.steampowered.com/app/4289180/</link>
+  <guid isPermaLink="false">steam-store-published-4289180</guid>
+  <pubDate>Thu, 08 Jan 2026 10:21:53 +0000</pubDate>
+  <description>A desktop idle space exploration game that runs in the corner of your screen while you gather resources, build ships, and journey beyond the stars.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/22a7990a905fc68cbd68eeda4660d90b476e7886/header.jpg?t=1767866355" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/22a7990a905fc68cbd68eeda4660d90b476e7886/header.jpg?t=1767866355" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/22a7990a905fc68cbd68eeda4660d90b476e7886/header.jpg?t=1767866355" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/22a7990a905fc68cbd68eeda4660d90b476e7886/header.jpg?t=1767866355" alt="The Long Drift（新規追加）" /></a></p><p>A desktop idle space exploration game that runs in the corner of your screen while you gather resources, build ships, and journey beyond the stars.</p><p><a href="https://store.steampowered.com/app/4289180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Young! Fire!（新規追加）</title>
   <link>https://store.steampowered.com/app/4276150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834380/75015efc15d9da2b2ea80a48ffade0503bc86283/header.jpg?t=1767523573" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834380/75015efc15d9da2b2ea80a48ffade0503bc86283/header.jpg?t=1767523573" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3834380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834380/75015efc15d9da2b2ea80a48ffade0503bc86283/header.jpg?t=1767523573" alt="RagnaCook: Co-op Viking Kitchen（新規追加）" /></a></p><p>The gods are hungry, and the kitchen is on fire! RagnaCook is a chaotic co-op cooking game for 1-4 players. Chop ingredients, cook on moving Viking ships, and feed the armies of Valhalla before the world ends. Teamwork is your only weapon against the apocalypse!</p><p><a href="https://store.steampowered.com/app/3834380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SGS Burning Banners（新規追加）</title>
-  <link>https://store.steampowered.com/app/3901920/</link>
-  <guid isPermaLink="false">steam-store-published-3901920</guid>
-  <pubDate>Sun, 04 Jan 2026 09:46:46 +0000</pubDate>
-  <description>Fight among the kingdoms of Kalar in the untamed eastern continent of Kheros. With the arrival of Lilith, one of the immortal sorcerers responsible for the Worldwound, dark times are looming...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901920/05f8c86ac4da67dc3e45d60f0cf563087eabc91f/header.jpg?t=1767519297" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901920/05f8c86ac4da67dc3e45d60f0cf563087eabc91f/header.jpg?t=1767519297" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901920/05f8c86ac4da67dc3e45d60f0cf563087eabc91f/header.jpg?t=1767519297" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3901920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901920/05f8c86ac4da67dc3e45d60f0cf563087eabc91f/header.jpg?t=1767519297" alt="SGS Burning Banners（新規追加）" /></a></p><p>Fight among the kingdoms of Kalar in the untamed eastern continent of Kheros. With the arrival of Lilith, one of the immortal sorcerers responsible for the Worldwound, dark times are looming...</p><p><a href="https://store.steampowered.com/app/3901920/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
