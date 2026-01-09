@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 18:28:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 18:58:33 +0000</lastBuildDate>
+<item>
+  <title>Presentfall: Santa Defense（新規追加）</title>
+  <link>https://store.steampowered.com/app/4255520/</link>
+  <guid isPermaLink="false">steam-store-published-4255520</guid>
+  <pubDate>Fri, 09 Jan 2026 18:58:33 +0000</pubDate>
+  <description>Presentfall: Santa Defense is a short, action, tower defense game where you help Santa defend his last presents from endless waves of naughty invaders. Aim, react, and throw snowballs to save Christmas. Collect rewards, improve Santa&#x27;s skills and unlock bonuses!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255520/bc021e96f5a132bbca2cdaf33b5c9adeff4b58f1/header.jpg?t=1767984605" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255520/bc021e96f5a132bbca2cdaf33b5c9adeff4b58f1/header.jpg?t=1767984605" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255520/bc021e96f5a132bbca2cdaf33b5c9adeff4b58f1/header.jpg?t=1767984605" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255520/bc021e96f5a132bbca2cdaf33b5c9adeff4b58f1/header.jpg?t=1767984605" alt="Presentfall: Santa Defense（新規追加）" /></a></p><p>Presentfall: Santa Defense is a short, action, tower defense game where you help Santa defend his last presents from endless waves of naughty invaders. Aim, react, and throw snowballs to save Christmas. Collect rewards, improve Santa&#x27;s skills and unlock bonuses!</p><p><a href="https://store.steampowered.com/app/4255520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Evil Spirits（新規追加）</title>
   <link>https://store.steampowered.com/app/4139860/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287050/ced451514e0647781067361a276f1f6317415c02/header.jpg?t=1767750054" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287050/ced451514e0647781067361a276f1f6317415c02/header.jpg?t=1767750054" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4287050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287050/ced451514e0647781067361a276f1f6317415c02/header.jpg?t=1767750054" alt="MetalMuters（新規追加）" /></a></p><p>Half puzzle, half roguelike, mini-factory game where you turn lead into gold!</p><p><a href="https://store.steampowered.com/app/4287050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>A Very Foolish Remaster of Beretta Mondatta（新規追加）</title>
-  <link>https://store.steampowered.com/app/4170120/</link>
-  <guid isPermaLink="false">steam-store-published-4170120</guid>
-  <pubDate>Wed, 07 Jan 2026 03:18:45 +0000</pubDate>
-  <description>Help a psychopath find love in this stupid meme visual novel from 10+ years ago, which has finally gotten the remaster it deserves.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170120/4aa06268df9e1c0143364aeea8e9b8e4f06ef828/header.jpg?t=1767749838" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170120/4aa06268df9e1c0143364aeea8e9b8e4f06ef828/header.jpg?t=1767749838" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170120/4aa06268df9e1c0143364aeea8e9b8e4f06ef828/header.jpg?t=1767749838" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4170120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170120/4aa06268df9e1c0143364aeea8e9b8e4f06ef828/header.jpg?t=1767749838" alt="A Very Foolish Remaster of Beretta Mondatta（新規追加）" /></a></p><p>Help a psychopath find love in this stupid meme visual novel from 10+ years ago, which has finally gotten the remaster it deserves.</p><p><a href="https://store.steampowered.com/app/4170120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
