@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 21:18:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 21:50:16 +0000</lastBuildDate>
+<item>
+  <title>Spirits and Secrets（新規追加）</title>
+  <link>https://store.steampowered.com/app/4230990/</link>
+  <guid isPermaLink="false">steam-store-published-4230990</guid>
+  <pubDate>Fri, 09 Jan 2026 21:50:16 +0000</pubDate>
+  <description>Spirits and Secrets is a Bartender Simulator Murder Mystery game set in a medieval fantasy world. Talk to patrons, make their orders, and solve their mysteries by piecing together clues. </description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230990/798541805c4a86581efaf252bb7060576ffb4ff6/header.jpg?t=1767994882" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230990/798541805c4a86581efaf252bb7060576ffb4ff6/header.jpg?t=1767994882" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230990/798541805c4a86581efaf252bb7060576ffb4ff6/header.jpg?t=1767994882" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4230990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230990/798541805c4a86581efaf252bb7060576ffb4ff6/header.jpg?t=1767994882" alt="Spirits and Secrets（新規追加）" /></a></p><p>Spirits and Secrets is a Bartender Simulator Murder Mystery game set in a medieval fantasy world. Talk to patrons, make their orders, and solve their mysteries by piecing together clues. </p><p><a href="https://store.steampowered.com/app/4230990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Maritime Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4273820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285860/ceb336af86b27f8017af9f7feaabd30ea2af0b1d/header.jpg?t=1767759566" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285860/ceb336af86b27f8017af9f7feaabd30ea2af0b1d/header.jpg?t=1767759566" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285860/ceb336af86b27f8017af9f7feaabd30ea2af0b1d/header.jpg?t=1767759566" alt="Desktop Girl Chika（新規追加）" /></a></p><p>On your desktop, Chika is not a passive decoration, but a presence with emotions, memory, and independent judgment. You are not “controlling” her; you are accompanying her growth—through time, interaction, and choice, giving her a complete and unique life.</p><p><a href="https://store.steampowered.com/app/4285860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Super Wash Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4280230/</link>
-  <guid isPermaLink="false">steam-store-published-4280230</guid>
-  <pubDate>Wed, 07 Jan 2026 04:55:42 +0000</pubDate>
-  <description>A relaxing open world pressure washing simulator where you explore the city, accept cleaning jobs, upgrade your equipment, and turn dirt-covered places into spotless environments at your own pace.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280230/0a5d969defd3a94ae27a6130909d703e3103413a/header.jpg?t=1767761565" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280230/0a5d969defd3a94ae27a6130909d703e3103413a/header.jpg?t=1767761565" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280230/0a5d969defd3a94ae27a6130909d703e3103413a/header.jpg?t=1767761565" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280230/0a5d969defd3a94ae27a6130909d703e3103413a/header.jpg?t=1767761565" alt="Super Wash Simulator（新規追加）" /></a></p><p>A relaxing open world pressure washing simulator where you explore the city, accept cleaning jobs, upgrade your equipment, and turn dirt-covered places into spotless environments at your own pace.</p><p><a href="https://store.steampowered.com/app/4280230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
