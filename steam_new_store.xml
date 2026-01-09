@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 03:19:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 04:12:16 +0000</lastBuildDate>
+<item>
+  <title>You Stay（新規追加）</title>
+  <link>https://store.steampowered.com/app/4288920/</link>
+  <guid isPermaLink="false">steam-store-published-4288920</guid>
+  <pubDate>Fri, 09 Jan 2026 04:12:16 +0000</pubDate>
+  <description>A short psychological visual novel about a town you can’t leave. Observe. Wait. Repeat. The longer you stay, the more the town notices.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288920/9049458e76b08fdd4db6d23800c6120510071f83/header.jpg?t=1767929396" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288920/9049458e76b08fdd4db6d23800c6120510071f83/header.jpg?t=1767929396" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288920/9049458e76b08fdd4db6d23800c6120510071f83/header.jpg?t=1767929396" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4288920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288920/9049458e76b08fdd4db6d23800c6120510071f83/header.jpg?t=1767929396" alt="You Stay（新規追加）" /></a></p><p>A short psychological visual novel about a town you can’t leave. Observe. Wait. Repeat. The longer you stay, the more the town notices.</p><p><a href="https://store.steampowered.com/app/4288920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Ropeman（新規追加）</title>
+  <link>https://store.steampowered.com/app/4134680/</link>
+  <guid isPermaLink="false">steam-store-published-4134680</guid>
+  <pubDate>Fri, 09 Jan 2026 04:12:16 +0000</pubDate>
+  <description>A two dimensional platformer where you throw a knife into a wall, attach your rope to it, and swing like a pendulum. With only your rope swing skill, you must keep climbing upward until you finally reach the moon.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134680/300d318c3c48a64cb8cd672dfae5daa5cb1aeb9b/header.jpg?t=1767930197" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134680/300d318c3c48a64cb8cd672dfae5daa5cb1aeb9b/header.jpg?t=1767930197" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134680/300d318c3c48a64cb8cd672dfae5daa5cb1aeb9b/header.jpg?t=1767930197" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4134680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134680/300d318c3c48a64cb8cd672dfae5daa5cb1aeb9b/header.jpg?t=1767930197" alt="Ropeman（新規追加）" /></a></p><p>A two dimensional platformer where you throw a knife into a wall, attach your rope to it, and swing like a pendulum. With only your rope swing skill, you must keep climbing upward until you finally reach the moon.</p><p><a href="https://store.steampowered.com/app/4134680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Karakurium（新規追加）</title>
   <link>https://store.steampowered.com/app/4021440/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389160/4c35a598074a38f2ec549558aa1363efe7ab97d4/header.jpg?t=1767693638" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389160/4c35a598074a38f2ec549558aa1363efe7ab97d4/header.jpg?t=1767693638" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3389160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389160/4c35a598074a38f2ec549558aa1363efe7ab97d4/header.jpg?t=1767693638" alt="Dungeon Element Fantasy（新規追加）" /></a></p><p>Explore the fantasy dungeon, use the elements flexibly, experience varied events and use different mechanisms to solve challenges. And, face powerful beings head on.</p><p><a href="https://store.steampowered.com/app/3389160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>失踪トンネル（新規追加）</title>
-  <link>https://store.steampowered.com/app/4257830/</link>
-  <guid isPermaLink="false">steam-store-published-4257830</guid>
-  <pubDate>Tue, 06 Jan 2026 09:34:10 +0000</pubDate>
-  <description>There is a tunnel rumored to be a place where people mysteriously disappear. You are asked to investigate a missing persons case and step into the tunnel. Will you be able to escape safely?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257830/9a5c3de4b27327ef939632d18692e47f400b5a97/header.jpg?t=1767691807" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257830/9a5c3de4b27327ef939632d18692e47f400b5a97/header.jpg?t=1767691807" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257830/9a5c3de4b27327ef939632d18692e47f400b5a97/header.jpg?t=1767691807" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4257830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257830/9a5c3de4b27327ef939632d18692e47f400b5a97/header.jpg?t=1767691807" alt="失踪トンネル（新規追加）" /></a></p><p>There is a tunnel rumored to be a place where people mysteriously disappear. You are asked to investigate a missing persons case and step into the tunnel. Will you be able to escape safely?</p><p><a href="https://store.steampowered.com/app/4257830/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Eclipse of The Shadow（新規追加）</title>
-  <link>https://store.steampowered.com/app/3176770/</link>
-  <guid isPermaLink="false">steam-store-published-3176770</guid>
-  <pubDate>Tue, 06 Jan 2026 09:34:10 +0000</pubDate>
-  <description>In &amp;quot;Eclipse of the Shadow&amp;quot;, you’re the last survivor in a monster-infested space station. With limited resources and an AI guide, you must solve puzzles, send a distress signal, and escape. Can you survive in this station?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3176770/359b6242747ba9583a6130888c7f00fde689b6a7/header.jpg?t=1767691402" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3176770/359b6242747ba9583a6130888c7f00fde689b6a7/header.jpg?t=1767691402" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3176770/359b6242747ba9583a6130888c7f00fde689b6a7/header.jpg?t=1767691402" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3176770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3176770/359b6242747ba9583a6130888c7f00fde689b6a7/header.jpg?t=1767691402" alt="Eclipse of The Shadow（新規追加）" /></a></p><p>In &amp;quot;Eclipse of the Shadow&amp;quot;, you’re the last survivor in a monster-infested space station. With limited resources and an AI guide, you must solve puzzles, send a distress signal, and escape. Can you survive in this station?</p><p><a href="https://store.steampowered.com/app/3176770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
