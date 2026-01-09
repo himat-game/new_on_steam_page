@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 17:27:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 17:51:53 +0000</lastBuildDate>
+<item>
+  <title>Recycle Quest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4286190/</link>
+  <guid isPermaLink="false">steam-store-published-4286190</guid>
+  <pubDate>Fri, 09 Jan 2026 17:51:53 +0000</pubDate>
+  <description>Recycle Quest is a Sokoban puzzle game where you control Jake to help cleaning the city</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286190/ebf78e22d54a648b51bfff5eaf6e2e3a31e2661e/header.jpg?t=1767980606" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286190/ebf78e22d54a648b51bfff5eaf6e2e3a31e2661e/header.jpg?t=1767980606" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286190/ebf78e22d54a648b51bfff5eaf6e2e3a31e2661e/header.jpg?t=1767980606" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4286190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286190/ebf78e22d54a648b51bfff5eaf6e2e3a31e2661e/header.jpg?t=1767980606" alt="Recycle Quest（新規追加）" /></a></p><p>Recycle Quest is a Sokoban puzzle game where you control Jake to help cleaning the city</p><p><a href="https://store.steampowered.com/app/4286190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mazino（新規追加）</title>
   <link>https://store.steampowered.com/app/4279010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255690/43b894b0d3b034e5e2c408266b9fbfeb92794468/header.jpg?t=1767741414" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255690/43b894b0d3b034e5e2c408266b9fbfeb92794468/header.jpg?t=1767741414" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255690/43b894b0d3b034e5e2c408266b9fbfeb92794468/header.jpg?t=1767741414" alt="Mazemerizzz2（新規追加）" /></a></p><p>Moe is napping again and this time, it&#x27;s a NIGHTMARE! The Watcher has Moe trapped in a massive endless maze filled with danger! Zombies, minotaurs and bone crushing, spikey, gaseous, flame filled traps. Equipped with just a torch, Moe must find a way to wake up.</p><p><a href="https://store.steampowered.com/app/4255690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rogue Ricochet（新規追加）</title>
-  <link>https://store.steampowered.com/app/4266770/</link>
-  <guid isPermaLink="false">steam-store-published-4266770</guid>
-  <pubDate>Tue, 06 Jan 2026 23:47:00 +0000</pubDate>
-  <description>Master the Ricochet in this physics-based roguelite fusing arcade pong-like action with fantasy RPG depth. Create your character, stack your balls with weapons, and shatter your enemies as you explore a procedurally generated medieval world to discover powerful synergies and defeat massive bosses.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266770/02d692beb612d1c656d1442f94d30b2d36efd3b3/header.jpg?t=1767740417" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266770/02d692beb612d1c656d1442f94d30b2d36efd3b3/header.jpg?t=1767740417" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266770/02d692beb612d1c656d1442f94d30b2d36efd3b3/header.jpg?t=1767740417" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266770/02d692beb612d1c656d1442f94d30b2d36efd3b3/header.jpg?t=1767740417" alt="Rogue Ricochet（新規追加）" /></a></p><p>Master the Ricochet in this physics-based roguelite fusing arcade pong-like action with fantasy RPG depth. Create your character, stack your balls with weapons, and shatter your enemies as you explore a procedurally generated medieval world to discover powerful synergies and defeat massive bosses.</p><p><a href="https://store.steampowered.com/app/4266770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
