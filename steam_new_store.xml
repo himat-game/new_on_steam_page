@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 12:39:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 13:25:36 +0000</lastBuildDate>
+<item>
+  <title>Sea Sweeper（新規追加）</title>
+  <link>https://store.steampowered.com/app/4291520/</link>
+  <guid isPermaLink="false">steam-store-published-4291520</guid>
+  <pubDate>Fri, 09 Jan 2026 13:25:36 +0000</pubDate>
+  <description>Sea Sweeper is a relaxing incremental game where you clean the ocean with your ship. Collect garbage, manage fuel, earn money, and upgrade your ship to clean faster and sweep larger sea areas each run.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291520/72d052030ac995e0506d5c405c60b0aa2968e93d/header.jpg?t=1767963851" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291520/72d052030ac995e0506d5c405c60b0aa2968e93d/header.jpg?t=1767963851" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291520/72d052030ac995e0506d5c405c60b0aa2968e93d/header.jpg?t=1767963851" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4291520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291520/72d052030ac995e0506d5c405c60b0aa2968e93d/header.jpg?t=1767963851" alt="Sea Sweeper（新規追加）" /></a></p><p>Sea Sweeper is a relaxing incremental game where you clean the ocean with your ship. Collect garbage, manage fuel, earn money, and upgrade your ship to clean faster and sweep larger sea areas each run.</p><p><a href="https://store.steampowered.com/app/4291520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dawnrazor（新規追加）</title>
   <link>https://store.steampowered.com/app/4241580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144230/9a331eabc1fa8c4a4f390aa8a928f72ec5510a7f/header.jpg?t=1767722451" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144230/9a331eabc1fa8c4a4f390aa8a928f72ec5510a7f/header.jpg?t=1767722451" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4144230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144230/9a331eabc1fa8c4a4f390aa8a928f72ec5510a7f/header.jpg?t=1767722451" alt="That is not the ball!（新規追加）" /></a></p><p>A typing adventure about a dog playing catch the ball! Protect your dog by spelling out words to defeat mysterious creatures before they get your dog. Your keyboard is your only defense in this world.</p><p><a href="https://store.steampowered.com/app/4144230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Yellow（新規追加）</title>
-  <link>https://store.steampowered.com/app/4272700/</link>
-  <guid isPermaLink="false">steam-store-published-4272700</guid>
-  <pubDate>Tue, 06 Jan 2026 17:52:04 +0000</pubDate>
-  <description>YELLOW is a liminal survival horror game. As a M.E.G. inspector in hazmat gear, explore unstable Backrooms zones to document &amp;quot;Undocumented&amp;quot; entities. With zero data available, you must study these lethal threats, uncover their origins, and solve the mystery of why new levels are appearing.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272700/f47300abc0dd3c2887dd74e4107eca3181191637/header.jpg?t=1767721274" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272700/f47300abc0dd3c2887dd74e4107eca3181191637/header.jpg?t=1767721274" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272700/f47300abc0dd3c2887dd74e4107eca3181191637/header.jpg?t=1767721274" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272700/f47300abc0dd3c2887dd74e4107eca3181191637/header.jpg?t=1767721274" alt="Yellow（新規追加）" /></a></p><p>YELLOW is a liminal survival horror game. As a M.E.G. inspector in hazmat gear, explore unstable Backrooms zones to document &amp;quot;Undocumented&amp;quot; entities. With zero data available, you must study these lethal threats, uncover their origins, and solve the mystery of why new levels are appearing.</p><p><a href="https://store.steampowered.com/app/4272700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
