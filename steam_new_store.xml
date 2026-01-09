@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 13:57:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 14:28:16 +0000</lastBuildDate>
+<item>
+  <title>I’m a Wizard, But I Dig（新規追加）</title>
+  <link>https://store.steampowered.com/app/3471290/</link>
+  <guid isPermaLink="false">steam-store-published-3471290</guid>
+  <pubDate>Fri, 09 Jan 2026 14:28:16 +0000</pubDate>
+  <description>Shorten your journey to the castle by digging a tunnel through the mountain. Use magic and craft: swing your pickaxe, cast spells, blow up obstacles, and light your path with glowing slimes. Trade resources with the Goose, unlock new tools, and uncover the mountain&#x27;s secrets.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471290/85478187bef0f3f381ca842a7e0e214e1f4216e8/header.jpg?t=1767967681" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471290/85478187bef0f3f381ca842a7e0e214e1f4216e8/header.jpg?t=1767967681" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471290/85478187bef0f3f381ca842a7e0e214e1f4216e8/header.jpg?t=1767967681" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3471290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471290/85478187bef0f3f381ca842a7e0e214e1f4216e8/header.jpg?t=1767967681" alt="I’m a Wizard, But I Dig（新規追加）" /></a></p><p>Shorten your journey to the castle by digging a tunnel through the mountain. Use magic and craft: swing your pickaxe, cast spells, blow up obstacles, and light your path with glowing slimes. Trade resources with the Goose, unlock new tools, and uncover the mountain&#x27;s secrets.</p><p><a href="https://store.steampowered.com/app/3471290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Beltix（新規追加）</title>
   <link>https://store.steampowered.com/app/4173050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276550/9da6cb0cd067dede8ba185ed38797b9cc817edb5/header.jpg?t=1767727706" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276550/9da6cb0cd067dede8ba185ed38797b9cc817edb5/header.jpg?t=1767727706" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276550/9da6cb0cd067dede8ba185ed38797b9cc817edb5/header.jpg?t=1767727706" alt="Godling Harem（新規追加）" /></a></p><p>You&#x27;ve fallen from godhood to a godling that has lost much of your powers, but you&#x27;re given a second chance. Save the world and gain back your powers, grow your harem of royals and nobles, and ascend back into godhood in this 2D RPG featuring animated adult content.</p><p><a href="https://store.steampowered.com/app/4276550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>EON Survivor（新規追加）</title>
-  <link>https://store.steampowered.com/app/4286910/</link>
-  <guid isPermaLink="false">steam-store-published-4286910</guid>
-  <pubDate>Tue, 06 Jan 2026 19:46:55 +0000</pubDate>
-  <description>Space survivors-like action where every second counts. Face relentless alien waves, upgrade your ship, and collect critical minerals before time runs out. Survival is only the beginning.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286910/3858dcae5bf7f4a448b37c77d734d10fd3512622/header.jpg?t=1767726721" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286910/3858dcae5bf7f4a448b37c77d734d10fd3512622/header.jpg?t=1767726721" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286910/3858dcae5bf7f4a448b37c77d734d10fd3512622/header.jpg?t=1767726721" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4286910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286910/3858dcae5bf7f4a448b37c77d734d10fd3512622/header.jpg?t=1767726721" alt="EON Survivor（新規追加）" /></a></p><p>Space survivors-like action where every second counts. Face relentless alien waves, upgrade your ship, and collect critical minerals before time runs out. Survival is only the beginning.</p><p><a href="https://store.steampowered.com/app/4286910/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
