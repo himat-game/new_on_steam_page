@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 08:27:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 08:59:00 +0000</lastBuildDate>
+<item>
+  <title>Soup Adventure（新規追加）</title>
+  <link>https://store.steampowered.com/app/4046480/</link>
+  <guid isPermaLink="false">steam-store-published-4046480</guid>
+  <pubDate>Fri, 09 Jan 2026 08:59:00 +0000</pubDate>
+  <description>A retro action-adventure game in which a little boy runs errands for his grandma and embarks on an epic quest full of dungeons, monsters and imagination.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046480/e1c6b021dbea160f43ebd391f4946c24aace9879/header.jpg?t=1767947507" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046480/e1c6b021dbea160f43ebd391f4946c24aace9879/header.jpg?t=1767947507" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046480/e1c6b021dbea160f43ebd391f4946c24aace9879/header.jpg?t=1767947507" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4046480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4046480/e1c6b021dbea160f43ebd391f4946c24aace9879/header.jpg?t=1767947507" alt="Soup Adventure（新規追加）" /></a></p><p>A retro action-adventure game in which a little boy runs errands for his grandma and embarks on an epic quest full of dungeons, monsters and imagination.</p><p><a href="https://store.steampowered.com/app/4046480/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Monster Lord: Sapphire（新規追加）</title>
   <link>https://store.steampowered.com/app/3711600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014210/4a0c30367df746089a80d03e686e0767af60e2d0/header.jpg?t=1767711026" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014210/4a0c30367df746089a80d03e686e0767af60e2d0/header.jpg?t=1767711026" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014210/4a0c30367df746089a80d03e686e0767af60e2d0/header.jpg?t=1767711026" alt="Sweep Squad（新規追加）" /></a></p><p>Sweep Squad is a 1-4 player arcade sweep-em-up where you and your ambiguous rodent friends team up to sweep away the bad guys and hit your quotas. Crank up the earnings with overtime and use various sub-weapons at your disposal to sweep away the competition.</p><p><a href="https://store.steampowered.com/app/4014210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rasen（新規追加）</title>
-  <link>https://store.steampowered.com/app/3967860/</link>
-  <guid isPermaLink="false">steam-store-published-3967860</guid>
-  <pubDate>Tue, 06 Jan 2026 14:25:51 +0000</pubDate>
-  <description>Strike with precision, time your deflects and fight flawlessly to your own rhythm. Step into atmospheric PvP or PvE arena duels and fast-paced clashes with a variety of lethal characters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3967860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/a9abbf9e0b1a907a696f6bae273b63bf978ad2d5/header.jpg?t=1767708066" alt="Rasen（新規追加）" /></a></p><p>Strike with precision, time your deflects and fight flawlessly to your own rhythm. Step into atmospheric PvP or PvE arena duels and fast-paced clashes with a variety of lethal characters.</p><p><a href="https://store.steampowered.com/app/3967860/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
