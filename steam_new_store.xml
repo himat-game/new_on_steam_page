@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 20:21:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 21:18:49 +0000</lastBuildDate>
+<item>
+  <title>Maritime Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4273820/</link>
+  <guid isPermaLink="false">steam-store-published-4273820</guid>
+  <pubDate>Fri, 09 Jan 2026 21:18:49 +0000</pubDate>
+  <description>A realistic vessel traffic simulation where you manage and control maritime traffic in busy waterways. Monitor ships, assign routes, prevent incidents, and keep ports and rivers moving safely as a VTS (Vessel Traffic Service) operator.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273820/880c6973820d7e89802145cb6ee90be4221e514d/header.jpg?t=1767991879" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273820/880c6973820d7e89802145cb6ee90be4221e514d/header.jpg?t=1767991879" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273820/880c6973820d7e89802145cb6ee90be4221e514d/header.jpg?t=1767991879" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273820/880c6973820d7e89802145cb6ee90be4221e514d/header.jpg?t=1767991879" alt="Maritime Simulator（新規追加）" /></a></p><p>A realistic vessel traffic simulation where you manage and control maritime traffic in busy waterways. Monitor ships, assign routes, prevent incidents, and keep ports and rivers moving safely as a VTS (Vessel Traffic Service) operator.</p><p><a href="https://store.steampowered.com/app/4273820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>River Runners（新規追加）</title>
   <link>https://store.steampowered.com/app/4273870/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280230/0a5d969defd3a94ae27a6130909d703e3103413a/header.jpg?t=1767761565" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280230/0a5d969defd3a94ae27a6130909d703e3103413a/header.jpg?t=1767761565" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280230/0a5d969defd3a94ae27a6130909d703e3103413a/header.jpg?t=1767761565" alt="Super Wash Simulator（新規追加）" /></a></p><p>A relaxing open world pressure washing simulator where you explore the city, accept cleaning jobs, upgrade your equipment, and turn dirt-covered places into spotless environments at your own pace.</p><p><a href="https://store.steampowered.com/app/4280230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>我自成道 I Am The Dao（新規追加）</title>
-  <link>https://store.steampowered.com/app/4264340/</link>
-  <guid isPermaLink="false">steam-store-published-4264340</guid>
-  <pubDate>Wed, 07 Jan 2026 04:55:42 +0000</pubDate>
-  <description>&amp;lt;I Am The Dao&amp;gt; is a cultivation idle game that blends xianxia web novel lore with real-time auto-combat. Starting from the Mortal Realm, you will ascend through the Spirit Realm and Immortal Realm, eventually dominating the boundless cosmos. Each new world you enter unlocks unique gameplay!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264340/f6e1b0d87355957f83fa76b0bdeefeba87347519/header.jpg?t=1767759656" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264340/f6e1b0d87355957f83fa76b0bdeefeba87347519/header.jpg?t=1767759656" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264340/f6e1b0d87355957f83fa76b0bdeefeba87347519/header.jpg?t=1767759656" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4264340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264340/f6e1b0d87355957f83fa76b0bdeefeba87347519/header.jpg?t=1767759656" alt="我自成道 I Am The Dao（新規追加）" /></a></p><p>&amp;lt;I Am The Dao&amp;gt; is a cultivation idle game that blends xianxia web novel lore with real-time auto-combat. Starting from the Mortal Realm, you will ascend through the Spirit Realm and Immortal Realm, eventually dominating the boundless cosmos. Each new world you enter unlocks unique gameplay!</p><p><a href="https://store.steampowered.com/app/4264340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
