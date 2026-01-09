@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 05:23:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 06:30:28 +0000</lastBuildDate>
+<item>
+  <title>Eldritch Hour（新規追加）</title>
+  <link>https://store.steampowered.com/app/3101430/</link>
+  <guid isPermaLink="false">steam-store-published-3101430</guid>
+  <pubDate>Fri, 09 Jan 2026 06:30:28 +0000</pubDate>
+  <description>Manage a hotel straddling the border between worlds. Use deduction to identify Eldritch guests, solve abstract puzzles, and manage staff to survive the weekly Chaos invasion. A dark humor management sim where you must keep the hotel running... and your sanity intact.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101430/c02695ca752e1267b3706dd12e50672f0e425162/header.jpg?t=1767940129" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101430/c02695ca752e1267b3706dd12e50672f0e425162/header.jpg?t=1767940129" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101430/c02695ca752e1267b3706dd12e50672f0e425162/header.jpg?t=1767940129" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3101430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101430/c02695ca752e1267b3706dd12e50672f0e425162/header.jpg?t=1767940129" alt="Eldritch Hour（新規追加）" /></a></p><p>Manage a hotel straddling the border between worlds. Use deduction to identify Eldritch guests, solve abstract puzzles, and manage staff to survive the weekly Chaos invasion. A dark humor management sim where you must keep the hotel running... and your sanity intact.</p><p><a href="https://store.steampowered.com/app/3101430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hostess Club Temptation Game（新規追加）</title>
   <link>https://store.steampowered.com/app/3436260/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975530/0c2298b3debc0d91a258d86a0b196dfaaa87d57c/header.jpg?t=1767699419" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975530/0c2298b3debc0d91a258d86a0b196dfaaa87d57c/header.jpg?t=1767699419" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3975530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975530/0c2298b3debc0d91a258d86a0b196dfaaa87d57c/header.jpg?t=1767699419" alt="トガネヨビ（新規追加）" /></a></p><p>Toganeyobi, a horror escape puzzle game by Jamsanpoid (From Madness with Love).Protagonist Hachisuka Yuki lured by a high-paying shady gig,&amp;quot;connect to 11 numbers on the old public communicator at 2:00 AM.&amp;quot; Whether you ■■■■ them or ■■■■ them is up to you.</p><p><a href="https://store.steampowered.com/app/3975530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Abyss Occult（新規追加）</title>
-  <link>https://store.steampowered.com/app/3333410/</link>
-  <guid isPermaLink="false">steam-store-published-3333410</guid>
-  <pubDate>Tue, 06 Jan 2026 11:47:09 +0000</pubDate>
-  <description>An action-adventure horror experience across eerie, ever-changing spaces. Solve puzzles, uncover clues, and rely on a mysterious phone to push beyond confinement.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333410/966e2f5884e32217808a9db3a0c3bb573fe8f149/header.jpg?t=1767698335" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333410/966e2f5884e32217808a9db3a0c3bb573fe8f149/header.jpg?t=1767698335" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333410/966e2f5884e32217808a9db3a0c3bb573fe8f149/header.jpg?t=1767698335" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3333410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333410/966e2f5884e32217808a9db3a0c3bb573fe8f149/header.jpg?t=1767698335" alt="Abyss Occult（新規追加）" /></a></p><p>An action-adventure horror experience across eerie, ever-changing spaces. Solve puzzles, uncover clues, and rely on a mysterious phone to push beyond confinement.</p><p><a href="https://store.steampowered.com/app/3333410/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
