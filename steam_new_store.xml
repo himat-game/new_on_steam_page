@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 15:21:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 15:51:54 +0000</lastBuildDate>
+<item>
+  <title>Fyrardien（新規追加）</title>
+  <link>https://store.steampowered.com/app/4228310/</link>
+  <guid isPermaLink="false">steam-store-published-4228310</guid>
+  <pubDate>Fri, 09 Jan 2026 15:51:54 +0000</pubDate>
+  <description>After a fateful discovery, our hero and their new companions embark on a challenging journey through unknown lands. Are they the last hope for their world? And could these new companions become more than just friends? The choice is yours, young Guardian...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228310/570a0db1e2c54f43f8ac8bb8c006194325f19ad4/header.jpg?t=1767973233" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228310/570a0db1e2c54f43f8ac8bb8c006194325f19ad4/header.jpg?t=1767973233" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228310/570a0db1e2c54f43f8ac8bb8c006194325f19ad4/header.jpg?t=1767973233" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4228310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228310/570a0db1e2c54f43f8ac8bb8c006194325f19ad4/header.jpg?t=1767973233" alt="Fyrardien（新規追加）" /></a></p><p>After a fateful discovery, our hero and their new companions embark on a challenging journey through unknown lands. Are they the last hope for their world? And could these new companions become more than just friends? The choice is yours, young Guardian...</p><p><a href="https://store.steampowered.com/app/4228310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Blossaria（新規追加）</title>
+  <link>https://store.steampowered.com/app/4197600/</link>
+  <guid isPermaLink="false">steam-store-published-4197600</guid>
+  <pubDate>Fri, 09 Jan 2026 15:51:54 +0000</pubDate>
+  <description>Blossaria is a puzzle-based city builder where you create a growing world on a hex grid. Rotate and place landscape shapes to find the perfect fit. Fulfill village needs, expand your map, and unlock beautiful landmarks. A meditative, relaxing experience at your own pace.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197600/cb8fee84f239fe5c8bc801b4ce2dda701dcd1303/header.jpg?t=1767973688" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197600/cb8fee84f239fe5c8bc801b4ce2dda701dcd1303/header.jpg?t=1767973688" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197600/cb8fee84f239fe5c8bc801b4ce2dda701dcd1303/header.jpg?t=1767973688" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4197600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197600/cb8fee84f239fe5c8bc801b4ce2dda701dcd1303/header.jpg?t=1767973688" alt="Blossaria（新規追加）" /></a></p><p>Blossaria is a puzzle-based city builder where you create a growing world on a hex grid. Rotate and place landscape shapes to find the perfect fit. Fulfill village needs, expand your map, and unlock beautiful landmarks. A meditative, relaxing experience at your own pace.</p><p><a href="https://store.steampowered.com/app/4197600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Weapon Master Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/3979980/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606620/1a0264553e5d645e8d1e08fc091ba8e5074bc0c4/header.jpg?t=1767730763" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606620/1a0264553e5d645e8d1e08fc091ba8e5074bc0c4/header.jpg?t=1767730763" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3606620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606620/1a0264553e5d645e8d1e08fc091ba8e5074bc0c4/header.jpg?t=1767730763" alt="Pileus Bad Trip（新規追加）" /></a></p><p>Try yourself in the role of a swollen mushroom and try to fix what happened while you were asleep!</p><p><a href="https://store.steampowered.com/app/3606620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Inner Exile（新規追加）</title>
-  <link>https://store.steampowered.com/app/4285200/</link>
-  <guid isPermaLink="false">steam-store-published-4285200</guid>
-  <pubDate>Tue, 06 Jan 2026 20:21:01 +0000</pubDate>
-  <description>Inner Exile is a cinematic FPS psychological horror experience told in a single uninterrupted take. Collect memory objects and solve environmental puzzles to rebuild a traumatic past inside a claustrophobic, mysterious mindscape.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285200/761b4077ca955467acd30e6efd561caebd99bd50/header.jpg?t=1767729615" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285200/761b4077ca955467acd30e6efd561caebd99bd50/header.jpg?t=1767729615" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285200/761b4077ca955467acd30e6efd561caebd99bd50/header.jpg?t=1767729615" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285200/761b4077ca955467acd30e6efd561caebd99bd50/header.jpg?t=1767729615" alt="Inner Exile（新規追加）" /></a></p><p>Inner Exile is a cinematic FPS psychological horror experience told in a single uninterrupted take. Collect memory objects and solve environmental puzzles to rebuild a traumatic past inside a claustrophobic, mysterious mindscape.</p><p><a href="https://store.steampowered.com/app/4285200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ink &amp; Steel（新規追加）</title>
-  <link>https://store.steampowered.com/app/4227790/</link>
-  <guid isPermaLink="false">steam-store-published-4227790</guid>
-  <pubDate>Tue, 06 Jan 2026 20:21:01 +0000</pubDate>
-  <description>Fight through a roguelike campaign commanding massive fantasy armies — up to 100,000 soldiers, physics driven combat, and towering monsters. Lead knights, samurai, undead legions, elves, and goblins into battle.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227790/53d42056d17e1fadcdac5f12d874ed9dea3d3863/header.jpg?t=1767727678" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227790/53d42056d17e1fadcdac5f12d874ed9dea3d3863/header.jpg?t=1767727678" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227790/53d42056d17e1fadcdac5f12d874ed9dea3d3863/header.jpg?t=1767727678" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4227790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227790/53d42056d17e1fadcdac5f12d874ed9dea3d3863/header.jpg?t=1767727678" alt="Ink &amp; Steel（新規追加）" /></a></p><p>Fight through a roguelike campaign commanding massive fantasy armies — up to 100,000 soldiers, physics driven combat, and towering monsters. Lead knights, samurai, undead legions, elves, and goblins into battle.</p><p><a href="https://store.steampowered.com/app/4227790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
