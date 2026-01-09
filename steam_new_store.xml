@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 19:24:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 19:46:09 +0000</lastBuildDate>
+<item>
+  <title>Deep Space Exodus（新規追加）</title>
+  <link>https://store.steampowered.com/app/4279610/</link>
+  <guid isPermaLink="false">steam-store-published-4279610</guid>
+  <pubDate>Fri, 09 Jan 2026 19:46:09 +0000</pubDate>
+  <description>Deep Space Exodus is a sci-fi narrative simulation with multiple endings. You manage The Noah, an immigrant starship searching for a new home. Face unprecedented cosmic events, allocate energy, supplies, and population, and decide the fate of an entire civilization.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279610/978d518ef529b372d548f955ac05bdf1d0e427fd/header.jpg?t=1767987031" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279610/978d518ef529b372d548f955ac05bdf1d0e427fd/header.jpg?t=1767987031" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279610/978d518ef529b372d548f955ac05bdf1d0e427fd/header.jpg?t=1767987031" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4279610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279610/978d518ef529b372d548f955ac05bdf1d0e427fd/header.jpg?t=1767987031" alt="Deep Space Exodus（新規追加）" /></a></p><p>Deep Space Exodus is a sci-fi narrative simulation with multiple endings. You manage The Noah, an immigrant starship searching for a new home. Face unprecedented cosmic events, allocate energy, supplies, and population, and decide the fate of an entire civilization.</p><p><a href="https://store.steampowered.com/app/4279610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Backrooms Protocol（新規追加）</title>
   <link>https://store.steampowered.com/app/4287480/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1053880/5857afb002879788fb0ab456e7a38f22453381b7/header.jpg?t=1767753209" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1053880/5857afb002879788fb0ab456e7a38f22453381b7/header.jpg?t=1767753209" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1053880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1053880/5857afb002879788fb0ab456e7a38f22453381b7/header.jpg?t=1767753209" alt="Reveal Strike（新規追加）" /></a></p><p>Reveal Strike is a third-person team-based shooter. Here, visibility is fleeting, and danger is ever-shifting. The core zones of the map are shrouded in the &amp;quot;Hidden Realm&amp;quot; by default. You face not only the barrels of enemy guns but the sheer terror of the unknown.</p><p><a href="https://store.steampowered.com/app/1053880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dream Walker（新規追加）</title>
-  <link>https://store.steampowered.com/app/3648350/</link>
-  <guid isPermaLink="false">steam-store-published-3648350</guid>
-  <pubDate>Wed, 07 Jan 2026 03:18:45 +0000</pubDate>
-  <description>&amp;quot;Dream Walker&amp;quot; is an RPG game that combines survival, scavenging for extraction, and turn-based combat. Every time you explore within the dream, you might acquire valuable treasures, but you could also lose everything.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648350/16ef0ecbcfac338739be89c2d344bedd95f0fb45/header.jpg?t=1767753899" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648350/16ef0ecbcfac338739be89c2d344bedd95f0fb45/header.jpg?t=1767753899" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648350/16ef0ecbcfac338739be89c2d344bedd95f0fb45/header.jpg?t=1767753899" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3648350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3648350/16ef0ecbcfac338739be89c2d344bedd95f0fb45/header.jpg?t=1767753899" alt="Dream Walker（新規追加）" /></a></p><p>&amp;quot;Dream Walker&amp;quot; is an RPG game that combines survival, scavenging for extraction, and turn-based combat. Every time you explore within the dream, you might acquire valuable treasures, but you could also lose everything.</p><p><a href="https://store.steampowered.com/app/3648350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
