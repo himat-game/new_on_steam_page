@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 09 Jan 2026 10:45:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 11:48:03 +0000</lastBuildDate>
+<item>
+  <title>Neon Mind（新規追加）</title>
+  <link>https://store.steampowered.com/app/4182380/</link>
+  <guid isPermaLink="false">steam-store-published-4182380</guid>
+  <pubDate>Fri, 09 Jan 2026 11:48:03 +0000</pubDate>
+  <description>A single-player turn-based puzzle game that will thoroughly tease your brain</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182380/51a31162b3a401a09b81f919aa45d44b1f60a3c2/header.jpg?t=1767958814" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182380/51a31162b3a401a09b81f919aa45d44b1f60a3c2/header.jpg?t=1767958814" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182380/51a31162b3a401a09b81f919aa45d44b1f60a3c2/header.jpg?t=1767958814" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4182380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182380/51a31162b3a401a09b81f919aa45d44b1f60a3c2/header.jpg?t=1767958814" alt="Neon Mind（新規追加）" /></a></p><p>A single-player turn-based puzzle game that will thoroughly tease your brain</p><p><a href="https://store.steampowered.com/app/4182380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Phantom of Time（新規追加）</title>
   <link>https://store.steampowered.com/app/4286070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221660/251e22330f44601f224c69e9238a291095bf88e8/header.jpg?t=1767718443" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221660/251e22330f44601f224c69e9238a291095bf88e8/header.jpg?t=1767718443" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221660/251e22330f44601f224c69e9238a291095bf88e8/header.jpg?t=1767718443" alt="DungeonOS（新規追加）" /></a></p><p>Crawl Dungeons, Loot and Equip your Adventurers! Log in to an old-school operating system. Manage your adventurers and use puzzles to damage your enemies. Are you ready to find the five artifacts you always dreamed of?</p><p><a href="https://store.steampowered.com/app/4221660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Banana Cowboy: The Wild Bunch（新規追加）</title>
-  <link>https://store.steampowered.com/app/3554200/</link>
-  <guid isPermaLink="false">steam-store-published-3554200</guid>
-  <pubDate>Tue, 06 Jan 2026 16:25:25 +0000</pubDate>
-  <description>A 3D collectathon platformer about a banana that&#x27;s a cowboy. He is... Banana Cowboy. Use your lasso to jump into action and explore different towns in outer space!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3554200/2e5311a7132d5ddc1ad16dbd62bc0d757c596f5c/header.jpg?t=1767714682" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3554200/2e5311a7132d5ddc1ad16dbd62bc0d757c596f5c/header.jpg?t=1767714682" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3554200/2e5311a7132d5ddc1ad16dbd62bc0d757c596f5c/header.jpg?t=1767714682" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3554200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3554200/2e5311a7132d5ddc1ad16dbd62bc0d757c596f5c/header.jpg?t=1767714682" alt="Banana Cowboy: The Wild Bunch（新規追加）" /></a></p><p>A 3D collectathon platformer about a banana that&#x27;s a cowboy. He is... Banana Cowboy. Use your lasso to jump into action and explore different towns in outer space!</p><p><a href="https://store.steampowered.com/app/3554200/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
