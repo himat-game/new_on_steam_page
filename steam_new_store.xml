@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 10 Jan 2026 06:56:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 07:46:05 +0000</lastBuildDate>
+<item>
+  <title>Lunio（新規追加）</title>
+  <link>https://store.steampowered.com/app/3911420/</link>
+  <guid isPermaLink="false">steam-store-published-3911420</guid>
+  <pubDate>Sat, 10 Jan 2026 07:46:05 +0000</pubDate>
+  <description>Guide a fragile balloon through a lethal test facility in this high-stakes physics puzzler. Navigate treacherous traps, dismantle robotic security, and uncover the dark secrets behind the experiments before time runs out. One pop and it’s over.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911420/9bebc687da6069f5a57b7023f8231c4a11be1432/header.jpg?t=1768028322" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911420/9bebc687da6069f5a57b7023f8231c4a11be1432/header.jpg?t=1768028322" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911420/9bebc687da6069f5a57b7023f8231c4a11be1432/header.jpg?t=1768028322" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3911420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911420/9bebc687da6069f5a57b7023f8231c4a11be1432/header.jpg?t=1768028322" alt="Lunio（新規追加）" /></a></p><p>Guide a fragile balloon through a lethal test facility in this high-stakes physics puzzler. Navigate treacherous traps, dismantle robotic security, and uncover the dark secrets behind the experiments before time runs out. One pop and it’s over.</p><p><a href="https://store.steampowered.com/app/3911420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>天魔传奇（新規追加）</title>
   <link>https://store.steampowered.com/app/4293180/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912090/6690c3cfc6d737cdb83e0e90c9ff88de066d7f73/header.jpg?t=1767803261" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912090/6690c3cfc6d737cdb83e0e90c9ff88de066d7f73/header.jpg?t=1767803261" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3912090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912090/6690c3cfc6d737cdb83e0e90c9ff88de066d7f73/header.jpg?t=1767803261" alt="Backrooms Untold（新規追加）" /></a></p><p>Backrooms Untold is an atmospheric horror experience where you’re dropped into an endless, shifting maze of fluorescent corridors, stained carpet, and humming lights. The deeper you go, the more the Backrooms feels wrong—familiar spaces twisting into something hostile and unknowable.</p><p><a href="https://store.steampowered.com/app/3912090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ZenWash（新規追加）</title>
-  <link>https://store.steampowered.com/app/4263560/</link>
-  <guid isPermaLink="false">steam-store-published-4263560</guid>
-  <pubDate>Wed, 07 Jan 2026 16:59:39 +0000</pubDate>
-  <description>Wash away the dirt in a calm and relaxing way, surrounded by soothing nature sounds and the gentle flow of a nearby river. Unlock new upgrades and take on larger houses to clean.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263560/1d2b8315eccb9598eb5209f3865ab504498e5ffd/header.jpg?t=1767804262" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263560/1d2b8315eccb9598eb5209f3865ab504498e5ffd/header.jpg?t=1767804262" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263560/1d2b8315eccb9598eb5209f3865ab504498e5ffd/header.jpg?t=1767804262" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263560/1d2b8315eccb9598eb5209f3865ab504498e5ffd/header.jpg?t=1767804262" alt="ZenWash（新規追加）" /></a></p><p>Wash away the dirt in a calm and relaxing way, surrounded by soothing nature sounds and the gentle flow of a nearby river. Unlock new upgrades and take on larger houses to clean.</p><p><a href="https://store.steampowered.com/app/4263560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
