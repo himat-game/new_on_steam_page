@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 10 Jan 2026 22:17:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 22:51:36 +0000</lastBuildDate>
+<item>
+  <title>Watch Eye（新規追加）</title>
+  <link>https://store.steampowered.com/app/4289830/</link>
+  <guid isPermaLink="false">steam-store-published-4289830</guid>
+  <pubDate>Sat, 10 Jan 2026 22:51:36 +0000</pubDate>
+  <description>Victoria just wanted to take a shortcut through the usual parking garage in order to get home... she just didn’t expect to find an untold danger there.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289830/9a9d0321df006925de47d77c4422b1f7dd728909/header.jpg?t=1768084924" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289830/9a9d0321df006925de47d77c4422b1f7dd728909/header.jpg?t=1768084924" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289830/9a9d0321df006925de47d77c4422b1f7dd728909/header.jpg?t=1768084924" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289830/9a9d0321df006925de47d77c4422b1f7dd728909/header.jpg?t=1768084924" alt="Watch Eye（新規追加）" /></a></p><p>Victoria just wanted to take a shortcut through the usual parking garage in order to get home... she just didn’t expect to find an untold danger there.</p><p><a href="https://store.steampowered.com/app/4289830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>False Testimony（新規追加）</title>
   <link>https://store.steampowered.com/app/4292290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277760/333a28de6fa8594d1239eb28f06068aaea3e7621/header.jpg?t=1767842029" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277760/333a28de6fa8594d1239eb28f06068aaea3e7621/header.jpg?t=1767842029" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4277760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277760/333a28de6fa8594d1239eb28f06068aaea3e7621/header.jpg?t=1767842029" alt="Boom Buddies（新規追加）" /></a></p><p>Boom Buddies is a fixed-position bullet hell survival game where animal heroes face endless enemy waves, upgrade weapons through card choices, unlock new characters, and compete on global leaderboards.</p><p><a href="https://store.steampowered.com/app/4277760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Paid in Blood（新規追加）</title>
-  <link>https://store.steampowered.com/app/1526850/</link>
-  <guid isPermaLink="false">steam-store-published-1526850</guid>
-  <pubDate>Thu, 08 Jan 2026 01:26:08 +0000</pubDate>
-  <description>A psychological suspense gambling game. You&#x27;re trapped into a dark room. Boyfriend&#x27;s dead. The $1,000,000 you stole: destroyed. There&#x27;s an IV in your arm hooked to a handheld Baccarat game. Your debt will be paid. In blood.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1526850/75d852d8de80f8689377fffb61bd0d65ff7deef6/header.jpg?t=1767832337" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1526850/75d852d8de80f8689377fffb61bd0d65ff7deef6/header.jpg?t=1767832337" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1526850/75d852d8de80f8689377fffb61bd0d65ff7deef6/header.jpg?t=1767832337" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1526850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1526850/75d852d8de80f8689377fffb61bd0d65ff7deef6/header.jpg?t=1767832337" alt="Paid in Blood（新規追加）" /></a></p><p>A psychological suspense gambling game. You&#x27;re trapped into a dark room. Boyfriend&#x27;s dead. The $1,000,000 you stole: destroyed. There&#x27;s an IV in your arm hooked to a handheld Baccarat game. Your debt will be paid. In blood.</p><p><a href="https://store.steampowered.com/app/1526850/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
