@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 10 Jan 2026 13:42:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 14:16:54 +0000</lastBuildDate>
+<item>
+  <title>Footsteps From Hell（新規追加）</title>
+  <link>https://store.steampowered.com/app/4191220/</link>
+  <guid isPermaLink="false">steam-store-published-4191220</guid>
+  <pubDate>Sat, 10 Jan 2026 14:16:54 +0000</pubDate>
+  <description>A 2D roguelite platformer game where you endlessly jump to try to escape Hell across treacherous platforms. Collect and upgrade power-ups, manipulate platform spawns, and escape Dante&#x27;s Inferno — or die trying!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191220/3adaa88400e516a8e35e1071202432f4b6f206a5/header.jpg?t=1768054104" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191220/3adaa88400e516a8e35e1071202432f4b6f206a5/header.jpg?t=1768054104" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191220/3adaa88400e516a8e35e1071202432f4b6f206a5/header.jpg?t=1768054104" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4191220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191220/3adaa88400e516a8e35e1071202432f4b6f206a5/header.jpg?t=1768054104" alt="Footsteps From Hell（新規追加）" /></a></p><p>A 2D roguelite platformer game where you endlessly jump to try to escape Hell across treacherous platforms. Collect and upgrade power-ups, manipulate platform spawns, and escape Dante&#x27;s Inferno — or die trying!</p><p><a href="https://store.steampowered.com/app/4191220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Armored Rail（新規追加）</title>
   <link>https://store.steampowered.com/app/3382260/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3653750/bb742187b98b3b1d5f2c1e0367cf7f7422ddde0d/header.jpg?t=1767814345" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3653750/bb742187b98b3b1d5f2c1e0367cf7f7422ddde0d/header.jpg?t=1767814345" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3653750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3653750/bb742187b98b3b1d5f2c1e0367cf7f7422ddde0d/header.jpg?t=1767814345" alt="Food Truck Chef - Full Course Edition（新規追加）" /></a></p><p>Manage and build your Food Truck! Cook global dishes, upgrade your kitchen, and serve hungry customers in this fast-paced cooking game. Travel the world, play fun cooking challenges, and become the ultimate culinary master!</p><p><a href="https://store.steampowered.com/app/3653750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Intergalactic Juice Bar（新規追加）</title>
-  <link>https://store.steampowered.com/app/4288080/</link>
-  <guid isPermaLink="false">steam-store-published-4288080</guid>
-  <pubDate>Wed, 07 Jan 2026 19:47:16 +0000</pubDate>
-  <description>Slice fruits with a physics-based knife on a rope. Upgrade your factory to slice fruit into smaller pieces. Buy advanced slicing technology. Maximize profits and quench thirst across the universe!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288080/3802d33da70d2962d45df4d445d2405577423279/header.jpg?t=1767814491" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288080/3802d33da70d2962d45df4d445d2405577423279/header.jpg?t=1767814491" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288080/3802d33da70d2962d45df4d445d2405577423279/header.jpg?t=1767814491" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4288080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288080/3802d33da70d2962d45df4d445d2405577423279/header.jpg?t=1767814491" alt="Intergalactic Juice Bar（新規追加）" /></a></p><p>Slice fruits with a physics-based knife on a rope. Upgrade your factory to slice fruit into smaller pieces. Buy advanced slicing technology. Maximize profits and quench thirst across the universe!</p><p><a href="https://store.steampowered.com/app/4288080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
