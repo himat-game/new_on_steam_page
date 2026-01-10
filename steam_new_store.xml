@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 10 Jan 2026 14:49:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 16:21:18 +0000</lastBuildDate>
+<item>
+  <title>A Seagull Game（新規追加）</title>
+  <link>https://store.steampowered.com/app/4271740/</link>
+  <guid isPermaLink="false">steam-store-published-4271740</guid>
+  <pubDate>Sat, 10 Jan 2026 16:21:18 +0000</pubDate>
+  <description>This is a short casual 2.5D platform puzzle game with a unique hand-drawn art style. A wee seagull who wants to get some chips at the pier, but accidentally falls into a vent system of an office building…</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271740/1fcf917636e33c38bfdcb4eaecff0cba3bcd2b93/header.jpg?t=1768061432" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271740/1fcf917636e33c38bfdcb4eaecff0cba3bcd2b93/header.jpg?t=1768061432" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271740/1fcf917636e33c38bfdcb4eaecff0cba3bcd2b93/header.jpg?t=1768061432" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271740/1fcf917636e33c38bfdcb4eaecff0cba3bcd2b93/header.jpg?t=1768061432" alt="A Seagull Game（新規追加）" /></a></p><p>This is a short casual 2.5D platform puzzle game with a unique hand-drawn art style. A wee seagull who wants to get some chips at the pier, but accidentally falls into a vent system of an office building…</p><p><a href="https://store.steampowered.com/app/4271740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Isle Plateau（新規追加）</title>
   <link>https://store.steampowered.com/app/4297500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285370/e80c66ddb217ab340a10a6752ef8bd9c2b1d4f9b/header.jpg?t=1767815951" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285370/e80c66ddb217ab340a10a6752ef8bd9c2b1d4f9b/header.jpg?t=1767815951" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285370/e80c66ddb217ab340a10a6752ef8bd9c2b1d4f9b/header.jpg?t=1767815951" alt="Deployed（新規追加）" /></a></p><p>A minimalist retro tower defense game with offline progression mechanics. Defend your customizable spaceship from incoming asteroids by upgrading its systems. Use research lab for offline upgrades. Send offline expeditions to uncover the unknowns of the universe.</p><p><a href="https://store.steampowered.com/app/4285370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title> All Hail the Orb（新規追加）</title>
-  <link>https://store.steampowered.com/app/4262310/</link>
-  <guid isPermaLink="false">steam-store-published-4262310</guid>
-  <pubDate>Wed, 07 Jan 2026 20:21:44 +0000</pubDate>
-  <description>All Hail The Orb is a quirky pixel-art active incremental where you power a The Orb. Recruit and manage cultists, unlock automation, explore a dungeon and enjoy relaxed, light-hearted progression with a fulfilling ending.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262310/fffbb0fc49feefb18d700411a5841b567cc93fac/header.jpg?t=1767344091" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262310/fffbb0fc49feefb18d700411a5841b567cc93fac/header.jpg?t=1767344091" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262310/fffbb0fc49feefb18d700411a5841b567cc93fac/header.jpg?t=1767344091" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262310/fffbb0fc49feefb18d700411a5841b567cc93fac/header.jpg?t=1767344091" alt=" All Hail the Orb（新規追加）" /></a></p><p>All Hail The Orb is a quirky pixel-art active incremental where you power a The Orb. Recruit and manage cultists, unlock automation, explore a dungeon and enjoy relaxed, light-hearted progression with a fulfilling ending.</p><p><a href="https://store.steampowered.com/app/4262310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
