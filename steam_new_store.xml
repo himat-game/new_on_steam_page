@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 10 Jan 2026 09:47:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 10:17:57 +0000</lastBuildDate>
+<item>
+  <title>囚夕 - Dusk Park（新規追加）</title>
+  <link>https://store.steampowered.com/app/4279190/</link>
+  <guid isPermaLink="false">steam-store-published-4279190</guid>
+  <pubDate>Sat, 10 Jan 2026 10:17:57 +0000</pubDate>
+  <description>An exploration adventure game where you explore a building trapped in dusk, and attempt to escape while avoiding a pursuer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279190/d881306a13491f4ee8919b6cf86c4a480b7d3964/header.jpg?t=1768039293" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279190/d881306a13491f4ee8919b6cf86c4a480b7d3964/header.jpg?t=1768039293" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279190/d881306a13491f4ee8919b6cf86c4a480b7d3964/header.jpg?t=1768039293" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4279190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279190/d881306a13491f4ee8919b6cf86c4a480b7d3964/header.jpg?t=1768039293" alt="囚夕 - Dusk Park（新規追加）" /></a></p><p>An exploration adventure game where you explore a building trapped in dusk, and attempt to escape while avoiding a pursuer.</p><p><a href="https://store.steampowered.com/app/4279190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mechastrike: Red War（新規追加）</title>
   <link>https://store.steampowered.com/app/4140070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266030/bc9f43c87d99e4f14de1e013e9c6674e0967fc57/header.jpg?t=1767807213" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266030/bc9f43c87d99e4f14de1e013e9c6674e0967fc57/header.jpg?t=1767807213" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266030/bc9f43c87d99e4f14de1e013e9c6674e0967fc57/header.jpg?t=1767807213" alt="THE TASTE OF COMPETITION（新規追加）" /></a></p><p>Can you keep a burger shop alive? Manage a small burger shop, balance speed and strategy, and shape the fate of your business with every decision.</p><p><a href="https://store.steampowered.com/app/4266030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Slimestoppers（新規追加）</title>
-  <link>https://store.steampowered.com/app/4266780/</link>
-  <guid isPermaLink="false">steam-store-published-4266780</guid>
-  <pubDate>Wed, 07 Jan 2026 17:34:09 +0000</pubDate>
-  <description>Slimestoppers is a top down horde shooter that pits the technology of man against a relentless army of sentient slimes from space. Choose from an ever-expanding arsenal of weapons, abilities, perks, and equipment to forge the perfect Slimestopper. Supports multiplayer up to 4 players!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266780/2682192c6d0d4fcf65028e234ff6b151c041b2e9/header.jpg?t=1767805670" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266780/2682192c6d0d4fcf65028e234ff6b151c041b2e9/header.jpg?t=1767805670" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266780/2682192c6d0d4fcf65028e234ff6b151c041b2e9/header.jpg?t=1767805670" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266780/2682192c6d0d4fcf65028e234ff6b151c041b2e9/header.jpg?t=1767805670" alt="Slimestoppers（新規追加）" /></a></p><p>Slimestoppers is a top down horde shooter that pits the technology of man against a relentless army of sentient slimes from space. Choose from an ever-expanding arsenal of weapons, abilities, perks, and equipment to forge the perfect Slimestopper. Supports multiplayer up to 4 players!</p><p><a href="https://store.steampowered.com/app/4266780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
