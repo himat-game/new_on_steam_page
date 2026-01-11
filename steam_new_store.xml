@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 11:46:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 12:36:16 +0000</lastBuildDate>
+<item>
+  <title>Gem Tales 2: Crystal Dragon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4276260/</link>
+  <guid isPermaLink="false">steam-store-published-4276260</guid>
+  <pubDate>Sun, 11 Jan 2026 12:36:16 +0000</pubDate>
+  <description>Gem Tales 2: Crystal Dragon is a story-rich match-3 adventure with 100 handcrafted levels. Match crystals, solve clever puzzles, and help Luna guide a lonely crystal dragon through a changing world filled with charm and magic.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276260/39bfe987d8c161bf070d1682cabbefc3382ce34c/header.jpg?t=1768132569" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276260/39bfe987d8c161bf070d1682cabbefc3382ce34c/header.jpg?t=1768132569" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276260/39bfe987d8c161bf070d1682cabbefc3382ce34c/header.jpg?t=1768132569" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276260/39bfe987d8c161bf070d1682cabbefc3382ce34c/header.jpg?t=1768132569" alt="Gem Tales 2: Crystal Dragon（新規追加）" /></a></p><p>Gem Tales 2: Crystal Dragon is a story-rich match-3 adventure with 100 handcrafted levels. Match crystals, solve clever puzzles, and help Luna guide a lonely crystal dragon through a changing world filled with charm and magic.</p><p><a href="https://store.steampowered.com/app/4276260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Wild Detective: The Hound of the Foggy City（新規追加）</title>
   <link>https://store.steampowered.com/app/4056040/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274690/53dcbf22f373696943fee4846a6d2ed1a760fa3c/header.jpg?t=1767860289" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274690/53dcbf22f373696943fee4846a6d2ed1a760fa3c/header.jpg?t=1767860289" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4274690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274690/53dcbf22f373696943fee4846a6d2ed1a760fa3c/header.jpg?t=1767860289" alt="Automation Farm（新規追加）" /></a></p><p>This is a game that simulates farm management using programming methods. The game simplifies the complexity of programming and extracts its automation elements. It allows players to experience the fully automated process of controlling robots to harvest and manage farms using code and thought.</p><p><a href="https://store.steampowered.com/app/4274690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mudventure（新規追加）</title>
-  <link>https://store.steampowered.com/app/4290170/</link>
-  <guid isPermaLink="false">steam-store-published-4290170</guid>
-  <pubDate>Thu, 08 Jan 2026 08:27:33 +0000</pubDate>
-  <description>Mudventure is a casual sandbox adventure set in a living tidal-flat world of mud. Dig terrain, gather resources, upgrade equipment, and control the environment by building dams. Fight monsters and bosses, enjoy fishing at night, and escape the island by repairing a ship—solo or online co-op.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290170/51afb409b445f7585ec2af481712dec4e98dba25/header.jpg?t=1767859222" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290170/51afb409b445f7585ec2af481712dec4e98dba25/header.jpg?t=1767859222" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290170/51afb409b445f7585ec2af481712dec4e98dba25/header.jpg?t=1767859222" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4290170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290170/51afb409b445f7585ec2af481712dec4e98dba25/header.jpg?t=1767859222" alt="Mudventure（新規追加）" /></a></p><p>Mudventure is a casual sandbox adventure set in a living tidal-flat world of mud. Dig terrain, gather resources, upgrade equipment, and control the environment by building dams. Fight monsters and bosses, enjoy fishing at night, and escape the island by repairing a ship—solo or online co-op.</p><p><a href="https://store.steampowered.com/app/4290170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
