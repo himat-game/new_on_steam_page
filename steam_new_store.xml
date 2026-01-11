@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 14:50:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 15:48:13 +0000</lastBuildDate>
+<item>
+  <title>Mole a Hole（新規追加）</title>
+  <link>https://store.steampowered.com/app/4193750/</link>
+  <guid isPermaLink="false">steam-store-published-4193750</guid>
+  <pubDate>Sun, 11 Jan 2026 15:48:13 +0000</pubDate>
+  <description>In Mole a Hole, you become a determined mole on a mission to dig deeper than ever before. Excavate tunnels, collect valuable items, upgrade your equipment, and explore a playful underground full of surprises, challenges, and rewarding discoveries - perfect for immersive VR fun.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193750/0a2ffbb3cab55cac0b43e22764d5a6e8dbedb784/header.jpg?t=1768145443" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193750/0a2ffbb3cab55cac0b43e22764d5a6e8dbedb784/header.jpg?t=1768145443" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193750/0a2ffbb3cab55cac0b43e22764d5a6e8dbedb784/header.jpg?t=1768145443" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4193750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193750/0a2ffbb3cab55cac0b43e22764d5a6e8dbedb784/header.jpg?t=1768145443" alt="Mole a Hole（新規追加）" /></a></p><p>In Mole a Hole, you become a determined mole on a mission to dig deeper than ever before. Excavate tunnels, collect valuable items, upgrade your equipment, and explore a playful underground full of surprises, challenges, and rewarding discoveries - perfect for immersive VR fun.</p><p><a href="https://store.steampowered.com/app/4193750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Brewmatics（新規追加）</title>
   <link>https://store.steampowered.com/app/4275020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251290/fe9779835e900f1b8f90ee70c7bbc7859d38ab28/header.jpg?t=1767870109" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251290/fe9779835e900f1b8f90ee70c7bbc7859d38ab28/header.jpg?t=1767870109" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251290/fe9779835e900f1b8f90ee70c7bbc7859d38ab28/header.jpg?t=1767870109" alt="Skinator（新規追加）" /></a></p><p>A turn-based tactical combat game where you dismantle enemies limb by limb, steal their body parts, and use them to rebuild your character in order to become the most overpower god in history.</p><p><a href="https://store.steampowered.com/app/4251290/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pocket Chef: Asia（新規追加）</title>
-  <link>https://store.steampowered.com/app/4280040/</link>
-  <guid isPermaLink="false">steam-store-published-4280040</guid>
-  <pubDate>Thu, 08 Jan 2026 10:54:48 +0000</pubDate>
-  <description>🍜 Pocket Chef: Asia is a fast-paced kitchen management game. ⏱️ Cook Asian dishes, manage orders, upgrade your restaurant, and keep customers happy.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280040/b3198605335436a14b41f30f5621976e6a22cb44/header.jpg?t=1767868150" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280040/b3198605335436a14b41f30f5621976e6a22cb44/header.jpg?t=1767868150" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280040/b3198605335436a14b41f30f5621976e6a22cb44/header.jpg?t=1767868150" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280040/b3198605335436a14b41f30f5621976e6a22cb44/header.jpg?t=1767868150" alt="Pocket Chef: Asia（新規追加）" /></a></p><p>🍜 Pocket Chef: Asia is a fast-paced kitchen management game. ⏱️ Cook Asian dishes, manage orders, upgrade your restaurant, and keep customers happy.</p><p><a href="https://store.steampowered.com/app/4280040/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
