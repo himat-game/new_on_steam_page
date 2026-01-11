@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 20:20:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 21:46:25 +0000</lastBuildDate>
+<item>
+  <title>Escape the Doom（新規追加）</title>
+  <link>https://store.steampowered.com/app/4131130/</link>
+  <guid isPermaLink="false">steam-store-published-4131130</guid>
+  <pubDate>Sun, 11 Jan 2026 21:46:25 +0000</pubDate>
+  <description>Fly fast. Dodge hazards. Escape doom.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131130/26e1c1f6e7382a304e8cea997a3fcaf0640a43d6/header.jpg?t=1768165842" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131130/26e1c1f6e7382a304e8cea997a3fcaf0640a43d6/header.jpg?t=1768165842" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131130/26e1c1f6e7382a304e8cea997a3fcaf0640a43d6/header.jpg?t=1768165842" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4131130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131130/26e1c1f6e7382a304e8cea997a3fcaf0640a43d6/header.jpg?t=1768165842" alt="Escape the Doom（新規追加）" /></a></p><p>Fly fast. Dodge hazards. Escape doom.</p><p><a href="https://store.steampowered.com/app/4131130/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Deckum Demonium（新規追加）</title>
   <link>https://store.steampowered.com/app/4299180/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125470/0f10a96b821cee271ec7ae296cc115f7e4833b67/header.jpg?t=1767880132" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125470/0f10a96b821cee271ec7ae296cc115f7e4833b67/header.jpg?t=1767880132" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4125470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125470/0f10a96b821cee271ec7ae296cc115f7e4833b67/header.jpg?t=1767880132" alt="The Forsaken Tomb（新規追加）" /></a></p><p>An endlessly shifting tomb tests your perception. Spot the anomalies, choose correctly, and find your way out.</p><p><a href="https://store.steampowered.com/app/4125470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chainsaw Woods（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258760/</link>
-  <guid isPermaLink="false">steam-store-published-4258760</guid>
-  <pubDate>Thu, 08 Jan 2026 13:28:11 +0000</pubDate>
-  <description>A survival horror game where you must escape from a forest you&#x27;ve gotten lost in. The forest is randomly generated each time you play. Supports online co-op for up to 2 players. Work together to escape from the forest!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258760/ac23e959e16482c9a94c50f82ca93d32883a2124/header.jpg?t=1767876543" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258760/ac23e959e16482c9a94c50f82ca93d32883a2124/header.jpg?t=1767876543" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258760/ac23e959e16482c9a94c50f82ca93d32883a2124/header.jpg?t=1767876543" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258760/ac23e959e16482c9a94c50f82ca93d32883a2124/header.jpg?t=1767876543" alt="Chainsaw Woods（新規追加）" /></a></p><p>A survival horror game where you must escape from a forest you&#x27;ve gotten lost in. The forest is randomly generated each time you play. Supports online co-op for up to 2 players. Work together to escape from the forest!</p><p><a href="https://store.steampowered.com/app/4258760/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
