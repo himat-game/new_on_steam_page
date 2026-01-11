@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 18:25:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 18:54:21 +0000</lastBuildDate>
+<item>
+  <title>Keep It Contained（新規追加）</title>
+  <link>https://store.steampowered.com/app/4251090/</link>
+  <guid isPermaLink="false">steam-store-published-4251090</guid>
+  <pubDate>Sun, 11 Jan 2026 18:54:21 +0000</pubDate>
+  <description>You’re part of a scientific team in a sealed facility, racing against time to keep dangerous anomalies contained. One scientist handles the modules, while others guide them using manuals and procedures. This local co-op experience requires two or more players.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251090/748551bf28e73a5f11ea8bae49a72c2302a59fca/header.jpg?t=1768157427" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251090/748551bf28e73a5f11ea8bae49a72c2302a59fca/header.jpg?t=1768157427" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251090/748551bf28e73a5f11ea8bae49a72c2302a59fca/header.jpg?t=1768157427" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4251090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251090/748551bf28e73a5f11ea8bae49a72c2302a59fca/header.jpg?t=1768157427" alt="Keep It Contained（新規追加）" /></a></p><p>You’re part of a scientific team in a sealed facility, racing against time to keep dangerous anomalies contained. One scientist handles the modules, while others guide them using manuals and procedures. This local co-op experience requires two or more players.</p><p><a href="https://store.steampowered.com/app/4251090/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Stumblepath（新規追加）</title>
+  <link>https://store.steampowered.com/app/4292110/</link>
+  <guid isPermaLink="false">steam-store-published-4292110</guid>
+  <pubDate>Sun, 11 Jan 2026 18:54:21 +0000</pubDate>
+  <description>Stumblepath is a turn-based roguelike RPG about an endless journey through a dark, hostile forest. Fight dangerous creatures, customize your gear, and make decisions that determine how far you can go.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292110/4ecd13ba598b42935664854826a177160d6b4ceb/header.jpg?t=1768156211" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292110/4ecd13ba598b42935664854826a177160d6b4ceb/header.jpg?t=1768156211" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292110/4ecd13ba598b42935664854826a177160d6b4ceb/header.jpg?t=1768156211" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4292110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292110/4ecd13ba598b42935664854826a177160d6b4ceb/header.jpg?t=1768156211" alt="Stumblepath（新規追加）" /></a></p><p>Stumblepath is a turn-based roguelike RPG about an endless journey through a dark, hostile forest. Fight dangerous creatures, customize your gear, and make decisions that determine how far you can go.</p><p><a href="https://store.steampowered.com/app/4292110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Beach Ball Bounce Back（新規追加）</title>
   <link>https://store.steampowered.com/app/3995270/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155290/b90fd9a7f6e36b74e1e68c49c1083621206c3b67/header.jpg?t=1767873910" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155290/b90fd9a7f6e36b74e1e68c49c1083621206c3b67/header.jpg?t=1767873910" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4155290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155290/b90fd9a7f6e36b74e1e68c49c1083621206c3b67/header.jpg?t=1767873910" alt="Nomadoss Chronicles（新規追加）" /></a></p><p>A Souls Light-style adventure game. Develop your character, defeat bosses, and hunt demons in this game set in the universe of the French manga, Les Chroniques des Nomadoss. With light, we chase away darkness; with the power of God, we chase away demons.</p><p><a href="https://store.steampowered.com/app/4155290/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GravityOptional（新規追加）</title>
-  <link>https://store.steampowered.com/app/4259910/</link>
-  <guid isPermaLink="false">steam-store-published-4259910</guid>
-  <pubDate>Thu, 08 Jan 2026 12:40:39 +0000</pubDate>
-  <description>A physics-based co-op roguelite about flightless owls, crippling debt, and industrial glue. Pilot a rickety airship through acid storms, harpoon floating garbage, and build makeshift shelters out of stolen bathtubs to protect your cargo. If the package gets wet, you don&#x27;t get paid.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259910/629e73ff1f4594ab9c634ab4203df11ba135c4bb/header.jpg?t=1767875668" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259910/629e73ff1f4594ab9c634ab4203df11ba135c4bb/header.jpg?t=1767875668" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259910/629e73ff1f4594ab9c634ab4203df11ba135c4bb/header.jpg?t=1767875668" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259910/629e73ff1f4594ab9c634ab4203df11ba135c4bb/header.jpg?t=1767875668" alt="GravityOptional（新規追加）" /></a></p><p>A physics-based co-op roguelite about flightless owls, crippling debt, and industrial glue. Pilot a rickety airship through acid storms, harpoon floating garbage, and build makeshift shelters out of stolen bathtubs to protect your cargo. If the package gets wet, you don&#x27;t get paid.</p><p><a href="https://store.steampowered.com/app/4259910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sweet Prison（新規追加）</title>
-  <link>https://store.steampowered.com/app/4293340/</link>
-  <guid isPermaLink="false">steam-store-published-4293340</guid>
-  <pubDate>Thu, 08 Jan 2026 11:50:40 +0000</pubDate>
-  <description>Sweet Prison - A simple and beautiful puzzle game themed around prison, depicting the daily lives of five pretty and adorable prison girls. It features relaxing background music, and after completing a level, you can view the girls&#x27; photos in the gallery.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293340/e75f699fa46bb313066bdef87ae86a193e78fcee/header.jpg?t=1767872040" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293340/e75f699fa46bb313066bdef87ae86a193e78fcee/header.jpg?t=1767872040" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293340/e75f699fa46bb313066bdef87ae86a193e78fcee/header.jpg?t=1767872040" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4293340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293340/e75f699fa46bb313066bdef87ae86a193e78fcee/header.jpg?t=1767872040" alt="Sweet Prison（新規追加）" /></a></p><p>Sweet Prison - A simple and beautiful puzzle game themed around prison, depicting the daily lives of five pretty and adorable prison girls. It features relaxing background music, and after completing a level, you can view the girls&#x27; photos in the gallery.</p><p><a href="https://store.steampowered.com/app/4293340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
