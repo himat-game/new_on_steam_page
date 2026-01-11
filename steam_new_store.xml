@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 09:49:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 10:41:35 +0000</lastBuildDate>
+<item>
+  <title>Tiny Magic House（新規追加）</title>
+  <link>https://store.steampowered.com/app/4136300/</link>
+  <guid isPermaLink="false">steam-store-published-4136300</guid>
+  <pubDate>Sun, 11 Jan 2026 10:41:35 +0000</pubDate>
+  <description>A cozy idle game that lives on your desktop. Watch a little witch-cat brew potions, fish by the pond, and decorate her tiny magical home while you work or relax.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136300/0bc4009dd3b1697ffea150343662a8901d196838/header.jpg?t=1768127894" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136300/0bc4009dd3b1697ffea150343662a8901d196838/header.jpg?t=1768127894" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136300/0bc4009dd3b1697ffea150343662a8901d196838/header.jpg?t=1768127894" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4136300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136300/0bc4009dd3b1697ffea150343662a8901d196838/header.jpg?t=1768127894" alt="Tiny Magic House（新規追加）" /></a></p><p>A cozy idle game that lives on your desktop. Watch a little witch-cat brew potions, fish by the pond, and decorate her tiny magical home while you work or relax.</p><p><a href="https://store.steampowered.com/app/4136300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>双生樱 (Twin Sakura: Blossoms Beyond Life)（新規追加）</title>
   <link>https://store.steampowered.com/app/4245580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256130/2df5b43af670d3a96e3fc145ee9aa5ae6052a1ec/header.jpg?t=1767859709" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256130/2df5b43af670d3a96e3fc145ee9aa5ae6052a1ec/header.jpg?t=1767859709" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4256130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256130/2df5b43af670d3a96e3fc145ee9aa5ae6052a1ec/header.jpg?t=1767859709" alt="Late Night Duty（新規追加）" /></a></p><p>You’re a desperate, untrained night security guard called in at 10 PM after the previous guard vanished without notice. With no bag and only two hands, patrol a severely underfunded school. A first-person atmospheric horror about the terrifying mundane... and what hides in the dark.</p><p><a href="https://store.steampowered.com/app/4256130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>HIDDEN CATS 9: Aliens（新規追加）</title>
-  <link>https://store.steampowered.com/app/4283340/</link>
-  <guid isPermaLink="false">steam-store-published-4283340</guid>
-  <pubDate>Thu, 08 Jan 2026 07:49:40 +0000</pubDate>
-  <description>Explore a mysterious alien world, find cute cats, and paint black-and-white locations with bright cosmic colors.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283340/b0347e5b154a7cc33cbd3334a386e6722711cdc7/header.jpg?t=1767856336" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283340/b0347e5b154a7cc33cbd3334a386e6722711cdc7/header.jpg?t=1767856336" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283340/b0347e5b154a7cc33cbd3334a386e6722711cdc7/header.jpg?t=1767856336" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283340/b0347e5b154a7cc33cbd3334a386e6722711cdc7/header.jpg?t=1767856336" alt="HIDDEN CATS 9: Aliens（新規追加）" /></a></p><p>Explore a mysterious alien world, find cute cats, and paint black-and-white locations with bright cosmic colors.</p><p><a href="https://store.steampowered.com/app/4283340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
