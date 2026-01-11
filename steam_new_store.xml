@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 05:52:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 06:28:06 +0000</lastBuildDate>
+<item>
+  <title>Hell Forge（新規追加）</title>
+  <link>https://store.steampowered.com/app/4118220/</link>
+  <guid isPermaLink="false">steam-store-published-4118220</guid>
+  <pubDate>Sun, 11 Jan 2026 06:28:06 +0000</pubDate>
+  <description>Hell Forge is a retro roguelite survivor where you battle endless monsters to mine souls for the ultimate gamble. Locate the Hell Forge on the map and risk your resources in a high-stakes lottery system to craft Legendary gear.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/ef03828b200ac945971c369c668a53e212f54de4/header.jpg?t=1768110805" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/ef03828b200ac945971c369c668a53e212f54de4/header.jpg?t=1768110805" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/ef03828b200ac945971c369c668a53e212f54de4/header.jpg?t=1768110805" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4118220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4118220/ef03828b200ac945971c369c668a53e212f54de4/header.jpg?t=1768110805" alt="Hell Forge（新規追加）" /></a></p><p>Hell Forge is a retro roguelite survivor where you battle endless monsters to mine souls for the ultimate gamble. Locate the Hell Forge on the map and risk your resources in a high-stakes lottery system to craft Legendary gear.</p><p><a href="https://store.steampowered.com/app/4118220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Coin Collector（新規追加）</title>
   <link>https://store.steampowered.com/app/4279530/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1767851584" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1767851584" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3420540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1767851584" alt="U.N. Owen Was Her?（新規追加）" /></a></p><p>Escape a Scarlet Mansion haunted by U.N. Owen..? Feed or fight roaming entities, solve light and gear puzzles, and use hunger to survive. Explore grand halls and a vast library, descend into a sealed underground, and defeat the original U.N. Owen.</p><p><a href="https://store.steampowered.com/app/3420540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Down Hell（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258110/</link>
-  <guid isPermaLink="false">steam-store-published-4258110</guid>
-  <pubDate>Thu, 08 Jan 2026 05:22:49 +0000</pubDate>
-  <description>In this terrifying first-person action game, control an elite soldier sent on a suicide mission: infiltrate a prison laboratory where humanity has lost its way. Inhumane experiments on convicts have unleashed unspeakable horrors, now you face a desperate fight against deadly mutants and monsters</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258110/ea887ec46bd096022a662c92c739dfafc71ce15a/header.jpg?t=1767848741" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258110/ea887ec46bd096022a662c92c739dfafc71ce15a/header.jpg?t=1767848741" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258110/ea887ec46bd096022a662c92c739dfafc71ce15a/header.jpg?t=1767848741" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258110/ea887ec46bd096022a662c92c739dfafc71ce15a/header.jpg?t=1767848741" alt="Down Hell（新規追加）" /></a></p><p>In this terrifying first-person action game, control an elite soldier sent on a suicide mission: infiltrate a prison laboratory where humanity has lost its way. Inhumane experiments on convicts have unleashed unspeakable horrors, now you face a desperate fight against deadly mutants and monsters</p><p><a href="https://store.steampowered.com/app/4258110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
