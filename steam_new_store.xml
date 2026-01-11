@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 19:44:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 20:20:26 +0000</lastBuildDate>
+<item>
+  <title>Deckum Demonium（新規追加）</title>
+  <link>https://store.steampowered.com/app/4299180/</link>
+  <guid isPermaLink="false">steam-store-published-4299180</guid>
+  <pubDate>Sun, 11 Jan 2026 20:20:26 +0000</pubDate>
+  <description>Craft demonic essences and brew powerful potions in this diabolical roguelike deckbuilder. In Deckum Demonium, you&#x27;ll be able to summon 150+ demons and discover why Heavenly creatures are coming to destroy your world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299180/857e8e6d121871589b96cc1975bc53df28694511/header.jpg?t=1768161440" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299180/857e8e6d121871589b96cc1975bc53df28694511/header.jpg?t=1768161440" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299180/857e8e6d121871589b96cc1975bc53df28694511/header.jpg?t=1768161440" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4299180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299180/857e8e6d121871589b96cc1975bc53df28694511/header.jpg?t=1768161440" alt="Deckum Demonium（新規追加）" /></a></p><p>Craft demonic essences and brew powerful potions in this diabolical roguelike deckbuilder. In Deckum Demonium, you&#x27;ll be able to summon 150+ demons and discover why Heavenly creatures are coming to destroy your world.</p><p><a href="https://store.steampowered.com/app/4299180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Fully Automated（新規追加）</title>
   <link>https://store.steampowered.com/app/1370830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258760/ac23e959e16482c9a94c50f82ca93d32883a2124/header.jpg?t=1767876543" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258760/ac23e959e16482c9a94c50f82ca93d32883a2124/header.jpg?t=1767876543" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258760/ac23e959e16482c9a94c50f82ca93d32883a2124/header.jpg?t=1767876543" alt="Chainsaw Woods（新規追加）" /></a></p><p>A survival horror game where you must escape from a forest you&#x27;ve gotten lost in. The forest is randomly generated each time you play. Supports online co-op for up to 2 players. Work together to escape from the forest!</p><p><a href="https://store.steampowered.com/app/4258760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Void&#x27;s Rage（新規追加）</title>
-  <link>https://store.steampowered.com/app/4283160/</link>
-  <guid isPermaLink="false">steam-store-published-4283160</guid>
-  <pubDate>Thu, 08 Jan 2026 13:28:11 +0000</pubDate>
-  <description>Void’s Rage is a fast-paced, ultra-responsive hack’n slash game inspired by arcade games. With each match, improve your combat reflexes, achieve the highest scores on the leaderboard, and defeat the evil creatures of the void once and for all.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283160/5525c8c0b855f95110718459e9a4884e706db149/header.jpg?t=1767876223" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283160/5525c8c0b855f95110718459e9a4884e706db149/header.jpg?t=1767876223" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283160/5525c8c0b855f95110718459e9a4884e706db149/header.jpg?t=1767876223" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283160/5525c8c0b855f95110718459e9a4884e706db149/header.jpg?t=1767876223" alt="Void&#x27;s Rage（新規追加）" /></a></p><p>Void’s Rage is a fast-paced, ultra-responsive hack’n slash game inspired by arcade games. With each match, improve your combat reflexes, achieve the highest scores on the leaderboard, and defeat the evil creatures of the void once and for all.</p><p><a href="https://store.steampowered.com/app/4283160/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
