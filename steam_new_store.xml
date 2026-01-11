@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 06:28:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 06:57:48 +0000</lastBuildDate>
+<item>
+  <title>KUNKUN Basketball（新規追加）</title>
+  <link>https://store.steampowered.com/app/4280630/</link>
+  <guid isPermaLink="false">steam-store-published-4280630</guid>
+  <pubDate>Sun, 11 Jan 2026 06:57:48 +0000</pubDate>
+  <description>A chaotic roguelite roulette game. Pick exploding basketballs, trigger insane support skills, build wild combos, and survive a ridiculous duel against Lao Da.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280630/fab76667c1ef257b0ebfa23697fed6fbac6dfd4c/header.jpg?t=1768113728" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280630/fab76667c1ef257b0ebfa23697fed6fbac6dfd4c/header.jpg?t=1768113728" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280630/fab76667c1ef257b0ebfa23697fed6fbac6dfd4c/header.jpg?t=1768113728" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280630/fab76667c1ef257b0ebfa23697fed6fbac6dfd4c/header.jpg?t=1768113728" alt="KUNKUN Basketball（新規追加）" /></a></p><p>A chaotic roguelite roulette game. Pick exploding basketballs, trigger insane support skills, build wild combos, and survive a ridiculous duel against Lao Da.</p><p><a href="https://store.steampowered.com/app/4280630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hell Forge（新規追加）</title>
   <link>https://store.steampowered.com/app/4118220/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155070/8dfa4096b66cac6112b2f70629a15cd05e344e6d/header.jpg?t=1767849752" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155070/8dfa4096b66cac6112b2f70629a15cd05e344e6d/header.jpg?t=1767849752" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4155070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155070/8dfa4096b66cac6112b2f70629a15cd05e344e6d/header.jpg?t=1767849752" alt="猜拳退魔師（新規追加）" /></a></p><p>為了繼承師父的衣缽，「你」毅然前往有傳妖魔橫行的妖鳴村， 而「你」的目標只有一個，就是行俠仗義，斬妖除魔！ 不過……這真的只是「你」唯一的目標嗎？ 在山上等著「你」的妖怪，也許對「你」有特別的想法？ 簡單明快的猜拳格鬥，看穿敵人的手牌，給予敵人致命一擊吧！</p><p><a href="https://store.steampowered.com/app/4155070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>U.N. Owen Was Her?（新規追加）</title>
-  <link>https://store.steampowered.com/app/3420540/</link>
-  <guid isPermaLink="false">steam-store-published-3420540</guid>
-  <pubDate>Thu, 08 Jan 2026 05:52:59 +0000</pubDate>
-  <description>Escape a Scarlet Mansion haunted by U.N. Owen..? Feed or fight roaming entities, solve light and gear puzzles, and use hunger to survive. Explore grand halls and a vast library, descend into a sealed underground, and defeat the original U.N. Owen.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1767851584" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1767851584" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1767851584" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3420540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1767851584" alt="U.N. Owen Was Her?（新規追加）" /></a></p><p>Escape a Scarlet Mansion haunted by U.N. Owen..? Feed or fight roaming entities, solve light and gear puzzles, and use hunger to survive. Explore grand halls and a vast library, descend into a sealed underground, and defeat the original U.N. Owen.</p><p><a href="https://store.steampowered.com/app/3420540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
