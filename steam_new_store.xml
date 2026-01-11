@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 18:54:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 19:44:58 +0000</lastBuildDate>
+<item>
+  <title>Fully Automated（新規追加）</title>
+  <link>https://store.steampowered.com/app/1370830/</link>
+  <guid isPermaLink="false">steam-store-published-1370830</guid>
+  <pubDate>Sun, 11 Jan 2026 19:44:58 +0000</pubDate>
+  <description>Fully Automated is a fast paced action roguelite. Destroy or demoralize your foes, and shape the future of your world ! Face relentless waves of enemies and choose from a variety of upgrades and traits to create the perfect style. Will you be a force for peace or a demon of war?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370830/948d369cb2279512a075c87afab9abc3a668420d/header.jpg?t=1768159344" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370830/948d369cb2279512a075c87afab9abc3a668420d/header.jpg?t=1768159344" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370830/948d369cb2279512a075c87afab9abc3a668420d/header.jpg?t=1768159344" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1370830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370830/948d369cb2279512a075c87afab9abc3a668420d/header.jpg?t=1768159344" alt="Fully Automated（新規追加）" /></a></p><p>Fully Automated is a fast paced action roguelite. Destroy or demoralize your foes, and shape the future of your world ! Face relentless waves of enemies and choose from a variety of upgrades and traits to create the perfect style. Will you be a force for peace or a demon of war?</p><p><a href="https://store.steampowered.com/app/1370830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Keep It Contained（新規追加）</title>
   <link>https://store.steampowered.com/app/4251090/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283160/5525c8c0b855f95110718459e9a4884e706db149/header.jpg?t=1767876223" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283160/5525c8c0b855f95110718459e9a4884e706db149/header.jpg?t=1767876223" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283160/5525c8c0b855f95110718459e9a4884e706db149/header.jpg?t=1767876223" alt="Void&#x27;s Rage（新規追加）" /></a></p><p>Void’s Rage is a fast-paced, ultra-responsive hack’n slash game inspired by arcade games. With each match, improve your combat reflexes, achieve the highest scores on the leaderboard, and defeat the evil creatures of the void once and for all.</p><p><a href="https://store.steampowered.com/app/4283160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nomadoss Chronicles（新規追加）</title>
-  <link>https://store.steampowered.com/app/4155290/</link>
-  <guid isPermaLink="false">steam-store-published-4155290</guid>
-  <pubDate>Thu, 08 Jan 2026 12:40:39 +0000</pubDate>
-  <description>A Souls Light-style adventure game. Develop your character, defeat bosses, and hunt demons in this game set in the universe of the French manga, Les Chroniques des Nomadoss. With light, we chase away darkness; with the power of God, we chase away demons.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155290/b90fd9a7f6e36b74e1e68c49c1083621206c3b67/header.jpg?t=1767873910" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155290/b90fd9a7f6e36b74e1e68c49c1083621206c3b67/header.jpg?t=1767873910" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155290/b90fd9a7f6e36b74e1e68c49c1083621206c3b67/header.jpg?t=1767873910" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4155290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155290/b90fd9a7f6e36b74e1e68c49c1083621206c3b67/header.jpg?t=1767873910" alt="Nomadoss Chronicles（新規追加）" /></a></p><p>A Souls Light-style adventure game. Develop your character, defeat bosses, and hunt demons in this game set in the universe of the French manga, Les Chroniques des Nomadoss. With light, we chase away darkness; with the power of God, we chase away demons.</p><p><a href="https://store.steampowered.com/app/4155290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
