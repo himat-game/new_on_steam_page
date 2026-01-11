@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 13:17:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 13:43:54 +0000</lastBuildDate>
+<item>
+  <title>Five Dice（新規追加）</title>
+  <link>https://store.steampowered.com/app/4199940/</link>
+  <guid isPermaLink="false">steam-store-published-4199940</guid>
+  <pubDate>Sun, 11 Jan 2026 13:43:54 +0000</pubDate>
+  <description>A deck-building strategy game where you roll FIVE DICE and blend tactics with luck to prevail in battle!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199940/05cc8e78b624048d14fad2c2bcb705e33d76586e/header.jpg?t=1768138066" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199940/05cc8e78b624048d14fad2c2bcb705e33d76586e/header.jpg?t=1768138066" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199940/05cc8e78b624048d14fad2c2bcb705e33d76586e/header.jpg?t=1768138066" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4199940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199940/05cc8e78b624048d14fad2c2bcb705e33d76586e/header.jpg?t=1768138066" alt="Five Dice（新規追加）" /></a></p><p>A deck-building strategy game where you roll FIVE DICE and blend tactics with luck to prevail in battle!</p><p><a href="https://store.steampowered.com/app/4199940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Heart Decay（新規追加）</title>
   <link>https://store.steampowered.com/app/4285080/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/22a7990a905fc68cbd68eeda4660d90b476e7886/header.jpg?t=1767866355" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/22a7990a905fc68cbd68eeda4660d90b476e7886/header.jpg?t=1767866355" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/22a7990a905fc68cbd68eeda4660d90b476e7886/header.jpg?t=1767866355" alt="The Long Drift（新規追加）" /></a></p><p>A desktop idle space exploration game that runs in the corner of your screen while you gather resources, build ships, and journey beyond the stars.</p><p><a href="https://store.steampowered.com/app/4289180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Young! Fire!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4276150/</link>
-  <guid isPermaLink="false">steam-store-published-4276150</guid>
-  <pubDate>Thu, 08 Jan 2026 09:35:40 +0000</pubDate>
-  <description>This is not just a game about love. This is a legend about how four friends overcome chaos and life&#x27;s challenges while enjoying their magnificent Youth. Young! Fire! is made of contradictions. But like real Youth, it leaves you face-to-face with them so you understand — no one is trying to fool you.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276150/30a58fee2e76e18d3027e3df0c2a1fd528b32304/header.jpg?t=1767863001" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276150/30a58fee2e76e18d3027e3df0c2a1fd528b32304/header.jpg?t=1767863001" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276150/30a58fee2e76e18d3027e3df0c2a1fd528b32304/header.jpg?t=1767863001" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276150/30a58fee2e76e18d3027e3df0c2a1fd528b32304/header.jpg?t=1767863001" alt="Young! Fire!（新規追加）" /></a></p><p>This is not just a game about love. This is a legend about how four friends overcome chaos and life&#x27;s challenges while enjoying their magnificent Youth. Young! Fire! is made of contradictions. But like real Youth, it leaves you face-to-face with them so you understand — no one is trying to fool you.</p><p><a href="https://store.steampowered.com/app/4276150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
