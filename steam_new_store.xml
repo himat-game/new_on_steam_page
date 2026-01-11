@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 08:53:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 09:49:34 +0000</lastBuildDate>
+<item>
+  <title>双生樱 (Twin Sakura: Blossoms Beyond Life)（新規追加）</title>
+  <link>https://store.steampowered.com/app/4245580/</link>
+  <guid isPermaLink="false">steam-store-published-4245580</guid>
+  <pubDate>Sun, 11 Jan 2026 09:49:34 +0000</pubDate>
+  <description>樱花有双生，人也有双命。 一命如春，一命如冬。 但在生命更迭、记忆永续的世界里， 唯独你——只此一生。 这是一段关于“铭记与蜕变”的故事， 是一场关于“失去与再次遇见”的旅程。 当花期更迭、当命运分岔， 你将如何在破碎的时间里， 捧住仅有一次的爱？</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245580/d5a78017801b92f6b825fca02933c8f787b40734/header.jpg?t=1768123909" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245580/d5a78017801b92f6b825fca02933c8f787b40734/header.jpg?t=1768123909" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245580/d5a78017801b92f6b825fca02933c8f787b40734/header.jpg?t=1768123909" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245580/d5a78017801b92f6b825fca02933c8f787b40734/header.jpg?t=1768123909" alt="双生樱 (Twin Sakura: Blossoms Beyond Life)（新規追加）" /></a></p><p>樱花有双生，人也有双命。 一命如春，一命如冬。 但在生命更迭、记忆永续的世界里， 唯独你——只此一生。 这是一段关于“铭记与蜕变”的故事， 是一场关于“失去与再次遇见”的旅程。 当花期更迭、当命运分岔， 你将如何在破碎的时间里， 捧住仅有一次的爱？</p><p><a href="https://store.steampowered.com/app/4245580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Amazing Bandit Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4267800/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283340/b0347e5b154a7cc33cbd3334a386e6722711cdc7/header.jpg?t=1767856336" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283340/b0347e5b154a7cc33cbd3334a386e6722711cdc7/header.jpg?t=1767856336" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283340/b0347e5b154a7cc33cbd3334a386e6722711cdc7/header.jpg?t=1767856336" alt="HIDDEN CATS 9: Aliens（新規追加）" /></a></p><p>Explore a mysterious alien world, find cute cats, and paint black-and-white locations with bright cosmic colors.</p><p><a href="https://store.steampowered.com/app/4283340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Spin, Baby, Spin!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4276800/</link>
-  <guid isPermaLink="false">steam-store-published-4276800</guid>
-  <pubDate>Thu, 08 Jan 2026 07:49:40 +0000</pubDate>
-  <description>Spin, Baby, Spin! is a short incremental game about slot machines. Spin the reels, upgrade your income and drop chances, craft new slot machines, and collect powerful artifacts. Choose your talent cards and earn enough chips to buy back your soul from a demonic clown!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276800/8e9e6aa1948baf1c67814eb25694fc19ed5446b3/header.jpg?t=1767856993" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276800/8e9e6aa1948baf1c67814eb25694fc19ed5446b3/header.jpg?t=1767856993" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276800/8e9e6aa1948baf1c67814eb25694fc19ed5446b3/header.jpg?t=1767856993" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276800/8e9e6aa1948baf1c67814eb25694fc19ed5446b3/header.jpg?t=1767856993" alt="Spin, Baby, Spin!（新規追加）" /></a></p><p>Spin, Baby, Spin! is a short incremental game about slot machines. Spin the reels, upgrade your income and drop chances, craft new slot machines, and collect powerful artifacts. Choose your talent cards and earn enough chips to buy back your soul from a demonic clown!</p><p><a href="https://store.steampowered.com/app/4276800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
