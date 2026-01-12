@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 12 Jan 2026 21:51:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 22:17:18 +0000</lastBuildDate>
+<item>
+  <title>Paperback（新規追加）</title>
+  <link>https://store.steampowered.com/app/4303010/</link>
+  <guid isPermaLink="false">steam-store-published-4303010</guid>
+  <pubDate>Mon, 12 Jan 2026 22:17:18 +0000</pubDate>
+  <description>Paperback is a short horror game that takes place in a public library at night with an aggressive thunderstorm raging in the vicinity where you take on the role of the newly hired novice librarian, Max.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303010/80db722d77c52962b89ee18ac7bbf24ca3e3f271/header.jpg?t=1768255057" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303010/80db722d77c52962b89ee18ac7bbf24ca3e3f271/header.jpg?t=1768255057" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303010/80db722d77c52962b89ee18ac7bbf24ca3e3f271/header.jpg?t=1768255057" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4303010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303010/80db722d77c52962b89ee18ac7bbf24ca3e3f271/header.jpg?t=1768255057" alt="Paperback（新規追加）" /></a></p><p>Paperback is a short horror game that takes place in a public library at night with an aggressive thunderstorm raging in the vicinity where you take on the role of the newly hired novice librarian, Max.</p><p><a href="https://store.steampowered.com/app/4303010/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sword of Shandar（新規追加）</title>
   <link>https://store.steampowered.com/app/4285610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271500/71ca017a43262d1bc869b64403fd3d63e831b268/header.jpg?t=1767226109" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271500/71ca017a43262d1bc869b64403fd3d63e831b268/header.jpg?t=1767226109" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271500/71ca017a43262d1bc869b64403fd3d63e831b268/header.jpg?t=1767226109" alt="Teacher Waifu（新規追加）" /></a></p><p>Teacher Waifu is an exciting puzzle game featuring charming waifu teachers and a unique academic atmosphere! Complete 30 unique levels, unlock new illustrations, and enjoy the stylish details of each look.</p><p><a href="https://store.steampowered.com/app/4271500/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sprinklebottom and the Haunted Ruins（新規追加）</title>
-  <link>https://store.steampowered.com/app/3331840/</link>
-  <guid isPermaLink="false">steam-store-published-3331840</guid>
-  <pubDate>Thu, 08 Jan 2026 23:46:54 +0000</pubDate>
-  <description>The powerful wizard Sprinklebottom&#x27;s memory is fading. He needs your help to remember the story of how he defeated a powerful evil in this turn-based roguelite adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331840/b28d05bfb3865f4f223dfa94143c29d6af3a9ea9/header.jpg?t=1767553706" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331840/b28d05bfb3865f4f223dfa94143c29d6af3a9ea9/header.jpg?t=1767553706" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331840/b28d05bfb3865f4f223dfa94143c29d6af3a9ea9/header.jpg?t=1767553706" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3331840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331840/b28d05bfb3865f4f223dfa94143c29d6af3a9ea9/header.jpg?t=1767553706" alt="Sprinklebottom and the Haunted Ruins（新規追加）" /></a></p><p>The powerful wizard Sprinklebottom&#x27;s memory is fading. He needs your help to remember the story of how he defeated a powerful evil in this turn-based roguelite adventure.</p><p><a href="https://store.steampowered.com/app/3331840/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
