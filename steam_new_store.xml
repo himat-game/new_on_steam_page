@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 12 Jan 2026 14:48:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 15:55:00 +0000</lastBuildDate>
+<item>
+  <title>Archon Soul（新規追加）</title>
+  <link>https://store.steampowered.com/app/4252700/</link>
+  <guid isPermaLink="false">steam-store-published-4252700</guid>
+  <pubDate>Mon, 12 Jan 2026 15:55:00 +0000</pubDate>
+  <description>Archon Soul is a 2D roguelike dice-builder where you create powerful dice using swappable faces, runes, and bodies with unique effects. ​Draft spells, craft powerful synergies, defeat challenging enemies, and conquer the Archon&#x27;s palace.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/ed5d93b2a6ec67b42f4e5de6fea741efe2abc78e/header.jpg?t=1768232988" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/ed5d93b2a6ec67b42f4e5de6fea741efe2abc78e/header.jpg?t=1768232988" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/ed5d93b2a6ec67b42f4e5de6fea741efe2abc78e/header.jpg?t=1768232988" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4252700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252700/ed5d93b2a6ec67b42f4e5de6fea741efe2abc78e/header.jpg?t=1768232988" alt="Archon Soul（新規追加）" /></a></p><p>Archon Soul is a 2D roguelike dice-builder where you create powerful dice using swappable faces, runes, and bodies with unique effects. ​Draft spells, craft powerful synergies, defeat challenging enemies, and conquer the Archon&#x27;s palace.</p><p><a href="https://store.steampowered.com/app/4252700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Distance（新規追加）</title>
+  <link>https://store.steampowered.com/app/4250490/</link>
+  <guid isPermaLink="false">steam-store-published-4250490</guid>
+  <pubDate>Mon, 12 Jan 2026 15:55:00 +0000</pubDate>
+  <description>Distance is a minimalist idle game where your keystrokes drive a lone starship forward through an endless stretch of space.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250490/95743c67679d6e7a62852818a4288f7e98184479/header.jpg?t=1768231468" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250490/95743c67679d6e7a62852818a4288f7e98184479/header.jpg?t=1768231468" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250490/95743c67679d6e7a62852818a4288f7e98184479/header.jpg?t=1768231468" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4250490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250490/95743c67679d6e7a62852818a4288f7e98184479/header.jpg?t=1768231468" alt="Distance（新規追加）" /></a></p><p>Distance is a minimalist idle game where your keystrokes drive a lone starship forward through an endless stretch of space.</p><p><a href="https://store.steampowered.com/app/4250490/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Amphibarium（新規追加）</title>
+  <link>https://store.steampowered.com/app/4296280/</link>
+  <guid isPermaLink="false">steam-store-published-4296280</guid>
+  <pubDate>Mon, 12 Jan 2026 15:55:00 +0000</pubDate>
+  <description>Relax and collect hundreds of unique frogs and salamanders in this cozy idle game. Watch tadpoles undergo metamorphosis in real-time, customize lush terrariums, and discover rare species. Let your vivarium thrive in the background while you work or study. Start your collection today!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296280/e6d2d14b156cadc902f9c4f72f501476307c9910/header.jpg?t=1768231640" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296280/e6d2d14b156cadc902f9c4f72f501476307c9910/header.jpg?t=1768231640" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296280/e6d2d14b156cadc902f9c4f72f501476307c9910/header.jpg?t=1768231640" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4296280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296280/e6d2d14b156cadc902f9c4f72f501476307c9910/header.jpg?t=1768231640" alt="Amphibarium（新規追加）" /></a></p><p>Relax and collect hundreds of unique frogs and salamanders in this cozy idle game. Watch tadpoles undergo metamorphosis in real-time, customize lush terrariums, and discover rare species. Let your vivarium thrive in the background while you work or study. Start your collection today!</p><p><a href="https://store.steampowered.com/app/4296280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PAPERSODA（新規追加）</title>
   <link>https://store.steampowered.com/app/4291620/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281080/27a5830c67d153ef29be844c79017953c3eab738/header.jpg?t=1767900155" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281080/27a5830c67d153ef29be844c79017953c3eab738/header.jpg?t=1767900155" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4281080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281080/27a5830c67d153ef29be844c79017953c3eab738/header.jpg?t=1767900155" alt="Serpent Squad（新規追加）" /></a></p><p>Serpent Squad is a bullet‑hell roguelike game where you control a snake‑shaped squad of heroes that automatically attacks nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, guiding your unstoppable squad as it sweeps through endless waves of enemies.</p><p><a href="https://store.steampowered.com/app/4281080/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Little Voyagers: Study Sessions（新規追加）</title>
-  <link>https://store.steampowered.com/app/3591220/</link>
-  <guid isPermaLink="false">steam-store-published-3591220</guid>
-  <pubDate>Thu, 08 Jan 2026 19:46:32 +0000</pubDate>
-  <description>Build and decorate your cozy starship, solo or with friends. Study, chill, and play mini-games together in a relaxing pixel-art shelter among the stars. Pick the lighting, the design, the colors, and decor for the perfect mood for any interstellar journey.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591220/4cc4ba88fb675a73883ea56a812033929c9cd297/header.jpg?t=1767900061" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591220/4cc4ba88fb675a73883ea56a812033929c9cd297/header.jpg?t=1767900061" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591220/4cc4ba88fb675a73883ea56a812033929c9cd297/header.jpg?t=1767900061" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3591220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591220/4cc4ba88fb675a73883ea56a812033929c9cd297/header.jpg?t=1767900061" alt="Little Voyagers: Study Sessions（新規追加）" /></a></p><p>Build and decorate your cozy starship, solo or with friends. Study, chill, and play mini-games together in a relaxing pixel-art shelter among the stars. Pick the lighting, the design, the colors, and decor for the perfect mood for any interstellar journey.</p><p><a href="https://store.steampowered.com/app/3591220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SynthEscape（新規追加）</title>
-  <link>https://store.steampowered.com/app/4272330/</link>
-  <guid isPermaLink="false">steam-store-published-4272330</guid>
-  <pubDate>Thu, 08 Jan 2026 19:46:32 +0000</pubDate>
-  <description>SynthEscape is a synthwave-themed shmup built around grazing bullets to fuel your bullet-slowing time-manipulation shield. The closer you fly to enemy fire, the more power you gain to slow the storm of projectiles. Graze Bullets. Bend Time. Break the Future.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272330/166c11531c140c34733b9307cbfc976cae991a58/header.jpg?t=1767900727" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272330/166c11531c140c34733b9307cbfc976cae991a58/header.jpg?t=1767900727" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272330/166c11531c140c34733b9307cbfc976cae991a58/header.jpg?t=1767900727" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272330/166c11531c140c34733b9307cbfc976cae991a58/header.jpg?t=1767900727" alt="SynthEscape（新規追加）" /></a></p><p>SynthEscape is a synthwave-themed shmup built around grazing bullets to fuel your bullet-slowing time-manipulation shield. The closer you fly to enemy fire, the more power you gain to slow the storm of projectiles. Graze Bullets. Bend Time. Break the Future.</p><p><a href="https://store.steampowered.com/app/4272330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hidden Raccoons（新規追加）</title>
-  <link>https://store.steampowered.com/app/4292470/</link>
-  <guid isPermaLink="false">steam-store-published-4292470</guid>
-  <pubDate>Thu, 08 Jan 2026 19:21:08 +0000</pubDate>
-  <description>Hidden Raccoons is a relaxing hidden object game where you search for raccoons hidden in colorful pixel art worlds. With no timer, you can play at your own pace and enjoy every area.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292470/82bc4290c3b3cfdaf4700b6fbb7cbdaa5e6a5f75/header.jpg?t=1767899619" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292470/82bc4290c3b3cfdaf4700b6fbb7cbdaa5e6a5f75/header.jpg?t=1767899619" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292470/82bc4290c3b3cfdaf4700b6fbb7cbdaa5e6a5f75/header.jpg?t=1767899619" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4292470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292470/82bc4290c3b3cfdaf4700b6fbb7cbdaa5e6a5f75/header.jpg?t=1767899619" alt="Hidden Raccoons（新規追加）" /></a></p><p>Hidden Raccoons is a relaxing hidden object game where you search for raccoons hidden in colorful pixel art worlds. With no timer, you can play at your own pace and enjoy every area.</p><p><a href="https://store.steampowered.com/app/4292470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
