@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 11 Jan 2026 21:46:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 23:47:29 +0000</lastBuildDate>
+<item>
+  <title>Critter Bonk（新規追加）</title>
+  <link>https://store.steampowered.com/app/4295540/</link>
+  <guid isPermaLink="false">steam-store-published-4295540</guid>
+  <pubDate>Sun, 11 Jan 2026 23:47:29 +0000</pubDate>
+  <description>A cute incremental clicker where you bonk bugs for profit. Earn money, unlock upgrades, acquire powerful skills, and recruit helpers to automate the bonking until you’re truly unstoppable. Satisfying and Relaxing!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295540/bfe7c6d438ef69db774136aa70f4e2023e8b3c2d/header.jpg?t=1768174026" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295540/bfe7c6d438ef69db774136aa70f4e2023e8b3c2d/header.jpg?t=1768174026" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295540/bfe7c6d438ef69db774136aa70f4e2023e8b3c2d/header.jpg?t=1768174026" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4295540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295540/bfe7c6d438ef69db774136aa70f4e2023e8b3c2d/header.jpg?t=1768174026" alt="Critter Bonk（新規追加）" /></a></p><p>A cute incremental clicker where you bonk bugs for profit. Earn money, unlock upgrades, acquire powerful skills, and recruit helpers to automate the bonking until you’re truly unstoppable. Satisfying and Relaxing!</p><p><a href="https://store.steampowered.com/app/4295540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Escape the Doom（新規追加）</title>
   <link>https://store.steampowered.com/app/4131130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272180/e3e169f179ec3b74c15e0900a0c50a8413dd4847/header.jpg?t=1767880513" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272180/e3e169f179ec3b74c15e0900a0c50a8413dd4847/header.jpg?t=1767880513" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272180/e3e169f179ec3b74c15e0900a0c50a8413dd4847/header.jpg?t=1767880513" alt="GunSlaw VR（新規追加）" /></a></p><p>A flexible free-to-play online multiplayer VR shooter featuring a wide variety of voxel-based gamemodes. Build, destroy, shoot, repeat!</p><p><a href="https://store.steampowered.com/app/4272180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Forsaken Tomb（新規追加）</title>
-  <link>https://store.steampowered.com/app/4125470/</link>
-  <guid isPermaLink="false">steam-store-published-4125470</guid>
-  <pubDate>Thu, 08 Jan 2026 14:00:16 +0000</pubDate>
-  <description>An endlessly shifting tomb tests your perception. Spot the anomalies, choose correctly, and find your way out.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125470/0f10a96b821cee271ec7ae296cc115f7e4833b67/header.jpg?t=1767880132" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125470/0f10a96b821cee271ec7ae296cc115f7e4833b67/header.jpg?t=1767880132" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125470/0f10a96b821cee271ec7ae296cc115f7e4833b67/header.jpg?t=1767880132" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4125470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125470/0f10a96b821cee271ec7ae296cc115f7e4833b67/header.jpg?t=1767880132" alt="The Forsaken Tomb（新規追加）" /></a></p><p>An endlessly shifting tomb tests your perception. Spot the anomalies, choose correctly, and find your way out.</p><p><a href="https://store.steampowered.com/app/4125470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
