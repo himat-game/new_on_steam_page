@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 12 Jan 2026 10:23:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 11:50:19 +0000</lastBuildDate>
+<item>
+  <title>Valefor 2（新規追加）</title>
+  <link>https://store.steampowered.com/app/3326570/</link>
+  <guid isPermaLink="false">steam-store-published-3326570</guid>
+  <pubDate>Mon, 12 Jan 2026 11:50:19 +0000</pubDate>
+  <description>A dark fantasy tactical auto-battler, combining strategic champion drafting, arena combat, asynchronous multiplayer, and crafting.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326570/1b8b4561536065807ed7e1909b1bcf49e2fcb30a/header.jpg?t=1768214945" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326570/1b8b4561536065807ed7e1909b1bcf49e2fcb30a/header.jpg?t=1768214945" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326570/1b8b4561536065807ed7e1909b1bcf49e2fcb30a/header.jpg?t=1768214945" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3326570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326570/1b8b4561536065807ed7e1909b1bcf49e2fcb30a/header.jpg?t=1768214945" alt="Valefor 2（新規追加）" /></a></p><p>A dark fantasy tactical auto-battler, combining strategic champion drafting, arena combat, asynchronous multiplayer, and crafting.</p><p><a href="https://store.steampowered.com/app/3326570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>BUS: Prologue（新規追加）</title>
+  <link>https://store.steampowered.com/app/4111640/</link>
+  <guid isPermaLink="false">steam-store-published-4111640</guid>
+  <pubDate>Mon, 12 Jan 2026 11:50:19 +0000</pubDate>
+  <description>Ride through the apocalypse with your friends! BUS: Bro U Survived is a co-op story-driven adventure featuring your very own bus! Fight zombies, gather resources, help other survivors, and solve puzzles. Can you uncover the truth about the beginning of the epidemic and decide the fate of the island?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111640/7d6d2924fdecc63c24948ba0381632cb3bb65293/header.jpg?t=1768216981" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111640/7d6d2924fdecc63c24948ba0381632cb3bb65293/header.jpg?t=1768216981" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111640/7d6d2924fdecc63c24948ba0381632cb3bb65293/header.jpg?t=1768216981" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4111640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111640/7d6d2924fdecc63c24948ba0381632cb3bb65293/header.jpg?t=1768216981" alt="BUS: Prologue（新規追加）" /></a></p><p>Ride through the apocalypse with your friends! BUS: Bro U Survived is a co-op story-driven adventure featuring your very own bus! Fight zombies, gather resources, help other survivors, and solve puzzles. Can you uncover the truth about the beginning of the epidemic and decide the fate of the island?</p><p><a href="https://store.steampowered.com/app/4111640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Coination（新規追加）</title>
   <link>https://store.steampowered.com/app/4261820/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236110/30169412867c9d4b5828307fc54a7eb06d691332/header.jpg?t=1767888520" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236110/30169412867c9d4b5828307fc54a7eb06d691332/header.jpg?t=1767888520" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236110/30169412867c9d4b5828307fc54a7eb06d691332/header.jpg?t=1767888520" alt="Dungeon-Doku（新規追加）" /></a></p><p>Dungeon-Doku is a rogue-lite Sudoku game where you fill in puzzles, gain treasure and face traps while trying not to take damage by messing up. How far can you make it in the dungeon?</p><p><a href="https://store.steampowered.com/app/4236110/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Infernal Descent（新規追加）</title>
-  <link>https://store.steampowered.com/app/4282120/</link>
-  <guid isPermaLink="false">steam-store-published-4282120</guid>
-  <pubDate>Thu, 08 Jan 2026 15:54:25 +0000</pubDate>
-  <description>Descend through the Nine Circles of Hell in a fast-paced action gauntlet inspired by Dante’s Inferno. Bullet Hell and Heaven, survive sin-twisted realms, and fight your way to Satan himself. Hell does not forgive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282120/3470b28da5d401f692934eceba38da5efa6ce1af/header.jpg?t=1767653657" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282120/3470b28da5d401f692934eceba38da5efa6ce1af/header.jpg?t=1767653657" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282120/3470b28da5d401f692934eceba38da5efa6ce1af/header.jpg?t=1767653657" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4282120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282120/3470b28da5d401f692934eceba38da5efa6ce1af/header.jpg?t=1767653657" alt="Infernal Descent（新規追加）" /></a></p><p>Descend through the Nine Circles of Hell in a fast-paced action gauntlet inspired by Dante’s Inferno. Bullet Hell and Heaven, survive sin-twisted realms, and fight your way to Satan himself. Hell does not forgive.</p><p><a href="https://store.steampowered.com/app/4282120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fever House（新規追加）</title>
-  <link>https://store.steampowered.com/app/4157280/</link>
-  <guid isPermaLink="false">steam-store-published-4157280</guid>
-  <pubDate>Thu, 08 Jan 2026 15:54:25 +0000</pubDate>
-  <description>A story-driven adult visual novel where your choices shape relationships, desire, and destiny. Balance love, loyalty, and ambition as a young man navigating life, temptation, and marriage with three very different women in the city.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157280/f0f527435ef1834fb5c39bcc8188ffe7fcb59c90/header.jpg?t=1767886477" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157280/f0f527435ef1834fb5c39bcc8188ffe7fcb59c90/header.jpg?t=1767886477" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157280/f0f527435ef1834fb5c39bcc8188ffe7fcb59c90/header.jpg?t=1767886477" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4157280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157280/f0f527435ef1834fb5c39bcc8188ffe7fcb59c90/header.jpg?t=1767886477" alt="Fever House（新規追加）" /></a></p><p>A story-driven adult visual novel where your choices shape relationships, desire, and destiny. Balance love, loyalty, and ambition as a young man navigating life, temptation, and marriage with three very different women in the city.</p><p><a href="https://store.steampowered.com/app/4157280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
