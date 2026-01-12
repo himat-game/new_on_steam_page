@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 12 Jan 2026 03:27:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 04:38:51 +0000</lastBuildDate>
+<item>
+  <title>Escape Games World vs Escapers（新規追加）</title>
+  <link>https://store.steampowered.com/app/4239810/</link>
+  <guid isPermaLink="false">steam-store-published-4239810</guid>
+  <pubDate>Mon, 12 Jan 2026 04:38:51 +0000</pubDate>
+  <description>Unlock the world! Solve 95 thrilling escape room levels &amp;amp; hidden object puzzle</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239810/f31459e0eaa32f8acc5fa772ef698ba126f7e589/header.jpg?t=1768191883" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239810/f31459e0eaa32f8acc5fa772ef698ba126f7e589/header.jpg?t=1768191883" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239810/f31459e0eaa32f8acc5fa772ef698ba126f7e589/header.jpg?t=1768191883" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4239810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239810/f31459e0eaa32f8acc5fa772ef698ba126f7e589/header.jpg?t=1768191883" alt="Escape Games World vs Escapers（新規追加）" /></a></p><p>Unlock the world! Solve 95 thrilling escape room levels &amp;amp; hidden object puzzle</p><p><a href="https://store.steampowered.com/app/4239810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>QPopGirl（新規追加）</title>
   <link>https://store.steampowered.com/app/4157070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280330/895d0c863258c25da66ced1f948ea0d089d697ff/header.jpg?t=1767882732" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280330/895d0c863258c25da66ced1f948ea0d089d697ff/header.jpg?t=1767882732" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280330/895d0c863258c25da66ced1f948ea0d089d697ff/header.jpg?t=1767882732" alt="Sergius vs Evil Uninvited guests（新規追加）" /></a></p><p>An adventure RPG in the urban fantasy genre inspired by folk tales from across Russia. Step into a world where ancient myths and legends break through into modern reality. Use True Sight, a gift that lets you perceive what others cannot: enemy tracks, special objects, and hidden locations.</p><p><a href="https://store.steampowered.com/app/4280330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Office Wars: Escape from 9 to 5（新規追加）</title>
-  <link>https://store.steampowered.com/app/4056750/</link>
-  <guid isPermaLink="false">steam-store-published-4056750</guid>
-  <pubDate>Thu, 08 Jan 2026 14:35:17 +0000</pubDate>
-  <description>Take on the 9 to 5 – armed with everything from desk to printer, wreak havoc in this chaotic bullet-hell roguelike. Discover unique weapons and perks to create your ultimate build. Get your work done – with fire and guns!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056750/511110b37b069418e33e34c52da463fd47432afd/header.jpg?t=1767882632" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056750/511110b37b069418e33e34c52da463fd47432afd/header.jpg?t=1767882632" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056750/511110b37b069418e33e34c52da463fd47432afd/header.jpg?t=1767882632" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4056750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056750/511110b37b069418e33e34c52da463fd47432afd/header.jpg?t=1767882632" alt="Office Wars: Escape from 9 to 5（新規追加）" /></a></p><p>Take on the 9 to 5 – armed with everything from desk to printer, wreak havoc in this chaotic bullet-hell roguelike. Discover unique weapons and perks to create your ultimate build. Get your work done – with fire and guns!</p><p><a href="https://store.steampowered.com/app/4056750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
