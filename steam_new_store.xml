@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 12 Jan 2026 11:50:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 12:41:38 +0000</lastBuildDate>
+<item>
+  <title>IKARUS（新規追加）</title>
+  <link>https://store.steampowered.com/app/3858860/</link>
+  <guid isPermaLink="false">steam-store-published-3858860</guid>
+  <pubDate>Mon, 12 Jan 2026 12:41:38 +0000</pubDate>
+  <description>IKARUS blends the bullet-hell chaos of arcade shmups with the strategic edge of a roguelike deck-builder. Dodge, parry, and shoot through waves of hostile machines while crafting game-breaking card synergies. How close to the sun will you fly?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858860/50d16874872be88bbcf2f399a583c2e1e65e9f61/header.jpg?t=1768221233" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858860/50d16874872be88bbcf2f399a583c2e1e65e9f61/header.jpg?t=1768221233" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858860/50d16874872be88bbcf2f399a583c2e1e65e9f61/header.jpg?t=1768221233" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3858860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858860/50d16874872be88bbcf2f399a583c2e1e65e9f61/header.jpg?t=1768221233" alt="IKARUS（新規追加）" /></a></p><p>IKARUS blends the bullet-hell chaos of arcade shmups with the strategic edge of a roguelike deck-builder. Dodge, parry, and shoot through waves of hostile machines while crafting game-breaking card synergies. How close to the sun will you fly?</p><p><a href="https://store.steampowered.com/app/3858860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Valefor 2（新規追加）</title>
   <link>https://store.steampowered.com/app/3326570/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273420/d554e50a0ed481ae5d45dafea64e9b4ea1c4608c/header.jpg?t=1767888268" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273420/d554e50a0ed481ae5d45dafea64e9b4ea1c4608c/header.jpg?t=1767888268" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273420/d554e50a0ed481ae5d45dafea64e9b4ea1c4608c/header.jpg?t=1767888268" alt="Zom Mat Taeng（新規追加）" /></a></p><p>A bright, cozy tycoon about running a skewer shop for hungry zombies. Grill to order, serve fast, and upgrade your little stall into the town’s favorite stop—one quick day at a time. Easy to pick up, satisfying to master.</p><p><a href="https://store.steampowered.com/app/4273420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dungeon-Doku（新規追加）</title>
-  <link>https://store.steampowered.com/app/4236110/</link>
-  <guid isPermaLink="false">steam-store-published-4236110</guid>
-  <pubDate>Thu, 08 Jan 2026 16:26:33 +0000</pubDate>
-  <description>Dungeon-Doku is a rogue-lite Sudoku game where you fill in puzzles, gain treasure and face traps while trying not to take damage by messing up. How far can you make it in the dungeon?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236110/30169412867c9d4b5828307fc54a7eb06d691332/header.jpg?t=1767888520" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236110/30169412867c9d4b5828307fc54a7eb06d691332/header.jpg?t=1767888520" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236110/30169412867c9d4b5828307fc54a7eb06d691332/header.jpg?t=1767888520" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236110/30169412867c9d4b5828307fc54a7eb06d691332/header.jpg?t=1767888520" alt="Dungeon-Doku（新規追加）" /></a></p><p>Dungeon-Doku is a rogue-lite Sudoku game where you fill in puzzles, gain treasure and face traps while trying not to take damage by messing up. How far can you make it in the dungeon?</p><p><a href="https://store.steampowered.com/app/4236110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
