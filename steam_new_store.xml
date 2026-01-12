@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 12 Jan 2026 09:48:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 10:23:10 +0000</lastBuildDate>
+<item>
+  <title>Coination（新規追加）</title>
+  <link>https://store.steampowered.com/app/4261820/</link>
+  <guid isPermaLink="false">steam-store-published-4261820</guid>
+  <pubDate>Mon, 12 Jan 2026 10:23:10 +0000</pubDate>
+  <description>A 3D incremental idle game where you flip coins, earn money, unlock new coin types, and grow through a branching upgrade tree.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261820/41c416b66c42a084d8039ea84561beb55224db25/header.jpg?t=1768211299" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261820/41c416b66c42a084d8039ea84561beb55224db25/header.jpg?t=1768211299" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261820/41c416b66c42a084d8039ea84561beb55224db25/header.jpg?t=1768211299" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261820/41c416b66c42a084d8039ea84561beb55224db25/header.jpg?t=1768211299" alt="Coination（新規追加）" /></a></p><p>A 3D incremental idle game where you flip coins, earn money, unlock new coin types, and grow through a branching upgrade tree.</p><p><a href="https://store.steampowered.com/app/4261820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Project Atlas（新規追加）</title>
   <link>https://store.steampowered.com/app/3899760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157280/f0f527435ef1834fb5c39bcc8188ffe7fcb59c90/header.jpg?t=1767886477" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157280/f0f527435ef1834fb5c39bcc8188ffe7fcb59c90/header.jpg?t=1767886477" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4157280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157280/f0f527435ef1834fb5c39bcc8188ffe7fcb59c90/header.jpg?t=1767886477" alt="Fever House（新規追加）" /></a></p><p>A story-driven adult visual novel where your choices shape relationships, desire, and destiny. Balance love, loyalty, and ambition as a young man navigating life, temptation, and marriage with three very different women in the city.</p><p><a href="https://store.steampowered.com/app/4157280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BurgerJoint: Fast Food Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4222250/</link>
-  <guid isPermaLink="false">steam-store-published-4222250</guid>
-  <pubDate>Thu, 08 Jan 2026 15:54:25 +0000</pubDate>
-  <description>Fast food simulator game focused on physics-based mechanics and satisfying cooking. Flip, stack, grill and assemble burgers however you like, manage your restaurant’s stock, take orders, and enjoy the calm chaos of running your own virtual kitchen.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222250/7edcf1840b87f432e3e9e3e67f80b9dac4db9915/header.jpg?t=1767886803" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222250/7edcf1840b87f432e3e9e3e67f80b9dac4db9915/header.jpg?t=1767886803" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222250/7edcf1840b87f432e3e9e3e67f80b9dac4db9915/header.jpg?t=1767886803" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4222250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4222250/7edcf1840b87f432e3e9e3e67f80b9dac4db9915/header.jpg?t=1767886803" alt="BurgerJoint: Fast Food Simulator（新規追加）" /></a></p><p>Fast food simulator game focused on physics-based mechanics and satisfying cooking. Flip, stack, grill and assemble burgers however you like, manage your restaurant’s stock, take orders, and enjoy the calm chaos of running your own virtual kitchen.</p><p><a href="https://store.steampowered.com/app/4222250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
