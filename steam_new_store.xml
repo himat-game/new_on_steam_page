@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 12 Jan 2026 20:52:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 21:18:50 +0000</lastBuildDate>
+<item>
+  <title>DungeonVerse（新規追加）</title>
+  <link>https://store.steampowered.com/app/4090750/</link>
+  <guid isPermaLink="false">steam-store-published-4090750</guid>
+  <pubDate>Mon, 12 Jan 2026 21:18:50 +0000</pubDate>
+  <description>DungeonVerse takes you to four unique worlds that have been reduced to gloomy dungeons by a catastrophe. Explore crumbling ruins, mystical places and forgotten cities, battle powerful bosses and collect all the artefacts to restore balance to your world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090750/9bcfb6befc8bedcfd60c34f43901d9ec80c73ec7/header.jpg?t=1768251175" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090750/9bcfb6befc8bedcfd60c34f43901d9ec80c73ec7/header.jpg?t=1768251175" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090750/9bcfb6befc8bedcfd60c34f43901d9ec80c73ec7/header.jpg?t=1768251175" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4090750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090750/9bcfb6befc8bedcfd60c34f43901d9ec80c73ec7/header.jpg?t=1768251175" alt="DungeonVerse（新規追加）" /></a></p><p>DungeonVerse takes you to four unique worlds that have been reduced to gloomy dungeons by a catastrophe. Explore crumbling ruins, mystical places and forgotten cities, battle powerful bosses and collect all the artefacts to restore balance to your world.</p><p><a href="https://store.steampowered.com/app/4090750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>VacBot Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4297050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272790/7126f33551e6bbab4724d63e18b450468a5a52d9/header.jpg?t=1767912622" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272790/7126f33551e6bbab4724d63e18b450468a5a52d9/header.jpg?t=1767912622" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272790/7126f33551e6bbab4724d63e18b450468a5a52d9/header.jpg?t=1767912622" alt="Approach Control: Remastered（新規追加）" /></a></p><p>A professional air traffic control simulation, now with voice recognition! Approach Control: Remastered is a realistic air traffic control simulation where you manage arrivals using real procedures, authentic radar behavior, and professional controller workflows in fast-paced, high-stakes scenarios.</p><p><a href="https://store.steampowered.com/app/4272790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BYE BYE! POLICE!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4290760/</link>
-  <guid isPermaLink="false">steam-store-published-4290760</guid>
-  <pubDate>Thu, 08 Jan 2026 23:46:54 +0000</pubDate>
-  <description>Steal, Escape, and Power Up! &amp;quot;BYE BYE! POLICE!&amp;quot; is a high-octane, first-person heist action game set in a stylized world. Evade the police blockade, cash in your loot, and upgrade your abilities. Master various skills to pull off the ultimate, &amp;quot;smooth&amp;quot; robbery!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290760/220cfac75ee4fdc8548b0bd42011441d333c7b7b/header.jpg?t=1767913333" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290760/220cfac75ee4fdc8548b0bd42011441d333c7b7b/header.jpg?t=1767913333" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290760/220cfac75ee4fdc8548b0bd42011441d333c7b7b/header.jpg?t=1767913333" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4290760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290760/220cfac75ee4fdc8548b0bd42011441d333c7b7b/header.jpg?t=1767913333" alt="BYE BYE! POLICE!（新規追加）" /></a></p><p>Steal, Escape, and Power Up! &amp;quot;BYE BYE! POLICE!&amp;quot; is a high-octane, first-person heist action game set in a stylized world. Evade the police blockade, cash in your loot, and upgrade your abilities. Master various skills to pull off the ultimate, &amp;quot;smooth&amp;quot; robbery!</p><p><a href="https://store.steampowered.com/app/4290760/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
