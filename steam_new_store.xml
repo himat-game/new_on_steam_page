@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 13 Jan 2026 07:00:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 07:52:14 +0000</lastBuildDate>
+<item>
+  <title>摸鱼地下城（新規追加）</title>
+  <link>https://store.steampowered.com/app/4262590/</link>
+  <guid isPermaLink="false">steam-store-published-4262590</guid>
+  <pubDate>Tue, 13 Jan 2026 07:52:14 +0000</pubDate>
+  <description>Loafing Dungeon is a fully automatic desktop idle game. Build your hero team on the desktop, equip them with gear and skills, and then launch the adventure on auto-pilot. The game runs continuously in the background, ensuring your progression and rewards are always fight, whether you&#x27;re busy or free</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262590/67597fcc920f0d3a0f455c63cc01568146b9a9e6/header.jpg?t=1768288348" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262590/67597fcc920f0d3a0f455c63cc01568146b9a9e6/header.jpg?t=1768288348" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262590/67597fcc920f0d3a0f455c63cc01568146b9a9e6/header.jpg?t=1768288348" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262590/67597fcc920f0d3a0f455c63cc01568146b9a9e6/header.jpg?t=1768288348" alt="摸鱼地下城（新規追加）" /></a></p><p>Loafing Dungeon is a fully automatic desktop idle game. Build your hero team on the desktop, equip them with gear and skills, and then launch the adventure on auto-pilot. The game runs continuously in the background, ensuring your progression and rewards are always fight, whether you&#x27;re busy or free</p><p><a href="https://store.steampowered.com/app/4262590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>俄罗斯方块3D版（新規追加）</title>
   <link>https://store.steampowered.com/app/4223990/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278010/a290142c73f5d0ab2a93358ca17fdb9f90e50870/header.jpg?t=1767953949" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278010/a290142c73f5d0ab2a93358ca17fdb9f90e50870/header.jpg?t=1767953949" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4278010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278010/a290142c73f5d0ab2a93358ca17fdb9f90e50870/header.jpg?t=1767953949" alt="五年B班事件簿 - The Grade 5B Case Files（新規追加）" /></a></p><p>A narrative AVG focused on everyday mysteries from the lives of elementary school students. The two protagonists encounter ordinary yet unusual incidents at school, and through investigation and deduction, players uncover the truth together with them.</p><p><a href="https://store.steampowered.com/app/4278010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Memoria（新規追加）</title>
-  <link>https://store.steampowered.com/app/4135480/</link>
-  <guid isPermaLink="false">steam-store-published-4135480</guid>
-  <pubDate>Fri, 09 Jan 2026 09:54:19 +0000</pubDate>
-  <description>Memoria is a classic memory matching game designed for Windows 3.1. Players are presented with a grid of face-down tiles, each holding a pictogram. The Objective is to find all matching pairs by flipping two tiles at a time.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135480/0c50eec94cffb042d505a7a55ed2b32a8804a545/header.jpg?t=1767952221" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135480/0c50eec94cffb042d505a7a55ed2b32a8804a545/header.jpg?t=1767952221" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135480/0c50eec94cffb042d505a7a55ed2b32a8804a545/header.jpg?t=1767952221" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4135480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135480/0c50eec94cffb042d505a7a55ed2b32a8804a545/header.jpg?t=1767952221" alt="Memoria（新規追加）" /></a></p><p>Memoria is a classic memory matching game designed for Windows 3.1. Players are presented with a grid of face-down tiles, each holding a pictogram. The Objective is to find all matching pairs by flipping two tiles at a time.</p><p><a href="https://store.steampowered.com/app/4135480/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
