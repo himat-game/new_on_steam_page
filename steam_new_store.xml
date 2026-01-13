@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 13 Jan 2026 21:52:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 22:19:34 +0000</lastBuildDate>
+<item>
+  <title>Mossbound（新規追加）</title>
+  <link>https://store.steampowered.com/app/4289170/</link>
+  <guid isPermaLink="false">steam-store-published-4289170</guid>
+  <pubDate>Tue, 13 Jan 2026 22:19:34 +0000</pubDate>
+  <description>Mossbound is a small, atmospheric exploration game set in an overgrown miniature world. You follow Milo on a quiet journey through moss, roots, and forgotten spaces, searching for a way to save his sick brother.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289170/9051d91c0f94cee923ada33afcd3836c1cad52dc/header.jpg?t=1768341394" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289170/9051d91c0f94cee923ada33afcd3836c1cad52dc/header.jpg?t=1768341394" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289170/9051d91c0f94cee923ada33afcd3836c1cad52dc/header.jpg?t=1768341394" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289170/9051d91c0f94cee923ada33afcd3836c1cad52dc/header.jpg?t=1768341394" alt="Mossbound（新規追加）" /></a></p><p>Mossbound is a small, atmospheric exploration game set in an overgrown miniature world. You follow Milo on a quiet journey through moss, roots, and forgotten spaces, searching for a way to save his sick brother.</p><p><a href="https://store.steampowered.com/app/4289170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dust and Sorcery（新規追加）</title>
   <link>https://store.steampowered.com/app/4301320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978320/2610ea19d0a6c0f6d446c375e1368a998c004138/header.jpg?t=1768019802" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978320/2610ea19d0a6c0f6d446c375e1368a998c004138/header.jpg?t=1768019802" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3978320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3978320/2610ea19d0a6c0f6d446c375e1368a998c004138/header.jpg?t=1768019802" alt="13 柱庭 Cabal 13（新規追加）" /></a></p><p>Welcome to Cabal-13, a fast-paced multiplayer roguelike auto-chess game! Choose your hero, build a unique team, and compete in ever-changing battles. Strategy and luck unite in this hero-focused adventure.</p><p><a href="https://store.steampowered.com/app/3978320/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kaiju Inc.（新規追加）</title>
-  <link>https://store.steampowered.com/app/4276390/</link>
-  <guid isPermaLink="false">steam-store-published-4276390</guid>
-  <pubDate>Sat, 10 Jan 2026 04:05:36 +0000</pubDate>
-  <description>Kaiju Inc. is a Real-Time Tactics + Roguelike Monster Raising game! Mutate, Modify, and Evolve your monsters! Build your strongest monster squad through Roguelike stages!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276390/00de095cd39708e88c8f6d2987d10b15c4aeeb79/header.jpg?t=1768015887" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276390/00de095cd39708e88c8f6d2987d10b15c4aeeb79/header.jpg?t=1768015887" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276390/00de095cd39708e88c8f6d2987d10b15c4aeeb79/header.jpg?t=1768015887" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276390/00de095cd39708e88c8f6d2987d10b15c4aeeb79/header.jpg?t=1768015887" alt="Kaiju Inc.（新規追加）" /></a></p><p>Kaiju Inc. is a Real-Time Tactics + Roguelike Monster Raising game! Mutate, Modify, and Evolve your monsters! Build your strongest monster squad through Roguelike stages!</p><p><a href="https://store.steampowered.com/app/4276390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
