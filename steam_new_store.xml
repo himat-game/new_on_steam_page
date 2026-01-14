@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 14 Jan 2026 20:18:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 20:40:30 +0000</lastBuildDate>
+<item>
+  <title>Incretyper（新規追加）</title>
+  <link>https://store.steampowered.com/app/4297640/</link>
+  <guid isPermaLink="false">steam-store-published-4297640</guid>
+  <pubDate>Wed, 14 Jan 2026 20:40:30 +0000</pubDate>
+  <description>Incretyper is an incremental typing game where every word you type can trigger powerful effects. Destroy shapes, unlock upgrades and watch your typing power grow into chaotic chain reactions.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297640/d049db9540864a4ecfe1af53f915d79b62d33226/header.jpg?t=1768422954" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297640/d049db9540864a4ecfe1af53f915d79b62d33226/header.jpg?t=1768422954" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297640/d049db9540864a4ecfe1af53f915d79b62d33226/header.jpg?t=1768422954" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4297640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297640/d049db9540864a4ecfe1af53f915d79b62d33226/header.jpg?t=1768422954" alt="Incretyper（新規追加）" /></a></p><p>Incretyper is an incremental typing game where every word you type can trigger powerful effects. Destroy shapes, unlock upgrades and watch your typing power grow into chaotic chain reactions.</p><p><a href="https://store.steampowered.com/app/4297640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Song Of WILL（新規追加）</title>
   <link>https://store.steampowered.com/app/4303590/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292110/4ecd13ba598b42935664854826a177160d6b4ceb/header.jpg?t=1768156211" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292110/4ecd13ba598b42935664854826a177160d6b4ceb/header.jpg?t=1768156211" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4292110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292110/4ecd13ba598b42935664854826a177160d6b4ceb/header.jpg?t=1768156211" alt="Stumblepath（新規追加）" /></a></p><p>Stumblepath is a turn-based roguelike RPG about an endless journey through a dark, hostile forest. Fight dangerous creatures, customize your gear, and make decisions that determine how far you can go.</p><p><a href="https://store.steampowered.com/app/4292110/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beach Ball Bounce Back（新規追加）</title>
-  <link>https://store.steampowered.com/app/3995270/</link>
-  <guid isPermaLink="false">steam-store-published-3995270</guid>
-  <pubDate>Sun, 11 Jan 2026 18:25:38 +0000</pubDate>
-  <description>BBBB is a challenging physics platformer. If you fall down, just bounce back!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995270/c2b54eda3e99bcaccb56d0d3d9ba318bcbcedc4d/header.jpg?t=1768155842" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995270/c2b54eda3e99bcaccb56d0d3d9ba318bcbcedc4d/header.jpg?t=1768155842" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995270/c2b54eda3e99bcaccb56d0d3d9ba318bcbcedc4d/header.jpg?t=1768155842" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3995270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995270/c2b54eda3e99bcaccb56d0d3d9ba318bcbcedc4d/header.jpg?t=1768155842" alt="Beach Ball Bounce Back（新規追加）" /></a></p><p>BBBB is a challenging physics platformer. If you fall down, just bounce back!</p><p><a href="https://store.steampowered.com/app/3995270/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
