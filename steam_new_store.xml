@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 14 Jan 2026 19:25:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 19:46:52 +0000</lastBuildDate>
+<item>
+  <title>Little Rock Shop（新規追加）</title>
+  <link>https://store.steampowered.com/app/4205970/</link>
+  <guid isPermaLink="false">steam-store-published-4205970</guid>
+  <pubDate>Wed, 14 Jan 2026 19:46:52 +0000</pubDate>
+  <description>Little Rock Shop is a casual adventure game all about rocks and exploration! Navigate hiking trails and find geological specimens. Manage your shop, hone your lapidary skills, and interact with a quirky cast of characters.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205970/6b665a8debf6a900e491e39838f1a5484ba1caa6/header.jpg?t=1768419653" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205970/6b665a8debf6a900e491e39838f1a5484ba1caa6/header.jpg?t=1768419653" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205970/6b665a8debf6a900e491e39838f1a5484ba1caa6/header.jpg?t=1768419653" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4205970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205970/6b665a8debf6a900e491e39838f1a5484ba1caa6/header.jpg?t=1768419653" alt="Little Rock Shop（新規追加）" /></a></p><p>Little Rock Shop is a casual adventure game all about rocks and exploration! Navigate hiking trails and find geological specimens. Manage your shop, hone your lapidary skills, and interact with a quirky cast of characters.</p><p><a href="https://store.steampowered.com/app/4205970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Gilgamesh and the Tree of Life（新規追加）</title>
   <link>https://store.steampowered.com/app/3617070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949470/fd8c6d6937ad6d3f6b5bd29d764df029c64e3ff0/header.jpg?t=1768135613" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949470/fd8c6d6937ad6d3f6b5bd29d764df029c64e3ff0/header.jpg?t=1768135613" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3949470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949470/fd8c6d6937ad6d3f6b5bd29d764df029c64e3ff0/header.jpg?t=1768135613" alt="La Voie du Réveil（新規追加）" /></a></p><p>Suivez le périple de Kirou et ses compagnons alors qu’ils relèvent les Épreuves pour s’échapper du Cauchemar dans ce RPG de fantasy au combat au tour par tour ! Parviendrez-vous à atteindre la Voie du Réveil ? </p><p><a href="https://store.steampowered.com/app/3949470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chesto: A chess-like adventure（新規追加）</title>
-  <link>https://store.steampowered.com/app/4294340/</link>
-  <guid isPermaLink="false">steam-store-published-4294340</guid>
-  <pubDate>Sun, 11 Jan 2026 13:17:20 +0000</pubDate>
-  <description>Explore a cozy town and challenge its residents in a chess-inspired game with custom pieces.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294340/c2694fb1829e9f1c81b443a6489fce97c66814d0/header.jpg?t=1768136857" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294340/c2694fb1829e9f1c81b443a6489fce97c66814d0/header.jpg?t=1768136857" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294340/c2694fb1829e9f1c81b443a6489fce97c66814d0/header.jpg?t=1768136857" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294340/c2694fb1829e9f1c81b443a6489fce97c66814d0/header.jpg?t=1768136857" alt="Chesto: A chess-like adventure（新規追加）" /></a></p><p>Explore a cozy town and challenge its residents in a chess-inspired game with custom pieces.</p><p><a href="https://store.steampowered.com/app/4294340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
