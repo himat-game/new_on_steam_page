@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 14 Jan 2026 09:55:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 10:23:17 +0000</lastBuildDate>
+<item>
+  <title>Paper Rogue（新規追加）</title>
+  <link>https://store.steampowered.com/app/4298130/</link>
+  <guid isPermaLink="false">steam-store-published-4298130</guid>
+  <pubDate>Wed, 14 Jan 2026 10:23:17 +0000</pubDate>
+  <description>A dark paper-styled dungeon crawler where dice decide your fate. Explore procedural dungeons, fight monsters, loot artifacts, and survive the drop.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298130/d8259bede6296fd704805b6d630c195f32dee093/header.jpg?t=1768385286" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298130/d8259bede6296fd704805b6d630c195f32dee093/header.jpg?t=1768385286" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298130/d8259bede6296fd704805b6d630c195f32dee093/header.jpg?t=1768385286" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4298130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298130/d8259bede6296fd704805b6d630c195f32dee093/header.jpg?t=1768385286" alt="Paper Rogue（新規追加）" /></a></p><p>A dark paper-styled dungeon crawler where dice decide your fate. Explore procedural dungeons, fight monsters, loot artifacts, and survive the drop.</p><p><a href="https://store.steampowered.com/app/4298130/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Game Saloon Simulator: Prologue（新規追加）</title>
   <link>https://store.steampowered.com/app/4311190/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112580/32e865b976f7a020622b046097c0cb1efc0f46e9/header.jpg?t=1768064879" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112580/32e865b976f7a020622b046097c0cb1efc0f46e9/header.jpg?t=1768064879" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4112580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4112580/32e865b976f7a020622b046097c0cb1efc0f46e9/header.jpg?t=1768064879" alt="AstroDiner Manager（新規追加）" /></a></p><p>Become a manager for your own diner on a lonely asteroid. Order snacks and drinks, cook dishes, and serve them to quirky alien slimes. Talk, hire, investigate, and keep an eye on the visitors to reveal the hidden mystery behind this place. </p><p><a href="https://store.steampowered.com/app/4112580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nano Dash（新規追加）</title>
-  <link>https://store.steampowered.com/app/4296620/</link>
-  <guid isPermaLink="false">steam-store-published-4296620</guid>
-  <pubDate>Sat, 10 Jan 2026 16:51:51 +0000</pubDate>
-  <description>Nano Dash is Boulder Dash like action puzzler game but with a lot of new elements and also some Metroidvania features like tiny story-line, power-ups and a lot of secrets and hidden dungeons. The graphics and sound is 8 Bit like and close to the one from the original from 1986.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296620/3bf57bc9767d32d3b490a36c19d4c57fb4b09b86/header.jpg?t=1768063763" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296620/3bf57bc9767d32d3b490a36c19d4c57fb4b09b86/header.jpg?t=1768063763" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296620/3bf57bc9767d32d3b490a36c19d4c57fb4b09b86/header.jpg?t=1768063763" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4296620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296620/3bf57bc9767d32d3b490a36c19d4c57fb4b09b86/header.jpg?t=1768063763" alt="Nano Dash（新規追加）" /></a></p><p>Nano Dash is Boulder Dash like action puzzler game but with a lot of new elements and also some Metroidvania features like tiny story-line, power-ups and a lot of secrets and hidden dungeons. The graphics and sound is 8 Bit like and close to the one from the original from 1986.</p><p><a href="https://store.steampowered.com/app/4296620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
