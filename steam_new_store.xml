@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 14 Jan 2026 14:01:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 14:46:33 +0000</lastBuildDate>
+<item>
+  <title>DataFall（新規追加）</title>
+  <link>https://store.steampowered.com/app/4291910/</link>
+  <guid isPermaLink="false">steam-store-published-4291910</guid>
+  <pubDate>Wed, 14 Jan 2026 14:46:33 +0000</pubDate>
+  <description>DataFall is a cyberpunk idle clicker where automated systems grind endlessly and boss encounters force you to take control when efficiency alone isn’t enough.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291910/98f9eb64506d40f3343b37ed774b036d2d2a58e4/header.jpg?t=1768400948" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291910/98f9eb64506d40f3343b37ed774b036d2d2a58e4/header.jpg?t=1768400948" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291910/98f9eb64506d40f3343b37ed774b036d2d2a58e4/header.jpg?t=1768400948" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4291910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291910/98f9eb64506d40f3343b37ed774b036d2d2a58e4/header.jpg?t=1768400948" alt="DataFall（新規追加）" /></a></p><p>DataFall is a cyberpunk idle clicker where automated systems grind endlessly and boss encounters force you to take control when efficiency alone isn’t enough.</p><p><a href="https://store.steampowered.com/app/4291910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tokei（新規追加）</title>
   <link>https://store.steampowered.com/app/4245120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143710/96f6cf7ec23c62ca375365932e55d98671262546/header.jpg?t=1768078071" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143710/96f6cf7ec23c62ca375365932e55d98671262546/header.jpg?t=1768078071" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4143710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143710/96f6cf7ec23c62ca375365932e55d98671262546/header.jpg?t=1768078071" alt="The Lost Signal: SCP（新規追加）" /></a></p><p>Experience intense, first-person experiments as a Class D personnel, then step into the shoes of an Agent hunting down paranormal mysteries. Dive into parallel worlds, report on eerie anomalies, survive deadly monsters, and unravel the secrets behind each SCP-inspired object and liminal space.</p><p><a href="https://store.steampowered.com/app/4143710/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Agent C（新規追加）</title>
-  <link>https://store.steampowered.com/app/4300280/</link>
-  <guid isPermaLink="false">steam-store-published-4300280</guid>
-  <pubDate>Sat, 10 Jan 2026 20:52:07 +0000</pubDate>
-  <description>Agent C is the ultimate stealth survivor designed for tactical operations. This innovative character excels in infiltrating military bases, utilizing advanced stealth techniques to navigate through enemy lines undetected with the added capability of piloting a powerful helicopter.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300280/89ee09cdd2ade18acbcdb5eb55f47f3f372917bd/header.jpg?t=1768076858" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300280/89ee09cdd2ade18acbcdb5eb55f47f3f372917bd/header.jpg?t=1768076858" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300280/89ee09cdd2ade18acbcdb5eb55f47f3f372917bd/header.jpg?t=1768076858" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4300280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300280/89ee09cdd2ade18acbcdb5eb55f47f3f372917bd/header.jpg?t=1768076858" alt="Agent C（新規追加）" /></a></p><p>Agent C is the ultimate stealth survivor designed for tactical operations. This innovative character excels in infiltrating military bases, utilizing advanced stealth techniques to navigate through enemy lines undetected with the added capability of piloting a powerful helicopter.</p><p><a href="https://store.steampowered.com/app/4300280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
