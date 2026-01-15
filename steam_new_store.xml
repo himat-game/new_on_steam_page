@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 15 Jan 2026 07:50:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 08:27:57 +0000</lastBuildDate>
+<item>
+  <title>Grave Dodgers（新規追加）</title>
+  <link>https://store.steampowered.com/app/2928110/</link>
+  <guid isPermaLink="false">steam-store-published-2928110</guid>
+  <pubDate>Thu, 15 Jan 2026 08:27:57 +0000</pubDate>
+  <description>Grave Dodgers is a 2D, pixel art, dodgeball brawler for 2-4 players. Throw, dodge, and parry your way through a silly version of hell as one of the underworld&#x27;s kooky characters. Inspired by our favorite local couch multiplayer games - but in hell! Kill your friends and have a ball!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928110/c32046e491f7757b121d4a2ed60144780b23685f/header.jpg?t=1768464066" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928110/c32046e491f7757b121d4a2ed60144780b23685f/header.jpg?t=1768464066" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928110/c32046e491f7757b121d4a2ed60144780b23685f/header.jpg?t=1768464066" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2928110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928110/c32046e491f7757b121d4a2ed60144780b23685f/header.jpg?t=1768464066" alt="Grave Dodgers（新規追加）" /></a></p><p>Grave Dodgers is a 2D, pixel art, dodgeball brawler for 2-4 players. Throw, dodge, and parry your way through a silly version of hell as one of the underworld&#x27;s kooky characters. Inspired by our favorite local couch multiplayer games - but in hell! Kill your friends and have a ball!</p><p><a href="https://store.steampowered.com/app/2928110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>俊風のシィレア（新規追加）</title>
   <link>https://store.steampowered.com/app/4291590/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298800/0959af8121f141ddbc08019aee0cc9e14a0e84a0/header.jpg?t=1768244511" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298800/0959af8121f141ddbc08019aee0cc9e14a0e84a0/header.jpg?t=1768244511" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4298800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298800/0959af8121f141ddbc08019aee0cc9e14a0e84a0/header.jpg?t=1768244511" alt="FORJ（新規追加）" /></a></p><p>Design intricate factories, run a thriving merchant shop, and brave deadly dungeons in a high-stakes co-op extraction loop. Automate your industry with programmable golems, craft legendary +9 gear, and dominate the Arena to unlock 100 levels of permanent prestige power.</p><p><a href="https://store.steampowered.com/app/4298800/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SpinObi : Just One More Wave（新規追加）</title>
-  <link>https://store.steampowered.com/app/4298350/</link>
-  <guid isPermaLink="false">steam-store-published-4298350</guid>
-  <pubDate>Mon, 12 Jan 2026 19:27:11 +0000</pubDate>
-  <description>Take control of a legendary ninja in this high-intensity action roguelike. Unlike passive survival games, you must master Dash and Hook mechanics to survive relentless mystical hordes. Upgrade your skills, create powerful builds, and conquer the battlefield with precision and speed.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298350/b0cb21b59525445b89c6e2dedefec0b7c4ac1f07/header.jpg?t=1768245568" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298350/b0cb21b59525445b89c6e2dedefec0b7c4ac1f07/header.jpg?t=1768245568" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298350/b0cb21b59525445b89c6e2dedefec0b7c4ac1f07/header.jpg?t=1768245568" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4298350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298350/b0cb21b59525445b89c6e2dedefec0b7c4ac1f07/header.jpg?t=1768245568" alt="SpinObi : Just One More Wave（新規追加）" /></a></p><p>Take control of a legendary ninja in this high-intensity action roguelike. Unlike passive survival games, you must master Dash and Hook mechanics to survive relentless mystical hordes. Upgrade your skills, create powerful builds, and conquer the battlefield with precision and speed.</p><p><a href="https://store.steampowered.com/app/4298350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
