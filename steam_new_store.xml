@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 15 Jan 2026 13:38:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 14:00:46 +0000</lastBuildDate>
+<item>
+  <title>Duality Paradox（新規追加）</title>
+  <link>https://store.steampowered.com/app/2993800/</link>
+  <guid isPermaLink="false">steam-store-published-2993800</guid>
+  <pubDate>Thu, 15 Jan 2026 14:00:46 +0000</pubDate>
+  <description>Duality Paradox is a puzzle game where players control a character that switches between black and white. This color shift changes how the world is perceived: matching colors become walls, while opposite colors turn into passable floors.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993800/aac1d04bc1983c15055df807d28df672ea6d7656/header.jpg?t=1768485156" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993800/aac1d04bc1983c15055df807d28df672ea6d7656/header.jpg?t=1768485156" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993800/aac1d04bc1983c15055df807d28df672ea6d7656/header.jpg?t=1768485156" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2993800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993800/aac1d04bc1983c15055df807d28df672ea6d7656/header.jpg?t=1768485156" alt="Duality Paradox（新規追加）" /></a></p><p>Duality Paradox is a puzzle game where players control a character that switches between black and white. This color shift changes how the world is perceived: matching colors become walls, while opposite colors turn into passable floors.</p><p><a href="https://store.steampowered.com/app/2993800/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kisaragi（新規追加）</title>
   <link>https://store.steampowered.com/app/3728280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279050/7087c8631517e91b136dbfb9bfd751e0050c8e16/header.jpg?t=1768260567" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279050/7087c8631517e91b136dbfb9bfd751e0050c8e16/header.jpg?t=1768260567" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4279050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279050/7087c8631517e91b136dbfb9bfd751e0050c8e16/header.jpg?t=1768260567" alt="Stinky Cat（新規追加）" /></a></p><p>Kidnapped in Cyber Space with a High-tech toilet plunger on his head, Stinky Cat needs your help! In this cozy puzzle game combining Sokoban with Bomberman, you must plan your moves to push crates, set off explosives to clear paths. Outsmart the evil Fox, and blast your way back to reality!</p><p><a href="https://store.steampowered.com/app/4279050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Capybara Dungeon（新規追加）</title>
-  <link>https://store.steampowered.com/app/4299570/</link>
-  <guid isPermaLink="false">steam-store-published-4299570</guid>
-  <pubDate>Mon, 12 Jan 2026 23:46:49 +0000</pubDate>
-  <description>Capybara Dungeon is a first-person cooperative dungeon exploration game where up to 4 players control capybaras in chaotic runs filled with dangerous creatures, unpredictable traps, and emergent humor, relying on constant communication to survive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299570/3f337c0f08d3a6b5b03e7db13cfcb98fa7155fb0/header.jpg?t=1768259064" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299570/3f337c0f08d3a6b5b03e7db13cfcb98fa7155fb0/header.jpg?t=1768259064" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299570/3f337c0f08d3a6b5b03e7db13cfcb98fa7155fb0/header.jpg?t=1768259064" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4299570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299570/3f337c0f08d3a6b5b03e7db13cfcb98fa7155fb0/header.jpg?t=1768259064" alt="Capybara Dungeon（新規追加）" /></a></p><p>Capybara Dungeon is a first-person cooperative dungeon exploration game where up to 4 players control capybaras in chaotic runs filled with dangerous creatures, unpredictable traps, and emergent humor, relying on constant communication to survive.</p><p><a href="https://store.steampowered.com/app/4299570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
