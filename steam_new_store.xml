@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 15 Jan 2026 09:53:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 10:21:15 +0000</lastBuildDate>
+<item>
+  <title>Platform Terror（新規追加）</title>
+  <link>https://store.steampowered.com/app/4210000/</link>
+  <guid isPermaLink="false">steam-store-published-4210000</guid>
+  <pubDate>Thu, 15 Jan 2026 10:21:15 +0000</pubDate>
+  <description>Platform Terror is a fast, unforgiving platformer focused on precision, memorization, and learning through failure. Invisible platforms, hidden traps, and surprises push you to retry, optimize your runs, and compete on global leaderboards.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210000/293913dc9399be9fcbf3529a18ec8e5db33eb4df/header.jpg?t=1768471487" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210000/293913dc9399be9fcbf3529a18ec8e5db33eb4df/header.jpg?t=1768471487" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210000/293913dc9399be9fcbf3529a18ec8e5db33eb4df/header.jpg?t=1768471487" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4210000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210000/293913dc9399be9fcbf3529a18ec8e5db33eb4df/header.jpg?t=1768471487" alt="Platform Terror（新規追加）" /></a></p><p>Platform Terror is a fast, unforgiving platformer focused on precision, memorization, and learning through failure. Invisible platforms, hidden traps, and surprises push you to retry, optimize your runs, and compete on global leaderboards.</p><p><a href="https://store.steampowered.com/app/4210000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Arcane waves（新規追加）</title>
+  <link>https://store.steampowered.com/app/4282020/</link>
+  <guid isPermaLink="false">steam-store-published-4282020</guid>
+  <pubDate>Thu, 15 Jan 2026 10:21:15 +0000</pubDate>
+  <description>Survive chaotic waves of enemies in a top-down, survival-like action game, evolving magical powers, defeating bosses, and testing your limits in endless runs.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282020/2d2085924370a720c58b84c7e1b6944296475ea0/header.jpg?t=1768471737" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282020/2d2085924370a720c58b84c7e1b6944296475ea0/header.jpg?t=1768471737" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282020/2d2085924370a720c58b84c7e1b6944296475ea0/header.jpg?t=1768471737" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4282020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282020/2d2085924370a720c58b84c7e1b6944296475ea0/header.jpg?t=1768471737" alt="Arcane waves（新規追加）" /></a></p><p>Survive chaotic waves of enemies in a top-down, survival-like action game, evolving magical powers, defeating bosses, and testing your limits in endless runs.</p><p><a href="https://store.steampowered.com/app/4282020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Game of Chaess（新規追加）</title>
   <link>https://store.steampowered.com/app/4264780/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096480/07362d596d9190a4dec478d91068d688c9664a6f/header.jpg?t=1768250564" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096480/07362d596d9190a4dec478d91068d688c9664a6f/header.jpg?t=1768250564" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4096480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096480/07362d596d9190a4dec478d91068d688c9664a6f/header.jpg?t=1768250564" alt="Keito（新規追加）" /></a></p><p>Drop colorful yarn balls from above and bounce them to the bored cat to delight them! Combine yarn balls of the same color to earn more points. Reach the target score as quickly as you can!</p><p><a href="https://store.steampowered.com/app/4096480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Backrooms: Imposter（新規追加）</title>
-  <link>https://store.steampowered.com/app/3645730/</link>
-  <guid isPermaLink="false">steam-store-published-3645730</guid>
-  <pubDate>Mon, 12 Jan 2026 20:52:17 +0000</pubDate>
-  <description>Work together to escape the Backrooms, but choose carefully who you trust. An imposter hides among your team, turning survival into a deadly mind game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645730/9790266902ecb0ce702062d90306135bbfa6241f/header.jpg?t=1768249905" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645730/9790266902ecb0ce702062d90306135bbfa6241f/header.jpg?t=1768249905" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645730/9790266902ecb0ce702062d90306135bbfa6241f/header.jpg?t=1768249905" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3645730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645730/9790266902ecb0ce702062d90306135bbfa6241f/header.jpg?t=1768249905" alt="Backrooms: Imposter（新規追加）" /></a></p><p>Work together to escape the Backrooms, but choose carefully who you trust. An imposter hides among your team, turning survival into a deadly mind game.</p><p><a href="https://store.steampowered.com/app/3645730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Heroes of Arcania（新規追加）</title>
-  <link>https://store.steampowered.com/app/4260730/</link>
-  <guid isPermaLink="false">steam-store-published-4260730</guid>
-  <pubDate>Mon, 12 Jan 2026 20:21:31 +0000</pubDate>
-  <description>Experience the tabletop action of Heroes of Arcania! Inspired by classic fantasy card and board games, this demo provides a bite-sized look at the combat, mechanics, and flow of the full game — perfect for learning the ropes before diving into the complete tabletop adventure!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260730/bf060238ceafb62288e249d7af5ca65156424b0a/header.jpg?t=1768249127" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260730/bf060238ceafb62288e249d7af5ca65156424b0a/header.jpg?t=1768249127" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260730/bf060238ceafb62288e249d7af5ca65156424b0a/header.jpg?t=1768249127" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260730/bf060238ceafb62288e249d7af5ca65156424b0a/header.jpg?t=1768249127" alt="Heroes of Arcania（新規追加）" /></a></p><p>Experience the tabletop action of Heroes of Arcania! Inspired by classic fantasy card and board games, this demo provides a bite-sized look at the combat, mechanics, and flow of the full game — perfect for learning the ropes before diving into the complete tabletop adventure!</p><p><a href="https://store.steampowered.com/app/4260730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
