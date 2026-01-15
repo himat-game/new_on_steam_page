@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 15 Jan 2026 11:50:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 12:40:37 +0000</lastBuildDate>
+<item>
+  <title>Deadhikers（新規追加）</title>
+  <link>https://store.steampowered.com/app/4213030/</link>
+  <guid isPermaLink="false">steam-store-published-4213030</guid>
+  <pubDate>Thu, 15 Jan 2026 12:40:37 +0000</pubDate>
+  <description>Deadhikers is a co-op survival horror game set in a remote, isolated wilderness cut off from the outside world. With no base building, players rely on hiking gear, keep moving, explore, and search for a way out together. Something is watching you - survival means escaping this hell.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213030/152661153e96ebf187c429291e3074828334a599/header.jpg?t=1768480628" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213030/152661153e96ebf187c429291e3074828334a599/header.jpg?t=1768480628" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213030/152661153e96ebf187c429291e3074828334a599/header.jpg?t=1768480628" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4213030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213030/152661153e96ebf187c429291e3074828334a599/header.jpg?t=1768480628" alt="Deadhikers（新規追加）" /></a></p><p>Deadhikers is a co-op survival horror game set in a remote, isolated wilderness cut off from the outside world. With no base building, players rely on hiking gear, keep moving, explore, and search for a way out together. Something is watching you - survival means escaping this hell.</p><p><a href="https://store.steampowered.com/app/4213030/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Don’t Let Them Drive（新規追加）</title>
   <link>https://store.steampowered.com/app/4290160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285610/a944c557d8298dc16b0b7b0f88875c2a6b6c377d/header.jpg?t=1768254519" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285610/a944c557d8298dc16b0b7b0f88875c2a6b6c377d/header.jpg?t=1768254519" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285610/a944c557d8298dc16b0b7b0f88875c2a6b6c377d/header.jpg?t=1768254519" alt="Sword of Shandar（新規追加）" /></a></p><p>Sword of Shandar is a narrative-driven light RPG focused on choice, consequence, and discovery. Engage in turn-based combat, resolve challenges through dice-roll skill checks, crack locks in hands-on minigames, and decipher ancient runes as you uncover the secrets of a fading world.</p><p><a href="https://store.steampowered.com/app/4285610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Let There Be Istanbul（新規追加）</title>
-  <link>https://store.steampowered.com/app/4297900/</link>
-  <guid isPermaLink="false">steam-store-published-4297900</guid>
-  <pubDate>Mon, 12 Jan 2026 21:51:01 +0000</pubDate>
-  <description>A hand-drawn slapstick beat-’em-up following a father-daughter duo on a wild journey toward Istanbul, with snappy tag-team combat and plenty of cats to pet... but why is Mehmet taking Ebru to Istanbul, and what awaits them there?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297900/845bc0bf74bdaa1e19d65a8c4ab1bdd4ee4a5d84/header.jpg?t=1768254535" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297900/845bc0bf74bdaa1e19d65a8c4ab1bdd4ee4a5d84/header.jpg?t=1768254535" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297900/845bc0bf74bdaa1e19d65a8c4ab1bdd4ee4a5d84/header.jpg?t=1768254535" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4297900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297900/845bc0bf74bdaa1e19d65a8c4ab1bdd4ee4a5d84/header.jpg?t=1768254535" alt="Let There Be Istanbul（新規追加）" /></a></p><p>A hand-drawn slapstick beat-’em-up following a father-daughter duo on a wild journey toward Istanbul, with snappy tag-team combat and plenty of cats to pet... but why is Mehmet taking Ebru to Istanbul, and what awaits them there?</p><p><a href="https://store.steampowered.com/app/4297900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
