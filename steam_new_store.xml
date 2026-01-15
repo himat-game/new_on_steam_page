@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 15 Jan 2026 06:29:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 07:00:16 +0000</lastBuildDate>
+<item>
+  <title>Cafe Life Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4280690/</link>
+  <guid isPermaLink="false">steam-store-published-4280690</guid>
+  <pubDate>Thu, 15 Jan 2026 07:00:16 +0000</pubDate>
+  <description>Build your cafe from scratch, serve your customers, and become the most popular spot in town! But be careful, this city isn&#x27;t just about coffee; the mafia is after your money, and love is just around the corner. Tune your car, feed your pet, and enjoy the open world. You are the boss!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280690/608becb35542bb7d4124ed6c93d3842c41e33dd3/header.jpg?t=1768323653" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280690/608becb35542bb7d4124ed6c93d3842c41e33dd3/header.jpg?t=1768323653" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280690/608becb35542bb7d4124ed6c93d3842c41e33dd3/header.jpg?t=1768323653" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280690/608becb35542bb7d4124ed6c93d3842c41e33dd3/header.jpg?t=1768323653" alt="Cafe Life Simulator（新規追加）" /></a></p><p>Build your cafe from scratch, serve your customers, and become the most popular spot in town! But be careful, this city isn&#x27;t just about coffee; the mafia is after your money, and love is just around the corner. Tune your car, feed your pet, and enjoy the open world. You are the boss!</p><p><a href="https://store.steampowered.com/app/4280690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>V.A.U.L.T PROTOCOL（新規追加）</title>
   <link>https://store.steampowered.com/app/4178200/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3877600/cc80c221cff0069b383585120096441bdb486690/header.jpg?t=1768241931" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3877600/cc80c221cff0069b383585120096441bdb486690/header.jpg?t=1768241931" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3877600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3877600/cc80c221cff0069b383585120096441bdb486690/header.jpg?t=1768241931" alt="Orbital Abyss: Cipher Division（新規追加）" /></a></p><p>Decipher interstellar transmissions encoded via substitution ciphers aboard Eremite Station. In this choice driven narrative, uncover secrets from planetary governments while conversing with crewmates to reveal their stories and troubles. The ripples of your choices may be felt through the galaxy.</p><p><a href="https://store.steampowered.com/app/3877600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Orken（新規追加）</title>
-  <link>https://store.steampowered.com/app/4146090/</link>
-  <guid isPermaLink="false">steam-store-published-4146090</guid>
-  <pubDate>Mon, 12 Jan 2026 17:49:17 +0000</pubDate>
-  <description>When his best friend fails to arrive at their secret meeting place, the young Khar warrior Coltec must leave everything behind to discover the terrible fate that has befallen his best friend in this Action-RPG, inspired by Dark Souls and Dragon&#x27;s Dogma.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146090/95146da82bf824bd10bdbcec5b5e3663b8e848f6/header.jpg?t=1768239018" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146090/95146da82bf824bd10bdbcec5b5e3663b8e848f6/header.jpg?t=1768239018" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146090/95146da82bf824bd10bdbcec5b5e3663b8e848f6/header.jpg?t=1768239018" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4146090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146090/95146da82bf824bd10bdbcec5b5e3663b8e848f6/header.jpg?t=1768239018" alt="Orken（新規追加）" /></a></p><p>When his best friend fails to arrive at their secret meeting place, the young Khar warrior Coltec must leave everything behind to discover the terrible fate that has befallen his best friend in this Action-RPG, inspired by Dark Souls and Dragon&#x27;s Dogma.</p><p><a href="https://store.steampowered.com/app/4146090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
