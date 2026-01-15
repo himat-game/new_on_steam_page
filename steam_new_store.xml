@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 15 Jan 2026 22:19:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 22:42:29 +0000</lastBuildDate>
+<item>
+  <title>Mission: B.R.E.A.D（新規追加）</title>
+  <link>https://store.steampowered.com/app/4078790/</link>
+  <guid isPermaLink="false">steam-store-published-4078790</guid>
+  <pubDate>Thu, 15 Jan 2026 22:42:29 +0000</pubDate>
+  <description>Collect ingredients, complete daring missions, and rise as the finest agent the agency has ever known. Whether solo or alongside fellow operatives, this mission has been entrusted to you, agent. We entrust you with this operation, agent. The agency expects nothing but your best.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078790/5eb2114aa09abe832f7dfd873f41381cec484d1a/header.jpg?t=1768504818" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078790/5eb2114aa09abe832f7dfd873f41381cec484d1a/header.jpg?t=1768504818" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078790/5eb2114aa09abe832f7dfd873f41381cec484d1a/header.jpg?t=1768504818" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4078790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078790/5eb2114aa09abe832f7dfd873f41381cec484d1a/header.jpg?t=1768504818" alt="Mission: B.R.E.A.D（新規追加）" /></a></p><p>Collect ingredients, complete daring missions, and rise as the finest agent the agency has ever known. Whether solo or alongside fellow operatives, this mission has been entrusted to you, agent. We entrust you with this operation, agent. The agency expects nothing but your best.</p><p><a href="https://store.steampowered.com/app/4078790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Egregore（新規追加）</title>
   <link>https://store.steampowered.com/app/4255090/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296200/38dc1ca2e0868edf037433d0f6845234c36b9e2f/header.jpg?t=1768312539" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296200/38dc1ca2e0868edf037433d0f6845234c36b9e2f/header.jpg?t=1768312539" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4296200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296200/38dc1ca2e0868edf037433d0f6845234c36b9e2f/header.jpg?t=1768312539" alt="Hamayumishi ～Night Parade of a Hundred Yokai～（新規追加）" /></a></p><p>The Hamayumishi uses their intense powers of concentration and skills with the bow to protect the villages from the gamboling yokai! This is a side-scrolling twin-stick shooting game. While aiming, the game will slow down to allow you to line up your shot before letting it fly.</p><p><a href="https://store.steampowered.com/app/4296200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ZeroPrompt（新規追加）</title>
-  <link>https://store.steampowered.com/app/4306040/</link>
-  <guid isPermaLink="false">steam-store-published-4306040</guid>
-  <pubDate>Tue, 13 Jan 2026 14:01:12 +0000</pubDate>
-  <description>The internet is dead. You&#x27;re a gatekeeper for Zero-Mesh. Filter out AI impostors from humanity&#x27;s last clean network. Interrogate live LLM agents that think, lie, and bribe in real-time. Use investigation tools to detect deception. Every verdict shapes the Zero-Mesh.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306040/993fb6202c1aa2bbd501ce9eeccbb7e4d20cdb51/header.jpg?t=1768312784" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306040/993fb6202c1aa2bbd501ce9eeccbb7e4d20cdb51/header.jpg?t=1768312784" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306040/993fb6202c1aa2bbd501ce9eeccbb7e4d20cdb51/header.jpg?t=1768312784" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4306040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306040/993fb6202c1aa2bbd501ce9eeccbb7e4d20cdb51/header.jpg?t=1768312784" alt="ZeroPrompt（新規追加）" /></a></p><p>The internet is dead. You&#x27;re a gatekeeper for Zero-Mesh. Filter out AI impostors from humanity&#x27;s last clean network. Interrogate live LLM agents that think, lie, and bribe in real-time. Use investigation tools to detect deception. Every verdict shapes the Zero-Mesh.</p><p><a href="https://store.steampowered.com/app/4306040/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
