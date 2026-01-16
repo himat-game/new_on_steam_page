@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 16 Jan 2026 21:18:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 21:50:47 +0000</lastBuildDate>
+<item>
+  <title>Pirate Temptation - Naughty Jigsaw（新規追加）</title>
+  <link>https://store.steampowered.com/app/4306250/</link>
+  <guid isPermaLink="false">steam-store-published-4306250</guid>
+  <pubDate>Fri, 16 Jan 2026 21:50:47 +0000</pubDate>
+  <description>Solve sensual jigsaw puzzles featuring seductive pirates across three difficulty levels. Pirate Temptation – Naughty Jigsaw offers exclusive artwork, tempting characters, and a gallery with downloadable unlocked images.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4306250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" alt="Pirate Temptation - Naughty Jigsaw（新規追加）" /></a></p><p>Solve sensual jigsaw puzzles featuring seductive pirates across three difficulty levels. Pirate Temptation – Naughty Jigsaw offers exclusive artwork, tempting characters, and a gallery with downloadable unlocked images.</p><p><a href="https://store.steampowered.com/app/4306250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Voxel Drive（新規追加）</title>
   <link>https://store.steampowered.com/app/4268210/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103630/9528d849d61673a05a877964d1d9b1ac826b0d7b/header.jpg?t=1768429378" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103630/9528d849d61673a05a877964d1d9b1ac826b0d7b/header.jpg?t=1768429378" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4103630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103630/9528d849d61673a05a877964d1d9b1ac826b0d7b/header.jpg?t=1768429378" alt="Grime Reapers（新規追加）" /></a></p><p>Grime Reapers is a first-person horror survival game where you clean haunted houses while avoiding monsters and ghouls. Complete cleaning objectives, distract enemies, or hide to survive your shift and escape the house alive.</p><p><a href="https://store.steampowered.com/app/4103630/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Daydream Mosaics 6: Empire - Collector&#x27;s Edition（新規追加）</title>
-  <link>https://store.steampowered.com/app/4288090/</link>
-  <guid isPermaLink="false">steam-store-published-4288090</guid>
-  <pubDate>Wed, 14 Jan 2026 22:43:38 +0000</pubDate>
-  <description>Raven and Juliette are getting married—and while they build six magical cities to unite their peoples, Lucas and Reya set out to find the perfect wedding gift. Enjoy 204 colorful nonogram levels plus jigsaw, clutter, hidden object, match 3, and more in this charming Collector’s Edition!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288090/3516e15147e75e38f8d6c2a74128218db156df4f/header.jpg?t=1768429386" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288090/3516e15147e75e38f8d6c2a74128218db156df4f/header.jpg?t=1768429386" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288090/3516e15147e75e38f8d6c2a74128218db156df4f/header.jpg?t=1768429386" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4288090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288090/3516e15147e75e38f8d6c2a74128218db156df4f/header.jpg?t=1768429386" alt="Daydream Mosaics 6: Empire - Collector&#x27;s Edition（新規追加）" /></a></p><p>Raven and Juliette are getting married—and while they build six magical cities to unite their peoples, Lucas and Reya set out to find the perfect wedding gift. Enjoy 204 colorful nonogram levels plus jigsaw, clutter, hidden object, match 3, and more in this charming Collector’s Edition!</p><p><a href="https://store.steampowered.com/app/4288090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
