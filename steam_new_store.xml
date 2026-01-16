@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 16 Jan 2026 03:19:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 04:12:07 +0000</lastBuildDate>
+<item>
+  <title>Operation Together VR（新規追加）</title>
+  <link>https://store.steampowered.com/app/4301840/</link>
+  <guid isPermaLink="false">steam-store-published-4301840</guid>
+  <pubDate>Fri, 16 Jan 2026 04:12:07 +0000</pubDate>
+  <description>A 1–4 player co-op military VR simulation. Complete tactical operations, neutralize terrorist threats, and rescue civilians.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301840/446bd2bc9c46bf181214ec94bc398f6b824ef6b2/header.jpg?t=1768533884" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301840/446bd2bc9c46bf181214ec94bc398f6b824ef6b2/header.jpg?t=1768533884" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301840/446bd2bc9c46bf181214ec94bc398f6b824ef6b2/header.jpg?t=1768533884" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4301840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301840/446bd2bc9c46bf181214ec94bc398f6b824ef6b2/header.jpg?t=1768533884" alt="Operation Together VR（新規追加）" /></a></p><p>A 1–4 player co-op military VR simulation. Complete tactical operations, neutralize terrorist threats, and rescue civilians.</p><p><a href="https://store.steampowered.com/app/4301840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Fishful Days（新規追加）</title>
   <link>https://store.steampowered.com/app/4313730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292440/76fe4e2ddbeb6e2afe5fb3f9c5ba347383f34a4b/header.jpg?t=1768331486" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292440/76fe4e2ddbeb6e2afe5fb3f9c5ba347383f34a4b/header.jpg?t=1768331486" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4292440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292440/76fe4e2ddbeb6e2afe5fb3f9c5ba347383f34a4b/header.jpg?t=1768331486" alt="The Minesweeper（新規追加）" /></a></p><p>The classic game of minesweeper from a fresh new perspective. Play alone or with a friend in this third person puzzle game, where you toss grenades, plant flags, and math a path to victory. Enjoy calm escapes into nature, chill tunes and satisfying reveals.</p><p><a href="https://store.steampowered.com/app/4292440/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lethal: Last Turn（新規追加）</title>
-  <link>https://store.steampowered.com/app/4281710/</link>
-  <guid isPermaLink="false">steam-store-published-4281710</guid>
-  <pubDate>Tue, 13 Jan 2026 19:24:50 +0000</pubDate>
-  <description>A card battler built around one-turn combat puzzles! Each puzzle gives you one unique hand of cards, one turn, and endless enemies to reap. Play cards in the correct order to defeat each enemy in one turn. Keep the balance as Death&#x27;s work is never done.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281710/1afd0b393317e1549aaa1abb62da0b0f887e8189/header.jpg?t=1768317580" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281710/1afd0b393317e1549aaa1abb62da0b0f887e8189/header.jpg?t=1768317580" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281710/1afd0b393317e1549aaa1abb62da0b0f887e8189/header.jpg?t=1768317580" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4281710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4281710/1afd0b393317e1549aaa1abb62da0b0f887e8189/header.jpg?t=1768317580" alt="Lethal: Last Turn（新規追加）" /></a></p><p>A card battler built around one-turn combat puzzles! Each puzzle gives you one unique hand of cards, one turn, and endless enemies to reap. Play cards in the correct order to defeat each enemy in one turn. Keep the balance as Death&#x27;s work is never done.</p><p><a href="https://store.steampowered.com/app/4281710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
