@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 16 Jan 2026 22:18:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 22:41:50 +0000</lastBuildDate>
+<item>
+  <title>Pound for Pound（新規追加）</title>
+  <link>https://store.steampowered.com/app/4289560/</link>
+  <guid isPermaLink="false">steam-store-published-4289560</guid>
+  <pubDate>Fri, 16 Jan 2026 22:41:50 +0000</pubDate>
+  <description>A sports management simulation where you build an MMA promotion from the ground up by signing fighters, running events, and expanding your reach in a living competitive world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289560/4df44c8592ef52f7cff44d40822110843604530c/header.jpg?t=1768602437" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289560/4df44c8592ef52f7cff44d40822110843604530c/header.jpg?t=1768602437" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289560/4df44c8592ef52f7cff44d40822110843604530c/header.jpg?t=1768602437" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289560/4df44c8592ef52f7cff44d40822110843604530c/header.jpg?t=1768602437" alt="Pound for Pound（新規追加）" /></a></p><p>A sports management simulation where you build an MMA promotion from the ground up by signing fighters, running events, and expanding your reach in a living competitive world.</p><p><a href="https://store.steampowered.com/app/4289560/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bit Breaker（新規追加）</title>
   <link>https://store.steampowered.com/app/4190000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227700/10dd593ef99aed56875b141598fca3825d946ac3/header.jpg?t=1768431631" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227700/10dd593ef99aed56875b141598fca3825d946ac3/header.jpg?t=1768431631" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4227700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227700/10dd593ef99aed56875b141598fca3825d946ac3/header.jpg?t=1768431631" alt="AI Desktop Pet（新規追加）" /></a></p><p>Your AI companion on the desktop. Fully offline voice conversation with Live2D characters. No internet required - all AI runs locally.</p><p><a href="https://store.steampowered.com/app/4227700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dream Savior（新規追加）</title>
-  <link>https://store.steampowered.com/app/4263440/</link>
-  <guid isPermaLink="false">steam-store-published-4263440</guid>
-  <pubDate>Wed, 14 Jan 2026 23:47:03 +0000</pubDate>
-  <description>Purge the onslaught of Nightmares and defeat the Dream Bosses! Dream Savior is a cute casual game with rogue-lite elements, where your choices can help build towards your victory against hundreds of monsters that get thrown at you!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263440/70804ce94a8d743dd0d43aaee5a7f33e2a27d2fe/header.jpg?t=1768432380" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263440/70804ce94a8d743dd0d43aaee5a7f33e2a27d2fe/header.jpg?t=1768432380" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263440/70804ce94a8d743dd0d43aaee5a7f33e2a27d2fe/header.jpg?t=1768432380" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263440/70804ce94a8d743dd0d43aaee5a7f33e2a27d2fe/header.jpg?t=1768432380" alt="Dream Savior（新規追加）" /></a></p><p>Purge the onslaught of Nightmares and defeat the Dream Bosses! Dream Savior is a cute casual game with rogue-lite elements, where your choices can help build towards your victory against hundreds of monsters that get thrown at you!</p><p><a href="https://store.steampowered.com/app/4263440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
