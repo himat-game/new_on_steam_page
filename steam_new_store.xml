@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 16 Jan 2026 05:22:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 05:52:58 +0000</lastBuildDate>
+<item>
+  <title>Melody Friends（新規追加）</title>
+  <link>https://store.steampowered.com/app/4258870/</link>
+  <guid isPermaLink="false">steam-store-published-4258870</guid>
+  <pubDate>Fri, 16 Jan 2026 05:52:58 +0000</pubDate>
+  <description>Just drop in your favorite song—done! A cute rhythm game that auto-generates multiple difficulties. Play comfortably with any key and clear a song your way with five friends.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258870/34382a62b941b26e5132fa717d888e3c8a3f55a8/header.jpg?t=1768541855" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258870/34382a62b941b26e5132fa717d888e3c8a3f55a8/header.jpg?t=1768541855" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258870/34382a62b941b26e5132fa717d888e3c8a3f55a8/header.jpg?t=1768541855" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258870/34382a62b941b26e5132fa717d888e3c8a3f55a8/header.jpg?t=1768541855" alt="Melody Friends（新規追加）" /></a></p><p>Just drop in your favorite song—done! A cute rhythm game that auto-generates multiple difficulties. Play comfortably with any key and clear a song your way with five friends.</p><p><a href="https://store.steampowered.com/app/4258870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Flock of the Seraphim（新規追加）</title>
+  <link>https://store.steampowered.com/app/4290680/</link>
+  <guid isPermaLink="false">steam-store-published-4290680</guid>
+  <pubDate>Fri, 16 Jan 2026 05:52:58 +0000</pubDate>
+  <description>Adopt angels as heaven-sent crusaders to purge depraved demons in this horde survival roguelite. Gain power by spreading the will of God (bullets), collecting loot, improving your flock, and then plunging back into deeper pits of sin. Do you have enough faith to survive?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/bc6b24ffcd75920200f1b9a59b5394443ba201bf/header.jpg?t=1768542258" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/bc6b24ffcd75920200f1b9a59b5394443ba201bf/header.jpg?t=1768542258" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/bc6b24ffcd75920200f1b9a59b5394443ba201bf/header.jpg?t=1768542258" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4290680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290680/bc6b24ffcd75920200f1b9a59b5394443ba201bf/header.jpg?t=1768542258" alt="Flock of the Seraphim（新規追加）" /></a></p><p>Adopt angels as heaven-sent crusaders to purge depraved demons in this horde survival roguelite. Gain power by spreading the will of God (bullets), collecting loot, improving your flock, and then plunging back into deeper pits of sin. Do you have enough faith to survive?</p><p><a href="https://store.steampowered.com/app/4290680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ACE:Alice Card Episode（新規追加）</title>
   <link>https://store.steampowered.com/app/1343350/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911120/2741c8c438a8d031be5292f40d256fbec8486ea6/header.jpg?t=1768338740" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911120/2741c8c438a8d031be5292f40d256fbec8486ea6/header.jpg?t=1768338740" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3911120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911120/2741c8c438a8d031be5292f40d256fbec8486ea6/header.jpg?t=1768338740" alt="Date Survivor（新規追加）" /></a></p><p>Date survivor is a dating simulator mixed with escape room puzzles and psychological horror. Four dates, four houses, and multiple ways to either grow closer — or get out before it’s too late.</p><p><a href="https://store.steampowered.com/app/3911120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Purranoia（新規追加）</title>
-  <link>https://store.steampowered.com/app/4103280/</link>
-  <guid isPermaLink="false">steam-store-published-4103280</guid>
-  <pubDate>Tue, 13 Jan 2026 21:18:33 +0000</pubDate>
-  <description>Purranoia is an action roguelike with a twist to the genre - you have no control over your characters movement. Instead you control a variety of powerful scientific inventions to protect poor cat Mousti from waves of enemies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103280/cf8c2b1a9b9046e90c4c901230834afeaa8a2a52/header.jpg?t=1768338170" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103280/cf8c2b1a9b9046e90c4c901230834afeaa8a2a52/header.jpg?t=1768338170" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103280/cf8c2b1a9b9046e90c4c901230834afeaa8a2a52/header.jpg?t=1768338170" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4103280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103280/cf8c2b1a9b9046e90c4c901230834afeaa8a2a52/header.jpg?t=1768338170" alt="Purranoia（新規追加）" /></a></p><p>Purranoia is an action roguelike with a twist to the genre - you have no control over your characters movement. Instead you control a variety of powerful scientific inventions to protect poor cat Mousti from waves of enemies.</p><p><a href="https://store.steampowered.com/app/4103280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dirge of Sorrows: A Nation Reborn（新規追加）</title>
-  <link>https://store.steampowered.com/app/4308620/</link>
-  <guid isPermaLink="false">steam-store-published-4308620</guid>
-  <pubDate>Tue, 13 Jan 2026 20:52:25 +0000</pubDate>
-  <description>Build an army and lead a revolution to overthrow a greedy King in a low-fantasy RPG/Strategy auto-battler game. Improve every character&#x27;s equipment and stats in your army to keep them alive through increasingly difficult battles. Can you survive long enough to seize the throne?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308620/7dd443bd75224c356914512857c1bad252b128cf/header.jpg?t=1768336036" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308620/7dd443bd75224c356914512857c1bad252b128cf/header.jpg?t=1768336036" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308620/7dd443bd75224c356914512857c1bad252b128cf/header.jpg?t=1768336036" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4308620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308620/7dd443bd75224c356914512857c1bad252b128cf/header.jpg?t=1768336036" alt="Dirge of Sorrows: A Nation Reborn（新規追加）" /></a></p><p>Build an army and lead a revolution to overthrow a greedy King in a low-fantasy RPG/Strategy auto-battler game. Improve every character&#x27;s equipment and stats in your army to keep them alive through increasingly difficult battles. Can you survive long enough to seize the throne?</p><p><a href="https://store.steampowered.com/app/4308620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
