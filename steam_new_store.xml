@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 16 Jan 2026 08:27:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 08:57:41 +0000</lastBuildDate>
+<item>
+  <title>orange lotus（新規追加）</title>
+  <link>https://store.steampowered.com/app/4155270/</link>
+  <guid isPermaLink="false">steam-store-published-4155270</guid>
+  <pubDate>Fri, 16 Jan 2026 08:57:41 +0000</pubDate>
+  <description>Step into Orange Lotus, manage your own elite escort agency, and build relationships in a city full of charm, secrets, and temptation. Beautiful characters, seductive stories, and high-class drama await.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155270/2d42812cb5c4552a17972f075a584e85239b69de/header.jpg?t=1768552458" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155270/2d42812cb5c4552a17972f075a584e85239b69de/header.jpg?t=1768552458" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155270/2d42812cb5c4552a17972f075a584e85239b69de/header.jpg?t=1768552458" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4155270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155270/2d42812cb5c4552a17972f075a584e85239b69de/header.jpg?t=1768552458" alt="orange lotus（新規追加）" /></a></p><p>Step into Orange Lotus, manage your own elite escort agency, and build relationships in a city full of charm, secrets, and temptation. Beautiful characters, seductive stories, and high-class drama await.</p><p><a href="https://store.steampowered.com/app/4155270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Demra: Rifts of War（新規追加）</title>
   <link>https://store.steampowered.com/app/4177020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749070/95f4d3820ecce9a50eb0dc30472c6aefc0b37432/header.jpg?t=1768360590" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749070/95f4d3820ecce9a50eb0dc30472c6aefc0b37432/header.jpg?t=1768360590" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3749070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749070/95f4d3820ecce9a50eb0dc30472c6aefc0b37432/header.jpg?t=1768360590" alt="Typeria（新規追加）" /></a></p><p>In Typeria, every keystroke is an attack. Watch your weapons and followers unleash dazzling assaults to harvest foes,collect and sell a wild arsenal of bizarre weapons scattered across diverse realms——all from a compact window on your desktop.</p><p><a href="https://store.steampowered.com/app/3749070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tiandao（新規追加）</title>
-  <link>https://store.steampowered.com/app/4258280/</link>
-  <guid isPermaLink="false">steam-store-published-4258280</guid>
-  <pubDate>Wed, 14 Jan 2026 03:26:01 +0000</pubDate>
-  <description>Ready to rule the Three Realms? Tianao blends Roguelite &amp;amp; Grand Strategy. As a powerless Celestial Emperor, will you rule in name or defy fate? Master court intrigue, find soulmates, and wield supreme authority to judge all life. Become the ultimate Heavenly Dao and master the fate of all!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258280/748960b8829e3310ed4fc9e220138aadf69b6425/header.jpg?t=1768356910" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258280/748960b8829e3310ed4fc9e220138aadf69b6425/header.jpg?t=1768356910" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258280/748960b8829e3310ed4fc9e220138aadf69b6425/header.jpg?t=1768356910" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4258280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258280/748960b8829e3310ed4fc9e220138aadf69b6425/header.jpg?t=1768356910" alt="Tiandao（新規追加）" /></a></p><p>Ready to rule the Three Realms? Tianao blends Roguelite &amp;amp; Grand Strategy. As a powerless Celestial Emperor, will you rule in name or defy fate? Master court intrigue, find soulmates, and wield supreme authority to judge all life. Become the ultimate Heavenly Dao and master the fate of all!</p><p><a href="https://store.steampowered.com/app/4258280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
