@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 16 Jan 2026 21:50:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 22:18:48 +0000</lastBuildDate>
+<item>
+  <title>Bit Breaker（新規追加）</title>
+  <link>https://store.steampowered.com/app/4190000/</link>
+  <guid isPermaLink="false">steam-store-published-4190000</guid>
+  <pubDate>Fri, 16 Jan 2026 22:18:48 +0000</pubDate>
+  <description>Bit Breaker is a short brick-breaking incremental bullet hell. Collect resources to upgrade your balls and fight back against the nodes taking over humanity.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/9810f7b70f92ee1548a4f1ca836e8ea2a44d7aee/header.jpg?t=1768600269" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/9810f7b70f92ee1548a4f1ca836e8ea2a44d7aee/header.jpg?t=1768600269" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/9810f7b70f92ee1548a4f1ca836e8ea2a44d7aee/header.jpg?t=1768600269" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4190000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/9810f7b70f92ee1548a4f1ca836e8ea2a44d7aee/header.jpg?t=1768600269" alt="Bit Breaker（新規追加）" /></a></p><p>Bit Breaker is a short brick-breaking incremental bullet hell. Collect resources to upgrade your balls and fight back against the nodes taking over humanity.</p><p><a href="https://store.steampowered.com/app/4190000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Keg &amp; Quest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4294730/</link>
+  <guid isPermaLink="false">steam-store-published-4294730</guid>
+  <pubDate>Fri, 16 Jan 2026 22:18:48 +0000</pubDate>
+  <description>Keg &amp;amp; Quest is a free-to-play idle RPG with online multiplayer. Build your hero, join a guild, compete in PvP, and take part in world boss events where strategy and progression matter more than reflexes.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294730/f0cc72c1365f476b5b71a06a81e04982be906768/header.jpg?t=1768600594" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294730/f0cc72c1365f476b5b71a06a81e04982be906768/header.jpg?t=1768600594" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294730/f0cc72c1365f476b5b71a06a81e04982be906768/header.jpg?t=1768600594" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294730/f0cc72c1365f476b5b71a06a81e04982be906768/header.jpg?t=1768600594" alt="Keg &amp; Quest（新規追加）" /></a></p><p>Keg &amp;amp; Quest is a free-to-play idle RPG with online multiplayer. Build your hero, join a guild, compete in PvP, and take part in world boss events where strategy and progression matter more than reflexes.</p><p><a href="https://store.steampowered.com/app/4294730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pirate Temptation - Naughty Jigsaw（新規追加）</title>
   <link>https://store.steampowered.com/app/4306250/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263440/70804ce94a8d743dd0d43aaee5a7f33e2a27d2fe/header.jpg?t=1768432380" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263440/70804ce94a8d743dd0d43aaee5a7f33e2a27d2fe/header.jpg?t=1768432380" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263440/70804ce94a8d743dd0d43aaee5a7f33e2a27d2fe/header.jpg?t=1768432380" alt="Dream Savior（新規追加）" /></a></p><p>Purge the onslaught of Nightmares and defeat the Dream Bosses! Dream Savior is a cute casual game with rogue-lite elements, where your choices can help build towards your victory against hundreds of monsters that get thrown at you!</p><p><a href="https://store.steampowered.com/app/4263440/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>News Roll（新規追加）</title>
-  <link>https://store.steampowered.com/app/4286230/</link>
-  <guid isPermaLink="false">steam-store-published-4286230</guid>
-  <pubDate>Wed, 14 Jan 2026 23:47:03 +0000</pubDate>
-  <description>An educational dice-rolling board game where you answer real news quiz questions while traveling through the calendar. Roll, learn, and test your knowledge across 9 categories in 4 languages.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286230/1828be19c53f8404e3cf6ff6424989563940cf02/header.jpg?t=1768432192" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286230/1828be19c53f8404e3cf6ff6424989563940cf02/header.jpg?t=1768432192" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286230/1828be19c53f8404e3cf6ff6424989563940cf02/header.jpg?t=1768432192" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4286230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286230/1828be19c53f8404e3cf6ff6424989563940cf02/header.jpg?t=1768432192" alt="News Roll（新規追加）" /></a></p><p>An educational dice-rolling board game where you answer real news quiz questions while traveling through the calendar. Roll, learn, and test your knowledge across 9 categories in 4 languages.</p><p><a href="https://store.steampowered.com/app/4286230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Grime Reapers（新規追加）</title>
-  <link>https://store.steampowered.com/app/4103630/</link>
-  <guid isPermaLink="false">steam-store-published-4103630</guid>
-  <pubDate>Wed, 14 Jan 2026 22:43:38 +0000</pubDate>
-  <description>Grime Reapers is a first-person horror survival game where you clean haunted houses while avoiding monsters and ghouls. Complete cleaning objectives, distract enemies, or hide to survive your shift and escape the house alive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103630/9528d849d61673a05a877964d1d9b1ac826b0d7b/header.jpg?t=1768429378" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103630/9528d849d61673a05a877964d1d9b1ac826b0d7b/header.jpg?t=1768429378" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103630/9528d849d61673a05a877964d1d9b1ac826b0d7b/header.jpg?t=1768429378" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4103630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103630/9528d849d61673a05a877964d1d9b1ac826b0d7b/header.jpg?t=1768429378" alt="Grime Reapers（新規追加）" /></a></p><p>Grime Reapers is a first-person horror survival game where you clean haunted houses while avoiding monsters and ghouls. Complete cleaning objectives, distract enemies, or hide to survive your shift and escape the house alive.</p><p><a href="https://store.steampowered.com/app/4103630/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
