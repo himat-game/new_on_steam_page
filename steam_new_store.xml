@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 12:34:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 13:12:03 +0000</lastBuildDate>
+<item>
+  <title>Blackjack Roulette（新規追加）</title>
+  <link>https://store.steampowered.com/app/4218600/</link>
+  <guid isPermaLink="false">steam-store-published-4218600</guid>
+  <pubDate>Sat, 17 Jan 2026 13:12:03 +0000</pubDate>
+  <description>Blackjack meets roulette in a deadly duel. Lose a hand, pull the trigger. Use powerful cards to outsmart opponents in 1v1 battles, or defeat the Clown to escape. Win or die.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218600/b535c28adbaf3619dcf8ad54c715621ff99862f8/header.jpg?t=1768636882" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218600/b535c28adbaf3619dcf8ad54c715621ff99862f8/header.jpg?t=1768636882" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218600/b535c28adbaf3619dcf8ad54c715621ff99862f8/header.jpg?t=1768636882" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4218600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218600/b535c28adbaf3619dcf8ad54c715621ff99862f8/header.jpg?t=1768636882" alt="Blackjack Roulette（新規追加）" /></a></p><p>Blackjack meets roulette in a deadly duel. Lose a hand, pull the trigger. Use powerful cards to outsmart opponents in 1v1 battles, or defeat the Clown to escape. Win or die.</p><p><a href="https://store.steampowered.com/app/4218600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Idle Cosmos Clicker（新規追加）</title>
+  <link>https://store.steampowered.com/app/4026620/</link>
+  <guid isPermaLink="false">steam-store-published-4026620</guid>
+  <pubDate>Sat, 17 Jan 2026 13:12:03 +0000</pubDate>
+  <description>Idle Cosmos Clicker is a space-themed idle simulation where you grow the universe from asteroids to black holes. Produce, automate, and evolve resources while unlocking planets, stars, and galaxies. A relaxing yet deep incremental experience with endless progression.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026620/417d84000b1a6bcbd255ac5434d4bef6762c51e8/header.jpg?t=1768585801" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026620/417d84000b1a6bcbd255ac5434d4bef6762c51e8/header.jpg?t=1768585801" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026620/417d84000b1a6bcbd255ac5434d4bef6762c51e8/header.jpg?t=1768585801" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4026620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026620/417d84000b1a6bcbd255ac5434d4bef6762c51e8/header.jpg?t=1768585801" alt="Idle Cosmos Clicker（新規追加）" /></a></p><p>Idle Cosmos Clicker is a space-themed idle simulation where you grow the universe from asteroids to black holes. Produce, automate, and evolve resources while unlocking planets, stars, and galaxies. A relaxing yet deep incremental experience with endless progression.</p><p><a href="https://store.steampowered.com/app/4026620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>White Paper: 952（新規追加）</title>
   <link>https://store.steampowered.com/app/4245360/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993800/aac1d04bc1983c15055df807d28df672ea6d7656/header.jpg?t=1768485156" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993800/aac1d04bc1983c15055df807d28df672ea6d7656/header.jpg?t=1768485156" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2993800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993800/aac1d04bc1983c15055df807d28df672ea6d7656/header.jpg?t=1768485156" alt="Duality Paradox（新規追加）" /></a></p><p>Duality Paradox is a puzzle game where players control a character that switches between black and white. This color shift changes how the world is perceived: matching colors become walls, while opposite colors turn into passable floors.</p><p><a href="https://store.steampowered.com/app/2993800/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kisaragi（新規追加）</title>
-  <link>https://store.steampowered.com/app/3728280/</link>
-  <guid isPermaLink="false">steam-store-published-3728280</guid>
-  <pubDate>Thu, 15 Jan 2026 13:38:02 +0000</pubDate>
-  <description>A third-person shooter horror game inspired by the unsettling Japanese legend of the non-existent Kisaragi Station.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728280/117cded0b0f1de9b67437a4946d3ffaf72f29ff8/header.jpg?t=1768482767" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728280/117cded0b0f1de9b67437a4946d3ffaf72f29ff8/header.jpg?t=1768482767" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728280/117cded0b0f1de9b67437a4946d3ffaf72f29ff8/header.jpg?t=1768482767" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3728280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3728280/117cded0b0f1de9b67437a4946d3ffaf72f29ff8/header.jpg?t=1768482767" alt="Kisaragi（新規追加）" /></a></p><p>A third-person shooter horror game inspired by the unsettling Japanese legend of the non-existent Kisaragi Station.</p><p><a href="https://store.steampowered.com/app/3728280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>MareDare 2: The Daring Sequel（新規追加）</title>
-  <link>https://store.steampowered.com/app/4275360/</link>
-  <guid isPermaLink="false">steam-store-published-4275360</guid>
-  <pubDate>Thu, 15 Jan 2026 13:38:02 +0000</pubDate>
-  <description>It&#x27;s time for another dare with Merry Berry, the berry loving mare! This time, she&#x27;s been given a dare by the spike loving mare, Pokey! She must collect all the berries while dodging all the spikes in all 4 levels to finish the dare in this heart pumping 3d platformer!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275360/91ec4847bb1664dffeb5efd69de8f067bc531d77/header.jpg?t=1768293676" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275360/91ec4847bb1664dffeb5efd69de8f067bc531d77/header.jpg?t=1768293676" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275360/91ec4847bb1664dffeb5efd69de8f067bc531d77/header.jpg?t=1768293676" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275360/91ec4847bb1664dffeb5efd69de8f067bc531d77/header.jpg?t=1768293676" alt="MareDare 2: The Daring Sequel（新規追加）" /></a></p><p>It&#x27;s time for another dare with Merry Berry, the berry loving mare! This time, she&#x27;s been given a dare by the spike loving mare, Pokey! She must collect all the berries while dodging all the spikes in all 4 levels to finish the dare in this heart pumping 3d platformer!</p><p><a href="https://store.steampowered.com/app/4275360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
