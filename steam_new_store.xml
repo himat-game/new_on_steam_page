@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 22:17:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 22:39:03 +0000</lastBuildDate>
+<item>
+  <title>TITANCLIMB（新規追加）</title>
+  <link>https://store.steampowered.com/app/4236510/</link>
+  <guid isPermaLink="false">steam-store-published-4236510</guid>
+  <pubDate>Sat, 17 Jan 2026 22:39:03 +0000</pubDate>
+  <description>Embark on an adventure to save the &amp;quot;Titan,&amp;quot; a colossal creature you must climb to heal. Overcome alien ecosystems and harsh weather to uncover the Titan&#x27;s secrets. An epic tale of life and connection awaits beyond breathtaking vistas.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236510/d0e6433d5c79489a2ed6f5f2277165ecccaee692/header.jpg?t=1768688636" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236510/d0e6433d5c79489a2ed6f5f2277165ecccaee692/header.jpg?t=1768688636" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236510/d0e6433d5c79489a2ed6f5f2277165ecccaee692/header.jpg?t=1768688636" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236510/d0e6433d5c79489a2ed6f5f2277165ecccaee692/header.jpg?t=1768688636" alt="TITANCLIMB（新規追加）" /></a></p><p>Embark on an adventure to save the &amp;quot;Titan,&amp;quot; a colossal creature you must climb to heal. Overcome alien ecosystems and harsh weather to uncover the Titan&#x27;s secrets. An epic tale of life and connection awaits beyond breathtaking vistas.</p><p><a href="https://store.steampowered.com/app/4236510/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cluck &amp; Clear IDLE（新規追加）</title>
   <link>https://store.steampowered.com/app/4090820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302570/1343e110c52b56d446e94f5f60984dcf729bc60e/header.jpg?t=1768502407" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302570/1343e110c52b56d446e94f5f60984dcf729bc60e/header.jpg?t=1768502407" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4302570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302570/1343e110c52b56d446e94f5f60984dcf729bc60e/header.jpg?t=1768502407" alt="TicTacFootball（新規追加）" /></a></p><p>Tic Tac Football is an arcade-style football game focused on simple controls and thoughtful play. Choose from over 220 teams in cup and league competitions, or enjoy a local 1-on-1 match against a friend or the AI. Matches are easy to pick up, but reward positioning, timing, and smart decisions.</p><p><a href="https://store.steampowered.com/app/4302570/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Shadow Crown - Frostwynd Chronicles（新規追加）</title>
-  <link>https://store.steampowered.com/app/4290880/</link>
-  <guid isPermaLink="false">steam-store-published-4290880</guid>
-  <pubDate>Thu, 15 Jan 2026 18:49:41 +0000</pubDate>
-  <description>Frostwynd is dying. A necromancer awakens an ancient dragon, and darkness spreads. You’re the last hope - claim the Shadow Crown and break the curse! A retro tribute to 80s text adventures: explore crypts, crack ciphers, slay dragons.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290880/bac61ced63d22d650e1aa97dd7a3297bbe231890/header.jpg?t=1768501542" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290880/bac61ced63d22d650e1aa97dd7a3297bbe231890/header.jpg?t=1768501542" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290880/bac61ced63d22d650e1aa97dd7a3297bbe231890/header.jpg?t=1768501542" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4290880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290880/bac61ced63d22d650e1aa97dd7a3297bbe231890/header.jpg?t=1768501542" alt="The Shadow Crown - Frostwynd Chronicles（新規追加）" /></a></p><p>Frostwynd is dying. A necromancer awakens an ancient dragon, and darkness spreads. You’re the last hope - claim the Shadow Crown and break the curse! A retro tribute to 80s text adventures: explore crypts, crack ciphers, slay dragons.</p><p><a href="https://store.steampowered.com/app/4290880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
