@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 22:39:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 22:51:16 +0000</lastBuildDate>
+<item>
+  <title>Siren&#x27;s Call: Second Wind（新規追加）</title>
+  <link>https://store.steampowered.com/app/4310350/</link>
+  <guid isPermaLink="false">steam-store-published-4310350</guid>
+  <pubDate>Sat, 17 Jan 2026 22:51:16 +0000</pubDate>
+  <description>A wedding where one of the guests arrives dead. A strange black hole eclipsing the Florida sun. And your best friend? Gone. Is all this a butterfly dream or is reality breaking? Is their story romance or mystery? Your choices will determine the genre of his soul. Welcome to the town of Siren&#x27;s Call.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310350/6231f67b7741ea764624aa20389dd32e2f82e33e/header.jpg?t=1768689513" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310350/6231f67b7741ea764624aa20389dd32e2f82e33e/header.jpg?t=1768689513" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310350/6231f67b7741ea764624aa20389dd32e2f82e33e/header.jpg?t=1768689513" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4310350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310350/6231f67b7741ea764624aa20389dd32e2f82e33e/header.jpg?t=1768689513" alt="Siren&#x27;s Call: Second Wind（新規追加）" /></a></p><p>A wedding where one of the guests arrives dead. A strange black hole eclipsing the Florida sun. And your best friend? Gone. Is all this a butterfly dream or is reality breaking? Is their story romance or mystery? Your choices will determine the genre of his soul. Welcome to the town of Siren&#x27;s Call.</p><p><a href="https://store.steampowered.com/app/4310350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>TITANCLIMB（新規追加）</title>
   <link>https://store.steampowered.com/app/4236510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279850/37d9892a459eeaf6371fec6f37baf4804577734b/header.jpg?t=1768500912" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279850/37d9892a459eeaf6371fec6f37baf4804577734b/header.jpg?t=1768500912" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4279850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279850/37d9892a459eeaf6371fec6f37baf4804577734b/header.jpg?t=1768500912" alt="Paperman（新規追加）" /></a></p><p>Want to become the new boss of a thriving paper company whose owner mysteriously died? Track down the culprit and catch them to become the new boss. But beware, your adventure will be littered with some tricky obstacles...</p><p><a href="https://store.steampowered.com/app/4279850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TicTacFootball（新規追加）</title>
-  <link>https://store.steampowered.com/app/4302570/</link>
-  <guid isPermaLink="false">steam-store-published-4302570</guid>
-  <pubDate>Thu, 15 Jan 2026 18:49:41 +0000</pubDate>
-  <description>Tic Tac Football is an arcade-style football game focused on simple controls and thoughtful play. Choose from over 220 teams in cup and league competitions, or enjoy a local 1-on-1 match against a friend or the AI. Matches are easy to pick up, but reward positioning, timing, and smart decisions.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302570/1343e110c52b56d446e94f5f60984dcf729bc60e/header.jpg?t=1768502407" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302570/1343e110c52b56d446e94f5f60984dcf729bc60e/header.jpg?t=1768502407" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302570/1343e110c52b56d446e94f5f60984dcf729bc60e/header.jpg?t=1768502407" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4302570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302570/1343e110c52b56d446e94f5f60984dcf729bc60e/header.jpg?t=1768502407" alt="TicTacFootball（新規追加）" /></a></p><p>Tic Tac Football is an arcade-style football game focused on simple controls and thoughtful play. Choose from over 220 teams in cup and league competitions, or enjoy a local 1-on-1 match against a friend or the AI. Matches are easy to pick up, but reward positioning, timing, and smart decisions.</p><p><a href="https://store.steampowered.com/app/4302570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
