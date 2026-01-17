@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 14:16:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 14:50:04 +0000</lastBuildDate>
+<item>
+  <title>Fig and Totems™（新規追加）</title>
+  <link>https://store.steampowered.com/app/4246130/</link>
+  <guid isPermaLink="false">steam-store-published-4246130</guid>
+  <pubDate>Sat, 17 Jan 2026 14:50:04 +0000</pubDate>
+  <description>Outsmart your friends in this fast-paced party game! Hide your Fig&#x27;s totem in under 30s, then find theirs in under 2min (fairly or by stealing them). Who will be the best hunter?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246130/6160621a649d99886114d197289177dac4800e10/header.jpg?t=1768661038" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246130/6160621a649d99886114d197289177dac4800e10/header.jpg?t=1768661038" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246130/6160621a649d99886114d197289177dac4800e10/header.jpg?t=1768661038" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246130/6160621a649d99886114d197289177dac4800e10/header.jpg?t=1768661038" alt="Fig and Totems™（新規追加）" /></a></p><p>Outsmart your friends in this fast-paced party game! Hide your Fig&#x27;s totem in under 30s, then find theirs in under 2min (fairly or by stealing them). Who will be the best hunter?</p><p><a href="https://store.steampowered.com/app/4246130/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Touhou Tomagoyaki（新規追加）</title>
+  <link>https://store.steampowered.com/app/4300320/</link>
+  <guid isPermaLink="false">steam-store-published-4300320</guid>
+  <pubDate>Sat, 17 Jan 2026 14:50:04 +0000</pubDate>
+  <description>A free-to-play, single-player Touhou Project fan-made bullet hell shooter that blends light roguelike elements with modified gameplay mechanics. Defeat your enemies and collect dropped spell cards to enhance your abilities!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300320/d1a387ac91036cac75f899581c9217e9df672dfb/header.jpg?t=1768661329" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300320/d1a387ac91036cac75f899581c9217e9df672dfb/header.jpg?t=1768661329" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300320/d1a387ac91036cac75f899581c9217e9df672dfb/header.jpg?t=1768661329" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4300320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300320/d1a387ac91036cac75f899581c9217e9df672dfb/header.jpg?t=1768661329" alt="Touhou Tomagoyaki（新規追加）" /></a></p><p>A free-to-play, single-player Touhou Project fan-made bullet hell shooter that blends light roguelike elements with modified gameplay mechanics. Defeat your enemies and collect dropped spell cards to enhance your abilities!</p><p><a href="https://store.steampowered.com/app/4300320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ball&#x27;s Journey（新規追加）</title>
   <link>https://store.steampowered.com/app/4320710/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273440/24548a2deb78d3ff8b1bb69ca81b5c50037b01c7/header.jpg?t=1768489146" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273440/24548a2deb78d3ff8b1bb69ca81b5c50037b01c7/header.jpg?t=1768489146" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273440/24548a2deb78d3ff8b1bb69ca81b5c50037b01c7/header.jpg?t=1768489146" alt="Drop Not Allowed（新規追加）" /></a></p><p>Trapped inside a living database, use real SQL to unlock regions and challenge the system that watches every query. Use SELECT to investigate, UPDATE to repair and remember: DROP NOT ALLOWED. It doesn’t matter if you’re a SQL noob or a veteran; the game teaches you everything you need as you play.</p><p><a href="https://store.steampowered.com/app/4273440/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Key Clover（新規追加）</title>
-  <link>https://store.steampowered.com/app/4285950/</link>
-  <guid isPermaLink="false">steam-store-published-4285950</guid>
-  <pubDate>Thu, 15 Jan 2026 15:22:17 +0000</pubDate>
-  <description>Enter the flow with Key Clover. Type with a kitty by your side. Earn spins, win coins, collect more! How many coins will you make today? Let luck roll! Every 100 keyboard presses you make will trigger a lucky draw.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285950/d9ae7858fa41aa38de53b1dd0a092632ce15c3ee/header.jpg?t=1768489506" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285950/d9ae7858fa41aa38de53b1dd0a092632ce15c3ee/header.jpg?t=1768489506" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285950/d9ae7858fa41aa38de53b1dd0a092632ce15c3ee/header.jpg?t=1768489506" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285950/d9ae7858fa41aa38de53b1dd0a092632ce15c3ee/header.jpg?t=1768489506" alt="Key Clover（新規追加）" /></a></p><p>Enter the flow with Key Clover. Type with a kitty by your side. Earn spins, win coins, collect more! How many coins will you make today? Let luck roll! Every 100 keyboard presses you make will trigger a lucky draw.</p><p><a href="https://store.steampowered.com/app/4285950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mars Colony Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4315950/</link>
-  <guid isPermaLink="false">steam-store-published-4315950</guid>
-  <pubDate>Thu, 15 Jan 2026 15:22:17 +0000</pubDate>
-  <description>Build humanity’s first home on Mars. Mine resources in first person, construct life-sustaining domes, grow lush vegetation, and launch rockets to reconnect with Earth in this immersive colony-building simulator.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315950/e40270483e108f5bec010e6f2031cdfa20e8e789/header.jpg?t=1768489612" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315950/e40270483e108f5bec010e6f2031cdfa20e8e789/header.jpg?t=1768489612" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315950/e40270483e108f5bec010e6f2031cdfa20e8e789/header.jpg?t=1768489612" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4315950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315950/e40270483e108f5bec010e6f2031cdfa20e8e789/header.jpg?t=1768489612" alt="Mars Colony Simulator（新規追加）" /></a></p><p>Build humanity’s first home on Mars. Mine resources in first person, construct life-sustaining domes, grow lush vegetation, and launch rockets to reconnect with Earth in this immersive colony-building simulator.</p><p><a href="https://store.steampowered.com/app/4315950/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
