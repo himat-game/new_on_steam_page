@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 14:50:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 15:47:23 +0000</lastBuildDate>
+<item>
+  <title>Messy Recipe: A Hidden Object Game（新規追加）</title>
+  <link>https://store.steampowered.com/app/4275240/</link>
+  <guid isPermaLink="false">steam-store-published-4275240</guid>
+  <pubDate>Sat, 17 Jan 2026 15:47:23 +0000</pubDate>
+  <description>Time to get cooking in a chaotic kitchen! Search for the ingredients you want, customize the recipe, then mix things together and hope for the best. Make friends with the shy ghost who hides your ingredients every night, and cook through family recipes in this cozy hidden objects game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275240/2062d7f570984a770b3e2504085c94d4bbee801c/header.jpg?t=1767293968" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275240/2062d7f570984a770b3e2504085c94d4bbee801c/header.jpg?t=1767293968" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275240/2062d7f570984a770b3e2504085c94d4bbee801c/header.jpg?t=1767293968" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275240/2062d7f570984a770b3e2504085c94d4bbee801c/header.jpg?t=1767293968" alt="Messy Recipe: A Hidden Object Game（新規追加）" /></a></p><p>Time to get cooking in a chaotic kitchen! Search for the ingredients you want, customize the recipe, then mix things together and hope for the best. Make friends with the shy ghost who hides your ingredients every night, and cook through family recipes in this cozy hidden objects game.</p><p><a href="https://store.steampowered.com/app/4275240/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Fig and Totems™（新規追加）</title>
   <link>https://store.steampowered.com/app/4246130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295850/1c75ec9de9b971d56403874f7deece3719c30c3e/header.jpg?t=1768488817" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295850/1c75ec9de9b971d56403874f7deece3719c30c3e/header.jpg?t=1768488817" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4295850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295850/1c75ec9de9b971d56403874f7deece3719c30c3e/header.jpg?t=1768488817" alt="Sunday Sticker Club（新規追加）" /></a></p><p>Dealing with the devil is sticky business. Decorate your deck with stickers and sacrifice cards to satisfy your fiendish friend. Find wicked combos and cursed synergies with unique stickers, cards, and trinkets, fixing your deck to win ultimate favor in this heart-pounding deck-building roguelike.</p><p><a href="https://store.steampowered.com/app/4295850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Drop Not Allowed（新規追加）</title>
-  <link>https://store.steampowered.com/app/4273440/</link>
-  <guid isPermaLink="false">steam-store-published-4273440</guid>
-  <pubDate>Thu, 15 Jan 2026 15:22:17 +0000</pubDate>
-  <description>Trapped inside a living database, use real SQL to unlock regions and challenge the system that watches every query. Use SELECT to investigate, UPDATE to repair and remember: DROP NOT ALLOWED. It doesn’t matter if you’re a SQL noob or a veteran; the game teaches you everything you need as you play.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273440/24548a2deb78d3ff8b1bb69ca81b5c50037b01c7/header.jpg?t=1768489146" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273440/24548a2deb78d3ff8b1bb69ca81b5c50037b01c7/header.jpg?t=1768489146" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273440/24548a2deb78d3ff8b1bb69ca81b5c50037b01c7/header.jpg?t=1768489146" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273440/24548a2deb78d3ff8b1bb69ca81b5c50037b01c7/header.jpg?t=1768489146" alt="Drop Not Allowed（新規追加）" /></a></p><p>Trapped inside a living database, use real SQL to unlock regions and challenge the system that watches every query. Use SELECT to investigate, UPDATE to repair and remember: DROP NOT ALLOWED. It doesn’t matter if you’re a SQL noob or a veteran; the game teaches you everything you need as you play.</p><p><a href="https://store.steampowered.com/app/4273440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
