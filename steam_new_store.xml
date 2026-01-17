@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 03:12:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 04:04:37 +0000</lastBuildDate>
+<item>
+  <title>Sniper Reaction（新規追加）</title>
+  <link>https://store.steampowered.com/app/4296470/</link>
+  <guid isPermaLink="false">steam-store-published-4296470</guid>
+  <pubDate>Sat, 17 Jan 2026 04:04:37 +0000</pubDate>
+  <description>The average human reaction time is 250ms. Where do you stand? Test your reflexes through a tactical sniper scope in this high-precision aim trainer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296470/fdb2e53788f4fba7196620fae9a6c5a88eacaefd/header.jpg?t=1768620259" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296470/fdb2e53788f4fba7196620fae9a6c5a88eacaefd/header.jpg?t=1768620259" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296470/fdb2e53788f4fba7196620fae9a6c5a88eacaefd/header.jpg?t=1768620259" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4296470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296470/fdb2e53788f4fba7196620fae9a6c5a88eacaefd/header.jpg?t=1768620259" alt="Sniper Reaction（新規追加）" /></a></p><p>The average human reaction time is 250ms. Where do you stand? Test your reflexes through a tactical sniper scope in this high-precision aim trainer.</p><p><a href="https://store.steampowered.com/app/4296470/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Jingjie: Signals（新規追加）</title>
   <link>https://store.steampowered.com/app/4289120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867170/c2491e0b613e3d0d5dc507ac136a15ff5eb38596/header.jpg?t=1768448958" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867170/c2491e0b613e3d0d5dc507ac136a15ff5eb38596/header.jpg?t=1768448958" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3867170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867170/c2491e0b613e3d0d5dc507ac136a15ff5eb38596/header.jpg?t=1768448958" alt="Sengoku Rance（新規追加）" /></a></p><p>Fresh from wreaking havoc on the vast fields of the Continent, the sword-wielding warrior Rance has reached the eastern nation of Nippon. With his loyal companion Sill by his side, Rance hopes to enjoy Nippon&#x27;s hot springs!</p><p><a href="https://store.steampowered.com/app/3867170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>HEXCRAWL（新規追加）</title>
-  <link>https://store.steampowered.com/app/4264250/</link>
-  <guid isPermaLink="false">steam-store-published-4264250</guid>
-  <pubDate>Thu, 15 Jan 2026 04:29:11 +0000</pubDate>
-  <description>HEXCRAWL is a turn-based dark fantasy RPG about crossing a hostile world one hex at a time. Explore myriad terrains, manage supplies, survive lethal encounters, hunt powerful bosses, and gain increasingly powerful rewards where every step is a risk.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264250/a324f8331acbe14422b685db783179c615e11ea0/header.jpg?t=1768410461" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264250/a324f8331acbe14422b685db783179c615e11ea0/header.jpg?t=1768410461" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264250/a324f8331acbe14422b685db783179c615e11ea0/header.jpg?t=1768410461" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4264250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264250/a324f8331acbe14422b685db783179c615e11ea0/header.jpg?t=1768410461" alt="HEXCRAWL（新規追加）" /></a></p><p>HEXCRAWL is a turn-based dark fantasy RPG about crossing a hostile world one hex at a time. Explore myriad terrains, manage supplies, survive lethal encounters, hunt powerful bosses, and gain increasingly powerful rewards where every step is a risk.</p><p><a href="https://store.steampowered.com/app/4264250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
