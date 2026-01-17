@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 07:46:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 08:23:16 +0000</lastBuildDate>
+<item>
+  <title>BuGarden（新規追加）</title>
+  <link>https://store.steampowered.com/app/4289410/</link>
+  <guid isPermaLink="false">steam-store-published-4289410</guid>
+  <pubDate>Sat, 17 Jan 2026 08:23:16 +0000</pubDate>
+  <description>《BuGarden》 is a cozy idle flower-growing game that lives in the corner of your desktop. Plant seeds, water and fertilize them at your own pace, harvest cute flowers and fruits, and deal with a few playful bugs—nothing messy, just a calm little garden keeping you company.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289410/54c73b51e1d03169e9616d6473db3f644ff32a8a/header.jpg?t=1768636279" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289410/54c73b51e1d03169e9616d6473db3f644ff32a8a/header.jpg?t=1768636279" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289410/54c73b51e1d03169e9616d6473db3f644ff32a8a/header.jpg?t=1768636279" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289410/54c73b51e1d03169e9616d6473db3f644ff32a8a/header.jpg?t=1768636279" alt="BuGarden（新規追加）" /></a></p><p>《BuGarden》 is a cozy idle flower-growing game that lives in the corner of your desktop. Plant seeds, water and fertilize them at your own pace, harvest cute flowers and fruits, and deal with a few playful bugs—nothing messy, just a calm little garden keeping you company.</p><p><a href="https://store.steampowered.com/app/4289410/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>PILLARS OF DESPAIR - Mission Valoria（新規追加）</title>
+  <link>https://store.steampowered.com/app/4143360/</link>
+  <guid isPermaLink="false">steam-store-published-4143360</guid>
+  <pubDate>Sat, 17 Jan 2026 08:23:16 +0000</pubDate>
+  <description>Explore the cursed island of Valoria in this third-person action-adventure puzzle game. Solve ancient mechanisms, face elemental challenges, and silence the Pillars of Despair.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143360/f12fa8bd721392c796010159e2bdcda288676130/header.jpg?t=1768638120" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143360/f12fa8bd721392c796010159e2bdcda288676130/header.jpg?t=1768638120" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143360/f12fa8bd721392c796010159e2bdcda288676130/header.jpg?t=1768638120" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4143360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4143360/f12fa8bd721392c796010159e2bdcda288676130/header.jpg?t=1768638120" alt="PILLARS OF DESPAIR - Mission Valoria（新規追加）" /></a></p><p>Explore the cursed island of Valoria in this third-person action-adventure puzzle game. Solve ancient mechanisms, face elemental challenges, and silence the Pillars of Despair.</p><p><a href="https://store.steampowered.com/app/4143360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Last Call（新規追加）</title>
   <link>https://store.steampowered.com/app/4222280/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178200/00dd7401fb8436229472a267c98140ad20a24361/header.jpg?t=1768457362" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178200/00dd7401fb8436229472a267c98140ad20a24361/header.jpg?t=1768457362" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4178200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178200/00dd7401fb8436229472a267c98140ad20a24361/header.jpg?t=1768457362" alt="V.A.U.L.T PROTOCOL（新規追加）" /></a></p><p>Vault Protocol is a 1–6 player co-op horror game focused on extraction, communication, and chaos. Every run is different, every sound matters, and survival depends on your team.</p><p><a href="https://store.steampowered.com/app/4178200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dank Armada（新規追加）</title>
-  <link>https://store.steampowered.com/app/4283010/</link>
-  <guid isPermaLink="false">steam-store-published-4283010</guid>
-  <pubDate>Thu, 15 Jan 2026 06:29:44 +0000</pubDate>
-  <description>A retro vector space shooter with classic arcade combat, seamless 2D and 3D perspective shifts, evolving enemy formations, and a haunting cosmic narrative.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283010/3506f24f6ab3f0c93940e11491dbd754c6606546/header.jpg?t=1768341700" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283010/3506f24f6ab3f0c93940e11491dbd754c6606546/header.jpg?t=1768341700" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283010/3506f24f6ab3f0c93940e11491dbd754c6606546/header.jpg?t=1768341700" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283010/3506f24f6ab3f0c93940e11491dbd754c6606546/header.jpg?t=1768341700" alt="Dank Armada（新規追加）" /></a></p><p>A retro vector space shooter with classic arcade combat, seamless 2D and 3D perspective shifts, evolving enemy formations, and a haunting cosmic narrative.</p><p><a href="https://store.steampowered.com/app/4283010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Code-Knight（新規追加）</title>
-  <link>https://store.steampowered.com/app/4193110/</link>
-  <guid isPermaLink="false">steam-store-published-4193110</guid>
-  <pubDate>Thu, 15 Jan 2026 06:29:44 +0000</pubDate>
-  <description>Lightning-fast top-down roguelike! Dive into procedural dungeons, stack powerful items for devastating synergies, and outsmart relentless bosses. Precision, strategy, and skillful weapon combat are your keys to surviving and mastering each run.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193110/e18b4ef31a766c79276821410a3dbcb7eff19b96/header.jpg?t=1768457468" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193110/e18b4ef31a766c79276821410a3dbcb7eff19b96/header.jpg?t=1768457468" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193110/e18b4ef31a766c79276821410a3dbcb7eff19b96/header.jpg?t=1768457468" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4193110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193110/e18b4ef31a766c79276821410a3dbcb7eff19b96/header.jpg?t=1768457468" alt="Code-Knight（新規追加）" /></a></p><p>Lightning-fast top-down roguelike! Dive into procedural dungeons, stack powerful items for devastating synergies, and outsmart relentless bosses. Precision, strategy, and skillful weapon combat are your keys to surviving and mastering each run.</p><p><a href="https://store.steampowered.com/app/4193110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
