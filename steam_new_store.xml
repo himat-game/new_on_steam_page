@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 09:47:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 10:17:48 +0000</lastBuildDate>
+<item>
+  <title>St. Mary&#x27;s 1985（新規追加）</title>
+  <link>https://store.steampowered.com/app/4266310/</link>
+  <guid isPermaLink="false">steam-store-published-4266310</guid>
+  <pubDate>Sat, 17 Jan 2026 10:17:48 +0000</pubDate>
+  <description>Explore an abandoned psychiatric hospital. Read over 100 documents that unveil the truth. Survive your own mind as your heartbeat accelerates in the dark. Discover what really happened in 1984. Terror doesn&#x27;t come from outside: it&#x27;s born within you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266310/caac17d1de7050ebeb8a577f54c639d065022ef9/header.jpg?t=1768644998" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266310/caac17d1de7050ebeb8a577f54c639d065022ef9/header.jpg?t=1768644998" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266310/caac17d1de7050ebeb8a577f54c639d065022ef9/header.jpg?t=1768644998" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266310/caac17d1de7050ebeb8a577f54c639d065022ef9/header.jpg?t=1768644998" alt="St. Mary&#x27;s 1985（新規追加）" /></a></p><p>Explore an abandoned psychiatric hospital. Read over 100 documents that unveil the truth. Survive your own mind as your heartbeat accelerates in the dark. Discover what really happened in 1984. Terror doesn&#x27;t come from outside: it&#x27;s born within you.</p><p><a href="https://store.steampowered.com/app/4266310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Last Planet（新規追加）</title>
   <link>https://store.steampowered.com/app/4280710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289020/0525bdaa6189774e986f4c9cc6222927bb6a2636/header.jpg?t=1768466185" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289020/0525bdaa6189774e986f4c9cc6222927bb6a2636/header.jpg?t=1768466185" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289020/0525bdaa6189774e986f4c9cc6222927bb6a2636/header.jpg?t=1768466185" alt="Monstergirl Hunters（新規追加）" /></a></p><p>A citybuilder where you collect your citizens. Capture monstergirls, craft their gear, and enact laws to turn them into compliant workers or fighters. Grow your colonies across 12 islands to fulfill the unique needs of your monstergirls. Or turn them all into unpaid interns and go humanity first.</p><p><a href="https://store.steampowered.com/app/4289020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Void Reaver（新規追加）</title>
-  <link>https://store.steampowered.com/app/4096910/</link>
-  <guid isPermaLink="false">steam-store-published-4096910</guid>
-  <pubDate>Thu, 15 Jan 2026 08:58:59 +0000</pubDate>
-  <description>Inventory management meets bullet heaven. In this sci-fi roguelite, your backpack determines your fate. Master the art of item layout to create game-breaking synergies and turn a humble arsenal into a screen-clearing storm of destruction. Collect 300+ items and annihilate the Void.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096910/bf9ab43d6528585146d783d324a1d1f056bad423/header.jpg?t=1768466598" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096910/bf9ab43d6528585146d783d324a1d1f056bad423/header.jpg?t=1768466598" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096910/bf9ab43d6528585146d783d324a1d1f056bad423/header.jpg?t=1768466598" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4096910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096910/bf9ab43d6528585146d783d324a1d1f056bad423/header.jpg?t=1768466598" alt="Void Reaver（新規追加）" /></a></p><p>Inventory management meets bullet heaven. In this sci-fi roguelite, your backpack determines your fate. Master the art of item layout to create game-breaking synergies and turn a humble arsenal into a screen-clearing storm of destruction. Collect 300+ items and annihilate the Void.</p><p><a href="https://store.steampowered.com/app/4096910/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
