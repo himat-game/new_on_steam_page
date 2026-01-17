@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 17 Jan 2026 06:27:10 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Jan 2026 06:55:48 +0000</lastBuildDate>
+<item>
+  <title>Tiana&#x27;s Fishing Diary（新規追加）</title>
+  <link>https://store.steampowered.com/app/4122170/</link>
+  <guid isPermaLink="false">steam-store-published-4122170</guid>
+  <pubDate>Sat, 17 Jan 2026 06:55:48 +0000</pubDate>
+  <description>Play as Tiana, a fishing-loving girl and collect all fish species worldwide. Keep your fish in the aquarium—each has unique perks. Combine different fish to boost gold earnings, upgrade skills, buy exquisite outfits and travel to new spots for fresh fishing adventures.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122170/304f86fc095f2d4b454a3c3d71901c2512718049/header.jpg?t=1768632053" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122170/304f86fc095f2d4b454a3c3d71901c2512718049/header.jpg?t=1768632053" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122170/304f86fc095f2d4b454a3c3d71901c2512718049/header.jpg?t=1768632053" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4122170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122170/304f86fc095f2d4b454a3c3d71901c2512718049/header.jpg?t=1768632053" alt="Tiana&#x27;s Fishing Diary（新規追加）" /></a></p><p>Play as Tiana, a fishing-loving girl and collect all fish species worldwide. Keep your fish in the aquarium—each has unique perks. Combine different fish to boost gold earnings, upgrade skills, buy exquisite outfits and travel to new spots for fresh fishing adventures.</p><p><a href="https://store.steampowered.com/app/4122170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Moonlight Cow: Guardian of the Night（新規追加）</title>
   <link>https://store.steampowered.com/app/4309330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866160/b836db317a4f75e7323af578bbac1f6f7b8ad21d/header.jpg?t=1768458025" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866160/b836db317a4f75e7323af578bbac1f6f7b8ad21d/header.jpg?t=1768458025" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2866160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866160/b836db317a4f75e7323af578bbac1f6f7b8ad21d/header.jpg?t=1768458025" alt="Sexmate（新規追加）" /></a></p><p>Ryan and Lucia navigate university life in a new Italian city, exploring intense relationships, sexual encounters, and dangerous secrets. Passion, rivalry, forbidden desires, and lots of sex collide in this adult visual novel based on a true story with explicit content.</p><p><a href="https://store.steampowered.com/app/2866160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Matchward（新規追加）</title>
-  <link>https://store.steampowered.com/app/4290560/</link>
-  <guid isPermaLink="false">steam-store-published-4290560</guid>
-  <pubDate>Thu, 15 Jan 2026 05:44:08 +0000</pubDate>
-  <description>Tower defense empowered by match 3 puzzle strategy. Level up and unlock potentially game-breaking upgrades. Design your own levels and share them.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290560/a67b030111e3551af7d3af29d0fbbb82df71ecbc/header.jpg?t=1768455789" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290560/a67b030111e3551af7d3af29d0fbbb82df71ecbc/header.jpg?t=1768455789" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290560/a67b030111e3551af7d3af29d0fbbb82df71ecbc/header.jpg?t=1768455789" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4290560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290560/a67b030111e3551af7d3af29d0fbbb82df71ecbc/header.jpg?t=1768455789" alt="Matchward（新規追加）" /></a></p><p>Tower defense empowered by match 3 puzzle strategy. Level up and unlock potentially game-breaking upgrades. Design your own levels and share them.</p><p><a href="https://store.steampowered.com/app/4290560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
