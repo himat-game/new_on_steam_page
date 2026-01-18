@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 18 Jan 2026 17:15:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 18:24:52 +0000</lastBuildDate>
+<item>
+  <title>Glitchery（新規追加）</title>
+  <link>https://store.steampowered.com/app/4303060/</link>
+  <guid isPermaLink="false">steam-store-published-4303060</guid>
+  <pubDate>Sun, 18 Jan 2026 18:24:52 +0000</pubDate>
+  <description>Glitchery is a cooperative multiplayer horror game where players explore an unstable, glitching reality filled with deadly entities. Work together, collect valuable artifacts, and escape before the world turns against you — because one mistake means losing everything.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303060/f123896f324c24ef98c39cf14fa1414ef64c790a/header.jpg?t=1768760244" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303060/f123896f324c24ef98c39cf14fa1414ef64c790a/header.jpg?t=1768760244" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303060/f123896f324c24ef98c39cf14fa1414ef64c790a/header.jpg?t=1768760244" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4303060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303060/f123896f324c24ef98c39cf14fa1414ef64c790a/header.jpg?t=1768760244" alt="Glitchery（新規追加）" /></a></p><p>Glitchery is a cooperative multiplayer horror game where players explore an unstable, glitching reality filled with deadly entities. Work together, collect valuable artifacts, and escape before the world turns against you — because one mistake means losing everything.</p><p><a href="https://store.steampowered.com/app/4303060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chronicle Card Game（新規追加）</title>
   <link>https://store.steampowered.com/app/4253350/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291700/a449bb8bf3a71f820c82456b6470622e07e963f1/header.jpg?t=1768525323" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291700/a449bb8bf3a71f820c82456b6470622e07e963f1/header.jpg?t=1768525323" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4291700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291700/a449bb8bf3a71f820c82456b6470622e07e963f1/header.jpg?t=1768525323" alt="GuessEngine（新規追加）" /></a></p><p>A deduction game about historical figures. Enter characters to compare attributes and follow color‑coded hints to narrow down the answer. Analyze, associate, and identify the target, or enjoy co‑op, speed, and versus modes for competitive deduction fun.</p><p><a href="https://store.steampowered.com/app/4291700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>异界仙踪Immortal Sword（新規追加）</title>
-  <link>https://store.steampowered.com/app/4313830/</link>
-  <guid isPermaLink="false">steam-store-published-4313830</guid>
-  <pubDate>Fri, 16 Jan 2026 01:26:31 +0000</pubDate>
-  <description>Immortal Sword is a strategy and role-playing game that combines tower defense, tower pushing, and lightweight rouge. You will defeat various strong enemies in the world of swords and magic, gradually regaining your power.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313830/6be805f33b9aa6ce8eae53443d94462cee71d55d/header.jpg?t=1768524757" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313830/6be805f33b9aa6ce8eae53443d94462cee71d55d/header.jpg?t=1768524757" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313830/6be805f33b9aa6ce8eae53443d94462cee71d55d/header.jpg?t=1768524757" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4313830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313830/6be805f33b9aa6ce8eae53443d94462cee71d55d/header.jpg?t=1768524757" alt="异界仙踪Immortal Sword（新規追加）" /></a></p><p>Immortal Sword is a strategy and role-playing game that combines tower defense, tower pushing, and lightweight rouge. You will defeat various strong enemies in the world of swords and magic, gradually regaining your power.</p><p><a href="https://store.steampowered.com/app/4313830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
