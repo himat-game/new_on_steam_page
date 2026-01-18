@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 18 Jan 2026 08:53:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 09:50:06 +0000</lastBuildDate>
+<item>
+  <title>The Wreck That Should Not Be（新規追加）</title>
+  <link>https://store.steampowered.com/app/4324650/</link>
+  <guid isPermaLink="false">steam-store-published-4324650</guid>
+  <pubDate>Sun, 18 Jan 2026 09:50:06 +0000</pubDate>
+  <description>When the mysterious Doctor Hoffmann hires your submarine to explore the east Caribbean sea, you accept, unware of the dangers that lie ahead...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324650/72976439a04765c407c0d205457bb53d7a18dea2/header.jpg?t=1768728278" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324650/72976439a04765c407c0d205457bb53d7a18dea2/header.jpg?t=1768728278" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324650/72976439a04765c407c0d205457bb53d7a18dea2/header.jpg?t=1768728278" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4324650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324650/72976439a04765c407c0d205457bb53d7a18dea2/header.jpg?t=1768728278" alt="The Wreck That Should Not Be（新規追加）" /></a></p><p>When the mysterious Doctor Hoffmann hires your submarine to explore the east Caribbean sea, you accept, unware of the dangers that lie ahead...</p><p><a href="https://store.steampowered.com/app/4324650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Last Shift Standing（新規追加）</title>
   <link>https://store.steampowered.com/app/4243890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149320/f8ed795b98294786fa56b9dd51faf9ab7e826bf9/header.jpg?t=1768509565" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149320/f8ed795b98294786fa56b9dd51faf9ab7e826bf9/header.jpg?t=1768509565" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4149320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4149320/f8ed795b98294786fa56b9dd51faf9ab7e826bf9/header.jpg?t=1768509565" alt="Don&#x27;t Touch the Snail（新規追加）" /></a></p><p>The world&#x27;s first anti-cozy idler. You only get one life. A snail chases you endlessly. If you touch it, you can never play the game again.</p><p><a href="https://store.steampowered.com/app/4149320/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Praxium（新規追加）</title>
-  <link>https://store.steampowered.com/app/4260900/</link>
-  <guid isPermaLink="false">steam-store-published-4260900</guid>
-  <pubDate>Thu, 15 Jan 2026 20:22:09 +0000</pubDate>
-  <description>Praxium is a 2D precision platformer that blends fast-paced movement with strategic deckbuilding. Gain movement abilities, transform scoring rules, and even modify levels themselves to achieve the highest score possible while running, jumping, and sliding across 100 levels of pure platforming fun!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260900/296f24184acc47d6c397ce478d4af843a2a26f7b/header.jpg?t=1768507090" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260900/296f24184acc47d6c397ce478d4af843a2a26f7b/header.jpg?t=1768507090" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260900/296f24184acc47d6c397ce478d4af843a2a26f7b/header.jpg?t=1768507090" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4260900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260900/296f24184acc47d6c397ce478d4af843a2a26f7b/header.jpg?t=1768507090" alt="Praxium（新規追加）" /></a></p><p>Praxium is a 2D precision platformer that blends fast-paced movement with strategic deckbuilding. Gain movement abilities, transform scoring rules, and even modify levels themselves to achieve the highest score possible while running, jumping, and sliding across 100 levels of pure platforming fun!</p><p><a href="https://store.steampowered.com/app/4260900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
