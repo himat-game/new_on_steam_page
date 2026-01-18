@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 18 Jan 2026 11:45:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 12:35:25 +0000</lastBuildDate>
+<item>
+  <title>SkullPirates（新規追加）</title>
+  <link>https://store.steampowered.com/app/1235930/</link>
+  <guid isPermaLink="false">steam-store-published-1235930</guid>
+  <pubDate>Sun, 18 Jan 2026 12:35:25 +0000</pubDate>
+  <description>On the oceans, sailors tell tales of a ship crewed by the dead. They say a skeletal army lives within its hold, waiting to assault unwary vessels and steal their treasure. In hushed tones, their name is uttered: Their captain, Skull Queen, has a fearsome reputation as a cutthroat hunter of the seas.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235930/00d033d935e5e77a104dba8acf16b73968866818/header.jpg?t=1768738901" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235930/00d033d935e5e77a104dba8acf16b73968866818/header.jpg?t=1768738901" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235930/00d033d935e5e77a104dba8acf16b73968866818/header.jpg?t=1768738901" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1235930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235930/00d033d935e5e77a104dba8acf16b73968866818/header.jpg?t=1768738901" alt="SkullPirates（新規追加）" /></a></p><p>On the oceans, sailors tell tales of a ship crewed by the dead. They say a skeletal army lives within its hold, waiting to assault unwary vessels and steal their treasure. In hushed tones, their name is uttered: Their captain, Skull Queen, has a fearsome reputation as a cutthroat hunter of the seas.</p><p><a href="https://store.steampowered.com/app/1235930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Eclipstation（新規追加）</title>
   <link>https://store.steampowered.com/app/4283410/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306520/91bc2e38b0bc1809e858216b87ba76e050f8a561/header.jpg?t=1768510603" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306520/91bc2e38b0bc1809e858216b87ba76e050f8a561/header.jpg?t=1768510603" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4306520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306520/91bc2e38b0bc1809e858216b87ba76e050f8a561/header.jpg?t=1768510603" alt="Pookie&#x27;s Otherworld Tavern（新規追加）" /></a></p><p>Trapped in a fantasy world with zero gold? Pookie needs a fortune to buy her way home. Manage a tavern, serve drinks, and charm wealthy patrons. Will you run an honest business, or do whatever it takes to get paid?</p><p><a href="https://store.steampowered.com/app/4306520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Unreal Hospital 8（新規追加）</title>
-  <link>https://store.steampowered.com/app/4288810/</link>
-  <guid isPermaLink="false">steam-store-published-4288810</guid>
-  <pubDate>Thu, 15 Jan 2026 21:19:01 +0000</pubDate>
-  <description>Nix, the handyman investigating disappearances at an abandoned hospital. This game is inspired by Exit 8 and is an Exit 8-like (Exit 8-esque) game. If you notice anything unusual, shoot and destroy it. If nothing seems amiss, proceed straight to the exit.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288810/5aa2de688b228e29403646f71eca3e96a3d2bb1d/header.jpg?t=1768511765" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288810/5aa2de688b228e29403646f71eca3e96a3d2bb1d/header.jpg?t=1768511765" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288810/5aa2de688b228e29403646f71eca3e96a3d2bb1d/header.jpg?t=1768511765" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4288810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288810/5aa2de688b228e29403646f71eca3e96a3d2bb1d/header.jpg?t=1768511765" alt="Unreal Hospital 8（新規追加）" /></a></p><p>Nix, the handyman investigating disappearances at an abandoned hospital. This game is inspired by Exit 8 and is an Exit 8-like (Exit 8-esque) game. If you notice anything unusual, shoot and destroy it. If nothing seems amiss, proceed straight to the exit.</p><p><a href="https://store.steampowered.com/app/4288810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
