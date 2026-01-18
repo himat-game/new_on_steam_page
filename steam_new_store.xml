@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 18 Jan 2026 19:44:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 20:52:32 +0000</lastBuildDate>
+<item>
+  <title>Little Boo and the Spectral Orbs（新規追加）</title>
+  <link>https://store.steampowered.com/app/4275140/</link>
+  <guid isPermaLink="false">steam-store-published-4275140</guid>
+  <pubDate>Sun, 18 Jan 2026 20:52:32 +0000</pubDate>
+  <description>A challenging single-screen platformer inspired by 80s arcade classics. Help Little Boo rescue his lost friends across 40 deadly levels. Dodge traps, outrun enemies, and race against time. Easy to learn. Brutal to master.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275140/66cb36d641a75bc5667baaed2b20b9aaed1169ab/header.jpg?t=1768768551" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275140/66cb36d641a75bc5667baaed2b20b9aaed1169ab/header.jpg?t=1768768551" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275140/66cb36d641a75bc5667baaed2b20b9aaed1169ab/header.jpg?t=1768768551" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275140/66cb36d641a75bc5667baaed2b20b9aaed1169ab/header.jpg?t=1768768551" alt="Little Boo and the Spectral Orbs（新規追加）" /></a></p><p>A challenging single-screen platformer inspired by 80s arcade classics. Help Little Boo rescue his lost friends across 40 deadly levels. Dodge traps, outrun enemies, and race against time. Easy to learn. Brutal to master.</p><p><a href="https://store.steampowered.com/app/4275140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Nick&#x27;s Text Adventure（新規追加）</title>
   <link>https://store.steampowered.com/app/4301090/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867150/ff1e74805f9d1e479b629636c9b37609199accdb/header.jpg?t=1768531722" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867150/ff1e74805f9d1e479b629636c9b37609199accdb/header.jpg?t=1768531722" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3867150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867150/ff1e74805f9d1e479b629636c9b37609199accdb/header.jpg?t=1768531722" alt="DEAD END BEAM（新規追加）" /></a></p><p>少女は闇の中で光を携えながら深くへと「何か」を求めて進む。 様々な条件分岐ブロックとコマンドブロックを自身で構築して戦う、コマンド構築タイムラインバトル。</p><p><a href="https://store.steampowered.com/app/3867150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Gangster Wars（新規追加）</title>
-  <link>https://store.steampowered.com/app/4303960/</link>
-  <guid isPermaLink="false">steam-store-published-4303960</guid>
-  <pubDate>Fri, 16 Jan 2026 01:26:31 +0000</pubDate>
-  <description>A story-rich, tower defense auto battler set in the roaring 1920s underworld. Set up your arsenal and defenses and battle hordes of enemy gangsters and tough bosses. Place your bombs into the crowd and watch the sparks fly. Win coins the easy way with the fortune wheel minigame.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303960/6dae1c4d2dd4c7381b9718e4f2a2fef79760815e/header.jpg?t=1768521224" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303960/6dae1c4d2dd4c7381b9718e4f2a2fef79760815e/header.jpg?t=1768521224" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303960/6dae1c4d2dd4c7381b9718e4f2a2fef79760815e/header.jpg?t=1768521224" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4303960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303960/6dae1c4d2dd4c7381b9718e4f2a2fef79760815e/header.jpg?t=1768521224" alt="Gangster Wars（新規追加）" /></a></p><p>A story-rich, tower defense auto battler set in the roaring 1920s underworld. Set up your arsenal and defenses and battle hordes of enemy gangsters and tough bosses. Place your bombs into the crowd and watch the sparks fly. Win coins the easy way with the fortune wheel minigame.</p><p><a href="https://store.steampowered.com/app/4303960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
