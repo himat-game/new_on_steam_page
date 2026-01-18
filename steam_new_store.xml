@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 18 Jan 2026 10:19:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 10:41:32 +0000</lastBuildDate>
+<item>
+  <title>Bullet Meltdown（新規追加）</title>
+  <link>https://store.steampowered.com/app/4184810/</link>
+  <guid isPermaLink="false">steam-store-published-4184810</guid>
+  <pubDate>Sun, 18 Jan 2026 10:41:32 +0000</pubDate>
+  <description>Build powerful army in this mix of an arena shooter and active tower defense. Buy weapons, upgrades, and structures, hire units, and survive massive attack of enemies. Fight on the front lines or let your army do the job while you stay safe behind the walls.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184810/e60e9e8b925f16cf71e5fe4e88ebe475be3410fe/header.jpg?t=1768732740" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184810/e60e9e8b925f16cf71e5fe4e88ebe475be3410fe/header.jpg?t=1768732740" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184810/e60e9e8b925f16cf71e5fe4e88ebe475be3410fe/header.jpg?t=1768732740" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4184810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184810/e60e9e8b925f16cf71e5fe4e88ebe475be3410fe/header.jpg?t=1768732740" alt="Bullet Meltdown（新規追加）" /></a></p><p>Build powerful army in this mix of an arena shooter and active tower defense. Buy weapons, upgrades, and structures, hire units, and survive massive attack of enemies. Fight on the front lines or let your army do the job while you stay safe behind the walls.</p><p><a href="https://store.steampowered.com/app/4184810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dark Fantasy 1 Ein Dämonisches Abenteuer（新規追加）</title>
   <link>https://store.steampowered.com/app/4274940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275510/7b3e1bade1485b53b110dd845f659004c01f8d86/header.jpg?t=1768510050" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275510/7b3e1bade1485b53b110dd845f659004c01f8d86/header.jpg?t=1768510050" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275510/7b3e1bade1485b53b110dd845f659004c01f8d86/header.jpg?t=1768510050" alt="凉面爱情故事（新規追加）" /></a></p><p>This is a light-hearted and enjoyable short visual novel.You will guide the male protagonist to different endings through various choices. Xu Bu, who was originally a graduate student in history, became a teacher after giving up his studies. Then,the new stroy will begin.</p><p><a href="https://store.steampowered.com/app/4275510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nuclearphobia（新規追加）</title>
-  <link>https://store.steampowered.com/app/4291210/</link>
-  <guid isPermaLink="false">steam-store-published-4291210</guid>
-  <pubDate>Thu, 15 Jan 2026 20:53:28 +0000</pubDate>
-  <description>Reactor failure, nuclear winter, time cracking apart. Nuclearphobia is a 2D action‑adventure platformer set in Area 71’s nuclear winter. Fast gunfights, demanding jumps, and puzzles. Play as a human, 5 drones, and a quantum cat, combine abilities, uncover time anomalies, defeat multi‑phase bosses.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291210/1b99a0cdad5d9e30f96433602460fbfb59890864/header.jpg?t=1768508564" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291210/1b99a0cdad5d9e30f96433602460fbfb59890864/header.jpg?t=1768508564" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291210/1b99a0cdad5d9e30f96433602460fbfb59890864/header.jpg?t=1768508564" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4291210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291210/1b99a0cdad5d9e30f96433602460fbfb59890864/header.jpg?t=1768508564" alt="Nuclearphobia（新規追加）" /></a></p><p>Reactor failure, nuclear winter, time cracking apart. Nuclearphobia is a 2D action‑adventure platformer set in Area 71’s nuclear winter. Fast gunfights, demanding jumps, and puzzles. Play as a human, 5 drones, and a quantum cat, combine abilities, uncover time anomalies, defeat multi‑phase bosses.</p><p><a href="https://store.steampowered.com/app/4291210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
