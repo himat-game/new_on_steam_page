@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 18 Jan 2026 22:17:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 22:51:32 +0000</lastBuildDate>
+<item>
+  <title>Alien Farmer（新規追加）</title>
+  <link>https://store.steampowered.com/app/2693510/</link>
+  <guid isPermaLink="false">steam-store-published-2693510</guid>
+  <pubDate>Sun, 18 Jan 2026 22:51:32 +0000</pubDate>
+  <description>Alien Farmer is a third-person survival automation game set on a hostile alien world. Farm, mine, and build an automated base by day, then defend it against deadly creatures by night. Explore, expand, and survive alone or in co-op.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693510/8ed8bbeb0faaf31b22595d81a15e74da558e74a8/header.jpg?t=1768774833" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693510/8ed8bbeb0faaf31b22595d81a15e74da558e74a8/header.jpg?t=1768774833" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693510/8ed8bbeb0faaf31b22595d81a15e74da558e74a8/header.jpg?t=1768774833" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2693510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693510/8ed8bbeb0faaf31b22595d81a15e74da558e74a8/header.jpg?t=1768774833" alt="Alien Farmer（新規追加）" /></a></p><p>Alien Farmer is a third-person survival automation game set on a hostile alien world. Farm, mine, and build an automated base by day, then defend it against deadly creatures by night. Explore, expand, and survive alone or in co-op.</p><p><a href="https://store.steampowered.com/app/2693510/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dybbuk（新規追加）</title>
   <link>https://store.steampowered.com/app/4145740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123670/d8d8133fa0dfe846583fd93bb73217c733ecd87e/header.jpg?t=1768527608" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123670/d8d8133fa0dfe846583fd93bb73217c733ecd87e/header.jpg?t=1768527608" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123670/d8d8133fa0dfe846583fd93bb73217c733ecd87e/header.jpg?t=1768527608" alt="Sol Divide（新規追加）" /></a></p><p>Saikyo Fantasy Action Shooting Game</p><p><a href="https://store.steampowered.com/app/4123670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dopamine rogue（新規追加）</title>
-  <link>https://store.steampowered.com/app/4308630/</link>
-  <guid isPermaLink="false">steam-store-published-4308630</guid>
-  <pubDate>Fri, 16 Jan 2026 03:19:30 +0000</pubDate>
-  <description>Dopamine Rogue is a psychological life-simulation roguelike about surviving your own mind. Confront inner demons, struggle through mental obstacles, and fight to accomplish both basic and extraordinary moments of life. A solo-developed project crafted over two years.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308630/4ee07c66bb1b7e988633c186ca68132309798c6f/header.jpg?t=1768532105" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308630/4ee07c66bb1b7e988633c186ca68132309798c6f/header.jpg?t=1768532105" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308630/4ee07c66bb1b7e988633c186ca68132309798c6f/header.jpg?t=1768532105" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4308630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308630/4ee07c66bb1b7e988633c186ca68132309798c6f/header.jpg?t=1768532105" alt="Dopamine rogue（新規追加）" /></a></p><p>Dopamine Rogue is a psychological life-simulation roguelike about surviving your own mind. Confront inner demons, struggle through mental obstacles, and fight to accomplish both basic and extraordinary moments of life. A solo-developed project crafted over two years.</p><p><a href="https://store.steampowered.com/app/4308630/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
