@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 19 Jan 2026 09:01:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 09:51:17 +0000</lastBuildDate>
+<item>
+  <title>I Am Rock（新規追加）</title>
+  <link>https://store.steampowered.com/app/4294910/</link>
+  <guid isPermaLink="false">steam-store-published-4294910</guid>
+  <pubDate>Mon, 19 Jan 2026 09:51:17 +0000</pubDate>
+  <description>I am Rock is a game about destruction. You control a rock rolling down a hill with the power to crush anything you see. Gain scores and extra time to keep rolling, or play without timers to destroy everything at your own pace.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294910/46cf9871c717ef3384003d9832acc6049ec4b1ed/header.jpg?t=1768307695" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294910/46cf9871c717ef3384003d9832acc6049ec4b1ed/header.jpg?t=1768307695" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294910/46cf9871c717ef3384003d9832acc6049ec4b1ed/header.jpg?t=1768307695" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294910/46cf9871c717ef3384003d9832acc6049ec4b1ed/header.jpg?t=1768307695" alt="I Am Rock（新規追加）" /></a></p><p>I am Rock is a game about destruction. You control a rock rolling down a hill with the power to crush anything you see. Gain scores and extra time to keep rolling, or play without timers to destroy everything at your own pace.</p><p><a href="https://store.steampowered.com/app/4294910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>2mazing（新規追加）</title>
   <link>https://store.steampowered.com/app/4255920/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402940/c21728bccef691b0194f65bdb39f468ef891b77f/header.jpg?t=1768538112" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402940/c21728bccef691b0194f65bdb39f468ef891b77f/header.jpg?t=1768538112" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3402940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402940/c21728bccef691b0194f65bdb39f468ef891b77f/header.jpg?t=1768538112" alt="Tower of the Evil: Struggle of Eight Queens（新規追加）" /></a></p><p>A fixed value resource management game where players will manipulate the character to explore various maps and collect resources. The gameplay is based on traditional Tower of the Sorcerer games, where players need to choose the appropriate order to complete the game with minimal resources.</p><p><a href="https://store.steampowered.com/app/3402940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Powered Wheelchair Simulation（新規追加）</title>
-  <link>https://store.steampowered.com/app/4294790/</link>
-  <guid isPermaLink="false">steam-store-published-4294790</guid>
-  <pubDate>Fri, 16 Jan 2026 04:54:12 +0000</pubDate>
-  <description>PWS is a wheelchair simulation and multiplayer game in early development. Players experience everyday environments from a wheelchair perspective, train driving skills safely, and join competitive or social modes in a shared, community-driven experience.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294790/da802f8808711a4f2a84a381e6803d2264b6241a/header.jpg?t=1768538377" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294790/da802f8808711a4f2a84a381e6803d2264b6241a/header.jpg?t=1768538377" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294790/da802f8808711a4f2a84a381e6803d2264b6241a/header.jpg?t=1768538377" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294790/da802f8808711a4f2a84a381e6803d2264b6241a/header.jpg?t=1768538377" alt="Powered Wheelchair Simulation（新規追加）" /></a></p><p>PWS is a wheelchair simulation and multiplayer game in early development. Players experience everyday environments from a wheelchair perspective, train driving skills safely, and join competitive or social modes in a shared, community-driven experience.</p><p><a href="https://store.steampowered.com/app/4294790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
