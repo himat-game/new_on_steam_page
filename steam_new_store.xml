@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 18 Jan 2026 22:51:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 23:47:55 +0000</lastBuildDate>
+<item>
+  <title>Starcrest（新規追加）</title>
+  <link>https://store.steampowered.com/app/3063280/</link>
+  <guid isPermaLink="false">steam-store-published-3063280</guid>
+  <pubDate>Sun, 18 Jan 2026 23:47:55 +0000</pubDate>
+  <description>Starcrest is an action/adventure platformer set in space, developed by Piyoverse Entertainment.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063280/0c45372a894d159517834bd9a438ba6c55172714/header.jpg?t=1768777529" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063280/0c45372a894d159517834bd9a438ba6c55172714/header.jpg?t=1768777529" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063280/0c45372a894d159517834bd9a438ba6c55172714/header.jpg?t=1768777529" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3063280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063280/0c45372a894d159517834bd9a438ba6c55172714/header.jpg?t=1768777529" alt="Starcrest（新規追加）" /></a></p><p>Starcrest is an action/adventure platformer set in space, developed by Piyoverse Entertainment.</p><p><a href="https://store.steampowered.com/app/3063280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Alien Farmer（新規追加）</title>
   <link>https://store.steampowered.com/app/2693510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212230/a7ed57d882e9a05911520e4c544a19b7b659cda1/header.jpg?t=1768531844" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212230/a7ed57d882e9a05911520e4c544a19b7b659cda1/header.jpg?t=1768531844" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4212230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4212230/a7ed57d882e9a05911520e4c544a19b7b659cda1/header.jpg?t=1768531844" alt="Weaposy（新規追加）" /></a></p><p>Action MMORPG game (Grinding &amp;amp; No pay-to-win). Experience action combat! Grind for powerful cards, and upgrade your card to +9. Whether tackling endless Roguelike PvE with 4-8 friends or dominating in fast-paced PvP, everything you see can be earned by playing. No shortcuts, just skill.</p><p><a href="https://store.steampowered.com/app/4212230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sol Divide（新規追加）</title>
-  <link>https://store.steampowered.com/app/4123670/</link>
-  <guid isPermaLink="false">steam-store-published-4123670</guid>
-  <pubDate>Fri, 16 Jan 2026 03:19:30 +0000</pubDate>
-  <description>Saikyo Fantasy Action Shooting Game</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123670/d8d8133fa0dfe846583fd93bb73217c733ecd87e/header.jpg?t=1768527608" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123670/d8d8133fa0dfe846583fd93bb73217c733ecd87e/header.jpg?t=1768527608" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123670/d8d8133fa0dfe846583fd93bb73217c733ecd87e/header.jpg?t=1768527608" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123670/d8d8133fa0dfe846583fd93bb73217c733ecd87e/header.jpg?t=1768527608" alt="Sol Divide（新規追加）" /></a></p><p>Saikyo Fantasy Action Shooting Game</p><p><a href="https://store.steampowered.com/app/4123670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
