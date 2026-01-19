@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 19 Jan 2026 08:29:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 09:01:40 +0000</lastBuildDate>
+<item>
+  <title>2mazing（新規追加）</title>
+  <link>https://store.steampowered.com/app/4255920/</link>
+  <guid isPermaLink="false">steam-store-published-4255920</guid>
+  <pubDate>Mon, 19 Jan 2026 09:01:40 +0000</pubDate>
+  <description>A fast-paced 2-player competitive race across 100 ever-changing mazes. In 2mazing, every level grants you a unique set of abilities. Be the first to claim the Trophy.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255920/1c6c4f33edb5a05c62f338f8c56631290f1238c4/header.jpg?t=1768812888" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255920/1c6c4f33edb5a05c62f338f8c56631290f1238c4/header.jpg?t=1768812888" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255920/1c6c4f33edb5a05c62f338f8c56631290f1238c4/header.jpg?t=1768812888" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255920/1c6c4f33edb5a05c62f338f8c56631290f1238c4/header.jpg?t=1768812888" alt="2mazing（新規追加）" /></a></p><p>A fast-paced 2-player competitive race across 100 ever-changing mazes. In 2mazing, every level grants you a unique set of abilities. Be the first to claim the Trophy.</p><p><a href="https://store.steampowered.com/app/4255920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Study in Blue（新規追加）</title>
   <link>https://store.steampowered.com/app/4280150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294790/da802f8808711a4f2a84a381e6803d2264b6241a/header.jpg?t=1768538377" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294790/da802f8808711a4f2a84a381e6803d2264b6241a/header.jpg?t=1768538377" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294790/da802f8808711a4f2a84a381e6803d2264b6241a/header.jpg?t=1768538377" alt="Powered Wheelchair Simulation（新規追加）" /></a></p><p>PWS is a wheelchair simulation and multiplayer game in early development. Players experience everyday environments from a wheelchair perspective, train driving skills safely, and join competitive or social modes in a shared, community-driven experience.</p><p><a href="https://store.steampowered.com/app/4294790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Groove Defense（新規追加）</title>
-  <link>https://store.steampowered.com/app/4100400/</link>
-  <guid isPermaLink="false">steam-store-published-4100400</guid>
-  <pubDate>Fri, 16 Jan 2026 04:54:12 +0000</pubDate>
-  <description>A music-powered Tower Defense where every tower is an instrument. Place drums, bass, synths, and lead synths to build your soundtrack while defending against beat-synced enemies. Multiple genres. Your defense IS the music.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100400/264d07d768830ad796e22cbb61312ada5b4ca9fe/header.jpg?t=1768536519" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100400/264d07d768830ad796e22cbb61312ada5b4ca9fe/header.jpg?t=1768536519" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100400/264d07d768830ad796e22cbb61312ada5b4ca9fe/header.jpg?t=1768536519" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4100400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100400/264d07d768830ad796e22cbb61312ada5b4ca9fe/header.jpg?t=1768536519" alt="Groove Defense（新規追加）" /></a></p><p>A music-powered Tower Defense where every tower is an instrument. Place drums, bass, synths, and lead synths to build your soundtrack while defending against beat-synced enemies. Multiple genres. Your defense IS the music.</p><p><a href="https://store.steampowered.com/app/4100400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
