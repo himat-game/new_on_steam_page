@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 19 Jan 2026 05:50:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jan 2026 06:35:00 +0000</lastBuildDate>
+<item>
+  <title>Piece of Ship（新規追加）</title>
+  <link>https://store.steampowered.com/app/4313260/</link>
+  <guid isPermaLink="false">steam-store-published-4313260</guid>
+  <pubDate>Mon, 19 Jan 2026 06:35:00 +0000</pubDate>
+  <description>A chaotic co-op game about fixing a sinking submarine with duct tape, one wrench, and terrible communication. Fix it together or drown screaming.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313260/7803cff856fe75096c7f71d94485e0c863de11a8/header.jpg?t=1768802945" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313260/7803cff856fe75096c7f71d94485e0c863de11a8/header.jpg?t=1768802945" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313260/7803cff856fe75096c7f71d94485e0c863de11a8/header.jpg?t=1768802945" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4313260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313260/7803cff856fe75096c7f71d94485e0c863de11a8/header.jpg?t=1768802945" alt="Piece of Ship（新規追加）" /></a></p><p>A chaotic co-op game about fixing a sinking submarine with duct tape, one wrench, and terrible communication. Fix it together or drown screaming.</p><p><a href="https://store.steampowered.com/app/4313260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Jest Messters（新規追加）</title>
   <link>https://store.steampowered.com/app/4293120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288040/a9fdc8bb7f155c309d68a0a2d1dc587bc034dd6e/header.jpg?t=1768536319" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288040/a9fdc8bb7f155c309d68a0a2d1dc587bc034dd6e/header.jpg?t=1768536319" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4288040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288040/a9fdc8bb7f155c309d68a0a2d1dc587bc034dd6e/header.jpg?t=1768536319" alt="3:33 AM（新規追加）" /></a></p><p>A stranger calls at 3:33 AM. They know your name. Choose your words carefully in this fully voiced psychological horror game.</p><p><a href="https://store.steampowered.com/app/4288040/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Pinkman Files（新規追加）</title>
-  <link>https://store.steampowered.com/app/3854540/</link>
-  <guid isPermaLink="false">steam-store-published-3854540</guid>
-  <pubDate>Fri, 16 Jan 2026 04:54:12 +0000</pubDate>
-  <description>The Pinkman Files is a mini-game rich, fast paced, turn based combat game with a side of visual novel, that will challenge your detective skills and allow you to uncover the secrets of a peculiar town.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3854540/61a2cabb14d9f0e45909d0e57382e7afcb72fcea/header.jpg?t=1768538114" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3854540/61a2cabb14d9f0e45909d0e57382e7afcb72fcea/header.jpg?t=1768538114" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3854540/61a2cabb14d9f0e45909d0e57382e7afcb72fcea/header.jpg?t=1768538114" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3854540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3854540/61a2cabb14d9f0e45909d0e57382e7afcb72fcea/header.jpg?t=1768538114" alt="The Pinkman Files（新規追加）" /></a></p><p>The Pinkman Files is a mini-game rich, fast paced, turn based combat game with a side of visual novel, that will challenge your detective skills and allow you to uncover the secrets of a peculiar town.</p><p><a href="https://store.steampowered.com/app/3854540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
