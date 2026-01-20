@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 20 Jan 2026 06:32:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 07:04:03 +0000</lastBuildDate>
+<item>
+  <title>スカイレリック（新規追加）</title>
+  <link>https://store.steampowered.com/app/4291170/</link>
+  <guid isPermaLink="false">steam-store-published-4291170</guid>
+  <pubDate>Tue, 20 Jan 2026 07:04:03 +0000</pubDate>
+  <description>At an altitude of thousands of meters, the only sound piercing the silence is the roar of your machine guns. Become an operator of the world&#x27;s strongest anti-ground defense weapon, the “Sky Relic,” and defend the crystal from the advancing soldiers in this tactical roguelike shooter.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291170/45734dc733250f885d4c7e8657d4c8f1d8b27e0f/header.jpg?t=1768891115" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291170/45734dc733250f885d4c7e8657d4c8f1d8b27e0f/header.jpg?t=1768891115" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291170/45734dc733250f885d4c7e8657d4c8f1d8b27e0f/header.jpg?t=1768891115" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4291170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291170/45734dc733250f885d4c7e8657d4c8f1d8b27e0f/header.jpg?t=1768891115" alt="スカイレリック（新規追加）" /></a></p><p>At an altitude of thousands of meters, the only sound piercing the silence is the roar of your machine guns. Become an operator of the world&#x27;s strongest anti-ground defense weapon, the “Sky Relic,” and defend the crystal from the advancing soldiers in this tactical roguelike shooter.</p><p><a href="https://store.steampowered.com/app/4291170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pintorino（新規追加）</title>
   <link>https://store.steampowered.com/app/4289720/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294730/f0cc72c1365f476b5b71a06a81e04982be906768/header.jpg?t=1768600594" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294730/f0cc72c1365f476b5b71a06a81e04982be906768/header.jpg?t=1768600594" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294730/f0cc72c1365f476b5b71a06a81e04982be906768/header.jpg?t=1768600594" alt="Keg &amp; Quest（新規追加）" /></a></p><p>Keg &amp;amp; Quest is a free-to-play idle RPG with online multiplayer. Build your hero, join a guild, compete in PvP, and take part in world boss events where strategy and progression matter more than reflexes.</p><p><a href="https://store.steampowered.com/app/4294730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pirate Temptation - Naughty Jigsaw（新規追加）</title>
-  <link>https://store.steampowered.com/app/4306250/</link>
-  <guid isPermaLink="false">steam-store-published-4306250</guid>
-  <pubDate>Fri, 16 Jan 2026 21:50:47 +0000</pubDate>
-  <description>Solve sensual jigsaw puzzles featuring seductive pirates across three difficulty levels. Pirate Temptation – Naughty Jigsaw offers exclusive artwork, tempting characters, and a gallery with downloadable unlocked images.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4306250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306250/e64f91ec9ad94b239725822da01d0d7cd174fbb7/header.jpg?t=1768599960" alt="Pirate Temptation - Naughty Jigsaw（新規追加）" /></a></p><p>Solve sensual jigsaw puzzles featuring seductive pirates across three difficulty levels. Pirate Temptation – Naughty Jigsaw offers exclusive artwork, tempting characters, and a gallery with downloadable unlocked images.</p><p><a href="https://store.steampowered.com/app/4306250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
