@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 20 Jan 2026 03:23:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 04:33:16 +0000</lastBuildDate>
+<item>
+  <title>三国画卷（新規追加）</title>
+  <link>https://store.steampowered.com/app/4205580/</link>
+  <guid isPermaLink="false">steam-store-published-4205580</guid>
+  <pubDate>Tue, 20 Jan 2026 04:33:16 +0000</pubDate>
+  <description>&amp;quot;Three Kingdoms Scroll&amp;quot; is a game that respects authentic historical elements, with careful research into historical details as the foundation of its design. We have strived to make this title a Three Kingdoms-themed strategy game that emphasizes local culture, traditions, and human connections.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205580/4880ea7a204370360d996dcd7a826fe52c3b7def/header.jpg?t=1768880044" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205580/4880ea7a204370360d996dcd7a826fe52c3b7def/header.jpg?t=1768880044" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205580/4880ea7a204370360d996dcd7a826fe52c3b7def/header.jpg?t=1768880044" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4205580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4205580/4880ea7a204370360d996dcd7a826fe52c3b7def/header.jpg?t=1768880044" alt="三国画卷（新規追加）" /></a></p><p>&amp;quot;Three Kingdoms Scroll&amp;quot; is a game that respects authentic historical elements, with careful research into historical details as the foundation of its design. We have strived to make this title a Three Kingdoms-themed strategy game that emphasizes local culture, traditions, and human connections.</p><p><a href="https://store.steampowered.com/app/4205580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>CaraVanguard（新規追加）</title>
   <link>https://store.steampowered.com/app/2899150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317600/b4d7824d6c2f24433a546ed26d912c60d5a957d5/header.jpg?t=1768590908" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317600/b4d7824d6c2f24433a546ed26d912c60d5a957d5/header.jpg?t=1768590908" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4317600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317600/b4d7824d6c2f24433a546ed26d912c60d5a957d5/header.jpg?t=1768590908" alt="Red Exit Is A Lie（新規追加）" /></a></p><p>A fun and casual anomaly-detection game where you must spot the differences in looping environments through hand-crafted cartoon worlds. Follow the rules: red exit for anomalies, green exit for normal. But what if the rules themselves are the real trap?</p><p><a href="https://store.steampowered.com/app/4317600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SUDOKU CHAMPIONS（新規追加）</title>
-  <link>https://store.steampowered.com/app/3210450/</link>
-  <guid isPermaLink="false">steam-store-published-3210450</guid>
-  <pubDate>Fri, 16 Jan 2026 19:24:05 +0000</pubDate>
-  <description>Sudoku is a simple and clear number-puzzle game. The goal is easy to understand: fill the grid so each row, column, and 3×3 box contains the numbers 1 to 9 with no repeats. No math required, just logic.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3210450/9e8568d1a7b5d3e60adee438a307488479a2b38c/header.jpg?t=1768590382" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3210450/9e8568d1a7b5d3e60adee438a307488479a2b38c/header.jpg?t=1768590382" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3210450/9e8568d1a7b5d3e60adee438a307488479a2b38c/header.jpg?t=1768590382" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3210450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3210450/9e8568d1a7b5d3e60adee438a307488479a2b38c/header.jpg?t=1768590382" alt="SUDOKU CHAMPIONS（新規追加）" /></a></p><p>Sudoku is a simple and clear number-puzzle game. The goal is easy to understand: fill the grid so each row, column, and 3×3 box contains the numbers 1 to 9 with no repeats. No math required, just logic.</p><p><a href="https://store.steampowered.com/app/3210450/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
