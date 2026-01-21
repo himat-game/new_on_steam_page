@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 21 Jan 2026 12:43:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 13:43:19 +0000</lastBuildDate>
+<item>
+  <title>Apocalypse Cult Leader（新規追加）</title>
+  <link>https://store.steampowered.com/app/4270070/</link>
+  <guid isPermaLink="false">steam-store-published-4270070</guid>
+  <pubDate>Wed, 21 Jan 2026 13:43:19 +0000</pubDate>
+  <description>The end of the world is here, but you&#x27;re still alive and able to survive. You&#x27;re the chosen one. Or at least, so you believe. Craft, do quests, make love, and convert the people within your reach to your cult. You are the savior in this post-apocalypse world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270070/77920b41499b0398af041122181d358671660182/header.jpg?t=1769002380" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270070/77920b41499b0398af041122181d358671660182/header.jpg?t=1769002380" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270070/77920b41499b0398af041122181d358671660182/header.jpg?t=1769002380" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4270070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270070/77920b41499b0398af041122181d358671660182/header.jpg?t=1769002380" alt="Apocalypse Cult Leader（新規追加）" /></a></p><p>The end of the world is here, but you&#x27;re still alive and able to survive. You&#x27;re the chosen one. Or at least, so you believe. Craft, do quests, make love, and convert the people within your reach to your cult. You are the savior in this post-apocalypse world.</p><p><a href="https://store.steampowered.com/app/4270070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Clumsy Impact（新規追加）</title>
   <link>https://store.steampowered.com/app/4249730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272730/847382f412f3da8987ac087cfacac51c7db9170d/header.jpg?t=1768851294" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272730/847382f412f3da8987ac087cfacac51c7db9170d/header.jpg?t=1768851294" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272730/847382f412f3da8987ac087cfacac51c7db9170d/header.jpg?t=1768851294" alt="Block Shot（新規追加）" /></a></p><p>Break. Acquire. Obliterate. The Evolution of Swipe Action! BlockShot is a hybrid action game that combines classic brick-breaking mechanics with intense combat and strategic deck-building. Don&#x27;t just break bricks; harvest them. In this world, bricks are your mana and your ultimate weapon!</p><p><a href="https://store.steampowered.com/app/4272730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tag!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4289800/</link>
-  <guid isPermaLink="false">steam-store-published-4289800</guid>
-  <pubDate>Mon, 19 Jan 2026 19:46:32 +0000</pubDate>
-  <description>TAG! is a fast-paced 2-8 player multiplayer parkour game of tag. Sprint, vault, wall run and outplay friends to avoid being It when the timer hits zero, then customize your loadout with Skill Scroll upgrades and game-changing Ultimates.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289800/872ef7cf283716937fa830f56f46b1a63abf5869/header.jpg?t=1768851178" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289800/872ef7cf283716937fa830f56f46b1a63abf5869/header.jpg?t=1768851178" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289800/872ef7cf283716937fa830f56f46b1a63abf5869/header.jpg?t=1768851178" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289800/872ef7cf283716937fa830f56f46b1a63abf5869/header.jpg?t=1768851178" alt="Tag!（新規追加）" /></a></p><p>TAG! is a fast-paced 2-8 player multiplayer parkour game of tag. Sprint, vault, wall run and outplay friends to avoid being It when the timer hits zero, then customize your loadout with Skill Scroll upgrades and game-changing Ultimates.</p><p><a href="https://store.steampowered.com/app/4289800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
