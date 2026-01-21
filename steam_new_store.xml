@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 21 Jan 2026 10:59:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 11:30:25 +0000</lastBuildDate>
+<item>
+  <title>Lands of Ma&#x27;at（新規追加）</title>
+  <link>https://store.steampowered.com/app/3994190/</link>
+  <guid isPermaLink="false">steam-store-published-3994190</guid>
+  <pubDate>Wed, 21 Jan 2026 11:30:25 +0000</pubDate>
+  <description>Lands of Ma&#x27;at is a city-builder with automation elements which puts you in charge of building the Great Pyramid. Found and develop cities all across Ancient Egypt, manage resources and logistics, spread faith and witness one of the greatest creations in history rising right before your eyes.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994190/c15d1fdd55ee2aace49dd03c4daa51a3cbcfc76a/header.jpg?t=1768993641" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994190/c15d1fdd55ee2aace49dd03c4daa51a3cbcfc76a/header.jpg?t=1768993641" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994190/c15d1fdd55ee2aace49dd03c4daa51a3cbcfc76a/header.jpg?t=1768993641" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3994190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994190/c15d1fdd55ee2aace49dd03c4daa51a3cbcfc76a/header.jpg?t=1768993641" alt="Lands of Ma&#x27;at（新規追加）" /></a></p><p>Lands of Ma&#x27;at is a city-builder with automation elements which puts you in charge of building the Great Pyramid. Found and develop cities all across Ancient Egypt, manage resources and logistics, spread faith and witness one of the greatest creations in history rising right before your eyes.</p><p><a href="https://store.steampowered.com/app/3994190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kvarn（新規追加）</title>
   <link>https://store.steampowered.com/app/4259240/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280100/bb16c3af48682ebb90a165ef5e65d49d4be63362/header.jpg?t=1768849054" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280100/bb16c3af48682ebb90a165ef5e65d49d4be63362/header.jpg?t=1768849054" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280100/bb16c3af48682ebb90a165ef5e65d49d4be63362/header.jpg?t=1768849054" alt="Snap Game（新規追加）" /></a></p><p>A chaotic multiplayer building game where creativity and teamwork collide. Build together, experiment freely, and see what wild ideas you and your friends can create.</p><p><a href="https://store.steampowered.com/app/4280100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>x999 ball（新規追加）</title>
-  <link>https://store.steampowered.com/app/4289840/</link>
-  <guid isPermaLink="false">steam-store-published-4289840</guid>
-  <pubDate>Mon, 19 Jan 2026 19:23:22 +0000</pubDate>
-  <description>A fast-paced action game built around slingshot physics, precision, and combos. Launch your Node, bounce through enemies, protect the Core, and push your skill to hit a x999 Combo.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289840/bf522324c33ba1dbbaf61347dff59b3c376f7ff5/header.jpg?t=1768850163" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289840/bf522324c33ba1dbbaf61347dff59b3c376f7ff5/header.jpg?t=1768850163" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289840/bf522324c33ba1dbbaf61347dff59b3c376f7ff5/header.jpg?t=1768850163" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289840/bf522324c33ba1dbbaf61347dff59b3c376f7ff5/header.jpg?t=1768850163" alt="x999 ball（新規追加）" /></a></p><p>A fast-paced action game built around slingshot physics, precision, and combos. Launch your Node, bounce through enemies, protect the Core, and push your skill to hit a x999 Combo.</p><p><a href="https://store.steampowered.com/app/4289840/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
