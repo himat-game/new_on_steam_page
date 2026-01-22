@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 22 Jan 2026 21:52:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 22:19:53 +0000</lastBuildDate>
+<item>
+  <title>Echo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4346990/</link>
+  <guid isPermaLink="false">steam-store-published-4346990</guid>
+  <pubDate>Thu, 22 Jan 2026 22:19:53 +0000</pubDate>
+  <description>Marit returns to her father’s research facility expecting answers, only to uncover files he meant to share when she was “ready.” They reveal the truth: she wasn’t just his daughter — she was his project.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346990/f5b96c3b58b741189bc0309d119162df04db885a/header.jpg?t=1769117170" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346990/f5b96c3b58b741189bc0309d119162df04db885a/header.jpg?t=1769117170" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346990/f5b96c3b58b741189bc0309d119162df04db885a/header.jpg?t=1769117170" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4346990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346990/f5b96c3b58b741189bc0309d119162df04db885a/header.jpg?t=1769117170" alt="Echo（新規追加）" /></a></p><p>Marit returns to her father’s research facility expecting answers, only to uncover files he meant to share when she was “ready.” They reveal the truth: she wasn’t just his daughter — she was his project.</p><p><a href="https://store.steampowered.com/app/4346990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Orbfall Reclaim the Planet（新規追加）</title>
   <link>https://store.steampowered.com/app/4292480/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304840/48f578eed2ad84e095730e072bc9f52f0e497ce7/header.jpg?t=1768998353" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304840/48f578eed2ad84e095730e072bc9f52f0e497ce7/header.jpg?t=1768998353" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4304840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304840/48f578eed2ad84e095730e072bc9f52f0e497ce7/header.jpg?t=1768998353" alt="No Hesitation（新規追加）" /></a></p><p>No Hesitation delivers intense traffic racing in singleplayer and multiplayer modes. No brakes, no second thoughts—only skill and speed.</p><p><a href="https://store.steampowered.com/app/4304840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>JAYWALK: An Endless Arcade Hopper Game（新規追加）</title>
-  <link>https://store.steampowered.com/app/4319430/</link>
-  <guid isPermaLink="false">steam-store-published-4319430</guid>
-  <pubDate>Wed, 21 Jan 2026 12:43:17 +0000</pubDate>
-  <description>Hop, dodge, and race to the top in this endless runner inspired by Frogger! Collect coins, unlock new characters, and compete with friends in fast-paced multiplayer chaos.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319430/2f1840f226d0a585f8f270dea8f1480eba39eb64/header.jpg?t=1768998972" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319430/2f1840f226d0a585f8f270dea8f1480eba39eb64/header.jpg?t=1768998972" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319430/2f1840f226d0a585f8f270dea8f1480eba39eb64/header.jpg?t=1768998972" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4319430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319430/2f1840f226d0a585f8f270dea8f1480eba39eb64/header.jpg?t=1768998972" alt="JAYWALK: An Endless Arcade Hopper Game（新規追加）" /></a></p><p>Hop, dodge, and race to the top in this endless runner inspired by Frogger! Collect coins, unlock new characters, and compete with friends in fast-paced multiplayer chaos.</p><p><a href="https://store.steampowered.com/app/4319430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
