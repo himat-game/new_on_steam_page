@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 22 Jan 2026 10:57:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 11:26:21 +0000</lastBuildDate>
+<item>
+  <title>Roguesweeper（新規追加）</title>
+  <link>https://store.steampowered.com/app/4262140/</link>
+  <guid isPermaLink="false">steam-store-published-4262140</guid>
+  <pubDate>Thu, 22 Jan 2026 11:26:21 +0000</pubDate>
+  <description>Play an enhanced version in a rogue-like style of the famous game &amp;quot;Minesweeper&amp;quot;. Go through an infinity of levels and confront numerous dangers: dozens of types of mines, boss levels, random events and other mechanics that will spice up your run.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262140/bbf85ff19df365e52ea160a5742c4d0a7d5ed1f2/header.jpg?t=1769079488" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262140/bbf85ff19df365e52ea160a5742c4d0a7d5ed1f2/header.jpg?t=1769079488" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262140/bbf85ff19df365e52ea160a5742c4d0a7d5ed1f2/header.jpg?t=1769079488" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4262140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262140/bbf85ff19df365e52ea160a5742c4d0a7d5ed1f2/header.jpg?t=1769079488" alt="Roguesweeper（新規追加）" /></a></p><p>Play an enhanced version in a rogue-like style of the famous game &amp;quot;Minesweeper&amp;quot;. Go through an infinity of levels and confront numerous dangers: dozens of types of mines, boss levels, random events and other mechanics that will spice up your run.</p><p><a href="https://store.steampowered.com/app/4262140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>CoinPit（新規追加）</title>
   <link>https://store.steampowered.com/app/4284580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313580/5019d05f3c92a3bbc801a633005cc337a0dbd3cf/header.jpg?t=1768613781" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313580/5019d05f3c92a3bbc801a633005cc337a0dbd3cf/header.jpg?t=1768613781" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4313580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313580/5019d05f3c92a3bbc801a633005cc337a0dbd3cf/header.jpg?t=1768613781" alt="Scars of the Soul（新規追加）" /></a></p><p>The two countries went to war, unleashing forbidden powers. Years later, monsters ravage the land. The protagonist awakens, battles the monsters, explores the world, uncovers the truth of the past, and seeks to recover lost memories—a lonely journey of wandering and struggling against oneself.</p><p><a href="https://store.steampowered.com/app/4313580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Violet Impetus（新規追加）</title>
-  <link>https://store.steampowered.com/app/4289430/</link>
-  <guid isPermaLink="false">steam-store-published-4289430</guid>
-  <pubDate>Tue, 20 Jan 2026 22:20:34 +0000</pubDate>
-  <description>Violet Impetus is a bullet-hell arcade melee &#x27;em up set in a series of (lightly) procedurally-generated arenas. Drop into different biomes to rid the world of Æris—the demiurge, petrificate &amp;amp; fractured. Its other children just won&#x27;t see things eye to eye.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289430/5235201187323cc205ff94c816ee42903d860beb/header.jpg?t=1768838231" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289430/5235201187323cc205ff94c816ee42903d860beb/header.jpg?t=1768838231" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289430/5235201187323cc205ff94c816ee42903d860beb/header.jpg?t=1768838231" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289430/5235201187323cc205ff94c816ee42903d860beb/header.jpg?t=1768838231" alt="Violet Impetus（新規追加）" /></a></p><p>Violet Impetus is a bullet-hell arcade melee &#x27;em up set in a series of (lightly) procedurally-generated arenas. Drop into different biomes to rid the world of Æris—the demiurge, petrificate &amp;amp; fractured. Its other children just won&#x27;t see things eye to eye.</p><p><a href="https://store.steampowered.com/app/4289430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
