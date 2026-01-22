@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 22 Jan 2026 20:55:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 21:20:17 +0000</lastBuildDate>
+<item>
+  <title>Rogue Balls（新規追加）</title>
+  <link>https://store.steampowered.com/app/4331570/</link>
+  <guid isPermaLink="false">steam-store-published-4331570</guid>
+  <pubDate>Thu, 22 Jan 2026 21:20:17 +0000</pubDate>
+  <description>Rogue Balls is a 3D Top-Down, Bullet-Hell game, enemies will chase you and attack from a distance, use your projectiles to brutally touch them to death. Become more powerful with every level-up and survive as long as possible!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331570/54ea69130d491fe96e9e323f63604a27b208f723/header.jpg?t=1769115409" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331570/54ea69130d491fe96e9e323f63604a27b208f723/header.jpg?t=1769115409" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331570/54ea69130d491fe96e9e323f63604a27b208f723/header.jpg?t=1769115409" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4331570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331570/54ea69130d491fe96e9e323f63604a27b208f723/header.jpg?t=1769115409" alt="Rogue Balls（新規追加）" /></a></p><p>Rogue Balls is a 3D Top-Down, Bullet-Hell game, enemies will chase you and attack from a distance, use your projectiles to brutally touch them to death. Become more powerful with every level-up and survive as long as possible!</p><p><a href="https://store.steampowered.com/app/4331570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dystopian Pet Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4298400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311170/2b4591d2bf3ad743b52a5011d0319adf5633d097/header.jpg?t=1768991145" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311170/2b4591d2bf3ad743b52a5011d0319adf5633d097/header.jpg?t=1768991145" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4311170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311170/2b4591d2bf3ad743b52a5011d0319adf5633d097/header.jpg?t=1768991145" alt="FLUFF SWING（新規追加）" /></a></p><p>Stretch the thread. Swing through the air. FLUFF SWING is a 2D wire action game inspired by sewing tools. Stick needles into walls and the ground, build momentum, and swing through each stage. Set in a cute, slightly nostalgic pixel-art world, find your own rhythm and reach the goal.</p><p><a href="https://store.steampowered.com/app/4311170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Void Cargo: Equilibrium（新規追加）</title>
-  <link>https://store.steampowered.com/app/4319290/</link>
-  <guid isPermaLink="false">steam-store-published-4319290</guid>
-  <pubDate>Wed, 21 Jan 2026 10:59:00 +0000</pubDate>
-  <description>Physics-based space trucking where you fly delivery routes, balance thrust and fuel, repair systems mid-flight, and take on higher-risk jobs for bigger payouts.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319290/bb09239384078af028c9df32458a542e94eb8ed7/header.jpg?t=1768992556" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319290/bb09239384078af028c9df32458a542e94eb8ed7/header.jpg?t=1768992556" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319290/bb09239384078af028c9df32458a542e94eb8ed7/header.jpg?t=1768992556" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4319290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319290/bb09239384078af028c9df32458a542e94eb8ed7/header.jpg?t=1768992556" alt="Void Cargo: Equilibrium（新規追加）" /></a></p><p>Physics-based space trucking where you fly delivery routes, balance thrust and fuel, repair systems mid-flight, and take on higher-risk jobs for bigger payouts.</p><p><a href="https://store.steampowered.com/app/4319290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
