@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 23 Jan 2026 05:03:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 05:46:18 +0000</lastBuildDate>
+<item>
+  <title>Jarumi（新規追加）</title>
+  <link>https://store.steampowered.com/app/3933990/</link>
+  <guid isPermaLink="false">steam-store-published-3933990</guid>
+  <pubDate>Fri, 23 Jan 2026 05:46:18 +0000</pubDate>
+  <description>Play as Jarumi, a lone warrior journeying through corrupted realms to stop Halaka from claiming the world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933990/3772ce5ef27472d8ea3f54a074175d5f2cc63b7d/header.jpg?t=1769145347" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933990/3772ce5ef27472d8ea3f54a074175d5f2cc63b7d/header.jpg?t=1769145347" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933990/3772ce5ef27472d8ea3f54a074175d5f2cc63b7d/header.jpg?t=1769145347" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3933990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933990/3772ce5ef27472d8ea3f54a074175d5f2cc63b7d/header.jpg?t=1769145347" alt="Jarumi（新規追加）" /></a></p><p>Play as Jarumi, a lone warrior journeying through corrupted realms to stop Halaka from claiming the world.</p><p><a href="https://store.steampowered.com/app/3933990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Crusaders Quest : Hero Town（新規追加）</title>
   <link>https://store.steampowered.com/app/4126220/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312480/a6080e3edc2229b4883637ccc7ffe0c32c0ba88b/header.jpg?t=1769017828" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312480/a6080e3edc2229b4883637ccc7ffe0c32c0ba88b/header.jpg?t=1769017828" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4312480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312480/a6080e3edc2229b4883637ccc7ffe0c32c0ba88b/header.jpg?t=1769017828" alt="RP2D（新規追加）" /></a></p><p>RP2D is a 2D virtual tabletop for RPGs. Drop maps, move tokens, reveal fog, layer dynamic weather, stream audio, and keep every session flowing online for GMs and players.</p><p><a href="https://store.steampowered.com/app/4312480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SILK - A Leo Parker Adventure（新規追加）</title>
-  <link>https://store.steampowered.com/app/3868860/</link>
-  <guid isPermaLink="false">steam-store-published-3868860</guid>
-  <pubDate>Wed, 21 Jan 2026 18:38:55 +0000</pubDate>
-  <description>Join Leo Parker in 1917 China to unravel a mystery tied to a lost Ming empress. Part puzzle, part adventure, part graphic novel, Silk features hand-drawn art, rich storytelling, 50+ puzzles, and an intuitive hint system.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868860/0311bde13380ab8da86c84bd09355e0641e1fe01/header.jpg?t=1769019102" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868860/0311bde13380ab8da86c84bd09355e0641e1fe01/header.jpg?t=1769019102" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868860/0311bde13380ab8da86c84bd09355e0641e1fe01/header.jpg?t=1769019102" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3868860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868860/0311bde13380ab8da86c84bd09355e0641e1fe01/header.jpg?t=1769019102" alt="SILK - A Leo Parker Adventure（新規追加）" /></a></p><p>Join Leo Parker in 1917 China to unravel a mystery tied to a lost Ming empress. Part puzzle, part adventure, part graphic novel, Silk features hand-drawn art, rich storytelling, 50+ puzzles, and an intuitive hint system.</p><p><a href="https://store.steampowered.com/app/3868860/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
