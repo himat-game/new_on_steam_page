@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 23 Jan 2026 21:51:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 22:16:03 +0000</lastBuildDate>
+<item>
+  <title>Fish Lab（新規追加）</title>
+  <link>https://store.steampowered.com/app/4221990/</link>
+  <guid isPermaLink="false">steam-store-published-4221990</guid>
+  <pubDate>Fri, 23 Jan 2026 22:16:03 +0000</pubDate>
+  <description>A short incremental game where you collect fish for your lab. Upgrade by making discoveries and writing grants.  Synced to music.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/dcbb43f81e7d2bf1d7c89438c34195cbe45b38b1/header.jpg?t=1769205853" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/dcbb43f81e7d2bf1d7c89438c34195cbe45b38b1/header.jpg?t=1769205853" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/dcbb43f81e7d2bf1d7c89438c34195cbe45b38b1/header.jpg?t=1769205853" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221990/dcbb43f81e7d2bf1d7c89438c34195cbe45b38b1/header.jpg?t=1769205853" alt="Fish Lab（新規追加）" /></a></p><p>A short incremental game where you collect fish for your lab. Upgrade by making discoveries and writing grants.  Synced to music.</p><p><a href="https://store.steampowered.com/app/4221990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>蜃境（新規追加）</title>
   <link>https://store.steampowered.com/app/4249800/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330160/87ef1d60de221bc582399e1ab919d2cd98f80ec1/header.jpg?t=1769051785" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330160/87ef1d60de221bc582399e1ab919d2cd98f80ec1/header.jpg?t=1769051785" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4330160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330160/87ef1d60de221bc582399e1ab919d2cd98f80ec1/header.jpg?t=1769051785" alt="Oops… That Wasn’t in the Script（新規追加）" /></a></p><p>A snarky narrator, a chaos meter, and your new roommate Mia. Every tiny choice snowballs into bigger messes, sharper banter, and unexpected flirtation. Keep it together—or let the script burn for the laughs.</p><p><a href="https://store.steampowered.com/app/4330160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fog（新規追加）</title>
-  <link>https://store.steampowered.com/app/4302730/</link>
-  <guid isPermaLink="false">steam-store-published-4302730</guid>
-  <pubDate>Thu, 22 Jan 2026 05:47:36 +0000</pubDate>
-  <description>Survive in a city shrouded in dense fog. A fog that steals your vision. Scarce supplies. Unknown entities lurking beyond sight. This is not a game about fighting — it is a game about survival.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302730/d881915f0f8247023f02d1b19c1756c1087624cc/header.jpg?t=1769058480" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302730/d881915f0f8247023f02d1b19c1756c1087624cc/header.jpg?t=1769058480" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302730/d881915f0f8247023f02d1b19c1756c1087624cc/header.jpg?t=1769058480" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4302730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302730/d881915f0f8247023f02d1b19c1756c1087624cc/header.jpg?t=1769058480" alt="Fog（新規追加）" /></a></p><p>Survive in a city shrouded in dense fog. A fog that steals your vision. Scarce supplies. Unknown entities lurking beyond sight. This is not a game about fighting — it is a game about survival.</p><p><a href="https://store.steampowered.com/app/4302730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
