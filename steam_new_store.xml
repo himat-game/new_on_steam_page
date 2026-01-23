@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 23 Jan 2026 16:27:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 17:00:34 +0000</lastBuildDate>
+<item>
+  <title>Help Is On The Way（新規追加）</title>
+  <link>https://store.steampowered.com/app/4336450/</link>
+  <guid isPermaLink="false">steam-store-published-4336450</guid>
+  <pubDate>Fri, 23 Jan 2026 17:00:34 +0000</pubDate>
+  <description>Guide a coworker through a hostile mining facility using a malfunctioning security terminal. Finish the day’s jobs, avoid a deadly alien, and survive long enough for the escape pod to launch.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4336450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" alt="Help Is On The Way（新規追加）" /></a></p><p>Guide a coworker through a hostile mining facility using a malfunctioning security terminal. Finish the day’s jobs, avoid a deadly alien, and survive long enough for the escape pod to launch.</p><p><a href="https://store.steampowered.com/app/4336450/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cognitive Fracture（新規追加）</title>
   <link>https://store.steampowered.com/app/4326180/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725480/9a80b014ce486cfc2c0c9fea5fc1f9005c4bc8ec/header.jpg?t=1769040808" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725480/9a80b014ce486cfc2c0c9fea5fc1f9005c4bc8ec/header.jpg?t=1769040808" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3725480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725480/9a80b014ce486cfc2c0c9fea5fc1f9005c4bc8ec/header.jpg?t=1769040808" alt="Square Colosseum: Cell B201（新規追加）" /></a></p><p>A roguelite deck-building strategy game set in a brutal arena. Conquer it by building your deck, furnishing the cell B201, cooking meals, brewing liquor, hatching monster companions, and personally providing labor to strengthen your path to victory.</p><p><a href="https://store.steampowered.com/app/3725480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Husk of Axiom（新規追加）</title>
-  <link>https://store.steampowered.com/app/4348010/</link>
-  <guid isPermaLink="false">steam-store-published-4348010</guid>
-  <pubDate>Thu, 22 Jan 2026 01:28:41 +0000</pubDate>
-  <description>Husk of Axiom is a 2.5D turn-based psychological RPG, where human belief gives life to magic and monsters. As a secretive organization tries to erase pain from the world, a small party of unlikely heroes has to save reality by preserving not perfection, but the imperfect humanity that gives it life.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348010/d7623dee2580f7fa38155e7568931cd80169d73a/header.jpg?t=1769042152" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348010/d7623dee2580f7fa38155e7568931cd80169d73a/header.jpg?t=1769042152" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348010/d7623dee2580f7fa38155e7568931cd80169d73a/header.jpg?t=1769042152" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4348010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348010/d7623dee2580f7fa38155e7568931cd80169d73a/header.jpg?t=1769042152" alt="Husk of Axiom（新規追加）" /></a></p><p>Husk of Axiom is a 2.5D turn-based psychological RPG, where human belief gives life to magic and monsters. As a secretive organization tries to erase pain from the world, a small party of unlikely heroes has to save reality by preserving not perfection, but the imperfect humanity that gives it life.</p><p><a href="https://store.steampowered.com/app/4348010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
