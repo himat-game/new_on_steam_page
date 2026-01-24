@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 24 Jan 2026 13:17:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 13:44:41 +0000</lastBuildDate>
+<item>
+  <title>Mine Liebe Musik 1（新規追加）</title>
+  <link>https://store.steampowered.com/app/4304360/</link>
+  <guid isPermaLink="false">steam-store-published-4304360</guid>
+  <pubDate>Sat, 24 Jan 2026 13:44:41 +0000</pubDate>
+  <description>A sci-fi adventure where Danmaku action and irony collide. The protagonist fights through Danmaku battles and choices, surviving a dog-eat-dog world with cynicism.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304360/3981c07ef837592e860cd2a246f3af6a81bf7753/header.jpg?t=1769261161" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304360/3981c07ef837592e860cd2a246f3af6a81bf7753/header.jpg?t=1769261161" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304360/3981c07ef837592e860cd2a246f3af6a81bf7753/header.jpg?t=1769261161" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4304360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304360/3981c07ef837592e860cd2a246f3af6a81bf7753/header.jpg?t=1769261161" alt="Mine Liebe Musik 1（新規追加）" /></a></p><p>A sci-fi adventure where Danmaku action and irony collide. The protagonist fights through Danmaku battles and choices, surviving a dog-eat-dog world with cynicism.</p><p><a href="https://store.steampowered.com/app/4304360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Critternauts（新規追加）</title>
   <link>https://store.steampowered.com/app/4320550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311240/3e65aca9c9b276d77ca00086692e58e726814a53/header.jpg?t=1769090270" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311240/3e65aca9c9b276d77ca00086692e58e726814a53/header.jpg?t=1769090270" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4311240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311240/3e65aca9c9b276d77ca00086692e58e726814a53/header.jpg?t=1769090270" alt="Big Adventure: Trip to Europe 10 - Collector&#x27;s Edition（新規追加）" /></a></p><p>Explore famous sights and picturesque landscapes of Europe! Hidden objects, mini-games, and unique souvenirs make every journey unforgettable.</p><p><a href="https://store.steampowered.com/app/4311240/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>永生镇/Everliving Town（新規追加）</title>
-  <link>https://store.steampowered.com/app/4320560/</link>
-  <guid isPermaLink="false">steam-store-published-4320560</guid>
-  <pubDate>Thu, 22 Jan 2026 15:00:18 +0000</pubDate>
-  <description>In a town of exactly 245 residents, every breath is a subtraction. A narrative experience blending Gothic hand-drawn art and natural history puzzles. Waking into a world of &amp;quot;domestic bliss&amp;quot; as thick as a fungal bloom, will you submit to the morbid order, or shatter the balance?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320560/61dd934de169ae93523ef1b323a2a2b68fddf80c/header.jpg?t=1769089686" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320560/61dd934de169ae93523ef1b323a2a2b68fddf80c/header.jpg?t=1769089686" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320560/61dd934de169ae93523ef1b323a2a2b68fddf80c/header.jpg?t=1769089686" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4320560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320560/61dd934de169ae93523ef1b323a2a2b68fddf80c/header.jpg?t=1769089686" alt="永生镇/Everliving Town（新規追加）" /></a></p><p>In a town of exactly 245 residents, every breath is a subtraction. A narrative experience blending Gothic hand-drawn art and natural history puzzles. Waking into a world of &amp;quot;domestic bliss&amp;quot; as thick as a fungal bloom, will you submit to the morbid order, or shatter the balance?</p><p><a href="https://store.steampowered.com/app/4320560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
