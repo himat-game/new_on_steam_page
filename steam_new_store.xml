@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 24 Jan 2026 10:19:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 10:41:53 +0000</lastBuildDate>
+<item>
+  <title>Cirno! Lifts a Boulder（新規追加）</title>
+  <link>https://store.steampowered.com/app/4173110/</link>
+  <guid isPermaLink="false">steam-store-published-4173110</guid>
+  <pubDate>Sat, 24 Jan 2026 10:41:53 +0000</pubDate>
+  <description>Help Cirno get back into her home! A chill, bite-sized 3D platformer in which you explore a frozen Misty Lake and gain boulder-lifting strength.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173110/c355817e79408ee4b2962d6ed61eec5d97b73884/header.jpg?t=1769250500" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173110/c355817e79408ee4b2962d6ed61eec5d97b73884/header.jpg?t=1769250500" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173110/c355817e79408ee4b2962d6ed61eec5d97b73884/header.jpg?t=1769250500" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4173110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173110/c355817e79408ee4b2962d6ed61eec5d97b73884/header.jpg?t=1769250500" alt="Cirno! Lifts a Boulder（新規追加）" /></a></p><p>Help Cirno get back into her home! A chill, bite-sized 3D platformer in which you explore a frozen Misty Lake and gain boulder-lifting strength.</p><p><a href="https://store.steampowered.com/app/4173110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bingo Roulette（新規追加）</title>
   <link>https://store.steampowered.com/app/4297940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129270/a6b70179265c207be87660a70229a7922c337be8/header.jpg?t=1769087926" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129270/a6b70179265c207be87660a70229a7922c337be8/header.jpg?t=1769087926" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4129270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129270/a6b70179265c207be87660a70229a7922c337be8/header.jpg?t=1769087926" alt="Tactus（新規追加）" /></a></p><p>A rhythm-based dungeon crawler with authentic retro charm. Explore mysterious ruins, find powerful weapons, and slay to the beat. Designed and built for the original NES, playable on Steam with modern enhancements.</p><p><a href="https://store.steampowered.com/app/4129270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GTJ: Grand Theft Japan（新規追加）</title>
-  <link>https://store.steampowered.com/app/4236790/</link>
-  <guid isPermaLink="false">steam-store-published-4236790</guid>
-  <pubDate>Thu, 22 Jan 2026 13:44:17 +0000</pubDate>
-  <description>Grand Theft Japan is a tribute to GTA and Yakuza, set in Japan. Featuring stories inspired by real events: soaring rice prices, roaming bears, yakuza clans, otaku culture, and shocking political incidents.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236790/88f369c5c030e28f16595007942cfd1b3b8706ad/header.jpg?t=1769087407" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236790/88f369c5c030e28f16595007942cfd1b3b8706ad/header.jpg?t=1769087407" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236790/88f369c5c030e28f16595007942cfd1b3b8706ad/header.jpg?t=1769087407" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236790/88f369c5c030e28f16595007942cfd1b3b8706ad/header.jpg?t=1769087407" alt="GTJ: Grand Theft Japan（新規追加）" /></a></p><p>Grand Theft Japan is a tribute to GTA and Yakuza, set in Japan. Featuring stories inspired by real events: soaring rice prices, roaming bears, yakuza clans, otaku culture, and shocking political incidents.</p><p><a href="https://store.steampowered.com/app/4236790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
