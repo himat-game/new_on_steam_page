@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 24 Jan 2026 14:17:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 14:51:47 +0000</lastBuildDate>
+<item>
+  <title>Merchanteer（新規追加）</title>
+  <link>https://store.steampowered.com/app/4266510/</link>
+  <guid isPermaLink="false">steam-store-published-4266510</guid>
+  <pubDate>Sat, 24 Jan 2026 14:51:47 +0000</pubDate>
+  <description>Set sail in the Southern Isles, where every action shapes the world around you. Trade cargo in a living economy alongside NPC merchants, build and customize ships, forge friendships or rivalries, defend or liberate ports from pirate control, and explore hand-crafted islands.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266510/34a532a452d5d0669146270001181c2d6ab11b65/header.jpg?t=1769265426" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266510/34a532a452d5d0669146270001181c2d6ab11b65/header.jpg?t=1769265426" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266510/34a532a452d5d0669146270001181c2d6ab11b65/header.jpg?t=1769265426" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4266510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266510/34a532a452d5d0669146270001181c2d6ab11b65/header.jpg?t=1769265426" alt="Merchanteer（新規追加）" /></a></p><p>Set sail in the Southern Isles, where every action shapes the world around you. Trade cargo in a living economy alongside NPC merchants, build and customize ships, forge friendships or rivalries, defend or liberate ports from pirate control, and explore hand-crafted islands.</p><p><a href="https://store.steampowered.com/app/4266510/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>REliC（新規追加）</title>
   <link>https://store.steampowered.com/app/4275470/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970110/c16d27cd06c4bce3e92790e5ef000451430a38a6/header.jpg?t=1769095226" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970110/c16d27cd06c4bce3e92790e5ef000451430a38a6/header.jpg?t=1769095226" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3970110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970110/c16d27cd06c4bce3e92790e5ef000451430a38a6/header.jpg?t=1769095226" alt="Snooker Blitz（新規追加）" /></a></p><p>Step into competitive online Snooker. Challenge global opponents in real-time 1v1 matches and tournaments where accurate physics and smooth controls reward smart shots and steady aim. Whether you’re a seasoned snooker player or new to the sport, the table is waiting for you!</p><p><a href="https://store.steampowered.com/app/3970110/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>CPU Invaders - Aim Hero（新規追加）</title>
-  <link>https://store.steampowered.com/app/4322050/</link>
-  <guid isPermaLink="false">steam-store-published-4322050</guid>
-  <pubDate>Thu, 22 Jan 2026 15:40:15 +0000</pubDate>
-  <description>A sequel to the Steam Awards finalist, this time, the invasion isn’t here to destroy your PC, it’s here to train you! Your desktop becomes a live reflex arena with targets, traps and challenges. Interact with your desktop while playing, watch Youtube videos, chat with your friends and more!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322050/8173c44aba7b73dbdf76f4c4d6f1eda0be4bd65a/header.jpg?t=1768584165" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322050/8173c44aba7b73dbdf76f4c4d6f1eda0be4bd65a/header.jpg?t=1768584165" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322050/8173c44aba7b73dbdf76f4c4d6f1eda0be4bd65a/header.jpg?t=1768584165" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4322050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322050/8173c44aba7b73dbdf76f4c4d6f1eda0be4bd65a/header.jpg?t=1768584165" alt="CPU Invaders - Aim Hero（新規追加）" /></a></p><p>A sequel to the Steam Awards finalist, this time, the invasion isn’t here to destroy your PC, it’s here to train you! Your desktop becomes a live reflex arena with targets, traps and challenges. Interact with your desktop while playing, watch Youtube videos, chat with your friends and more!</p><p><a href="https://store.steampowered.com/app/4322050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
