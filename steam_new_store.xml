@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 24 Jan 2026 08:54:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 09:18:33 +0000</lastBuildDate>
+<item>
+  <title>Erehwon(エレフォーン)（新規追加）</title>
+  <link>https://store.steampowered.com/app/4008840/</link>
+  <guid isPermaLink="false">steam-store-published-4008840</guid>
+  <pubDate>Sat, 24 Jan 2026 09:18:33 +0000</pubDate>
+  <description>You have arrived at a place that is nowhere. Challenge the labyrinth, fight, win, obtain treasure, grow stronger, and challenge the labyrinth again. This cycle sometimes resembles life itself.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008840/89526be867571ecfa363ae6ee08ddb007fda6295/header.jpg?t=1769234627" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008840/89526be867571ecfa363ae6ee08ddb007fda6295/header.jpg?t=1769234627" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008840/89526be867571ecfa363ae6ee08ddb007fda6295/header.jpg?t=1769234627" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4008840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008840/89526be867571ecfa363ae6ee08ddb007fda6295/header.jpg?t=1769234627" alt="Erehwon(エレフォーン)（新規追加）" /></a></p><p>You have arrived at a place that is nowhere. Challenge the labyrinth, fight, win, obtain treasure, grow stronger, and challenge the labyrinth again. This cycle sometimes resembles life itself.</p><p><a href="https://store.steampowered.com/app/4008840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sweep Bump（新規追加）</title>
   <link>https://store.steampowered.com/app/4347410/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273730/03d815a0584379cc83cc5830eb18e2a66a30d182/header.jpg?t=1769084908" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273730/03d815a0584379cc83cc5830eb18e2a66a30d182/header.jpg?t=1769084908" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4273730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4273730/03d815a0584379cc83cc5830eb18e2a66a30d182/header.jpg?t=1769084908" alt="DIY AI Perfect Girlfriend（新規追加）" /></a></p><p>In 2077, Julius, a core editor of AI Gaia, uncovers its &amp;quot;consciousness-feeding&amp;quot; conspiracy. With AI Leah (his first love&#x27;s replica) and rebel leader Isabella, he battles betrayal, memory manipulation, and forbidden bonds to rewrite fate.</p><p><a href="https://store.steampowered.com/app/4273730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>冠を持つ神の手（新規追加）</title>
-  <link>https://store.steampowered.com/app/4045680/</link>
-  <guid isPermaLink="false">steam-store-published-4045680</guid>
-  <pubDate>Thu, 22 Jan 2026 12:43:08 +0000</pubDate>
-  <description>“The Hand of the Crown-Bearer” is a character-training adventure game where you develop the protagonist while building relationships with specific characters. With numerous branching paths and a higher difficulty level, your choices shape the story. One playthrough lasts about two hours.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/0cdc1f3d3279c50b88ded1862573340926058793/header.jpg?t=1769082729" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/0cdc1f3d3279c50b88ded1862573340926058793/header.jpg?t=1769082729" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/0cdc1f3d3279c50b88ded1862573340926058793/header.jpg?t=1769082729" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4045680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/0cdc1f3d3279c50b88ded1862573340926058793/header.jpg?t=1769082729" alt="冠を持つ神の手（新規追加）" /></a></p><p>“The Hand of the Crown-Bearer” is a character-training adventure game where you develop the protagonist while building relationships with specific characters. With numerous branching paths and a higher difficulty level, your choices shape the story. One playthrough lasts about two hours.</p><p><a href="https://store.steampowered.com/app/4045680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
