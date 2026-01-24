@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 24 Jan 2026 09:50:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 10:19:09 +0000</lastBuildDate>
+<item>
+  <title>Bingo Roulette（新規追加）</title>
+  <link>https://store.steampowered.com/app/4297940/</link>
+  <guid isPermaLink="false">steam-store-published-4297940</guid>
+  <pubDate>Sat, 24 Jan 2026 10:19:09 +0000</pubDate>
+  <description>Bingo Roulette is a casual strategy puzzle game where you select slots on a bingo board to earn points and complete bingos to collect bonus scores.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297940/bb8f3e06fdca6e2864204b93493afeaee2846d5d/header.jpg?t=1769249454" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297940/bb8f3e06fdca6e2864204b93493afeaee2846d5d/header.jpg?t=1769249454" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297940/bb8f3e06fdca6e2864204b93493afeaee2846d5d/header.jpg?t=1769249454" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4297940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297940/bb8f3e06fdca6e2864204b93493afeaee2846d5d/header.jpg?t=1769249454" alt="Bingo Roulette（新規追加）" /></a></p><p>Bingo Roulette is a casual strategy puzzle game where you select slots on a bingo board to earn points and complete bingos to collect bonus scores.</p><p><a href="https://store.steampowered.com/app/4297940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pixel Pal: Desktop Pet（新規追加）</title>
   <link>https://store.steampowered.com/app/4347160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236790/88f369c5c030e28f16595007942cfd1b3b8706ad/header.jpg?t=1769087407" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236790/88f369c5c030e28f16595007942cfd1b3b8706ad/header.jpg?t=1769087407" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4236790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4236790/88f369c5c030e28f16595007942cfd1b3b8706ad/header.jpg?t=1769087407" alt="GTJ: Grand Theft Japan（新規追加）" /></a></p><p>Grand Theft Japan is a tribute to GTA and Yakuza, set in Japan. Featuring stories inspired by real events: soaring rice prices, roaming bears, yakuza clans, otaku culture, and shocking political incidents.</p><p><a href="https://store.steampowered.com/app/4236790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Paint Pals（新規追加）</title>
-  <link>https://store.steampowered.com/app/3987960/</link>
-  <guid isPermaLink="false">steam-store-published-3987960</guid>
-  <pubDate>Thu, 22 Jan 2026 13:44:17 +0000</pubDate>
-  <description>Pick up a paint roller and bring pixel art to life in this cozy local co-op coloring game. Roll across canvases and watch beautiful scenes come to life.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987960/41944b005b6ae1049713a347c5b432f81d1cb8a6/header.jpg?t=1769088130" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987960/41944b005b6ae1049713a347c5b432f81d1cb8a6/header.jpg?t=1769088130" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987960/41944b005b6ae1049713a347c5b432f81d1cb8a6/header.jpg?t=1769088130" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3987960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987960/41944b005b6ae1049713a347c5b432f81d1cb8a6/header.jpg?t=1769088130" alt="Paint Pals（新規追加）" /></a></p><p>Pick up a paint roller and bring pixel art to life in this cozy local co-op coloring game. Roll across canvases and watch beautiful scenes come to life.</p><p><a href="https://store.steampowered.com/app/3987960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
