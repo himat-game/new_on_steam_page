@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 23 Jan 2026 22:52:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Jan 2026 23:51:34 +0000</lastBuildDate>
+<item>
+  <title>Sugar Shatter（新規追加）</title>
+  <link>https://store.steampowered.com/app/4275860/</link>
+  <guid isPermaLink="false">steam-store-published-4275860</guid>
+  <pubDate>Fri, 23 Jan 2026 23:51:34 +0000</pubDate>
+  <description>Smash through your competition in Sugar Shatter, a breakout fighting game where you have to hit a candy ball to break more bricks than your opponent. Meet a variety of characters in campaign mode, or challenge your friends to a test of skill with local multiplayer versus mode!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275860/3c2720fb40df6f501f80f9bd9b4a78a269a26139/header.jpg?t=1769211343" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275860/3c2720fb40df6f501f80f9bd9b4a78a269a26139/header.jpg?t=1769211343" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275860/3c2720fb40df6f501f80f9bd9b4a78a269a26139/header.jpg?t=1769211343" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275860/3c2720fb40df6f501f80f9bd9b4a78a269a26139/header.jpg?t=1769211343" alt="Sugar Shatter（新規追加）" /></a></p><p>Smash through your competition in Sugar Shatter, a breakout fighting game where you have to hit a candy ball to break more bricks than your opponent. Meet a variety of characters in campaign mode, or challenge your friends to a test of skill with local multiplayer versus mode!</p><p><a href="https://store.steampowered.com/app/4275860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BLOODSAINT 2（新規追加）</title>
   <link>https://store.steampowered.com/app/4187540/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345580/e5b0e463385079e859cc07acdc4d5a13869ce6be/header.jpg?t=1769063867" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345580/e5b0e463385079e859cc07acdc4d5a13869ce6be/header.jpg?t=1769063867" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4345580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345580/e5b0e463385079e859cc07acdc4d5a13869ce6be/header.jpg?t=1769063867" alt="Afterclass: A High School Adventure（新規追加）" /></a></p><p>Afterclass is an adventure-simulation RPG where the final bell is just the beginning. Roam the campus, meet delightfully weird students, spark ridiculous quests, flirt irresponsibly, and watch perfectly normal school days spiral into glorious after-school chaos.</p><p><a href="https://store.steampowered.com/app/4345580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Verdict of Desire（新規追加）</title>
-  <link>https://store.steampowered.com/app/4325970/</link>
-  <guid isPermaLink="false">steam-store-published-4325970</guid>
-  <pubDate>Thu, 22 Jan 2026 07:02:17 +0000</pubDate>
-  <description>Verdict of Desire is a candid visual novel for adults. A routine hearing on a speeding case in a small town court turns into a story of forbidden passion and a sudden explosion of desire between the judge and the defendant.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325970/a3290781aa5c6549208648efb2c03e1860cb118e/header.jpg?t=1769065017" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325970/a3290781aa5c6549208648efb2c03e1860cb118e/header.jpg?t=1769065017" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325970/a3290781aa5c6549208648efb2c03e1860cb118e/header.jpg?t=1769065017" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4325970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325970/a3290781aa5c6549208648efb2c03e1860cb118e/header.jpg?t=1769065017" alt="Verdict of Desire（新規追加）" /></a></p><p>Verdict of Desire is a candid visual novel for adults. A routine hearing on a speeding case in a small town court turns into a story of forbidden passion and a sudden explosion of desire between the judge and the defendant.</p><p><a href="https://store.steampowered.com/app/4325970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
