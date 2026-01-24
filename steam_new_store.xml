@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 24 Jan 2026 05:41:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 06:28:12 +0000</lastBuildDate>
+<item>
+  <title>Hentai Age SCI-FI（新規追加）</title>
+  <link>https://store.steampowered.com/app/4337450/</link>
+  <guid isPermaLink="false">steam-store-published-4337450</guid>
+  <pubDate>Sat, 24 Jan 2026 06:28:12 +0000</pubDate>
+  <description>A magical, relaxing puzzle game where you arrange tiles to reveal stunning artwork of lovely girls, enjoy calming music, and progress through increasingly challenging levels at your own pace.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337450/115c2273e797d60f7a7a00e11131753f44bf516b/header.jpg?t=1769234484" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337450/115c2273e797d60f7a7a00e11131753f44bf516b/header.jpg?t=1769234484" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337450/115c2273e797d60f7a7a00e11131753f44bf516b/header.jpg?t=1769234484" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4337450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337450/115c2273e797d60f7a7a00e11131753f44bf516b/header.jpg?t=1769234484" alt="Hentai Age SCI-FI（新規追加）" /></a></p><p>A magical, relaxing puzzle game where you arrange tiles to reveal stunning artwork of lovely girls, enjoy calming music, and progress through increasingly challenging levels at your own pace.</p><p><a href="https://store.steampowered.com/app/4337450/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Capy&#x27;s Hot Springs Haven（新規追加）</title>
   <link>https://store.steampowered.com/app/4298770/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313350/f437e202f7fa022311ec3930dbc8593c1b5412e2/header.jpg?t=1769077030" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313350/f437e202f7fa022311ec3930dbc8593c1b5412e2/header.jpg?t=1769077030" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4313350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313350/f437e202f7fa022311ec3930dbc8593c1b5412e2/header.jpg?t=1769077030" alt="Fallen Dominion（新規追加）" /></a></p><p>Assemble your ultimate army and survive endless waves in this 3D PvE auto-battler. Combine unique synergies, draft powerful rogue-lite cards, and equip legendary items to defeat massive bosses. Every run offers a new strategy as you develop your squad from fresh recruits into god-like warriors.</p><p><a href="https://store.steampowered.com/app/4313350/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Vanguard Expanse 4065（新規追加）</title>
-  <link>https://store.steampowered.com/app/4332460/</link>
-  <guid isPermaLink="false">steam-store-published-4332460</guid>
-  <pubDate>Thu, 22 Jan 2026 10:57:51 +0000</pubDate>
-  <description>Command humanity&#x27;s last hope in a deep incremental strategy RPG. Features a procedurally evolving universe with 1,000+ dynamic commodities, infinite loot tables, and massive fleet battles. Build from a single drone to Dyson Spheres. Will you save humanity or rule the ashes?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332460/3522eb5b35d5ab51875aa116459cb5657b2c5fcd/header.jpg?t=1769077361" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332460/3522eb5b35d5ab51875aa116459cb5657b2c5fcd/header.jpg?t=1769077361" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332460/3522eb5b35d5ab51875aa116459cb5657b2c5fcd/header.jpg?t=1769077361" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4332460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332460/3522eb5b35d5ab51875aa116459cb5657b2c5fcd/header.jpg?t=1769077361" alt="The Vanguard Expanse 4065（新規追加）" /></a></p><p>Command humanity&#x27;s last hope in a deep incremental strategy RPG. Features a procedurally evolving universe with 1,000+ dynamic commodities, infinite loot tables, and massive fleet battles. Build from a single drone to Dyson Spheres. Will you save humanity or rule the ashes?</p><p><a href="https://store.steampowered.com/app/4332460/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
