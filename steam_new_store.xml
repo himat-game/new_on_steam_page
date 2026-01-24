@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 24 Jan 2026 14:51:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 15:17:47 +0000</lastBuildDate>
+<item>
+  <title>Meow with Pipeline（新規追加）</title>
+  <link>https://store.steampowered.com/app/4298430/</link>
+  <guid isPermaLink="false">steam-store-published-4298430</guid>
+  <pubDate>Sat, 24 Jan 2026 15:17:47 +0000</pubDate>
+  <description>Meow with Pipeline: a precision pixel platformer with rogue-like challenges. Guide a cat through dangerous pipe networks—run, jump, dodge traps and master tough platforming. Tight controls and skill-based progression make every victory satisfyingly earned.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298430/0408044b40fc8ce67941b4ac53999bbda4b00fba/header.jpg?t=1769267737" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298430/0408044b40fc8ce67941b4ac53999bbda4b00fba/header.jpg?t=1769267737" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298430/0408044b40fc8ce67941b4ac53999bbda4b00fba/header.jpg?t=1769267737" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4298430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298430/0408044b40fc8ce67941b4ac53999bbda4b00fba/header.jpg?t=1769267737" alt="Meow with Pipeline（新規追加）" /></a></p><p>Meow with Pipeline: a precision pixel platformer with rogue-like challenges. Guide a cat through dangerous pipe networks—run, jump, dodge traps and master tough platforming. Tight controls and skill-based progression make every victory satisfyingly earned.</p><p><a href="https://store.steampowered.com/app/4298430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Trash Cash（新規追加）</title>
+  <link>https://store.steampowered.com/app/4336200/</link>
+  <guid isPermaLink="false">steam-store-published-4336200</guid>
+  <pubDate>Sat, 24 Jan 2026 15:17:47 +0000</pubDate>
+  <description>In Trash Cash, you don’t just run a waste management company—you rule a kingdom of filth where your bottom line is measured by how many pockets you’re willing to line. Manage your fleet, your employees and bribe whoever you need to to make all the cash you can from your trash.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336200/7afb2d3e91f5cc71ff523494c27f3c934825e269/header.jpg?t=1769266672" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336200/7afb2d3e91f5cc71ff523494c27f3c934825e269/header.jpg?t=1769266672" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336200/7afb2d3e91f5cc71ff523494c27f3c934825e269/header.jpg?t=1769266672" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4336200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336200/7afb2d3e91f5cc71ff523494c27f3c934825e269/header.jpg?t=1769266672" alt="Trash Cash（新規追加）" /></a></p><p>In Trash Cash, you don’t just run a waste management company—you rule a kingdom of filth where your bottom line is measured by how many pockets you’re willing to line. Manage your fleet, your employees and bribe whoever you need to to make all the cash you can from your trash.</p><p><a href="https://store.steampowered.com/app/4336200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Merchanteer（新規追加）</title>
   <link>https://store.steampowered.com/app/4266510/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332910/53851eac63ef27e934909c51008321636eafb56c/header.jpg?t=1769099337" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332910/53851eac63ef27e934909c51008321636eafb56c/header.jpg?t=1769099337" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4332910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332910/53851eac63ef27e934909c51008321636eafb56c/header.jpg?t=1769099337" alt="Blindshot Arena（新規追加）" /></a></p><p>Can’t see your enemies? Lucky you — they can’t see you either. Blind shots, pure panic, and one question: will you hit them first?</p><p><a href="https://store.steampowered.com/app/4332910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Space Thrusters（新規追加）</title>
-  <link>https://store.steampowered.com/app/4325020/</link>
-  <guid isPermaLink="false">steam-store-published-4325020</guid>
-  <pubDate>Thu, 22 Jan 2026 16:54:08 +0000</pubDate>
-  <description>Space Thrusters is a physics puzzle game where you plan the perfect route through enemy ship vents. Guide a bomb through tight spaces to trigger satisfying, cinematic explosions! The stakes are high: you must visualize your exit before you enter. Unravel the secrets of space—one detonation at a time</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325020/edaa73d03ac229c50aa2f8040388ba050ab31aef/header.jpg?t=1769096217" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325020/edaa73d03ac229c50aa2f8040388ba050ab31aef/header.jpg?t=1769096217" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325020/edaa73d03ac229c50aa2f8040388ba050ab31aef/header.jpg?t=1769096217" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4325020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325020/edaa73d03ac229c50aa2f8040388ba050ab31aef/header.jpg?t=1769096217" alt="Space Thrusters（新規追加）" /></a></p><p>Space Thrusters is a physics puzzle game where you plan the perfect route through enemy ship vents. Guide a bomb through tight spaces to trigger satisfying, cinematic explosions! The stakes are high: you must visualize your exit before you enter. Unravel the secrets of space—one detonation at a time</p><p><a href="https://store.steampowered.com/app/4325020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Snooker Blitz（新規追加）</title>
-  <link>https://store.steampowered.com/app/3970110/</link>
-  <guid isPermaLink="false">steam-store-published-3970110</guid>
-  <pubDate>Thu, 22 Jan 2026 16:00:53 +0000</pubDate>
-  <description>Step into competitive online Snooker. Challenge global opponents in real-time 1v1 matches and tournaments where accurate physics and smooth controls reward smart shots and steady aim. Whether you’re a seasoned snooker player or new to the sport, the table is waiting for you!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970110/c16d27cd06c4bce3e92790e5ef000451430a38a6/header.jpg?t=1769095226" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970110/c16d27cd06c4bce3e92790e5ef000451430a38a6/header.jpg?t=1769095226" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970110/c16d27cd06c4bce3e92790e5ef000451430a38a6/header.jpg?t=1769095226" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3970110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3970110/c16d27cd06c4bce3e92790e5ef000451430a38a6/header.jpg?t=1769095226" alt="Snooker Blitz（新規追加）" /></a></p><p>Step into competitive online Snooker. Challenge global opponents in real-time 1v1 matches and tournaments where accurate physics and smooth controls reward smart shots and steady aim. Whether you’re a seasoned snooker player or new to the sport, the table is waiting for you!</p><p><a href="https://store.steampowered.com/app/3970110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
