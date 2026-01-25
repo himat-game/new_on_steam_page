@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 05:54:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 06:28:02 +0000</lastBuildDate>
+<item>
+  <title>Dreamwrought（新規追加）</title>
+  <link>https://store.steampowered.com/app/3960420/</link>
+  <guid isPermaLink="false">steam-store-published-3960420</guid>
+  <pubDate>Sun, 25 Jan 2026 06:28:02 +0000</pubDate>
+  <description>A first-person action adventure with weighty melee, parries, and ruthless close-quarters fights. You are a vessel for eldritch gods. Explore dream-shaped dungeons, claim strange artifacts, and bargain with the factions below to bend the very fabric of reality around your will.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960420/4fff47d99e6e0b039936deea5808df1efa77748c/header.jpg?t=1769321681" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960420/4fff47d99e6e0b039936deea5808df1efa77748c/header.jpg?t=1769321681" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960420/4fff47d99e6e0b039936deea5808df1efa77748c/header.jpg?t=1769321681" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3960420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3960420/4fff47d99e6e0b039936deea5808df1efa77748c/header.jpg?t=1769321681" alt="Dreamwrought（新規追加）" /></a></p><p>A first-person action adventure with weighty melee, parries, and ruthless close-quarters fights. You are a vessel for eldritch gods. Explore dream-shaped dungeons, claim strange artifacts, and bargain with the factions below to bend the very fabric of reality around your will.</p><p><a href="https://store.steampowered.com/app/3960420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>VersusOne（新規追加）</title>
   <link>https://store.steampowered.com/app/4350880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303660/1ec61acac5aa749c8d7ebd2fc75b6efa3c9e7b86/header.jpg?t=1769123835" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303660/1ec61acac5aa749c8d7ebd2fc75b6efa3c9e7b86/header.jpg?t=1769123835" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4303660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303660/1ec61acac5aa749c8d7ebd2fc75b6efa3c9e7b86/header.jpg?t=1769123835" alt="Wartide（新規追加）" /></a></p><p>An incremental desktop defense game that lives on the corner of your screen. Waves get harder, upgrades get stronger, progress never stops. Build your base, unlock permanent bonuses and grow your army while you work or relax.</p><p><a href="https://store.steampowered.com/app/4303660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Journey Back to DreamSpace（新規追加）</title>
-  <link>https://store.steampowered.com/app/4307620/</link>
-  <guid isPermaLink="false">steam-store-published-4307620</guid>
-  <pubDate>Thu, 22 Jan 2026 23:18:59 +0000</pubDate>
-  <description>Journey Back to DreamSpace is a quirky top-down, single-player, cyberpunk, adventure game. Interact with angry gangers, crafty corporations and all kinds of strange characters in Port hope. Most of all though, help Jo find a way back to DreamSpace!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307620/f3e0fd96775821f211c5b792f368d9e3a43ef677/header.jpg?t=1769122728" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307620/f3e0fd96775821f211c5b792f368d9e3a43ef677/header.jpg?t=1769122728" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307620/f3e0fd96775821f211c5b792f368d9e3a43ef677/header.jpg?t=1769122728" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4307620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307620/f3e0fd96775821f211c5b792f368d9e3a43ef677/header.jpg?t=1769122728" alt="Journey Back to DreamSpace（新規追加）" /></a></p><p>Journey Back to DreamSpace is a quirky top-down, single-player, cyberpunk, adventure game. Interact with angry gangers, crafty corporations and all kinds of strange characters in Port hope. Most of all though, help Jo find a way back to DreamSpace!</p><p><a href="https://store.steampowered.com/app/4307620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
