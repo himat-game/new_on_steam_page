@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 22:17:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 22:53:28 +0000</lastBuildDate>
+<item>
+  <title>Retailer（新規追加）</title>
+  <link>https://store.steampowered.com/app/4048370/</link>
+  <guid isPermaLink="false">steam-store-published-4048370</guid>
+  <pubDate>Sun, 25 Jan 2026 22:53:28 +0000</pubDate>
+  <description>RETAILER is a simulation game where you work a growing store of your very own, without the hassle of helping hands. It&#x27;s stressful, but at least you&#x27;re self-employed.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048370/d262aa2f0a8bda63f660d0ee5c103ea63ba48cc3/header.jpg?t=1769379506" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048370/d262aa2f0a8bda63f660d0ee5c103ea63ba48cc3/header.jpg?t=1769379506" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048370/d262aa2f0a8bda63f660d0ee5c103ea63ba48cc3/header.jpg?t=1769379506" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4048370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4048370/d262aa2f0a8bda63f660d0ee5c103ea63ba48cc3/header.jpg?t=1769379506" alt="Retailer（新規追加）" /></a></p><p>RETAILER is a simulation game where you work a growing store of your very own, without the hassle of helping hands. It&#x27;s stressful, but at least you&#x27;re self-employed.</p><p><a href="https://store.steampowered.com/app/4048370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Danger Parade（新規追加）</title>
   <link>https://store.steampowered.com/app/4336500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718760/f481ba1cc903b89e2767b3713dc7b5b5732ebef9/header.jpg?t=1769155666" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718760/f481ba1cc903b89e2767b3713dc7b5b5732ebef9/header.jpg?t=1769155666" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3718760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3718760/f481ba1cc903b89e2767b3713dc7b5b5732ebef9/header.jpg?t=1769155666" alt="Galactic Brawl（新規追加）" /></a></p><p>A fast-paced multiplayer party brawler where up to 8 players battle using absurd weapons, chaotic arenas, and customizable mascots in frantic free-for-all matches.</p><p><a href="https://store.steampowered.com/app/3718760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Utopia: Birth of The Heroes（新規追加）</title>
-  <link>https://store.steampowered.com/app/4235700/</link>
-  <guid isPermaLink="false">steam-store-published-4235700</guid>
-  <pubDate>Fri, 23 Jan 2026 08:27:14 +0000</pubDate>
-  <description>A visual novel where you will play as three distinct protagonists, and make choices that affect their futures and that of their kingdoms. Explore multiple endings based on player choice and see how each protagonist story start to interwine with the others in this war-driven fantasy realm.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235700/e34f2882fe458d4f7506829b2d099e27ee95bfe5/header.jpg?t=1769154934" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235700/e34f2882fe458d4f7506829b2d099e27ee95bfe5/header.jpg?t=1769154934" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235700/e34f2882fe458d4f7506829b2d099e27ee95bfe5/header.jpg?t=1769154934" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4235700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235700/e34f2882fe458d4f7506829b2d099e27ee95bfe5/header.jpg?t=1769154934" alt="Utopia: Birth of The Heroes（新規追加）" /></a></p><p>A visual novel where you will play as three distinct protagonists, and make choices that affect their futures and that of their kingdoms. Explore multiple endings based on player choice and see how each protagonist story start to interwine with the others in this war-driven fantasy realm.</p><p><a href="https://store.steampowered.com/app/4235700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
