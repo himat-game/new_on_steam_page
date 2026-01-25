@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 19:45:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 20:21:04 +0000</lastBuildDate>
+<item>
+  <title>Shattered Bonds（新規追加）</title>
+  <link>https://store.steampowered.com/app/4191400/</link>
+  <guid isPermaLink="false">steam-store-published-4191400</guid>
+  <pubDate>Sun, 25 Jan 2026 20:21:04 +0000</pubDate>
+  <description>Shattered Bonds is an Action/Adventure Role Playing Game, where only the bonds between you and your companions hold meaning. In order to survive in this dark fantasy world, you will unleash powerful ultimates to carve your path through ever-changing dungeons and challenge enemies and fate.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191400/0094cbc7ea494d9359609cd0fa33f7facd6baa5d/header.jpg?t=1769370387" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191400/0094cbc7ea494d9359609cd0fa33f7facd6baa5d/header.jpg?t=1769370387" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191400/0094cbc7ea494d9359609cd0fa33f7facd6baa5d/header.jpg?t=1769370387" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4191400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191400/0094cbc7ea494d9359609cd0fa33f7facd6baa5d/header.jpg?t=1769370387" alt="Shattered Bonds（新規追加）" /></a></p><p>Shattered Bonds is an Action/Adventure Role Playing Game, where only the bonds between you and your companions hold meaning. In order to survive in this dark fantasy world, you will unleash powerful ultimates to carve your path through ever-changing dungeons and challenge enemies and fate.</p><p><a href="https://store.steampowered.com/app/4191400/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Classic Tower Defense 2（新規追加）</title>
   <link>https://store.steampowered.com/app/4330100/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976890/965bf8b35c30985c976d24aa329ea2b9647d0ca2/header.jpg?t=1769147437" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976890/965bf8b35c30985c976d24aa329ea2b9647d0ca2/header.jpg?t=1769147437" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2976890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976890/965bf8b35c30985c976d24aa329ea2b9647d0ca2/header.jpg?t=1769147437" alt="災難公關+（新規追加）" /></a></p><p>&amp;quot;Disaster PR+&amp;quot; is the upgraded version of &amp;quot;Disaster PR&amp;quot;— with smoother gameplay, new artwork, and a revamped interface. The new &amp;quot;Image Mode&amp;quot; lets you use memes or crazy photos to create funny PR disasters. Perfect for parties, streaming, or online fun!</p><p><a href="https://store.steampowered.com/app/2976890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sweet Worker（新規追加）</title>
-  <link>https://store.steampowered.com/app/4334470/</link>
-  <guid isPermaLink="false">steam-store-published-4334470</guid>
-  <pubDate>Fri, 23 Jan 2026 06:31:41 +0000</pubDate>
-  <description>Sweet Worker - A simple and beautiful jigsaw puzzle game themed around a construction site. It depicts the daily lives of five pretty and adorable construction girls, accompanied by relaxing music. After completing a level, you can view the girls&#x27; photos in the gallery.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4334470/a45c1ec578e17a15d7e9e775d90d53ec2eb6f971/header.jpg?t=1769148435" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4334470/a45c1ec578e17a15d7e9e775d90d53ec2eb6f971/header.jpg?t=1769148435" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4334470/a45c1ec578e17a15d7e9e775d90d53ec2eb6f971/header.jpg?t=1769148435" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4334470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4334470/a45c1ec578e17a15d7e9e775d90d53ec2eb6f971/header.jpg?t=1769148435" alt="Sweet Worker（新規追加）" /></a></p><p>Sweet Worker - A simple and beautiful jigsaw puzzle game themed around a construction site. It depicts the daily lives of five pretty and adorable construction girls, accompanied by relaxing music. After completing a level, you can view the girls&#x27; photos in the gallery.</p><p><a href="https://store.steampowered.com/app/4334470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
