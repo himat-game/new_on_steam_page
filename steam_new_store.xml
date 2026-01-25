@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 11:46:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 12:37:46 +0000</lastBuildDate>
+<item>
+  <title>Waste Of Space（新規追加）</title>
+  <link>https://store.steampowered.com/app/4338430/</link>
+  <guid isPermaLink="false">steam-store-published-4338430</guid>
+  <pubDate>Sun, 25 Jan 2026 12:37:46 +0000</pubDate>
+  <description>Waste of Space is a space-based card-collector and deck-builder where interplanetary bureaucracy is collapsing faster than your crew. Build decks, manage disasters, navigate faction politics, and decide whether to preserve Earth’s rule, embrace post-human survival, or balance both.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338430/94e3a63d7be98987ec469471b445dc664ce25540/header.jpg?t=1769343358" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338430/94e3a63d7be98987ec469471b445dc664ce25540/header.jpg?t=1769343358" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338430/94e3a63d7be98987ec469471b445dc664ce25540/header.jpg?t=1769343358" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4338430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338430/94e3a63d7be98987ec469471b445dc664ce25540/header.jpg?t=1769343358" alt="Waste Of Space（新規追加）" /></a></p><p>Waste of Space is a space-based card-collector and deck-builder where interplanetary bureaucracy is collapsing faster than your crew. Build decks, manage disasters, navigate faction politics, and decide whether to preserve Earth’s rule, embrace post-human survival, or balance both.</p><p><a href="https://store.steampowered.com/app/4338430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Midnight Garden: Amy&#x27;s Flower（新規追加）</title>
   <link>https://store.steampowered.com/app/4222370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277500/0b1699fa498030d9807d6de93716998efc888409/header.jpg?t=1769137334" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277500/0b1699fa498030d9807d6de93716998efc888409/header.jpg?t=1769137334" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4277500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277500/0b1699fa498030d9807d6de93716998efc888409/header.jpg?t=1769137334" alt="Snooker Billiard（新規追加）" /></a></p><p>SPORT SIMULATION SNOOKER VR GAME. FEEL THE REAL SNOOKER SPORT HERE</p><p><a href="https://store.steampowered.com/app/4277500/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Poker Hands Bullshit（新規追加）</title>
-  <link>https://store.steampowered.com/app/4295570/</link>
-  <guid isPermaLink="false">steam-store-published-4295570</guid>
-  <pubDate>Fri, 23 Jan 2026 03:22:44 +0000</pubDate>
-  <description>Turn-based card game. Raise the bar on the best poker hands you think are present out of all players&#x27; cards. Since you can only see your cards, you&#x27;ll have to take a chance on the cards other players have or lie about your own cards. Bullshit or be bullshit-ed.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295570/ffd3d887004c67bd290a9cb45e89b9bcb4978701/header.jpg?t=1769134851" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295570/ffd3d887004c67bd290a9cb45e89b9bcb4978701/header.jpg?t=1769134851" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295570/ffd3d887004c67bd290a9cb45e89b9bcb4978701/header.jpg?t=1769134851" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4295570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295570/ffd3d887004c67bd290a9cb45e89b9bcb4978701/header.jpg?t=1769134851" alt="Poker Hands Bullshit（新規追加）" /></a></p><p>Turn-based card game. Raise the bar on the best poker hands you think are present out of all players&#x27; cards. Since you can only see your cards, you&#x27;ll have to take a chance on the cards other players have or lie about your own cards. Bullshit or be bullshit-ed.</p><p><a href="https://store.steampowered.com/app/4295570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
