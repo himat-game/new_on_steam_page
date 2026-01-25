@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 13:46:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 14:16:58 +0000</lastBuildDate>
+<item>
+  <title>My Goth Girlfriend NTR（新規追加）</title>
+  <link>https://store.steampowered.com/app/4310030/</link>
+  <guid isPermaLink="false">steam-store-published-4310030</guid>
+  <pubDate>Sun, 25 Jan 2026 14:16:58 +0000</pubDate>
+  <description>Work to earn money and manage your time wisely. Train to increase your energy, study to improve your intellect, buy gifts and tapes, and unlock new opportunities. Your progress is rewarded with steamy moments shared with beautiful women as you shape your daily life.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310030/0725987c4e0602d9464061e1a87289b72309bd55/header.jpg?t=1769349605" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310030/0725987c4e0602d9464061e1a87289b72309bd55/header.jpg?t=1769349605" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310030/0725987c4e0602d9464061e1a87289b72309bd55/header.jpg?t=1769349605" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4310030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310030/0725987c4e0602d9464061e1a87289b72309bd55/header.jpg?t=1769349605" alt="My Goth Girlfriend NTR（新規追加）" /></a></p><p>Work to earn money and manage your time wisely. Train to increase your energy, study to improve your intellect, buy gifts and tapes, and unlock new opportunities. Your progress is rewarded with steamy moments shared with beautiful women as you shape your daily life.</p><p><a href="https://store.steampowered.com/app/4310030/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BLOCKUELITE（新規追加）</title>
   <link>https://store.steampowered.com/app/4313300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457740/4da4eb35e0c54f3e4f7ace06fffc8cb12b4edd4a/header.jpg?t=1769134926" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457740/4da4eb35e0c54f3e4f7ace06fffc8cb12b4edd4a/header.jpg?t=1769134926" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2457740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457740/4da4eb35e0c54f3e4f7ace06fffc8cb12b4edd4a/header.jpg?t=1769134926" alt="Land of Oblivion（新規追加）" /></a></p><p>Explore a forgotten world through jumping, combat, and discovery. Land of Oblivion is a light-paced 2D action platformer with Metroidvania elements.</p><p><a href="https://store.steampowered.com/app/2457740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Devil Lift（新規追加）</title>
-  <link>https://store.steampowered.com/app/4125380/</link>
-  <guid isPermaLink="false">steam-store-published-4125380</guid>
-  <pubDate>Fri, 23 Jan 2026 03:22:44 +0000</pubDate>
-  <description>Demon hunting is a day job in Devil Lift, a tag battle roguelike deckbuilder. Play as the Lilith Society, a group of underpaid and overworked demon hunters as they protect humanity from the Archbeasts of the Underworld before their shift ends.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125380/c86318c564e2b1df1a62c42111a0757be7385234/header.jpg?t=1769134381" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125380/c86318c564e2b1df1a62c42111a0757be7385234/header.jpg?t=1769134381" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125380/c86318c564e2b1df1a62c42111a0757be7385234/header.jpg?t=1769134381" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4125380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4125380/c86318c564e2b1df1a62c42111a0757be7385234/header.jpg?t=1769134381" alt="Devil Lift（新規追加）" /></a></p><p>Demon hunting is a day job in Devil Lift, a tag battle roguelike deckbuilder. Play as the Lilith Society, a group of underpaid and overworked demon hunters as they protect humanity from the Archbeasts of the Underworld before their shift ends.</p><p><a href="https://store.steampowered.com/app/4125380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
