@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 20:21:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 20:50:48 +0000</lastBuildDate>
+<item>
+  <title>100 Tiki Cats（新規追加）</title>
+  <link>https://store.steampowered.com/app/4310700/</link>
+  <guid isPermaLink="false">steam-store-published-4310700</guid>
+  <pubDate>Sun, 25 Jan 2026 20:50:48 +0000</pubDate>
+  <description>🐾 Join the cutest adventure in themed locations full of cats! 😻 Explore the charming hand-drawn artwork of special places and try to find 100 adorable cats hidden throughout the game. 🐈🕵️‍♂️ Can you find them all? 🕵️‍♂️🐈</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310700/dd23d9262f4895d0bb4c477d2ea819b948bf5821/header.jpg?t=1769363961" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310700/dd23d9262f4895d0bb4c477d2ea819b948bf5821/header.jpg?t=1769363961" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310700/dd23d9262f4895d0bb4c477d2ea819b948bf5821/header.jpg?t=1769363961" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4310700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310700/dd23d9262f4895d0bb4c477d2ea819b948bf5821/header.jpg?t=1769363961" alt="100 Tiki Cats（新規追加）" /></a></p><p>🐾 Join the cutest adventure in themed locations full of cats! 😻 Explore the charming hand-drawn artwork of special places and try to find 100 adorable cats hidden throughout the game. 🐈🕵️‍♂️ Can you find them all? 🕵️‍♂️🐈</p><p><a href="https://store.steampowered.com/app/4310700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Shattered Bonds（新規追加）</title>
   <link>https://store.steampowered.com/app/4191400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310620/f19039282f4d0b8224fb15cddff2144ba5a6f7f6/header.jpg?t=1769148332" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310620/f19039282f4d0b8224fb15cddff2144ba5a6f7f6/header.jpg?t=1769148332" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4310620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310620/f19039282f4d0b8224fb15cddff2144ba5a6f7f6/header.jpg?t=1769148332" alt="Sweet Beach（新規追加）" /></a></p><p>Sweet Beach - A simple and beautiful puzzle game themed around the beach, depicting the daily lives of five pretty and cute girls in swimsuits. It features relaxing music, and after completing a level, you can view the girls&#x27; photos in the gallery.</p><p><a href="https://store.steampowered.com/app/4310620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>災難公關+（新規追加）</title>
-  <link>https://store.steampowered.com/app/2976890/</link>
-  <guid isPermaLink="false">steam-store-published-2976890</guid>
-  <pubDate>Fri, 23 Jan 2026 06:31:41 +0000</pubDate>
-  <description>&amp;quot;Disaster PR+&amp;quot; is the upgraded version of &amp;quot;Disaster PR&amp;quot;— with smoother gameplay, new artwork, and a revamped interface. The new &amp;quot;Image Mode&amp;quot; lets you use memes or crazy photos to create funny PR disasters. Perfect for parties, streaming, or online fun!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976890/965bf8b35c30985c976d24aa329ea2b9647d0ca2/header.jpg?t=1769147437" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976890/965bf8b35c30985c976d24aa329ea2b9647d0ca2/header.jpg?t=1769147437" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976890/965bf8b35c30985c976d24aa329ea2b9647d0ca2/header.jpg?t=1769147437" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2976890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976890/965bf8b35c30985c976d24aa329ea2b9647d0ca2/header.jpg?t=1769147437" alt="災難公關+（新規追加）" /></a></p><p>&amp;quot;Disaster PR+&amp;quot; is the upgraded version of &amp;quot;Disaster PR&amp;quot;— with smoother gameplay, new artwork, and a revamped interface. The new &amp;quot;Image Mode&amp;quot; lets you use memes or crazy photos to create funny PR disasters. Perfect for parties, streaming, or online fun!</p><p><a href="https://store.steampowered.com/app/2976890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
