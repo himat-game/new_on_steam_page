@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 12:37:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 13:20:10 +0000</lastBuildDate>
+<item>
+  <title>Almamon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4207650/</link>
+  <guid isPermaLink="false">steam-store-published-4207650</guid>
+  <pubDate>Sun, 25 Jan 2026 13:20:10 +0000</pubDate>
+  <description>Bond with mons and uncover a clash of cosmic powers in this turn based RPG. Choose to battle with deep strategic moment to moment decisions or as a chill autobattler.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207650/345cbdfb73ce2d3161b93c4161f83ac9963640d3/header.jpg?t=1769346510" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207650/345cbdfb73ce2d3161b93c4161f83ac9963640d3/header.jpg?t=1769346510" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207650/345cbdfb73ce2d3161b93c4161f83ac9963640d3/header.jpg?t=1769346510" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4207650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207650/345cbdfb73ce2d3161b93c4161f83ac9963640d3/header.jpg?t=1769346510" alt="Almamon（新規追加）" /></a></p><p>Bond with mons and uncover a clash of cosmic powers in this turn based RPG. Choose to battle with deep strategic moment to moment decisions or as a chill autobattler.</p><p><a href="https://store.steampowered.com/app/4207650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Waste Of Space（新規追加）</title>
   <link>https://store.steampowered.com/app/4338430/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024980/b5b475d67d5cfe694c88e34c2ac7eec2c0a3a9bb/header.jpg?t=1769133703" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024980/b5b475d67d5cfe694c88e34c2ac7eec2c0a3a9bb/header.jpg?t=1769133703" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4024980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024980/b5b475d67d5cfe694c88e34c2ac7eec2c0a3a9bb/header.jpg?t=1769133703" alt="MIA: Memory Fragments（新規追加）" /></a></p><p>MIA: Memory Fragments is a story-driven psychological horror adventure where you explore fractured memories, interact with the environment to progress, uncover the story through the world, and escape from MIA’s darkest side. Survive the memories… or remain trapped forever in the past.</p><p><a href="https://store.steampowered.com/app/4024980/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Snooker Billiard（新規追加）</title>
-  <link>https://store.steampowered.com/app/4277500/</link>
-  <guid isPermaLink="false">steam-store-published-4277500</guid>
-  <pubDate>Fri, 23 Jan 2026 03:22:44 +0000</pubDate>
-  <description>SPORT SIMULATION SNOOKER VR GAME. FEEL THE REAL SNOOKER SPORT HERE</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277500/0b1699fa498030d9807d6de93716998efc888409/header.jpg?t=1769137334" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277500/0b1699fa498030d9807d6de93716998efc888409/header.jpg?t=1769137334" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277500/0b1699fa498030d9807d6de93716998efc888409/header.jpg?t=1769137334" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4277500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277500/0b1699fa498030d9807d6de93716998efc888409/header.jpg?t=1769137334" alt="Snooker Billiard（新規追加）" /></a></p><p>SPORT SIMULATION SNOOKER VR GAME. FEEL THE REAL SNOOKER SPORT HERE</p><p><a href="https://store.steampowered.com/app/4277500/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
