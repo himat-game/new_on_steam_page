@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 07:26:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 08:54:25 +0000</lastBuildDate>
+<item>
+  <title>GRUNGE: Count Your Bullets（新規追加）</title>
+  <link>https://store.steampowered.com/app/4338810/</link>
+  <guid isPermaLink="false">steam-store-published-4338810</guid>
+  <pubDate>Sun, 25 Jan 2026 08:54:25 +0000</pubDate>
+  <description>A slower, more lethal post-apocalyptic singleplayer FPS. Explore, spot enemies, quick-save, count your bullets, hold your breath, headshot. &amp;quot;Lethal gameplay&amp;quot; without bullet-sponge enemies, survival chores, or limited saves.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338810/d18d5b8bda5104498ba153649a2cc976ffdaf4ab/header.jpg?t=1769329881" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338810/d18d5b8bda5104498ba153649a2cc976ffdaf4ab/header.jpg?t=1769329881" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338810/d18d5b8bda5104498ba153649a2cc976ffdaf4ab/header.jpg?t=1769329881" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4338810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338810/d18d5b8bda5104498ba153649a2cc976ffdaf4ab/header.jpg?t=1769329881" alt="GRUNGE: Count Your Bullets（新規追加）" /></a></p><p>A slower, more lethal post-apocalyptic singleplayer FPS. Explore, spot enemies, quick-save, count your bullets, hold your breath, headshot. &amp;quot;Lethal gameplay&amp;quot; without bullet-sponge enemies, survival chores, or limited saves.</p><p><a href="https://store.steampowered.com/app/4338810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>マギアリーナ(MagiArena)（新規追加）</title>
   <link>https://store.steampowered.com/app/4148760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275270/ae58c822092a66b36f907cae0d23056577354f06/header.jpg?t=1769126318" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275270/ae58c822092a66b36f907cae0d23056577354f06/header.jpg?t=1769126318" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4275270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275270/ae58c822092a66b36f907cae0d23056577354f06/header.jpg?t=1769126318" alt="One in One Million（新規追加）" /></a></p><p>Trapped in a small room, four friends will have to uncover the mystery hidden within those walls while facing the secrets of an elusive truth. The answers are just a button away. A psychological thriller visual novel packed with dark humor and fascinating facts about raccoons.</p><p><a href="https://store.steampowered.com/app/4275270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Trust Me, I Nailed It（新規追加）</title>
-  <link>https://store.steampowered.com/app/4311000/</link>
-  <guid isPermaLink="false">steam-store-published-4311000</guid>
-  <pubDate>Fri, 23 Jan 2026 01:25:47 +0000</pubDate>
-  <description>“Trust Me, I Nailed It” is a turn-based strategy game where you edit video clips to make a screwed up warrior into a monster-slaying legend. Edit, stitch, and fake your way to epic battle videos. Make every fight look like a glorious win.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311000/2969c2b46f8ef978290034d81ec281ad1d6ed4e2/header.jpg?t=1769130160" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311000/2969c2b46f8ef978290034d81ec281ad1d6ed4e2/header.jpg?t=1769130160" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311000/2969c2b46f8ef978290034d81ec281ad1d6ed4e2/header.jpg?t=1769130160" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4311000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311000/2969c2b46f8ef978290034d81ec281ad1d6ed4e2/header.jpg?t=1769130160" alt="Trust Me, I Nailed It（新規追加）" /></a></p><p>“Trust Me, I Nailed It” is a turn-based strategy game where you edit video clips to make a screwed up warrior into a monster-slaying legend. Edit, stitch, and fake your way to epic battle videos. Make every fight look like a glorious win.</p><p><a href="https://store.steampowered.com/app/4311000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
