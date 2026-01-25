@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 25 Jan 2026 05:26:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 05:54:17 +0000</lastBuildDate>
+<item>
+  <title>VersusOne（新規追加）</title>
+  <link>https://store.steampowered.com/app/4350880/</link>
+  <guid isPermaLink="false">steam-store-published-4350880</guid>
+  <pubDate>Sun, 25 Jan 2026 05:54:17 +0000</pubDate>
+  <description>Chaotic Party Action with Dark Witch Characters! Jump into a party game for up to 4 players, starring characters from The Legend of Dark Witch Episode 4! Play locally or online and compete in 6 fast-paced mini-games, where magic isn’t just for winning — it’s for messing with your friends.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350880/8b6ac17d19f7ec8a73cfbb1722809fd16813e908/header.jpg?t=1769319215" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350880/8b6ac17d19f7ec8a73cfbb1722809fd16813e908/header.jpg?t=1769319215" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350880/8b6ac17d19f7ec8a73cfbb1722809fd16813e908/header.jpg?t=1769319215" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4350880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350880/8b6ac17d19f7ec8a73cfbb1722809fd16813e908/header.jpg?t=1769319215" alt="VersusOne（新規追加）" /></a></p><p>Chaotic Party Action with Dark Witch Characters! Jump into a party game for up to 4 players, starring characters from The Legend of Dark Witch Episode 4! Play locally or online and compete in 6 fast-paced mini-games, where magic isn’t just for winning — it’s for messing with your friends.</p><p><a href="https://store.steampowered.com/app/4350880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ARTMESS（新規追加）</title>
   <link>https://store.steampowered.com/app/4334670/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307620/f3e0fd96775821f211c5b792f368d9e3a43ef677/header.jpg?t=1769122728" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307620/f3e0fd96775821f211c5b792f368d9e3a43ef677/header.jpg?t=1769122728" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4307620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307620/f3e0fd96775821f211c5b792f368d9e3a43ef677/header.jpg?t=1769122728" alt="Journey Back to DreamSpace（新規追加）" /></a></p><p>Journey Back to DreamSpace is a quirky top-down, single-player, cyberpunk, adventure game. Interact with angry gangers, crafty corporations and all kinds of strange characters in Port hope. Most of all though, help Jo find a way back to DreamSpace!</p><p><a href="https://store.steampowered.com/app/4307620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Jef（新規追加）</title>
-  <link>https://store.steampowered.com/app/3770760/</link>
-  <guid isPermaLink="false">steam-store-published-3770760</guid>
-  <pubDate>Thu, 22 Jan 2026 23:18:59 +0000</pubDate>
-  <description>Jef is a fast-paced action roguelike where you control Jef as he tries to solve an out-of-control mess problem inside a dirty house and keep it clean. Each run is completely unique, taking place across different areas of the house and shifting through a variety of themes.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770760/6c44005165096b774eeaf34de79130fb9d45e53e/header.jpg?t=1769122944" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770760/6c44005165096b774eeaf34de79130fb9d45e53e/header.jpg?t=1769122944" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770760/6c44005165096b774eeaf34de79130fb9d45e53e/header.jpg?t=1769122944" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3770760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770760/6c44005165096b774eeaf34de79130fb9d45e53e/header.jpg?t=1769122944" alt="Jef（新規追加）" /></a></p><p>Jef is a fast-paced action roguelike where you control Jef as he tries to solve an out-of-control mess problem inside a dirty house and keep it clean. Each run is completely unique, taking place across different areas of the house and shifting through a variety of themes.</p><p><a href="https://store.steampowered.com/app/3770760/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
