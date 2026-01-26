@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 26 Jan 2026 11:21:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 11:49:02 +0000</lastBuildDate>
+<item>
+  <title>Rooftop Garden（新規追加）</title>
+  <link>https://store.steampowered.com/app/4329650/</link>
+  <guid isPermaLink="false">steam-store-published-4329650</guid>
+  <pubDate>Mon, 26 Jan 2026 11:49:02 +0000</pubDate>
+  <description>A cozy micro-farming game about growing carrots on your rooftop. Plant, water, and harvest through short relaxing days while building your tiny garden in the city sky.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329650/3c65d2ba2f9322c45bd6d120857d6c8e640564ab/header.jpg?t=1769427036" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329650/3c65d2ba2f9322c45bd6d120857d6c8e640564ab/header.jpg?t=1769427036" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329650/3c65d2ba2f9322c45bd6d120857d6c8e640564ab/header.jpg?t=1769427036" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4329650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329650/3c65d2ba2f9322c45bd6d120857d6c8e640564ab/header.jpg?t=1769427036" alt="Rooftop Garden（新規追加）" /></a></p><p>A cozy micro-farming game about growing carrots on your rooftop. Plant, water, and harvest through short relaxing days while building your tiny garden in the city sky.</p><p><a href="https://store.steampowered.com/app/4329650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Skate Style（新規追加）</title>
   <link>https://store.steampowered.com/app/3862790/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349170/ba28fda2ef3101ea5bb22e6d293bde7d7efc426b/header.jpg?t=1769189992" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349170/ba28fda2ef3101ea5bb22e6d293bde7d7efc426b/header.jpg?t=1769189992" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4349170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349170/ba28fda2ef3101ea5bb22e6d293bde7d7efc426b/header.jpg?t=1769189992" alt="Virus Lab（新規追加）" /></a></p><p>Virus Lab is a first-person simulation where you run a high-security research facility. Handle dangerous samples, manage scientists and equipment, prevent containment breaches, and push research forward under constant pressure.</p><p><a href="https://store.steampowered.com/app/4349170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Help Is On The Way（新規追加）</title>
-  <link>https://store.steampowered.com/app/4336450/</link>
-  <guid isPermaLink="false">steam-store-published-4336450</guid>
-  <pubDate>Fri, 23 Jan 2026 17:00:34 +0000</pubDate>
-  <description>Guide a coworker through a hostile mining facility using a malfunctioning security terminal. Finish the day’s jobs, avoid a deadly alien, and survive long enough for the escape pod to launch.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4336450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" alt="Help Is On The Way（新規追加）" /></a></p><p>Guide a coworker through a hostile mining facility using a malfunctioning security terminal. Finish the day’s jobs, avoid a deadly alien, and survive long enough for the escape pod to launch.</p><p><a href="https://store.steampowered.com/app/4336450/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
