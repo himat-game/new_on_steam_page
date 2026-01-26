@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 26 Jan 2026 10:24:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 10:56:44 +0000</lastBuildDate>
+<item>
+  <title>Directory Dungeon - File Explorer Dungeon Crawler（新規追加）</title>
+  <link>https://store.steampowered.com/app/3333010/</link>
+  <guid isPermaLink="false">steam-store-published-3333010</guid>
+  <pubDate>Mon, 26 Jan 2026 10:56:44 +0000</pubDate>
+  <description>A tiny dungeon crawler played right in the windows file explorer. Explore a monster and loot filled dungeon by dragging and dropping your player folder into new rooms, equip powerful files, defeat terrible monsters, and banish evil once and for all.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333010/842f1b8debff25d9f9cedb7f282f823ec701c8d9/header.jpg?t=1769423948" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333010/842f1b8debff25d9f9cedb7f282f823ec701c8d9/header.jpg?t=1769423948" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333010/842f1b8debff25d9f9cedb7f282f823ec701c8d9/header.jpg?t=1769423948" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3333010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333010/842f1b8debff25d9f9cedb7f282f823ec701c8d9/header.jpg?t=1769423948" alt="Directory Dungeon - File Explorer Dungeon Crawler（新規追加）" /></a></p><p>A tiny dungeon crawler played right in the windows file explorer. Explore a monster and loot filled dungeon by dragging and dropping your player folder into new rooms, equip powerful files, defeat terrible monsters, and banish evil once and for all.</p><p><a href="https://store.steampowered.com/app/3333010/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Clicker: Sunny is streaming（新規追加）</title>
   <link>https://store.steampowered.com/app/4343840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326180/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1769183902" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326180/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1769183902" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4326180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326180/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1769183902" alt="Cognitive Fracture（新規追加）" /></a></p><p>Cognitive Fracture is a single-player first-person psychological horror set in a decaying mental asylum. Trapped in your fractured mind, you explore, solve unsettling puzzles, and uncover the truth piece by piece—while something hunts you from the shadows, testing your perception and sanity.</p><p><a href="https://store.steampowered.com/app/4326180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Northern Adam: The Saga of Revenge（新規追加）</title>
-  <link>https://store.steampowered.com/app/4244610/</link>
-  <guid isPermaLink="false">steam-store-published-4244610</guid>
-  <pubDate>Fri, 23 Jan 2026 16:27:11 +0000</pubDate>
-  <description>An atmospheric Action-RPG set in a dark fantasy world, where exploration and combat are equally paramount. Begin your Saga. Survive. Avenge.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244610/ede3fca5afd5121353b399b258c15288533c8cf1/header.jpg?t=1769184400" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244610/ede3fca5afd5121353b399b258c15288533c8cf1/header.jpg?t=1769184400" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244610/ede3fca5afd5121353b399b258c15288533c8cf1/header.jpg?t=1769184400" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4244610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244610/ede3fca5afd5121353b399b258c15288533c8cf1/header.jpg?t=1769184400" alt="Northern Adam: The Saga of Revenge（新規追加）" /></a></p><p>An atmospheric Action-RPG set in a dark fantasy world, where exploration and combat are equally paramount. Begin your Saga. Survive. Avenge.</p><p><a href="https://store.steampowered.com/app/4244610/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
