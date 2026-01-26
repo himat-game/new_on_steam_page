@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 26 Jan 2026 07:25:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 08:29:11 +0000</lastBuildDate>
+<item>
+  <title>The Peak of Life（新規追加）</title>
+  <link>https://store.steampowered.com/app/4320230/</link>
+  <guid isPermaLink="false">steam-store-published-4320230</guid>
+  <pubDate>Mon, 26 Jan 2026 08:29:11 +0000</pubDate>
+  <description>By freely planning your studies and career, combining travel, business, investment, or even fishing to make money, purchase the property you like, catch the one you love, and reach the peak of your life. There will be many unexpected events in this process. Are you ready to deal with them?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320230/013a428ab412f5f037e8a5df37be41c375ce56b0/header.jpg?t=1769411691" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320230/013a428ab412f5f037e8a5df37be41c375ce56b0/header.jpg?t=1769411691" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320230/013a428ab412f5f037e8a5df37be41c375ce56b0/header.jpg?t=1769411691" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4320230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320230/013a428ab412f5f037e8a5df37be41c375ce56b0/header.jpg?t=1769411691" alt="The Peak of Life（新規追加）" /></a></p><p>By freely planning your studies and career, combining travel, business, investment, or even fishing to make money, purchase the property you like, catch the one you love, and reach the peak of your life. There will be many unexpected events in this process. Are you ready to deal with them?</p><p><a href="https://store.steampowered.com/app/4320230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Grab &amp; Run | Alpaca Party（新規追加）</title>
   <link>https://store.steampowered.com/app/4307440/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246870/674c2002f152e062364837d385ec5b7a2119ec9a/header.jpg?t=1769182916" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246870/674c2002f152e062364837d385ec5b7a2119ec9a/header.jpg?t=1769182916" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4246870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246870/674c2002f152e062364837d385ec5b7a2119ec9a/header.jpg?t=1769182916" alt="Deep Extraction Inc.（新規追加）" /></a></p><p>You are part of a three-person recovery crew sent to retrieve black boxes from the ocean floor using an old submarine. Teamwork and communication are essential to navigate tight caves, survive system failures, and uncover the dark truth behind the mission.</p><p><a href="https://store.steampowered.com/app/4246870/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Backrooms: Lost Signal（新規追加）</title>
-  <link>https://store.steampowered.com/app/4263350/</link>
-  <guid isPermaLink="false">steam-store-published-4263350</guid>
-  <pubDate>Fri, 23 Jan 2026 15:54:17 +0000</pubDate>
-  <description>A terrifying 1-4 player co-op horror game. Explore 10+ handcrafted Backrooms maps, survive against 8+ unique entities, and use proximity voice chat to coordinate or panic. Your decisions shape the story with multiple endings. Discover optional lore that reveals the truth behind these Backrooms.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263350/96c1dc792d6ce092347acfdd3fe0943636557fc2/header.jpg?t=1769183406" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263350/96c1dc792d6ce092347acfdd3fe0943636557fc2/header.jpg?t=1769183406" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263350/96c1dc792d6ce092347acfdd3fe0943636557fc2/header.jpg?t=1769183406" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4263350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4263350/96c1dc792d6ce092347acfdd3fe0943636557fc2/header.jpg?t=1769183406" alt="Backrooms: Lost Signal（新規追加）" /></a></p><p>A terrifying 1-4 player co-op horror game. Explore 10+ handcrafted Backrooms maps, survive against 8+ unique entities, and use proximity voice chat to coordinate or panic. Your decisions shape the story with multiple endings. Discover optional lore that reveals the truth behind these Backrooms.</p><p><a href="https://store.steampowered.com/app/4263350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
