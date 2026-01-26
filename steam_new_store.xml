@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 26 Jan 2026 22:19:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 22:44:15 +0000</lastBuildDate>
+<item>
+  <title>Project: Idol / Empire（新規追加）</title>
+  <link>https://store.steampowered.com/app/4346140/</link>
+  <guid isPermaLink="false">steam-store-published-4346140</guid>
+  <pubDate>Mon, 26 Jan 2026 22:44:15 +0000</pubDate>
+  <description>Behind the cheerful &amp;quot;Internet&#x27;s Darling&amp;quot; persona is a ruthless hacker mastermind! In Project: Idol / Empire, balance a double life: be an adored idol while waging cyberwar for world domination. Defend your streams, plan network takeovers, and build an empire under a mask that fools the whole server!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346140/f33ae19015e43b04c3b94b56335481151425ea51/header.jpg?t=1769462248" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346140/f33ae19015e43b04c3b94b56335481151425ea51/header.jpg?t=1769462248" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346140/f33ae19015e43b04c3b94b56335481151425ea51/header.jpg?t=1769462248" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4346140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346140/f33ae19015e43b04c3b94b56335481151425ea51/header.jpg?t=1769462248" alt="Project: Idol / Empire（新規追加）" /></a></p><p>Behind the cheerful &amp;quot;Internet&#x27;s Darling&amp;quot; persona is a ruthless hacker mastermind! In Project: Idol / Empire, balance a double life: be an adored idol while waging cyberwar for world domination. Defend your streams, plan network takeovers, and build an empire under a mask that fools the whole server!</p><p><a href="https://store.steampowered.com/app/4346140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>RING RING POCKET MAGICK EGGS（新規追加）</title>
   <link>https://store.steampowered.com/app/4349520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353210/540a546658a89df56beaaaf86b67e2b159781102/header.jpg?t=1769227994" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353210/540a546658a89df56beaaaf86b67e2b159781102/header.jpg?t=1769227994" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4353210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353210/540a546658a89df56beaaaf86b67e2b159781102/header.jpg?t=1769227994" alt="Gravity&#x27;s Edge（新規追加）" /></a></p><p>Begin an epic space journey filled with strange worlds, engaging puzzles, and a dense Afro-punk theme. Another challenge also awaits you in &#x27;Survival&#x27;. There you will face off against oncoming hordes while searching for the Ability Anvils. Are you ready to become a Kassler?</p><p><a href="https://store.steampowered.com/app/4353210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Enjoyable Family Trip（新規追加）</title>
-  <link>https://store.steampowered.com/app/4331640/</link>
-  <guid isPermaLink="false">steam-store-published-4331640</guid>
-  <pubDate>Sat, 24 Jan 2026 04:49:49 +0000</pubDate>
-  <description>Enjoy the warm family trip.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331640/6eff11f2dde3681c95a2645c0c4ec24cbacbe45c/header.jpg?t=1769229310" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331640/6eff11f2dde3681c95a2645c0c4ec24cbacbe45c/header.jpg?t=1769229310" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331640/6eff11f2dde3681c95a2645c0c4ec24cbacbe45c/header.jpg?t=1769229310" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4331640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331640/6eff11f2dde3681c95a2645c0c4ec24cbacbe45c/header.jpg?t=1769229310" alt="Enjoyable Family Trip（新規追加）" /></a></p><p>Enjoy the warm family trip.</p><p><a href="https://store.steampowered.com/app/4331640/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
