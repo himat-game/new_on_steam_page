@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 26 Jan 2026 10:56:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Jan 2026 11:21:15 +0000</lastBuildDate>
+<item>
+  <title>Skate Style（新規追加）</title>
+  <link>https://store.steampowered.com/app/3862790/</link>
+  <guid isPermaLink="false">steam-store-published-3862790</guid>
+  <pubDate>Mon, 26 Jan 2026 11:21:15 +0000</pubDate>
+  <description>Skate Style is a next-gen skateboarding game with high-end graphics, an advanced character creator, and a built-in animation editor. Skate iconic spots like Barcelona and Prague, create your style, and share it with friends. Enjoy precise dual stick controls for ultimate trick freedom.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862790/a8fbfb503483eb11afd77adda30f4ae4a1812c31/header.jpg?t=1769425911" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862790/a8fbfb503483eb11afd77adda30f4ae4a1812c31/header.jpg?t=1769425911" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862790/a8fbfb503483eb11afd77adda30f4ae4a1812c31/header.jpg?t=1769425911" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3862790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862790/a8fbfb503483eb11afd77adda30f4ae4a1812c31/header.jpg?t=1769425911" alt="Skate Style（新規追加）" /></a></p><p>Skate Style is a next-gen skateboarding game with high-end graphics, an advanced character creator, and a built-in animation editor. Skate iconic spots like Barcelona and Prague, create your style, and share it with friends. Enjoy precise dual stick controls for ultimate trick freedom.</p><p><a href="https://store.steampowered.com/app/3862790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Directory Dungeon - File Explorer Dungeon Crawler（新規追加）</title>
   <link>https://store.steampowered.com/app/3333010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4336450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336450/c269255d37ed82d183c097cf416fecfeec88b37e/header.jpg?t=1769186137" alt="Help Is On The Way（新規追加）" /></a></p><p>Guide a coworker through a hostile mining facility using a malfunctioning security terminal. Finish the day’s jobs, avoid a deadly alien, and survive long enough for the escape pod to launch.</p><p><a href="https://store.steampowered.com/app/4336450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cognitive Fracture（新規追加）</title>
-  <link>https://store.steampowered.com/app/4326180/</link>
-  <guid isPermaLink="false">steam-store-published-4326180</guid>
-  <pubDate>Fri, 23 Jan 2026 16:27:11 +0000</pubDate>
-  <description>Cognitive Fracture is a single-player first-person psychological horror set in a decaying mental asylum. Trapped in your fractured mind, you explore, solve unsettling puzzles, and uncover the truth piece by piece—while something hunts you from the shadows, testing your perception and sanity.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326180/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1769183902" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326180/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1769183902" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326180/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1769183902" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4326180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326180/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1769183902" alt="Cognitive Fracture（新規追加）" /></a></p><p>Cognitive Fracture is a single-player first-person psychological horror set in a decaying mental asylum. Trapped in your fractured mind, you explore, solve unsettling puzzles, and uncover the truth piece by piece—while something hunts you from the shadows, testing your perception and sanity.</p><p><a href="https://store.steampowered.com/app/4326180/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
