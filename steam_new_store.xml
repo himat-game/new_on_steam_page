@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 28 Jan 2026 11:29:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 11:51:07 +0000</lastBuildDate>
+<item>
+  <title>HIJACKED（新規追加）</title>
+  <link>https://store.steampowered.com/app/4324970/</link>
+  <guid isPermaLink="false">steam-store-published-4324970</guid>
+  <pubDate>Wed, 28 Jan 2026 11:51:07 +0000</pubDate>
+  <description>Play as a rogue digital parasite, surviving by hijacking the minds of cybernetic soldiers in this turn-based tactics roguelike. Leap from mind to mind, weaponizing their bodies and abilities to wipe out the machine forces hunting you 🪱🧠</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324970/5624291be140d9bddd56823f2763a899e8cfdde5/header.jpg?t=1769600019" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324970/5624291be140d9bddd56823f2763a899e8cfdde5/header.jpg?t=1769600019" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324970/5624291be140d9bddd56823f2763a899e8cfdde5/header.jpg?t=1769600019" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4324970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324970/5624291be140d9bddd56823f2763a899e8cfdde5/header.jpg?t=1769600019" alt="HIJACKED（新規追加）" /></a></p><p>Play as a rogue digital parasite, surviving by hijacking the minds of cybernetic soldiers in this turn-based tactics roguelike. Leap from mind to mind, weaponizing their bodies and abilities to wipe out the machine forces hunting you 🪱🧠</p><p><a href="https://store.steampowered.com/app/4324970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sin Return（新規追加）</title>
   <link>https://store.steampowered.com/app/4334350/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361020/c3914d633b7445f4487d046295d71b579c247e1c/header.jpg?t=1769486162" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361020/c3914d633b7445f4487d046295d71b579c247e1c/header.jpg?t=1769486162" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4361020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361020/c3914d633b7445f4487d046295d71b579c247e1c/header.jpg?t=1769486162" alt="GalactiWar - Empire Simulator（新規追加）" /></a></p><p>Watch empires rise and fall, or intervene with godly powers, in GalactiWar, a space empire simulation sandbox game.</p><p><a href="https://store.steampowered.com/app/4361020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rogue Bytes（新規追加）</title>
-  <link>https://store.steampowered.com/app/4343490/</link>
-  <guid isPermaLink="false">steam-store-published-4343490</guid>
-  <pubDate>Tue, 27 Jan 2026 04:44:30 +0000</pubDate>
-  <description>Rogue Bytes is an in-depth, incremental roguelite game about going rogue in the byte-verse! Defeat enemies, collect Bytes and other loot, research and unlock upgrades, level up your weapons, and become a byte legend!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343490/a026a8d74f120a847a3fe22c3c478f57d3db41ce/header.jpg?t=1769488311" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343490/a026a8d74f120a847a3fe22c3c478f57d3db41ce/header.jpg?t=1769488311" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343490/a026a8d74f120a847a3fe22c3c478f57d3db41ce/header.jpg?t=1769488311" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4343490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343490/a026a8d74f120a847a3fe22c3c478f57d3db41ce/header.jpg?t=1769488311" alt="Rogue Bytes（新規追加）" /></a></p><p>Rogue Bytes is an in-depth, incremental roguelite game about going rogue in the byte-verse! Defeat enemies, collect Bytes and other loot, research and unlock upgrades, level up your weapons, and become a byte legend!</p><p><a href="https://store.steampowered.com/app/4343490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
