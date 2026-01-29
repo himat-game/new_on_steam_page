@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 29 Jan 2026 11:39:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Jan 2026 11:59:07 +0000</lastBuildDate>
+<item>
+  <title>Tellus: Echo of the Void（新規追加）</title>
+  <link>https://store.steampowered.com/app/3204620/</link>
+  <guid isPermaLink="false">steam-store-published-3204620</guid>
+  <pubDate>Thu, 29 Jan 2026 11:59:07 +0000</pubDate>
+  <description>Adapt a barren world to sustain human life. Explore, gather materials, and establish your base. Then, manipulate the environment by producing air, warmth, and atmospheric pressure to create a living ecosystem.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204620/5966da70a7d4574c8a87151c08aca7c57bcb7ecf/header.jpg?t=1769687312" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204620/5966da70a7d4574c8a87151c08aca7c57bcb7ecf/header.jpg?t=1769687312" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204620/5966da70a7d4574c8a87151c08aca7c57bcb7ecf/header.jpg?t=1769687312" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3204620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204620/5966da70a7d4574c8a87151c08aca7c57bcb7ecf/header.jpg?t=1769687312" alt="Tellus: Echo of the Void（新規追加）" /></a></p><p>Adapt a barren world to sustain human life. Explore, gather materials, and establish your base. Then, manipulate the environment by producing air, warmth, and atmospheric pressure to create a living ecosystem.</p><p><a href="https://store.steampowered.com/app/3204620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>WINGMINE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4245970/</link>
+  <guid isPermaLink="false">steam-store-published-4245970</guid>
+  <pubDate>Thu, 29 Jan 2026 11:59:07 +0000</pubDate>
+  <description>WINGMINE is a narrative puzzle game inspired by Minesweeper, entirely based on logic. Your special unit has been scattered behind enemy lines: analyze the terrain, defuse the mines, and save your team.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245970/5a81940ed9ea2e9ca576cda3997c57c0edba1e38/header.jpg?t=1769687436" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245970/5a81940ed9ea2e9ca576cda3997c57c0edba1e38/header.jpg?t=1769687436" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245970/5a81940ed9ea2e9ca576cda3997c57c0edba1e38/header.jpg?t=1769687436" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4245970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245970/5a81940ed9ea2e9ca576cda3997c57c0edba1e38/header.jpg?t=1769687436" alt="WINGMINE（新規追加）" /></a></p><p>WINGMINE is a narrative puzzle game inspired by Minesweeper, entirely based on logic. Your special unit has been scattered behind enemy lines: analyze the terrain, defuse the mines, and save your team.</p><p><a href="https://store.steampowered.com/app/4245970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Still Room: I Miss You（新規追加）</title>
   <link>https://store.steampowered.com/app/4245770/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337100/cad2bf6bd9f5674dcf87ff43862c2ddad45a3aad/header.jpg?t=1769554986" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337100/cad2bf6bd9f5674dcf87ff43862c2ddad45a3aad/header.jpg?t=1769554986" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4337100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337100/cad2bf6bd9f5674dcf87ff43862c2ddad45a3aad/header.jpg?t=1769554986" alt="Unstimulated Simulator（新規追加）" /></a></p><p>Feeling too stimulated? Then get unstimulated across a collection of 20 ‘minigames’ that turn mundane and anticlimactic tasks into a mundane and anticlimactic gaming experience.</p><p><a href="https://store.steampowered.com/app/4337100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dungeon Misfits（新規追加）</title>
-  <link>https://store.steampowered.com/app/2320070/</link>
-  <guid isPermaLink="false">steam-store-published-2320070</guid>
-  <pubDate>Tue, 27 Jan 2026 23:19:27 +0000</pubDate>
-  <description>Dungeon Misfits is a chaotic action-roguelike where no two runs—and no two heroes—are ever the same.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320070/fcda6dac97599e0f54f7ce9ad3fc109fb9a45a42/header.jpg?t=1769555784" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320070/fcda6dac97599e0f54f7ce9ad3fc109fb9a45a42/header.jpg?t=1769555784" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320070/fcda6dac97599e0f54f7ce9ad3fc109fb9a45a42/header.jpg?t=1769555784" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2320070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320070/fcda6dac97599e0f54f7ce9ad3fc109fb9a45a42/header.jpg?t=1769555784" alt="Dungeon Misfits（新規追加）" /></a></p><p>Dungeon Misfits is a chaotic action-roguelike where no two runs—and no two heroes—are ever the same.</p><p><a href="https://store.steampowered.com/app/2320070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>UltraGalactic（新規追加）</title>
-  <link>https://store.steampowered.com/app/4332230/</link>
-  <guid isPermaLink="false">steam-store-published-4332230</guid>
-  <pubDate>Tue, 27 Jan 2026 23:19:27 +0000</pubDate>
-  <description>UltraGalactic is a space combat game with physics-based flight and high-stakes dogfights. Command agile fighters and massive capital ships in intense battles. Master abilities and unique weaponry to survive epic fleet engagements and stop an alien invasion.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332230/7af522cbe16660dbab6d98b4c09e642b3f9b8250/header.jpg?t=1769554177" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332230/7af522cbe16660dbab6d98b4c09e642b3f9b8250/header.jpg?t=1769554177" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332230/7af522cbe16660dbab6d98b4c09e642b3f9b8250/header.jpg?t=1769554177" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4332230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332230/7af522cbe16660dbab6d98b4c09e642b3f9b8250/header.jpg?t=1769554177" alt="UltraGalactic（新規追加）" /></a></p><p>UltraGalactic is a space combat game with physics-based flight and high-stakes dogfights. Command agile fighters and massive capital ships in intense battles. Master abilities and unique weaponry to survive epic fleet engagements and stop an alien invasion.</p><p><a href="https://store.steampowered.com/app/4332230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
