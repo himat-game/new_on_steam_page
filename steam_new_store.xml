@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 30 Jan 2026 17:54:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 18:38:06 +0000</lastBuildDate>
+<item>
+  <title>Push The Cart Together（新規追加）</title>
+  <link>https://store.steampowered.com/app/4360180/</link>
+  <guid isPermaLink="false">steam-store-published-4360180</guid>
+  <pubDate>Fri, 30 Jan 2026 18:38:06 +0000</pubDate>
+  <description>Cargo loaded, cart ready, the customer is waiting. Alone or with a friend, push the load to the finish line. Physics and the world around you won’t be friendly. The cargo will explode many times — so will you. It’ll be very hard, but don’t worry… eventually you’ll make it. Right?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360180/9357578deb3b8951063c05b9902dd7597ddf1418/header.jpg?t=1769797670" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360180/9357578deb3b8951063c05b9902dd7597ddf1418/header.jpg?t=1769797670" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360180/9357578deb3b8951063c05b9902dd7597ddf1418/header.jpg?t=1769797670" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4360180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360180/9357578deb3b8951063c05b9902dd7597ddf1418/header.jpg?t=1769797670" alt="Push The Cart Together（新規追加）" /></a></p><p>Cargo loaded, cart ready, the customer is waiting. Alone or with a friend, push the load to the finish line. Physics and the world around you won’t be friendly. The cargo will explode many times — so will you. It’ll be very hard, but don’t worry… eventually you’ll make it. Right?</p><p><a href="https://store.steampowered.com/app/4360180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SYSADMIN Hell（新規追加）</title>
   <link>https://store.steampowered.com/app/4369080/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329680/9f53d1d3fd54e87f18ef94528628b04fa0231f8c/header.jpg?t=1769645623" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329680/9f53d1d3fd54e87f18ef94528628b04fa0231f8c/header.jpg?t=1769645623" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4329680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329680/9f53d1d3fd54e87f18ef94528628b04fa0231f8c/header.jpg?t=1769645623" alt="SECONDED（新規追加）" /></a></p><p>Seconded is a strategy-driven tavern management game about assigning the right companion to the right problem under pressure and uncertainty. Each request hides its true requirements, forcing you to read situations carefully rather than rely on explicit instructions.</p><p><a href="https://store.steampowered.com/app/4329680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Card roguelike of musou farming（新規追加）</title>
-  <link>https://store.steampowered.com/app/4358350/</link>
-  <guid isPermaLink="false">steam-store-published-4358350</guid>
-  <pubDate>Thu, 29 Jan 2026 01:49:30 +0000</pubDate>
-  <description>A roguelike game of musou battle.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358350/601f403e36aa7b7ae17661a8e499add0b88d6ab7/header.jpg?t=1769647336" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358350/601f403e36aa7b7ae17661a8e499add0b88d6ab7/header.jpg?t=1769647336" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358350/601f403e36aa7b7ae17661a8e499add0b88d6ab7/header.jpg?t=1769647336" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4358350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358350/601f403e36aa7b7ae17661a8e499add0b88d6ab7/header.jpg?t=1769647336" alt="Card roguelike of musou farming（新規追加）" /></a></p><p>A roguelike game of musou battle.</p><p><a href="https://store.steampowered.com/app/4358350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
