@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 18:59:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 19:27:51 +0000</lastBuildDate>
+<item>
+  <title>67 Clicks（新規追加）</title>
+  <link>https://store.steampowered.com/app/4353340/</link>
+  <guid isPermaLink="false">steam-store-published-4353340</guid>
+  <pubDate>Sat, 31 Jan 2026 19:27:51 +0000</pubDate>
+  <description>This is a clicker game where you click the meme to gain click currency! The more clicks you have, the crazier your clicks will become! Every click you make has a chance to change the meme - how many clicks will it take you to get the rarest one?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353340/e68043196a9125f23e09b7cc8f39901901914eb1/header.jpg?t=1769885997" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353340/e68043196a9125f23e09b7cc8f39901901914eb1/header.jpg?t=1769885997" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353340/e68043196a9125f23e09b7cc8f39901901914eb1/header.jpg?t=1769885997" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4353340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353340/e68043196a9125f23e09b7cc8f39901901914eb1/header.jpg?t=1769885997" alt="67 Clicks（新規追加）" /></a></p><p>This is a clicker game where you click the meme to gain click currency! The more clicks you have, the crazier your clicks will become! Every click you make has a chance to change the meme - how many clicks will it take you to get the rarest one?</p><p><a href="https://store.steampowered.com/app/4353340/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Panic Point（新規追加）</title>
   <link>https://store.steampowered.com/app/4381740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362250/4109e041a6e1bba9bea82b4655d15ef93518e30a/header.jpg?t=1769702599" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362250/4109e041a6e1bba9bea82b4655d15ef93518e30a/header.jpg?t=1769702599" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4362250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362250/4109e041a6e1bba9bea82b4655d15ef93518e30a/header.jpg?t=1769702599" alt="DERACE（新規追加）" /></a></p><p>DERACE is a racing game to enjoy with your friends. Winning the race might be your goal, but the real fun comes from making sure your friends don’t. To achieve this, you can use various abilities and slowing traps placed on the map.</p><p><a href="https://store.steampowered.com/app/4362250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Iron Graves（新規追加）</title>
-  <link>https://store.steampowered.com/app/4335040/</link>
-  <guid isPermaLink="false">steam-store-published-4335040</guid>
-  <pubDate>Thu, 29 Jan 2026 16:40:10 +0000</pubDate>
-  <description>Command a squad of salvage drones in deep space. Remotely breach derelict hulls to scavenge for fuel and parts while managing scarce resources. Watch your signal, monitor environmental hazards, and pray your sensors aren&#x27;t lying. You are alone, and something is moving in the dark.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335040/10bdc2a2cda04bcdfebca4b2ef5e70efc437fbeb/header.jpg?t=1769702138" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335040/10bdc2a2cda04bcdfebca4b2ef5e70efc437fbeb/header.jpg?t=1769702138" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335040/10bdc2a2cda04bcdfebca4b2ef5e70efc437fbeb/header.jpg?t=1769702138" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4335040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335040/10bdc2a2cda04bcdfebca4b2ef5e70efc437fbeb/header.jpg?t=1769702138" alt="Iron Graves（新規追加）" /></a></p><p>Command a squad of salvage drones in deep space. Remotely breach derelict hulls to scavenge for fuel and parts while managing scarce resources. Watch your signal, monitor environmental hazards, and pray your sensors aren&#x27;t lying. You are alone, and something is moving in the dark.</p><p><a href="https://store.steampowered.com/app/4335040/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
