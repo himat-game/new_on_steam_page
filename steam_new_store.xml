@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 19:48:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 20:53:47 +0000</lastBuildDate>
+<item>
+  <title>Deadly Dimensions（新規追加）</title>
+  <link>https://store.steampowered.com/app/4342170/</link>
+  <guid isPermaLink="false">steam-store-published-4342170</guid>
+  <pubDate>Sat, 31 Jan 2026 20:53:47 +0000</pubDate>
+  <description>Deadly Dimensions is a First-Person Rogue-Lite Survival-Horror Game. Traverse a multitude of previously unknown Dimensions of Earth and scavenge all of the Data and Info you can possibly find whilst surviving the lingering threats and Anomalies that are looking for you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4342170/e556407e80f7969df56818a222065b20d6daa014/header.jpg?t=1769891454" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4342170/e556407e80f7969df56818a222065b20d6daa014/header.jpg?t=1769891454" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4342170/e556407e80f7969df56818a222065b20d6daa014/header.jpg?t=1769891454" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4342170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4342170/e556407e80f7969df56818a222065b20d6daa014/header.jpg?t=1769891454" alt="Deadly Dimensions（新規追加）" /></a></p><p>Deadly Dimensions is a First-Person Rogue-Lite Survival-Horror Game. Traverse a multitude of previously unknown Dimensions of Earth and scavenge all of the Data and Info you can possibly find whilst surviving the lingering threats and Anomalies that are looking for you.</p><p><a href="https://store.steampowered.com/app/4342170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Game My Mom Came Up With（新規追加）</title>
   <link>https://store.steampowered.com/app/4373650/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198810/5d3ec9f2df70dfa58666dca83fc796d8e7c5a522/header.jpg?t=1769704621" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198810/5d3ec9f2df70dfa58666dca83fc796d8e7c5a522/header.jpg?t=1769704621" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4198810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198810/5d3ec9f2df70dfa58666dca83fc796d8e7c5a522/header.jpg?t=1769704621" alt="Item Shop Simulator（新規追加）" /></a></p><p>Run an item shop in the Australian outback. Stock swords, potions, and emu eggs. Delve 15 dungeons for loot. Your customers work jobs and spend their wages on your wares... if you can keep them supplied.</p><p><a href="https://store.steampowered.com/app/4198810/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Shadows of War 2（新規追加）</title>
-  <link>https://store.steampowered.com/app/3983250/</link>
-  <guid isPermaLink="false">steam-store-published-3983250</guid>
-  <pubDate>Thu, 29 Jan 2026 16:40:10 +0000</pubDate>
-  <description>Command one of four armies in Shadows of War II, a side-scrolling RTS with destructible terrain, procedural maps, and four tug-of-war modes. Build armies, call in strikes, and outwit foes in tense 1v1 multiplayer battles.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983250/52a4dab0d146bd23062be0847b4bc105b2ea1519/header.jpg?t=1769703565" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983250/52a4dab0d146bd23062be0847b4bc105b2ea1519/header.jpg?t=1769703565" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983250/52a4dab0d146bd23062be0847b4bc105b2ea1519/header.jpg?t=1769703565" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3983250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983250/52a4dab0d146bd23062be0847b4bc105b2ea1519/header.jpg?t=1769703565" alt="Shadows of War 2（新規追加）" /></a></p><p>Command one of four armies in Shadows of War II, a side-scrolling RTS with destructible terrain, procedural maps, and four tug-of-war modes. Build armies, call in strikes, and outwit foes in tense 1v1 multiplayer battles.</p><p><a href="https://store.steampowered.com/app/3983250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
