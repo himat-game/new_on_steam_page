@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 09:55:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 10:21:19 +0000</lastBuildDate>
+<item>
+  <title>Slavic Warband（新規追加）</title>
+  <link>https://store.steampowered.com/app/4328620/</link>
+  <guid isPermaLink="false">steam-store-published-4328620</guid>
+  <pubDate>Sat, 31 Jan 2026 10:21:19 +0000</pubDate>
+  <description>Slavic Warband is a tactical RPG in which you lead a pack of peasants searching for a better life in early medieval Eastern Europe. Explore, fight, equip, and level up your company to ultimately create your own small kingdom.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328620/2295de8966f90211200d7e3f29cf5a337fa8b010/header.jpg?t=1769854070" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328620/2295de8966f90211200d7e3f29cf5a337fa8b010/header.jpg?t=1769854070" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328620/2295de8966f90211200d7e3f29cf5a337fa8b010/header.jpg?t=1769854070" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4328620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328620/2295de8966f90211200d7e3f29cf5a337fa8b010/header.jpg?t=1769854070" alt="Slavic Warband（新規追加）" /></a></p><p>Slavic Warband is a tactical RPG in which you lead a pack of peasants searching for a better life in early medieval Eastern Europe. Explore, fight, equip, and level up your company to ultimately create your own small kingdom.</p><p><a href="https://store.steampowered.com/app/4328620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Give up the Ghost（新規追加）</title>
   <link>https://store.steampowered.com/app/4309880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4368600/7f87a8d423d61bb6794a4bdae344baeb109a2678/header.jpg?t=1769693017" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4368600/7f87a8d423d61bb6794a4bdae344baeb109a2678/header.jpg?t=1769693017" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4368600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4368600/7f87a8d423d61bb6794a4bdae344baeb109a2678/header.jpg?t=1769693017" alt="MineSweeper.R（新規追加）" /></a></p><p>MineSweeper.R is an ultra-casual roguelike Minesweeper game with spell-programming mechanics. Build your own sweeping skills freely and experience Minesweeper in a whole new way.</p><p><a href="https://store.steampowered.com/app/4368600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Critterbyte Royale（新規追加）</title>
-  <link>https://store.steampowered.com/app/4300960/</link>
-  <guid isPermaLink="false">steam-store-published-4300960</guid>
-  <pubDate>Thu, 29 Jan 2026 14:06:39 +0000</pubDate>
-  <description>It&#x27;s an all out Critterbyte Royale! In this idle/hack n slash hybrid, mow down countless enemies to collect elemental energy for upgrading your Critterbytes, buying usable items and gathering bonuses. The ultimate goal? To complete your Critterbyte Catalog, of course!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300960/f4b9216828f759c4bfd82d4babd25a0b21159173/header.jpg?t=1769695862" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300960/f4b9216828f759c4bfd82d4babd25a0b21159173/header.jpg?t=1769695862" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300960/f4b9216828f759c4bfd82d4babd25a0b21159173/header.jpg?t=1769695862" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4300960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300960/f4b9216828f759c4bfd82d4babd25a0b21159173/header.jpg?t=1769695862" alt="Critterbyte Royale（新規追加）" /></a></p><p>It&#x27;s an all out Critterbyte Royale! In this idle/hack n slash hybrid, mow down countless enemies to collect elemental energy for upgrading your Critterbytes, buying usable items and gathering bonuses. The ultimate goal? To complete your Critterbyte Catalog, of course!</p><p><a href="https://store.steampowered.com/app/4300960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
