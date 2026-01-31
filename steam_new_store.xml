@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 30 Jan 2026 23:30:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 23:54:38 +0000</lastBuildDate>
+<item>
+  <title>ORDER // ONE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4373130/</link>
+  <guid isPermaLink="false">steam-store-published-4373130</guid>
+  <pubDate>Fri, 30 Jan 2026 23:54:38 +0000</pubDate>
+  <description>ORDER // ONE is a VR exclusive cyberpunk horror stealth-action roguelite that aims to be a bold step for VR: cinematic storytelling, addictive gameplay, and no hand-holding, powered by PCVR.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373130/6cf14456cbd507fe82d3f8a9e6ba9db7be04aed7/header.jpg?t=1769817011" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373130/6cf14456cbd507fe82d3f8a9e6ba9db7be04aed7/header.jpg?t=1769817011" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373130/6cf14456cbd507fe82d3f8a9e6ba9db7be04aed7/header.jpg?t=1769817011" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4373130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373130/6cf14456cbd507fe82d3f8a9e6ba9db7be04aed7/header.jpg?t=1769817011" alt="ORDER // ONE（新規追加）" /></a></p><p>ORDER // ONE is a VR exclusive cyberpunk horror stealth-action roguelite that aims to be a bold step for VR: cinematic storytelling, addictive gameplay, and no hand-holding, powered by PCVR.</p><p><a href="https://store.steampowered.com/app/4373130/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Trust Me, I Work Here（新規追加）</title>
   <link>https://store.steampowered.com/app/4354600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087920/fc347934c15845b88e113a05beeb17c0061b4b7b/header.jpg?t=1769664659" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087920/fc347934c15845b88e113a05beeb17c0061b4b7b/header.jpg?t=1769664659" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4087920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4087920/fc347934c15845b88e113a05beeb17c0061b4b7b/header.jpg?t=1769664659" alt="Fragments of Self: Thoughts（新規追加）" /></a></p><p>My life has changed drastically: a new country, university, dormitory, work. Drowsiness and fatigue have become a habit, just like the silhouettes I’ve started seeing in my peripheral vision.</p><p><a href="https://store.steampowered.com/app/4087920/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Crystal Clear, Mail&#x27;s Here（新規追加）</title>
-  <link>https://store.steampowered.com/app/4257570/</link>
-  <guid isPermaLink="false">steam-store-published-4257570</guid>
-  <pubDate>Thu, 29 Jan 2026 05:14:12 +0000</pubDate>
-  <description>Oh no they&#x27;re flying away! Crystal Clear, Mail&#x27;s Here is a cute match three game where you collect Ruby&#x27;s lost mail. Deliver the letters she finds to unleash massive combos obtaining the highest score.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257570/04635178ae2bb00df3c59e155020e334c3bb33e8/header.jpg?t=1769659755" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257570/04635178ae2bb00df3c59e155020e334c3bb33e8/header.jpg?t=1769659755" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257570/04635178ae2bb00df3c59e155020e334c3bb33e8/header.jpg?t=1769659755" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4257570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257570/04635178ae2bb00df3c59e155020e334c3bb33e8/header.jpg?t=1769659755" alt="Crystal Clear, Mail&#x27;s Here（新規追加）" /></a></p><p>Oh no they&#x27;re flying away! Crystal Clear, Mail&#x27;s Here is a cute match three game where you collect Ruby&#x27;s lost mail. Deliver the letters she finds to unleash massive combos obtaining the highest score.</p><p><a href="https://store.steampowered.com/app/4257570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
