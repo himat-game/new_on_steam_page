@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 22:19:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 23:20:00 +0000</lastBuildDate>
+<item>
+  <title>Covenant of Fate（新規追加）</title>
+  <link>https://store.steampowered.com/app/4283270/</link>
+  <guid isPermaLink="false">steam-store-published-4283270</guid>
+  <pubDate>Sat, 31 Jan 2026 23:20:00 +0000</pubDate>
+  <description>《Covenant of Fate》 is a story driven Chinese horror RPG. Players experience the game through the protagonist’s perspective, taking on various exorcism requests from different clients. During exploration, you may uncover clues that point toward the hidden truth.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283270/caf22ae1e502caa0b058645ca2fd0a7ea5471f27/header.jpg?t=1769900294" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283270/caf22ae1e502caa0b058645ca2fd0a7ea5471f27/header.jpg?t=1769900294" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283270/caf22ae1e502caa0b058645ca2fd0a7ea5471f27/header.jpg?t=1769900294" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4283270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283270/caf22ae1e502caa0b058645ca2fd0a7ea5471f27/header.jpg?t=1769900294" alt="Covenant of Fate（新規追加）" /></a></p><p>《Covenant of Fate》 is a story driven Chinese horror RPG. Players experience the game through the protagonist’s perspective, taking on various exorcism requests from different clients. During exploration, you may uncover clues that point toward the hidden truth.</p><p><a href="https://store.steampowered.com/app/4283270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Riches In the Deep（新規追加）</title>
   <link>https://store.steampowered.com/app/4367730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324270/ac4ca29da88663d2a5cca65332406b79ed1c2946/header.jpg?t=1769704979" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324270/ac4ca29da88663d2a5cca65332406b79ed1c2946/header.jpg?t=1769704979" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4324270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324270/ac4ca29da88663d2a5cca65332406b79ed1c2946/header.jpg?t=1769704979" alt="RLRacer（新規追加）" /></a></p><p>Master the season in this 2D roguelike racer! Meet escalating targets against tough AI up to the finale. Invest tactically in upgrades &amp;amp; crew. Win to unlock new cars with unique abilities that completely change your strategy for the next run.</p><p><a href="https://store.steampowered.com/app/4324270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hotel Cleaner Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4361820/</link>
-  <guid isPermaLink="false">steam-store-published-4361820</guid>
-  <pubDate>Thu, 29 Jan 2026 17:22:38 +0000</pubDate>
-  <description>Clean, restore, and manage hotel rooms under pressure. Remove messes, satisfy guests, and keep ratings high in Hotel Cleaner Simulator.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361820/9674a75a48190bd8a046eb8aab5b43f1d1f6320f/header.jpg?t=1769698071" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361820/9674a75a48190bd8a046eb8aab5b43f1d1f6320f/header.jpg?t=1769698071" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361820/9674a75a48190bd8a046eb8aab5b43f1d1f6320f/header.jpg?t=1769698071" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4361820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361820/9674a75a48190bd8a046eb8aab5b43f1d1f6320f/header.jpg?t=1769698071" alt="Hotel Cleaner Simulator（新規追加）" /></a></p><p>Clean, restore, and manage hotel rooms under pressure. Remove messes, satisfy guests, and keep ratings high in Hotel Cleaner Simulator.</p><p><a href="https://store.steampowered.com/app/4361820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
