@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 11:52:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 12:41:07 +0000</lastBuildDate>
+<item>
+  <title>Unseen’s Parasite（新規追加）</title>
+  <link>https://store.steampowered.com/app/3962620/</link>
+  <guid isPermaLink="false">steam-store-published-3962620</guid>
+  <pubDate>Sat, 31 Jan 2026 12:41:07 +0000</pubDate>
+  <description>Unseen&#x27;s Parasite is a single-player survival game set in an abandoned city overrun by spirits. Equipped with devices that detect paranormal signals, the player must navigate through dangerous streets. Your mission: complete tasks that disrupt the spirits’ order without being detected.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962620/eea9ca3f97fe1813b1841e3a93e5ab9434255909/header.jpg?t=1769861880" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962620/eea9ca3f97fe1813b1841e3a93e5ab9434255909/header.jpg?t=1769861880" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962620/eea9ca3f97fe1813b1841e3a93e5ab9434255909/header.jpg?t=1769861880" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3962620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962620/eea9ca3f97fe1813b1841e3a93e5ab9434255909/header.jpg?t=1769861880" alt="Unseen’s Parasite（新規追加）" /></a></p><p>Unseen&#x27;s Parasite is a single-player survival game set in an abandoned city overrun by spirits. Equipped with devices that detect paranormal signals, the player must navigate through dangerous streets. Your mission: complete tasks that disrupt the spirits’ order without being detected.</p><p><a href="https://store.steampowered.com/app/3962620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Zeri Factory（新規追加）</title>
   <link>https://store.steampowered.com/app/4340640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg?t=1769695528" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg?t=1769695528" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2473350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg?t=1769695528" alt="HUNTDOWN: OVERTIME（新規追加）" /></a></p><p>Corporations turned crime-infested streets into profit margins for bounty hunters and John Sawyer is going to make a killing. Hunt, die, upgrade, repeat in this explosive roguelite prequel where every strategic upgrade strips away more flesh and builds a cybernetic fighter one chrome limb at a time.</p><p><a href="https://store.steampowered.com/app/2473350/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Darkhaven（新規追加）</title>
-  <link>https://store.steampowered.com/app/3571870/</link>
-  <guid isPermaLink="false">steam-store-published-3571870</guid>
-  <pubDate>Thu, 29 Jan 2026 14:06:39 +0000</pubDate>
-  <description>Darkhaven is a next-generation ARPG brought to you by many of the original creators of Diablo and Diablo II. Explore a procedurally generated and fully destructible open world unlike any other in this solo or multiplayer adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3571870/0fab6c632b94e95c4896f3d55d7151e583301042/header.jpg?t=1769694678" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3571870/0fab6c632b94e95c4896f3d55d7151e583301042/header.jpg?t=1769694678" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3571870/0fab6c632b94e95c4896f3d55d7151e583301042/header.jpg?t=1769694678" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3571870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3571870/0fab6c632b94e95c4896f3d55d7151e583301042/header.jpg?t=1769694678" alt="Darkhaven（新規追加）" /></a></p><p>Darkhaven is a next-generation ARPG brought to you by many of the original creators of Diablo and Diablo II. Explore a procedurally generated and fully destructible open world unlike any other in this solo or multiplayer adventure.</p><p><a href="https://store.steampowered.com/app/3571870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
