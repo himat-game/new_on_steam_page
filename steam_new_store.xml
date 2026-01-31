@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 08:27:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 08:59:41 +0000</lastBuildDate>
+<item>
+  <title>Commutator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4319640/</link>
+  <guid isPermaLink="false">steam-store-published-4319640</guid>
+  <pubDate>Sat, 31 Jan 2026 08:59:41 +0000</pubDate>
+  <description>&amp;lt;NOW YOU CAN SEE* AGAIN&amp;gt; ███████████████████████████████████████ *The term “see” is used for illustrative purposes only. ███████████████████████████████████████ Use [TOUCH], [SMELL], and [LICK] modules to gain more information about the new world. -COMTEK ULTRA</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319640/c2433bfe8adad9464c9dcfe97ec3d100a5bd84d7/header.jpg?t=1769847988" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319640/c2433bfe8adad9464c9dcfe97ec3d100a5bd84d7/header.jpg?t=1769847988" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319640/c2433bfe8adad9464c9dcfe97ec3d100a5bd84d7/header.jpg?t=1769847988" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4319640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319640/c2433bfe8adad9464c9dcfe97ec3d100a5bd84d7/header.jpg?t=1769847988" alt="Commutator（新規追加）" /></a></p><p>&amp;lt;NOW YOU CAN SEE* AGAIN&amp;gt; ███████████████████████████████████████ *The term “see” is used for illustrative purposes only. ███████████████████████████████████████ Use [TOUCH], [SMELL], and [LICK] modules to gain more information about the new world. -COMTEK ULTRA</p><p><a href="https://store.steampowered.com/app/4319640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Loot, Dungeons and Riches（新規追加）</title>
   <link>https://store.steampowered.com/app/3625700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372900/e9e7ee89ce72479af17a5d2d4ed5c3c8533f1841/header.jpg?t=1769691483" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372900/e9e7ee89ce72479af17a5d2d4ed5c3c8533f1841/header.jpg?t=1769691483" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4372900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372900/e9e7ee89ce72479af17a5d2d4ed5c3c8533f1841/header.jpg?t=1769691483" alt="Diamond Island（新規追加）" /></a></p><p>Dive into the thrilling world of our First Person Shooter Game, where survival is your only mission. Navigate through intense environments as you hunt for hidden diamonds, each one a step closer to victory</p><p><a href="https://store.steampowered.com/app/4372900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Jargogle（新規追加）</title>
-  <link>https://store.steampowered.com/app/4280980/</link>
-  <guid isPermaLink="false">steam-store-published-4280980</guid>
-  <pubDate>Thu, 29 Jan 2026 13:13:25 +0000</pubDate>
-  <description>Jargogle is a top-down action roguelike with simulated physics, set in a world where the door to different realms is open for exploration. Equipped with only a shield, do you have the tenacity and the wits required to delve into these paths and bring back it&#x27;s treasures?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280980/ed5f4ebc65c229249c86b200b9133cccec8833e6/header.jpg?t=1769688308" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280980/ed5f4ebc65c229249c86b200b9133cccec8833e6/header.jpg?t=1769688308" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280980/ed5f4ebc65c229249c86b200b9133cccec8833e6/header.jpg?t=1769688308" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280980/ed5f4ebc65c229249c86b200b9133cccec8833e6/header.jpg?t=1769688308" alt="Jargogle（新規追加）" /></a></p><p>Jargogle is a top-down action roguelike with simulated physics, set in a world where the door to different realms is open for exploration. Equipped with only a shield, do you have the tenacity and the wits required to delve into these paths and bring back it&#x27;s treasures?</p><p><a href="https://store.steampowered.com/app/4280980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
