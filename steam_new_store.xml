@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 23:20:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 23:41:05 +0000</lastBuildDate>
+<item>
+  <title>Brazzante（新規追加）</title>
+  <link>https://store.steampowered.com/app/4305620/</link>
+  <guid isPermaLink="false">steam-store-published-4305620</guid>
+  <pubDate>Sat, 31 Jan 2026 23:41:05 +0000</pubDate>
+  <description>Featuring a unique doodle aesthetic, this world is entirely hand-drawn. Your goal? Use classic &#x27;Rock, Paper, Scissors&#x27; mechanics to survive never-ending rounds.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305620/18b190117722e86832908f4a3f34bf8113d4a540/header.jpg?t=1769902585" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305620/18b190117722e86832908f4a3f34bf8113d4a540/header.jpg?t=1769902585" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305620/18b190117722e86832908f4a3f34bf8113d4a540/header.jpg?t=1769902585" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4305620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305620/18b190117722e86832908f4a3f34bf8113d4a540/header.jpg?t=1769902585" alt="Brazzante（新規追加）" /></a></p><p>Featuring a unique doodle aesthetic, this world is entirely hand-drawn. Your goal? Use classic &#x27;Rock, Paper, Scissors&#x27; mechanics to survive never-ending rounds.</p><p><a href="https://store.steampowered.com/app/4305620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Covenant of Fate（新規追加）</title>
   <link>https://store.steampowered.com/app/4283270/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330410/978becaffcf46d1b6768e7b9a24824ee0f66de59/header.jpg?t=1769704760" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330410/978becaffcf46d1b6768e7b9a24824ee0f66de59/header.jpg?t=1769704760" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4330410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330410/978becaffcf46d1b6768e7b9a24824ee0f66de59/header.jpg?t=1769704760" alt="StarShip Wars（新規追加）" /></a></p><p>Modern Release of Retro Sci-Fi Shoot&#x27;em Up Small Game in Arcade style !!! Take a role as pilot of Your spaceship and feel the 90&#x27;s arcade games vibes in a new modern release. Defeat intergalactic alien riot and succed in this mission.</p><p><a href="https://store.steampowered.com/app/4330410/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RLRacer（新規追加）</title>
-  <link>https://store.steampowered.com/app/4324270/</link>
-  <guid isPermaLink="false">steam-store-published-4324270</guid>
-  <pubDate>Thu, 29 Jan 2026 17:22:38 +0000</pubDate>
-  <description>Master the season in this 2D roguelike racer! Meet escalating targets against tough AI up to the finale. Invest tactically in upgrades &amp;amp; crew. Win to unlock new cars with unique abilities that completely change your strategy for the next run.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324270/ac4ca29da88663d2a5cca65332406b79ed1c2946/header.jpg?t=1769704979" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324270/ac4ca29da88663d2a5cca65332406b79ed1c2946/header.jpg?t=1769704979" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324270/ac4ca29da88663d2a5cca65332406b79ed1c2946/header.jpg?t=1769704979" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4324270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324270/ac4ca29da88663d2a5cca65332406b79ed1c2946/header.jpg?t=1769704979" alt="RLRacer（新規追加）" /></a></p><p>Master the season in this 2D roguelike racer! Meet escalating targets against tough AI up to the finale. Invest tactically in upgrades &amp;amp; crew. Win to unlock new cars with unique abilities that completely change your strategy for the next run.</p><p><a href="https://store.steampowered.com/app/4324270/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
