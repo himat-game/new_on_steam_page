@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 31 Jan 2026 21:53:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 22:19:34 +0000</lastBuildDate>
+<item>
+  <title>Riches In the Deep（新規追加）</title>
+  <link>https://store.steampowered.com/app/4367730/</link>
+  <guid isPermaLink="false">steam-store-published-4367730</guid>
+  <pubDate>Sat, 31 Jan 2026 22:19:34 +0000</pubDate>
+  <description>Mine for gold and build businesses to earn money. An incredibly rewarding 2D clicker game awaits where you’ll become insanely rich. Complete missions and expand your empire throughout your journey!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367730/2083052a80c4d5fe53ca9735231fda8da6b30193/header.jpg?t=1769896741" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367730/2083052a80c4d5fe53ca9735231fda8da6b30193/header.jpg?t=1769896741" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367730/2083052a80c4d5fe53ca9735231fda8da6b30193/header.jpg?t=1769896741" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4367730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367730/2083052a80c4d5fe53ca9735231fda8da6b30193/header.jpg?t=1769896741" alt="Riches In the Deep（新規追加）" /></a></p><p>Mine for gold and build businesses to earn money. An incredibly rewarding 2D clicker game awaits where you’ll become insanely rich. Complete missions and expand your empire throughout your journey!</p><p><a href="https://store.steampowered.com/app/4367730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Dice Lodge（新規追加）</title>
   <link>https://store.steampowered.com/app/4316940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361820/9674a75a48190bd8a046eb8aab5b43f1d1f6320f/header.jpg?t=1769698071" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361820/9674a75a48190bd8a046eb8aab5b43f1d1f6320f/header.jpg?t=1769698071" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4361820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361820/9674a75a48190bd8a046eb8aab5b43f1d1f6320f/header.jpg?t=1769698071" alt="Hotel Cleaner Simulator（新規追加）" /></a></p><p>Clean, restore, and manage hotel rooms under pressure. Remove messes, satisfy guests, and keep ratings high in Hotel Cleaner Simulator.</p><p><a href="https://store.steampowered.com/app/4361820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>If I Was A Worm（新規追加）</title>
-  <link>https://store.steampowered.com/app/4272020/</link>
-  <guid isPermaLink="false">steam-store-published-4272020</guid>
-  <pubDate>Thu, 29 Jan 2026 17:22:38 +0000</pubDate>
-  <description>If I Was A Worm is a: 🪨 rock pushing. 🥚 egg cracking. 🪱 worm snipping. 🧩 puzzle game! Use your long, wriggly body to solve brain teasing puzzles, and find your way through the underground world of dirt you call home.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272020/b0be552dd1a4648bda7d22a32443fcfad36eedd0/header.jpg?t=1769703963" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272020/b0be552dd1a4648bda7d22a32443fcfad36eedd0/header.jpg?t=1769703963" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272020/b0be552dd1a4648bda7d22a32443fcfad36eedd0/header.jpg?t=1769703963" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272020/b0be552dd1a4648bda7d22a32443fcfad36eedd0/header.jpg?t=1769703963" alt="If I Was A Worm（新規追加）" /></a></p><p>If I Was A Worm is a: 🪨 rock pushing. 🥚 egg cracking. 🪱 worm snipping. 🧩 puzzle game! Use your long, wriggly body to solve brain teasing puzzles, and find your way through the underground world of dirt you call home.</p><p><a href="https://store.steampowered.com/app/4272020/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
