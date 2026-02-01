@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Feb 2026 20:23:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 20:55:55 +0000</lastBuildDate>
+<item>
+  <title>Kittycat Couture（新規追加）</title>
+  <link>https://store.steampowered.com/app/3441310/</link>
+  <guid isPermaLink="false">steam-store-published-3441310</guid>
+  <pubDate>Sun, 01 Feb 2026 20:55:55 +0000</pubDate>
+  <description>Kittycat Couture is a fantasy dressup game about making outfits for cats. Style island residents, discover new designers, and fill your closet in this cozy game about appreciating fashion!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441310/ad0fb88219df176c35fc0f0c006593fa7fb9d65c/header.jpg?t=1769977783" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441310/ad0fb88219df176c35fc0f0c006593fa7fb9d65c/header.jpg?t=1769977783" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441310/ad0fb88219df176c35fc0f0c006593fa7fb9d65c/header.jpg?t=1769977783" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3441310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441310/ad0fb88219df176c35fc0f0c006593fa7fb9d65c/header.jpg?t=1769977783" alt="Kittycat Couture（新規追加）" /></a></p><p>Kittycat Couture is a fantasy dressup game about making outfits for cats. Style island residents, discover new designers, and fill your closet in this cozy game about appreciating fashion!</p><p><a href="https://store.steampowered.com/app/3441310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ATOM RPG 2（新規追加）</title>
   <link>https://store.steampowered.com/app/3429280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366080/eb210ffa4c3db83dd7ba4defad4a222db70b50e1/header.jpg?t=1769724694" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366080/eb210ffa4c3db83dd7ba4defad4a222db70b50e1/header.jpg?t=1769724694" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4366080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366080/eb210ffa4c3db83dd7ba4defad4a222db70b50e1/header.jpg?t=1769724694" alt="The Last Hand（新規追加）" /></a></p><p>What if blackjack could break its own rules? Draft powerful modifiers that twist classic blackjack into strategic chaos while you build synergistic combos. Face 16 tables of twisted dealers and bosses. Every run is different. Can you beat The House?</p><p><a href="https://store.steampowered.com/app/4366080/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Idle Dyson Swarm（新規追加）</title>
-  <link>https://store.steampowered.com/app/4348570/</link>
-  <guid isPermaLink="false">steam-store-published-4348570</guid>
-  <pubDate>Thu, 29 Jan 2026 22:27:04 +0000</pubDate>
-  <description>Ever wanted a Dyson swarm of your own? Now you can have one with just a few clicks! Manage a solar empire, produce bots which will make solar panels for you. Send your panels to the sun to generate energy and sell that energy to make money which you can spend on even more bots!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348570/41c8abc2bd0ef5914055cd735e8c6680f19da4f5/header.jpg?t=1769724059" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348570/41c8abc2bd0ef5914055cd735e8c6680f19da4f5/header.jpg?t=1769724059" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348570/41c8abc2bd0ef5914055cd735e8c6680f19da4f5/header.jpg?t=1769724059" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4348570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348570/41c8abc2bd0ef5914055cd735e8c6680f19da4f5/header.jpg?t=1769724059" alt="Idle Dyson Swarm（新規追加）" /></a></p><p>Ever wanted a Dyson swarm of your own? Now you can have one with just a few clicks! Manage a solar empire, produce bots which will make solar panels for you. Send your panels to the sun to generate energy and sell that energy to make money which you can spend on even more bots!</p><p><a href="https://store.steampowered.com/app/4348570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
