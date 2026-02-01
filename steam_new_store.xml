@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Feb 2026 21:51:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 22:55:56 +0000</lastBuildDate>
+<item>
+  <title>Night Shift at the Universe Factory（新規追加）</title>
+  <link>https://store.steampowered.com/app/4272530/</link>
+  <guid isPermaLink="false">steam-store-published-4272530</guid>
+  <pubDate>Sun, 01 Feb 2026 22:55:56 +0000</pubDate>
+  <description>A Wario Ware style microgame project where every 12 second game is made by a different indie developer!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272530/e67ca1a6f86e8055f7bf15ff853d31e355b55a88/header.jpg?t=1769985795" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272530/e67ca1a6f86e8055f7bf15ff853d31e355b55a88/header.jpg?t=1769985795" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272530/e67ca1a6f86e8055f7bf15ff853d31e355b55a88/header.jpg?t=1769985795" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272530/e67ca1a6f86e8055f7bf15ff853d31e355b55a88/header.jpg?t=1769985795" alt="Night Shift at the Universe Factory（新規追加）" /></a></p><p>A Wario Ware style microgame project where every 12 second game is made by a different indie developer!</p><p><a href="https://store.steampowered.com/app/4272530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Big Dam Adventure（新規追加）</title>
   <link>https://store.steampowered.com/app/4290010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346690/5fc24a3d1ae6e5cb0a4c65ad80fd0a6db7a28e8e/header.jpg?t=1769725466" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346690/5fc24a3d1ae6e5cb0a4c65ad80fd0a6db7a28e8e/header.jpg?t=1769725466" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4346690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346690/5fc24a3d1ae6e5cb0a4c65ad80fd0a6db7a28e8e/header.jpg?t=1769725466" alt="Genigods: Nezha（新規追加）" /></a></p><p>Genigods: Nezha debut - Chinese myth’s God of War - A World in Ruins, A Hero&#x27;s Call — China’s Iconic Nezha (Spirit Pearl God of War) heeds the call - Celestial Combat: Dual Stances, Fluidmystic, Relic-Fusion - Colossal Gods and the Sun Tree - Water Philosophy &amp;amp; Jeet Kune Do Mechanics</p><p><a href="https://store.steampowered.com/app/4346690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Three Doors（新規追加）</title>
-  <link>https://store.steampowered.com/app/4378160/</link>
-  <guid isPermaLink="false">steam-store-published-4378160</guid>
-  <pubDate>Thu, 29 Jan 2026 22:58:32 +0000</pubDate>
-  <description>Three Doors is a simple yet addictive game of chance! Choose one of three doors: if you&#x27;re lucky, you&#x27;ll advance; if you&#x27;re unlucky, the game will start over. Make your choice and discover what awaits you!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378160/566e1bf448ab682f686da41e32ea3d7072beca51/header.jpg?t=1769725416" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378160/566e1bf448ab682f686da41e32ea3d7072beca51/header.jpg?t=1769725416" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378160/566e1bf448ab682f686da41e32ea3d7072beca51/header.jpg?t=1769725416" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4378160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378160/566e1bf448ab682f686da41e32ea3d7072beca51/header.jpg?t=1769725416" alt="Three Doors（新規追加）" /></a></p><p>Three Doors is a simple yet addictive game of chance! Choose one of three doors: if you&#x27;re lucky, you&#x27;ll advance; if you&#x27;re unlucky, the game will start over. Make your choice and discover what awaits you!</p><p><a href="https://store.steampowered.com/app/4378160/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
