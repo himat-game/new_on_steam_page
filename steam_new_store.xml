@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Feb 2026 09:02:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 09:47:47 +0000</lastBuildDate>
+<item>
+  <title>31 Days In Orange Carnival（新規追加）</title>
+  <link>https://store.steampowered.com/app/4289290/</link>
+  <guid isPermaLink="false">steam-store-published-4289290</guid>
+  <pubDate>Sun, 01 Feb 2026 09:47:47 +0000</pubDate>
+  <description>An interactive fiction survival game with text-based roguelike elements, where players make daily choices, uncover new information, and reach multiple endings through a dangerous month-long scenario.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289290/39c025e2226a99cb021e991a4507a3140fe43ca3/header.jpg?t=1769936833" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289290/39c025e2226a99cb021e991a4507a3140fe43ca3/header.jpg?t=1769936833" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289290/39c025e2226a99cb021e991a4507a3140fe43ca3/header.jpg?t=1769936833" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4289290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289290/39c025e2226a99cb021e991a4507a3140fe43ca3/header.jpg?t=1769936833" alt="31 Days In Orange Carnival（新規追加）" /></a></p><p>An interactive fiction survival game with text-based roguelike elements, where players make daily choices, uncover new information, and reach multiple endings through a dangerous month-long scenario.</p><p><a href="https://store.steampowered.com/app/4289290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Wonderful Cat Life（新規追加）</title>
   <link>https://store.steampowered.com/app/4020840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323050/e81e2e8d2e38601e4776c2aaf030cde9dc4a6c2e/header.jpg?t=1769714900" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323050/e81e2e8d2e38601e4776c2aaf030cde9dc4a6c2e/header.jpg?t=1769714900" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4323050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323050/e81e2e8d2e38601e4776c2aaf030cde9dc4a6c2e/header.jpg?t=1769714900" alt="ChoreoCraft（新規追加）" /></a></p><p>A relaxing, creative editor for building dance choreographies. Mix songs from a growing catalog with dance animations, characters, and environments. Create in any style (anime, fantasy, cartoon, realistic &amp;amp; more) then share and remix with the community. Your imagination is the limit!</p><p><a href="https://store.steampowered.com/app/4323050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Broom Broom（新規追加）</title>
-  <link>https://store.steampowered.com/app/3981510/</link>
-  <guid isPermaLink="false">steam-store-published-3981510</guid>
-  <pubDate>Thu, 29 Jan 2026 19:46:26 +0000</pubDate>
-  <description>Grab your broom, fly over to people in need and brew them potions after a catastrophic snowstorm has hit your village! Talk to your lovely (but mostly grumpy) neighbours as you find your place in this short and cozy adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981510/9ad747c1fc1b3b6444ba98222f4d773812742e8a/header.jpg?t=1769715053" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981510/9ad747c1fc1b3b6444ba98222f4d773812742e8a/header.jpg?t=1769715053" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981510/9ad747c1fc1b3b6444ba98222f4d773812742e8a/header.jpg?t=1769715053" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3981510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981510/9ad747c1fc1b3b6444ba98222f4d773812742e8a/header.jpg?t=1769715053" alt="Broom Broom（新規追加）" /></a></p><p>Grab your broom, fly over to people in need and brew them potions after a catastrophic snowstorm has hit your village! Talk to your lovely (but mostly grumpy) neighbours as you find your place in this short and cozy adventure.</p><p><a href="https://store.steampowered.com/app/3981510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
