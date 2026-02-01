@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Feb 2026 07:35:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 07:59:03 +0000</lastBuildDate>
+<item>
+  <title>Tavern Defense（新規追加）</title>
+  <link>https://store.steampowered.com/app/4376060/</link>
+  <guid isPermaLink="false">steam-store-published-4376060</guid>
+  <pubDate>Sun, 01 Feb 2026 07:59:03 +0000</pubDate>
+  <description>Tavern Defense is a Roguelike Tower Defense game where you build your deck of cards, carve your own paths for monsters, and create powerful synergies to win the game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376060/dfa4585ef557ecdff151e3269cead5d1d147ec9a/header.jpg?t=1769931700" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376060/dfa4585ef557ecdff151e3269cead5d1d147ec9a/header.jpg?t=1769931700" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376060/dfa4585ef557ecdff151e3269cead5d1d147ec9a/header.jpg?t=1769931700" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4376060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376060/dfa4585ef557ecdff151e3269cead5d1d147ec9a/header.jpg?t=1769931700" alt="Tavern Defense（新規追加）" /></a></p><p>Tavern Defense is a Roguelike Tower Defense game where you build your deck of cards, carve your own paths for monsters, and create powerful synergies to win the game.</p><p><a href="https://store.steampowered.com/app/4376060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Horn of the Warlord（新規追加）</title>
   <link>https://store.steampowered.com/app/4380120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372400/a24116893a23da02127d5dbf206cfecfd7fe9861/header.jpg?t=1769710659" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372400/a24116893a23da02127d5dbf206cfecfd7fe9861/header.jpg?t=1769710659" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4372400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372400/a24116893a23da02127d5dbf206cfecfd7fe9861/header.jpg?t=1769710659" alt="Candy Girl!! Dreams Forever（新規追加）" /></a></p><p>Help a 9-year-old girl reunite with her grandmother in a delicate world where comfort and unease walk side by side.</p><p><a href="https://store.steampowered.com/app/4372400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Planet of Lava – Save the Planet（新規追加）</title>
-  <link>https://store.steampowered.com/app/4361750/</link>
-  <guid isPermaLink="false">steam-store-published-4361750</guid>
-  <pubDate>Thu, 29 Jan 2026 19:05:32 +0000</pubDate>
-  <description>Alien creatures are melting the planet. Stop the catastrophe! A casual 3D platformer in a world of lava. Save the overheated planet!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361750/d78cee65259e42a66ab6f0bd558951053d35c4cc/header.jpg?t=1769711989" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361750/d78cee65259e42a66ab6f0bd558951053d35c4cc/header.jpg?t=1769711989" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361750/d78cee65259e42a66ab6f0bd558951053d35c4cc/header.jpg?t=1769711989" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4361750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361750/d78cee65259e42a66ab6f0bd558951053d35c4cc/header.jpg?t=1769711989" alt="Planet of Lava – Save the Planet（新規追加）" /></a></p><p>Alien creatures are melting the planet. Stop the catastrophe! A casual 3D platformer in a world of lava. Save the overheated planet!</p><p><a href="https://store.steampowered.com/app/4361750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
