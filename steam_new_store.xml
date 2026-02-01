@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Feb 2026 08:40:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 09:02:57 +0000</lastBuildDate>
+<item>
+  <title>A Wonderful Cat Life（新規追加）</title>
+  <link>https://store.steampowered.com/app/4020840/</link>
+  <guid isPermaLink="false">steam-store-published-4020840</guid>
+  <pubDate>Sun, 01 Feb 2026 09:02:57 +0000</pubDate>
+  <description>A tiny open-world game where you experience a carefree life through a protagonist who wanders into the world of stray cats.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020840/8cca74ce68558761eba1e7e02791efb861fe8f1c/header.jpg?t=1768359820" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020840/8cca74ce68558761eba1e7e02791efb861fe8f1c/header.jpg?t=1768359820" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020840/8cca74ce68558761eba1e7e02791efb861fe8f1c/header.jpg?t=1768359820" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4020840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020840/8cca74ce68558761eba1e7e02791efb861fe8f1c/header.jpg?t=1768359820" alt="A Wonderful Cat Life（新規追加）" /></a></p><p>A tiny open-world game where you experience a carefree life through a protagonist who wanders into the world of stray cats.</p><p><a href="https://store.steampowered.com/app/4020840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lethargic（新規追加）</title>
   <link>https://store.steampowered.com/app/4268330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981510/9ad747c1fc1b3b6444ba98222f4d773812742e8a/header.jpg?t=1769715053" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981510/9ad747c1fc1b3b6444ba98222f4d773812742e8a/header.jpg?t=1769715053" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3981510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981510/9ad747c1fc1b3b6444ba98222f4d773812742e8a/header.jpg?t=1769715053" alt="Broom Broom（新規追加）" /></a></p><p>Grab your broom, fly over to people in need and brew them potions after a catastrophic snowstorm has hit your village! Talk to your lovely (but mostly grumpy) neighbours as you find your place in this short and cozy adventure.</p><p><a href="https://store.steampowered.com/app/3981510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rick&#x27;s Konbini（新規追加）</title>
-  <link>https://store.steampowered.com/app/4211000/</link>
-  <guid isPermaLink="false">steam-store-published-4211000</guid>
-  <pubDate>Thu, 29 Jan 2026 19:46:26 +0000</pubDate>
-  <description>5 days until the apocalypse... and you finally got a j*b!!  The chronically ill rabbit &amp;quot;Rick&amp;quot; Was given an ultimatum by his roommate to get a j*b or get OUT!! So he puts on his &amp;quot;best&amp;quot; smelling suit and gets to work!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211000/8695e979360df12afda49ed66deb78257a7a95e7/header.jpg?t=1769713591" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211000/8695e979360df12afda49ed66deb78257a7a95e7/header.jpg?t=1769713591" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211000/8695e979360df12afda49ed66deb78257a7a95e7/header.jpg?t=1769713591" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4211000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211000/8695e979360df12afda49ed66deb78257a7a95e7/header.jpg?t=1769713591" alt="Rick&#x27;s Konbini（新規追加）" /></a></p><p>5 days until the apocalypse... and you finally got a j*b!!  The chronically ill rabbit &amp;quot;Rick&amp;quot; Was given an ultimatum by his roommate to get a j*b or get OUT!! So he puts on his &amp;quot;best&amp;quot; smelling suit and gets to work!</p><p><a href="https://store.steampowered.com/app/4211000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
