@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Feb 2026 16:26:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 20:23:27 +0000</lastBuildDate>
+<item>
+  <title>ATOM RPG 2（新規追加）</title>
+  <link>https://store.steampowered.com/app/3429280/</link>
+  <guid isPermaLink="false">steam-store-published-3429280</guid>
+  <pubDate>Sun, 01 Feb 2026 20:23:27 +0000</pubDate>
+  <description>ATOM RPG 2 is a story-heavy tactical CRPG set in a world where the Cold War turned hot. Your choices not only shape a resurrecting civilisation, but may also prevent a new apocalypse looming on the horizon.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429280/9fa96b656686b3889d168d2bccc30160140c1586/header.jpg?t=1769976744" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429280/9fa96b656686b3889d168d2bccc30160140c1586/header.jpg?t=1769976744" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429280/9fa96b656686b3889d168d2bccc30160140c1586/header.jpg?t=1769976744" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3429280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429280/9fa96b656686b3889d168d2bccc30160140c1586/header.jpg?t=1769976744" alt="ATOM RPG 2（新規追加）" /></a></p><p>ATOM RPG 2 is a story-heavy tactical CRPG set in a world where the Cold War turned hot. Your choices not only shape a resurrecting civilisation, but may also prevent a new apocalypse looming on the horizon.</p><p><a href="https://store.steampowered.com/app/3429280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Void Eaters（新規追加）</title>
   <link>https://store.steampowered.com/app/4344620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348570/41c8abc2bd0ef5914055cd735e8c6680f19da4f5/header.jpg?t=1769724059" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348570/41c8abc2bd0ef5914055cd735e8c6680f19da4f5/header.jpg?t=1769724059" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4348570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348570/41c8abc2bd0ef5914055cd735e8c6680f19da4f5/header.jpg?t=1769724059" alt="Idle Dyson Swarm（新規追加）" /></a></p><p>Ever wanted a Dyson swarm of your own? Now you can have one with just a few clicks! Manage a solar empire, produce bots which will make solar panels for you. Send your panels to the sun to generate energy and sell that energy to make money which you can spend on even more bots!</p><p><a href="https://store.steampowered.com/app/4348570/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Whippet At Large（新規追加）</title>
-  <link>https://store.steampowered.com/app/4333780/</link>
-  <guid isPermaLink="false">steam-store-published-4333780</guid>
-  <pubDate>Thu, 29 Jan 2026 22:27:04 +0000</pubDate>
-  <description>Your owner has abandoned you yet again for something she calls a “job.” You must find her quickly before the lack of attention becomes fatal.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333780/0b1ce26dc01b2de5dddfe2279086d908d5af7948/header.jpg?t=1769725399" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333780/0b1ce26dc01b2de5dddfe2279086d908d5af7948/header.jpg?t=1769725399" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333780/0b1ce26dc01b2de5dddfe2279086d908d5af7948/header.jpg?t=1769725399" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4333780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333780/0b1ce26dc01b2de5dddfe2279086d908d5af7948/header.jpg?t=1769725399" alt="Whippet At Large（新規追加）" /></a></p><p>Your owner has abandoned you yet again for something she calls a “job.” You must find her quickly before the lack of attention becomes fatal.</p><p><a href="https://store.steampowered.com/app/4333780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
