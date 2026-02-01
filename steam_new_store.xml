@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Feb 2026 09:47:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 10:57:07 +0000</lastBuildDate>
+<item>
+  <title>Spell Circle Mage（新規追加）</title>
+  <link>https://store.steampowered.com/app/4375790/</link>
+  <guid isPermaLink="false">steam-store-published-4375790</guid>
+  <pubDate>Sun, 01 Feb 2026 10:57:07 +0000</pubDate>
+  <description>Spell Circle Mage is a 2D adventure game that combines action, chess-like strategy, and Roguelite elements. Players control the mage Elana, placing spell circles to unleash magic and defeat enemies!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375790/1a4c0b5c12c7f299bcac4cbaf7841f8fc04894d6/header.jpg?t=1769943217" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375790/1a4c0b5c12c7f299bcac4cbaf7841f8fc04894d6/header.jpg?t=1769943217" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375790/1a4c0b5c12c7f299bcac4cbaf7841f8fc04894d6/header.jpg?t=1769943217" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4375790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375790/1a4c0b5c12c7f299bcac4cbaf7841f8fc04894d6/header.jpg?t=1769943217" alt="Spell Circle Mage（新規追加）" /></a></p><p>Spell Circle Mage is a 2D adventure game that combines action, chess-like strategy, and Roguelite elements. Players control the mage Elana, placing spell circles to unleash magic and defeat enemies!</p><p><a href="https://store.steampowered.com/app/4375790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>31 Days In Orange Carnival（新規追加）</title>
   <link>https://store.steampowered.com/app/4289290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363440/3f662d00e999110a1f45d419064d2f0a3902a964/header.jpg?t=1769713609" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363440/3f662d00e999110a1f45d419064d2f0a3902a964/header.jpg?t=1769713609" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4363440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363440/3f662d00e999110a1f45d419064d2f0a3902a964/header.jpg?t=1769713609" alt="SECRET WORK AFTER HOURS（新規追加）" /></a></p><p>Hentai visual novel where content is unlocked by winning minigames. There are 4 girls, 4 challenges, and two endings for each one. A man reincarnates in a world of semi-human girls, works in the village, and develops relationships. 18+ content.</p><p><a href="https://store.steampowered.com/app/4363440/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ChoreoCraft（新規追加）</title>
-  <link>https://store.steampowered.com/app/4323050/</link>
-  <guid isPermaLink="false">steam-store-published-4323050</guid>
-  <pubDate>Thu, 29 Jan 2026 19:46:26 +0000</pubDate>
-  <description>A relaxing, creative editor for building dance choreographies. Mix songs from a growing catalog with dance animations, characters, and environments. Create in any style (anime, fantasy, cartoon, realistic &amp;amp; more) then share and remix with the community. Your imagination is the limit!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323050/e81e2e8d2e38601e4776c2aaf030cde9dc4a6c2e/header.jpg?t=1769714900" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323050/e81e2e8d2e38601e4776c2aaf030cde9dc4a6c2e/header.jpg?t=1769714900" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323050/e81e2e8d2e38601e4776c2aaf030cde9dc4a6c2e/header.jpg?t=1769714900" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4323050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323050/e81e2e8d2e38601e4776c2aaf030cde9dc4a6c2e/header.jpg?t=1769714900" alt="ChoreoCraft（新規追加）" /></a></p><p>A relaxing, creative editor for building dance choreographies. Mix songs from a growing catalog with dance animations, characters, and environments. Create in any style (anime, fantasy, cartoon, realistic &amp;amp; more) then share and remix with the community. Your imagination is the limit!</p><p><a href="https://store.steampowered.com/app/4323050/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
