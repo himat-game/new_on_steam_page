@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 02 Feb 2026 08:39:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 09:30:04 +0000</lastBuildDate>
+<item>
+  <title>Yurei: Ink of the Damned（新規追加）</title>
+  <link>https://store.steampowered.com/app/4372880/</link>
+  <guid isPermaLink="false">steam-store-published-4372880</guid>
+  <pubDate>Mon, 02 Feb 2026 09:30:04 +0000</pubDate>
+  <description>A third-person graphic adventure in which our protagonist enters a world of Japanese legends, where his objective will be to collect a series of cards to advance through the stories and escape from that world full of nightmares.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372880/2184b142531b12269a0974e989b05a228df6241b/header.jpg?t=1770023164" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372880/2184b142531b12269a0974e989b05a228df6241b/header.jpg?t=1770023164" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372880/2184b142531b12269a0974e989b05a228df6241b/header.jpg?t=1770023164" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4372880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4372880/2184b142531b12269a0974e989b05a228df6241b/header.jpg?t=1770023164" alt="Yurei: Ink of the Damned（新規追加）" /></a></p><p>A third-person graphic adventure in which our protagonist enters a world of Japanese legends, where his objective will be to collect a series of cards to advance through the stories and escape from that world full of nightmares.</p><p><a href="https://store.steampowered.com/app/4372880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>TANCRUSH（新規追加）</title>
   <link>https://store.steampowered.com/app/4223400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/e081a5425c475002cf296778abbc518bf96d2a4d/header.jpg?t=1769741930" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/e081a5425c475002cf296778abbc518bf96d2a4d/header.jpg?t=1769741930" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4304510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304510/e081a5425c475002cf296778abbc518bf96d2a4d/header.jpg?t=1769741930" alt="Auto Farm（新規追加）" /></a></p><p>A JavaScript-based coding farm game. Inspired by The Farmer Was Replaced. The core goal is to help players learn programming by writing code that controls characters in a 2D farm.</p><p><a href="https://store.steampowered.com/app/4304510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>被击垮而堕落的强气人妻（新規追加）</title>
-  <link>https://store.steampowered.com/app/4376090/</link>
-  <guid isPermaLink="false">steam-store-published-4376090</guid>
-  <pubDate>Fri, 30 Jan 2026 04:07:24 +0000</pubDate>
-  <description>A strong-willed newlywed begins to see cracks in her once-stable life after an unexpected encounter. As subtle changes emerge and relationships shift, she must face inner uncertainty.Her path—and ending—are shaped by your choices.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376090/f5293be6fe7a0eeaa24aff2211a1d21496f86312/header.jpg?t=1769739949" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376090/f5293be6fe7a0eeaa24aff2211a1d21496f86312/header.jpg?t=1769739949" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376090/f5293be6fe7a0eeaa24aff2211a1d21496f86312/header.jpg?t=1769739949" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4376090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376090/f5293be6fe7a0eeaa24aff2211a1d21496f86312/header.jpg?t=1769739949" alt="被击垮而堕落的强气人妻（新規追加）" /></a></p><p>A strong-willed newlywed begins to see cracks in her once-stable life after an unexpected encounter. As subtle changes emerge and relationships shift, she must face inner uncertainty.Her path—and ending—are shaped by your choices.</p><p><a href="https://store.steampowered.com/app/4376090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
