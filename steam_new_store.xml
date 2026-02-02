@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 02 Feb 2026 14:10:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 15:03:21 +0000</lastBuildDate>
+<item>
+  <title>Ghosty Is In Hell（新規追加）</title>
+  <link>https://store.steampowered.com/app/4292030/</link>
+  <guid isPermaLink="false">steam-store-published-4292030</guid>
+  <pubDate>Mon, 02 Feb 2026 15:03:21 +0000</pubDate>
+  <description>Ghosty is in Hell is a fast-paced, retro-inspired action game about surviving relentless enemy waves in a hostile underworld. Upgrade Ghosty. Buy weapons. Kill demons. Repeat.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292030/01c7364eae858e8c11d28d5478d7b605c3ebedde/header.jpg?t=1770043931" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292030/01c7364eae858e8c11d28d5478d7b605c3ebedde/header.jpg?t=1770043931" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292030/01c7364eae858e8c11d28d5478d7b605c3ebedde/header.jpg?t=1770043931" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4292030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292030/01c7364eae858e8c11d28d5478d7b605c3ebedde/header.jpg?t=1770043931" alt="Ghosty Is In Hell（新規追加）" /></a></p><p>Ghosty is in Hell is a fast-paced, retro-inspired action game about surviving relentless enemy waves in a hostile underworld. Upgrade Ghosty. Buy weapons. Kill demons. Repeat.</p><p><a href="https://store.steampowered.com/app/4292030/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kat Kat: The Food Truck（新規追加）</title>
   <link>https://store.steampowered.com/app/4364690/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356890/1ac62c3384c562778068a810e8cc547f68502b65/header.jpg?t=1769748726" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356890/1ac62c3384c562778068a810e8cc547f68502b65/header.jpg?t=1769748726" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4356890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356890/1ac62c3384c562778068a810e8cc547f68502b65/header.jpg?t=1769748726" alt="Feed The DEMON（新規追加）" /></a></p><p>Unleash carnage in this dark incremental clicker. Sacrifice humans to fuel your demonic evolution and explode your wealth. Unlock spells and a deep skill tree to push your limits. Prestige to permanently raise your starting floor to reach god-tier forms. A satisfying loop of ultimate power progress.</p><p><a href="https://store.steampowered.com/app/4356890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>草莓味儿Strawberry Flavor Sci-Fi（新規追加）</title>
-  <link>https://store.steampowered.com/app/3837160/</link>
-  <guid isPermaLink="false">steam-store-published-3837160</guid>
-  <pubDate>Fri, 30 Jan 2026 05:16:33 +0000</pubDate>
-  <description>A suspense and sci-fi visual novel with fundamentalist vibes. In a near-future world that may descend at any moment, you will step into the role of an &amp;quot;Ocular&amp;quot; to gradually unravel a series of covert plots and overt schemes interwoven with technological ethics and human nature.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837160/742d8718a4dbebd1fbfd970c901ad77d7e726dd0/header.jpg?t=1769747915" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837160/742d8718a4dbebd1fbfd970c901ad77d7e726dd0/header.jpg?t=1769747915" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837160/742d8718a4dbebd1fbfd970c901ad77d7e726dd0/header.jpg?t=1769747915" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3837160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837160/742d8718a4dbebd1fbfd970c901ad77d7e726dd0/header.jpg?t=1769747915" alt="草莓味儿Strawberry Flavor Sci-Fi（新規追加）" /></a></p><p>A suspense and sci-fi visual novel with fundamentalist vibes. In a near-future world that may descend at any moment, you will step into the role of an &amp;quot;Ocular&amp;quot; to gradually unravel a series of covert plots and overt schemes interwoven with technological ethics and human nature.</p><p><a href="https://store.steampowered.com/app/3837160/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
