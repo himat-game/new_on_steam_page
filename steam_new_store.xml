@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 04 Feb 2026 08:52:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Feb 2026 09:40:29 +0000</lastBuildDate>
+<item>
+  <title>Airline Glider（新規追加）</title>
+  <link>https://store.steampowered.com/app/4386440/</link>
+  <guid isPermaLink="false">steam-store-published-4386440</guid>
+  <pubDate>Wed, 04 Feb 2026 09:40:29 +0000</pubDate>
+  <description>Take to the skies in a classic 2D side-scrolling shoot ’em up. Fight through multiple levels, upgrade your plane and race against time to defeat the final boss.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386440/6aca7c9a2c670dcfe78635090a5e440447e5236e/header.jpg?t=1770197339" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386440/6aca7c9a2c670dcfe78635090a5e440447e5236e/header.jpg?t=1770197339" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386440/6aca7c9a2c670dcfe78635090a5e440447e5236e/header.jpg?t=1770197339" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4386440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386440/6aca7c9a2c670dcfe78635090a5e440447e5236e/header.jpg?t=1770197339" alt="Airline Glider（新規追加）" /></a></p><p>Take to the skies in a classic 2D side-scrolling shoot ’em up. Fight through multiple levels, upgrade your plane and race against time to defeat the final boss.</p><p><a href="https://store.steampowered.com/app/4386440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Blood Arena Path of Steel（新規追加）</title>
   <link>https://store.steampowered.com/app/4346110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364690/812753813e6eae2202842dbdb6bb66864b478f73/header.jpg?t=1770039977" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364690/812753813e6eae2202842dbdb6bb66864b478f73/header.jpg?t=1770039977" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4364690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364690/812753813e6eae2202842dbdb6bb66864b478f73/header.jpg?t=1770039977" alt="Kat Kat: The Food Truck（新規追加）" /></a></p><p>Grow your kitchen step by step in a cozy and warm atmosphere! Prepare a variety of dishes for your adorable cat customers, open mini kitchens to try out new recipes, and keep up with the increasing pace easily with the help of your robots.😺🚚</p><p><a href="https://store.steampowered.com/app/4364690/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Meowgic（新規追加）</title>
-  <link>https://store.steampowered.com/app/4252290/</link>
-  <guid isPermaLink="false">steam-store-published-4252290</guid>
-  <pubDate>Mon, 02 Feb 2026 14:10:22 +0000</pubDate>
-  <description>YapYap X Cats X Harry Potter vibes. A co-op fantasy adventure where your voice is magic. Play as cat wizards, cast spells by shouting into your mic, explore fairy-tale worlds, fight monsters, and return to your air-baloon loaded with loot.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252290/61cb795b00d7c0e33fa4116f3e8cf15a05b5573d/header.jpg?t=1770040149" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252290/61cb795b00d7c0e33fa4116f3e8cf15a05b5573d/header.jpg?t=1770040149" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252290/61cb795b00d7c0e33fa4116f3e8cf15a05b5573d/header.jpg?t=1770040149" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4252290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252290/61cb795b00d7c0e33fa4116f3e8cf15a05b5573d/header.jpg?t=1770040149" alt="Meowgic（新規追加）" /></a></p><p>YapYap X Cats X Harry Potter vibes. A co-op fantasy adventure where your voice is magic. Play as cat wizards, cast spells by shouting into your mic, explore fairy-tale worlds, fight monsters, and return to your air-baloon loaded with loot.</p><p><a href="https://store.steampowered.com/app/4252290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
