@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 05 Feb 2026 19:35:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 20:01:10 +0000</lastBuildDate>
+<item>
+  <title>First miner（新規追加）</title>
+  <link>https://store.steampowered.com/app/4182270/</link>
+  <guid isPermaLink="false">steam-store-published-4182270</guid>
+  <pubDate>Thu, 05 Feb 2026 20:01:10 +0000</pubDate>
+  <description>You took shelter in some unknown cave, so now you don&#x27;t have a choice but to mine your way to greatness! Reach new depths with tools of your choice, explore new zones, collect rare minerals, get passive and active abilities, solve some puzzles, customize your character and more in &amp;quot;First Miner&amp;quot;!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4182270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" alt="First miner（新規追加）" /></a></p><p>You took shelter in some unknown cave, so now you don&#x27;t have a choice but to mine your way to greatness! Reach new depths with tools of your choice, explore new zones, collect rare minerals, get passive and active abilities, solve some puzzles, customize your character and more in &amp;quot;First Miner&amp;quot;!</p><p><a href="https://store.steampowered.com/app/4182270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Puzzle Mage（新規追加）</title>
   <link>https://store.steampowered.com/app/3962250/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365480/34e205e2259158b30918cce65bea29fc8a87b2c9/header.jpg?t=1770174934" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365480/34e205e2259158b30918cce65bea29fc8a87b2c9/header.jpg?t=1770174934" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4365480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365480/34e205e2259158b30918cce65bea29fc8a87b2c9/header.jpg?t=1770174934" alt="Expiare（新規追加）" /></a></p><p>Expiare is a fantasy-mystical action movie with puzzles and exciting boss battles. The main character breaks out of his small world, which has become his prison. And he&#x27;s trying to find out what&#x27;s going on here and how he got here.</p><p><a href="https://store.steampowered.com/app/4365480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Emoji Squad（新規追加）</title>
-  <link>https://store.steampowered.com/app/4376320/</link>
-  <guid isPermaLink="false">steam-store-published-4376320</guid>
-  <pubDate>Wed, 04 Feb 2026 04:18:35 +0000</pubDate>
-  <description>Emoji Squad is an auto-battler game that combines Roguelike elements, where you collect and train Emoji characters to form a team, exploring routes, defeating enemies, and ultimately the Boss in five distinctly styled chapters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376320/704d51c4a5283756488c9908c143662e50265fdf/header.jpg?t=1770177340" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376320/704d51c4a5283756488c9908c143662e50265fdf/header.jpg?t=1770177340" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376320/704d51c4a5283756488c9908c143662e50265fdf/header.jpg?t=1770177340" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4376320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376320/704d51c4a5283756488c9908c143662e50265fdf/header.jpg?t=1770177340" alt="Emoji Squad（新規追加）" /></a></p><p>Emoji Squad is an auto-battler game that combines Roguelike elements, where you collect and train Emoji characters to form a team, exploring routes, defeating enemies, and ultimately the Boss in five distinctly styled chapters.</p><p><a href="https://store.steampowered.com/app/4376320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
