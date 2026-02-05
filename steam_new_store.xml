@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 05 Feb 2026 21:57:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 22:30:01 +0000</lastBuildDate>
+<item>
+  <title>Urban Pulse: Nightwatch（新規追加）</title>
+  <link>https://store.steampowered.com/app/4352600/</link>
+  <guid isPermaLink="false">steam-store-published-4352600</guid>
+  <pubDate>Thu, 05 Feb 2026 22:30:01 +0000</pubDate>
+  <description>Monitor the city from your window. Identify anomalies, capture proof, and file reports before Exposure spikes. Miss too much, and what you’re watching starts watching back.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352600/e6ce74b815ec8a912142a5f86c877f898c6d5357/header.jpg?t=1770329008" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352600/e6ce74b815ec8a912142a5f86c877f898c6d5357/header.jpg?t=1770329008" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352600/e6ce74b815ec8a912142a5f86c877f898c6d5357/header.jpg?t=1770329008" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4352600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352600/e6ce74b815ec8a912142a5f86c877f898c6d5357/header.jpg?t=1770329008" alt="Urban Pulse: Nightwatch（新規追加）" /></a></p><p>Monitor the city from your window. Identify anomalies, capture proof, and file reports before Exposure spikes. Miss too much, and what you’re watching starts watching back.</p><p><a href="https://store.steampowered.com/app/4352600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Frostveil: The Last Winter（新規追加）</title>
   <link>https://store.steampowered.com/app/4314310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374570/45d94f4f065a2d80c25d5bbf350ce6a4e8cc5f97/header.jpg?t=1770180323" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374570/45d94f4f065a2d80c25d5bbf350ce6a4e8cc5f97/header.jpg?t=1770180323" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4374570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374570/45d94f4f065a2d80c25d5bbf350ce6a4e8cc5f97/header.jpg?t=1770180323" alt="ERLIK: The Ninth Branch（新規追加）" /></a></p><p>A narrative-driven psychological horror game inspired by Turkish mythology, where you explore a desolate Anatolian village, uncover forbidden truths, and confront an ancient entity rising from beneath the earth.</p><p><a href="https://store.steampowered.com/app/4374570/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ExoFlora: First Seeds（新規追加）</title>
-  <link>https://store.steampowered.com/app/4385290/</link>
-  <guid isPermaLink="false">steam-store-published-4385290</guid>
-  <pubDate>Wed, 04 Feb 2026 06:06:20 +0000</pubDate>
-  <description>ExoFlora: First Seeds is a farming simulation and management game set on an alien planet. Grow exotic species, control a greenhouse, research new technologies, and defend your crops in a living, unpredictable ecosystem.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385290/ebf3eb798109f83be4e0c16f856012a8d3ea6257/header.jpg?t=1770168126" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385290/ebf3eb798109f83be4e0c16f856012a8d3ea6257/header.jpg?t=1770168126" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385290/ebf3eb798109f83be4e0c16f856012a8d3ea6257/header.jpg?t=1770168126" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4385290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385290/ebf3eb798109f83be4e0c16f856012a8d3ea6257/header.jpg?t=1770168126" alt="ExoFlora: First Seeds（新規追加）" /></a></p><p>ExoFlora: First Seeds is a farming simulation and management game set on an alien planet. Grow exotic species, control a greenhouse, research new technologies, and defend your crops in a living, unpredictable ecosystem.</p><p><a href="https://store.steampowered.com/app/4385290/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
