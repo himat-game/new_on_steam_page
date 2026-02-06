@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 06 Feb 2026 22:20:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 23:23:01 +0000</lastBuildDate>
+<item>
+  <title>Jamhouse（新規追加）</title>
+  <link>https://store.steampowered.com/app/4300020/</link>
+  <guid isPermaLink="false">steam-store-published-4300020</guid>
+  <pubDate>Fri, 06 Feb 2026 23:23:01 +0000</pubDate>
+  <description>Jamhouse is a fast paced match-three/platformer hybrid. Run, jump, and haul tasty tiles to clear waves of jams falling around you!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300020/4797e4e627300e22f874cce5d1dc0b1fe8e15660/header.jpg?t=1770418412" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300020/4797e4e627300e22f874cce5d1dc0b1fe8e15660/header.jpg?t=1770418412" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300020/4797e4e627300e22f874cce5d1dc0b1fe8e15660/header.jpg?t=1770418412" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4300020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300020/4797e4e627300e22f874cce5d1dc0b1fe8e15660/header.jpg?t=1770418412" alt="Jamhouse（新規追加）" /></a></p><p>Jamhouse is a fast paced match-three/platformer hybrid. Run, jump, and haul tasty tiles to clear waves of jams falling around you!</p><p><a href="https://store.steampowered.com/app/4300020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Eastbound（新規追加）</title>
+  <link>https://store.steampowered.com/app/4193930/</link>
+  <guid isPermaLink="false">steam-store-published-4193930</guid>
+  <pubDate>Fri, 06 Feb 2026 23:23:01 +0000</pubDate>
+  <description>A kingdom in flames. A queen’s vengeance. Two brothers caught between survival and destiny.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193930/1fabd4bd59aac57e195da771a75ed572a6bc6c9d/header.jpg?t=1768380183" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193930/1fabd4bd59aac57e195da771a75ed572a6bc6c9d/header.jpg?t=1768380183" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193930/1fabd4bd59aac57e195da771a75ed572a6bc6c9d/header.jpg?t=1768380183" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4193930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193930/1fabd4bd59aac57e195da771a75ed572a6bc6c9d/header.jpg?t=1768380183" alt="Eastbound（新規追加）" /></a></p><p>A kingdom in flames. A queen’s vengeance. Two brothers caught between survival and destiny.</p><p><a href="https://store.steampowered.com/app/4193930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Dinosaur Tree（新規追加）</title>
+  <link>https://store.steampowered.com/app/4394420/</link>
+  <guid isPermaLink="false">steam-store-published-4394420</guid>
+  <pubDate>Fri, 06 Feb 2026 23:23:01 +0000</pubDate>
+  <description>Explore the ocean in your sailboat as a curious little dinosaur. Discover charming islands and meet friendly pals along the way. But beware! There may be something trying to tempt you off your path.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394420/6b38ff7f431e7fda4b1333ac6d899931ecd4f2ce/header.jpg?t=1770419565" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394420/6b38ff7f431e7fda4b1333ac6d899931ecd4f2ce/header.jpg?t=1770419565" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394420/6b38ff7f431e7fda4b1333ac6d899931ecd4f2ce/header.jpg?t=1770419565" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4394420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394420/6b38ff7f431e7fda4b1333ac6d899931ecd4f2ce/header.jpg?t=1770419565" alt="Dinosaur Tree（新規追加）" /></a></p><p>Explore the ocean in your sailboat as a curious little dinosaur. Discover charming islands and meet friendly pals along the way. But beware! There may be something trying to tempt you off your path.</p><p><a href="https://store.steampowered.com/app/4394420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>ЭОН（新規追加）</title>
   <link>https://store.steampowered.com/app/2398100/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369200/40a2904ae79362e9007cc0bf4cf75866677ba33b/header.jpg?t=1770256507" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369200/40a2904ae79362e9007cc0bf4cf75866677ba33b/header.jpg?t=1770256507" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4369200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369200/40a2904ae79362e9007cc0bf4cf75866677ba33b/header.jpg?t=1770256507" alt="Hot and Lovely : May Holiday（新規追加）" /></a></p><p>A perfect fusion of classic match-3 gameplay and intensely seductive married-woman romance! Gently drag with your mouse to connect three or more matching blocks in a line, making them vanish instantly... Every match unlocks a brand-new, explicit CG of a gorgeous married woman,🥵</p><p><a href="https://store.steampowered.com/app/4369200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>决战沙城（新規追加）</title>
-  <link>https://store.steampowered.com/app/4385600/</link>
-  <guid isPermaLink="false">steam-store-published-4385600</guid>
-  <pubDate>Thu, 05 Feb 2026 01:56:20 +0000</pubDate>
-  <description>Office Chaos: Battle for Slack is a brain-teasing puzzle game centered on the core meme of &amp;quot;office slacking.&amp;quot; With exaggerated cartoon visuals and dark humor, it turns the daily &amp;quot;cat-and-mouse&amp;quot; games of office life into a hilarious puzzle-adventure experience.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385600/59bc6984552acd53453af632361a6402af0852ac/header.jpg?t=1770253764" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385600/59bc6984552acd53453af632361a6402af0852ac/header.jpg?t=1770253764" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385600/59bc6984552acd53453af632361a6402af0852ac/header.jpg?t=1770253764" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4385600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385600/59bc6984552acd53453af632361a6402af0852ac/header.jpg?t=1770253764" alt="决战沙城（新規追加）" /></a></p><p>Office Chaos: Battle for Slack is a brain-teasing puzzle game centered on the core meme of &amp;quot;office slacking.&amp;quot; With exaggerated cartoon visuals and dark humor, it turns the daily &amp;quot;cat-and-mouse&amp;quot; games of office life into a hilarious puzzle-adventure experience.</p><p><a href="https://store.steampowered.com/app/4385600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>MILK ME DARLING: THE ANALIZED BREAST FRIEND（新規追加）</title>
-  <link>https://store.steampowered.com/app/4379760/</link>
-  <guid isPermaLink="false">steam-store-published-4379760</guid>
-  <pubDate>Thu, 05 Feb 2026 01:56:20 +0000</pubDate>
-  <description>MILK ME DARLING: THE ANALIZED BREAST FRIEND (all characters are 18+ and no character get hurt in this video game), a double penetration sex simulation game</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379760/1f873dcbc395f7065ead6834e44652a64b4858f8/header.jpg?t=1770256543" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379760/1f873dcbc395f7065ead6834e44652a64b4858f8/header.jpg?t=1770256543" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379760/1f873dcbc395f7065ead6834e44652a64b4858f8/header.jpg?t=1770256543" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4379760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379760/1f873dcbc395f7065ead6834e44652a64b4858f8/header.jpg?t=1770256543" alt="MILK ME DARLING: THE ANALIZED BREAST FRIEND（新規追加）" /></a></p><p>MILK ME DARLING: THE ANALIZED BREAST FRIEND (all characters are 18+ and no character get hurt in this video game), a double penetration sex simulation game</p><p><a href="https://store.steampowered.com/app/4379760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sumo Battlegrounds（新規追加）</title>
-  <link>https://store.steampowered.com/app/3243800/</link>
-  <guid isPermaLink="false">steam-store-published-3243800</guid>
-  <pubDate>Thu, 05 Feb 2026 01:56:20 +0000</pubDate>
-  <description>Sumo is a strategy board game where players maneuver pieces of varying strengths on a 9x9 grid to push and pull their opponent&#x27;s pieces off the board, combining simple mechanics with deep strategic possibilities.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243800/161f8787974e129bbd1c703bdbf0003bcb6c9f97/header.jpg?t=1770254854" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243800/161f8787974e129bbd1c703bdbf0003bcb6c9f97/header.jpg?t=1770254854" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243800/161f8787974e129bbd1c703bdbf0003bcb6c9f97/header.jpg?t=1770254854" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3243800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243800/161f8787974e129bbd1c703bdbf0003bcb6c9f97/header.jpg?t=1770254854" alt="Sumo Battlegrounds（新規追加）" /></a></p><p>Sumo is a strategy board game where players maneuver pieces of varying strengths on a 9x9 grid to push and pull their opponent&#x27;s pieces off the board, combining simple mechanics with deep strategic possibilities.</p><p><a href="https://store.steampowered.com/app/3243800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
