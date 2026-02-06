@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 05 Feb 2026 23:31:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Feb 2026 23:54:40 +0000</lastBuildDate>
+<item>
+  <title>Last Courier（新規追加）</title>
+  <link>https://store.steampowered.com/app/4385370/</link>
+  <guid isPermaLink="false">steam-store-published-4385370</guid>
+  <pubDate>Thu, 05 Feb 2026 23:54:40 +0000</pubDate>
+  <description>Every package is a mile closer to home. As the world’s last courier, navigate a silent, zombie-infested city to earn credits for a final evacuation ticket. In this atmospheric journey, your only connection to your family is a flickering screen and a promise that must be kept.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385370/ae6e0d3faf2947cdcd9fbc99b71d9f21ab659695/header.jpg?t=1770335509" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385370/ae6e0d3faf2947cdcd9fbc99b71d9f21ab659695/header.jpg?t=1770335509" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385370/ae6e0d3faf2947cdcd9fbc99b71d9f21ab659695/header.jpg?t=1770335509" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4385370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385370/ae6e0d3faf2947cdcd9fbc99b71d9f21ab659695/header.jpg?t=1770335509" alt="Last Courier（新規追加）" /></a></p><p>Every package is a mile closer to home. As the world’s last courier, navigate a silent, zombie-infested city to earn credits for a final evacuation ticket. In this atmospheric journey, your only connection to your family is a flickering screen and a promise that must be kept.</p><p><a href="https://store.steampowered.com/app/4385370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Knock Knock!（新規追加）</title>
   <link>https://store.steampowered.com/app/4385660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339530/867379d7306dce3aa3a091cc2c91bd109b6e4e88/header.jpg?t=1770184827" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339530/867379d7306dce3aa3a091cc2c91bd109b6e4e88/header.jpg?t=1770184827" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4339530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339530/867379d7306dce3aa3a091cc2c91bd109b6e4e88/header.jpg?t=1770184827" alt="Runeomicon: Training Room（新規追加）" /></a></p><p>Practice rune drawing outside the ritual. Runeomicon: Training Room lets you train across multiple difficulty levels and sharpen your skills without the threat of failure. Learn the patterns, build muscle memory, and prepare yourself for the relentless pressure of the full ritual in Runeomicon.</p><p><a href="https://store.steampowered.com/app/4339530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tidal Life（新規追加）</title>
-  <link>https://store.steampowered.com/app/4184000/</link>
-  <guid isPermaLink="false">steam-store-published-4184000</guid>
-  <pubDate>Wed, 04 Feb 2026 06:06:20 +0000</pubDate>
-  <description>Tidal Life is a first person open world exploration game. On this vast and boundless island, you must survive through diving, fishing, and beachcombing. Use the resources you gather to upgrade your equipment, complete the illustrated guide, enrich your island. collect or defeat them all !</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184000/90297a52df392083c485e9e519304d47dc3124bf/header.jpg?t=1770183537" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184000/90297a52df392083c485e9e519304d47dc3124bf/header.jpg?t=1770183537" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184000/90297a52df392083c485e9e519304d47dc3124bf/header.jpg?t=1770183537" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4184000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184000/90297a52df392083c485e9e519304d47dc3124bf/header.jpg?t=1770183537" alt="Tidal Life（新規追加）" /></a></p><p>Tidal Life is a first person open world exploration game. On this vast and boundless island, you must survive through diving, fishing, and beachcombing. Use the resources you gather to upgrade your equipment, complete the illustrated guide, enrich your island. collect or defeat them all !</p><p><a href="https://store.steampowered.com/app/4184000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
