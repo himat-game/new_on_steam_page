@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 06 Feb 2026 21:02:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Feb 2026 21:47:07 +0000</lastBuildDate>
+<item>
+  <title>HOPE FALLS（新規追加）</title>
+  <link>https://store.steampowered.com/app/3998220/</link>
+  <guid isPermaLink="false">steam-store-published-3998220</guid>
+  <pubDate>Fri, 06 Feb 2026 21:47:07 +0000</pubDate>
+  <description>This is a survival game you cannot survive. An asteroid is coming. Explore, fight, and choose who to trust in the last days of Hope Falls.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998220/cd4f0c52d42299f41532f800860b216f60f66e7b/header.jpg?t=1770414102" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998220/cd4f0c52d42299f41532f800860b216f60f66e7b/header.jpg?t=1770414102" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998220/cd4f0c52d42299f41532f800860b216f60f66e7b/header.jpg?t=1770414102" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3998220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998220/cd4f0c52d42299f41532f800860b216f60f66e7b/header.jpg?t=1770414102" alt="HOPE FALLS（新規追加）" /></a></p><p>This is a survival game you cannot survive. An asteroid is coming. Explore, fight, and choose who to trust in the last days of Hope Falls.</p><p><a href="https://store.steampowered.com/app/3998220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tunnels（新規追加）</title>
   <link>https://store.steampowered.com/app/4385550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265740/28d6e92ea58e75dde7a69047d3a5263967dc8f30/header.jpg?t=1770251167" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265740/28d6e92ea58e75dde7a69047d3a5263967dc8f30/header.jpg?t=1770251167" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4265740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265740/28d6e92ea58e75dde7a69047d3a5263967dc8f30/header.jpg?t=1770251167" alt="Gunclone Arena（新規追加）" /></a></p><p>Gunclone Arena is a top-down looter-shooter roguelite. Fight as a super-clone that can wield 6 weapons, a Beam and Shield in a dystopian TV show! Loot thousands of weapon variants with ricochet, detonate, shock, pierce and more. Stack build-changing Mods. Notice: Escape is grounds for perma-recycle.</p><p><a href="https://store.steampowered.com/app/4265740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Void Sanction（新規追加）</title>
-  <link>https://store.steampowered.com/app/4386230/</link>
-  <guid isPermaLink="false">steam-store-published-4386230</guid>
-  <pubDate>Wed, 04 Feb 2026 23:55:46 +0000</pubDate>
-  <description>A sci-fi action RPG. Battle alien hordes with fast-paced combat, evolving weapons, and a combat drone companion. Upgrade your arsenal, defeat challenging bosses, and explore a hostile alien world.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386230/a8aed3126160ce840f5ff926a23dbd6efb4a996e/header.jpg?t=1770248260" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386230/a8aed3126160ce840f5ff926a23dbd6efb4a996e/header.jpg?t=1770248260" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386230/a8aed3126160ce840f5ff926a23dbd6efb4a996e/header.jpg?t=1770248260" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4386230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386230/a8aed3126160ce840f5ff926a23dbd6efb4a996e/header.jpg?t=1770248260" alt="Void Sanction（新規追加）" /></a></p><p>A sci-fi action RPG. Battle alien hordes with fast-paced combat, evolving weapons, and a combat drone companion. Upgrade your arsenal, defeat challenging bosses, and explore a hostile alien world.</p><p><a href="https://store.steampowered.com/app/4386230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
