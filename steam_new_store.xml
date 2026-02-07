@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 09:00:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 09:57:55 +0000</lastBuildDate>
+<item>
+  <title>Starboys（新規追加）</title>
+  <link>https://store.steampowered.com/app/3756250/</link>
+  <guid isPermaLink="false">steam-store-published-3756250</guid>
+  <pubDate>Sat, 07 Feb 2026 09:57:55 +0000</pubDate>
+  <description>Third-person arena shooter where gravity is a weapon. Run on walls, fight on ceilings, and flip mid-air to outplay friends in fast 1v1–4v4 matches (up to 8). Customize your Starboy and build arenas with the in-game editor.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756250/10c3366129f2beb21943d827596d5563101d4f01/header.jpg?t=1770455864" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756250/10c3366129f2beb21943d827596d5563101d4f01/header.jpg?t=1770455864" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756250/10c3366129f2beb21943d827596d5563101d4f01/header.jpg?t=1770455864" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3756250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756250/10c3366129f2beb21943d827596d5563101d4f01/header.jpg?t=1770455864" alt="Starboys（新規追加）" /></a></p><p>Third-person arena shooter where gravity is a weapon. Run on walls, fight on ceilings, and flip mid-air to outplay friends in fast 1v1–4v4 matches (up to 8). Customize your Starboy and build arenas with the in-game editor.</p><p><a href="https://store.steampowered.com/app/3756250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dead Zone Revive（新規追加）</title>
   <link>https://store.steampowered.com/app/3919900/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292950/0015ad554f66e09630cc6e697b1d5addeca37608/header.jpg?t=1770258836" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292950/0015ad554f66e09630cc6e697b1d5addeca37608/header.jpg?t=1770258836" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4292950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292950/0015ad554f66e09630cc6e697b1d5addeca37608/header.jpg?t=1770258836" alt="绍宋（新規追加）" /></a></p><p>&amp;quot;Shaosong&amp;quot; is a flagship historical interactive film-game from Wonder Cat, adapted from Liu Dan Pa Shui’s novel. Traverse the war-torn Song Dynasty, unite with heroes to overcome crises, uphold the Song spirit with modern resolve, and forge your own heroic legend!</p><p><a href="https://store.steampowered.com/app/4292950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hidden Cats and Van Gogh（新規追加）</title>
-  <link>https://store.steampowered.com/app/4347540/</link>
-  <guid isPermaLink="false">steam-store-published-4347540</guid>
-  <pubDate>Thu, 05 Feb 2026 04:15:07 +0000</pubDate>
-  <description>Welcome to the world of Van Gogh! Find hidden cats among his starry nights and sunflower fields. Follow the clues of his mysterious journey: collect tasty snacks, light up celebratory fireworks, and complete the final puzzle to unveil the truth.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347540/bf18df01496f0f05aaabda675bb7c5a6787d7216/header.jpg?t=1770259238" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347540/bf18df01496f0f05aaabda675bb7c5a6787d7216/header.jpg?t=1770259238" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347540/bf18df01496f0f05aaabda675bb7c5a6787d7216/header.jpg?t=1770259238" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4347540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347540/bf18df01496f0f05aaabda675bb7c5a6787d7216/header.jpg?t=1770259238" alt="Hidden Cats and Van Gogh（新規追加）" /></a></p><p>Welcome to the world of Van Gogh! Find hidden cats among his starry nights and sunflower fields. Follow the clues of his mysterious journey: collect tasty snacks, light up celebratory fireworks, and complete the final puzzle to unveil the truth.</p><p><a href="https://store.steampowered.com/app/4347540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
