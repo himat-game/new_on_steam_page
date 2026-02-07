@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 06:52:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 07:29:51 +0000</lastBuildDate>
+<item>
+  <title>Munchy Cat（新規追加）</title>
+  <link>https://store.steampowered.com/app/4400240/</link>
+  <guid isPermaLink="false">steam-store-published-4400240</guid>
+  <pubDate>Sat, 07 Feb 2026 07:29:51 +0000</pubDate>
+  <description>Cat + Food + Color Matching! A feel-good, yummy puzzle that lifts your mood 🐱🌈</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400240/4ce3c238193a0cdbf1c2ba7379a52adfa15c0f6a/header.jpg?t=1770435787" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400240/4ce3c238193a0cdbf1c2ba7379a52adfa15c0f6a/header.jpg?t=1770435787" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400240/4ce3c238193a0cdbf1c2ba7379a52adfa15c0f6a/header.jpg?t=1770435787" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4400240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400240/4ce3c238193a0cdbf1c2ba7379a52adfa15c0f6a/header.jpg?t=1770435787" alt="Munchy Cat（新規追加）" /></a></p><p>Cat + Food + Color Matching! A feel-good, yummy puzzle that lifts your mood 🐱🌈</p><p><a href="https://store.steampowered.com/app/4400240/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lost Children of the Mansion（新規追加）</title>
   <link>https://store.steampowered.com/app/4386240/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379740/bc2ad08dd0676df3114b60f8398052b8f1a378c8/header.jpg?t=1770264394" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379740/bc2ad08dd0676df3114b60f8398052b8f1a378c8/header.jpg?t=1770264394" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4379740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379740/bc2ad08dd0676df3114b60f8398052b8f1a378c8/header.jpg?t=1770264394" alt="AFK leveling fight monsters（新規追加）" /></a></p><p>This is a game where you defeat monsters and collect equipment. There&#x27;s no complicated plot. Defeat monsters, collect their dropped equipment, and then challenge even stronger monsters!</p><p><a href="https://store.steampowered.com/app/4379740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Flywheel（新規追加）</title>
-  <link>https://store.steampowered.com/app/4350480/</link>
-  <guid isPermaLink="false">steam-store-published-4350480</guid>
-  <pubDate>Thu, 05 Feb 2026 04:15:07 +0000</pubDate>
-  <description>Flywheel is a 2D action game where you dash through the skies using jumps and flight. Each run challenges you with ever-changing terrain. With retro pixel art, nostalgic sound, and simple controls, the game is easy to pick up and enjoy.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350480/28b71db1b6f5555610834f8cc4ebc3946da9eb99/header.jpg?t=1770260459" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350480/28b71db1b6f5555610834f8cc4ebc3946da9eb99/header.jpg?t=1770260459" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350480/28b71db1b6f5555610834f8cc4ebc3946da9eb99/header.jpg?t=1770260459" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4350480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350480/28b71db1b6f5555610834f8cc4ebc3946da9eb99/header.jpg?t=1770260459" alt="Flywheel（新規追加）" /></a></p><p>Flywheel is a 2D action game where you dash through the skies using jumps and flight. Each run challenges you with ever-changing terrain. With retro pixel art, nostalgic sound, and simple controls, the game is easy to pick up and enjoy.</p><p><a href="https://store.steampowered.com/app/4350480/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
