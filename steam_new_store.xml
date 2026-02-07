@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 15:27:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 16:26:48 +0000</lastBuildDate>
+<item>
+  <title>A Stray Line（新規追加）</title>
+  <link>https://store.steampowered.com/app/4309480/</link>
+  <guid isPermaLink="false">steam-store-published-4309480</guid>
+  <pubDate>Sat, 07 Feb 2026 16:26:48 +0000</pubDate>
+  <description>A STRAY LINE is a point and click Adventure Game with a spoonful of autumnal love and body horror. Explore a strange world, draw to cast spells, and discover what becomes of a lonely little family in the woods.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309480/9019a272f886e569abc068a4d7114cf8d3ba6354/header.jpg?t=1770480380" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309480/9019a272f886e569abc068a4d7114cf8d3ba6354/header.jpg?t=1770480380" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309480/9019a272f886e569abc068a4d7114cf8d3ba6354/header.jpg?t=1770480380" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4309480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309480/9019a272f886e569abc068a4d7114cf8d3ba6354/header.jpg?t=1770480380" alt="A Stray Line（新規追加）" /></a></p><p>A STRAY LINE is a point and click Adventure Game with a spoonful of autumnal love and body horror. Explore a strange world, draw to cast spells, and discover what becomes of a lonely little family in the woods.</p><p><a href="https://store.steampowered.com/app/4309480/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Escape With Friends（新規追加）</title>
   <link>https://store.steampowered.com/app/3363400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050320/4163900ec375f568efa8eb4f65ac70b89d36d09c/header.jpg?t=1770274352" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050320/4163900ec375f568efa8eb4f65ac70b89d36d09c/header.jpg?t=1770274352" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4050320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050320/4163900ec375f568efa8eb4f65ac70b89d36d09c/header.jpg?t=1770274352" alt="Dorc – suit and time（新規追加）" /></a></p><p>In a world ruled by »them«, Dorc&#x27;s grandpa has a plan: a time machine. But when a jump goes wrong, Dorc is stranded across time. Change the past to shape the future in this story-driven adventure platformer with cute characters and clever time mechanics.</p><p><a href="https://store.steampowered.com/app/4050320/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Idiom Royale（新規追加）</title>
-  <link>https://store.steampowered.com/app/4364230/</link>
-  <guid isPermaLink="false">steam-store-published-4364230</guid>
-  <pubDate>Thu, 05 Feb 2026 07:35:38 +0000</pubDate>
-  <description>React fast, spell precisely — when idiom chaining meets Battle Royale. Join a 40-player ultimate word battle royale, solve idiom puzzles or face brutal punishment. Only one will survive to the end.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364230/bcccc534083137b33a7e2bba30b87614f17a5753/header.jpg?t=1770262458" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364230/bcccc534083137b33a7e2bba30b87614f17a5753/header.jpg?t=1770262458" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364230/bcccc534083137b33a7e2bba30b87614f17a5753/header.jpg?t=1770262458" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4364230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364230/bcccc534083137b33a7e2bba30b87614f17a5753/header.jpg?t=1770262458" alt="Idiom Royale（新規追加）" /></a></p><p>React fast, spell precisely — when idiom chaining meets Battle Royale. Join a 40-player ultimate word battle royale, solve idiom puzzles or face brutal punishment. Only one will survive to the end.</p><p><a href="https://store.steampowered.com/app/4364230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
