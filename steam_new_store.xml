@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 08:28:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 09:00:25 +0000</lastBuildDate>
+<item>
+  <title>Dead Zone Revive（新規追加）</title>
+  <link>https://store.steampowered.com/app/3919900/</link>
+  <guid isPermaLink="false">steam-store-published-3919900</guid>
+  <pubDate>Sat, 07 Feb 2026 09:00:25 +0000</pubDate>
+  <description>Fight, rebuild, and survive in a zombie apocalypse! Lead your team in real-time missions, gather weapons, gear, and supplies, and defend your base with tactical RPG and strategy gameplay.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919900/8cabe46acca37926f0342a162c67481b593da989/header.jpg?t=1770453518" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919900/8cabe46acca37926f0342a162c67481b593da989/header.jpg?t=1770453518" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919900/8cabe46acca37926f0342a162c67481b593da989/header.jpg?t=1770453518" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3919900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919900/8cabe46acca37926f0342a162c67481b593da989/header.jpg?t=1770453518" alt="Dead Zone Revive（新規追加）" /></a></p><p>Fight, rebuild, and survive in a zombie apocalypse! Lead your team in real-time missions, gather weapons, gear, and supplies, and defend your base with tactical RPG and strategy gameplay.</p><p><a href="https://store.steampowered.com/app/3919900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Clicky Bunny（新規追加）</title>
   <link>https://store.steampowered.com/app/4337900/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347540/bf18df01496f0f05aaabda675bb7c5a6787d7216/header.jpg?t=1770259238" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347540/bf18df01496f0f05aaabda675bb7c5a6787d7216/header.jpg?t=1770259238" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4347540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347540/bf18df01496f0f05aaabda675bb7c5a6787d7216/header.jpg?t=1770259238" alt="Hidden Cats and Van Gogh（新規追加）" /></a></p><p>Welcome to the world of Van Gogh! Find hidden cats among his starry nights and sunflower fields. Follow the clues of his mysterious journey: collect tasty snacks, light up celebratory fireworks, and complete the final puzzle to unveil the truth.</p><p><a href="https://store.steampowered.com/app/4347540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dungeons With Friends（新規追加）</title>
-  <link>https://store.steampowered.com/app/3833910/</link>
-  <guid isPermaLink="false">steam-store-published-3833910</guid>
-  <pubDate>Thu, 05 Feb 2026 04:15:07 +0000</pubDate>
-  <description>Dungeons With Friends is a co-op roguelike where you and your friends shout spells into your microphones to fight through a tower full of evil robots.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833910/b429a65b6b1f9f09eed54e5e1df691f2ecef1cae/header.jpg?t=1770263103" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833910/b429a65b6b1f9f09eed54e5e1df691f2ecef1cae/header.jpg?t=1770263103" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833910/b429a65b6b1f9f09eed54e5e1df691f2ecef1cae/header.jpg?t=1770263103" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3833910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833910/b429a65b6b1f9f09eed54e5e1df691f2ecef1cae/header.jpg?t=1770263103" alt="Dungeons With Friends（新規追加）" /></a></p><p>Dungeons With Friends is a co-op roguelike where you and your friends shout spells into your microphones to fight through a tower full of evil robots.</p><p><a href="https://store.steampowered.com/app/3833910/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
