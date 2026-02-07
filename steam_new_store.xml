@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 14:23:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 14:56:54 +0000</lastBuildDate>
+<item>
+  <title>SGS Ashes of Dawn（新規追加）</title>
+  <link>https://store.steampowered.com/app/4096940/</link>
+  <guid isPermaLink="false">steam-store-published-4096940</guid>
+  <pubDate>Sat, 07 Feb 2026 14:56:54 +0000</pubDate>
+  <description>Ashes of Dawn 2040: a unique hybrid of turn-based post-apocalyptic wargame and board game. Total war in a irradiated Europe. NARDO (heir to NATO) against VARPAC (heir to the Warsaw Pact) with the choice of civilization or chaos. Simple to play but complex to master.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096940/c8faa064012e375e1ca2b321aca2628a642f03ff/header.jpg?t=1770474575" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096940/c8faa064012e375e1ca2b321aca2628a642f03ff/header.jpg?t=1770474575" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096940/c8faa064012e375e1ca2b321aca2628a642f03ff/header.jpg?t=1770474575" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4096940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096940/c8faa064012e375e1ca2b321aca2628a642f03ff/header.jpg?t=1770474575" alt="SGS Ashes of Dawn（新規追加）" /></a></p><p>Ashes of Dawn 2040: a unique hybrid of turn-based post-apocalyptic wargame and board game. Total war in a irradiated Europe. NARDO (heir to NATO) against VARPAC (heir to the Warsaw Pact) with the choice of civilization or chaos. Simple to play but complex to master.</p><p><a href="https://store.steampowered.com/app/4096940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Room Service（新規追加）</title>
   <link>https://store.steampowered.com/app/4324760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317530/cad41589d8683b7a8973c934c0cee66ec77a3117/header.jpg?t=1770271264" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317530/cad41589d8683b7a8973c934c0cee66ec77a3117/header.jpg?t=1770271264" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4317530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317530/cad41589d8683b7a8973c934c0cee66ec77a3117/header.jpg?t=1770271264" alt="Mazified（新規追加）" /></a></p><p>A 2 player 2D top down PVP game where you try to score in the opponent&#x27;s goal. Play with default levels or make your own with the full built in level editor.</p><p><a href="https://store.steampowered.com/app/4317530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Colony 28（新規追加）</title>
-  <link>https://store.steampowered.com/app/4381340/</link>
-  <guid isPermaLink="false">steam-store-published-4381340</guid>
-  <pubDate>Thu, 05 Feb 2026 06:34:58 +0000</pubDate>
-  <description>Colony 28 is a raw piece of Czech gaming history. Step into the circuits of a malfunctioning android, defy your alien masters, and fight for humanity&#x27;s remnants across 8 sprawling levels. Experience an authentic 90s sci-fi classic in its original Czech version.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381340/27d113042409060dfb6c032c45bce7c7af7d8c79/header.jpg?t=1770270402" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381340/27d113042409060dfb6c032c45bce7c7af7d8c79/header.jpg?t=1770270402" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381340/27d113042409060dfb6c032c45bce7c7af7d8c79/header.jpg?t=1770270402" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4381340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381340/27d113042409060dfb6c032c45bce7c7af7d8c79/header.jpg?t=1770270402" alt="Colony 28（新規追加）" /></a></p><p>Colony 28 is a raw piece of Czech gaming history. Step into the circuits of a malfunctioning android, defy your alien masters, and fight for humanity&#x27;s remnants across 8 sprawling levels. Experience an authentic 90s sci-fi classic in its original Czech version.</p><p><a href="https://store.steampowered.com/app/4381340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
