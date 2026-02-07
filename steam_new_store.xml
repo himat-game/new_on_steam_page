@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 22:59:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 23:39:21 +0000</lastBuildDate>
+<item>
+  <title>Syncro Bots（新規追加）</title>
+  <link>https://store.steampowered.com/app/4100280/</link>
+  <guid isPermaLink="false">steam-store-published-4100280</guid>
+  <pubDate>Sat, 07 Feb 2026 23:39:21 +0000</pubDate>
+  <description>A 2D pixel-art platform-puzzle game where you are pure energy and control different robots, combining the unique abilities of each to solve puzzles and restore the energy generators.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100280/0f24190aea93e68d6b21a39143250bcef6bde9ab/header.jpg?t=1770499803" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100280/0f24190aea93e68d6b21a39143250bcef6bde9ab/header.jpg?t=1770499803" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100280/0f24190aea93e68d6b21a39143250bcef6bde9ab/header.jpg?t=1770499803" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4100280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100280/0f24190aea93e68d6b21a39143250bcef6bde9ab/header.jpg?t=1770499803" alt="Syncro Bots（新規追加）" /></a></p><p>A 2D pixel-art platform-puzzle game where you are pure energy and control different robots, combining the unique abilities of each to solve puzzles and restore the energy generators.</p><p><a href="https://store.steampowered.com/app/4100280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Vivere Retro（新規追加）</title>
   <link>https://store.steampowered.com/app/4303290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294350/d2545b6fe0aa9b6d34ca83ad78c864c9dd22f2b9/header.jpg?t=1770285426" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294350/d2545b6fe0aa9b6d34ca83ad78c864c9dd22f2b9/header.jpg?t=1770285426" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294350/d2545b6fe0aa9b6d34ca83ad78c864c9dd22f2b9/header.jpg?t=1770285426" alt="Dominot（新規追加）" /></a></p><p>Dominot is a narrative mystery roguelike where you use domino pieces as part of a forbidden ritual, blending elements of point-and-click adventures with ever-shifting interfaces and hidden horrors. As the questions grow, so do the features hidden inside the game...</p><p><a href="https://store.steampowered.com/app/4294350/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Summer☆Dash: Our Track Team&#x27;s Summer Training Trip（新規追加）</title>
-  <link>https://store.steampowered.com/app/3869540/</link>
-  <guid isPermaLink="false">steam-store-published-3869540</guid>
-  <pubDate>Thu, 05 Feb 2026 10:04:21 +0000</pubDate>
-  <description>As coach of the girls&#x27; track team, go on an exciting retreat in the countryside with the three best girls of your team, where you&#x27;ll help them overcome their struggles and unlock their full potential!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869540/570a2f2a5731f3043b82976d55778a9ed2d9c0a1/header.jpg?t=1770282725" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869540/570a2f2a5731f3043b82976d55778a9ed2d9c0a1/header.jpg?t=1770282725" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869540/570a2f2a5731f3043b82976d55778a9ed2d9c0a1/header.jpg?t=1770282725" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3869540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869540/570a2f2a5731f3043b82976d55778a9ed2d9c0a1/header.jpg?t=1770282725" alt="Summer☆Dash: Our Track Team&#x27;s Summer Training Trip（新規追加）" /></a></p><p>As coach of the girls&#x27; track team, go on an exciting retreat in the countryside with the three best girls of your team, where you&#x27;ll help them overcome their struggles and unlock their full potential!</p><p><a href="https://store.steampowered.com/app/3869540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
