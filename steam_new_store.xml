@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 20:57:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 21:55:35 +0000</lastBuildDate>
+<item>
+  <title>Island（新規追加）</title>
+  <link>https://store.steampowered.com/app/4375740/</link>
+  <guid isPermaLink="false">steam-store-published-4375740</guid>
+  <pubDate>Sat, 07 Feb 2026 21:55:35 +0000</pubDate>
+  <description>Island is a post-apocalyptic visual novel. You appear on the beach of the island, not remembering your past, and your goal is to survive. The wildlife, the other inhabitants of the island all around want you dead. Make the right choice, because it may be the last one!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375740/b0d59574af716094c2fe47d9b10835064869dd03/header.jpg?t=1770499808" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375740/b0d59574af716094c2fe47d9b10835064869dd03/header.jpg?t=1770499808" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375740/b0d59574af716094c2fe47d9b10835064869dd03/header.jpg?t=1770499808" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4375740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375740/b0d59574af716094c2fe47d9b10835064869dd03/header.jpg?t=1770499808" alt="Island（新規追加）" /></a></p><p>Island is a post-apocalyptic visual novel. You appear on the beach of the island, not remembering your past, and your goal is to survive. The wildlife, the other inhabitants of the island all around want you dead. Make the right choice, because it may be the last one!</p><p><a href="https://store.steampowered.com/app/4375740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hoofprints（新規追加）</title>
   <link>https://store.steampowered.com/app/4378360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369430/e7d01f6e9d4f136d36ef9a2a5ac022e19dbde829/header.jpg?t=1770284553" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369430/e7d01f6e9d4f136d36ef9a2a5ac022e19dbde829/header.jpg?t=1770284553" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4369430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369430/e7d01f6e9d4f136d36ef9a2a5ac022e19dbde829/header.jpg?t=1770284553" alt="Mörker（新規追加）" /></a></p><p>An old-school, dark fantasy action FPS. Fight cultists, undead, and other horrors in challenging, unforgiving combat.</p><p><a href="https://store.steampowered.com/app/4369430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Myriad Realms（新規追加）</title>
-  <link>https://store.steampowered.com/app/4340250/</link>
-  <guid isPermaLink="false">steam-store-published-4340250</guid>
-  <pubDate>Thu, 05 Feb 2026 10:04:21 +0000</pubDate>
-  <description>Thousand Professions Realm is a single-player game inspired by classic 2D side-scrollers, with diverse classes, tons of equipment, and gear-tied visuals. Explore the fantasy realm solo, grind levels, boost power, and customize looks via gear. Enjoy pure hack-and-slash fun.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4340250/e5eb13b0df0898aec67ae2a3c7256f797470675d/header.jpg?t=1770285012" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4340250/e5eb13b0df0898aec67ae2a3c7256f797470675d/header.jpg?t=1770285012" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4340250/e5eb13b0df0898aec67ae2a3c7256f797470675d/header.jpg?t=1770285012" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4340250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4340250/e5eb13b0df0898aec67ae2a3c7256f797470675d/header.jpg?t=1770285012" alt="Myriad Realms（新規追加）" /></a></p><p>Thousand Professions Realm is a single-player game inspired by classic 2D side-scrollers, with diverse classes, tons of equipment, and gear-tied visuals. Explore the fantasy realm solo, grind levels, boost power, and customize looks via gear. Enjoy pure hack-and-slash fun.</p><p><a href="https://store.steampowered.com/app/4340250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
