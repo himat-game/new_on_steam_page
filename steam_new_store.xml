@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 05:58:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 06:52:34 +0000</lastBuildDate>
+<item>
+  <title>Lost Children of the Mansion（新規追加）</title>
+  <link>https://store.steampowered.com/app/4386240/</link>
+  <guid isPermaLink="false">steam-store-published-4386240</guid>
+  <pubDate>Sat, 07 Feb 2026 06:52:34 +0000</pubDate>
+  <description>Explore a dark mansion that constantly shifts like a maze. Rescue the trapped children hidden behind locked doors. Avoid the roaming enemies and find your way out.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386240/265dccf2d8d9796d0a08b7ac3ab131f68294462d/header.jpg?t=1770444023" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386240/265dccf2d8d9796d0a08b7ac3ab131f68294462d/header.jpg?t=1770444023" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386240/265dccf2d8d9796d0a08b7ac3ab131f68294462d/header.jpg?t=1770444023" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4386240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386240/265dccf2d8d9796d0a08b7ac3ab131f68294462d/header.jpg?t=1770444023" alt="Lost Children of the Mansion（新規追加）" /></a></p><p>Explore a dark mansion that constantly shifts like a maze. Rescue the trapped children hidden behind locked doors. Avoid the roaming enemies and find your way out.</p><p><a href="https://store.steampowered.com/app/4386240/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Milf Solitaire: Lust Collector（新規追加）</title>
   <link>https://store.steampowered.com/app/4293360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350480/28b71db1b6f5555610834f8cc4ebc3946da9eb99/header.jpg?t=1770260459" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350480/28b71db1b6f5555610834f8cc4ebc3946da9eb99/header.jpg?t=1770260459" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4350480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350480/28b71db1b6f5555610834f8cc4ebc3946da9eb99/header.jpg?t=1770260459" alt="Flywheel（新規追加）" /></a></p><p>Flywheel is a 2D action game where you dash through the skies using jumps and flight. Each run challenges you with ever-changing terrain. With retro pixel art, nostalgic sound, and simple controls, the game is easy to pick up and enjoy.</p><p><a href="https://store.steampowered.com/app/4350480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Shrimp Escape（新規追加）</title>
-  <link>https://store.steampowered.com/app/3528440/</link>
-  <guid isPermaLink="false">steam-store-published-3528440</guid>
-  <pubDate>Thu, 05 Feb 2026 04:15:07 +0000</pubDate>
-  <description>A fast-paced arcade survival game where you dodge predators, navigate dangerous waters, and master precise movement to help a shrimp escape capture. Play through a story-driven journey or test your skills in endless survival mode.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3528440/4aa4161662812ee1600b30b66536941bcbd2f337/header.jpg?t=1770257848" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3528440/4aa4161662812ee1600b30b66536941bcbd2f337/header.jpg?t=1770257848" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3528440/4aa4161662812ee1600b30b66536941bcbd2f337/header.jpg?t=1770257848" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3528440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3528440/4aa4161662812ee1600b30b66536941bcbd2f337/header.jpg?t=1770257848" alt="Shrimp Escape（新規追加）" /></a></p><p>A fast-paced arcade survival game where you dodge predators, navigate dangerous waters, and master precise movement to help a shrimp escape capture. Play through a story-driven journey or test your skills in endless survival mode.</p><p><a href="https://store.steampowered.com/app/3528440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
