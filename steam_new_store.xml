@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 14:56:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 15:27:13 +0000</lastBuildDate>
+<item>
+  <title>Escape With Friends（新規追加）</title>
+  <link>https://store.steampowered.com/app/3363400/</link>
+  <guid isPermaLink="false">steam-store-published-3363400</guid>
+  <pubDate>Sat, 07 Feb 2026 15:27:13 +0000</pubDate>
+  <description>Investigate with your friends in this hilarious hand drawn game. Draw your own skin and go on a journey filled with minigames: darts, mini car races, electrical panels... From 2 to 8 players.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363400/9780925f904e7d34ea4b55046d6d04c7210d4e53/header.jpg?t=1770477687" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363400/9780925f904e7d34ea4b55046d6d04c7210d4e53/header.jpg?t=1770477687" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363400/9780925f904e7d34ea4b55046d6d04c7210d4e53/header.jpg?t=1770477687" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3363400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363400/9780925f904e7d34ea4b55046d6d04c7210d4e53/header.jpg?t=1770477687" alt="Escape With Friends（新規追加）" /></a></p><p>Investigate with your friends in this hilarious hand drawn game. Draw your own skin and go on a journey filled with minigames: darts, mini car races, electrical panels... From 2 to 8 players.</p><p><a href="https://store.steampowered.com/app/3363400/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Arcane Mayhem（新規追加）</title>
+  <link>https://store.steampowered.com/app/3197670/</link>
+  <guid isPermaLink="false">steam-store-published-3197670</guid>
+  <pubDate>Sat, 07 Feb 2026 15:27:13 +0000</pubDate>
+  <description>Master the arcane in this fast-paced action roguelike. Collect spells and grow your spellbook. Draft your loadout and combine elemental effects for powerful synergies. Unleash spells and master precise movement through intense enemy waves.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3197670/ce90977b68d007b774915fe13343d791ab2c6fc3/header.jpg?t=1770474255" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3197670/ce90977b68d007b774915fe13343d791ab2c6fc3/header.jpg?t=1770474255" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3197670/ce90977b68d007b774915fe13343d791ab2c6fc3/header.jpg?t=1770474255" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3197670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3197670/ce90977b68d007b774915fe13343d791ab2c6fc3/header.jpg?t=1770474255" alt="Arcane Mayhem（新規追加）" /></a></p><p>Master the arcane in this fast-paced action roguelike. Collect spells and grow your spellbook. Draft your loadout and combine elemental effects for powerful synergies. Unleash spells and master precise movement through intense enemy waves.</p><p><a href="https://store.steampowered.com/app/3197670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SGS Ashes of Dawn（新規追加）</title>
   <link>https://store.steampowered.com/app/4096940/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364230/bcccc534083137b33a7e2bba30b87614f17a5753/header.jpg?t=1770262458" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364230/bcccc534083137b33a7e2bba30b87614f17a5753/header.jpg?t=1770262458" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4364230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364230/bcccc534083137b33a7e2bba30b87614f17a5753/header.jpg?t=1770262458" alt="Idiom Royale（新規追加）" /></a></p><p>React fast, spell precisely — when idiom chaining meets Battle Royale. Join a 40-player ultimate word battle royale, solve idiom puzzles or face brutal punishment. Only one will survive to the end.</p><p><a href="https://store.steampowered.com/app/4364230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>YOBI（新規追加）</title>
-  <link>https://store.steampowered.com/app/4375890/</link>
-  <guid isPermaLink="false">steam-store-published-4375890</guid>
-  <pubDate>Thu, 05 Feb 2026 06:34:58 +0000</pubDate>
-  <description>Return to that summer of dreams and regrets. Explore between your childhood neighborhood and a dreamlike world, encountering diverse souls while unraveling the mysteries and emotions buried by time. Find your way to the heart of the story and recover forgotten memories... and much more.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375890/7f10dd9ecc772dab860e3b9b6f3ddd789fc01f1b/header.jpg?t=1770270896" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375890/7f10dd9ecc772dab860e3b9b6f3ddd789fc01f1b/header.jpg?t=1770270896" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375890/7f10dd9ecc772dab860e3b9b6f3ddd789fc01f1b/header.jpg?t=1770270896" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4375890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375890/7f10dd9ecc772dab860e3b9b6f3ddd789fc01f1b/header.jpg?t=1770270896" alt="YOBI（新規追加）" /></a></p><p>Return to that summer of dreams and regrets. Explore between your childhood neighborhood and a dreamlike world, encountering diverse souls while unraveling the mysteries and emotions buried by time. Find your way to the heart of the story and recover forgotten memories... and much more.</p><p><a href="https://store.steampowered.com/app/4375890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mazified（新規追加）</title>
-  <link>https://store.steampowered.com/app/4317530/</link>
-  <guid isPermaLink="false">steam-store-published-4317530</guid>
-  <pubDate>Thu, 05 Feb 2026 06:34:58 +0000</pubDate>
-  <description>A 2 player 2D top down PVP game where you try to score in the opponent&#x27;s goal. Play with default levels or make your own with the full built in level editor.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317530/cad41589d8683b7a8973c934c0cee66ec77a3117/header.jpg?t=1770271264" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317530/cad41589d8683b7a8973c934c0cee66ec77a3117/header.jpg?t=1770271264" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317530/cad41589d8683b7a8973c934c0cee66ec77a3117/header.jpg?t=1770271264" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4317530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317530/cad41589d8683b7a8973c934c0cee66ec77a3117/header.jpg?t=1770271264" alt="Mazified（新規追加）" /></a></p><p>A 2 player 2D top down PVP game where you try to score in the opponent&#x27;s goal. Play with default levels or make your own with the full built in level editor.</p><p><a href="https://store.steampowered.com/app/4317530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
