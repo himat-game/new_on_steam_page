@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Feb 2026 07:55:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 08:28:32 +0000</lastBuildDate>
+<item>
+  <title>Clicky Bunny（新規追加）</title>
+  <link>https://store.steampowered.com/app/4337900/</link>
+  <guid isPermaLink="false">steam-store-published-4337900</guid>
+  <pubDate>Sat, 07 Feb 2026 08:28:32 +0000</pubDate>
+  <description>Click, upgrade, and unlock! Collect Carrots to power up your progress, master a minigame for Hearts, and Ascend to earn Keys, while each run is slightly different. Spend your tokens to unlock animations and images!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337900/75f1eb8388fb8237d2278975726608580852f622/header.jpg?t=1770452153" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337900/75f1eb8388fb8237d2278975726608580852f622/header.jpg?t=1770452153" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337900/75f1eb8388fb8237d2278975726608580852f622/header.jpg?t=1770452153" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4337900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337900/75f1eb8388fb8237d2278975726608580852f622/header.jpg?t=1770452153" alt="Clicky Bunny（新規追加）" /></a></p><p>Click, upgrade, and unlock! Collect Carrots to power up your progress, master a minigame for Hearts, and Ascend to earn Keys, while each run is slightly different. Spend your tokens to unlock animations and images!</p><p><a href="https://store.steampowered.com/app/4337900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Panties（新規追加）</title>
   <link>https://store.steampowered.com/app/4386620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833910/b429a65b6b1f9f09eed54e5e1df691f2ecef1cae/header.jpg?t=1770263103" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833910/b429a65b6b1f9f09eed54e5e1df691f2ecef1cae/header.jpg?t=1770263103" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3833910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3833910/b429a65b6b1f9f09eed54e5e1df691f2ecef1cae/header.jpg?t=1770263103" alt="Dungeons With Friends（新規追加）" /></a></p><p>Dungeons With Friends is a co-op roguelike where you and your friends shout spells into your microphones to fight through a tower full of evil robots.</p><p><a href="https://store.steampowered.com/app/3833910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Random Dragons（新規追加）</title>
-  <link>https://store.steampowered.com/app/4362510/</link>
-  <guid isPermaLink="false">steam-store-published-4362510</guid>
-  <pubDate>Thu, 05 Feb 2026 04:15:07 +0000</pubDate>
-  <description>Chance-based roguelike deckbuilder with silly and goofy dragons. Spin the roulette wheel to get insane crit damage on enemies, manipulate the odds, and use multipliers like Balatro. Build your synergic deck and kill Random Dragons.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362510/71a24eb6efe61418c97835f42174e72c56a80aa6/header.jpg?t=1770258719" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362510/71a24eb6efe61418c97835f42174e72c56a80aa6/header.jpg?t=1770258719" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362510/71a24eb6efe61418c97835f42174e72c56a80aa6/header.jpg?t=1770258719" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4362510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362510/71a24eb6efe61418c97835f42174e72c56a80aa6/header.jpg?t=1770258719" alt="Random Dragons（新規追加）" /></a></p><p>Chance-based roguelike deckbuilder with silly and goofy dragons. Spin the roulette wheel to get insane crit damage on enemies, manipulate the odds, and use multipliers like Balatro. Build your synergic deck and kill Random Dragons.</p><p><a href="https://store.steampowered.com/app/4362510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
