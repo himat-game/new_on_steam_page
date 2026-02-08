@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Feb 2026 19:05:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 21:30:32 +0000</lastBuildDate>
+<item>
+  <title>SIGN THE DEAL: Real Estate Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4284600/</link>
+  <guid isPermaLink="false">steam-store-published-4284600</guid>
+  <pubDate>Sun, 08 Feb 2026 21:30:32 +0000</pubDate>
+  <description>Work as a real estate agent in a sunny coastal town. Browse listings from your office, buy houses, renovate them, negotiate with NPCs, and sell for profit in a first-person life simulation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284600/1d75e05ac9431d2f74a176b33a16d97712acdff0/header.jpg?t=1770584745" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284600/1d75e05ac9431d2f74a176b33a16d97712acdff0/header.jpg?t=1770584745" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284600/1d75e05ac9431d2f74a176b33a16d97712acdff0/header.jpg?t=1770584745" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4284600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4284600/1d75e05ac9431d2f74a176b33a16d97712acdff0/header.jpg?t=1770584745" alt="SIGN THE DEAL: Real Estate Simulator（新規追加）" /></a></p><p>Work as a real estate agent in a sunny coastal town. Browse listings from your office, buy houses, renovate them, negotiate with NPCs, and sell for profit in a first-person life simulation.</p><p><a href="https://store.steampowered.com/app/4284600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The End of the World and Her Room（新規追加）</title>
   <link>https://store.steampowered.com/app/1395840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356400/70c849f7a71c7ada4479bc4ff350f84acfd3e3b7/header.jpg?t=1770303246" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356400/70c849f7a71c7ada4479bc4ff350f84acfd3e3b7/header.jpg?t=1770303246" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4356400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356400/70c849f7a71c7ada4479bc4ff350f84acfd3e3b7/header.jpg?t=1770303246" alt="Eldor&#x27;idle（新規追加）" /></a></p><p>An incremental idle RPG about earning a billion gold coins. Break a pot. Get a coin. How hard can it be?</p><p><a href="https://store.steampowered.com/app/4356400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TheTwelfthDeceivers（新規追加）</title>
-  <link>https://store.steampowered.com/app/4383800/</link>
-  <guid isPermaLink="false">steam-store-published-4383800</guid>
-  <pubDate>Thu, 05 Feb 2026 15:06:30 +0000</pubDate>
-  <description>This is a turn-based card game of psychological warfare. Every card played is a gamble with death itself; win, and you survive another round; lose, and you&#x27;re reduced to dust. Trust is a fatal luxury; suspicion is the only survival skill.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383800/ba2548a7879b9508508a11ff14f86d981c31c98f/header.jpg?t=1770300809" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383800/ba2548a7879b9508508a11ff14f86d981c31c98f/header.jpg?t=1770300809" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383800/ba2548a7879b9508508a11ff14f86d981c31c98f/header.jpg?t=1770300809" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4383800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383800/ba2548a7879b9508508a11ff14f86d981c31c98f/header.jpg?t=1770300809" alt="TheTwelfthDeceivers（新規追加）" /></a></p><p>This is a turn-based card game of psychological warfare. Every card played is a gamble with death itself; win, and you survive another round; lose, and you&#x27;re reduced to dust. Trust is a fatal luxury; suspicion is the only survival skill.</p><p><a href="https://store.steampowered.com/app/4383800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
