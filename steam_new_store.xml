@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Feb 2026 17:57:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 18:39:05 +0000</lastBuildDate>
+<item>
+  <title>Grimmloch（新規追加）</title>
+  <link>https://store.steampowered.com/app/4255850/</link>
+  <guid isPermaLink="false">steam-store-published-4255850</guid>
+  <pubDate>Sun, 08 Feb 2026 18:39:05 +0000</pubDate>
+  <description>A persistent text-based MMORPG where NPCs remember your secrets and shape a living world rooted in European folklore. Turn-based tactical combat, criminal gameplay, and collaborative storytelling that writes itself into canon. Built by Role-players for Role-players.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255850/666ba506e288a3abbbc957f444f533f175667f67/header.jpg?t=1770558241" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255850/666ba506e288a3abbbc957f444f533f175667f67/header.jpg?t=1770558241" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255850/666ba506e288a3abbbc957f444f533f175667f67/header.jpg?t=1770558241" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4255850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255850/666ba506e288a3abbbc957f444f533f175667f67/header.jpg?t=1770558241" alt="Grimmloch（新規追加）" /></a></p><p>A persistent text-based MMORPG where NPCs remember your secrets and shape a living world rooted in European folklore. Turn-based tactical combat, criminal gameplay, and collaborative storytelling that writes itself into canon. Built by Role-players for Role-players.</p><p><a href="https://store.steampowered.com/app/4255850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Summer Before Dawn（新規追加）</title>
   <link>https://store.steampowered.com/app/4291030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386510/46f9f224faa09b3e25b24410dd77899a17d5a0e9/header.jpg?t=1770302957" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386510/46f9f224faa09b3e25b24410dd77899a17d5a0e9/header.jpg?t=1770302957" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4386510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386510/46f9f224faa09b3e25b24410dd77899a17d5a0e9/header.jpg?t=1770302957" alt="WarSlice（新規追加）" /></a></p><p>WarSlice is a turn-based strategy game where you lead armies as a Commander in tactical grid-based battles. Play the Campaign, create your own maps, or challenge other players online.</p><p><a href="https://store.steampowered.com/app/4386510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beachcomber（新規追加）</title>
-  <link>https://store.steampowered.com/app/4343610/</link>
-  <guid isPermaLink="false">steam-store-published-4343610</guid>
-  <pubDate>Thu, 05 Feb 2026 15:06:30 +0000</pubDate>
-  <description>Take a quiet walk along the shore, collecting unique shells with each new wave. Find ones that speak to you, or seek out ones with hidden surprises. How you play is up to you. Discover the world inside every shell.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343610/3b780464392b56329b461c6243a5e80378a29d45/header.jpg?t=1770302571" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343610/3b780464392b56329b461c6243a5e80378a29d45/header.jpg?t=1770302571" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343610/3b780464392b56329b461c6243a5e80378a29d45/header.jpg?t=1770302571" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4343610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343610/3b780464392b56329b461c6243a5e80378a29d45/header.jpg?t=1770302571" alt="Beachcomber（新規追加）" /></a></p><p>Take a quiet walk along the shore, collecting unique shells with each new wave. Find ones that speak to you, or seek out ones with hidden surprises. How you play is up to you. Discover the world inside every shell.</p><p><a href="https://store.steampowered.com/app/4343610/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
