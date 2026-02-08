@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Feb 2026 07:09:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 08:30:00 +0000</lastBuildDate>
+<item>
+  <title>WitchOver（新規追加）</title>
+  <link>https://store.steampowered.com/app/4369050/</link>
+  <guid isPermaLink="false">steam-store-published-4369050</guid>
+  <pubDate>Sun, 08 Feb 2026 08:30:00 +0000</pubDate>
+  <description>Monitor the witch. Even if they ceases to be a witch... A horror game where you care for the witch while reporting anomalies. You tend to her by talking to her or baking cakes.But,magic leaks out, causing anomalies. If you fail to report, the witch grows unstable. And ultimately, they will...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369050/451aa5bab13ea49e8fe2d977230d8978b812de8a/header.jpg?t=1770536550" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369050/451aa5bab13ea49e8fe2d977230d8978b812de8a/header.jpg?t=1770536550" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369050/451aa5bab13ea49e8fe2d977230d8978b812de8a/header.jpg?t=1770536550" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4369050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369050/451aa5bab13ea49e8fe2d977230d8978b812de8a/header.jpg?t=1770536550" alt="WitchOver（新規追加）" /></a></p><p>Monitor the witch. Even if they ceases to be a witch... A horror game where you care for the witch while reporting anomalies. You tend to her by talking to her or baking cakes.But,magic leaks out, causing anomalies. If you fail to report, the witch grows unstable. And ultimately, they will...</p><p><a href="https://store.steampowered.com/app/4369050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DJINN SCROLLS（新規追加）</title>
   <link>https://store.steampowered.com/app/4392620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086510/f049d2ee2b437375bdcbfd1a634e8b432ec2a736/header.jpg?t=1770296079" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086510/f049d2ee2b437375bdcbfd1a634e8b432ec2a736/header.jpg?t=1770296079" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4086510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086510/f049d2ee2b437375bdcbfd1a634e8b432ec2a736/header.jpg?t=1770296079" alt="Brave Rounds（新規追加）" /></a></p><p>Shoot, punch and get closer through bullets towards enemies in this close range-heavy arcade bullet hell shoot &#x27;em up. A mysterious cult is going to make Mt. Krakatoa explode! By yourself or with a friend, stand your ground; the fate of the world is in your hands...!</p><p><a href="https://store.steampowered.com/app/4086510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chaoslands（新規追加）</title>
-  <link>https://store.steampowered.com/app/4335170/</link>
-  <guid isPermaLink="false">steam-store-published-4335170</guid>
-  <pubDate>Thu, 05 Feb 2026 12:56:22 +0000</pubDate>
-  <description>This game is a pixel-styled, turn-based sandbox game. Collect around 50 items and build or find 100 obstacles accross the world. Build ships to cross water and enter the caves to collect advanced resources. Fight 2 bosses and level up.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335170/251332f5275f988963f27d8d71c8c39e4d068c42/header.jpg?t=1770293316" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335170/251332f5275f988963f27d8d71c8c39e4d068c42/header.jpg?t=1770293316" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335170/251332f5275f988963f27d8d71c8c39e4d068c42/header.jpg?t=1770293316" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4335170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335170/251332f5275f988963f27d8d71c8c39e4d068c42/header.jpg?t=1770293316" alt="Chaoslands（新規追加）" /></a></p><p>This game is a pixel-styled, turn-based sandbox game. Collect around 50 items and build or find 100 obstacles accross the world. Build ships to cross water and enter the caves to collect advanced resources. Fight 2 bosses and level up.</p><p><a href="https://store.steampowered.com/app/4335170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
