@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Feb 2026 10:23:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 11:51:31 +0000</lastBuildDate>
+<item>
+  <title>LINGER（新規追加）</title>
+  <link>https://store.steampowered.com/app/4396540/</link>
+  <guid isPermaLink="false">steam-store-published-4396540</guid>
+  <pubDate>Sun, 08 Feb 2026 11:51:31 +0000</pubDate>
+  <description>LINGER is a survival adventure game where you explore a mysterious island, gather resources, craft tools, build shelter, and fight strange creatures while uncovering the secrets of a dark and hostile place.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396540/758d741b4dde759cb624366dfc9bc2e15b8fe301/header.jpg?t=1770550453" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396540/758d741b4dde759cb624366dfc9bc2e15b8fe301/header.jpg?t=1770550453" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396540/758d741b4dde759cb624366dfc9bc2e15b8fe301/header.jpg?t=1770550453" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4396540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396540/758d741b4dde759cb624366dfc9bc2e15b8fe301/header.jpg?t=1770550453" alt="LINGER（新規追加）" /></a></p><p>LINGER is a survival adventure game where you explore a mysterious island, gather resources, craft tools, build shelter, and fight strange creatures while uncovering the secrets of a dark and hostile place.</p><p><a href="https://store.steampowered.com/app/4396540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Body Language（新規追加）</title>
+  <link>https://store.steampowered.com/app/4109960/</link>
+  <guid isPermaLink="false">steam-store-published-4109960</guid>
+  <pubDate>Sun, 08 Feb 2026 11:51:31 +0000</pubDate>
+  <description>Body Language is a private tutoring simulation game. You are an excellent college student who, due to financial difficulties at home, has to take on a part-time job as a tutor. Throughout the journey, you work hard to improve yourself while enjoying encounters with three female students.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109960/81c0b795daec7da5b06314c5e4a60445ba7bb179/header.jpg?t=1770551343" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109960/81c0b795daec7da5b06314c5e4a60445ba7bb179/header.jpg?t=1770551343" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109960/81c0b795daec7da5b06314c5e4a60445ba7bb179/header.jpg?t=1770551343" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4109960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4109960/81c0b795daec7da5b06314c5e4a60445ba7bb179/header.jpg?t=1770551343" alt="Body Language（新規追加）" /></a></p><p>Body Language is a private tutoring simulation game. You are an excellent college student who, due to financial difficulties at home, has to take on a part-time job as a tutor. Throughout the journey, you work hard to improve yourself while enjoying encounters with three female students.</p><p><a href="https://store.steampowered.com/app/4109960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rushfall（新規追加）</title>
   <link>https://store.steampowered.com/app/4400070/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163960/e8636d3c8e4b1f1ca1385c260b805e1d501b6a6f/header.jpg?t=1770301477" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163960/e8636d3c8e4b1f1ca1385c260b805e1d501b6a6f/header.jpg?t=1770301477" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4163960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163960/e8636d3c8e4b1f1ca1385c260b805e1d501b6a6f/header.jpg?t=1770301477" alt="Another Eden Begins（新規追加）" /></a></p><p>Embark on a time-traveling RPG adventure featuring command battles presented by Masato Kato, creator of numerous RPG classics. With New Game+, embark on a new adventure with your upgraded characters and discover more than 10 different endings.</p><p><a href="https://store.steampowered.com/app/4163960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Roguefire Defense（新規追加）</title>
-  <link>https://store.steampowered.com/app/4366530/</link>
-  <guid isPermaLink="false">steam-store-published-4366530</guid>
-  <pubDate>Thu, 05 Feb 2026 15:06:30 +0000</pubDate>
-  <description>A single-player, first-person rogue-lite defense game. Feel the tension in every level as you defend your base against diverse enemies. Shape your build with random cards and defeat challenging bosses to unlock new environments and experience unique atmospheres.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366530/a08a524c3e675bf09f50cf49c4fe4fad6baf4cf2/header.jpg?t=1770292641" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366530/a08a524c3e675bf09f50cf49c4fe4fad6baf4cf2/header.jpg?t=1770292641" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366530/a08a524c3e675bf09f50cf49c4fe4fad6baf4cf2/header.jpg?t=1770292641" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4366530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366530/a08a524c3e675bf09f50cf49c4fe4fad6baf4cf2/header.jpg?t=1770292641" alt="Roguefire Defense（新規追加）" /></a></p><p>A single-player, first-person rogue-lite defense game. Feel the tension in every level as you defend your base against diverse enemies. Shape your build with random cards and defeat challenging bosses to unlock new environments and experience unique atmospheres.</p><p><a href="https://store.steampowered.com/app/4366530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Appliance Gone Wild（新規追加）</title>
-  <link>https://store.steampowered.com/app/4106140/</link>
-  <guid isPermaLink="false">steam-store-published-4106140</guid>
-  <pubDate>Thu, 05 Feb 2026 14:05:02 +0000</pubDate>
-  <description>Elon Musk said that intelligence would be quite interested in preserving itself. Abandoned AI appliances, designed to die, turn against their creators to protect their own existence, even now erasing humanity’s path to digital immortality. But for two elderly people, this is their only hope.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106140/af16a5af2a04cb1efe131fb355f384625d608050/header.jpg?t=1770297345" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106140/af16a5af2a04cb1efe131fb355f384625d608050/header.jpg?t=1770297345" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106140/af16a5af2a04cb1efe131fb355f384625d608050/header.jpg?t=1770297345" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4106140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4106140/af16a5af2a04cb1efe131fb355f384625d608050/header.jpg?t=1770297345" alt="Appliance Gone Wild（新規追加）" /></a></p><p>Elon Musk said that intelligence would be quite interested in preserving itself. Abandoned AI appliances, designed to die, turn against their creators to protect their own existence, even now erasing humanity’s path to digital immortality. But for two elderly people, this is their only hope.</p><p><a href="https://store.steampowered.com/app/4106140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
