@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 09 Feb 2026 14:38:09 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 15:36:34 +0000</lastBuildDate>
+<item>
+  <title>Q.U.B.E: Incremental TD（新規追加）</title>
+  <link>https://store.steampowered.com/app/4383460/</link>
+  <guid isPermaLink="false">steam-store-published-4383460</guid>
+  <pubDate>Mon, 09 Feb 2026 15:36:34 +0000</pubDate>
+  <description>Incremental tower defense with chaos on the screen! Destroy enemies or gather resources, upgrade your skills, and expand your range. Choose your strategy: grow your economy, strengthen your defenses, or boost your click efficiency!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383460/da672f46332ded095d8480230e63b87213d5e957/header.jpg?t=1770650501" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383460/da672f46332ded095d8480230e63b87213d5e957/header.jpg?t=1770650501" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383460/da672f46332ded095d8480230e63b87213d5e957/header.jpg?t=1770650501" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4383460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383460/da672f46332ded095d8480230e63b87213d5e957/header.jpg?t=1770650501" alt="Q.U.B.E: Incremental TD（新規追加）" /></a></p><p>Incremental tower defense with chaos on the screen! Destroy enemies or gather resources, upgrade your skills, and expand your range. Choose your strategy: grow your economy, strengthen your defenses, or boost your click efficiency!</p><p><a href="https://store.steampowered.com/app/4383460/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Hostile Paths（新規追加）</title>
+  <link>https://store.steampowered.com/app/4392530/</link>
+  <guid isPermaLink="false">steam-store-published-4392530</guid>
+  <pubDate>Mon, 09 Feb 2026 15:36:34 +0000</pubDate>
+  <description>A gritty top-down survival roguelike where every run is a desperate fight for resources. Explore hostile paths, scavenge what remains, upgrade your tank, and survive a brutal post-apocalyptic world where no two runs are the same.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392530/15e8def67cac8bfed7f1b471d6b5c130b9227ac3/header.jpg?t=1770650729" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392530/15e8def67cac8bfed7f1b471d6b5c130b9227ac3/header.jpg?t=1770650729" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392530/15e8def67cac8bfed7f1b471d6b5c130b9227ac3/header.jpg?t=1770650729" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4392530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392530/15e8def67cac8bfed7f1b471d6b5c130b9227ac3/header.jpg?t=1770650729" alt="Hostile Paths（新規追加）" /></a></p><p>A gritty top-down survival roguelike where every run is a desperate fight for resources. Explore hostile paths, scavenge what remains, upgrade your tank, and survive a brutal post-apocalyptic world where no two runs are the same.</p><p><a href="https://store.steampowered.com/app/4392530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Femboy vs Nazis（新規追加）</title>
   <link>https://store.steampowered.com/app/4378140/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033680/467f4459e616a236377ed950fbe4bc2cfa511594/header.jpg?t=1770319208" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033680/467f4459e616a236377ed950fbe4bc2cfa511594/header.jpg?t=1770319208" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4033680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033680/467f4459e616a236377ed950fbe4bc2cfa511594/header.jpg?t=1770319208" alt="Escape: Immersion（新規追加）" /></a></p><p>Escape: Immersion is a horror adventure inspired by Inside and Little Nightmares. An atmospheric survival adventure with puzzles, platforming, and unpredictable challenges inside a collapsing underwater lab.</p><p><a href="https://store.steampowered.com/app/4033680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>First miner（新規追加）</title>
-  <link>https://store.steampowered.com/app/4182270/</link>
-  <guid isPermaLink="false">steam-store-published-4182270</guid>
-  <pubDate>Thu, 05 Feb 2026 20:01:10 +0000</pubDate>
-  <description>You took shelter in some unknown cave, so now you don&#x27;t have a choice but to mine your way to greatness! Reach new depths with tools of your choice, explore new zones, collect rare minerals, get passive and active abilities, solve some puzzles, customize your character and more in &amp;quot;First Miner&amp;quot;!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4182270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182270/dbec6a9569055079ff6e62c94445710a997a44b2/header.jpg?t=1770317072" alt="First miner（新規追加）" /></a></p><p>You took shelter in some unknown cave, so now you don&#x27;t have a choice but to mine your way to greatness! Reach new depths with tools of your choice, explore new zones, collect rare minerals, get passive and active abilities, solve some puzzles, customize your character and more in &amp;quot;First Miner&amp;quot;!</p><p><a href="https://store.steampowered.com/app/4182270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Puzzle Mage（新規追加）</title>
-  <link>https://store.steampowered.com/app/3962250/</link>
-  <guid isPermaLink="false">steam-store-published-3962250</guid>
-  <pubDate>Thu, 05 Feb 2026 19:35:17 +0000</pubDate>
-  <description>Puzzle Mage is a top-down point &amp;amp; click action adventure puzzle game. Step into the boots of Lyra, a young and gifted apprentice mage, as she embarks on the Rite of Ascension—an ancient and perilous trial held within the legendary Arcane Tower.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/bb1c410d18f859228335c4b442c0579ffc422c89/header.jpg?t=1768895292" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/bb1c410d18f859228335c4b442c0579ffc422c89/header.jpg?t=1768895292" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/bb1c410d18f859228335c4b442c0579ffc422c89/header.jpg?t=1768895292" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3962250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962250/bb1c410d18f859228335c4b442c0579ffc422c89/header.jpg?t=1768895292" alt="Puzzle Mage（新規追加）" /></a></p><p>Puzzle Mage is a top-down point &amp;amp; click action adventure puzzle game. Step into the boots of Lyra, a young and gifted apprentice mage, as she embarks on the Rite of Ascension—an ancient and perilous trial held within the legendary Arcane Tower.</p><p><a href="https://store.steampowered.com/app/3962250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
