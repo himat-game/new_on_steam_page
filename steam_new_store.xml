@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 09 Feb 2026 04:31:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 05:53:33 +0000</lastBuildDate>
+<item>
+  <title>Spark of Y（新規追加）</title>
+  <link>https://store.steampowered.com/app/4297680/</link>
+  <guid isPermaLink="false">steam-store-published-4297680</guid>
+  <pubDate>Mon, 09 Feb 2026 05:53:33 +0000</pubDate>
+  <description>《Spark of Y》是一款回合制角色扮演游戏，玩家通过在战斗中迅速做出行动判断、执行指令并推动角色成长，在连贯的单人流程中体验以节奏与决策为核心的回合制战斗玩法。</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297680/06a2e7e86a2804dd5c566a8a6cc93f30cb435c5e/header.jpg?t=1770598828" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297680/06a2e7e86a2804dd5c566a8a6cc93f30cb435c5e/header.jpg?t=1770598828" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297680/06a2e7e86a2804dd5c566a8a6cc93f30cb435c5e/header.jpg?t=1770598828" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4297680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297680/06a2e7e86a2804dd5c566a8a6cc93f30cb435c5e/header.jpg?t=1770598828" alt="Spark of Y（新規追加）" /></a></p><p>《Spark of Y》是一款回合制角色扮演游戏，玩家通过在战斗中迅速做出行动判断、执行指令并推动角色成长，在连贯的单人流程中体验以节奏与决策为核心的回合制战斗玩法。</p><p><a href="https://store.steampowered.com/app/4297680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cults of the Endtimes（新規追加）</title>
   <link>https://store.steampowered.com/app/4291160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/3c96b19255b69aa9b2e131dda3e19d622b0d6562/header.jpg?t=1770306991" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/3c96b19255b69aa9b2e131dda3e19d622b0d6562/header.jpg?t=1770306991" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3483510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/3c96b19255b69aa9b2e131dda3e19d622b0d6562/header.jpg?t=1770306991" alt="The Adventures of Elliot: The Millennium Tales（新規追加）" /></a></p><p>A brand-new action RPG from the creators of OCTOPATH TRAVELER and BRAVELY DEFAULT – The Adventures of Elliot: The Millennium Tales combines stunning HD-2D visuals and exciting action-adventure gameplay for the first time!</p><p><a href="https://store.steampowered.com/app/3483510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RGB: EXECUTION（新規追加）</title>
-  <link>https://store.steampowered.com/app/4225360/</link>
-  <guid isPermaLink="false">steam-store-published-4225360</guid>
-  <pubDate>Thu, 05 Feb 2026 15:59:35 +0000</pubDate>
-  <description>RGB: Execution is a fast-paced action game, set in a post-apocalyptic future where Generative AI has taken over a dead world. Each Boss is its own puzzle to solve. [RESTART] one last time to uncover the cyclical mystery spanning decades that led to humanity’s second extinction.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225360/2514c5120566abeb7733bce64cc123308e8839a2/header.jpg?t=1770306330" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225360/2514c5120566abeb7733bce64cc123308e8839a2/header.jpg?t=1770306330" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225360/2514c5120566abeb7733bce64cc123308e8839a2/header.jpg?t=1770306330" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4225360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225360/2514c5120566abeb7733bce64cc123308e8839a2/header.jpg?t=1770306330" alt="RGB: EXECUTION（新規追加）" /></a></p><p>RGB: Execution is a fast-paced action game, set in a post-apocalyptic future where Generative AI has taken over a dead world. Each Boss is its own puzzle to solve. [RESTART] one last time to uncover the cyclical mystery spanning decades that led to humanity’s second extinction.</p><p><a href="https://store.steampowered.com/app/4225360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
