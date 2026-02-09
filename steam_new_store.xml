@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Feb 2026 22:24:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 23:48:32 +0000</lastBuildDate>
+<item>
+  <title>Cozy Paradox Fixer: Twin Realities（新規追加）</title>
+  <link>https://store.steampowered.com/app/4305270/</link>
+  <guid isPermaLink="false">steam-store-published-4305270</guid>
+  <pubDate>Sun, 08 Feb 2026 23:48:32 +0000</pubDate>
+  <description>A cozy, relaxing first-person split-screen puzzle mystery. Explore two parallel versions of the same space, spot reality glitches, and decide which version is correct. No timers: just careful observation, deduction, and score-chasing campaigns.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305270/2ed2bb4668e17c03b66437e2fd75a58c3bdc7559/header.jpg?t=1770592397" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305270/2ed2bb4668e17c03b66437e2fd75a58c3bdc7559/header.jpg?t=1770592397" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305270/2ed2bb4668e17c03b66437e2fd75a58c3bdc7559/header.jpg?t=1770592397" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4305270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305270/2ed2bb4668e17c03b66437e2fd75a58c3bdc7559/header.jpg?t=1770592397" alt="Cozy Paradox Fixer: Twin Realities（新規追加）" /></a></p><p>A cozy, relaxing first-person split-screen puzzle mystery. Explore two parallel versions of the same space, spot reality glitches, and decide which version is correct. No timers: just careful observation, deduction, and score-chasing campaigns.</p><p><a href="https://store.steampowered.com/app/4305270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Local Zombies（新規追加）</title>
   <link>https://store.steampowered.com/app/4297610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855060/e725d6436eac1692918f49abd3b12fd352d46624/header.jpg?t=1770303217" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855060/e725d6436eac1692918f49abd3b12fd352d46624/header.jpg?t=1770303217" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3855060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855060/e725d6436eac1692918f49abd3b12fd352d46624/header.jpg?t=1770303217" alt="Dice Throne Digital（新規追加）" /></a></p><p>The official digital adaptation of the hit board game! Dice Throne is a fast-paced 1v1 combat game of intriguing dice, tactical card play, and unique heroes. Prepare to enter the battle for the throne.</p><p><a href="https://store.steampowered.com/app/3855060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>JAWS: Retro Edition（新規追加）</title>
-  <link>https://store.steampowered.com/app/3977380/</link>
-  <guid isPermaLink="false">steam-store-published-3977380</guid>
-  <pubDate>Thu, 05 Feb 2026 15:06:30 +0000</pubDate>
-  <description>JAWS: Retro Edition features two gameplay modes: Retro Edition: play the original 2D action game like never before with new quality of life features Enhanced Edition: a massively expanded, multi-chapter adventure. Upgrade your boat and explore the deep waters!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3977380/8c34775b75ed71b90345aa17b6b50c592e25d1ca/header.jpg?t=1770302064" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3977380/8c34775b75ed71b90345aa17b6b50c592e25d1ca/header.jpg?t=1770302064" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3977380/8c34775b75ed71b90345aa17b6b50c592e25d1ca/header.jpg?t=1770302064" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3977380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3977380/8c34775b75ed71b90345aa17b6b50c592e25d1ca/header.jpg?t=1770302064" alt="JAWS: Retro Edition（新規追加）" /></a></p><p>JAWS: Retro Edition features two gameplay modes: Retro Edition: play the original 2D action game like never before with new quality of life features Enhanced Edition: a massively expanded, multi-chapter adventure. Upgrade your boat and explore the deep waters!</p><p><a href="https://store.steampowered.com/app/3977380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
