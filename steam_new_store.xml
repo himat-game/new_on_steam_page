@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 09 Feb 2026 11:12:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 11:58:26 +0000</lastBuildDate>
+<item>
+  <title>Scrapcrawl（新規追加）</title>
+  <link>https://store.steampowered.com/app/4392980/</link>
+  <guid isPermaLink="false">steam-store-published-4392980</guid>
+  <pubDate>Mon, 09 Feb 2026 11:58:26 +0000</pubDate>
+  <description>Scientific Post-Apocalyptic Survival. Survive at the epicenter of a nuclear blast by developing your bunker. Fight the cold, zombies, and daily rising radiation. Explore underground utilities, scavenge and process resources, and craft devices and gear.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392980/3911e939dbae89f3d8a2f19b55200822fd648244/header.jpg?t=1770635451" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392980/3911e939dbae89f3d8a2f19b55200822fd648244/header.jpg?t=1770635451" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392980/3911e939dbae89f3d8a2f19b55200822fd648244/header.jpg?t=1770635451" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4392980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4392980/3911e939dbae89f3d8a2f19b55200822fd648244/header.jpg?t=1770635451" alt="Scrapcrawl（新規追加）" /></a></p><p>Scientific Post-Apocalyptic Survival. Survive at the epicenter of a nuclear blast by developing your bunker. Fight the cold, zombies, and daily rising radiation. Explore underground utilities, scavenge and process resources, and craft devices and gear.</p><p><a href="https://store.steampowered.com/app/4392980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Poop Deck（新規追加）</title>
   <link>https://store.steampowered.com/app/4393200/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306070/450e378fec79af75f7fc7bf3a4e6b6bddec3679c/header.jpg?t=1770311110" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306070/450e378fec79af75f7fc7bf3a4e6b6bddec3679c/header.jpg?t=1770311110" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4306070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306070/450e378fec79af75f7fc7bf3a4e6b6bddec3679c/header.jpg?t=1770311110" alt="Catch Meow If You Can（新規追加）" /></a></p><p>An online co-op horror game for up to 4 players. Play as a famous, award-winning cat. While the owner is away, different types of burglars invade the mansion. Explore dark rooms, solve puzzles, outsmart intruders, fight back, and escape without getting caught.</p><p><a href="https://store.steampowered.com/app/4306070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SongRunner（新規追加）</title>
-  <link>https://store.steampowered.com/app/4100770/</link>
-  <guid isPermaLink="false">steam-store-published-4100770</guid>
-  <pubDate>Thu, 05 Feb 2026 17:53:43 +0000</pubDate>
-  <description>A puzzle platformer where the platforms are your own musical loops! Speed through dozens of handcrafted single-screen challenges while creating your own platforms in time with a high energy original soundtrack!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100770/020731b7a3ff07ad8389841684660c22e900559a/header.jpg?t=1770313831" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100770/020731b7a3ff07ad8389841684660c22e900559a/header.jpg?t=1770313831" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100770/020731b7a3ff07ad8389841684660c22e900559a/header.jpg?t=1770313831" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4100770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100770/020731b7a3ff07ad8389841684660c22e900559a/header.jpg?t=1770313831" alt="SongRunner（新規追加）" /></a></p><p>A puzzle platformer where the platforms are your own musical loops! Speed through dozens of handcrafted single-screen challenges while creating your own platforms in time with a high energy original soundtrack!</p><p><a href="https://store.steampowered.com/app/4100770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
