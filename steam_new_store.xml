@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 09 Feb 2026 19:49:29 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Feb 2026 20:36:09 +0000</lastBuildDate>
+<item>
+  <title>A Game of Masks（新規追加）</title>
+  <link>https://store.steampowered.com/app/4277720/</link>
+  <guid isPermaLink="false">steam-store-published-4277720</guid>
+  <pubDate>Mon, 09 Feb 2026 20:36:09 +0000</pubDate>
+  <description>A 2D point and click adventure where you get to interact with everyone from the street food vendor to the mob boss (and everyone in between) to carry out your assignment for your pompous but powerful politician.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277720/54b90202f380361829a7a29d801b0c861f3d0ec0/header.jpg?t=1770668199" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277720/54b90202f380361829a7a29d801b0c861f3d0ec0/header.jpg?t=1770668199" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277720/54b90202f380361829a7a29d801b0c861f3d0ec0/header.jpg?t=1770668199" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4277720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277720/54b90202f380361829a7a29d801b0c861f3d0ec0/header.jpg?t=1770668199" alt="A Game of Masks（新規追加）" /></a></p><p>A 2D point and click adventure where you get to interact with everyone from the street food vendor to the mob boss (and everyone in between) to carry out your assignment for your pompous but powerful politician.</p><p><a href="https://store.steampowered.com/app/4277720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Case of Missing Identity（新規追加）</title>
   <link>https://store.steampowered.com/app/4285490/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365230/4fe20cfc4a8a9f0af3d35456dfd2cbda156d0a33/header.jpg?t=1770357296" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365230/4fe20cfc4a8a9f0af3d35456dfd2cbda156d0a33/header.jpg?t=1770357296" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4365230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365230/4fe20cfc4a8a9f0af3d35456dfd2cbda156d0a33/header.jpg?t=1770357296" alt="Gee, Tea, Eh, Seven?（新規追加）" /></a></p><p>In a single night, your father&#x27;s boba tea empire AND family were taken out by rivals. Take revenge as Seven, the tragic sole survivor. Build up your power base by brewing the best drinks and retaking the town... or, you know, by kneecapping the competition through sabotage, subterfuge and violence.</p><p><a href="https://store.steampowered.com/app/4365230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pale Hunt（新規追加）</title>
-  <link>https://store.steampowered.com/app/4316480/</link>
-  <guid isPermaLink="false">steam-store-published-4316480</guid>
-  <pubDate>Fri, 06 Feb 2026 05:31:50 +0000</pubDate>
-  <description>PALE HUNT is an open-world monster hunting simulator with horror elements. You find yourself stranded in the taiga at night, unprepared. To see the sunrise, you must track down and kill the creatures that will try to kill you. Explore, search for gear, and find ways to deal with your enemies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316480/9c61d4f9dffe59537af05d1f175cd34316fbf76b/header.jpg?t=1770354871" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316480/9c61d4f9dffe59537af05d1f175cd34316fbf76b/header.jpg?t=1770354871" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316480/9c61d4f9dffe59537af05d1f175cd34316fbf76b/header.jpg?t=1770354871" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4316480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316480/9c61d4f9dffe59537af05d1f175cd34316fbf76b/header.jpg?t=1770354871" alt="Pale Hunt（新規追加）" /></a></p><p>PALE HUNT is an open-world monster hunting simulator with horror elements. You find yourself stranded in the taiga at night, unprepared. To see the sunrise, you must track down and kill the creatures that will try to kill you. Explore, search for gear, and find ways to deal with your enemies.</p><p><a href="https://store.steampowered.com/app/4316480/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
