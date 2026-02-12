@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 12 Feb 2026 22:29:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Feb 2026 23:01:05 +0000</lastBuildDate>
+<item>
+  <title>DEATH STRANDING 2: ON THE BEACH（新規追加）</title>
+  <link>https://store.steampowered.com/app/3280350/</link>
+  <guid isPermaLink="false">steam-store-published-3280350</guid>
+  <pubDate>Thu, 12 Feb 2026 23:01:05 +0000</pubDate>
+  <description>Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1770936942" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1770936942" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1770936942" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3280350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1770936942" alt="DEATH STRANDING 2: ON THE BEACH（新規追加）" /></a></p><p>Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?</p><p><a href="https://store.steampowered.com/app/3280350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rain Debt（新規追加）</title>
   <link>https://store.steampowered.com/app/4385520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404000/cbd3290b93cd7c418bdd9648f42755e5090f497d/header.jpg?t=1770753037" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404000/cbd3290b93cd7c418bdd9648f42755e5090f497d/header.jpg?t=1770753037" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4404000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404000/cbd3290b93cd7c418bdd9648f42755e5090f497d/header.jpg?t=1770753037" alt="Digging It（新規追加）" /></a></p><p>Dig, upgrade, and take risky buffs in this chaotic tunnel adventure! Team up with your loyal cat and dog companions, discover powerful upgrades, and decide how far you&#x27;re willing to push your luck while digging deeper and deeper.</p><p><a href="https://store.steampowered.com/app/4404000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Undying West（新規追加）</title>
-  <link>https://store.steampowered.com/app/3390390/</link>
-  <guid isPermaLink="false">steam-store-published-3390390</guid>
-  <pubDate>Tue, 10 Feb 2026 20:05:42 +0000</pubDate>
-  <description>Undying West is a 1-4 player co-op psychological horror set in the Old West, where you and your team infiltrate abandoned locations overrun by deranged robot zombies. Find the terror lurking in the dark—discover its vulnerability, kill it, and escape with your trophy before the town claims you too.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390390/54818283c9b8f624242f72fe123f3e817d9d7ebf/header.jpg?t=1770752569" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390390/54818283c9b8f624242f72fe123f3e817d9d7ebf/header.jpg?t=1770752569" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390390/54818283c9b8f624242f72fe123f3e817d9d7ebf/header.jpg?t=1770752569" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3390390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390390/54818283c9b8f624242f72fe123f3e817d9d7ebf/header.jpg?t=1770752569" alt="Undying West（新規追加）" /></a></p><p>Undying West is a 1-4 player co-op psychological horror set in the Old West, where you and your team infiltrate abandoned locations overrun by deranged robot zombies. Find the terror lurking in the dark—discover its vulnerability, kill it, and escape with your trophy before the town claims you too.</p><p><a href="https://store.steampowered.com/app/3390390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
