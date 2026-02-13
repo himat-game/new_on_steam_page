@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 13 Feb 2026 11:18:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 11:48:57 +0000</lastBuildDate>
+<item>
+  <title>The Ashen OZ（新規追加）</title>
+  <link>https://store.steampowered.com/app/4375420/</link>
+  <guid isPermaLink="false">steam-store-published-4375420</guid>
+  <pubDate>Fri, 13 Feb 2026 11:48:57 +0000</pubDate>
+  <description>A fast-paced dark fantasy action roguelite where you chain attacks and parries into fluid, combo-driven combat through a twisted fairytale world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375420/519a8fc60f073e7f4dbe8bdb00f53e9abb11e93c/header.jpg?t=1770982627" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375420/519a8fc60f073e7f4dbe8bdb00f53e9abb11e93c/header.jpg?t=1770982627" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375420/519a8fc60f073e7f4dbe8bdb00f53e9abb11e93c/header.jpg?t=1770982627" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4375420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375420/519a8fc60f073e7f4dbe8bdb00f53e9abb11e93c/header.jpg?t=1770982627" alt="The Ashen OZ（新規追加）" /></a></p><p>A fast-paced dark fantasy action roguelite where you chain attacks and parries into fluid, combo-driven combat through a twisted fairytale world.</p><p><a href="https://store.steampowered.com/app/4375420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>My Horny Roomies（新規追加）</title>
   <link>https://store.steampowered.com/app/4396570/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235780/bfcbcfd6b87e2bd68b74db2f2f8d99f5fc056c57/header.jpg?t=1770814825" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235780/bfcbcfd6b87e2bd68b74db2f2f8d99f5fc056c57/header.jpg?t=1770814825" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4235780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235780/bfcbcfd6b87e2bd68b74db2f2f8d99f5fc056c57/header.jpg?t=1770814825" alt="My Wife Is A Hoe That Gets Used By Everybody（新規追加）" /></a></p><p>Follow the adventures of MC Lastname as he deals with his hoe of a wife.</p><p><a href="https://store.steampowered.com/app/4235780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>历史模拟器：崇祯（新規追加）</title>
-  <link>https://store.steampowered.com/app/4304230/</link>
-  <guid isPermaLink="false">steam-store-published-4304230</guid>
-  <pubDate>Wed, 11 Feb 2026 12:00:08 +0000</pubDate>
-  <description>本作的初衷不在于让崇祯单纯地赢，而是编写一部属于你的王朝兴衰故事。虽然历史绝对不可改写，但在世界模型的推演下，你的每一次抉择都将引发蝴蝶效应，书写出全新的篇章。我们希望玩家在体验演义故事的疯狂与逻辑博弈的残酷时，能在直面王朝或崩塌或强盛的激荡中，悄悄生出对真实历史的敬畏。</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304230/2a1591f74e74d49a8fab95388eb255081aae8249/header.jpg?t=1770809758" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304230/2a1591f74e74d49a8fab95388eb255081aae8249/header.jpg?t=1770809758" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304230/2a1591f74e74d49a8fab95388eb255081aae8249/header.jpg?t=1770809758" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4304230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304230/2a1591f74e74d49a8fab95388eb255081aae8249/header.jpg?t=1770809758" alt="历史模拟器：崇祯（新規追加）" /></a></p><p>本作的初衷不在于让崇祯单纯地赢，而是编写一部属于你的王朝兴衰故事。虽然历史绝对不可改写，但在世界模型的推演下，你的每一次抉择都将引发蝴蝶效应，书写出全新的篇章。我们希望玩家在体验演义故事的疯狂与逻辑博弈的残酷时，能在直面王朝或崩塌或强盛的激荡中，悄悄生出对真实历史的敬畏。</p><p><a href="https://store.steampowered.com/app/4304230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
