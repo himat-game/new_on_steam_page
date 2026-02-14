@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Feb 2026 19:53:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 20:55:31 +0000</lastBuildDate>
+<item>
+  <title>H.I.T（新規追加）</title>
+  <link>https://store.steampowered.com/app/4400340/</link>
+  <guid isPermaLink="false">steam-store-published-4400340</guid>
+  <pubDate>Sat, 14 Feb 2026 20:55:31 +0000</pubDate>
+  <description>H.I.T is a high-voltage blackjack duel where every round can end in a deadly switch pull, with wild perk combos, tense mind games, and one wrong card away from total blackout.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400340/d60515e9c2922e370ae5479fe3baab8c4e562c40/header.jpg?t=1771101772" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400340/d60515e9c2922e370ae5479fe3baab8c4e562c40/header.jpg?t=1771101772" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400340/d60515e9c2922e370ae5479fe3baab8c4e562c40/header.jpg?t=1771101772" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4400340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400340/d60515e9c2922e370ae5479fe3baab8c4e562c40/header.jpg?t=1771101772" alt="H.I.T（新規追加）" /></a></p><p>H.I.T is a high-voltage blackjack duel where every round can end in a deadly switch pull, with wild perk combos, tense mind games, and one wrong card away from total blackout.</p><p><a href="https://store.steampowered.com/app/4400340/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hopeless Days（新規追加）</title>
   <link>https://store.steampowered.com/app/4099000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461050/48e1d3ded2e7dda290892a2c2b2be38fb03076e2/header.jpg?t=1770896703" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461050/48e1d3ded2e7dda290892a2c2b2be38fb03076e2/header.jpg?t=1770896703" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3461050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461050/48e1d3ded2e7dda290892a2c2b2be38fb03076e2/header.jpg?t=1770896703" alt="Gambit（新規追加）" /></a></p><p>A chess game about beating strongest chess AI Stockfish, but in roguelike style.</p><p><a href="https://store.steampowered.com/app/3461050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Parallel Ways（新規追加）</title>
-  <link>https://store.steampowered.com/app/3886670/</link>
-  <guid isPermaLink="false">steam-store-published-3886670</guid>
-  <pubDate>Thu, 12 Feb 2026 11:37:56 +0000</pubDate>
-  <description>A 2D pixel art action RPG where four parallel worlds share the same fate. Explore dungeons, face enemies in real time, and discover how to return home before all realities collapse.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886670/5ae854c6cd3202f2f3d5b04bcc3c6f9555784830/header.jpg?t=1770895225" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886670/5ae854c6cd3202f2f3d5b04bcc3c6f9555784830/header.jpg?t=1770895225" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886670/5ae854c6cd3202f2f3d5b04bcc3c6f9555784830/header.jpg?t=1770895225" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3886670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886670/5ae854c6cd3202f2f3d5b04bcc3c6f9555784830/header.jpg?t=1770895225" alt="Parallel Ways（新規追加）" /></a></p><p>A 2D pixel art action RPG where four parallel worlds share the same fate. Explore dungeons, face enemies in real time, and discover how to return home before all realities collapse.</p><p><a href="https://store.steampowered.com/app/3886670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
