@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Feb 2026 21:53:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 22:20:30 +0000</lastBuildDate>
+<item>
+  <title>Pogo With Friends（新規追加）</title>
+  <link>https://store.steampowered.com/app/3434550/</link>
+  <guid isPermaLink="false">steam-store-published-3434550</guid>
+  <pubDate>Sat, 14 Feb 2026 22:20:30 +0000</pubDate>
+  <description>Team up with your friends with your pogo sticks and pass the obstacles! Reach the highest peak in this adventure playable with up to 4 friends. Pass through villages and caves, but be careful of the bosses. Let&#x27;s see if you can reach the treasure waiting for you with your friends?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434550/9eeaafd61f71f20aa25c06dac4b105cfe788e6c8/header.jpg?t=1771106380" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434550/9eeaafd61f71f20aa25c06dac4b105cfe788e6c8/header.jpg?t=1771106380" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434550/9eeaafd61f71f20aa25c06dac4b105cfe788e6c8/header.jpg?t=1771106380" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3434550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3434550/9eeaafd61f71f20aa25c06dac4b105cfe788e6c8/header.jpg?t=1771106380" alt="Pogo With Friends（新規追加）" /></a></p><p>Team up with your friends with your pogo sticks and pass the obstacles! Reach the highest peak in this adventure playable with up to 4 friends. Pass through villages and caves, but be careful of the bosses. Let&#x27;s see if you can reach the treasure waiting for you with your friends?</p><p><a href="https://store.steampowered.com/app/3434550/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Desk Rage（新規追加）</title>
   <link>https://store.steampowered.com/app/4379670/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380900/7ebabef994aa44d84d24e0d53458d4f4deac6e4c/header.jpg?t=1770900223" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380900/7ebabef994aa44d84d24e0d53458d4f4deac6e4c/header.jpg?t=1770900223" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4380900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380900/7ebabef994aa44d84d24e0d53458d4f4deac6e4c/header.jpg?t=1770900223" alt="A Gummings Tale: The Blacksmith（新規追加）" /></a></p><p>Become a Gumming, a forest sprite whose dream is to be the best blacksmith in his village. A rythm cozy game where you&#x27;ll gradually learn the art of forging while restoring an abandoned workshop. Will you complete the challenges in the &amp;quot;Guide to Becoming the Best Blacksmith&amp;quot;?</p><p><a href="https://store.steampowered.com/app/4380900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Campwood（新規追加）</title>
-  <link>https://store.steampowered.com/app/4269150/</link>
-  <guid isPermaLink="false">steam-store-published-4269150</guid>
-  <pubDate>Thu, 12 Feb 2026 13:46:15 +0000</pubDate>
-  <description>Campwood is a co-op wilderness survival game filled with mystery, danger, and fun. Your goal is to escape this place. And remember – your greatest enemy is the darkness.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269150/18bfdcc650668dec4f461d8f96faad916b845d51/header.jpg?t=1770900823" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269150/18bfdcc650668dec4f461d8f96faad916b845d51/header.jpg?t=1770900823" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269150/18bfdcc650668dec4f461d8f96faad916b845d51/header.jpg?t=1770900823" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4269150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269150/18bfdcc650668dec4f461d8f96faad916b845d51/header.jpg?t=1770900823" alt="Campwood（新規追加）" /></a></p><p>Campwood is a co-op wilderness survival game filled with mystery, danger, and fun. Your goal is to escape this place. And remember – your greatest enemy is the darkness.</p><p><a href="https://store.steampowered.com/app/4269150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
