@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Feb 2026 15:28:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 15:53:46 +0000</lastBuildDate>
+<item>
+  <title>Animaly（新規追加）</title>
+  <link>https://store.steampowered.com/app/4402260/</link>
+  <guid isPermaLink="false">steam-store-published-4402260</guid>
+  <pubDate>Sat, 14 Feb 2026 15:53:46 +0000</pubDate>
+  <description>There&#x27;s a murderer on the loose, and its your job to kill them first. Use your logic, items and witness reports to help thin out who it may be. Just don&#x27;t let too many bystanders die, and certainly don&#x27;t let the killer get you first.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402260/9e55f7bc4d365a1c6fe6c8aed9a232ad93e2cb25/header.jpg?t=1771083174" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402260/9e55f7bc4d365a1c6fe6c8aed9a232ad93e2cb25/header.jpg?t=1771083174" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402260/9e55f7bc4d365a1c6fe6c8aed9a232ad93e2cb25/header.jpg?t=1771083174" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4402260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402260/9e55f7bc4d365a1c6fe6c8aed9a232ad93e2cb25/header.jpg?t=1771083174" alt="Animaly（新規追加）" /></a></p><p>There&#x27;s a murderer on the loose, and its your job to kill them first. Use your logic, items and witness reports to help thin out who it may be. Just don&#x27;t let too many bystanders die, and certainly don&#x27;t let the killer get you first.</p><p><a href="https://store.steampowered.com/app/4402260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Legend of the Master Baiter Origins: Gills Gone Wild（新規追加）</title>
   <link>https://store.steampowered.com/app/4353580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404800/374f0e57371d92f75189625287b73a5ae39eba7d/header.jpg?t=1770881052" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404800/374f0e57371d92f75189625287b73a5ae39eba7d/header.jpg?t=1770881052" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4404800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404800/374f0e57371d92f75189625287b73a5ae39eba7d/header.jpg?t=1770881052" alt="Redshaw Valley（新規追加）" /></a></p><p>Play along with the story on how a group of friends who unintentionally get sent to the future embark on a time-travelling journey to save the land known as Redshaw Valley. Collect items to be able to battle against enemies that roam the lands. Earn experience and collect gold along the way.</p><p><a href="https://store.steampowered.com/app/4404800/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>C.H.I.M.P.（新規追加）</title>
-  <link>https://store.steampowered.com/app/4132510/</link>
-  <guid isPermaLink="false">steam-store-published-4132510</guid>
-  <pubDate>Thu, 12 Feb 2026 06:58:51 +0000</pubDate>
-  <description>C.H.I.M.P. is a cooperative multiplayer game where players work together to control a spaceship. On the spaceship, each player must perform their assigned role, such as piloting, shooting, or reloading. Can you reach your destination without fighting with your crewmates?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132510/547b666aaafb6852fc229cd2c7fe01e0a80b01f8/header.jpg?t=1770879108" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132510/547b666aaafb6852fc229cd2c7fe01e0a80b01f8/header.jpg?t=1770879108" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132510/547b666aaafb6852fc229cd2c7fe01e0a80b01f8/header.jpg?t=1770879108" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4132510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132510/547b666aaafb6852fc229cd2c7fe01e0a80b01f8/header.jpg?t=1770879108" alt="C.H.I.M.P.（新規追加）" /></a></p><p>C.H.I.M.P. is a cooperative multiplayer game where players work together to control a spaceship. On the spaceship, each player must perform their assigned role, such as piloting, shooting, or reloading. Can you reach your destination without fighting with your crewmates?</p><p><a href="https://store.steampowered.com/app/4132510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
