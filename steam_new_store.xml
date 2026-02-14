@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Feb 2026 10:57:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 11:51:42 +0000</lastBuildDate>
+<item>
+  <title>雾卷·知白（新規追加）</title>
+  <link>https://store.steampowered.com/app/4300270/</link>
+  <guid isPermaLink="false">steam-store-published-4300270</guid>
+  <pubDate>Sat, 14 Feb 2026 11:51:42 +0000</pubDate>
+  <description>Mist: Conscious of the Light​ is a 2D top-down rogue-lite game. Players can assume the roles of different characters, acquire various weapons and items, and engage in combat by attaching pages with diverse effects to their weapons. Seek out story-driven items, complete individual narratives</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300270/952b9d45ddf7c5f5180a850d565b300ccf460770/header.jpg?t=1771065836" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300270/952b9d45ddf7c5f5180a850d565b300ccf460770/header.jpg?t=1771065836" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300270/952b9d45ddf7c5f5180a850d565b300ccf460770/header.jpg?t=1771065836" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4300270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300270/952b9d45ddf7c5f5180a850d565b300ccf460770/header.jpg?t=1771065836" alt="雾卷·知白（新規追加）" /></a></p><p>Mist: Conscious of the Light​ is a 2D top-down rogue-lite game. Players can assume the roles of different characters, acquire various weapons and items, and engage in combat by attaching pages with diverse effects to their weapons. Seek out story-driven items, complete individual narratives</p><p><a href="https://store.steampowered.com/app/4300270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Whispers of the Valley（新規追加）</title>
   <link>https://store.steampowered.com/app/4371000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261380/96cbb909a201d09b1126bf1cee7cbd8cbbb18504/header.jpg?t=1770869966" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261380/96cbb909a201d09b1126bf1cee7cbd8cbbb18504/header.jpg?t=1770869966" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4261380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4261380/96cbb909a201d09b1126bf1cee7cbd8cbbb18504/header.jpg?t=1770869966" alt="Psycho Sphere（新規追加）" /></a></p><p>Psycho Sphere is a character driven, turn based RPG taking place in a post cataclysmic world, where all complex machinery has suddenly failed. Every fight is unique, as positioning, equipment, and mental abilities can wildly affect the outcome!</p><p><a href="https://store.steampowered.com/app/4261380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hacksaw Massacre（新規追加）</title>
-  <link>https://store.steampowered.com/app/4243320/</link>
-  <guid isPermaLink="false">steam-store-published-4243320</guid>
-  <pubDate>Thu, 12 Feb 2026 04:36:58 +0000</pubDate>
-  <description>Hacksaw Massacre brings you to the house of the corrupt mayor of a small Canadian town who died many years ago. Set in the 1980&#x27;s this indie horror game has you investigating what happened, and what is still happening in this cursed mansion.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243320/c0caf4a2f9802837da0eb2b0a3c84749c46bf460/header.jpg?t=1770868781" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243320/c0caf4a2f9802837da0eb2b0a3c84749c46bf460/header.jpg?t=1770868781" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243320/c0caf4a2f9802837da0eb2b0a3c84749c46bf460/header.jpg?t=1770868781" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243320/c0caf4a2f9802837da0eb2b0a3c84749c46bf460/header.jpg?t=1770868781" alt="Hacksaw Massacre（新規追加）" /></a></p><p>Hacksaw Massacre brings you to the house of the corrupt mayor of a small Canadian town who died many years ago. Set in the 1980&#x27;s this indie horror game has you investigating what happened, and what is still happening in this cursed mansion.</p><p><a href="https://store.steampowered.com/app/4243320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
