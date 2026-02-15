@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 20:56:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 21:24:40 +0000</lastBuildDate>
+<item>
+  <title>Basefall（新規追加）</title>
+  <link>https://store.steampowered.com/app/3729110/</link>
+  <guid isPermaLink="false">steam-store-published-3729110</guid>
+  <pubDate>Sun, 15 Feb 2026 21:24:40 +0000</pubDate>
+  <description>Basefall is a fast-paced real-time strategy game where you build your army on the fly, upgrade your arsenal, destroy your opponent’s defenses, and breach their base to win. With no turns and no downtime, every moment is a test of strategy, timing, and adaptation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729110/bda9ed5d166f03df708e68330daf9b8934195b6a/header.jpg?t=1771190107" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729110/bda9ed5d166f03df708e68330daf9b8934195b6a/header.jpg?t=1771190107" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729110/bda9ed5d166f03df708e68330daf9b8934195b6a/header.jpg?t=1771190107" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3729110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729110/bda9ed5d166f03df708e68330daf9b8934195b6a/header.jpg?t=1771190107" alt="Basefall（新規追加）" /></a></p><p>Basefall is a fast-paced real-time strategy game where you build your army on the fly, upgrade your arsenal, destroy your opponent’s defenses, and breach their base to win. With no turns and no downtime, every moment is a test of strategy, timing, and adaptation.</p><p><a href="https://store.steampowered.com/app/3729110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>KREED（新規追加）</title>
+  <link>https://store.steampowered.com/app/1351440/</link>
+  <guid isPermaLink="false">steam-store-published-1351440</guid>
+  <pubDate>Sun, 15 Feb 2026 21:24:40 +0000</pubDate>
+  <description>Kreed, a massive gravity field of unknown proportions, is threatening to swallow the galaxy whole. As a soldier marooned there, you must fight for your survival against hordes of alien marauders and unearth the dark secret behind the mysterious space anomaly.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351440/83026c0fbc9c5ca0351de05c4f17f993e86ce9c4/header.jpg?t=1771190433" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351440/83026c0fbc9c5ca0351de05c4f17f993e86ce9c4/header.jpg?t=1771190433" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351440/83026c0fbc9c5ca0351de05c4f17f993e86ce9c4/header.jpg?t=1771190433" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1351440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351440/83026c0fbc9c5ca0351de05c4f17f993e86ce9c4/header.jpg?t=1771190433" alt="KREED（新規追加）" /></a></p><p>Kreed, a massive gravity field of unknown proportions, is threatening to swallow the galaxy whole. As a soldier marooned there, you must fight for your survival against hordes of alien marauders and unearth the dark secret behind the mysterious space anomaly.</p><p><a href="https://store.steampowered.com/app/1351440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Decked Out（新規追加）</title>
   <link>https://store.steampowered.com/app/3628810/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221020/483c4be1e3247642ddad25d064e5cd3edc1ee51c/header.jpg?t=1768337033" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221020/483c4be1e3247642ddad25d064e5cd3edc1ee51c/header.jpg?t=1768337033" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221020/483c4be1e3247642ddad25d064e5cd3edc1ee51c/header.jpg?t=1768337033" alt="Postal Party（新規追加）" /></a></p><p>Postal Party is a chaotic multiplayer physics-based mail sorting party game for 1 to 4 players. Working together as an elite team of mail-bots scrambling to deliver parcels, dodge disasters, and somehow deliver on time.</p><p><a href="https://store.steampowered.com/app/4221020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Deck paper scissors（新規追加）</title>
-  <link>https://store.steampowered.com/app/4418020/</link>
-  <guid isPermaLink="false">steam-store-published-4418020</guid>
-  <pubDate>Thu, 12 Feb 2026 22:29:34 +0000</pubDate>
-  <description>It&#x27;s rock paper scissors, but as an incremental roguelike deck builder.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418020/50e473d016f65fedddc3e92577dbe3325dc3118e/header.jpg?t=1770934470" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418020/50e473d016f65fedddc3e92577dbe3325dc3118e/header.jpg?t=1770934470" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418020/50e473d016f65fedddc3e92577dbe3325dc3118e/header.jpg?t=1770934470" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4418020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418020/50e473d016f65fedddc3e92577dbe3325dc3118e/header.jpg?t=1770934470" alt="Deck paper scissors（新規追加）" /></a></p><p>It&#x27;s rock paper scissors, but as an incremental roguelike deck builder.</p><p><a href="https://store.steampowered.com/app/4418020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Back To Stables（新規追加）</title>
-  <link>https://store.steampowered.com/app/4362830/</link>
-  <guid isPermaLink="false">steam-store-published-4362830</guid>
-  <pubDate>Thu, 12 Feb 2026 21:50:22 +0000</pubDate>
-  <description>George is not in the stables! Can you lure him back? Guide George back home through spooky forests and charming meadows. A cozy journey where every path is a puzzle.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362830/0a0f7983facc60c33c0488bf8e221e2d63e1809d/header.jpg?t=1770932010" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362830/0a0f7983facc60c33c0488bf8e221e2d63e1809d/header.jpg?t=1770932010" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362830/0a0f7983facc60c33c0488bf8e221e2d63e1809d/header.jpg?t=1770932010" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4362830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362830/0a0f7983facc60c33c0488bf8e221e2d63e1809d/header.jpg?t=1770932010" alt="Back To Stables（新規追加）" /></a></p><p>George is not in the stables! Can you lure him back? Guide George back home through spooky forests and charming meadows. A cozy journey where every path is a puzzle.</p><p><a href="https://store.steampowered.com/app/4362830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
