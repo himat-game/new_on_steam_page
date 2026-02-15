@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 08:45:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 09:28:18 +0000</lastBuildDate>
+<item>
+  <title>Space Cooking Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4338620/</link>
+  <guid isPermaLink="false">steam-store-published-4338620</guid>
+  <pubDate>Sun, 15 Feb 2026 09:28:18 +0000</pubDate>
+  <description>A relaxing space cooking and management simulator where you play as an astronaut chef, serve aliens and astronauts, cook delicious meals, earn tips, and grow your futuristic restaurant.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338620/6c8068b4ca3e925230de92d8f920cf62befb273e/header.jpg?t=1771146863" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338620/6c8068b4ca3e925230de92d8f920cf62befb273e/header.jpg?t=1771146863" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338620/6c8068b4ca3e925230de92d8f920cf62befb273e/header.jpg?t=1771146863" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4338620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338620/6c8068b4ca3e925230de92d8f920cf62befb273e/header.jpg?t=1771146863" alt="Space Cooking Simulator（新規追加）" /></a></p><p>A relaxing space cooking and management simulator where you play as an astronaut chef, serve aliens and astronauts, cook delicious meals, earn tips, and grow your futuristic restaurant.</p><p><a href="https://store.steampowered.com/app/4338620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SUPER SKILL ISSUE（新規追加）</title>
   <link>https://store.steampowered.com/app/4396320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329940/97ee3d680d4996669e4acbbb01b2b772b63224c2/header.jpg?t=1770918758" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329940/97ee3d680d4996669e4acbbb01b2b772b63224c2/header.jpg?t=1770918758" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4329940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329940/97ee3d680d4996669e4acbbb01b2b772b63224c2/header.jpg?t=1770918758" alt="Beards vs. Claws（新規追加）" /></a></p><p>Every wall is a future door. Build, destroy, and fight across fully destructible battlefields in this first-person sandbox shooter where environmental creativity wins matches.</p><p><a href="https://store.steampowered.com/app/4329940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Conquerline（新規追加）</title>
-  <link>https://store.steampowered.com/app/4166870/</link>
-  <guid isPermaLink="false">steam-store-published-4166870</guid>
-  <pubDate>Thu, 12 Feb 2026 16:55:26 +0000</pubDate>
-  <description>Conquerline is a real-time strategy and base-defense game where you build and evolve your civilization across eras. Expand your settlement, manage resources, grow your army, unlock new technologies, and use powerful Edicts to shape tactics and secure victory.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166870/242c31536375e1c8f68085e3a29c0bb36508e9c3/header.jpg?t=1770914100" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166870/242c31536375e1c8f68085e3a29c0bb36508e9c3/header.jpg?t=1770914100" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166870/242c31536375e1c8f68085e3a29c0bb36508e9c3/header.jpg?t=1770914100" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4166870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166870/242c31536375e1c8f68085e3a29c0bb36508e9c3/header.jpg?t=1770914100" alt="Conquerline（新規追加）" /></a></p><p>Conquerline is a real-time strategy and base-defense game where you build and evolve your civilization across eras. Expand your settlement, manage resources, grow your army, unlock new technologies, and use powerful Edicts to shape tactics and secure victory.</p><p><a href="https://store.steampowered.com/app/4166870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
