@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 19:41:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 20:56:17 +0000</lastBuildDate>
+<item>
+  <title>Decked Out（新規追加）</title>
+  <link>https://store.steampowered.com/app/3628810/</link>
+  <guid isPermaLink="false">steam-store-published-3628810</guid>
+  <pubDate>Sun, 15 Feb 2026 20:56:17 +0000</pubDate>
+  <description>Decked Out is a card-slinging deck-building roguelike. Use cards in real time to wipe out waves of enemies in order to defend and upgrade your town.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628810/dad72bf7371eade81687e92dae57ad29a1656b59/header.jpg?t=1771183497" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628810/dad72bf7371eade81687e92dae57ad29a1656b59/header.jpg?t=1771183497" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628810/dad72bf7371eade81687e92dae57ad29a1656b59/header.jpg?t=1771183497" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3628810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628810/dad72bf7371eade81687e92dae57ad29a1656b59/header.jpg?t=1771183497" alt="Decked Out（新規追加）" /></a></p><p>Decked Out is a card-slinging deck-building roguelike. Use cards in real time to wipe out waves of enemies in order to defend and upgrade your town.</p><p><a href="https://store.steampowered.com/app/3628810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Succubus Reign: Cire（新規追加）</title>
   <link>https://store.steampowered.com/app/4338980/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362830/0a0f7983facc60c33c0488bf8e221e2d63e1809d/header.jpg?t=1770932010" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362830/0a0f7983facc60c33c0488bf8e221e2d63e1809d/header.jpg?t=1770932010" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4362830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362830/0a0f7983facc60c33c0488bf8e221e2d63e1809d/header.jpg?t=1770932010" alt="Back To Stables（新規追加）" /></a></p><p>George is not in the stables! Can you lure him back? Guide George back home through spooky forests and charming meadows. A cozy journey where every path is a puzzle.</p><p><a href="https://store.steampowered.com/app/4362830/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Go Dash Go!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4385240/</link>
-  <guid isPermaLink="false">steam-store-published-4385240</guid>
-  <pubDate>Thu, 12 Feb 2026 21:50:22 +0000</pubDate>
-  <description>An action-platformer where you will dash and punch your way upward to survive a decades-long alien-versus-robot war—as a very unlucky bystander.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385240/2cfdc40bb7ee38b1777b374265cc6673a22b81d5/header.jpg?t=1770931284" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385240/2cfdc40bb7ee38b1777b374265cc6673a22b81d5/header.jpg?t=1770931284" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385240/2cfdc40bb7ee38b1777b374265cc6673a22b81d5/header.jpg?t=1770931284" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4385240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385240/2cfdc40bb7ee38b1777b374265cc6673a22b81d5/header.jpg?t=1770931284" alt="Go Dash Go!（新規追加）" /></a></p><p>An action-platformer where you will dash and punch your way upward to survive a decades-long alien-versus-robot war—as a very unlucky bystander.</p><p><a href="https://store.steampowered.com/app/4385240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
