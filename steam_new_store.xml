@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 15:30:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 15:53:31 +0000</lastBuildDate>
+<item>
+  <title>The Last Angel（新規追加）</title>
+  <link>https://store.steampowered.com/app/4293040/</link>
+  <guid isPermaLink="false">steam-store-published-4293040</guid>
+  <pubDate>Sun, 15 Feb 2026 15:53:31 +0000</pubDate>
+  <description>Summoned to another World, Angels are the greatest power against an infestation of Arcane Entities. Blessed with Eternal Life, Angels are far more brave and reckless than their mortal counterparts. Reclaim the godly artifacts that transform ordinary beings into cosmic horrors.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293040/fa5f414bab55e2d1c0cb63c4bef7e96e24ef6fa0/header.jpg?t=1771169913" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293040/fa5f414bab55e2d1c0cb63c4bef7e96e24ef6fa0/header.jpg?t=1771169913" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293040/fa5f414bab55e2d1c0cb63c4bef7e96e24ef6fa0/header.jpg?t=1771169913" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4293040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293040/fa5f414bab55e2d1c0cb63c4bef7e96e24ef6fa0/header.jpg?t=1771169913" alt="The Last Angel（新規追加）" /></a></p><p>Summoned to another World, Angels are the greatest power against an infestation of Arcane Entities. Blessed with Eternal Life, Angels are far more brave and reckless than their mortal counterparts. Reclaim the godly artifacts that transform ordinary beings into cosmic horrors.</p><p><a href="https://store.steampowered.com/app/4293040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Almear（新規追加）</title>
   <link>https://store.steampowered.com/app/4316400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381640/cf1cbbc216cdf99df2e81545b447ebd7e3de8e45/header.jpg?t=1770917595" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381640/cf1cbbc216cdf99df2e81545b447ebd7e3de8e45/header.jpg?t=1770917595" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4381640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381640/cf1cbbc216cdf99df2e81545b447ebd7e3de8e45/header.jpg?t=1770917595" alt="POPULARITY CONTEST（新規追加）" /></a></p><p>Elena and 7 familiar faces are trapped in a room, and the only way out is to choose one person to die. Navigate social relationships and gain trust to steer the spotlight away from you, or else they just might decide you should be the one on the chopping block.</p><p><a href="https://store.steampowered.com/app/4381640/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ins[i]ght（新規追加）</title>
-  <link>https://store.steampowered.com/app/4287670/</link>
-  <guid isPermaLink="false">steam-store-published-4287670</guid>
-  <pubDate>Thu, 12 Feb 2026 19:53:52 +0000</pubDate>
-  <description>Play cards against computer opponent, uncover hidden effects and earn currency to upgrade yourself. Each game cards gain random effects - one visible and others hidden. To get to the end will require you to adapt and memorize. It will too require you to be lucky.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287670/a98ab34e72f88f7618704c0effe05619b5349589/header.jpg?t=1770925404" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287670/a98ab34e72f88f7618704c0effe05619b5349589/header.jpg?t=1770925404" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287670/a98ab34e72f88f7618704c0effe05619b5349589/header.jpg?t=1770925404" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4287670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287670/a98ab34e72f88f7618704c0effe05619b5349589/header.jpg?t=1770925404" alt="Ins[i]ght（新規追加）" /></a></p><p>Play cards against computer opponent, uncover hidden effects and earn currency to upgrade yourself. Each game cards gain random effects - one visible and others hidden. To get to the end will require you to adapt and memorize. It will too require you to be lucky.</p><p><a href="https://store.steampowered.com/app/4287670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
