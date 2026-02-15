@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 21:24:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 22:57:12 +0000</lastBuildDate>
+<item>
+  <title>INORIGAMI HACK DOWN（新規追加）</title>
+  <link>https://store.steampowered.com/app/4399160/</link>
+  <guid isPermaLink="false">steam-store-published-4399160</guid>
+  <pubDate>Sun, 15 Feb 2026 22:57:12 +0000</pubDate>
+  <description>A point-and-click horror adventure where you battle evil spirits to escape. You take a part-time job at the &amp;quot;House of Inorigami,&amp;quot; a place said to grant happiness through prayer. Instead, you find yourself hacking into the vengeful spirits&#x27; data to survive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399160/73844db3fbfbea00584a05dae7a08c314f340b3c/header.jpg?t=1771195721" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399160/73844db3fbfbea00584a05dae7a08c314f340b3c/header.jpg?t=1771195721" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399160/73844db3fbfbea00584a05dae7a08c314f340b3c/header.jpg?t=1771195721" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4399160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399160/73844db3fbfbea00584a05dae7a08c314f340b3c/header.jpg?t=1771195721" alt="INORIGAMI HACK DOWN（新規追加）" /></a></p><p>A point-and-click horror adventure where you battle evil spirits to escape. You take a part-time job at the &amp;quot;House of Inorigami,&amp;quot; a place said to grant happiness through prayer. Instead, you find yourself hacking into the vengeful spirits&#x27; data to survive.</p><p><a href="https://store.steampowered.com/app/4399160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Basefall（新規追加）</title>
   <link>https://store.steampowered.com/app/3729110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198670/25f61385d17ec21f72e7b9c0052eab28e9adabcf/header.jpg?t=1770934217" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198670/25f61385d17ec21f72e7b9c0052eab28e9adabcf/header.jpg?t=1770934217" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4198670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198670/25f61385d17ec21f72e7b9c0052eab28e9adabcf/header.jpg?t=1770934217" alt="Odyssey - Echoes of Ithaca（新規追加）" /></a></p><p>A fast-paced top-down roguelike inspired by The Odyssey. Fight creatures of darkness in intense co-op action combat as Odysseus or Eurylochus. Craft powerful builds, survive deadly encounters, and challenge the fearsome ogre Polyphemus.</p><p><a href="https://store.steampowered.com/app/4198670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Postal Party（新規追加）</title>
-  <link>https://store.steampowered.com/app/4221020/</link>
-  <guid isPermaLink="false">steam-store-published-4221020</guid>
-  <pubDate>Thu, 12 Feb 2026 22:29:34 +0000</pubDate>
-  <description>Postal Party is a chaotic multiplayer physics-based mail sorting party game for 1 to 4 players. Working together as an elite team of mail-bots scrambling to deliver parcels, dodge disasters, and somehow deliver on time.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221020/483c4be1e3247642ddad25d064e5cd3edc1ee51c/header.jpg?t=1768337033" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221020/483c4be1e3247642ddad25d064e5cd3edc1ee51c/header.jpg?t=1768337033" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221020/483c4be1e3247642ddad25d064e5cd3edc1ee51c/header.jpg?t=1768337033" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4221020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4221020/483c4be1e3247642ddad25d064e5cd3edc1ee51c/header.jpg?t=1768337033" alt="Postal Party（新規追加）" /></a></p><p>Postal Party is a chaotic multiplayer physics-based mail sorting party game for 1 to 4 players. Working together as an elite team of mail-bots scrambling to deliver parcels, dodge disasters, and somehow deliver on time.</p><p><a href="https://store.steampowered.com/app/4221020/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
