@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 07:36:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 07:59:40 +0000</lastBuildDate>
+<item>
+  <title>ARALSK 7（新規追加）</title>
+  <link>https://store.steampowered.com/app/4404970/</link>
+  <guid isPermaLink="false">steam-store-published-4404970</guid>
+  <pubDate>Sun, 15 Feb 2026 07:59:40 +0000</pubDate>
+  <description>Atmospheric psychological horror from Uzbekistan. Explore the abandoned territories of the Aral Sea, face your fears, and uncover the dark secrets of the Aralsk-7 station. Survive in a world where the line between reality and nightmare is blurred.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404970/43a50ed823ad1287a1232ceff9ccbd4dc6ef2bdf/header.jpg?t=1771142090" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404970/43a50ed823ad1287a1232ceff9ccbd4dc6ef2bdf/header.jpg?t=1771142090" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404970/43a50ed823ad1287a1232ceff9ccbd4dc6ef2bdf/header.jpg?t=1771142090" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4404970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404970/43a50ed823ad1287a1232ceff9ccbd4dc6ef2bdf/header.jpg?t=1771142090" alt="ARALSK 7（新規追加）" /></a></p><p>Atmospheric psychological horror from Uzbekistan. Explore the abandoned territories of the Aral Sea, face your fears, and uncover the dark secrets of the Aralsk-7 station. Survive in a world where the line between reality and nightmare is blurred.</p><p><a href="https://store.steampowered.com/app/4404970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bouncy Weapons（新規追加）</title>
   <link>https://store.steampowered.com/app/4389400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406480/a04809390d041783669ba829d860868c98819745/header.jpg?t=1770912699" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406480/a04809390d041783669ba829d860868c98819745/header.jpg?t=1770912699" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4406480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406480/a04809390d041783669ba829d860868c98819745/header.jpg?t=1770912699" alt="SURVIVAL（新規追加）" /></a></p><p>You are one of the last survivors of the apocalypse. Explore the dark forest, build shelters, craft weapons, and fight zombies and mutants in this realistic first-person survival simulator.</p><p><a href="https://store.steampowered.com/app/4406480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Styxton（新規追加）</title>
-  <link>https://store.steampowered.com/app/4278230/</link>
-  <guid isPermaLink="false">steam-store-published-4278230</guid>
-  <pubDate>Thu, 12 Feb 2026 16:55:26 +0000</pubDate>
-  <description>&amp;quot;Styxton&amp;quot; is a nonlinear horror visual novel. Sometimes, salvation is the worst curse. You are alive. Now find out who needed it.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278230/ae8a56591953cf522bb1addc2df977f2c0753800/header.jpg?t=1770915292" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278230/ae8a56591953cf522bb1addc2df977f2c0753800/header.jpg?t=1770915292" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278230/ae8a56591953cf522bb1addc2df977f2c0753800/header.jpg?t=1770915292" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4278230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278230/ae8a56591953cf522bb1addc2df977f2c0753800/header.jpg?t=1770915292" alt="Styxton（新規追加）" /></a></p><p>&amp;quot;Styxton&amp;quot; is a nonlinear horror visual novel. Sometimes, salvation is the worst curse. You are alive. Now find out who needed it.</p><p><a href="https://store.steampowered.com/app/4278230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
