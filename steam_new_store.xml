@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 11:51:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 12:44:07 +0000</lastBuildDate>
+<item>
+  <title>Absorber: Absorb Adapt Survive（新規追加）</title>
+  <link>https://store.steampowered.com/app/4412040/</link>
+  <guid isPermaLink="false">steam-store-published-4412040</guid>
+  <pubDate>Sun, 15 Feb 2026 12:44:07 +0000</pubDate>
+  <description>Position yourself on a 7x7 grid, absorb enemies to fuel your abilities, and climb through 12+ increasingly hostile sectors to reach the core.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412040/c5a479a07906188197a5d27e587efd6f6c52c925/header.jpg?t=1771156699" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412040/c5a479a07906188197a5d27e587efd6f6c52c925/header.jpg?t=1771156699" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412040/c5a479a07906188197a5d27e587efd6f6c52c925/header.jpg?t=1771156699" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4412040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412040/c5a479a07906188197a5d27e587efd6f6c52c925/header.jpg?t=1771156699" alt="Absorber: Absorb Adapt Survive（新規追加）" /></a></p><p>Position yourself on a 7x7 grid, absorb enemies to fuel your abilities, and climb through 12+ increasingly hostile sectors to reach the core.</p><p><a href="https://store.steampowered.com/app/4412040/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>REDSTREAM DISPATCH（新規追加）</title>
   <link>https://store.steampowered.com/app/4386260/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406180/a0a097a963014a8f2091e0cea8d80b984396b12f/header.jpg?t=1770919257" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406180/a0a097a963014a8f2091e0cea8d80b984396b12f/header.jpg?t=1770919257" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4406180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406180/a0a097a963014a8f2091e0cea8d80b984396b12f/header.jpg?t=1770919257" alt="昭明日月 Pax Serica: Rise of the Ming（新規追加）" /></a></p><p>如果您曾期待一款展现中华帝制治国智慧与历史深度的架空历史模拟策略经营游戏：“天命无常，唯德者辅；民心如镜，照见兴亡”。民心通过科道弹章和市井巷议来展现；需处理奏章批红和科举选才等政务，才能真切体会 “垂拱而治” 的理想境界。那么，就请与我们一起，亲自探索《昭明日月》的崭新世界。</p><p><a href="https://store.steampowered.com/app/4406180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beyond The Cupola: ISS Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4272150/</link>
-  <guid isPermaLink="false">steam-store-published-4272150</guid>
-  <pubDate>Thu, 12 Feb 2026 19:00:59 +0000</pubDate>
-  <description>You are the ISS crew, where the station&#x27;s fate depends on everyone. Oxygen leaks, system failures, meteorite threats — repair with your own hands and make real-time decisions. Complete missions, perform spacewalks. Experience life in orbit: in space, nothing goes according to plan.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272150/5f53c25684102d63d08a43d3f79100378dca1076/header.jpg?t=1770919214" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272150/5f53c25684102d63d08a43d3f79100378dca1076/header.jpg?t=1770919214" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272150/5f53c25684102d63d08a43d3f79100378dca1076/header.jpg?t=1770919214" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272150/5f53c25684102d63d08a43d3f79100378dca1076/header.jpg?t=1770919214" alt="Beyond The Cupola: ISS Simulator（新規追加）" /></a></p><p>You are the ISS crew, where the station&#x27;s fate depends on everyone. Oxygen leaks, system failures, meteorite threats — repair with your own hands and make real-time decisions. Complete missions, perform spacewalks. Experience life in orbit: in space, nothing goes according to plan.</p><p><a href="https://store.steampowered.com/app/4272150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
