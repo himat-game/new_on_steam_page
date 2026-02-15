@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 10:57:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 11:25:15 +0000</lastBuildDate>
+<item>
+  <title>halfmoon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4175330/</link>
+  <guid isPermaLink="false">steam-store-published-4175330</guid>
+  <pubDate>Sun, 15 Feb 2026 11:25:15 +0000</pubDate>
+  <description>halfmoon is a short adventure game set in a reception office for the deceased, the final stop before the afterlife.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175330/d59d3103244870152acf086a91e40a1fe287194f/header.jpg?t=1771153780" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175330/d59d3103244870152acf086a91e40a1fe287194f/header.jpg?t=1771153780" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175330/d59d3103244870152acf086a91e40a1fe287194f/header.jpg?t=1771153780" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4175330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175330/d59d3103244870152acf086a91e40a1fe287194f/header.jpg?t=1771153780" alt="halfmoon（新規追加）" /></a></p><p>halfmoon is a short adventure game set in a reception office for the deceased, the final stop before the afterlife.</p><p><a href="https://store.steampowered.com/app/4175330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Tiny Garden（新規追加）</title>
   <link>https://store.steampowered.com/app/3165880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416860/47500b7ae2a5ad7ae350daf5f99117777be67896/header.jpg?t=1770912247" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416860/47500b7ae2a5ad7ae350daf5f99117777be67896/header.jpg?t=1770912247" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4416860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416860/47500b7ae2a5ad7ae350daf5f99117777be67896/header.jpg?t=1770912247" alt="Apartment203:HongKong（新規追加）" /></a></p><p>&amp;quot;Apartment 203:HongKong&amp;quot; is a first-person horror adventure game set in the urban landscape of Hong Kong. The story follows a young man who arrives at his sister&#x27;s residence to uncover the truth behind her mysterious disappearance. His journey takes a bizarre due to a series of unexpected events....</p><p><a href="https://store.steampowered.com/app/4416860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Unicycle Together（新規追加）</title>
-  <link>https://store.steampowered.com/app/4286040/</link>
-  <guid isPermaLink="false">steam-store-published-4286040</guid>
-  <pubDate>Thu, 12 Feb 2026 17:56:08 +0000</pubDate>
-  <description>Unicycles, a ticking bomb, and sausages struggling to stay balanced! In this 2-4 player physics-based chaos game, cooperate with your friends or blow them up! Reach the mountain peak before the fuse runs out. Don’t fall, don’t explode, and try to stay meaty!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg?t=1770918748" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg?t=1770918748" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg?t=1770918748" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4286040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286040/7ba93ad19f40a39830d696385ce3f21a44d87e3a/header.jpg?t=1770918748" alt="Unicycle Together（新規追加）" /></a></p><p>Unicycles, a ticking bomb, and sausages struggling to stay balanced! In this 2-4 player physics-based chaos game, cooperate with your friends or blow them up! Reach the mountain peak before the fuse runs out. Don’t fall, don’t explode, and try to stay meaty!</p><p><a href="https://store.steampowered.com/app/4286040/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
