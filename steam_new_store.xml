@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Feb 2026 04:32:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 05:42:02 +0000</lastBuildDate>
+<item>
+  <title>Unmixable Syrup（新規追加）</title>
+  <link>https://store.steampowered.com/app/4302440/</link>
+  <guid isPermaLink="false">steam-store-published-4302440</guid>
+  <pubDate>Sun, 15 Feb 2026 05:42:02 +0000</pubDate>
+  <description>I wolf down a cold, lonely meal. Work&#x27;s wearing me down, and money&#x27;s shaky. The syrup I pour into my cold coffee never mixes, no matter how much I stir. So I figure I&#x27;ll just wander around in my dreams.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302440/fd0fd628ee30d243c3ca7c8a349a3abb38db9a5d/header.jpg?t=1768642390" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302440/fd0fd628ee30d243c3ca7c8a349a3abb38db9a5d/header.jpg?t=1768642390" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302440/fd0fd628ee30d243c3ca7c8a349a3abb38db9a5d/header.jpg?t=1768642390" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4302440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302440/fd0fd628ee30d243c3ca7c8a349a3abb38db9a5d/header.jpg?t=1768642390" alt="Unmixable Syrup（新規追加）" /></a></p><p>I wolf down a cold, lonely meal. Work&#x27;s wearing me down, and money&#x27;s shaky. The syrup I pour into my cold coffee never mixes, no matter how much I stir. So I figure I&#x27;ll just wander around in my dreams.</p><p><a href="https://store.steampowered.com/app/4302440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>生生不息：烟火（新規追加）</title>
   <link>https://store.steampowered.com/app/4424070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327130/ba2696b7ac8844d4d0fa07a4f9ef8e2ba2d85ce0/header.jpg?t=1770909621" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327130/ba2696b7ac8844d4d0fa07a4f9ef8e2ba2d85ce0/header.jpg?t=1770909621" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4327130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327130/ba2696b7ac8844d4d0fa07a4f9ef8e2ba2d85ce0/header.jpg?t=1770909621" alt="Rusty Vein（新規追加）" /></a></p><p>Rusty Vein is a 2.5D action-adventure game. Wearing a metal gauntlet, Rain sets out on a journey to defeat the mysterious doll legion that has occupied the town’s castle.</p><p><a href="https://store.steampowered.com/app/4327130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bellagarth&#x27;s Quest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4363950/</link>
-  <guid isPermaLink="false">steam-store-published-4363950</guid>
-  <pubDate>Thu, 12 Feb 2026 15:50:52 +0000</pubDate>
-  <description>A kinky comedy action platformer</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363950/e036521e9abb3c35d91b3da4f2fc2d413c364ed9/header.jpg?t=1770910634" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363950/e036521e9abb3c35d91b3da4f2fc2d413c364ed9/header.jpg?t=1770910634" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363950/e036521e9abb3c35d91b3da4f2fc2d413c364ed9/header.jpg?t=1770910634" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4363950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363950/e036521e9abb3c35d91b3da4f2fc2d413c364ed9/header.jpg?t=1770910634" alt="Bellagarth&#x27;s Quest（新規追加）" /></a></p><p>A kinky comedy action platformer</p><p><a href="https://store.steampowered.com/app/4363950/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
