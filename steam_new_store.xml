@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 16 Feb 2026 17:22:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 18:05:45 +0000</lastBuildDate>
+<item>
+  <title>Horse Race Tests: Life is Pain（新規追加）</title>
+  <link>https://store.steampowered.com/app/4360160/</link>
+  <guid isPermaLink="false">steam-store-published-4360160</guid>
+  <pubDate>Mon, 16 Feb 2026 18:05:45 +0000</pubDate>
+  <description>In Horse Race Tests: Life is Pain, feed into your worst impulses in this action packed high score gambling game. Gain abilities to rig races in your favor! Collect virtual figurines of your favorite horses, like Jovial Merryment...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360160/7e767d889c64b06189557b80259403c473884a03/header.jpg?t=1771264876" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360160/7e767d889c64b06189557b80259403c473884a03/header.jpg?t=1771264876" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360160/7e767d889c64b06189557b80259403c473884a03/header.jpg?t=1771264876" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4360160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360160/7e767d889c64b06189557b80259403c473884a03/header.jpg?t=1771264876" alt="Horse Race Tests: Life is Pain（新規追加）" /></a></p><p>In Horse Race Tests: Life is Pain, feed into your worst impulses in this action packed high score gambling game. Gain abilities to rig races in your favor! Collect virtual figurines of your favorite horses, like Jovial Merryment...</p><p><a href="https://store.steampowered.com/app/4360160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>HiroBot: Clean &amp; Restore（新規追加）</title>
   <link>https://store.steampowered.com/app/4247350/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4410950/cae64917841b2cebe20ed6bdadfce81ca0822dcc/header.jpg?t=1770959888" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4410950/cae64917841b2cebe20ed6bdadfce81ca0822dcc/header.jpg?t=1770959888" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4410950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4410950/cae64917841b2cebe20ed6bdadfce81ca0822dcc/header.jpg?t=1770959888" alt="ExoLife Terrarium Simulator（新規追加）" /></a></p><p>They hunt, they grow, they change. Care for multiple aliens in a single terrarium, fill it with plants and gear, and keep light and environment in balance. Every reproduction yields Exobiotin, a valuable protein. Keep control, or they may break out.</p><p><a href="https://store.steampowered.com/app/4410950/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mad MOJO（新規追加）</title>
-  <link>https://store.steampowered.com/app/4305180/</link>
-  <guid isPermaLink="false">steam-store-published-4305180</guid>
-  <pubDate>Fri, 13 Feb 2026 05:46:35 +0000</pubDate>
-  <description>Mad MOJO is an action-packed, monster-catching deckbuilder in disguise. Hunt for the legendary Prime MOJO with poker-inspired hands, real-time parries, and game-breaking element Tokens. But beware of the MOJO hiding just beyond your reach...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305180/5894c6a2b3e265fec62e1cda00e68eb2402b009c/header.jpg?t=1770957066" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305180/5894c6a2b3e265fec62e1cda00e68eb2402b009c/header.jpg?t=1770957066" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305180/5894c6a2b3e265fec62e1cda00e68eb2402b009c/header.jpg?t=1770957066" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4305180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305180/5894c6a2b3e265fec62e1cda00e68eb2402b009c/header.jpg?t=1770957066" alt="Mad MOJO（新規追加）" /></a></p><p>Mad MOJO is an action-packed, monster-catching deckbuilder in disguise. Hunt for the legendary Prime MOJO with poker-inspired hands, real-time parries, and game-breaking element Tokens. But beware of the MOJO hiding just beyond your reach...</p><p><a href="https://store.steampowered.com/app/4305180/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
