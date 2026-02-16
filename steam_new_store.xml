@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 16 Feb 2026 08:56:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 09:53:25 +0000</lastBuildDate>
+<item>
+  <title>Pattaya Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4086150/</link>
+  <guid isPermaLink="false">steam-store-published-4086150</guid>
+  <pubDate>Mon, 16 Feb 2026 09:53:25 +0000</pubDate>
+  <description>Pattaya Simulator is a life-simulation game set in the city of Pattaya. Players take on the role of a massage therapist who brings happiness and vibrant energy to the townspeople through bizarre locations and eccentric massage equipment.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086150/37e1a47ef3bf2cc55d0f8648523d90c403564427/header.jpg?t=1771233699" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086150/37e1a47ef3bf2cc55d0f8648523d90c403564427/header.jpg?t=1771233699" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086150/37e1a47ef3bf2cc55d0f8648523d90c403564427/header.jpg?t=1771233699" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4086150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086150/37e1a47ef3bf2cc55d0f8648523d90c403564427/header.jpg?t=1771233699" alt="Pattaya Simulator（新規追加）" /></a></p><p>Pattaya Simulator is a life-simulation game set in the city of Pattaya. Players take on the role of a massage therapist who brings happiness and vibrant energy to the townspeople through bizarre locations and eccentric massage equipment.</p><p><a href="https://store.steampowered.com/app/4086150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The V Anomaly（新規追加）</title>
   <link>https://store.steampowered.com/app/1345850/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2727540/2bf2c196d266949729da97306378a6c43f68a403/header.jpg?t=1770940443" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2727540/2bf2c196d266949729da97306378a6c43f68a403/header.jpg?t=1770940443" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2727540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2727540/2bf2c196d266949729da97306378a6c43f68a403/header.jpg?t=1770940443" alt="Legend of Swords II（新規追加）" /></a></p><p>&amp;quot;Legend of Swords II&amp;quot; is a traditional 2D turn-based RPG. The game features diverse systems including talents, forging, skills, pets, and achievement rewards. There are five difficulty levels awaiting your challenge. The game also offers different endings and hidden Easter eggs for you to discover.</p><p><a href="https://store.steampowered.com/app/2727540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dreams Stories Online（新規追加）</title>
-  <link>https://store.steampowered.com/app/4405770/</link>
-  <guid isPermaLink="false">steam-store-published-4405770</guid>
-  <pubDate>Fri, 13 Feb 2026 02:00:53 +0000</pubDate>
-  <description>Dreams Stories Online is an indie MMORPG where you return from death 🕯️ not as someone who has already triumphed, but as someone who still dreams. Walk through a persistent, wounded, and hostile world, guided by the hope of a great restoration.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405770/6fee1b579cb88bc4af82c26590ea1a0510e29e79/header.jpg?t=1770941757" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405770/6fee1b579cb88bc4af82c26590ea1a0510e29e79/header.jpg?t=1770941757" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405770/6fee1b579cb88bc4af82c26590ea1a0510e29e79/header.jpg?t=1770941757" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4405770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405770/6fee1b579cb88bc4af82c26590ea1a0510e29e79/header.jpg?t=1770941757" alt="Dreams Stories Online（新規追加）" /></a></p><p>Dreams Stories Online is an indie MMORPG where you return from death 🕯️ not as someone who has already triumphed, but as someone who still dreams. Walk through a persistent, wounded, and hostile world, guided by the hope of a great restoration.</p><p><a href="https://store.steampowered.com/app/4405770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
