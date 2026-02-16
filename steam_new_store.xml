@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 16 Feb 2026 04:35:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Feb 2026 05:52:37 +0000</lastBuildDate>
+<item>
+  <title>Dissociated Worth（新規追加）</title>
+  <link>https://store.steampowered.com/app/4341470/</link>
+  <guid isPermaLink="false">steam-store-published-4341470</guid>
+  <pubDate>Mon, 16 Feb 2026 05:52:37 +0000</pubDate>
+  <description>The narrative itself is the puzzle. See through your opponents lies before they see through yours. Be they human or not.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341470/551e0dde3a43afc6f972687cbb449d903e0be183/header.jpg?t=1771218513" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341470/551e0dde3a43afc6f972687cbb449d903e0be183/header.jpg?t=1771218513" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341470/551e0dde3a43afc6f972687cbb449d903e0be183/header.jpg?t=1771218513" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4341470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341470/551e0dde3a43afc6f972687cbb449d903e0be183/header.jpg?t=1771218513" alt="Dissociated Worth（新規追加）" /></a></p><p>The narrative itself is the puzzle. See through your opponents lies before they see through yours. Be they human or not.</p><p><a href="https://store.steampowered.com/app/4341470/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DEFAUT（新規追加）</title>
   <link>https://store.steampowered.com/app/4412580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3747730/f0b68c0f6aa4adba527cf5635cf08d58464f9dcc/header.jpg?t=1770938335" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3747730/f0b68c0f6aa4adba527cf5635cf08d58464f9dcc/header.jpg?t=1770938335" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3747730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3747730/f0b68c0f6aa4adba527cf5635cf08d58464f9dcc/header.jpg?t=1770938335" alt="Legacy of Kain: Defiance Remastered（新規追加）" /></a></p><p>Play as the vampire Kain and his betrayed lieutenant Raziel. Wield legendary blades, use supernatural abilities, and battle through a world of conflict, intrigue, and prophecy as their paths collide across the dark world of Nosgoth.</p><p><a href="https://store.steampowered.com/app/3747730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Crimson Moon（新規追加）</title>
-  <link>https://store.steampowered.com/app/4317690/</link>
-  <guid isPermaLink="false">steam-store-published-4317690</guid>
-  <pubDate>Thu, 12 Feb 2026 23:47:25 +0000</pubDate>
-  <description>A gothic action-adventure RPG of violent angels and dead gods.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/c916d5a4804f2599a82f093191ccf8abc0e4a840/header.jpg?t=1770939110" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/c916d5a4804f2599a82f093191ccf8abc0e4a840/header.jpg?t=1770939110" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/c916d5a4804f2599a82f093191ccf8abc0e4a840/header.jpg?t=1770939110" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4317690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/c916d5a4804f2599a82f093191ccf8abc0e4a840/header.jpg?t=1770939110" alt="Crimson Moon（新規追加）" /></a></p><p>A gothic action-adventure RPG of violent angels and dead gods.</p><p><a href="https://store.steampowered.com/app/4317690/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
