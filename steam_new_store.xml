@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 18 Feb 2026 07:53:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Feb 2026 08:41:03 +0000</lastBuildDate>
+<item>
+  <title>日本史因果クロニクル（新規追加）</title>
+  <link>https://store.steampowered.com/app/4403470/</link>
+  <guid isPermaLink="false">steam-store-published-4403470</guid>
+  <pubDate>Wed, 18 Feb 2026 08:41:03 +0000</pubDate>
+  <description>A deckbuilding card roguelike where you learn Japanese history by playing. Build powerful “Causal Combos” based on real historical relationships, and experience Japan’s historical flow from the Asuka period to the Bakumatsu era.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403470/a7715163dc29aca2790f74fa40af4b0db77bbec5/header.jpg?t=1771403488" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403470/a7715163dc29aca2790f74fa40af4b0db77bbec5/header.jpg?t=1771403488" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403470/a7715163dc29aca2790f74fa40af4b0db77bbec5/header.jpg?t=1771403488" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4403470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403470/a7715163dc29aca2790f74fa40af4b0db77bbec5/header.jpg?t=1771403488" alt="日本史因果クロニクル（新規追加）" /></a></p><p>A deckbuilding card roguelike where you learn Japanese history by playing. Build powerful “Causal Combos” based on real historical relationships, and experience Japan’s historical flow from the Asuka period to the Bakumatsu era.</p><p><a href="https://store.steampowered.com/app/4403470/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Neverpaw（新規追加）</title>
+  <link>https://store.steampowered.com/app/4403220/</link>
+  <guid isPermaLink="false">steam-store-published-4403220</guid>
+  <pubDate>Wed, 18 Feb 2026 08:41:03 +0000</pubDate>
+  <description>Fight monsters, explore dungeons, and dive into a fun adventure in a 2D top-down world. Play solo or bring your best friend along in co-op — because every adventure is better together!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403220/0c3be01adb49331699019444b284b1f52606a03b/header.jpg?t=1771401259" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403220/0c3be01adb49331699019444b284b1f52606a03b/header.jpg?t=1771401259" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403220/0c3be01adb49331699019444b284b1f52606a03b/header.jpg?t=1771401259" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4403220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403220/0c3be01adb49331699019444b284b1f52606a03b/header.jpg?t=1771401259" alt="Neverpaw（新規追加）" /></a></p><p>Fight monsters, explore dungeons, and dive into a fun adventure in a 2D top-down world. Play solo or bring your best friend along in co-op — because every adventure is better together!</p><p><a href="https://store.steampowered.com/app/4403220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pikku Adventure（新規追加）</title>
   <link>https://store.steampowered.com/app/4428600/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3608830/11bdc26372cd93cf9e0bd0cbfc37432d40f8ca21/header.jpg?t=1771174261" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3608830/11bdc26372cd93cf9e0bd0cbfc37432d40f8ca21/header.jpg?t=1771174261" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3608830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3608830/11bdc26372cd93cf9e0bd0cbfc37432d40f8ca21/header.jpg?t=1771174261" alt="Flip-Flop Fury（新規追加）" /></a></p><p>Smack deserving targets with flying footwear in this fast, projectile-steering arcade game. Short, replayable runs with tons of challenges, instant restart, bullet time, unlockable footwear, and juicy, reactive physics.</p><p><a href="https://store.steampowered.com/app/3608830/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Helmet Head（新規追加）</title>
-  <link>https://store.steampowered.com/app/4285450/</link>
-  <guid isPermaLink="false">steam-store-published-4285450</guid>
-  <pubDate>Sun, 15 Feb 2026 16:27:09 +0000</pubDate>
-  <description>Helmet Head is an action-roguelike with a 2D souls-lite combat style. Build your strength on each run by finding weapons, helmets, upgrades and items in randomly generated environments, and use them in clever ways to defeat your foes! Death wipes the slate clean. Keep learning, never stop fighting!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285450/97926c8c2dd77e77776303413e3f45a7b7483ac6/header.jpg?t=1771171540" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285450/97926c8c2dd77e77776303413e3f45a7b7483ac6/header.jpg?t=1771171540" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285450/97926c8c2dd77e77776303413e3f45a7b7483ac6/header.jpg?t=1771171540" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285450/97926c8c2dd77e77776303413e3f45a7b7483ac6/header.jpg?t=1771171540" alt="Helmet Head（新規追加）" /></a></p><p>Helmet Head is an action-roguelike with a 2D souls-lite combat style. Build your strength on each run by finding weapons, helmets, upgrades and items in randomly generated environments, and use them in clever ways to defeat your foes! Death wipes the slate clean. Keep learning, never stop fighting!</p><p><a href="https://store.steampowered.com/app/4285450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bajillionaire（新規追加）</title>
-  <link>https://store.steampowered.com/app/3675580/</link>
-  <guid isPermaLink="false">steam-store-published-3675580</guid>
-  <pubDate>Sun, 15 Feb 2026 16:27:09 +0000</pubDate>
-  <description>Purchase and customize ridiculously large slot machines in a quest for inner healing &amp;amp; finding out who did it. BAJILLIONAIRE is a not only a state of the art money-making experience but indeed a chance at spiritual awakening and a welcome distraction from job hunting.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3675580/a1bd0d3f843a84df08b907bf3395155a38f2d2b7/header.jpg?t=1771171279" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3675580/a1bd0d3f843a84df08b907bf3395155a38f2d2b7/header.jpg?t=1771171279" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3675580/a1bd0d3f843a84df08b907bf3395155a38f2d2b7/header.jpg?t=1771171279" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3675580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3675580/a1bd0d3f843a84df08b907bf3395155a38f2d2b7/header.jpg?t=1771171279" alt="Bajillionaire（新規追加）" /></a></p><p>Purchase and customize ridiculously large slot machines in a quest for inner healing &amp;amp; finding out who did it. BAJILLIONAIRE is a not only a state of the art money-making experience but indeed a chance at spiritual awakening and a welcome distraction from job hunting.</p><p><a href="https://store.steampowered.com/app/3675580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
