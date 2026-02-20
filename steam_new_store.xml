@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 20 Feb 2026 06:53:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 07:45:56 +0000</lastBuildDate>
+<item>
+  <title>Settle（新規追加）</title>
+  <link>https://store.steampowered.com/app/4341780/</link>
+  <guid isPermaLink="false">steam-store-published-4341780</guid>
+  <pubDate>Fri, 20 Feb 2026 07:45:56 +0000</pubDate>
+  <description>A cozy puzzle about decor and history. Explore different eras by arranging authentic items from diverse cultures. Restore harmony to interiors of the past and enjoy the meditative flow.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341780/53ee236398e7c8fdf2b9613ecc7eb38d2977a88b/header.jpg?t=1771572955" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341780/53ee236398e7c8fdf2b9613ecc7eb38d2977a88b/header.jpg?t=1771572955" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341780/53ee236398e7c8fdf2b9613ecc7eb38d2977a88b/header.jpg?t=1771572955" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4341780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341780/53ee236398e7c8fdf2b9613ecc7eb38d2977a88b/header.jpg?t=1771572955" alt="Settle（新規追加）" /></a></p><p>A cozy puzzle about decor and history. Explore different eras by arranging authentic items from diverse cultures. Restore harmony to interiors of the past and enjoy the meditative flow.</p><p><a href="https://store.steampowered.com/app/4341780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Ethos Mythos（新規追加）</title>
+  <link>https://store.steampowered.com/app/4431670/</link>
+  <guid isPermaLink="false">steam-store-published-4431670</guid>
+  <pubDate>Fri, 20 Feb 2026 07:45:56 +0000</pubDate>
+  <description>Experience Balkan stubbornness first hand in this charming pixel art, co-op, rogue-like. Fend off your crops and streets from ancient Slavic demons and big corporation the only way you know: throwing garlic at your problems.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431670/d57169472b5996957ccf4bc2228f22d5a579702c/header.jpg?t=1771571318" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431670/d57169472b5996957ccf4bc2228f22d5a579702c/header.jpg?t=1771571318" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431670/d57169472b5996957ccf4bc2228f22d5a579702c/header.jpg?t=1771571318" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4431670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431670/d57169472b5996957ccf4bc2228f22d5a579702c/header.jpg?t=1771571318" alt="Ethos Mythos（新規追加）" /></a></p><p>Experience Balkan stubbornness first hand in this charming pixel art, co-op, rogue-like. Fend off your crops and streets from ancient Slavic demons and big corporation the only way you know: throwing garlic at your problems.</p><p><a href="https://store.steampowered.com/app/4431670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Buddha Taps（新規追加）</title>
   <link>https://store.steampowered.com/app/4260240/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428700/82940ea18c4d1b9922acf2dd704003e8115755f9/header.jpg?t=1771430962" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428700/82940ea18c4d1b9922acf2dd704003e8115755f9/header.jpg?t=1771430962" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4428700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428700/82940ea18c4d1b9922acf2dd704003e8115755f9/header.jpg?t=1771430962" alt="Paranormal Division（新規追加）" /></a></p><p>Clean up, hide the evidence, and survive! Paranormal Division is a co-op horror game where you and your friends form a special cover-up unit. Your mission? Erase every trace of paranormal activity before the mysterious &#x27;Department of Spirits&#x27; arrives.</p><p><a href="https://store.steampowered.com/app/4428700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pest&#x27;Off（新規追加）</title>
-  <link>https://store.steampowered.com/app/4322100/</link>
-  <guid isPermaLink="false">steam-store-published-4322100</guid>
-  <pubDate>Wed, 18 Feb 2026 17:00:36 +0000</pubDate>
-  <description>Mutants are infesting the city and you’re the one paid to clean it up. Play as a Pest’Off employee, take extermination contracts, wipe out aggressive mutants, earn cash, and upgrade your gear. Clock in, exterminate, get paid.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322100/73f3e6f5e03b9789e3d360b26e47cd11a5dac327/header.jpg?t=1771430591" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322100/73f3e6f5e03b9789e3d360b26e47cd11a5dac327/header.jpg?t=1771430591" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322100/73f3e6f5e03b9789e3d360b26e47cd11a5dac327/header.jpg?t=1771430591" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4322100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322100/73f3e6f5e03b9789e3d360b26e47cd11a5dac327/header.jpg?t=1771430591" alt="Pest&#x27;Off（新規追加）" /></a></p><p>Mutants are infesting the city and you’re the one paid to clean it up. Play as a Pest’Off employee, take extermination contracts, wipe out aggressive mutants, earn cash, and upgrade your gear. Clock in, exterminate, get paid.</p><p><a href="https://store.steampowered.com/app/4322100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Good Catch!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4417620/</link>
-  <guid isPermaLink="false">steam-store-published-4417620</guid>
-  <pubDate>Wed, 18 Feb 2026 17:00:36 +0000</pubDate>
-  <description>Good Catch! is a relaxing fishing game about cozy fishing spots, rare catches, small quests and friendly characters you unlock along the way.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417620/3ccc09fc02fc6dbdad6a6afbe05492d54ef94fa7/header.jpg?t=1771433420" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417620/3ccc09fc02fc6dbdad6a6afbe05492d54ef94fa7/header.jpg?t=1771433420" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417620/3ccc09fc02fc6dbdad6a6afbe05492d54ef94fa7/header.jpg?t=1771433420" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4417620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4417620/3ccc09fc02fc6dbdad6a6afbe05492d54ef94fa7/header.jpg?t=1771433420" alt="Good Catch!（新規追加）" /></a></p><p>Good Catch! is a relaxing fishing game about cozy fishing spots, rare catches, small quests and friendly characters you unlock along the way.</p><p><a href="https://store.steampowered.com/app/4417620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
