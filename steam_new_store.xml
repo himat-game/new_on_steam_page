@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Feb 2026 17:33:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 17:54:30 +0000</lastBuildDate>
+<item>
+  <title>TORION:Escape（新規追加）</title>
+  <link>https://store.steampowered.com/app/4448050/</link>
+  <guid isPermaLink="false">steam-store-published-4448050</guid>
+  <pubDate>Sat, 21 Feb 2026 17:54:30 +0000</pubDate>
+  <description>TORION:Escape is a fast-paced parkour game where nothing stops you from going forward and Escaping the simulation in record time. Run, jump, and control the environment alongside a variety of relaxing drum and bass tracks playing in the background.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448050/a3c9deeb56ea8a393657021953ecf4dc2973af43/header.jpg?t=1771695996" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448050/a3c9deeb56ea8a393657021953ecf4dc2973af43/header.jpg?t=1771695996" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448050/a3c9deeb56ea8a393657021953ecf4dc2973af43/header.jpg?t=1771695996" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4448050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448050/a3c9deeb56ea8a393657021953ecf4dc2973af43/header.jpg?t=1771695996" alt="TORION:Escape（新規追加）" /></a></p><p>TORION:Escape is a fast-paced parkour game where nothing stops you from going forward and Escaping the simulation in record time. Run, jump, and control the environment alongside a variety of relaxing drum and bass tracks playing in the background.</p><p><a href="https://store.steampowered.com/app/4448050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Streets of Miami VR（新規追加）</title>
   <link>https://store.steampowered.com/app/4309460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419490/63d61255cab2ea7c2e71dabf96d2262ed5ac5e47/header.jpg?t=1771515462" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419490/63d61255cab2ea7c2e71dabf96d2262ed5ac5e47/header.jpg?t=1771515462" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4419490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419490/63d61255cab2ea7c2e71dabf96d2262ed5ac5e47/header.jpg?t=1771515462" alt="RoundRulet（新規追加）" /></a></p><p>RoundRulet is fast paced rouge-lite multiplayer shooter were you fight your friends in a procedurally generated map. The loser of every round gets an upgrade to become stronger and win...</p><p><a href="https://store.steampowered.com/app/4419490/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Strike Chess（新規追加）</title>
-  <link>https://store.steampowered.com/app/4026780/</link>
-  <guid isPermaLink="false">steam-store-published-4026780</guid>
-  <pubDate>Thu, 19 Feb 2026 15:44:38 +0000</pubDate>
-  <description>Strike Chess is a competitive simultaneous turn strategy game that reimagines chess with hidden move selection and rotating powerup cards. Both players move at the same time, and every three turns a random card alters tactics, creating fast, unpredictable matches built on strategy and timing.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026780/e842ba352bd2f95012c4220a1d7179e585c88473/header.jpg?t=1771514888" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026780/e842ba352bd2f95012c4220a1d7179e585c88473/header.jpg?t=1771514888" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026780/e842ba352bd2f95012c4220a1d7179e585c88473/header.jpg?t=1771514888" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4026780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026780/e842ba352bd2f95012c4220a1d7179e585c88473/header.jpg?t=1771514888" alt="Strike Chess（新規追加）" /></a></p><p>Strike Chess is a competitive simultaneous turn strategy game that reimagines chess with hidden move selection and rotating powerup cards. Both players move at the same time, and every three turns a random card alters tactics, creating fast, unpredictable matches built on strategy and timing.</p><p><a href="https://store.steampowered.com/app/4026780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
