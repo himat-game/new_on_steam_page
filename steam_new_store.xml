@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 20 Feb 2026 23:36:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Feb 2026 23:56:27 +0000</lastBuildDate>
+<item>
+  <title>Canine Derby Manager（新規追加）</title>
+  <link>https://store.steampowered.com/app/3774390/</link>
+  <guid isPermaLink="false">steam-store-published-3774390</guid>
+  <pubDate>Fri, 20 Feb 2026 23:56:27 +0000</pubDate>
+  <description>Build your dream kennel, train rising champions, and compete across ranked leagues in this charming dog racing management sim. Develop winning bloodlines, manage energy wisely, and race your way from local circuits to S-Rank glory in Canine Derby Manager.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774390/4a0f522dbac4971cc35b8838f8b0acbc59be3c66/header.jpg?t=1771630909" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774390/4a0f522dbac4971cc35b8838f8b0acbc59be3c66/header.jpg?t=1771630909" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774390/4a0f522dbac4971cc35b8838f8b0acbc59be3c66/header.jpg?t=1771630909" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3774390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774390/4a0f522dbac4971cc35b8838f8b0acbc59be3c66/header.jpg?t=1771630909" alt="Canine Derby Manager（新規追加）" /></a></p><p>Build your dream kennel, train rising champions, and compete across ranked leagues in this charming dog racing management sim. Develop winning bloodlines, manage energy wisely, and race your way from local circuits to S-Rank glory in Canine Derby Manager.</p><p><a href="https://store.steampowered.com/app/3774390/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cinderline（新規追加）</title>
   <link>https://store.steampowered.com/app/3626540/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437010/b56efa37aca0f5f70826d1a4151b10c25e9a5287/header.jpg?t=1771484056" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437010/b56efa37aca0f5f70826d1a4151b10c25e9a5287/header.jpg?t=1771484056" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4437010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437010/b56efa37aca0f5f70826d1a4151b10c25e9a5287/header.jpg?t=1771484056" alt="rook（新規追加）" /></a></p><p>rook is a chess deckbuilding roguelike. cover your board in stickers and stack spare tiles to supercharge the cascading chaos and watch your scores go exponential, maybe then you might just survive the gauntlet.</p><p><a href="https://store.steampowered.com/app/4437010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rift Wizard 3（新規追加）</title>
-  <link>https://store.steampowered.com/app/4366330/</link>
-  <guid isPermaLink="false">steam-store-published-4366330</guid>
-  <pubDate>Thu, 19 Feb 2026 05:44:40 +0000</pubDate>
-  <description>Rift Wizard is a hardcore combat strategy roguelike and wizard simulator featuring an extremely deep build system. Customize your Wizard with more than 500 spells and magical artifacts. Blast, summon, or enchant your way through 20 levels of pure turn based chaos.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/74d133f94514e9d8c7fb482e501b880a8f68fba1/header.jpg?t=1771479603" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/74d133f94514e9d8c7fb482e501b880a8f68fba1/header.jpg?t=1771479603" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/74d133f94514e9d8c7fb482e501b880a8f68fba1/header.jpg?t=1771479603" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4366330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4366330/74d133f94514e9d8c7fb482e501b880a8f68fba1/header.jpg?t=1771479603" alt="Rift Wizard 3（新規追加）" /></a></p><p>Rift Wizard is a hardcore combat strategy roguelike and wizard simulator featuring an extremely deep build system. Customize your Wizard with more than 500 spells and magical artifacts. Blast, summon, or enchant your way through 20 levels of pure turn based chaos.</p><p><a href="https://store.steampowered.com/app/4366330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
