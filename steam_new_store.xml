@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Feb 2026 22:20:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 22:46:21 +0000</lastBuildDate>
+<item>
+  <title>MoneyClicker（新規追加）</title>
+  <link>https://store.steampowered.com/app/4359880/</link>
+  <guid isPermaLink="false">steam-store-published-4359880</guid>
+  <pubDate>Sat, 21 Feb 2026 22:46:21 +0000</pubDate>
+  <description>A minimalist incremental clicker about earning money, upgrading income, and prestiging for endless growth.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359880/f5ae6e2a74918f52e6a5ab9ddcd33092f10dca60/header.jpg?t=1771712778" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359880/f5ae6e2a74918f52e6a5ab9ddcd33092f10dca60/header.jpg?t=1771712778" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359880/f5ae6e2a74918f52e6a5ab9ddcd33092f10dca60/header.jpg?t=1771712778" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4359880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359880/f5ae6e2a74918f52e6a5ab9ddcd33092f10dca60/header.jpg?t=1771712778" alt="MoneyClicker（新規追加）" /></a></p><p>A minimalist incremental clicker about earning money, upgrading income, and prestiging for endless growth.</p><p><a href="https://store.steampowered.com/app/4359880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tavern of Trials（新規追加）</title>
   <link>https://store.steampowered.com/app/4204130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146720/a6f1feb4e1d9c72e7654f418dba37c65aab243f2/header.jpg?t=1771518748" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146720/a6f1feb4e1d9c72e7654f418dba37c65aab243f2/header.jpg?t=1771518748" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4146720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146720/a6f1feb4e1d9c72e7654f418dba37c65aab243f2/header.jpg?t=1771518748" alt="DO NOT MINIMIZE THIS WINDOW（新規追加）" /></a></p><p>A psychological horror game that lives on your desktop. Nothing happens while you’re watching. When you minimize it, it remembers.</p><p><a href="https://store.steampowered.com/app/4146720/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sweepcremental（新規追加）</title>
-  <link>https://store.steampowered.com/app/4299460/</link>
-  <guid isPermaLink="false">steam-store-published-4299460</guid>
-  <pubDate>Thu, 19 Feb 2026 16:48:42 +0000</pubDate>
-  <description>minesweeper, but with a skill tree.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299460/eeb094c93db51ebf789090fb8ef838f900ba0047/header.jpg?t=1771519325" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299460/eeb094c93db51ebf789090fb8ef838f900ba0047/header.jpg?t=1771519325" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299460/eeb094c93db51ebf789090fb8ef838f900ba0047/header.jpg?t=1771519325" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4299460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299460/eeb094c93db51ebf789090fb8ef838f900ba0047/header.jpg?t=1771519325" alt="Sweepcremental（新規追加）" /></a></p><p>minesweeper, but with a skill tree.</p><p><a href="https://store.steampowered.com/app/4299460/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
