@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Feb 2026 07:30:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 07:55:04 +0000</lastBuildDate>
+<item>
+  <title>Morse Challenger（新規追加）</title>
+  <link>https://store.steampowered.com/app/4345350/</link>
+  <guid isPermaLink="false">steam-store-published-4345350</guid>
+  <pubDate>Sat, 21 Feb 2026 07:55:04 +0000</pubDate>
+  <description>&amp;quot;Morse Challenger&amp;quot; is an innovative and fun shooting game based on Morse code. In the game, you can learn about Morse code, input the code matching the letters above enemies\&#x27; heads, fire bullets to shoot down incoming alien warships, and protect your own ship from being destroyed!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345350/2e674df6337ac4f70182f660fc0443cc9c90a42e/header.jpg?t=1771660459" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345350/2e674df6337ac4f70182f660fc0443cc9c90a42e/header.jpg?t=1771660459" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345350/2e674df6337ac4f70182f660fc0443cc9c90a42e/header.jpg?t=1771660459" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4345350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345350/2e674df6337ac4f70182f660fc0443cc9c90a42e/header.jpg?t=1771660459" alt="Morse Challenger（新規追加）" /></a></p><p>&amp;quot;Morse Challenger&amp;quot; is an innovative and fun shooting game based on Morse code. In the game, you can learn about Morse code, input the code matching the letters above enemies\&#x27; heads, fire bullets to shoot down incoming alien warships, and protect your own ship from being destroyed!</p><p><a href="https://store.steampowered.com/app/4345350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Tales: Sin City of Lust（新規追加）</title>
   <link>https://store.steampowered.com/app/4366420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2588090/3774512c7bb27a5b1daa8e851ea270cddf29db54/header.jpg?t=1771492411" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2588090/3774512c7bb27a5b1daa8e851ea270cddf29db54/header.jpg?t=1771492411" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2588090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2588090/3774512c7bb27a5b1daa8e851ea270cddf29db54/header.jpg?t=1771492411" alt="Eternal Wanderer（新規追加）" /></a></p><p>Once a greedy and selfish king, now cursed and bound to the laws of karma and reincarnation. Play by the laws and reincarnate up to a king or be a scum and become a rat... plenty in between as well.</p><p><a href="https://store.steampowered.com/app/2588090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Not a Crow（新規追加）</title>
-  <link>https://store.steampowered.com/app/4229210/</link>
-  <guid isPermaLink="false">steam-store-published-4229210</guid>
-  <pubDate>Thu, 19 Feb 2026 09:28:31 +0000</pubDate>
-  <description>Not a Crow is a narrative point-and-click adventure. Guide a lonely crow through the remnants of a fallen world as she searches for her place among the ruins.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229210/896436641027fd438405e89cb5e00dfce5850d77/header.jpg?t=1771491458" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229210/896436641027fd438405e89cb5e00dfce5850d77/header.jpg?t=1771491458" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229210/896436641027fd438405e89cb5e00dfce5850d77/header.jpg?t=1771491458" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4229210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229210/896436641027fd438405e89cb5e00dfce5850d77/header.jpg?t=1771491458" alt="Not a Crow（新規追加）" /></a></p><p>Not a Crow is a narrative point-and-click adventure. Guide a lonely crow through the remnants of a fallen world as she searches for her place among the ruins.</p><p><a href="https://store.steampowered.com/app/4229210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
