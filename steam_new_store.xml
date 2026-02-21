@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Feb 2026 09:46:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 11:22:03 +0000</lastBuildDate>
+<item>
+  <title>BLACK ART（新規追加）</title>
+  <link>https://store.steampowered.com/app/4414910/</link>
+  <guid isPermaLink="false">steam-store-published-4414910</guid>
+  <pubDate>Sat, 21 Feb 2026 11:22:03 +0000</pubDate>
+  <description>BLACK ART is an art-driven action-adventure game set in a dystopian world. Blending Cyberpunk, Steampunk, and Ruinpunk, you play as a rebel artist defying authority by hanging posters and spraying graffiti. Leave your artistic mark amidst rusty ruins and neon lights!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414910/ee0390481956933c4fda049250e04301b7a0d760/header.jpg?t=1771671756" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414910/ee0390481956933c4fda049250e04301b7a0d760/header.jpg?t=1771671756" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414910/ee0390481956933c4fda049250e04301b7a0d760/header.jpg?t=1771671756" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4414910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414910/ee0390481956933c4fda049250e04301b7a0d760/header.jpg?t=1771671756" alt="BLACK ART（新規追加）" /></a></p><p>BLACK ART is an art-driven action-adventure game set in a dystopian world. Blending Cyberpunk, Steampunk, and Ruinpunk, you play as a rebel artist defying authority by hanging posters and spraying graffiti. Leave your artistic mark amidst rusty ruins and neon lights!</p><p><a href="https://store.steampowered.com/app/4414910/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Province Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4362940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402340/acea5996d2d0f408aa9a46021d50b41ac5484172/header.jpg?t=1771494989" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402340/acea5996d2d0f408aa9a46021d50b41ac5484172/header.jpg?t=1771494989" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4402340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402340/acea5996d2d0f408aa9a46021d50b41ac5484172/header.jpg?t=1771494989" alt="幼儿园的一天（新規追加）" /></a></p><p>Welcome to A Day at Preschool. Care for the cutest yet most troublesome creatures—human toddlers. With strange requests and emotions that turn into tears, use light logic and simple puzzles to organize everything and guide them through a chaotic but adorable day.</p><p><a href="https://store.steampowered.com/app/4402340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cut Corner Renovations USSR（新規追加）</title>
-  <link>https://store.steampowered.com/app/4413500/</link>
-  <guid isPermaLink="false">steam-store-published-4413500</guid>
-  <pubDate>Thu, 19 Feb 2026 10:25:52 +0000</pubDate>
-  <description>🛠️ Cut Corner Renovations USSR is about repairing old Soviet apartments and houses with limited resources. Patch walls, fix wiring, replace floors, and improvise on a tight budget. Every task tests your ingenuity 🏚️⚡</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413500/0ab90ec038f5271dab4618d1961634d28e142a83/header.jpg?t=1771493794" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413500/0ab90ec038f5271dab4618d1961634d28e142a83/header.jpg?t=1771493794" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413500/0ab90ec038f5271dab4618d1961634d28e142a83/header.jpg?t=1771493794" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4413500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413500/0ab90ec038f5271dab4618d1961634d28e142a83/header.jpg?t=1771493794" alt="Cut Corner Renovations USSR（新規追加）" /></a></p><p>🛠️ Cut Corner Renovations USSR is about repairing old Soviet apartments and houses with limited resources. Patch walls, fix wiring, replace floors, and improvise on a tight budget. Every task tests your ingenuity 🏚️⚡</p><p><a href="https://store.steampowered.com/app/4413500/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
