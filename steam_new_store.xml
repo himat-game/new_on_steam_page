@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Feb 2026 19:53:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 20:21:13 +0000</lastBuildDate>
+<item>
+  <title>Deductopia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4429720/</link>
+  <guid isPermaLink="false">steam-store-published-4429720</guid>
+  <pubDate>Sat, 21 Feb 2026 20:21:13 +0000</pubDate>
+  <description>Explore the scenes, find clues, and sort out people, pets, and belongings in this cozy slice-of-life detective puzzle game. Fans of Duck Detective, Little Problems, and The Case of the Worst Day Ever will enjoy this new deduction game for all ages. </description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429720/8648f4fbe25c3a9d0e0156d1d18f72fe9288431b/header.jpg?t=1771704540" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429720/8648f4fbe25c3a9d0e0156d1d18f72fe9288431b/header.jpg?t=1771704540" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429720/8648f4fbe25c3a9d0e0156d1d18f72fe9288431b/header.jpg?t=1771704540" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4429720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429720/8648f4fbe25c3a9d0e0156d1d18f72fe9288431b/header.jpg?t=1771704540" alt="Deductopia（新規追加）" /></a></p><p>Explore the scenes, find clues, and sort out people, pets, and belongings in this cozy slice-of-life detective puzzle game. Fans of Duck Detective, Little Problems, and The Case of the Worst Day Ever will enjoy this new deduction game for all ages. </p><p><a href="https://store.steampowered.com/app/4429720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cold War Battles（新規追加）</title>
   <link>https://store.steampowered.com/app/4443780/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4427620/9f6086c6c365cf09110ef0167703fcfbb7717b6c/header.jpg?t=1771516427" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4427620/9f6086c6c365cf09110ef0167703fcfbb7717b6c/header.jpg?t=1771516427" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4427620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4427620/9f6086c6c365cf09110ef0167703fcfbb7717b6c/header.jpg?t=1771516427" alt="Tile Rogue（新規追加）" /></a></p><p>A pop and casual roguelike! Adventure through a colorful world and aim for the goal!</p><p><a href="https://store.steampowered.com/app/4427620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Skyfell Mutation（新規追加）</title>
-  <link>https://store.steampowered.com/app/4438870/</link>
-  <guid isPermaLink="false">steam-store-published-4438870</guid>
-  <pubDate>Thu, 19 Feb 2026 16:48:42 +0000</pubDate>
-  <description>Skyfell Mutation - this is a dynamic action shooter set in a biological post-apocalypse. Explore an Earth devastated by meteorite impacts, where flora and fauna have been transformed into deadly mutants. Develop supernatural abilities and try to unravel the mystery of civilization&#x27;s demise.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438870/46e1e3561611a0a06c0a184af5fc5a73db5293cc/header.jpg?t=1771516931" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438870/46e1e3561611a0a06c0a184af5fc5a73db5293cc/header.jpg?t=1771516931" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438870/46e1e3561611a0a06c0a184af5fc5a73db5293cc/header.jpg?t=1771516931" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4438870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438870/46e1e3561611a0a06c0a184af5fc5a73db5293cc/header.jpg?t=1771516931" alt="Skyfell Mutation（新規追加）" /></a></p><p>Skyfell Mutation - this is a dynamic action shooter set in a biological post-apocalypse. Explore an Earth devastated by meteorite impacts, where flora and fauna have been transformed into deadly mutants. Develop supernatural abilities and try to unravel the mystery of civilization&#x27;s demise.</p><p><a href="https://store.steampowered.com/app/4438870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
