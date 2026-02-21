@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Feb 2026 11:22:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 11:51:57 +0000</lastBuildDate>
+<item>
+  <title>AGameAboutFishing（新規追加）</title>
+  <link>https://store.steampowered.com/app/4374610/</link>
+  <guid isPermaLink="false">steam-store-published-4374610</guid>
+  <pubDate>Sat, 21 Feb 2026 11:51:57 +0000</pubDate>
+  <description>Cast your line and unwind in a cozy, stylized fishing game. Explore calm waters, catch charming low-poly fish, and enjoy satisfying, relaxing gameplay at your own pace. A peaceful solo experience focused on comfort, atmosphere, and the simple joy of fishing.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374610/d2b292d416a62a0cc6d17d68c151a235f1cd48d8/header.jpg?t=1771673978" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374610/d2b292d416a62a0cc6d17d68c151a235f1cd48d8/header.jpg?t=1771673978" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374610/d2b292d416a62a0cc6d17d68c151a235f1cd48d8/header.jpg?t=1771673978" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4374610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374610/d2b292d416a62a0cc6d17d68c151a235f1cd48d8/header.jpg?t=1771673978" alt="AGameAboutFishing（新規追加）" /></a></p><p>Cast your line and unwind in a cozy, stylized fishing game. Explore calm waters, catch charming low-poly fish, and enjoy satisfying, relaxing gameplay at your own pace. A peaceful solo experience focused on comfort, atmosphere, and the simple joy of fishing.</p><p><a href="https://store.steampowered.com/app/4374610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BLACK ART（新規追加）</title>
   <link>https://store.steampowered.com/app/4414910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339540/9781d6fd19cda4c33e2b8f33561d35f8bd2b6a6a/header.jpg?t=1771498739" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339540/9781d6fd19cda4c33e2b8f33561d35f8bd2b6a6a/header.jpg?t=1771498739" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4339540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339540/9781d6fd19cda4c33e2b8f33561d35f8bd2b6a6a/header.jpg?t=1771498739" alt="Newman（新規追加）" /></a></p><p>Newman is an immersive co-op adventure game with proximity voice chat. Stranded on a hostile planet, you and up to 5 friends pilot of a squad of Newbots. Featuring detachable parts that are as versatile as they are fragile you will explode, tinker, and turbo-sprint your way across a vast adventure.</p><p><a href="https://store.steampowered.com/app/4339540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>幼儿园的一天（新規追加）</title>
-  <link>https://store.steampowered.com/app/4402340/</link>
-  <guid isPermaLink="false">steam-store-published-4402340</guid>
-  <pubDate>Thu, 19 Feb 2026 10:25:52 +0000</pubDate>
-  <description>Welcome to A Day at Preschool. Care for the cutest yet most troublesome creatures—human toddlers. With strange requests and emotions that turn into tears, use light logic and simple puzzles to organize everything and guide them through a chaotic but adorable day.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402340/acea5996d2d0f408aa9a46021d50b41ac5484172/header.jpg?t=1771494989" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402340/acea5996d2d0f408aa9a46021d50b41ac5484172/header.jpg?t=1771494989" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402340/acea5996d2d0f408aa9a46021d50b41ac5484172/header.jpg?t=1771494989" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4402340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4402340/acea5996d2d0f408aa9a46021d50b41ac5484172/header.jpg?t=1771494989" alt="幼儿园的一天（新規追加）" /></a></p><p>Welcome to A Day at Preschool. Care for the cutest yet most troublesome creatures—human toddlers. With strange requests and emotions that turn into tears, use light logic and simple puzzles to organize everything and guide them through a chaotic but adorable day.</p><p><a href="https://store.steampowered.com/app/4402340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
