@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Feb 2026 08:27:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 09:00:41 +0000</lastBuildDate>
+<item>
+  <title>Valkeala Climb Race（新規追加）</title>
+  <link>https://store.steampowered.com/app/4443600/</link>
+  <guid isPermaLink="false">steam-store-published-4443600</guid>
+  <pubDate>Sat, 21 Feb 2026 09:00:41 +0000</pubDate>
+  <description>2d racing game where played drive big car and mission is to find star under 45 seconds and finish levels</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443600/36843d5e293b25cc0396d5f07d5013964490d2ec/header.jpg?t=1771662468" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443600/36843d5e293b25cc0396d5f07d5013964490d2ec/header.jpg?t=1771662468" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443600/36843d5e293b25cc0396d5f07d5013964490d2ec/header.jpg?t=1771662468" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4443600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443600/36843d5e293b25cc0396d5f07d5013964490d2ec/header.jpg?t=1771662468" alt="Valkeala Climb Race（新規追加）" /></a></p><p>2d racing game where played drive big car and mission is to find star under 45 seconds and finish levels</p><p><a href="https://store.steampowered.com/app/4443600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Pantyhose（新規追加）</title>
   <link>https://store.steampowered.com/app/4421110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421600/bd6a38a702b84e9c80ff2970f037a03d725c7000/header.jpg?t=1771495747" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421600/bd6a38a702b84e9c80ff2970f037a03d725c7000/header.jpg?t=1771495747" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4421600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421600/bd6a38a702b84e9c80ff2970f037a03d725c7000/header.jpg?t=1771495747" alt="PANAME（新規追加）" /></a></p><p>PANAME is a simulation / sandbox game that immerses you in a reimagined Paris. Explore its different districts and interact with its inhabitants.</p><p><a href="https://store.steampowered.com/app/4421600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Virtual Driving School: Trucks（新規追加）</title>
-  <link>https://store.steampowered.com/app/4381120/</link>
-  <guid isPermaLink="false">steam-store-published-4381120</guid>
-  <pubDate>Thu, 19 Feb 2026 10:25:52 +0000</pubDate>
-  <description>Train like a professional HGV driver. Master trucks and buses, manage blind spots and long loads, avoid bridge strikes, navigate level crossings, and operate vehicle-mounted cranes. Real rules, real risks — zero real-world consequences.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381120/5dba4b6cfe1c8c7c93606889850b4c68f5aa4f3a/header.jpg?t=1771494062" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381120/5dba4b6cfe1c8c7c93606889850b4c68f5aa4f3a/header.jpg?t=1771494062" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381120/5dba4b6cfe1c8c7c93606889850b4c68f5aa4f3a/header.jpg?t=1771494062" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4381120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381120/5dba4b6cfe1c8c7c93606889850b4c68f5aa4f3a/header.jpg?t=1771494062" alt="Virtual Driving School: Trucks（新規追加）" /></a></p><p>Train like a professional HGV driver. Master trucks and buses, manage blind spots and long loads, avoid bridge strikes, navigate level crossings, and operate vehicle-mounted cranes. Real rules, real risks — zero real-world consequences.</p><p><a href="https://store.steampowered.com/app/4381120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
