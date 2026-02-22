@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 18:31:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 19:03:03 +0000</lastBuildDate>
+<item>
+  <title>Ironsphere（新規追加）</title>
+  <link>https://store.steampowered.com/app/4290600/</link>
+  <guid isPermaLink="false">steam-store-published-4290600</guid>
+  <pubDate>Sun, 22 Feb 2026 19:03:03 +0000</pubDate>
+  <description>Top-down mech shooter with roguelike elements. Pilot a combat mech, fight relentless enemies, complete missions, upgrade skills, and buy weapons, armor, and devices. Procedurally generated levels, shops, and prices make every run unpredictable.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290600/5ef5949b9f0356d8f0636f657886516e36307e85/header.jpg?t=1771786367" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290600/5ef5949b9f0356d8f0636f657886516e36307e85/header.jpg?t=1771786367" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290600/5ef5949b9f0356d8f0636f657886516e36307e85/header.jpg?t=1771786367" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4290600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4290600/5ef5949b9f0356d8f0636f657886516e36307e85/header.jpg?t=1771786367" alt="Ironsphere（新規追加）" /></a></p><p>Top-down mech shooter with roguelike elements. Pilot a combat mech, fight relentless enemies, complete missions, upgrade skills, and buy weapons, armor, and devices. Procedurally generated levels, shops, and prices make every run unpredictable.</p><p><a href="https://store.steampowered.com/app/4290600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ringbound（新規追加）</title>
   <link>https://store.steampowered.com/app/4446670/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194770/5544c29a6c9d436e88fcd62f48245e971950e637/header.jpg?t=1771526775" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194770/5544c29a6c9d436e88fcd62f48245e971950e637/header.jpg?t=1771526775" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4194770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194770/5544c29a6c9d436e88fcd62f48245e971950e637/header.jpg?t=1771526775" alt="Sisters of Solitude（新規追加）" /></a></p><p>Explore a haunted convent with your EMF detector, tape recorder, and camera. Uncover the fate of four ghostly sisters and the mystery behind the murder they commited. Every room hides a clue, every shadow a warning, and the truth waits for those who dare to seek it.</p><p><a href="https://store.steampowered.com/app/4194770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Akkor（新規追加）</title>
-  <link>https://store.steampowered.com/app/4123490/</link>
-  <guid isPermaLink="false">steam-store-published-4123490</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>A two-player turn-based strategy game where you place planets on orbits, rotate and move your galaxy, and win by making one of your planets collide with the opponent&#x27;s star.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123490/f024e5e75aa94240bd3c7ce56692dbd8dc2be682/header.jpg?t=1771525123" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123490/f024e5e75aa94240bd3c7ce56692dbd8dc2be682/header.jpg?t=1771525123" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123490/f024e5e75aa94240bd3c7ce56692dbd8dc2be682/header.jpg?t=1771525123" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123490/f024e5e75aa94240bd3c7ce56692dbd8dc2be682/header.jpg?t=1771525123" alt="Akkor（新規追加）" /></a></p><p>A two-player turn-based strategy game where you place planets on orbits, rotate and move your galaxy, and win by making one of your planets collide with the opponent&#x27;s star.</p><p><a href="https://store.steampowered.com/app/4123490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
