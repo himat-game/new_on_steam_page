@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 14:56:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 15:25:03 +0000</lastBuildDate>
+<item>
+  <title>PoolooP（新規追加）</title>
+  <link>https://store.steampowered.com/app/4287460/</link>
+  <guid isPermaLink="false">steam-store-published-4287460</guid>
+  <pubDate>Sun, 22 Feb 2026 15:25:03 +0000</pubDate>
+  <description>You are trapped inside an indoor swimming pool that loops endlessly. Carefully observe your surroundings and determine whether the environment is normal or altered. If you notice an anomaly, turn back. If everything appears normal, move forward and find the exit.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287460/02ee927d18cca21dc10c384ab36b439cd060df29/header.jpg?t=1771772913" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287460/02ee927d18cca21dc10c384ab36b439cd060df29/header.jpg?t=1771772913" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287460/02ee927d18cca21dc10c384ab36b439cd060df29/header.jpg?t=1771772913" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4287460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287460/02ee927d18cca21dc10c384ab36b439cd060df29/header.jpg?t=1771772913" alt="PoolooP（新規追加）" /></a></p><p>You are trapped inside an indoor swimming pool that loops endlessly. Carefully observe your surroundings and determine whether the environment is normal or altered. If you notice an anomaly, turn back. If everything appears normal, move forward and find the exit.</p><p><a href="https://store.steampowered.com/app/4287460/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Catverse（新規追加）</title>
   <link>https://store.steampowered.com/app/4380300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444170/bb83ac59cbce408ac1265a7076fb2724d6875c66/header.jpg?t=1771524452" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444170/bb83ac59cbce408ac1265a7076fb2724d6875c66/header.jpg?t=1771524452" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4444170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444170/bb83ac59cbce408ac1265a7076fb2724d6875c66/header.jpg?t=1771524452" alt="Evolver（新規追加）" /></a></p><p>Evolver is an auto battler Oregon trail and anime inspired game. You can play as several different classes all able to evolve into different things. The slime has 62 evolutions in total, the game encourages you to evolve. You will also get items that help you in battle and help you farm xp.</p><p><a href="https://store.steampowered.com/app/4444170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beat The Champions（新規追加）</title>
-  <link>https://store.steampowered.com/app/4008350/</link>
-  <guid isPermaLink="false">steam-store-published-4008350</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>Beat the Champions is a fast-paced arcade football game where legendary players clash in explosive matches powered by special abilities. No realism — just speed, skill, and pure competitive chaos.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008350/f6c17a25bd973ba80229d1df2b3191b67661a072/header.jpg?t=1771526197" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008350/f6c17a25bd973ba80229d1df2b3191b67661a072/header.jpg?t=1771526197" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008350/f6c17a25bd973ba80229d1df2b3191b67661a072/header.jpg?t=1771526197" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4008350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008350/f6c17a25bd973ba80229d1df2b3191b67661a072/header.jpg?t=1771526197" alt="Beat The Champions（新規追加）" /></a></p><p>Beat the Champions is a fast-paced arcade football game where legendary players clash in explosive matches powered by special abilities. No realism — just speed, skill, and pure competitive chaos.</p><p><a href="https://store.steampowered.com/app/4008350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
