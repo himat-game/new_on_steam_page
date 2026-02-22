@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 15:53:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 16:27:09 +0000</lastBuildDate>
+<item>
+  <title>Race the Planet（新規追加）</title>
+  <link>https://store.steampowered.com/app/4303210/</link>
+  <guid isPermaLink="false">steam-store-published-4303210</guid>
+  <pubDate>Sun, 22 Feb 2026 16:27:09 +0000</pubDate>
+  <description>An arcade racing game with big 40-car grids, 50+ tracks, adjustable AI, single-race and championship modes, where elbows-out action and precise racing lead to victory. Demo available soon.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303210/c713e8e0784736fb9e622543fc4279fe5b49c964/header.jpg?t=1771777317" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303210/c713e8e0784736fb9e622543fc4279fe5b49c964/header.jpg?t=1771777317" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303210/c713e8e0784736fb9e622543fc4279fe5b49c964/header.jpg?t=1771777317" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4303210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303210/c713e8e0784736fb9e622543fc4279fe5b49c964/header.jpg?t=1771777317" alt="Race the Planet（新規追加）" /></a></p><p>An arcade racing game with big 40-car grids, 50+ tracks, adjustable AI, single-race and championship modes, where elbows-out action and precise racing lead to victory. Demo available soon.</p><p><a href="https://store.steampowered.com/app/4303210/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lands of Fury（新規追加）</title>
   <link>https://store.steampowered.com/app/2672700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429560/d3ab08b55db72094f08ea92840f5cf473aee141d/header.jpg?t=1771523886" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429560/d3ab08b55db72094f08ea92840f5cf473aee141d/header.jpg?t=1771523886" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4429560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429560/d3ab08b55db72094f08ea92840f5cf473aee141d/header.jpg?t=1771523886" alt="Rotary Knights（新規追加）" /></a></p><p>A text-based RPG spanning the entire arc of WWI aviation. Fly 37 historical aircraft, survive dogfights against the Red Baron, manage your aerodrome on the Western Front, and make choices that determine whether your pilot lives to see the Armistice.</p><p><a href="https://store.steampowered.com/app/4429560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BreakThrough（新規追加）</title>
-  <link>https://store.steampowered.com/app/4429620/</link>
-  <guid isPermaLink="false">steam-store-published-4429620</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>High-octane fights and stunning 3D cel-shaded animations! BreakThrough is a fighting game where your greatest weapon is your Resolve. Powered by rollback netcode, choose from a diverse set of fighters and prove your strength in battle!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429620/f4e3781ea4347330f2d2a1737dda133ed65ff0e5/header.jpg?t=1771524155" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429620/f4e3781ea4347330f2d2a1737dda133ed65ff0e5/header.jpg?t=1771524155" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429620/f4e3781ea4347330f2d2a1737dda133ed65ff0e5/header.jpg?t=1771524155" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4429620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429620/f4e3781ea4347330f2d2a1737dda133ed65ff0e5/header.jpg?t=1771524155" alt="BreakThrough（新規追加）" /></a></p><p>High-octane fights and stunning 3D cel-shaded animations! BreakThrough is a fighting game where your greatest weapon is your Resolve. Powered by rollback netcode, choose from a diverse set of fighters and prove your strength in battle!</p><p><a href="https://store.steampowered.com/app/4429620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
