@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 17:33:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 18:31:14 +0000</lastBuildDate>
+<item>
+  <title>Ringbound（新規追加）</title>
+  <link>https://store.steampowered.com/app/4446670/</link>
+  <guid isPermaLink="false">steam-store-published-4446670</guid>
+  <pubDate>Sun, 22 Feb 2026 18:31:14 +0000</pubDate>
+  <description>Ringbound is an experimental minimalist incremental game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446670/f9dc6cae213c06c6421dd910eacde64c51e9e545/header.jpg?t=1771783075" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446670/f9dc6cae213c06c6421dd910eacde64c51e9e545/header.jpg?t=1771783075" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446670/f9dc6cae213c06c6421dd910eacde64c51e9e545/header.jpg?t=1771783075" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4446670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446670/f9dc6cae213c06c6421dd910eacde64c51e9e545/header.jpg?t=1771783075" alt="Ringbound（新規追加）" /></a></p><p>Ringbound is an experimental minimalist incremental game.</p><p><a href="https://store.steampowered.com/app/4446670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Steelarchy（新規追加）</title>
   <link>https://store.steampowered.com/app/4199840/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123490/f024e5e75aa94240bd3c7ce56692dbd8dc2be682/header.jpg?t=1771525123" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123490/f024e5e75aa94240bd3c7ce56692dbd8dc2be682/header.jpg?t=1771525123" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123490/f024e5e75aa94240bd3c7ce56692dbd8dc2be682/header.jpg?t=1771525123" alt="Akkor（新規追加）" /></a></p><p>A two-player turn-based strategy game where you place planets on orbits, rotate and move your galaxy, and win by making one of your planets collide with the opponent&#x27;s star.</p><p><a href="https://store.steampowered.com/app/4123490/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Drone Gunner（新規追加）</title>
-  <link>https://store.steampowered.com/app/4426660/</link>
-  <guid isPermaLink="false">steam-store-published-4426660</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>Drone Gunner is a top-down tactical defense shooter where you control the weapons of the combat drone “Sova”. Ammo is always scarce, so accuracy, a cool head, and smart target priorities decide everything. Every shot matters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426660/fabac7b71b96d46af6b7626cdaa0ade54e1fc6f1/header.jpg?t=1771524779" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426660/fabac7b71b96d46af6b7626cdaa0ade54e1fc6f1/header.jpg?t=1771524779" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426660/fabac7b71b96d46af6b7626cdaa0ade54e1fc6f1/header.jpg?t=1771524779" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4426660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426660/fabac7b71b96d46af6b7626cdaa0ade54e1fc6f1/header.jpg?t=1771524779" alt="Drone Gunner（新規追加）" /></a></p><p>Drone Gunner is a top-down tactical defense shooter where you control the weapons of the combat drone “Sova”. Ammo is always scarce, so accuracy, a cool head, and smart target priorities decide everything. Every shot matters.</p><p><a href="https://store.steampowered.com/app/4426660/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
