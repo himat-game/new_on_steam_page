@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 13:41:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 14:23:23 +0000</lastBuildDate>
+<item>
+  <title>Endless Tower（新規追加）</title>
+  <link>https://store.steampowered.com/app/4294590/</link>
+  <guid isPermaLink="false">steam-store-published-4294590</guid>
+  <pubDate>Sun, 22 Feb 2026 14:23:23 +0000</pubDate>
+  <description>Climb an endless tower shrouded in mist. Explore strange biomes, uncover quiet mysteries, and ascend toward the unknown in a peaceful, atmospheric journey focused on movement and discovery.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294590/e114982eb10070045f0a1b19b4342708cfe090e8/header.jpg?t=1771768145" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294590/e114982eb10070045f0a1b19b4342708cfe090e8/header.jpg?t=1771768145" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294590/e114982eb10070045f0a1b19b4342708cfe090e8/header.jpg?t=1771768145" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294590/e114982eb10070045f0a1b19b4342708cfe090e8/header.jpg?t=1771768145" alt="Endless Tower（新規追加）" /></a></p><p>Climb an endless tower shrouded in mist. Explore strange biomes, uncover quiet mysteries, and ascend toward the unknown in a peaceful, atmospheric journey focused on movement and discovery.</p><p><a href="https://store.steampowered.com/app/4294590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Peppermint Academy（新規追加）</title>
   <link>https://store.steampowered.com/app/4414820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436780/734182d3de2019aa73b114d9ca529fdc771f601b/header.jpg?t=1771523295" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436780/734182d3de2019aa73b114d9ca529fdc771f601b/header.jpg?t=1771523295" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4436780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436780/734182d3de2019aa73b114d9ca529fdc771f601b/header.jpg?t=1771523295" alt="Horse Craft（新規追加）" /></a></p><p>A gentle, retro‑styled cozy game where you mix and match real horse breeds to discover new ones. Collect your favorites and unlock charming journal entries for each breed.</p><p><a href="https://store.steampowered.com/app/4436780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SHAWA（新規追加）</title>
-  <link>https://store.steampowered.com/app/4418900/</link>
-  <guid isPermaLink="false">steam-store-published-4418900</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>A typical shawarma stand. But the game notices where you&#x27;re looking... and what you&#x27;re ignoring. Endless shifts, a physics simulator, and a horror that only happens when you&#x27;re not prepared.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418900/a955a25709ddc949298b012e31767d9095ef59d9/header.jpg?t=1771524139" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418900/a955a25709ddc949298b012e31767d9095ef59d9/header.jpg?t=1771524139" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418900/a955a25709ddc949298b012e31767d9095ef59d9/header.jpg?t=1771524139" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4418900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4418900/a955a25709ddc949298b012e31767d9095ef59d9/header.jpg?t=1771524139" alt="SHAWA（新規追加）" /></a></p><p>A typical shawarma stand. But the game notices where you&#x27;re looking... and what you&#x27;re ignoring. Endless shifts, a physics simulator, and a horror that only happens when you&#x27;re not prepared.</p><p><a href="https://store.steampowered.com/app/4418900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
