@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 19:54:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 21:23:31 +0000</lastBuildDate>
+<item>
+  <title>FAVORS（新規追加）</title>
+  <link>https://store.steampowered.com/app/3481220/</link>
+  <guid isPermaLink="false">steam-store-published-3481220</guid>
+  <pubDate>Sun, 22 Feb 2026 21:23:31 +0000</pubDate>
+  <description>FAVORS is a player-first turn-based strategy game. As a hero, build your base, recruit powerful units, and outmaneuver opponents on various hexagonal battlefields. Complete missions to please capricious gods and earn divine favors that can radically change the course of battle!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481220/52972a48c439abbf143ca0359a2fb07ae3092626/header.jpg?t=1771795040" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481220/52972a48c439abbf143ca0359a2fb07ae3092626/header.jpg?t=1771795040" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481220/52972a48c439abbf143ca0359a2fb07ae3092626/header.jpg?t=1771795040" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3481220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3481220/52972a48c439abbf143ca0359a2fb07ae3092626/header.jpg?t=1771795040" alt="FAVORS（新規追加）" /></a></p><p>FAVORS is a player-first turn-based strategy game. As a hero, build your base, recruit powerful units, and outmaneuver opponents on various hexagonal battlefields. Complete missions to please capricious gods and earn divine favors that can radically change the course of battle!</p><p><a href="https://store.steampowered.com/app/3481220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Elven Desire（新規追加）</title>
   <link>https://store.steampowered.com/app/4431140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200410/dc10a5739f5ae81bd623847105f1634d8512dc37/header.jpg?t=1771529326" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200410/dc10a5739f5ae81bd623847105f1634d8512dc37/header.jpg?t=1771529326" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4200410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200410/dc10a5739f5ae81bd623847105f1634d8512dc37/header.jpg?t=1771529326" alt="Corrupted Minds（新規追加）" /></a></p><p>Corrupted Minds is a mind bending single player psychological/Cosmic-adjacent horror game where you must travel through the fragments of a broken man&#x27;s psyche and make it out whole...</p><p><a href="https://store.steampowered.com/app/4200410/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chaos Playground（新規追加）</title>
-  <link>https://store.steampowered.com/app/4421150/</link>
-  <guid isPermaLink="false">steam-store-published-4421150</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>A physics-driven ragdoll sandbox. Build weird stuff, run crazy experiments, and watch the chaos unfold — no limits, just pure physics.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421150/3f0a848da510c11d782d0943586c2b6210a8769b/header.jpg?t=1771526765" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421150/3f0a848da510c11d782d0943586c2b6210a8769b/header.jpg?t=1771526765" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421150/3f0a848da510c11d782d0943586c2b6210a8769b/header.jpg?t=1771526765" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4421150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421150/3f0a848da510c11d782d0943586c2b6210a8769b/header.jpg?t=1771526765" alt="Chaos Playground（新規追加）" /></a></p><p>A physics-driven ragdoll sandbox. Build weird stuff, run crazy experiments, and watch the chaos unfold — no limits, just pure physics.</p><p><a href="https://store.steampowered.com/app/4421150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
