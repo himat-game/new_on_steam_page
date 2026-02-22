@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 07:24:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 07:57:39 +0000</lastBuildDate>
+<item>
+  <title>When I&#x27;m Not Drawing（新規追加）</title>
+  <link>https://store.steampowered.com/app/4381390/</link>
+  <guid isPermaLink="false">steam-store-published-4381390</guid>
+  <pubDate>Sun, 22 Feb 2026 07:57:39 +0000</pubDate>
+  <description>In this cozy life-simulation RPG, you play as a young woman who moves to a new city to pursue her dream of becoming an artist. Manage your schedule, balance life and career, explore the city, and meet new friends. Live a fulfilling year on your own, at your own pace.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381390/24332d9e5d800e33c4fe0b74fdb29336b6224a08/header.jpg?t=1771746847" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381390/24332d9e5d800e33c4fe0b74fdb29336b6224a08/header.jpg?t=1771746847" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381390/24332d9e5d800e33c4fe0b74fdb29336b6224a08/header.jpg?t=1771746847" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4381390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381390/24332d9e5d800e33c4fe0b74fdb29336b6224a08/header.jpg?t=1771746847" alt="When I&#x27;m Not Drawing（新規追加）" /></a></p><p>In this cozy life-simulation RPG, you play as a young woman who moves to a new city to pursue her dream of becoming an artist. Manage your schedule, balance life and career, explore the city, and meet new friends. Live a fulfilling year on your own, at your own pace.</p><p><a href="https://store.steampowered.com/app/4381390/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lost In Alaska（新規追加）</title>
   <link>https://store.steampowered.com/app/4283310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198610/90c749bd499bf85daa6b82f8327dc4745e08e7c3/header.jpg?t=1771521202" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198610/90c749bd499bf85daa6b82f8327dc4745e08e7c3/header.jpg?t=1771521202" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4198610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198610/90c749bd499bf85daa6b82f8327dc4745e08e7c3/header.jpg?t=1771521202" alt="A Fighter’s Nova: Mindara（新規追加）" /></a></p><p>A Fighter’s Nova: Mindara is a narrative-driven JRPG that fuses character-focused storytelling with the intensity and precision of a true tag-team fighting game.</p><p><a href="https://store.steampowered.com/app/4198610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BATOUTTAHELL!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4405300/</link>
-  <guid isPermaLink="false">steam-store-published-4405300</guid>
-  <pubDate>Thu, 19 Feb 2026 17:47:44 +0000</pubDate>
-  <description>A minimal two-key action game where you weave through a torrent of fiery brimstone and even deadlier hazards to escape the infernal grasp of the underworld.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405300/f39c1838ea217cc388e190922448fffa9c854fc6/header.jpg?t=1771522017" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405300/f39c1838ea217cc388e190922448fffa9c854fc6/header.jpg?t=1771522017" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405300/f39c1838ea217cc388e190922448fffa9c854fc6/header.jpg?t=1771522017" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4405300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405300/f39c1838ea217cc388e190922448fffa9c854fc6/header.jpg?t=1771522017" alt="BATOUTTAHELL!（新規追加）" /></a></p><p>A minimal two-key action game where you weave through a torrent of fiery brimstone and even deadlier hazards to escape the infernal grasp of the underworld.</p><p><a href="https://store.steampowered.com/app/4405300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
