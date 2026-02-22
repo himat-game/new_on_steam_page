@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 15:25:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 15:53:46 +0000</lastBuildDate>
+<item>
+  <title>Lands of Fury（新規追加）</title>
+  <link>https://store.steampowered.com/app/2672700/</link>
+  <guid isPermaLink="false">steam-store-published-2672700</guid>
+  <pubDate>Sun, 22 Feb 2026 15:53:46 +0000</pubDate>
+  <description>Awaken in a strange world filled with danger, mystery, and forgotten powers. Lands of Fury is a fast-paced action RPG roguelite where every run is unique—battle hordes of enemies, recruit companions, discover hidden abilities, and uncover the secrets of who you truly are.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672700/e55ae17f4e498a6337470c3dba676aad1ff84da8/header.jpg?t=1771775356" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672700/e55ae17f4e498a6337470c3dba676aad1ff84da8/header.jpg?t=1771775356" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672700/e55ae17f4e498a6337470c3dba676aad1ff84da8/header.jpg?t=1771775356" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2672700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672700/e55ae17f4e498a6337470c3dba676aad1ff84da8/header.jpg?t=1771775356" alt="Lands of Fury（新規追加）" /></a></p><p>Awaken in a strange world filled with danger, mystery, and forgotten powers. Lands of Fury is a fast-paced action RPG roguelite where every run is unique—battle hordes of enemies, recruit companions, discover hidden abilities, and uncover the secrets of who you truly are.</p><p><a href="https://store.steampowered.com/app/2672700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PoolooP（新規追加）</title>
   <link>https://store.steampowered.com/app/4287460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429620/f4e3781ea4347330f2d2a1737dda133ed65ff0e5/header.jpg?t=1771524155" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429620/f4e3781ea4347330f2d2a1737dda133ed65ff0e5/header.jpg?t=1771524155" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4429620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429620/f4e3781ea4347330f2d2a1737dda133ed65ff0e5/header.jpg?t=1771524155" alt="BreakThrough（新規追加）" /></a></p><p>High-octane fights and stunning 3D cel-shaded animations! BreakThrough is a fighting game where your greatest weapon is your Resolve. Powered by rollback netcode, choose from a diverse set of fighters and prove your strength in battle!</p><p><a href="https://store.steampowered.com/app/4429620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Evolver（新規追加）</title>
-  <link>https://store.steampowered.com/app/4444170/</link>
-  <guid isPermaLink="false">steam-store-published-4444170</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>Evolver is an auto battler Oregon trail and anime inspired game. You can play as several different classes all able to evolve into different things. The slime has 62 evolutions in total, the game encourages you to evolve. You will also get items that help you in battle and help you farm xp.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444170/bb83ac59cbce408ac1265a7076fb2724d6875c66/header.jpg?t=1771524452" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444170/bb83ac59cbce408ac1265a7076fb2724d6875c66/header.jpg?t=1771524452" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444170/bb83ac59cbce408ac1265a7076fb2724d6875c66/header.jpg?t=1771524452" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4444170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444170/bb83ac59cbce408ac1265a7076fb2724d6875c66/header.jpg?t=1771524452" alt="Evolver（新規追加）" /></a></p><p>Evolver is an auto battler Oregon trail and anime inspired game. You can play as several different classes all able to evolve into different things. The slime has 62 evolutions in total, the game encourages you to evolve. You will also get items that help you in battle and help you farm xp.</p><p><a href="https://store.steampowered.com/app/4444170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
