@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 19:03:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 19:54:33 +0000</lastBuildDate>
+<item>
+  <title>Elven Desire（新規追加）</title>
+  <link>https://store.steampowered.com/app/4431140/</link>
+  <guid isPermaLink="false">steam-store-published-4431140</guid>
+  <pubDate>Sun, 22 Feb 2026 19:54:33 +0000</pubDate>
+  <description>You’ll discover four distinct elven clans, each with their own natural charm and sensual presence: Forest Elves, Desert Elves, Mountain Elves and Dark Elves. They are free, relaxed, and unashamed of their beauty. The elven women embrace their bodies and their desires without restraint.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431140/80f408ff492cf0f8a37104339e7a9463f7400c85/header.jpg?t=1771788578" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431140/80f408ff492cf0f8a37104339e7a9463f7400c85/header.jpg?t=1771788578" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431140/80f408ff492cf0f8a37104339e7a9463f7400c85/header.jpg?t=1771788578" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4431140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431140/80f408ff492cf0f8a37104339e7a9463f7400c85/header.jpg?t=1771788578" alt="Elven Desire（新規追加）" /></a></p><p>You’ll discover four distinct elven clans, each with their own natural charm and sensual presence: Forest Elves, Desert Elves, Mountain Elves and Dark Elves. They are free, relaxed, and unashamed of their beauty. The elven women embrace their bodies and their desires without restraint.</p><p><a href="https://store.steampowered.com/app/4431140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ironsphere（新規追加）</title>
   <link>https://store.steampowered.com/app/4290600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421150/3f0a848da510c11d782d0943586c2b6210a8769b/header.jpg?t=1771526765" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421150/3f0a848da510c11d782d0943586c2b6210a8769b/header.jpg?t=1771526765" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4421150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421150/3f0a848da510c11d782d0943586c2b6210a8769b/header.jpg?t=1771526765" alt="Chaos Playground（新規追加）" /></a></p><p>A physics-driven ragdoll sandbox. Build weird stuff, run crazy experiments, and watch the chaos unfold — no limits, just pure physics.</p><p><a href="https://store.steampowered.com/app/4421150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sisters of Solitude（新規追加）</title>
-  <link>https://store.steampowered.com/app/4194770/</link>
-  <guid isPermaLink="false">steam-store-published-4194770</guid>
-  <pubDate>Thu, 19 Feb 2026 18:46:58 +0000</pubDate>
-  <description>Explore a haunted convent with your EMF detector, tape recorder, and camera. Uncover the fate of four ghostly sisters and the mystery behind the murder they commited. Every room hides a clue, every shadow a warning, and the truth waits for those who dare to seek it.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194770/5544c29a6c9d436e88fcd62f48245e971950e637/header.jpg?t=1771526775" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194770/5544c29a6c9d436e88fcd62f48245e971950e637/header.jpg?t=1771526775" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194770/5544c29a6c9d436e88fcd62f48245e971950e637/header.jpg?t=1771526775" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4194770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194770/5544c29a6c9d436e88fcd62f48245e971950e637/header.jpg?t=1771526775" alt="Sisters of Solitude（新規追加）" /></a></p><p>Explore a haunted convent with your EMF detector, tape recorder, and camera. Uncover the fate of four ghostly sisters and the mystery behind the murder they commited. Every room hides a clue, every shadow a warning, and the truth waits for those who dare to seek it.</p><p><a href="https://store.steampowered.com/app/4194770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
