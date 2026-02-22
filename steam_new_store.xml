@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Feb 2026 07:57:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 09:48:04 +0000</lastBuildDate>
+<item>
+  <title>Wriggle apple 2（新規追加）</title>
+  <link>https://store.steampowered.com/app/4438660/</link>
+  <guid isPermaLink="false">steam-store-published-4438660</guid>
+  <pubDate>Sun, 22 Feb 2026 09:48:04 +0000</pubDate>
+  <description>A winter puzzle adventure where a hungry worm collects apples. Plan your path carefully as it grows longer and fragile icy blocks break beneath it.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438660/519626fe3be142e300a79ce19c2e96f6812d6569/header.jpg?t=1771752646" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438660/519626fe3be142e300a79ce19c2e96f6812d6569/header.jpg?t=1771752646" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438660/519626fe3be142e300a79ce19c2e96f6812d6569/header.jpg?t=1771752646" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4438660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438660/519626fe3be142e300a79ce19c2e96f6812d6569/header.jpg?t=1771752646" alt="Wriggle apple 2（新規追加）" /></a></p><p>A winter puzzle adventure where a hungry worm collects apples. Plan your path carefully as it grows longer and fragile icy blocks break beneath it.</p><p><a href="https://store.steampowered.com/app/4438660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>When I&#x27;m Not Drawing（新規追加）</title>
   <link>https://store.steampowered.com/app/4381390/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434200/d6cacf36a9bcf8808d1b490c2e9de54ed529f572/header.jpg?t=1771523067" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434200/d6cacf36a9bcf8808d1b490c2e9de54ed529f572/header.jpg?t=1771523067" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4434200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434200/d6cacf36a9bcf8808d1b490c2e9de54ed529f572/header.jpg?t=1771523067" alt="REMNANT: Rebirth（新規追加）" /></a></p><p>Explore the silent echoes of a fallen open-world in REMNANT: Rebirth. Navigate lush, overgrown ruins where nature has reclaimed its throne and zombies lurk in the shadows. Master survival, uncover secrets of a lost civilization, and endure the challenges of an untamed post-apocalyptic era.</p><p><a href="https://store.steampowered.com/app/4434200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>A Fighter’s Nova: Mindara（新規追加）</title>
-  <link>https://store.steampowered.com/app/4198610/</link>
-  <guid isPermaLink="false">steam-store-published-4198610</guid>
-  <pubDate>Thu, 19 Feb 2026 17:47:44 +0000</pubDate>
-  <description>A Fighter’s Nova: Mindara is a narrative-driven JRPG that fuses character-focused storytelling with the intensity and precision of a true tag-team fighting game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198610/90c749bd499bf85daa6b82f8327dc4745e08e7c3/header.jpg?t=1771521202" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198610/90c749bd499bf85daa6b82f8327dc4745e08e7c3/header.jpg?t=1771521202" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198610/90c749bd499bf85daa6b82f8327dc4745e08e7c3/header.jpg?t=1771521202" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4198610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198610/90c749bd499bf85daa6b82f8327dc4745e08e7c3/header.jpg?t=1771521202" alt="A Fighter’s Nova: Mindara（新規追加）" /></a></p><p>A Fighter’s Nova: Mindara is a narrative-driven JRPG that fuses character-focused storytelling with the intensity and precision of a true tag-team fighting game.</p><p><a href="https://store.steampowered.com/app/4198610/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
