@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 23 Feb 2026 22:38:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 23:20:05 +0000</lastBuildDate>
+<item>
+  <title>Hue Factory（新規追加）</title>
+  <link>https://store.steampowered.com/app/4390180/</link>
+  <guid isPermaLink="false">steam-store-published-4390180</guid>
+  <pubDate>Mon, 23 Feb 2026 23:20:05 +0000</pubDate>
+  <description>A colorful, minimalist automation game. Place machines, mix colors, and manage the flow of an evolving factory. Listen to the hum of the machines and watch the colors blend while keeping your lines efficient.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390180/f63a84a28866698df00ffcc15debec90d654bdd3/header.jpg?t=1771887537" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390180/f63a84a28866698df00ffcc15debec90d654bdd3/header.jpg?t=1771887537" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390180/f63a84a28866698df00ffcc15debec90d654bdd3/header.jpg?t=1771887537" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4390180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390180/f63a84a28866698df00ffcc15debec90d654bdd3/header.jpg?t=1771887537" alt="Hue Factory（新規追加）" /></a></p><p>A colorful, minimalist automation game. Place machines, mix colors, and manage the flow of an evolving factory. Listen to the hum of the machines and watch the colors blend while keeping your lines efficient.</p><p><a href="https://store.steampowered.com/app/4390180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Vietnam Communist: Against U.S. Invasion（新規追加）</title>
   <link>https://store.steampowered.com/app/4357340/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440620/57fdb70e02d217e0bc44e53dcc291cd5be8c42d4/header.jpg?t=1771563587" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440620/57fdb70e02d217e0bc44e53dcc291cd5be8c42d4/header.jpg?t=1771563587" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4440620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440620/57fdb70e02d217e0bc44e53dcc291cd5be8c42d4/header.jpg?t=1771563587" alt="Archipelago Dreams（新規追加）" /></a></p><p>Archipelago Dreams is a dual city builder and adventure game with simple city building mechanics and free roaming first person view mode. Build cities on islands then freely walk and jetpack around the entire scene. Includes different times of day.</p><p><a href="https://store.steampowered.com/app/4440620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Electric Pop（新規追加）</title>
-  <link>https://store.steampowered.com/app/4330470/</link>
-  <guid isPermaLink="false">steam-store-published-4330470</guid>
-  <pubDate>Fri, 20 Feb 2026 05:40:44 +0000</pubDate>
-  <description>The arcade roguelike deckbuilder. Play an abandoned machine that only speaks in score—discover Cores, refine your system, spark chain reactions, and ignite your score to beat escalating challenges.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330470/d8feb352024ff0832e7cc88f2cb393d579eb96ca/header.jpg?t=1771562672" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330470/d8feb352024ff0832e7cc88f2cb393d579eb96ca/header.jpg?t=1771562672" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330470/d8feb352024ff0832e7cc88f2cb393d579eb96ca/header.jpg?t=1771562672" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4330470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330470/d8feb352024ff0832e7cc88f2cb393d579eb96ca/header.jpg?t=1771562672" alt="Electric Pop（新規追加）" /></a></p><p>The arcade roguelike deckbuilder. Play an abandoned machine that only speaks in score—discover Cores, refine your system, spark chain reactions, and ignite your score to beat escalating challenges.</p><p><a href="https://store.steampowered.com/app/4330470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
