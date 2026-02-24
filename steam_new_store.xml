@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 24 Feb 2026 11:26:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Feb 2026 12:05:07 +0000</lastBuildDate>
+<item>
+  <title>BUG（新規追加）</title>
+  <link>https://store.steampowered.com/app/4431380/</link>
+  <guid isPermaLink="false">steam-store-published-4431380</guid>
+  <pubDate>Tue, 24 Feb 2026 12:05:07 +0000</pubDate>
+  <description>You&#x27;re HR investigating a missing employee. On the surface, it seems like a routine personnel issue until you open his computer, and a dark world built on overtime work and psychological control slowly comes into view. Peer through the screen to uncover the truth and stay awake until the end.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431380/20056ad1da3552b7a4753bd9ffe8be4477c6055c/header.jpg?t=1771934226" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431380/20056ad1da3552b7a4753bd9ffe8be4477c6055c/header.jpg?t=1771934226" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431380/20056ad1da3552b7a4753bd9ffe8be4477c6055c/header.jpg?t=1771934226" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4431380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431380/20056ad1da3552b7a4753bd9ffe8be4477c6055c/header.jpg?t=1771934226" alt="BUG（新規追加）" /></a></p><p>You&#x27;re HR investigating a missing employee. On the surface, it seems like a routine personnel issue until you open his computer, and a dark world built on overtime work and psychological control slowly comes into view. Peer through the screen to uncover the truth and stay awake until the end.</p><p><a href="https://store.steampowered.com/app/4431380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Grit Shot（新規追加）</title>
   <link>https://store.steampowered.com/app/4446370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445180/9d22901c03c619babafc6c2bbc748efba82c8f1a/header.jpg?t=1771603779" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445180/9d22901c03c619babafc6c2bbc748efba82c8f1a/header.jpg?t=1771603779" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4445180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445180/9d22901c03c619babafc6c2bbc748efba82c8f1a/header.jpg?t=1771603779" alt="VeriData Inc.（新規追加）" /></a></p><p>Solve spreadsheet-based puzzles and handle crazy coworkers in a normal day&#x27;s work at VeriData Inc.</p><p><a href="https://store.steampowered.com/app/4445180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tears of the Lost Kingdom（新規追加）</title>
-  <link>https://store.steampowered.com/app/4285170/</link>
-  <guid isPermaLink="false">steam-store-published-4285170</guid>
-  <pubDate>Fri, 20 Feb 2026 16:34:56 +0000</pubDate>
-  <description>Embark on a new adventure in a kingdom without a ruler! Gather an army. Explore the world, enhance yourself, and cultivate meaningful romances. Develop your village with classic farming gameplay. Be the ruler of these lands!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285170/bca560232db31aa1ff47bb443e6d6804746a4320/header.jpg?t=1771603874" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285170/bca560232db31aa1ff47bb443e6d6804746a4320/header.jpg?t=1771603874" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285170/bca560232db31aa1ff47bb443e6d6804746a4320/header.jpg?t=1771603874" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285170/bca560232db31aa1ff47bb443e6d6804746a4320/header.jpg?t=1771603874" alt="Tears of the Lost Kingdom（新規追加）" /></a></p><p>Embark on a new adventure in a kingdom without a ruler! Gather an army. Explore the world, enhance yourself, and cultivate meaningful romances. Develop your village with classic farming gameplay. Be the ruler of these lands!</p><p><a href="https://store.steampowered.com/app/4285170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
