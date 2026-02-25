@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 25 Feb 2026 10:13:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 11:11:13 +0000</lastBuildDate>
+<item>
+  <title>Myth of Empires: Conquest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4348430/</link>
+  <guid isPermaLink="false">steam-store-published-4348430</guid>
+  <pubDate>Wed, 25 Feb 2026 11:11:13 +0000</pubDate>
+  <description>Myth of Empires: Завоевания is a grand MMO survival sandbox with a living world where everything depends on you. Build settlements, raise armies, wage wars, or develop the economy — every choice leaves its mark on history.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348430/0f10af8e37ff9ec491bb29df9ff55275d80b74c9/header.jpg?t=1772015409" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348430/0f10af8e37ff9ec491bb29df9ff55275d80b74c9/header.jpg?t=1772015409" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348430/0f10af8e37ff9ec491bb29df9ff55275d80b74c9/header.jpg?t=1772015409" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4348430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348430/0f10af8e37ff9ec491bb29df9ff55275d80b74c9/header.jpg?t=1772015409" alt="Myth of Empires: Conquest（新規追加）" /></a></p><p>Myth of Empires: Завоевания is a grand MMO survival sandbox with a living world where everything depends on you. Build settlements, raise armies, wage wars, or develop the economy — every choice leaves its mark on history.</p><p><a href="https://store.steampowered.com/app/4348430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Morbus: The Burden Of The Apothecary（新規追加）</title>
   <link>https://store.steampowered.com/app/4247520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425610/a03728af3c6bb563e5a0bba909a2783aa67372f7/header.jpg?t=1771699761" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425610/a03728af3c6bb563e5a0bba909a2783aa67372f7/header.jpg?t=1771699761" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4425610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425610/a03728af3c6bb563e5a0bba909a2783aa67372f7/header.jpg?t=1771699761" alt="KILLFLOW（新規追加）" /></a></p><p>KILLFLOW is an insanely fast retro FPS set in a stylish procedurally generating world. Destroy red psychopaths with destructive weapons to save yourself from getting corrupted, and get to the end.</p><p><a href="https://store.steampowered.com/app/4425610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Afesis: The Four Steps（新規追加）</title>
-  <link>https://store.steampowered.com/app/4352080/</link>
-  <guid isPermaLink="false">steam-store-published-4352080</guid>
-  <pubDate>Sat, 21 Feb 2026 19:02:57 +0000</pubDate>
-  <description>Discover the Castilian-inspired village of Valdejara in this suspenseful visual novel. Christian tradition comes alive in our story. Decipher biblical passages, confront the shadows that threaten faith, and feel the weight of every choice.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352080/7df84e5284df7fc57037f48593811370e07c3503/header.jpg?t=1771699100" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352080/7df84e5284df7fc57037f48593811370e07c3503/header.jpg?t=1771699100" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352080/7df84e5284df7fc57037f48593811370e07c3503/header.jpg?t=1771699100" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4352080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4352080/7df84e5284df7fc57037f48593811370e07c3503/header.jpg?t=1771699100" alt="Afesis: The Four Steps（新規追加）" /></a></p><p>Discover the Castilian-inspired village of Valdejara in this suspenseful visual novel. Christian tradition comes alive in our story. Decipher biblical passages, confront the shadows that threaten faith, and feel the weight of every choice.</p><p><a href="https://store.steampowered.com/app/4352080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
