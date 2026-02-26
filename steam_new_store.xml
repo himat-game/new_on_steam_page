@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 26 Feb 2026 22:30:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 23:03:01 +0000</lastBuildDate>
+<item>
+  <title>Welcome, [Employee Name]（新規追加）</title>
+  <link>https://store.steampowered.com/app/4311660/</link>
+  <guid isPermaLink="false">steam-store-published-4311660</guid>
+  <pubDate>Thu, 26 Feb 2026 23:03:01 +0000</pubDate>
+  <description>Welcome, [Employee Name]! You are our new space station controller. We trust you to make all the right decisions and keep the people of the HonkyTonk space station safe. Process as many trucks as possible but be careful, mistakes have consequences.Welcome to the Honky Tonk Family!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311660/02726be5cfacfc7cdc3596d874adce666688a3be/header.jpg?t=1772145301" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311660/02726be5cfacfc7cdc3596d874adce666688a3be/header.jpg?t=1772145301" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311660/02726be5cfacfc7cdc3596d874adce666688a3be/header.jpg?t=1772145301" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4311660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311660/02726be5cfacfc7cdc3596d874adce666688a3be/header.jpg?t=1772145301" alt="Welcome, [Employee Name]（新規追加）" /></a></p><p>Welcome, [Employee Name]! You are our new space station controller. We trust you to make all the right decisions and keep the people of the HonkyTonk space station safe. Process as many trucks as possible but be careful, mistakes have consequences.Welcome to the Honky Tonk Family!</p><p><a href="https://store.steampowered.com/app/4311660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>soulstation（新規追加）</title>
   <link>https://store.steampowered.com/app/4370460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3556600/header.jpg?t=1771991400" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3556600/header.jpg?t=1771991400" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3556600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3556600/header.jpg?t=1771991400" alt="Super Waifu Tsunami（新規追加）" /></a></p><p>The anime waifu platform-fighter you never knew you needed!</p><p><a href="https://store.steampowered.com/app/3556600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Realm of Advent（新規追加）</title>
-  <link>https://store.steampowered.com/app/3060830/</link>
-  <guid isPermaLink="false">steam-store-published-3060830</guid>
-  <pubDate>Wed, 25 Feb 2026 04:50:30 +0000</pubDate>
-  <description>Realm of Advent is an endless eerie loop of Roguelike deckbuilding strategy. In this addictive card game, craft your unique deck, launch auto-battles with one tap, and unleash insane chain reactions from over 300 cards and relics to conquer mighty Apostle bosses!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3060830/3a1435fc358271d97755dd31546f704081018c92/header.jpg?t=1771988786" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3060830/3a1435fc358271d97755dd31546f704081018c92/header.jpg?t=1771988786" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3060830/3a1435fc358271d97755dd31546f704081018c92/header.jpg?t=1771988786" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3060830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3060830/3a1435fc358271d97755dd31546f704081018c92/header.jpg?t=1771988786" alt="Realm of Advent（新規追加）" /></a></p><p>Realm of Advent is an endless eerie loop of Roguelike deckbuilding strategy. In this addictive card game, craft your unique deck, launch auto-battles with one tap, and unleash insane chain reactions from over 300 cards and relics to conquer mighty Apostle bosses!</p><p><a href="https://store.steampowered.com/app/3060830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
