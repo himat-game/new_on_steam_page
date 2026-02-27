@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 27 Feb 2026 21:56:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 22:20:38 +0000</lastBuildDate>
+<item>
+  <title>Battle Cloud（新規追加）</title>
+  <link>https://store.steampowered.com/app/4448890/</link>
+  <guid isPermaLink="false">steam-store-published-4448890</guid>
+  <pubDate>Fri, 27 Feb 2026 22:20:38 +0000</pubDate>
+  <description>In Battle Cloud, freely equip and upgrade weapons and items as you sweep through waves of enemies. Grow stronger with the loot you collect, complete your own destructive build, and dominate the battlefield!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448890/76c7524299ab8a803b65cb69d67a5af0e83c28d9/header.jpg?t=1772229815" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448890/76c7524299ab8a803b65cb69d67a5af0e83c28d9/header.jpg?t=1772229815" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448890/76c7524299ab8a803b65cb69d67a5af0e83c28d9/header.jpg?t=1772229815" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4448890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448890/76c7524299ab8a803b65cb69d67a5af0e83c28d9/header.jpg?t=1772229815" alt="Battle Cloud（新規追加）" /></a></p><p>In Battle Cloud, freely equip and upgrade weapons and items as you sweep through waves of enemies. Grow stronger with the loot you collect, complete your own destructive build, and dominate the battlefield!</p><p><a href="https://store.steampowered.com/app/4448890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Galloping Dream（新規追加）</title>
   <link>https://store.steampowered.com/app/4461810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300840/70b5d61e9f7819a3f2100f7f49bc9121a1332ebd/header.jpg?t=1772069363" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300840/70b5d61e9f7819a3f2100f7f49bc9121a1332ebd/header.jpg?t=1772069363" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4300840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300840/70b5d61e9f7819a3f2100f7f49bc9121a1332ebd/header.jpg?t=1772069363" alt="Trial of Ember（新規追加）" /></a></p><p>Assemble a band of forest allies to defend your woodland home in this roguelike auto-battler. Level your hero, recover artifacts, upgrade allies and learn spells to build powerful synergies. Strategically deploy your forces to repel the rising flame and complete the Trial of Ember. </p><p><a href="https://store.steampowered.com/app/4300840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>哥是莽撞人 Rush or Die（新規追加）</title>
-  <link>https://store.steampowered.com/app/4375150/</link>
-  <guid isPermaLink="false">steam-store-published-4375150</guid>
-  <pubDate>Thu, 26 Feb 2026 02:21:39 +0000</pubDate>
-  <description>Now choose your hero and transform into the &amp;quot;Reckless Dude&amp;quot;! Use the &amp;quot;A&amp;quot; and &amp;quot;D&amp;quot; keys to control your character, smash into phone-obsessed pedestrians, collect the phones they drop, and dive into an exhilarating street parkour adventure!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375150/93864623a99df4ba9be5b4870bc0fa437a40704d/header.jpg?t=1772069469" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375150/93864623a99df4ba9be5b4870bc0fa437a40704d/header.jpg?t=1772069469" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375150/93864623a99df4ba9be5b4870bc0fa437a40704d/header.jpg?t=1772069469" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4375150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375150/93864623a99df4ba9be5b4870bc0fa437a40704d/header.jpg?t=1772069469" alt="哥是莽撞人 Rush or Die（新規追加）" /></a></p><p>Now choose your hero and transform into the &amp;quot;Reckless Dude&amp;quot;! Use the &amp;quot;A&amp;quot; and &amp;quot;D&amp;quot; keys to control your character, smash into phone-obsessed pedestrians, collect the phones they drop, and dive into an exhilarating street parkour adventure!</p><p><a href="https://store.steampowered.com/app/4375150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
