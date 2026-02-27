@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 27 Feb 2026 11:39:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 11:59:45 +0000</lastBuildDate>
+<item>
+  <title>Dungeon Potato（新規追加）</title>
+  <link>https://store.steampowered.com/app/4174280/</link>
+  <guid isPermaLink="false">steam-store-published-4174280</guid>
+  <pubDate>Fri, 27 Feb 2026 11:59:45 +0000</pubDate>
+  <description>Ascend for the glory of the Potato God! Dungeon Potato combines dungeon crawling with a unique religion mechanic. Encounter random events, craft unique builds, and fight through waves of enemies. A high-stakes, top-down roguelike where your faith determines your survival.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174280/bc9198384373bde0eb57aab93bf0d3ecf2f64e1b/header.jpg?t=1772193421" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174280/bc9198384373bde0eb57aab93bf0d3ecf2f64e1b/header.jpg?t=1772193421" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174280/bc9198384373bde0eb57aab93bf0d3ecf2f64e1b/header.jpg?t=1772193421" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4174280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174280/bc9198384373bde0eb57aab93bf0d3ecf2f64e1b/header.jpg?t=1772193421" alt="Dungeon Potato（新規追加）" /></a></p><p>Ascend for the glory of the Potato God! Dungeon Potato combines dungeon crawling with a unique religion mechanic. Encounter random events, craft unique builds, and fight through waves of enemies. A high-stakes, top-down roguelike where your faith determines your survival.</p><p><a href="https://store.steampowered.com/app/4174280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Firecat（新規追加）</title>
   <link>https://store.steampowered.com/app/4341350/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4455840/a34d0ea9970aedeb4763f3af97db2f8182dee1ee/header.jpg?t=1772040692" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4455840/a34d0ea9970aedeb4763f3af97db2f8182dee1ee/header.jpg?t=1772040692" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4455840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4455840/a34d0ea9970aedeb4763f3af97db2f8182dee1ee/header.jpg?t=1772040692" alt="Godisnje（新規追加）" /></a></p><p>Godisnje is a turn-based strategy card game where players match Month cards with trait-based sets across multiple boards, manipulate seasonal effects, and outscore AI opponents through in-depth tactical play.</p><p><a href="https://store.steampowered.com/app/4455840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Industronaut（新規追加）</title>
-  <link>https://store.steampowered.com/app/3804010/</link>
-  <guid isPermaLink="false">steam-store-published-3804010</guid>
-  <pubDate>Wed, 25 Feb 2026 17:39:32 +0000</pubDate>
-  <description>A survival engineering game where you build life support habitats, mine resources, and automate production chains to survive alone on a radiation heavy planet with no rescue and no external support.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3804010/8230b8e200656ca09cc165b9a1c736f295172beb/header.jpg?t=1772039138" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3804010/8230b8e200656ca09cc165b9a1c736f295172beb/header.jpg?t=1772039138" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3804010/8230b8e200656ca09cc165b9a1c736f295172beb/header.jpg?t=1772039138" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3804010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3804010/8230b8e200656ca09cc165b9a1c736f295172beb/header.jpg?t=1772039138" alt="Industronaut（新規追加）" /></a></p><p>A survival engineering game where you build life support habitats, mine resources, and automate production chains to survive alone on a radiation heavy planet with no rescue and no external support.</p><p><a href="https://store.steampowered.com/app/3804010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
