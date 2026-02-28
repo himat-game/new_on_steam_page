@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Feb 2026 08:25:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 10:20:13 +0000</lastBuildDate>
+<item>
+  <title>Vortha racing（新規追加）</title>
+  <link>https://store.steampowered.com/app/3734150/</link>
+  <guid isPermaLink="false">steam-store-published-3734150</guid>
+  <pubDate>Sat, 28 Feb 2026 10:20:13 +0000</pubDate>
+  <description>A high-speed arcade racer inspired by Trackmania. Race against the clock across 32 unique tracks, compete for the top spot on global leaderboards, and earn your medals. Race agains you best time, or other players best times.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3734150/d35f5ca152416e5109bd83850380a7fe74bebc08/header.jpg?t=1772273653" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3734150/d35f5ca152416e5109bd83850380a7fe74bebc08/header.jpg?t=1772273653" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3734150/d35f5ca152416e5109bd83850380a7fe74bebc08/header.jpg?t=1772273653" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3734150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3734150/d35f5ca152416e5109bd83850380a7fe74bebc08/header.jpg?t=1772273653" alt="Vortha racing（新規追加）" /></a></p><p>A high-speed arcade racer inspired by Trackmania. Race against the clock across 32 unique tracks, compete for the top spot on global leaderboards, and earn your medals. Race agains you best time, or other players best times.</p><p><a href="https://store.steampowered.com/app/3734150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Gunshot Survivors VR（新規追加）</title>
   <link>https://store.steampowered.com/app/4382850/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451450/30d1714c319edda75a31a87c5d92e7bbaaed00b3/header.jpg?t=1772104211" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451450/30d1714c319edda75a31a87c5d92e7bbaaed00b3/header.jpg?t=1772104211" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4451450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451450/30d1714c319edda75a31a87c5d92e7bbaaed00b3/header.jpg?t=1772104211" alt="Slimeblade（新規追加）" /></a></p><p>One weapon against the horde. Pick your favorite from 30+ and survive wave after wave in this roguelite action game.</p><p><a href="https://store.steampowered.com/app/4451450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Flying PingPong（新規追加）</title>
-  <link>https://store.steampowered.com/app/4441140/</link>
-  <guid isPermaLink="false">steam-store-published-4441140</guid>
-  <pubDate>Thu, 26 Feb 2026 11:38:11 +0000</pubDate>
-  <description>The first casual game created by an individual using AI tools in the world. No in-app purchases—all in-game items and features are completely free to enjoy. Simple gameplay makes it the perfect choice for relaxation and passing the time!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441140/5a9b1c7673969ef073d3e764f45b0d690cabd6e1/header.jpg?t=1772102855" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441140/5a9b1c7673969ef073d3e764f45b0d690cabd6e1/header.jpg?t=1772102855" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441140/5a9b1c7673969ef073d3e764f45b0d690cabd6e1/header.jpg?t=1772102855" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4441140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441140/5a9b1c7673969ef073d3e764f45b0d690cabd6e1/header.jpg?t=1772102855" alt="Flying PingPong（新規追加）" /></a></p><p>The first casual game created by an individual using AI tools in the world. No in-app purchases—all in-game items and features are completely free to enjoy. Simple gameplay makes it the perfect choice for relaxation and passing the time!</p><p><a href="https://store.steampowered.com/app/4441140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
