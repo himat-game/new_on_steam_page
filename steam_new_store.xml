@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Feb 2026 18:29:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 18:58:49 +0000</lastBuildDate>
+<item>
+  <title>Kinguin: Become a Streaming Legend（新規追加）</title>
+  <link>https://store.steampowered.com/app/4466580/</link>
+  <guid isPermaLink="false">steam-store-published-4466580</guid>
+  <pubDate>Sat, 28 Feb 2026 18:58:49 +0000</pubDate>
+  <description>Kinguin is a relaxing idle simulator about a penguin streamer. Leave the game in the corner of your screen while you work, upgrade your setup to turn views into valuable followers and subs, and climb the Global Rank. Dominate the algorithm and become the internet&#x27;s greatest polar legend!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466580/240923e4912dc81bc5db732a22cf8511f3eab321/header.jpg?t=1772304300" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466580/240923e4912dc81bc5db732a22cf8511f3eab321/header.jpg?t=1772304300" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466580/240923e4912dc81bc5db732a22cf8511f3eab321/header.jpg?t=1772304300" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4466580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466580/240923e4912dc81bc5db732a22cf8511f3eab321/header.jpg?t=1772304300" alt="Kinguin: Become a Streaming Legend（新規追加）" /></a></p><p>Kinguin is a relaxing idle simulator about a penguin streamer. Leave the game in the corner of your screen while you work, upgrade your setup to turn views into valuable followers and subs, and climb the Global Rank. Dominate the algorithm and become the internet&#x27;s greatest polar legend!</p><p><a href="https://store.steampowered.com/app/4466580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Anymaker（新規追加）</title>
   <link>https://store.steampowered.com/app/4435340/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1772120060" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1772120060" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3933150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1772120060" alt="FixForce（新規追加）" /></a></p><p>Leap, climb, and launch your friends in this chaotic co-op extraction platformer for up to 6 players! Use your drill-wrench to build your way across a vibrant post-apocalyptic world, find replacement parts, and fix broken machines. And if you lose your head, don’t worry: it’s all part of the job.</p><p><a href="https://store.steampowered.com/app/3933150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Declutterers : No Dumpster Left Empty（新規追加）</title>
-  <link>https://store.steampowered.com/app/4465980/</link>
-  <guid isPermaLink="false">steam-store-published-4465980</guid>
-  <pubDate>Thu, 26 Feb 2026 15:51:48 +0000</pubDate>
-  <description>A chaotic 4-player co-op cleanup game where you vacuum everything in sight. Empty messy houses, toss junk into dumpsters, and upgrade your gear — just don’t get sucked into the madness.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465980/459bbeb0fd158b867eb9e872b25fd3666fb15662/header.jpg?t=1772120534" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465980/459bbeb0fd158b867eb9e872b25fd3666fb15662/header.jpg?t=1772120534" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465980/459bbeb0fd158b867eb9e872b25fd3666fb15662/header.jpg?t=1772120534" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4465980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465980/459bbeb0fd158b867eb9e872b25fd3666fb15662/header.jpg?t=1772120534" alt="The Declutterers : No Dumpster Left Empty（新規追加）" /></a></p><p>A chaotic 4-player co-op cleanup game where you vacuum everything in sight. Empty messy houses, toss junk into dumpsters, and upgrade your gear — just don’t get sucked into the madness.</p><p><a href="https://store.steampowered.com/app/4465980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
