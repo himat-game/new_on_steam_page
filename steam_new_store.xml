@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Feb 2026 18:58:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 19:25:50 +0000</lastBuildDate>
+<item>
+  <title>Imperial Kingdoms（新規追加）</title>
+  <link>https://store.steampowered.com/app/4406790/</link>
+  <guid isPermaLink="false">steam-store-published-4406790</guid>
+  <pubDate>Sat, 28 Feb 2026 19:25:50 +0000</pubDate>
+  <description>Expand your kingdom: Gather resources and transport them to your capital city to produce the materials you need to expand your army and conquer new regions. Research new technologies to improve your economy and army. Use your troops wisely to outmanoeuvre your enemies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406790/ba1bcd2fd5e6c79eb8d60360ad4ee4cc85cf566c/header.jpg?t=1772305299" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406790/ba1bcd2fd5e6c79eb8d60360ad4ee4cc85cf566c/header.jpg?t=1772305299" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406790/ba1bcd2fd5e6c79eb8d60360ad4ee4cc85cf566c/header.jpg?t=1772305299" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4406790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406790/ba1bcd2fd5e6c79eb8d60360ad4ee4cc85cf566c/header.jpg?t=1772305299" alt="Imperial Kingdoms（新規追加）" /></a></p><p>Expand your kingdom: Gather resources and transport them to your capital city to produce the materials you need to expand your army and conquer new regions. Research new technologies to improve your economy and army. Use your troops wisely to outmanoeuvre your enemies.</p><p><a href="https://store.steampowered.com/app/4406790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kinguin: Become a Streaming Legend（新規追加）</title>
   <link>https://store.steampowered.com/app/4466580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300380/58dd3876ac367636d72e19cb8d9227232bce93c3/header.jpg?t=1772120767" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300380/58dd3876ac367636d72e19cb8d9227232bce93c3/header.jpg?t=1772120767" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3300380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300380/58dd3876ac367636d72e19cb8d9227232bce93c3/header.jpg?t=1772120767" alt="Train Jumper（新規追加）" /></a></p><p>Train Jumper lets you build your own railway empire. Transport goods between cities, earn money, and expand your fleet with new trains and wagons. Optimize routes, combine the right classes, and master growing logistical challenges.</p><p><a href="https://store.steampowered.com/app/3300380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>FixForce（新規追加）</title>
-  <link>https://store.steampowered.com/app/3933150/</link>
-  <guid isPermaLink="false">steam-store-published-3933150</guid>
-  <pubDate>Thu, 26 Feb 2026 15:51:48 +0000</pubDate>
-  <description>Leap, climb, and launch your friends in this chaotic co-op extraction platformer for up to 6 players! Use your drill-wrench to build your way across a vibrant post-apocalyptic world, find replacement parts, and fix broken machines. And if you lose your head, don’t worry: it’s all part of the job.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1772120060" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1772120060" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1772120060" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3933150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1772120060" alt="FixForce（新規追加）" /></a></p><p>Leap, climb, and launch your friends in this chaotic co-op extraction platformer for up to 6 players! Use your drill-wrench to build your way across a vibrant post-apocalyptic world, find replacement parts, and fix broken machines. And if you lose your head, don’t worry: it’s all part of the job.</p><p><a href="https://store.steampowered.com/app/3933150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
