@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Feb 2026 19:25:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 19:47:20 +0000</lastBuildDate>
+<item>
+  <title>Void Ascendancy（新規追加）</title>
+  <link>https://store.steampowered.com/app/4391820/</link>
+  <guid isPermaLink="false">steam-store-published-4391820</guid>
+  <pubDate>Sat, 28 Feb 2026 19:47:20 +0000</pubDate>
+  <description>Void Ascendancy is a UI-driven space empire simulation where you colonize planets, manage specialized worlds, and build interstellar trade networks across a procedurally generated star cluster.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391820/d09c72a44b3a85690317146b34a88b8d5b81dc34/header.jpg?t=1772307366" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391820/d09c72a44b3a85690317146b34a88b8d5b81dc34/header.jpg?t=1772307366" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391820/d09c72a44b3a85690317146b34a88b8d5b81dc34/header.jpg?t=1772307366" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4391820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391820/d09c72a44b3a85690317146b34a88b8d5b81dc34/header.jpg?t=1772307366" alt="Void Ascendancy（新規追加）" /></a></p><p>Void Ascendancy is a UI-driven space empire simulation where you colonize planets, manage specialized worlds, and build interstellar trade networks across a procedurally generated star cluster.</p><p><a href="https://store.steampowered.com/app/4391820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Imperial Kingdoms（新規追加）</title>
   <link>https://store.steampowered.com/app/4406790/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324000/e52207af7e8916567caa517691b681f93f0c2506/header.jpg?t=1772118088" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324000/e52207af7e8916567caa517691b681f93f0c2506/header.jpg?t=1772118088" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4324000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324000/e52207af7e8916567caa517691b681f93f0c2506/header.jpg?t=1772118088" alt="Crunchy Bear: Dig Dig Pals（新規追加）" /></a></p><p>Adventure with Crunchy Bear! Become the coolest bear as he works with you. Rescue pals from monsters and build your exclusive village together! When tired, let him bury your worries and serve a hot coffee. You are never alone!</p><p><a href="https://store.steampowered.com/app/4324000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Train Jumper（新規追加）</title>
-  <link>https://store.steampowered.com/app/3300380/</link>
-  <guid isPermaLink="false">steam-store-published-3300380</guid>
-  <pubDate>Thu, 26 Feb 2026 15:51:48 +0000</pubDate>
-  <description>Train Jumper lets you build your own railway empire. Transport goods between cities, earn money, and expand your fleet with new trains and wagons. Optimize routes, combine the right classes, and master growing logistical challenges.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300380/58dd3876ac367636d72e19cb8d9227232bce93c3/header.jpg?t=1772120767" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300380/58dd3876ac367636d72e19cb8d9227232bce93c3/header.jpg?t=1772120767" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300380/58dd3876ac367636d72e19cb8d9227232bce93c3/header.jpg?t=1772120767" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3300380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3300380/58dd3876ac367636d72e19cb8d9227232bce93c3/header.jpg?t=1772120767" alt="Train Jumper（新規追加）" /></a></p><p>Train Jumper lets you build your own railway empire. Transport goods between cities, earn money, and expand your fleet with new trains and wagons. Optimize routes, combine the right classes, and master growing logistical challenges.</p><p><a href="https://store.steampowered.com/app/3300380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
