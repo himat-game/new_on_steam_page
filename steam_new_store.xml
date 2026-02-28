@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Feb 2026 20:52:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 21:18:08 +0000</lastBuildDate>
+<item>
+  <title>Monslice（新規追加）</title>
+  <link>https://store.steampowered.com/app/4146260/</link>
+  <guid isPermaLink="false">steam-store-published-4146260</guid>
+  <pubDate>Sat, 28 Feb 2026 21:18:08 +0000</pubDate>
+  <description>Monslice is a short incremental game about slicing monsters, collecting resources, expanding your skill tree, and unlocking and buying more monsters!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146260/cb88cdd782a39fdb984a282a7300b49c784a957b/header.jpg?t=1772312682" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146260/cb88cdd782a39fdb984a282a7300b49c784a957b/header.jpg?t=1772312682" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146260/cb88cdd782a39fdb984a282a7300b49c784a957b/header.jpg?t=1772312682" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4146260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146260/cb88cdd782a39fdb984a282a7300b49c784a957b/header.jpg?t=1772312682" alt="Monslice（新規追加）" /></a></p><p>Monslice is a short incremental game about slicing monsters, collecting resources, expanding your skill tree, and unlocking and buying more monsters!</p><p><a href="https://store.steampowered.com/app/4146260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>FLEEING ESCAPE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4440440/</link>
+  <guid isPermaLink="false">steam-store-published-4440440</guid>
+  <pubDate>Sat, 28 Feb 2026 21:18:08 +0000</pubDate>
+  <description>FLEEING ESCAPE is a wave-based survival horror game with an emphasis on the player&#x27;s choice . At the end of every wave, the player must escape to a different Island to survive. Each island has a unique gamemode, weapons, loot, upgrades, and enemies that can drastically change the gameplay.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440440/db3146b1ec78a90f7ba25bc3eac14580cfb464b7/header.jpg?t=1772312835" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440440/db3146b1ec78a90f7ba25bc3eac14580cfb464b7/header.jpg?t=1772312835" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440440/db3146b1ec78a90f7ba25bc3eac14580cfb464b7/header.jpg?t=1772312835" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4440440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440440/db3146b1ec78a90f7ba25bc3eac14580cfb464b7/header.jpg?t=1772312835" alt="FLEEING ESCAPE（新規追加）" /></a></p><p>FLEEING ESCAPE is a wave-based survival horror game with an emphasis on the player&#x27;s choice . At the end of every wave, the player must escape to a different Island to survive. Each island has a unique gamemode, weapons, loot, upgrades, and enemies that can drastically change the gameplay.</p><p><a href="https://store.steampowered.com/app/4440440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Stick Scholars（新規追加）</title>
   <link>https://store.steampowered.com/app/4458310/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430790/6c7f2fbff818495adfe406e556fa03323f61de82/header.jpg?t=1772123152" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430790/6c7f2fbff818495adfe406e556fa03323f61de82/header.jpg?t=1772123152" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4430790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430790/6c7f2fbff818495adfe406e556fa03323f61de82/header.jpg?t=1772123152" alt="KNAD - First Chapter（新規追加）" /></a></p><p>Survive a cursed world, free your companion from a dark binding, and glimpse a truth you were never meant to remember. KNAD - First Chapter is a 2D Action JRPG Platformer set between two fractured worlds and a parasite that calls itself home. The cycle begins.</p><p><a href="https://store.steampowered.com/app/4430790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Empire of Zombies（新規追加）</title>
-  <link>https://store.steampowered.com/app/4452230/</link>
-  <guid isPermaLink="false">steam-store-published-4452230</guid>
-  <pubDate>Thu, 26 Feb 2026 16:55:44 +0000</pubDate>
-  <description>Raise an undead army and conquer the realms of the living! Empire of Zombies is a dark fantasy idle clicker where you recruit skeletons, zombies, and ghosts, build your necropolis, and crush human, elven, and barbarian kingdoms one by one.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452230/e351919740c207216bdda452a519fb1bc0da8e78/header.jpg?t=1772123626" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452230/e351919740c207216bdda452a519fb1bc0da8e78/header.jpg?t=1772123626" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452230/e351919740c207216bdda452a519fb1bc0da8e78/header.jpg?t=1772123626" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4452230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452230/e351919740c207216bdda452a519fb1bc0da8e78/header.jpg?t=1772123626" alt="Empire of Zombies（新規追加）" /></a></p><p>Raise an undead army and conquer the realms of the living! Empire of Zombies is a dark fantasy idle clicker where you recruit skeletons, zombies, and ghosts, build your necropolis, and crush human, elven, and barbarian kingdoms one by one.</p><p><a href="https://store.steampowered.com/app/4452230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kena: Scars of Kosmora（新規追加）</title>
-  <link>https://store.steampowered.com/app/3485810/</link>
-  <guid isPermaLink="false">steam-store-published-3485810</guid>
-  <pubDate>Thu, 26 Feb 2026 16:55:44 +0000</pubDate>
-  <description>Kena’s journey to cure her affliction leads to the island of Kosmora, plagued by mysterious corruption. To save Kosmora, she must master the elements with the aid of spirit companions in this action-packed and heartfelt adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485810/cdc09903826e4e34076552de69664202e51c0392/header.jpg?t=1772121550" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485810/cdc09903826e4e34076552de69664202e51c0392/header.jpg?t=1772121550" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485810/cdc09903826e4e34076552de69664202e51c0392/header.jpg?t=1772121550" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3485810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485810/cdc09903826e4e34076552de69664202e51c0392/header.jpg?t=1772121550" alt="Kena: Scars of Kosmora（新規追加）" /></a></p><p>Kena’s journey to cure her affliction leads to the island of Kosmora, plagued by mysterious corruption. To save Kosmora, she must master the elements with the aid of spirit companions in this action-packed and heartfelt adventure.</p><p><a href="https://store.steampowered.com/app/3485810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
