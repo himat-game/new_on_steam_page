@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Feb 2026 12:39:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 13:23:53 +0000</lastBuildDate>
+<item>
+  <title>Almost Out（新規追加）</title>
+  <link>https://store.steampowered.com/app/4464620/</link>
+  <guid isPermaLink="false">steam-store-published-4464620</guid>
+  <pubDate>Sat, 28 Feb 2026 13:23:53 +0000</pubDate>
+  <description>Almost Out is a first person horror survival escape game. Captured by a cannibal family you must find a way to escape before they run out of food. You have 3 days left until you go to the slaughter house.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464620/f4cc3e3815e5046d3bb6a0900fe65a49cb42987b/header.jpg?t=1772283627" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464620/f4cc3e3815e5046d3bb6a0900fe65a49cb42987b/header.jpg?t=1772283627" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464620/f4cc3e3815e5046d3bb6a0900fe65a49cb42987b/header.jpg?t=1772283627" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4464620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464620/f4cc3e3815e5046d3bb6a0900fe65a49cb42987b/header.jpg?t=1772283627" alt="Almost Out（新規追加）" /></a></p><p>Almost Out is a first person horror survival escape game. Captured by a cannibal family you must find a way to escape before they run out of food. You have 3 days left until you go to the slaughter house.</p><p><a href="https://store.steampowered.com/app/4464620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Spit &amp; Split（新規追加）</title>
   <link>https://store.steampowered.com/app/4409680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456970/48683ebda8cc354ad0458834463f872a7fbebe65/header.jpg?t=1772109075" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456970/48683ebda8cc354ad0458834463f872a7fbebe65/header.jpg?t=1772109075" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4456970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456970/48683ebda8cc354ad0458834463f872a7fbebe65/header.jpg?t=1772109075" alt="VYRÜEL（新規追加）" /></a></p><p>A real-time espionage strategy simulation where you deploy influence operations, manipulate political, corporate and criminal factions, and reshape a living London through dynamic territorial control and systemic power shifts.</p><p><a href="https://store.steampowered.com/app/4456970/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kingdom Rush 6: Genesis TD（新規追加）</title>
-  <link>https://store.steampowered.com/app/4259190/</link>
-  <guid isPermaLink="false">steam-store-published-4259190</guid>
-  <pubDate>Thu, 26 Feb 2026 13:44:58 +0000</pubDate>
-  <description>Kingdom Rush 6: Genesis is a fantasy tower defense strategy game that takes you back in time to the early days of the Kingdom with bold new twists. Build towers, command heroes, and stop Vez’nan’s corruption before it tears the kingdom apart!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/9f7d11479e98db4e5798ed936ca69f1ebb5cebe4/header.jpg?t=1772109788" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/9f7d11479e98db4e5798ed936ca69f1ebb5cebe4/header.jpg?t=1772109788" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/9f7d11479e98db4e5798ed936ca69f1ebb5cebe4/header.jpg?t=1772109788" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4259190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/9f7d11479e98db4e5798ed936ca69f1ebb5cebe4/header.jpg?t=1772109788" alt="Kingdom Rush 6: Genesis TD（新規追加）" /></a></p><p>Kingdom Rush 6: Genesis is a fantasy tower defense strategy game that takes you back in time to the early days of the Kingdom with bold new twists. Build towers, command heroes, and stop Vez’nan’s corruption before it tears the kingdom apart!</p><p><a href="https://store.steampowered.com/app/4259190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
