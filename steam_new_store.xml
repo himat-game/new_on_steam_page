@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Feb 2026 13:56:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 14:21:43 +0000</lastBuildDate>
+<item>
+  <title>A Short Quest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4351810/</link>
+  <guid isPermaLink="false">steam-store-published-4351810</guid>
+  <pubDate>Sat, 28 Feb 2026 14:21:43 +0000</pubDate>
+  <description>Explore a hand-crafted world, overcome brutally challenging combat, and restore order to a broken kingdom. Discover many unique weapons, tools, spells, and secrets in this short game inspired by old school action RPGs.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351810/bb56e1fd8258dc18b318a1fb2c477bc7513a8637/header.jpg?t=1772288017" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351810/bb56e1fd8258dc18b318a1fb2c477bc7513a8637/header.jpg?t=1772288017" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351810/bb56e1fd8258dc18b318a1fb2c477bc7513a8637/header.jpg?t=1772288017" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4351810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351810/bb56e1fd8258dc18b318a1fb2c477bc7513a8637/header.jpg?t=1772288017" alt="A Short Quest（新規追加）" /></a></p><p>Explore a hand-crafted world, overcome brutally challenging combat, and restore order to a broken kingdom. Discover many unique weapons, tools, spells, and secrets in this short game inspired by old school action RPGs.</p><p><a href="https://store.steampowered.com/app/4351810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Gloom Hunters（新規追加）</title>
   <link>https://store.steampowered.com/app/4465520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380770/d8121fcd3e068b6c5194b5bf5d128e37a7717dc9/header.jpg?t=1772116343" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380770/d8121fcd3e068b6c5194b5bf5d128e37a7717dc9/header.jpg?t=1772116343" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4380770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380770/d8121fcd3e068b6c5194b5bf5d128e37a7717dc9/header.jpg?t=1772116343" alt="Balls &amp; Gamble（新規追加）" /></a></p><p>Balls &amp;amp; Gamble is a short incremental game where you shoot red nodes with your balls, earn money, buy upgrades, gamble in the casino, unlock new balls, and eventually break reality itself.</p><p><a href="https://store.steampowered.com/app/4380770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ZenType（新規追加）</title>
-  <link>https://store.steampowered.com/app/4456640/</link>
-  <guid isPermaLink="false">steam-store-published-4456640</guid>
-  <pubDate>Thu, 26 Feb 2026 13:44:58 +0000</pubDate>
-  <description>ZenType is a minimalist typing performance game where discipline meets speed. Train across focused modes, refine precision, and master the rhythm of the keyboard in a distraction-free dojo. Break bad habits, climb global leaderboards, and find your flow through immersive lofi atmosphere.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456640/c9d59950cce5cb81aeec0b073728a71ca38d38e9/header.jpg?t=1772113029" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456640/c9d59950cce5cb81aeec0b073728a71ca38d38e9/header.jpg?t=1772113029" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456640/c9d59950cce5cb81aeec0b073728a71ca38d38e9/header.jpg?t=1772113029" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4456640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456640/c9d59950cce5cb81aeec0b073728a71ca38d38e9/header.jpg?t=1772113029" alt="ZenType（新規追加）" /></a></p><p>ZenType is a minimalist typing performance game where discipline meets speed. Train across focused modes, refine precision, and master the rhythm of the keyboard in a distraction-free dojo. Break bad habits, climb global leaderboards, and find your flow through immersive lofi atmosphere.</p><p><a href="https://store.steampowered.com/app/4456640/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
