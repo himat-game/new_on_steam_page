@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Mar 2026 07:54:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 08:58:53 +0000</lastBuildDate>
+<item>
+  <title>Ghostify（新規追加）</title>
+  <link>https://store.steampowered.com/app/4456880/</link>
+  <guid isPermaLink="false">steam-store-published-4456880</guid>
+  <pubDate>Sun, 01 Mar 2026 08:58:53 +0000</pubDate>
+  <description>Ghostify — an incremental game where ghosts are everywhere! Blow them away to collect resources, find rare artifacts and unlock new ghost types. Level up your upgrade tree to blow ghosts faster and more efficiently.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456880/289841edba8d2d2ef942f7eae16dc1de87902651/header.jpg?t=1772355213" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456880/289841edba8d2d2ef942f7eae16dc1de87902651/header.jpg?t=1772355213" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456880/289841edba8d2d2ef942f7eae16dc1de87902651/header.jpg?t=1772355213" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4456880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456880/289841edba8d2d2ef942f7eae16dc1de87902651/header.jpg?t=1772355213" alt="Ghostify（新規追加）" /></a></p><p>Ghostify — an incremental game where ghosts are everywhere! Blow them away to collect resources, find rare artifacts and unlock new ghost types. Level up your upgrade tree to blow ghosts faster and more efficiently.</p><p><a href="https://store.steampowered.com/app/4456880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Protocol 86: Chernobyl（新規追加）</title>
+  <link>https://store.steampowered.com/app/4250500/</link>
+  <guid isPermaLink="false">steam-store-published-4250500</guid>
+  <pubDate>Sun, 01 Mar 2026 08:58:53 +0000</pubDate>
+  <description>A terminal-driven psychological horror puzzle set in a secret Soviet underground research facility built after the 1986 Chernobyl disaster. Survive in procedurally shifting sectors using only the terminal. Type ‘help’ to begin.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250500/22490ad67198cfeea4117ae66fa153e74dff45e0/header.jpg?t=1772353988" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250500/22490ad67198cfeea4117ae66fa153e74dff45e0/header.jpg?t=1772353988" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250500/22490ad67198cfeea4117ae66fa153e74dff45e0/header.jpg?t=1772353988" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4250500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4250500/22490ad67198cfeea4117ae66fa153e74dff45e0/header.jpg?t=1772353988" alt="Protocol 86: Chernobyl（新規追加）" /></a></p><p>A terminal-driven psychological horror puzzle set in a secret Soviet underground research facility built after the 1986 Chernobyl disaster. Survive in procedurally shifting sectors using only the terminal. Type ‘help’ to begin.</p><p><a href="https://store.steampowered.com/app/4250500/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Elise and the Spellbinding Marionette（新規追加）</title>
   <link>https://store.steampowered.com/app/4237200/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412510/d1ff4ce46f2f5e1533d85e5e5bcfb504ce893c56/header.jpg?t=1772132204" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412510/d1ff4ce46f2f5e1533d85e5e5bcfb504ce893c56/header.jpg?t=1772132204" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4412510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412510/d1ff4ce46f2f5e1533d85e5e5bcfb504ce893c56/header.jpg?t=1772132204" alt="Sacred Echoes（新規追加）" /></a></p><p>Sacred Echoes is a story focused action adventure game with souls like combat and elements. Battle through challenging bosses or find secrets hidden deep in castles. You never know what you&#x27;ll find next in The Shattered Lands.</p><p><a href="https://store.steampowered.com/app/4412510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Meepie（新規追加）</title>
-  <link>https://store.steampowered.com/app/4235490/</link>
-  <guid isPermaLink="false">steam-store-published-4235490</guid>
-  <pubDate>Thu, 26 Feb 2026 19:42:01 +0000</pubDate>
-  <description>Meepie is a tiny, fluffy adventurer on a mission to rescue his fellow Meepies. Guide him through ice, fire, bombs, lasers, and other mischievous traps in a series of fast, clever, and compact challenges.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235490/080cce41eed76cedb8edf08c15ca6f3a0370432e/header.jpg?t=1772132369" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235490/080cce41eed76cedb8edf08c15ca6f3a0370432e/header.jpg?t=1772132369" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235490/080cce41eed76cedb8edf08c15ca6f3a0370432e/header.jpg?t=1772132369" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4235490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235490/080cce41eed76cedb8edf08c15ca6f3a0370432e/header.jpg?t=1772132369" alt="Meepie（新規追加）" /></a></p><p>Meepie is a tiny, fluffy adventurer on a mission to rescue his fellow Meepies. Guide him through ice, fire, bombs, lasers, and other mischievous traps in a series of fast, clever, and compact challenges.</p><p><a href="https://store.steampowered.com/app/4235490/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>STAGE TOUR（新規追加）</title>
-  <link>https://store.steampowered.com/app/4452700/</link>
-  <guid isPermaLink="false">steam-store-published-4452700</guid>
-  <pubDate>Thu, 26 Feb 2026 19:42:01 +0000</pubDate>
-  <description>Stage Tour is a rhythm-action game that blends familiar, accessible note-highway gameplay with exciting modern twists. It’s poised to rekindle the flame of plastic-instrument rhythm gaming with new features and modes, diverse bandmates and instruments, competitive depth, and seasonal events.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452700/0bc15634ab643670224c71d673dd8640600a0e09/header.jpg?t=1772134277" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452700/0bc15634ab643670224c71d673dd8640600a0e09/header.jpg?t=1772134277" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452700/0bc15634ab643670224c71d673dd8640600a0e09/header.jpg?t=1772134277" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4452700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452700/0bc15634ab643670224c71d673dd8640600a0e09/header.jpg?t=1772134277" alt="STAGE TOUR（新規追加）" /></a></p><p>Stage Tour is a rhythm-action game that blends familiar, accessible note-highway gameplay with exciting modern twists. It’s poised to rekindle the flame of plastic-instrument rhythm gaming with new features and modes, diverse bandmates and instruments, competitive depth, and seasonal events.</p><p><a href="https://store.steampowered.com/app/4452700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
