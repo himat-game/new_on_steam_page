@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Mar 2026 22:20:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 22:54:20 +0000</lastBuildDate>
+<item>
+  <title>Ultra Form Alpha（新規追加）</title>
+  <link>https://store.steampowered.com/app/4408490/</link>
+  <guid isPermaLink="false">steam-store-published-4408490</guid>
+  <pubDate>Sun, 01 Mar 2026 22:54:20 +0000</pubDate>
+  <description>A short single player fps shooter game. Simply take your weapon and make it to the end. Enjoy the chaos and action.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408490/0b8f92e1c2a7031c601bbeaa3fde973b78b67fdb/header.jpg?t=1772405135" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408490/0b8f92e1c2a7031c601bbeaa3fde973b78b67fdb/header.jpg?t=1772405135" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408490/0b8f92e1c2a7031c601bbeaa3fde973b78b67fdb/header.jpg?t=1772405135" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4408490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408490/0b8f92e1c2a7031c601bbeaa3fde973b78b67fdb/header.jpg?t=1772405135" alt="Ultra Form Alpha（新規追加）" /></a></p><p>A short single player fps shooter game. Simply take your weapon and make it to the end. Enjoy the chaos and action.</p><p><a href="https://store.steampowered.com/app/4408490/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>101 Cats Hidden in Saint Petersburg（新規追加）</title>
   <link>https://store.steampowered.com/app/4422770/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174910/edc1a7c1b0ac6acb880e890be575ce31ad6cfea5/header.jpg?t=1772147392" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174910/edc1a7c1b0ac6acb880e890be575ce31ad6cfea5/header.jpg?t=1772147392" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4174910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174910/edc1a7c1b0ac6acb880e890be575ce31ad6cfea5/header.jpg?t=1772147392" alt="Horny Waifu: Kaiju Strike（新規追加）" /></a></p><p>HW:KSH is a thrilling fantasy adventure packed with epic and hot Waifu. Collect the sexiest Waifus to crush monstrous enemies hell-bent on plunging the world into eternal darkness. Stunning 3D graphics, an immersive storyline, PvP/PvE combats, guilds, and a few extra spicy surprises along the way!</p><p><a href="https://store.steampowered.com/app/4174910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Asili Forest Gold（新規追加）</title>
-  <link>https://store.steampowered.com/app/4394110/</link>
-  <guid isPermaLink="false">steam-store-published-4394110</guid>
-  <pubDate>Thu, 26 Feb 2026 23:47:38 +0000</pubDate>
-  <description>Asili Forest Gold is a game about exploration and mining in multiple environments. Pick a mission or contract.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394110/b473e0603d82860b93a54fea0b50110c9ab29709/header.jpg?t=1772147110" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394110/b473e0603d82860b93a54fea0b50110c9ab29709/header.jpg?t=1772147110" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394110/b473e0603d82860b93a54fea0b50110c9ab29709/header.jpg?t=1772147110" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4394110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394110/b473e0603d82860b93a54fea0b50110c9ab29709/header.jpg?t=1772147110" alt="Asili Forest Gold（新規追加）" /></a></p><p>Asili Forest Gold is a game about exploration and mining in multiple environments. Pick a mission or contract.</p><p><a href="https://store.steampowered.com/app/4394110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
