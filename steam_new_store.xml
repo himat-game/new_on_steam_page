@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Mar 2026 15:20:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 16:24:03 +0000</lastBuildDate>
+<item>
+  <title>Neon Bullet（新規追加）</title>
+  <link>https://store.steampowered.com/app/4443810/</link>
+  <guid isPermaLink="false">steam-store-published-4443810</guid>
+  <pubDate>Sun, 01 Mar 2026 16:24:03 +0000</pubDate>
+  <description>A minimal top-down shooter tower defense experience. Survive endless waves in pure cube chaos, and grow stronger through run-based, build-focused progression against escalating difficulty and bosses.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443810/aa65244ef2b807b49087c4847ee871d08f55e8d8/header.jpg?t=1772381588" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443810/aa65244ef2b807b49087c4847ee871d08f55e8d8/header.jpg?t=1772381588" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443810/aa65244ef2b807b49087c4847ee871d08f55e8d8/header.jpg?t=1772381588" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4443810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443810/aa65244ef2b807b49087c4847ee871d08f55e8d8/header.jpg?t=1772381588" alt="Neon Bullet（新規追加）" /></a></p><p>A minimal top-down shooter tower defense experience. Survive endless waves in pure cube chaos, and grow stronger through run-based, build-focused progression against escalating difficulty and bosses.</p><p><a href="https://store.steampowered.com/app/4443810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hengor 2（新規追加）</title>
   <link>https://store.steampowered.com/app/4455450/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457600/48b9768bc2ba5112b7840349bb23acbb215a97c1/header.jpg?t=1772144329" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457600/48b9768bc2ba5112b7840349bb23acbb215a97c1/header.jpg?t=1772144329" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4457600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457600/48b9768bc2ba5112b7840349bb23acbb215a97c1/header.jpg?t=1772144329" alt="Colonial Winds（新規追加）" /></a></p><p>Grow your colony from a small outpost into a thriving nation in this city-building game. Step into the shoes of a colonial governor as you build production chains, establish trade, meet the needs of your citizens, and guide your settlement toward self-rule.</p><p><a href="https://store.steampowered.com/app/4457600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Speed Boom（新規追加）</title>
-  <link>https://store.steampowered.com/app/4233990/</link>
-  <guid isPermaLink="false">steam-store-published-4233990</guid>
-  <pubDate>Thu, 26 Feb 2026 22:30:25 +0000</pubDate>
-  <description>Do you know what&#x27;s better than driving fast? driving fast with style! This is all about trying to be the best, rallying, high speed drifting and conquering the global leaderboards.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233990/15e05b3e09443e0c87b00ab3d098bada6bb2a425/header.jpg?t=1772144208" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233990/15e05b3e09443e0c87b00ab3d098bada6bb2a425/header.jpg?t=1772144208" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233990/15e05b3e09443e0c87b00ab3d098bada6bb2a425/header.jpg?t=1772144208" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4233990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233990/15e05b3e09443e0c87b00ab3d098bada6bb2a425/header.jpg?t=1772144208" alt="Speed Boom（新規追加）" /></a></p><p>Do you know what&#x27;s better than driving fast? driving fast with style! This is all about trying to be the best, rallying, high speed drifting and conquering the global leaderboards.</p><p><a href="https://store.steampowered.com/app/4233990/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
