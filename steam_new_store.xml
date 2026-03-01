@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 01 Mar 2026 10:54:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Mar 2026 11:17:43 +0000</lastBuildDate>
+<item>
+  <title>Daydream Drifters（新規追加）</title>
+  <link>https://store.steampowered.com/app/4453930/</link>
+  <guid isPermaLink="false">steam-store-published-4453930</guid>
+  <pubDate>Sun, 01 Mar 2026 11:17:43 +0000</pubDate>
+  <description>Dungeons, enemies, items — everything is randomly generated in this roguelike stealth horror. As events occur over time, hiding alone is not enough—you must be ready to fight. Explore three seamlessly connected random dungeons and survive the daydream. And when you awaken, what will you see…?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453930/8cedf94dbeca0a472cec80de75968be00711366c/header.jpg?t=1772363304" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453930/8cedf94dbeca0a472cec80de75968be00711366c/header.jpg?t=1772363304" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453930/8cedf94dbeca0a472cec80de75968be00711366c/header.jpg?t=1772363304" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4453930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453930/8cedf94dbeca0a472cec80de75968be00711366c/header.jpg?t=1772363304" alt="Daydream Drifters（新規追加）" /></a></p><p>Dungeons, enemies, items — everything is randomly generated in this roguelike stealth horror. As events occur over time, hiding alone is not enough—you must be ready to fight. Explore three seamlessly connected random dungeons and survive the daydream. And when you awaken, what will you see…?</p><p><a href="https://store.steampowered.com/app/4453930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Privacy Not Included - A Motel Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4324330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550480/21708d997ce280d700d70c00f8fb1ecac5c600d3/header.jpg?t=1772140877" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550480/21708d997ce280d700d70c00f8fb1ecac5c600d3/header.jpg?t=1772140877" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3550480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550480/21708d997ce280d700d70c00f8fb1ecac5c600d3/header.jpg?t=1772140877" alt="Fraud Simulator（新規追加）" /></a></p><p>Take over the coastal town of Faircombe one scam at a time!</p><p><a href="https://store.steampowered.com/app/3550480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Checkpoint 19（新規追加）</title>
-  <link>https://store.steampowered.com/app/4426690/</link>
-  <guid isPermaLink="false">steam-store-published-4426690</guid>
-  <pubDate>Thu, 26 Feb 2026 21:47:30 +0000</pubDate>
-  <description>Checkpoint 19 is a border control tycoon where every decision balances speed and security. Build, optimize, and manage a high-pressure checkpoint where flow must never stop and risk never disappears.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426690/94157a4bb495a09832c8644887f7a59a55d9bb49/header.jpg?t=1772141394" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426690/94157a4bb495a09832c8644887f7a59a55d9bb49/header.jpg?t=1772141394" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426690/94157a4bb495a09832c8644887f7a59a55d9bb49/header.jpg?t=1772141394" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4426690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426690/94157a4bb495a09832c8644887f7a59a55d9bb49/header.jpg?t=1772141394" alt="Checkpoint 19（新規追加）" /></a></p><p>Checkpoint 19 is a border control tycoon where every decision balances speed and security. Build, optimize, and manage a high-pressure checkpoint where flow must never stop and risk never disappears.</p><p><a href="https://store.steampowered.com/app/4426690/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
