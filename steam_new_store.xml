@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 02 Mar 2026 10:08:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 11:04:47 +0000</lastBuildDate>
+<item>
+  <title>The Archaeologists（新規追加）</title>
+  <link>https://store.steampowered.com/app/4168320/</link>
+  <guid isPermaLink="false">steam-store-published-4168320</guid>
+  <pubDate>Mon, 02 Mar 2026 11:04:47 +0000</pubDate>
+  <description>The Archaeologists is a single-player settlement builder. Establish multiple settlements through manufacturing and trade. Raise great structures across the mountain to link them into one interconnected economy. Dig into the rock to unearth valuable artifacts and uncover a forgotten past.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4168320/6f87017580b46f48d4e8005107ee85f598828733/header.jpg?t=1772448903" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4168320/6f87017580b46f48d4e8005107ee85f598828733/header.jpg?t=1772448903" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4168320/6f87017580b46f48d4e8005107ee85f598828733/header.jpg?t=1772448903" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4168320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4168320/6f87017580b46f48d4e8005107ee85f598828733/header.jpg?t=1772448903" alt="The Archaeologists（新規追加）" /></a></p><p>The Archaeologists is a single-player settlement builder. Establish multiple settlements through manufacturing and trade. Raise great structures across the mountain to link them into one interconnected economy. Dig into the rock to unearth valuable artifacts and uncover a forgotten past.</p><p><a href="https://store.steampowered.com/app/4168320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Skirmish Game Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/3203950/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446940/c8a204c693400255b8345470213f2ac39975f416/header.jpg?t=1772150812" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446940/c8a204c693400255b8345470213f2ac39975f416/header.jpg?t=1772150812" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4446940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446940/c8a204c693400255b8345470213f2ac39975f416/header.jpg?t=1772150812" alt="The Dream Sequence（新規追加）" /></a></p><p>Solve these unique handcrafted puzzles, some of which are inspired by dreams.</p><p><a href="https://store.steampowered.com/app/4446940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Breach Squad（新規追加）</title>
-  <link>https://store.steampowered.com/app/4428090/</link>
-  <guid isPermaLink="false">steam-store-published-4428090</guid>
-  <pubDate>Fri, 27 Feb 2026 01:50:15 +0000</pubDate>
-  <description>Breach. Fight. Loot. Repeat... Breach Squad is a top-down sci-fi auto-combat roguelike RPG built around corridor breaches. Your squad fights on its own - you command, manage loot, and grow marines permanently… But if they die, they’re gone.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428090/8d33b5068d9dfa80c88869fe6b1228ed2a539a0f/header.jpg?t=1772152604" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428090/8d33b5068d9dfa80c88869fe6b1228ed2a539a0f/header.jpg?t=1772152604" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428090/8d33b5068d9dfa80c88869fe6b1228ed2a539a0f/header.jpg?t=1772152604" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4428090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428090/8d33b5068d9dfa80c88869fe6b1228ed2a539a0f/header.jpg?t=1772152604" alt="Breach Squad（新規追加）" /></a></p><p>Breach. Fight. Loot. Repeat... Breach Squad is a top-down sci-fi auto-combat roguelike RPG built around corridor breaches. Your squad fights on its own - you command, manage loot, and grow marines permanently… But if they die, they’re gone.</p><p><a href="https://store.steampowered.com/app/4428090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
