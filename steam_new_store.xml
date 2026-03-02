@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 02 Mar 2026 21:51:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 22:24:01 +0000</lastBuildDate>
+<item>
+  <title>Eat Or Keep（新規追加）</title>
+  <link>https://store.steampowered.com/app/4456560/</link>
+  <guid isPermaLink="false">steam-store-published-4456560</guid>
+  <pubDate>Mon, 02 Mar 2026 22:24:01 +0000</pubDate>
+  <description>In a dying city ruled by uncontrollable magic, every resource is a choice: consume it to grow stronger, or preserve it to survive. Eat Or Keep is a challenging 2D Metroidvania with strong rogue-lite elements. Explore, fight, fall… and rise again.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456560/c6bc3147745303b27c72c16e86bb974382d46f08/header.jpg?t=1772490183" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456560/c6bc3147745303b27c72c16e86bb974382d46f08/header.jpg?t=1772490183" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456560/c6bc3147745303b27c72c16e86bb974382d46f08/header.jpg?t=1772490183" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4456560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456560/c6bc3147745303b27c72c16e86bb974382d46f08/header.jpg?t=1772490183" alt="Eat Or Keep（新規追加）" /></a></p><p>In a dying city ruled by uncontrollable magic, every resource is a choice: consume it to grow stronger, or preserve it to survive. Eat Or Keep is a challenging 2D Metroidvania with strong rogue-lite elements. Explore, fight, fall… and rise again.</p><p><a href="https://store.steampowered.com/app/4456560/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>KINGLING: An Adventure Through Realms（新規追加）</title>
   <link>https://store.steampowered.com/app/4465360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401420/cc2b431990cefbc7f3935bf4eb46c90b4151b19a/header.jpg?t=1772198996" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401420/cc2b431990cefbc7f3935bf4eb46c90b4151b19a/header.jpg?t=1772198996" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4401420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401420/cc2b431990cefbc7f3935bf4eb46c90b4151b19a/header.jpg?t=1772198996" alt="The Eighth Squad（新規追加）" /></a></p><p>A dark fantasy squad-builder where units are living cards. Draft recruits, shape your build, and stack synergies, then watch real-time auto-battles play out. Meta progression carries over, so every run starts stronger and goes deeper.</p><p><a href="https://store.steampowered.com/app/4401420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dice&#x27;n&#x27;Go（新規追加）</title>
-  <link>https://store.steampowered.com/app/4321670/</link>
-  <guid isPermaLink="false">steam-store-published-4321670</guid>
-  <pubDate>Fri, 27 Feb 2026 14:06:12 +0000</pubDate>
-  <description>Dice’n’Go is a fast-paced turn-based tactical board game where players use dice rolls and unique class abilities to outmaneuver opponents on a dynamic tile-based arena. Choose your hero, control positioning, manage cooldowns, and outplay your rivals in competitive online matches.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321670/74480538c5f6bc477a6aabef5b8e64d504d2b394/header.jpg?t=1772198592" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321670/74480538c5f6bc477a6aabef5b8e64d504d2b394/header.jpg?t=1772198592" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321670/74480538c5f6bc477a6aabef5b8e64d504d2b394/header.jpg?t=1772198592" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4321670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321670/74480538c5f6bc477a6aabef5b8e64d504d2b394/header.jpg?t=1772198592" alt="Dice&#x27;n&#x27;Go（新規追加）" /></a></p><p>Dice’n’Go is a fast-paced turn-based tactical board game where players use dice rolls and unique class abilities to outmaneuver opponents on a dynamic tile-based arena. Choose your hero, control positioning, manage cooldowns, and outplay your rivals in competitive online matches.</p><p><a href="https://store.steampowered.com/app/4321670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
