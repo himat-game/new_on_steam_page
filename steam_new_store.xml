@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 02 Mar 2026 01:53:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 04:12:20 +0000</lastBuildDate>
+<item>
+  <title>Don&#x27;t Split: The Party（新規追加）</title>
+  <link>https://store.steampowered.com/app/4187180/</link>
+  <guid isPermaLink="false">steam-store-published-4187180</guid>
+  <pubDate>Mon, 02 Mar 2026 04:12:20 +0000</pubDate>
+  <description>A fantasy roguelike RPG strategy with autobattles. Create and combine synergetic adventures on the global map. Level up your heroes through tactical battles and dialogue choices. Explore a dying world and wield the Dungeon Master&#x27;s power to rewrite its rules.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187180/7e3ffad5fc091d098e0ea80a401a06388e7459a1/header.jpg?t=1772417350" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187180/7e3ffad5fc091d098e0ea80a401a06388e7459a1/header.jpg?t=1772417350" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187180/7e3ffad5fc091d098e0ea80a401a06388e7459a1/header.jpg?t=1772417350" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4187180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4187180/7e3ffad5fc091d098e0ea80a401a06388e7459a1/header.jpg?t=1772417350" alt="Don&#x27;t Split: The Party（新規追加）" /></a></p><p>A fantasy roguelike RPG strategy with autobattles. Create and combine synergetic adventures on the global map. Level up your heroes through tactical battles and dialogue choices. Explore a dying world and wield the Dungeon Master&#x27;s power to rewrite its rules.</p><p><a href="https://store.steampowered.com/app/4187180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>EGGCONSOLE ZANAC EX MSX2（新規追加）</title>
   <link>https://store.steampowered.com/app/4402830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211370/358bcf5cd3329b68d5e164c2ae8a6e929044333e/header.jpg?t=1772153395" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211370/358bcf5cd3329b68d5e164c2ae8a6e929044333e/header.jpg?t=1772153395" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4211370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211370/358bcf5cd3329b68d5e164c2ae8a6e929044333e/header.jpg?t=1772153395" alt="Battle Live! The Idol School Collection（新規追加）" /></a></p><p>Welcome to Pride Park! Experience six main stories and several bonus stories centered around the staff and students of this eclectic idol school in this episodic, slice-of-life visual novel!</p><p><a href="https://store.steampowered.com/app/4211370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ever Roach（新規追加）</title>
-  <link>https://store.steampowered.com/app/4458820/</link>
-  <guid isPermaLink="false">steam-store-published-4458820</guid>
-  <pubDate>Thu, 26 Feb 2026 23:47:38 +0000</pubDate>
-  <description>Play as a cockroach climbing toward The Bright in this short, hand-drawn 2D precision platformer. Master double jumps, glides, and wall-climbs through tightly designed levels. Collect optional spores on harder paths and complete the ascent before your 100 lives run out.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458820/83cf5373a301e0643ef999a5a117a7f7b79b5670/header.jpg?t=1772148699" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458820/83cf5373a301e0643ef999a5a117a7f7b79b5670/header.jpg?t=1772148699" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458820/83cf5373a301e0643ef999a5a117a7f7b79b5670/header.jpg?t=1772148699" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4458820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458820/83cf5373a301e0643ef999a5a117a7f7b79b5670/header.jpg?t=1772148699" alt="Ever Roach（新規追加）" /></a></p><p>Play as a cockroach climbing toward The Bright in this short, hand-drawn 2D precision platformer. Master double jumps, glides, and wall-climbs through tightly designed levels. Collect optional spores on harder paths and complete the ascent before your 100 lives run out.</p><p><a href="https://store.steampowered.com/app/4458820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
