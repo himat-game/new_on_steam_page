@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 02 Mar 2026 05:31:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 06:34:32 +0000</lastBuildDate>
+<item>
+  <title>Monmusu Island（新規追加）</title>
+  <link>https://store.steampowered.com/app/4326550/</link>
+  <guid isPermaLink="false">steam-store-published-4326550</guid>
+  <pubDate>Mon, 02 Mar 2026 06:34:32 +0000</pubDate>
+  <description>A curse wipes out monsters on Monmusu Island, leaving only Neko, Usagi, and Ushi. To save the island, they summon an outsider—an ordinary, perverted but inexperienced human MC—to help restore normalcy.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326550/a67f4f5e82cbd6bb8ed106864274223656d04bf5/header.jpg?t=1772431312" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326550/a67f4f5e82cbd6bb8ed106864274223656d04bf5/header.jpg?t=1772431312" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326550/a67f4f5e82cbd6bb8ed106864274223656d04bf5/header.jpg?t=1772431312" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4326550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326550/a67f4f5e82cbd6bb8ed106864274223656d04bf5/header.jpg?t=1772431312" alt="Monmusu Island（新規追加）" /></a></p><p>A curse wipes out monsters on Monmusu Island, leaving only Neko, Usagi, and Ushi. To save the island, they summon an outsider—an ordinary, perverted but inexperienced human MC—to help restore normalcy.</p><p><a href="https://store.steampowered.com/app/4326550/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Wizard Cleaning Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4431630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354840/6d4346beb63ff98235389599440f807abae9732a/header.jpg?t=1772149791" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354840/6d4346beb63ff98235389599440f807abae9732a/header.jpg?t=1772149791" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4354840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354840/6d4346beb63ff98235389599440f807abae9732a/header.jpg?t=1772149791" alt="BeyondHelix（新規追加）" /></a></p><p>Another day, another data retrieval job. Or is it? Using a linux-like terminal, explore BeyondHelix&#x27;s systems and uncover what led to the company&#x27;s demise.</p><p><a href="https://store.steampowered.com/app/4354840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Clockwork Hearts（新規追加）</title>
-  <link>https://store.steampowered.com/app/4439520/</link>
-  <guid isPermaLink="false">steam-store-published-4439520</guid>
-  <pubDate>Fri, 27 Feb 2026 01:50:15 +0000</pubDate>
-  <description>Clockwork Hearts is an adult romance visual novel about a grieving young man who inherits a pocket watch that fractures time. Enter supernatural loops where three women relive their worst moments. Choose one echo, follow one woman through grief, desire, and the terrifying act of letting go.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439520/3ae6cb2927e2718b1c5efc99f9c0f563d8452319/header.jpg?t=1772154570" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439520/3ae6cb2927e2718b1c5efc99f9c0f563d8452319/header.jpg?t=1772154570" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439520/3ae6cb2927e2718b1c5efc99f9c0f563d8452319/header.jpg?t=1772154570" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4439520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439520/3ae6cb2927e2718b1c5efc99f9c0f563d8452319/header.jpg?t=1772154570" alt="Clockwork Hearts（新規追加）" /></a></p><p>Clockwork Hearts is an adult romance visual novel about a grieving young man who inherits a pocket watch that fractures time. Enter supernatural loops where three women relive their worst moments. Choose one echo, follow one woman through grief, desire, and the terrifying act of letting go.</p><p><a href="https://store.steampowered.com/app/4439520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
