@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 02 Mar 2026 11:04:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 12:53:00 +0000</lastBuildDate>
+<item>
+  <title>Undead Defense TD（新規追加）</title>
+  <link>https://store.steampowered.com/app/4454930/</link>
+  <guid isPermaLink="false">steam-store-published-4454930</guid>
+  <pubDate>Mon, 02 Mar 2026 12:53:00 +0000</pubDate>
+  <description>Zombies are coming! Build your defenses and expand your settlement to create a safe space for humanity. Use turrets, walls and light towers to keep the darkness safe. Expand your settlement to find abandoned settlements and additional resources.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4454930/19c35185f329cd8b248c4c418efdea27dcf7f230/header.jpg?t=1772453083" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4454930/19c35185f329cd8b248c4c418efdea27dcf7f230/header.jpg?t=1772453083" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4454930/19c35185f329cd8b248c4c418efdea27dcf7f230/header.jpg?t=1772453083" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4454930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4454930/19c35185f329cd8b248c4c418efdea27dcf7f230/header.jpg?t=1772453083" alt="Undead Defense TD（新規追加）" /></a></p><p>Zombies are coming! Build your defenses and expand your settlement to create a safe space for humanity. Use turrets, walls and light towers to keep the darkness safe. Expand your settlement to find abandoned settlements and additional resources.</p><p><a href="https://store.steampowered.com/app/4454930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Archaeologists（新規追加）</title>
   <link>https://store.steampowered.com/app/4168320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452840/3e24d04c60a9d352ddf9118bf46485a65325ff00/header.jpg?t=1772155514" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452840/3e24d04c60a9d352ddf9118bf46485a65325ff00/header.jpg?t=1772155514" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4452840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452840/3e24d04c60a9d352ddf9118bf46485a65325ff00/header.jpg?t=1772155514" alt="The Lighthouse Whispers（新規追加）" /></a></p><p>In this atmospheric, slow-burn horror, you must unravel the mystery of the disappearance of your fellow light keepers. Traverse the island&#x27;s rugged terrain, discover clues, and make your way through the eerie lighthouse to reveal the dark truth.</p><p><a href="https://store.steampowered.com/app/4452840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Dream Sequence（新規追加）</title>
-  <link>https://store.steampowered.com/app/4446940/</link>
-  <guid isPermaLink="false">steam-store-published-4446940</guid>
-  <pubDate>Fri, 27 Feb 2026 01:50:15 +0000</pubDate>
-  <description>Solve these unique handcrafted puzzles, some of which are inspired by dreams.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446940/c8a204c693400255b8345470213f2ac39975f416/header.jpg?t=1772150812" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446940/c8a204c693400255b8345470213f2ac39975f416/header.jpg?t=1772150812" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446940/c8a204c693400255b8345470213f2ac39975f416/header.jpg?t=1772150812" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4446940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446940/c8a204c693400255b8345470213f2ac39975f416/header.jpg?t=1772150812" alt="The Dream Sequence（新規追加）" /></a></p><p>Solve these unique handcrafted puzzles, some of which are inspired by dreams.</p><p><a href="https://store.steampowered.com/app/4446940/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
