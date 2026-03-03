@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 03 Mar 2026 21:58:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 22:37:04 +0000</lastBuildDate>
+<item>
+  <title>Compacted（新規追加）</title>
+  <link>https://store.steampowered.com/app/4453280/</link>
+  <guid isPermaLink="false">steam-store-published-4453280</guid>
+  <pubDate>Tue, 03 Mar 2026 22:37:04 +0000</pubDate>
+  <description>Your debt is crushing you, literally! Spin to survive in this turn based roguelike deckbuilder. Build insane symbol combos, trigger awesome jackpots, and push back relentless compactors before they close in!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453280/bd9c900f3a1e1929ad6aa66771bb6cbe36fc5154/header.jpg?t=1772576965" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453280/bd9c900f3a1e1929ad6aa66771bb6cbe36fc5154/header.jpg?t=1772576965" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453280/bd9c900f3a1e1929ad6aa66771bb6cbe36fc5154/header.jpg?t=1772576965" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4453280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453280/bd9c900f3a1e1929ad6aa66771bb6cbe36fc5154/header.jpg?t=1772576965" alt="Compacted（新規追加）" /></a></p><p>Your debt is crushing you, literally! Spin to survive in this turn based roguelike deckbuilder. Build insane symbol combos, trigger awesome jackpots, and push back relentless compactors before they close in!</p><p><a href="https://store.steampowered.com/app/4453280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mage On The Move（新規追加）</title>
   <link>https://store.steampowered.com/app/4375130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464910/dcd6d9a86c8b78b3ad7a16f40071d972479bd9e6/header.jpg?t=1772299980" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464910/dcd6d9a86c8b78b3ad7a16f40071d972479bd9e6/header.jpg?t=1772299980" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4464910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464910/dcd6d9a86c8b78b3ad7a16f40071d972479bd9e6/header.jpg?t=1772299980" alt="CoraCreaCrafts Games（新規追加）" /></a></p><p>Play 5 crafty games: Alchemy, Jigsaw, Memory, Appraisal &amp;amp; Fortune. Unlock achievements and climb the leaderboards.</p><p><a href="https://store.steampowered.com/app/4464910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RealmGuard（新規追加）</title>
-  <link>https://store.steampowered.com/app/4406850/</link>
-  <guid isPermaLink="false">steam-store-published-4406850</guid>
-  <pubDate>Sat, 28 Feb 2026 17:54:06 +0000</pubDate>
-  <description>Realmguard is a rogue-like tower defense where every run is a strategic balancing act of expansion and elemental strategy. Expand the map tile by tile, uncover random encounters and hidden rewards, upgrade weapons and combine elemental effects for powerful synergies to survive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406850/584537c3f16250c9d5270c534ea2c2253a0b2c4c/header.jpg?t=1772300546" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406850/584537c3f16250c9d5270c534ea2c2253a0b2c4c/header.jpg?t=1772300546" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406850/584537c3f16250c9d5270c534ea2c2253a0b2c4c/header.jpg?t=1772300546" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4406850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406850/584537c3f16250c9d5270c534ea2c2253a0b2c4c/header.jpg?t=1772300546" alt="RealmGuard（新規追加）" /></a></p><p>Realmguard is a rogue-like tower defense where every run is a strategic balancing act of expansion and elemental strategy. Expand the map tile by tile, uncover random encounters and hidden rewards, upgrade weapons and combine elemental effects for powerful synergies to survive.</p><p><a href="https://store.steampowered.com/app/4406850/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
