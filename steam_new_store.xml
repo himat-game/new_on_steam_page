@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 04 Mar 2026 09:07:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Mar 2026 09:59:03 +0000</lastBuildDate>
+<item>
+  <title>Culck By DayLight（新規追加）</title>
+  <link>https://store.steampowered.com/app/4163990/</link>
+  <guid isPermaLink="false">steam-store-published-4163990</guid>
+  <pubDate>Wed, 04 Mar 2026 09:59:03 +0000</pubDate>
+  <description>Cluck by Daylight​ is a PvE top-down shooter. You control a chicken surviving in a world full of zombies and enemies. Scavenge for resources, arm yourself in this broken world, and ultimately escape this place.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163990/61a9e39192aa0441b7dbe16bfb3a74ed6c443e03/header.jpg?t=1772617726" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163990/61a9e39192aa0441b7dbe16bfb3a74ed6c443e03/header.jpg?t=1772617726" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163990/61a9e39192aa0441b7dbe16bfb3a74ed6c443e03/header.jpg?t=1772617726" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4163990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163990/61a9e39192aa0441b7dbe16bfb3a74ed6c443e03/header.jpg?t=1772617726" alt="Culck By DayLight（新規追加）" /></a></p><p>Cluck by Daylight​ is a PvE top-down shooter. You control a chicken surviving in a world full of zombies and enemies. Scavenge for resources, arm yourself in this broken world, and ultimately escape this place.</p><p><a href="https://store.steampowered.com/app/4163990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bigfoot Hunting（新規追加）</title>
   <link>https://store.steampowered.com/app/4413360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133920/d16f1a4b74be8b58376613971bfe0d03d2a63532/header.jpg?t=1772388028" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133920/d16f1a4b74be8b58376613971bfe0d03d2a63532/header.jpg?t=1772388028" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4133920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133920/d16f1a4b74be8b58376613971bfe0d03d2a63532/header.jpg?t=1772388028" alt="Fruit Dream（新規追加）" /></a></p><p>Fruit Dream is a fruit-eating typing game. Let&#x27;s feed a girl who craves lots of fruit. The more you eat without making mistakes, the higher your score.</p><p><a href="https://store.steampowered.com/app/4133920/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Crazy Bike（新規追加）</title>
-  <link>https://store.steampowered.com/app/4476130/</link>
-  <guid isPermaLink="false">steam-store-published-4476130</guid>
-  <pubDate>Sun, 01 Mar 2026 18:29:20 +0000</pubDate>
-  <description>Race through the chaotic streets of New York in Crazy Bike, a modern reimagining of the arcade classic Crazy Courier. Deliver packages at breakneck speed, dodge traffic, pull off insane stunts, and master the art of urban biking in a fast-paced open city playground.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476130/b8fb63b19c31cd3c1937e63e158eac0459403b7a/header.jpg?t=1772388986" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476130/b8fb63b19c31cd3c1937e63e158eac0459403b7a/header.jpg?t=1772388986" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476130/b8fb63b19c31cd3c1937e63e158eac0459403b7a/header.jpg?t=1772388986" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4476130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476130/b8fb63b19c31cd3c1937e63e158eac0459403b7a/header.jpg?t=1772388986" alt="Crazy Bike（新規追加）" /></a></p><p>Race through the chaotic streets of New York in Crazy Bike, a modern reimagining of the arcade classic Crazy Courier. Deliver packages at breakneck speed, dodge traffic, pull off insane stunts, and master the art of urban biking in a fast-paced open city playground.</p><p><a href="https://store.steampowered.com/app/4476130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
