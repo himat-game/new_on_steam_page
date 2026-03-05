@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 05 Mar 2026 07:56:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 08:41:22 +0000</lastBuildDate>
+<item>
+  <title>Menorca Talaiotica（新規追加）</title>
+  <link>https://store.steampowered.com/app/4459670/</link>
+  <guid isPermaLink="false">steam-store-published-4459670</guid>
+  <pubDate>Thu, 05 Mar 2026 08:41:22 +0000</pubDate>
+  <description>Menorca Talaiotica is a strategy game where you will face the same problems as the first inhabitants of the island of Menorca; obtain natural resources, water, shelter, food and survive the calamities.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459670/9f7d9c66fea3c289393fcb7282b8c7ba6f281999/header.jpg?t=1772698624" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459670/9f7d9c66fea3c289393fcb7282b8c7ba6f281999/header.jpg?t=1772698624" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459670/9f7d9c66fea3c289393fcb7282b8c7ba6f281999/header.jpg?t=1772698624" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4459670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459670/9f7d9c66fea3c289393fcb7282b8c7ba6f281999/header.jpg?t=1772698624" alt="Menorca Talaiotica（新規追加）" /></a></p><p>Menorca Talaiotica is a strategy game where you will face the same problems as the first inhabitants of the island of Menorca; obtain natural resources, water, shelter, food and survive the calamities.</p><p><a href="https://store.steampowered.com/app/4459670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Guardian of the Nahual（新規追加）</title>
   <link>https://store.steampowered.com/app/4361150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444500/a25b824b5a20822d1b36626d43d008a4aa44aee1/header.jpg?t=1772555728" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444500/a25b824b5a20822d1b36626d43d008a4aa44aee1/header.jpg?t=1772555728" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4444500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444500/a25b824b5a20822d1b36626d43d008a4aa44aee1/header.jpg?t=1772555728" alt="FUTAHAMMER（新規追加）" /></a></p><p>In the grim darkness of the far future, the girls pack their own heavy artillery. A sci-fi parody arcade breaker where you smash heretical blocks to unlock explicit, uncensored futanari scenes. No diplomacy, no dialogue—just heavy metal physics and massive payloads.</p><p><a href="https://store.steampowered.com/app/4444500/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>voxelphalia（新規追加）</title>
-  <link>https://store.steampowered.com/app/4482700/</link>
-  <guid isPermaLink="false">steam-store-published-4482700</guid>
-  <pubDate>Tue, 03 Mar 2026 15:44:07 +0000</pubDate>
-  <description>Explore procedural worlds, gather resources, craft tools, and build anything you imagine in this theatrical voxel sandbox adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482700/d71d8d9b627e2b560816a83d7fbf29a2c40a8eec/header.jpg?t=1772551847" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482700/d71d8d9b627e2b560816a83d7fbf29a2c40a8eec/header.jpg?t=1772551847" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482700/d71d8d9b627e2b560816a83d7fbf29a2c40a8eec/header.jpg?t=1772551847" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4482700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482700/d71d8d9b627e2b560816a83d7fbf29a2c40a8eec/header.jpg?t=1772551847" alt="voxelphalia（新規追加）" /></a></p><p>Explore procedural worlds, gather resources, craft tools, and build anything you imagine in this theatrical voxel sandbox adventure.</p><p><a href="https://store.steampowered.com/app/4482700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
