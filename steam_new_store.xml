@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 06 Mar 2026 07:36:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 08:01:44 +0000</lastBuildDate>
+<item>
+  <title>Hands Of Hell（新規追加）</title>
+  <link>https://store.steampowered.com/app/4288180/</link>
+  <guid isPermaLink="false">steam-store-published-4288180</guid>
+  <pubDate>Fri, 06 Mar 2026 08:01:44 +0000</pubDate>
+  <description>Gamble your way through the eight Rings of Hell for the fate of your soul in this visual novel deckbuilder. Make friends and allies, build your deck, and maybe even fall in love as you face off against the Demon Lords of Hell.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288180/43c716cdea23e85c808b244ecc0dbd146f9a3efe/header.jpg?t=1772784007" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288180/43c716cdea23e85c808b244ecc0dbd146f9a3efe/header.jpg?t=1772784007" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288180/43c716cdea23e85c808b244ecc0dbd146f9a3efe/header.jpg?t=1772784007" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4288180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288180/43c716cdea23e85c808b244ecc0dbd146f9a3efe/header.jpg?t=1772784007" alt="Hands Of Hell（新規追加）" /></a></p><p>Gamble your way through the eight Rings of Hell for the fate of your soul in this visual novel deckbuilder. Make friends and allies, build your deck, and maybe even fall in love as you face off against the Demon Lords of Hell.</p><p><a href="https://store.steampowered.com/app/4288180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Last convoy（新規追加）</title>
   <link>https://store.steampowered.com/app/4396640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326430/0c0e6e5b84edb312f801210c2082170ef04aaeae/header.jpg?t=1772646721" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326430/0c0e6e5b84edb312f801210c2082170ef04aaeae/header.jpg?t=1772646721" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4326430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326430/0c0e6e5b84edb312f801210c2082170ef04aaeae/header.jpg?t=1772646721" alt="100 Mystic Cats（新規追加）" /></a></p><p>🐾 Join the cutest adventure in themed locations full of cats! 😻 Explore the charming hand-drawn artwork of special places and try to find 100 adorable cats hidden throughout the game. 🐈🕵️‍♂️ Can you find them all? 🕵️‍♂️🐈</p><p><a href="https://store.steampowered.com/app/4326430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>100 Archeology Cats（新規追加）</title>
-  <link>https://store.steampowered.com/app/4383040/</link>
-  <guid isPermaLink="false">steam-store-published-4383040</guid>
-  <pubDate>Wed, 04 Mar 2026 18:06:59 +0000</pubDate>
-  <description>🐾 Join the cutest adventure in themed locations full of cats! 😻 Explore the charming hand-drawn artwork of special places and try to find 100 adorable cats hidden throughout the game. 🐈🕵️‍♂️ Can you find them all? 🕵️‍♂️🐈</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383040/f4f62b1874061fb27688fc831bef14e3f9049a34/header.jpg?t=1772646733" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383040/f4f62b1874061fb27688fc831bef14e3f9049a34/header.jpg?t=1772646733" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383040/f4f62b1874061fb27688fc831bef14e3f9049a34/header.jpg?t=1772646733" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4383040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383040/f4f62b1874061fb27688fc831bef14e3f9049a34/header.jpg?t=1772646733" alt="100 Archeology Cats（新規追加）" /></a></p><p>🐾 Join the cutest adventure in themed locations full of cats! 😻 Explore the charming hand-drawn artwork of special places and try to find 100 adorable cats hidden throughout the game. 🐈🕵️‍♂️ Can you find them all? 🕵️‍♂️🐈</p><p><a href="https://store.steampowered.com/app/4383040/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
