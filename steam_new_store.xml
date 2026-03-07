@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 10:53:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 11:17:40 +0000</lastBuildDate>
+<item>
+  <title>Granblue Fantasy（新規追加）</title>
+  <link>https://store.steampowered.com/app/767320/</link>
+  <guid isPermaLink="false">steam-store-published-767320</guid>
+  <pubDate>Sat, 07 Mar 2026 11:17:40 +0000</pubDate>
+  <description>Set forth on a grand journey across boundless skies in this landmark RPG, featuring fully voiced characters brought to life by the iconic artistry of Hideo Minaba and music scored by legendary composer Nobuo Uematsu.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767320/3b65b8a82a07a5dfdc13060516c9f2a49d99e683/header.jpg?t=1772881205" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767320/3b65b8a82a07a5dfdc13060516c9f2a49d99e683/header.jpg?t=1772881205" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767320/3b65b8a82a07a5dfdc13060516c9f2a49d99e683/header.jpg?t=1772881205" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/767320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767320/3b65b8a82a07a5dfdc13060516c9f2a49d99e683/header.jpg?t=1772881205" alt="Granblue Fantasy（新規追加）" /></a></p><p>Set forth on a grand journey across boundless skies in this landmark RPG, featuring fully voiced characters brought to life by the iconic artistry of Hideo Minaba and music scored by legendary composer Nobuo Uematsu.</p><p><a href="https://store.steampowered.com/app/767320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>奥卡米亚的骑士（新規追加）</title>
   <link>https://store.steampowered.com/app/4285660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484870/f74e0f704327db067391cbf85ed1de94ebf3b892/header.jpg?t=1772724838" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484870/f74e0f704327db067391cbf85ed1de94ebf3b892/header.jpg?t=1772724838" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4484870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484870/f74e0f704327db067391cbf85ed1de94ebf3b892/header.jpg?t=1772724838" alt="Dwalm（新規追加）" /></a></p><p>Work your way through the city by day and navigate strange dreamscapes by night, exploring your memories and recalling what was lost. Dwalm is an adventure platformer that takes you through both childish dreams and traumatic memories alike.</p><p><a href="https://store.steampowered.com/app/4484870/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>:RECODED（新規追加）</title>
-  <link>https://store.steampowered.com/app/4484820/</link>
-  <guid isPermaLink="false">steam-store-published-4484820</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>A roguelike deckbuilder set in a glitching network where you build and upgrade your deck, fight enemies that telegraph their moves, and push through endlessly scaling difficulty with no run limit</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484820/8fe2d24cec4dca853aa3462969087d6f9add202c/header.jpg?t=1772725070" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484820/8fe2d24cec4dca853aa3462969087d6f9add202c/header.jpg?t=1772725070" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484820/8fe2d24cec4dca853aa3462969087d6f9add202c/header.jpg?t=1772725070" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4484820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484820/8fe2d24cec4dca853aa3462969087d6f9add202c/header.jpg?t=1772725070" alt=":RECODED（新規追加）" /></a></p><p>A roguelike deckbuilder set in a glitching network where you build and upgrade your deck, fight enemies that telegraph their moves, and push through endlessly scaling difficulty with no run limit</p><p><a href="https://store.steampowered.com/app/4484820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
