@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 10:20:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 10:53:14 +0000</lastBuildDate>
+<item>
+  <title>奥卡米亚的骑士（新規追加）</title>
+  <link>https://store.steampowered.com/app/4285660/</link>
+  <guid isPermaLink="false">steam-store-published-4285660</guid>
+  <pubDate>Sat, 07 Mar 2026 10:53:14 +0000</pubDate>
+  <description>A fantasy RPG themed around chemistry and alchemy. You trigger effective attacks by choosing the correct answers to chemistry questions .Explore mazes, collect materials, and craft quest items using chemical equations. Upgrade your skills, and finally complete the protagonist’s legendary story.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285660/3d14c622ac5f264b656c794c6190107e73018ce0/header.jpg?t=1772879271" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285660/3d14c622ac5f264b656c794c6190107e73018ce0/header.jpg?t=1772879271" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285660/3d14c622ac5f264b656c794c6190107e73018ce0/header.jpg?t=1772879271" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4285660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285660/3d14c622ac5f264b656c794c6190107e73018ce0/header.jpg?t=1772879271" alt="奥卡米亚的骑士（新規追加）" /></a></p><p>A fantasy RPG themed around chemistry and alchemy. You trigger effective attacks by choosing the correct answers to chemistry questions .Explore mazes, collect materials, and craft quest items using chemical equations. Upgrade your skills, and finally complete the protagonist’s legendary story.</p><p><a href="https://store.steampowered.com/app/4285660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Nexus Survivors（新規追加）</title>
   <link>https://store.steampowered.com/app/4460050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484820/8fe2d24cec4dca853aa3462969087d6f9add202c/header.jpg?t=1772725070" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484820/8fe2d24cec4dca853aa3462969087d6f9add202c/header.jpg?t=1772725070" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4484820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484820/8fe2d24cec4dca853aa3462969087d6f9add202c/header.jpg?t=1772725070" alt=":RECODED（新規追加）" /></a></p><p>A roguelike deckbuilder set in a glitching network where you build and upgrade your deck, fight enemies that telegraph their moves, and push through endlessly scaling difficulty with no run limit</p><p><a href="https://store.steampowered.com/app/4484820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Restitutor: Empire Restored（新規追加）</title>
-  <link>https://store.steampowered.com/app/4431750/</link>
-  <guid isPermaLink="false">steam-store-published-4431750</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>Restitutor is a historical incremental grand strategy game focused on statecraft, diplomacy, and calculated warfare. Strengthen your economy, research new technologies, form alliances, and outmaneuver rivals through high-level strategic decisions without micromanagement.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/2657ff10560c2f31270eaabc8296ce23bb6eb1c2/header.jpg?t=1772723497" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/2657ff10560c2f31270eaabc8296ce23bb6eb1c2/header.jpg?t=1772723497" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/2657ff10560c2f31270eaabc8296ce23bb6eb1c2/header.jpg?t=1772723497" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4431750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/2657ff10560c2f31270eaabc8296ce23bb6eb1c2/header.jpg?t=1772723497" alt="Restitutor: Empire Restored（新規追加）" /></a></p><p>Restitutor is a historical incremental grand strategy game focused on statecraft, diplomacy, and calculated warfare. Strengthen your economy, research new technologies, form alliances, and outmaneuver rivals through high-level strategic decisions without micromanagement.</p><p><a href="https://store.steampowered.com/app/4431750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
