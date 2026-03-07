@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 07:06:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 07:43:56 +0000</lastBuildDate>
+<item>
+  <title>RadSpire（新規追加）</title>
+  <link>https://store.steampowered.com/app/4117770/</link>
+  <guid isPermaLink="false">steam-store-published-4117770</guid>
+  <pubDate>Sat, 07 Mar 2026 07:43:56 +0000</pubDate>
+  <description>RadSpire is a 3D third-person post-apocalyptic survival adventure where you explore hazardous biomes with shifting environmental effects, scavenge scarce resources, craft powerful tech-and-magic weapons, recruit NPC allies, and battle monsters and bosses.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117770/165a9ad634eb6a80e376287a5a7425441b729eb1/header.jpg?t=1772869403" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117770/165a9ad634eb6a80e376287a5a7425441b729eb1/header.jpg?t=1772869403" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117770/165a9ad634eb6a80e376287a5a7425441b729eb1/header.jpg?t=1772869403" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4117770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4117770/165a9ad634eb6a80e376287a5a7425441b729eb1/header.jpg?t=1772869403" alt="RadSpire（新規追加）" /></a></p><p>RadSpire is a 3D third-person post-apocalyptic survival adventure where you explore hazardous biomes with shifting environmental effects, scavenge scarce resources, craft powerful tech-and-magic weapons, recruit NPC allies, and battle monsters and bosses.</p><p><a href="https://store.steampowered.com/app/4117770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Poker Warrior（新規追加）</title>
   <link>https://store.steampowered.com/app/4290690/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487100/a92a4437769376cf7429816d0bbec4ee5df500e7/header.jpg?t=1772721119" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487100/a92a4437769376cf7429816d0bbec4ee5df500e7/header.jpg?t=1772721119" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487100/a92a4437769376cf7429816d0bbec4ee5df500e7/header.jpg?t=1772721119" alt="Gatekeeper Simulator: Inner Circle（新規追加）" /></a></p><p>Command the entrance to a powerful secret society. Screen visitors, uncover deception, and prevent dangerous threats from breaching the Inner Circle. One wrong decision could cost you everything.</p><p><a href="https://store.steampowered.com/app/4487100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>I am a bad guy in school bullying（新規追加）</title>
-  <link>https://store.steampowered.com/app/4377040/</link>
-  <guid isPermaLink="false">steam-store-published-4377040</guid>
-  <pubDate>Thu, 05 Mar 2026 14:57:08 +0000</pubDate>
-  <description>At an elite academy, a gifted pianist suffers obsession, cruelty and power abuse. Admiration becomes control, bullying turns violent; silence is no safer than resistance. Trapped by privilege and corruption, she must survive a system that protects her abusers and find her breaking point.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377040/a8388af2d1b596cc04073597618048a86e349d82/header.jpg?t=1772721661" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377040/a8388af2d1b596cc04073597618048a86e349d82/header.jpg?t=1772721661" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377040/a8388af2d1b596cc04073597618048a86e349d82/header.jpg?t=1772721661" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4377040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377040/a8388af2d1b596cc04073597618048a86e349d82/header.jpg?t=1772721661" alt="I am a bad guy in school bullying（新規追加）" /></a></p><p>At an elite academy, a gifted pianist suffers obsession, cruelty and power abuse. Admiration becomes control, bullying turns violent; silence is no safer than resistance. Trapped by privilege and corruption, she must survive a system that protects her abusers and find her breaking point.</p><p><a href="https://store.steampowered.com/app/4377040/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
