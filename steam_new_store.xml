@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 13:36:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 14:30:03 +0000</lastBuildDate>
+<item>
+  <title>Wayward Woods（新規追加）</title>
+  <link>https://store.steampowered.com/app/4462280/</link>
+  <guid isPermaLink="false">steam-store-published-4462280</guid>
+  <pubDate>Sat, 07 Mar 2026 14:30:03 +0000</pubDate>
+  <description>Wayward Woods is a turn based strategy game set inside of a magical storybook. Cast spells, defeat your enemies, all to find your way out of the enchanting Wayward Woods.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462280/789fc44df38694ae5aee3244b54f5ace71698c86/header.jpg?t=1772892860" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462280/789fc44df38694ae5aee3244b54f5ace71698c86/header.jpg?t=1772892860" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462280/789fc44df38694ae5aee3244b54f5ace71698c86/header.jpg?t=1772892860" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4462280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462280/789fc44df38694ae5aee3244b54f5ace71698c86/header.jpg?t=1772892860" alt="Wayward Woods（新規追加）" /></a></p><p>Wayward Woods is a turn based strategy game set inside of a magical storybook. Cast spells, defeat your enemies, all to find your way out of the enchanting Wayward Woods.</p><p><a href="https://store.steampowered.com/app/4462280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ogre Dungeon（新規追加）</title>
   <link>https://store.steampowered.com/app/4163040/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987170/72a6c87d4d41e55f46503242ac46f8a04d790451/header.jpg?t=1772725573" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987170/72a6c87d4d41e55f46503242ac46f8a04d790451/header.jpg?t=1772725573" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3987170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987170/72a6c87d4d41e55f46503242ac46f8a04d790451/header.jpg?t=1772725573" alt="Stolen Minds（新規追加）" /></a></p><p>Stolen Minds is a zombie horror RPG set in a cyberpunk city controlled by a General Purpose Artificial Intelligence. Difficulty is not limited by your progression but also by how quickly the AI can learn how to command the populace. You must stop this digital horror before it’s too late.</p><p><a href="https://store.steampowered.com/app/3987170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Zoe and the Cursed Dreamer（新規追加）</title>
-  <link>https://store.steampowered.com/app/1576680/</link>
-  <guid isPermaLink="false">steam-store-published-1576680</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>You are not the chosen one.. just another villager. Explore a cozy sandbox RPG where you can become a world-renowned cheesemonger, meet quirky characters, and guide them through the dark and desperate times ahead… or not. The world moves on, with or without you.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1576680/f147b5fbdff25de82489fe7974e36c31645249c1/header.jpg?t=1772724995" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1576680/f147b5fbdff25de82489fe7974e36c31645249c1/header.jpg?t=1772724995" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1576680/f147b5fbdff25de82489fe7974e36c31645249c1/header.jpg?t=1772724995" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1576680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1576680/f147b5fbdff25de82489fe7974e36c31645249c1/header.jpg?t=1772724995" alt="Zoe and the Cursed Dreamer（新規追加）" /></a></p><p>You are not the chosen one.. just another villager. Explore a cozy sandbox RPG where you can become a world-renowned cheesemonger, meet quirky characters, and guide them through the dark and desperate times ahead… or not. The world moves on, with or without you.</p><p><a href="https://store.steampowered.com/app/1576680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
