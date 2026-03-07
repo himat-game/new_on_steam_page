@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 08:58:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 09:35:52 +0000</lastBuildDate>
+<item>
+  <title>Grind &amp; Grind Company（新規追加）</title>
+  <link>https://store.steampowered.com/app/4456020/</link>
+  <guid isPermaLink="false">steam-store-published-4456020</guid>
+  <pubDate>Sat, 07 Mar 2026 09:35:52 +0000</pubDate>
+  <description>Your partner washes cars in a small corner of your desktop only while you&#x27;re focused. Turn your productive time into a growing collection of cars.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456020/b2ee287c5231c371d5299b0c86b8924a93b2becc/header.jpg?t=1772875710" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456020/b2ee287c5231c371d5299b0c86b8924a93b2becc/header.jpg?t=1772875710" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456020/b2ee287c5231c371d5299b0c86b8924a93b2becc/header.jpg?t=1772875710" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4456020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456020/b2ee287c5231c371d5299b0c86b8924a93b2becc/header.jpg?t=1772875710" alt="Grind &amp; Grind Company（新規追加）" /></a></p><p>Your partner washes cars in a small corner of your desktop only while you&#x27;re focused. Turn your productive time into a growing collection of cars.</p><p><a href="https://store.steampowered.com/app/4456020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Eon Empires（新規追加）</title>
   <link>https://store.steampowered.com/app/4468190/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487430/135dbca57a248d33f4bb370ec4595ed8ffd8e8fd/header.jpg?t=1772724946" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487430/135dbca57a248d33f4bb370ec4595ed8ffd8e8fd/header.jpg?t=1772724946" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487430/135dbca57a248d33f4bb370ec4595ed8ffd8e8fd/header.jpg?t=1772724946" alt="Defender of the Orcish Marches（新規追加）" /></a></p><p>A roguelite tower defense where every run is different. Choose a commander, collect relics, activate mutators, and defend your fortress against escalating orcish hordes with ballista, walls, and four defender classes.</p><p><a href="https://store.steampowered.com/app/4487430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sepulcra（新規追加）</title>
-  <link>https://store.steampowered.com/app/4144630/</link>
-  <guid isPermaLink="false">steam-store-published-4144630</guid>
-  <pubDate>Thu, 05 Mar 2026 14:57:08 +0000</pubDate>
-  <description>Carve your own path in Sepulcra, a strategic turn-based rogue-like. This epic adventure brings you through the horrific domains of spirits, beasts, and fiends. Manage your skills, befriend lost souls, and unearth the mysteries of this cursed world.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144630/e3e52adadbdcd22cc70e3ed0353c073082374410/header.jpg?t=1772720599" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144630/e3e52adadbdcd22cc70e3ed0353c073082374410/header.jpg?t=1772720599" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144630/e3e52adadbdcd22cc70e3ed0353c073082374410/header.jpg?t=1772720599" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4144630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144630/e3e52adadbdcd22cc70e3ed0353c073082374410/header.jpg?t=1772720599" alt="Sepulcra（新規追加）" /></a></p><p>Carve your own path in Sepulcra, a strategic turn-based rogue-like. This epic adventure brings you through the horrific domains of spirits, beasts, and fiends. Manage your skills, befriend lost souls, and unearth the mysteries of this cursed world.</p><p><a href="https://store.steampowered.com/app/4144630/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
