@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 09:35:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 10:20:44 +0000</lastBuildDate>
+<item>
+  <title>Nexus Survivors（新規追加）</title>
+  <link>https://store.steampowered.com/app/4460050/</link>
+  <guid isPermaLink="false">steam-store-published-4460050</guid>
+  <pubDate>Sat, 07 Mar 2026 10:20:44 +0000</pubDate>
+  <description>In Nexus Survivors, you don&#x27;t get a pre-made fireball handed to you. You build it yourself — from cards that determine how it moves, what it does, and what happens when it hits. Every spell in your arsenal is your own creation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460050/d346e494e667ff76dafdd2dd7d464c7ff0760f88/header.jpg?t=1772878735" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460050/d346e494e667ff76dafdd2dd7d464c7ff0760f88/header.jpg?t=1772878735" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460050/d346e494e667ff76dafdd2dd7d464c7ff0760f88/header.jpg?t=1772878735" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4460050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460050/d346e494e667ff76dafdd2dd7d464c7ff0760f88/header.jpg?t=1772878735" alt="Nexus Survivors（新規追加）" /></a></p><p>In Nexus Survivors, you don&#x27;t get a pre-made fireball handed to you. You build it yourself — from cards that determine how it moves, what it does, and what happens when it hits. Every spell in your arsenal is your own creation.</p><p><a href="https://store.steampowered.com/app/4460050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Grind &amp; Grind Company（新規追加）</title>
   <link>https://store.steampowered.com/app/4456020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/2657ff10560c2f31270eaabc8296ce23bb6eb1c2/header.jpg?t=1772723497" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/2657ff10560c2f31270eaabc8296ce23bb6eb1c2/header.jpg?t=1772723497" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4431750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431750/2657ff10560c2f31270eaabc8296ce23bb6eb1c2/header.jpg?t=1772723497" alt="Restitutor: Empire Restored（新規追加）" /></a></p><p>Restitutor is a historical incremental grand strategy game focused on statecraft, diplomacy, and calculated warfare. Strengthen your economy, research new technologies, form alliances, and outmaneuver rivals through high-level strategic decisions without micromanagement.</p><p><a href="https://store.steampowered.com/app/4431750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Defender of the Orcish Marches（新規追加）</title>
-  <link>https://store.steampowered.com/app/4487430/</link>
-  <guid isPermaLink="false">steam-store-published-4487430</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>A roguelite tower defense where every run is different. Choose a commander, collect relics, activate mutators, and defend your fortress against escalating orcish hordes with ballista, walls, and four defender classes.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487430/135dbca57a248d33f4bb370ec4595ed8ffd8e8fd/header.jpg?t=1772724946" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487430/135dbca57a248d33f4bb370ec4595ed8ffd8e8fd/header.jpg?t=1772724946" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487430/135dbca57a248d33f4bb370ec4595ed8ffd8e8fd/header.jpg?t=1772724946" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487430/135dbca57a248d33f4bb370ec4595ed8ffd8e8fd/header.jpg?t=1772724946" alt="Defender of the Orcish Marches（新規追加）" /></a></p><p>A roguelite tower defense where every run is different. Choose a commander, collect relics, activate mutators, and defend your fortress against escalating orcish hordes with ballista, walls, and four defender classes.</p><p><a href="https://store.steampowered.com/app/4487430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
