@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 11:17:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 12:40:32 +0000</lastBuildDate>
+<item>
+  <title>Sovereign&#x27;s Enigma（新規追加）</title>
+  <link>https://store.steampowered.com/app/4499610/</link>
+  <guid isPermaLink="false">steam-store-published-4499610</guid>
+  <pubDate>Sat, 07 Mar 2026 12:40:32 +0000</pubDate>
+  <description>Explore a vast underground world in a 2D side-scrolling survival adventure. Find survivors, build a team, and battle powerful bosses in the ruins of a forgotten civilization. Uncover the truth behind the Sovereign&#x27;s Enigma.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499610/f6376dd36461c8e283b49620861df84871b1028b/header.jpg?t=1772887119" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499610/f6376dd36461c8e283b49620861df84871b1028b/header.jpg?t=1772887119" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499610/f6376dd36461c8e283b49620861df84871b1028b/header.jpg?t=1772887119" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4499610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499610/f6376dd36461c8e283b49620861df84871b1028b/header.jpg?t=1772887119" alt="Sovereign&#x27;s Enigma（新規追加）" /></a></p><p>Explore a vast underground world in a 2D side-scrolling survival adventure. Find survivors, build a team, and battle powerful bosses in the ruins of a forgotten civilization. Uncover the truth behind the Sovereign&#x27;s Enigma.</p><p><a href="https://store.steampowered.com/app/4499610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Granblue Fantasy（新規追加）</title>
   <link>https://store.steampowered.com/app/767320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715100/161899724d0dc9fd4598897db5d83ad4aa329b56/header.jpg?t=1772725006" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715100/161899724d0dc9fd4598897db5d83ad4aa329b56/header.jpg?t=1772725006" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3715100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3715100/161899724d0dc9fd4598897db5d83ad4aa329b56/header.jpg?t=1772725006" alt="Tyrant&#x27;s world（新規追加）" /></a></p><p>Welcome to Tyrant&#x27;s world, an open world fantasy rpg where you can fight monsters, level up, and talk to npcs. Can you become number 1?</p><p><a href="https://store.steampowered.com/app/3715100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dwalm（新規追加）</title>
-  <link>https://store.steampowered.com/app/4484870/</link>
-  <guid isPermaLink="false">steam-store-published-4484870</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>Work your way through the city by day and navigate strange dreamscapes by night, exploring your memories and recalling what was lost. Dwalm is an adventure platformer that takes you through both childish dreams and traumatic memories alike.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484870/f74e0f704327db067391cbf85ed1de94ebf3b892/header.jpg?t=1772724838" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484870/f74e0f704327db067391cbf85ed1de94ebf3b892/header.jpg?t=1772724838" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484870/f74e0f704327db067391cbf85ed1de94ebf3b892/header.jpg?t=1772724838" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4484870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484870/f74e0f704327db067391cbf85ed1de94ebf3b892/header.jpg?t=1772724838" alt="Dwalm（新規追加）" /></a></p><p>Work your way through the city by day and navigate strange dreamscapes by night, exploring your memories and recalling what was lost. Dwalm is an adventure platformer that takes you through both childish dreams and traumatic memories alike.</p><p><a href="https://store.steampowered.com/app/4484870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
