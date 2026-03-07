@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 15:20:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 16:24:25 +0000</lastBuildDate>
+<item>
+  <title>Low Effort Romance（新規追加）</title>
+  <link>https://store.steampowered.com/app/4487960/</link>
+  <guid isPermaLink="false">steam-store-published-4487960</guid>
+  <pubDate>Sat, 07 Mar 2026 16:24:25 +0000</pubDate>
+  <description>Low Effort Romance is an otome visual novel about two tired adults who accidentally fall for each other between quarterly reports. Can you juggle deadlines, nosy coworkers, group projects, and a romance that keeps almost happening on company property?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487960/75c594bb530e0d02314af9f77294bc3af8f1b2ea/header.jpg?t=1772898193" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487960/75c594bb530e0d02314af9f77294bc3af8f1b2ea/header.jpg?t=1772898193" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487960/75c594bb530e0d02314af9f77294bc3af8f1b2ea/header.jpg?t=1772898193" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487960/75c594bb530e0d02314af9f77294bc3af8f1b2ea/header.jpg?t=1772898193" alt="Low Effort Romance（新規追加）" /></a></p><p>Low Effort Romance is an otome visual novel about two tired adults who accidentally fall for each other between quarterly reports. Can you juggle deadlines, nosy coworkers, group projects, and a romance that keeps almost happening on company property?</p><p><a href="https://store.steampowered.com/app/4487960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Arnie&#x27;s Maze（新規追加）</title>
   <link>https://store.steampowered.com/app/4195020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662120/6f54ff77bdd2f6e4c763b009c3b0f937ae7c03c6/header.jpg?t=1772725361" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662120/6f54ff77bdd2f6e4c763b009c3b0f937ae7c03c6/header.jpg?t=1772725361" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3662120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662120/6f54ff77bdd2f6e4c763b009c3b0f937ae7c03c6/header.jpg?t=1772725361" alt="Stratum Defence Team（新規追加）" /></a></p><p>Stratum Defence Team is a local co-op base defense game for up to 4 players, set on hostile worlds. Defend your mineral extraction outpost. Build walls and turrets, fight on the front lines, and adapt through evolving upgrades to withstand intensifying assaults.</p><p><a href="https://store.steampowered.com/app/3662120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cages: Hidden Worlds（新規追加）</title>
-  <link>https://store.steampowered.com/app/4232550/</link>
-  <guid isPermaLink="false">steam-store-published-4232550</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>Cages: Hidden Worlds is an immersive first-person puzzle escape game, where every sound, shadow, and mechanism bring an eerie sense of mystery and impending doom. Solve the workings of complex, original machinery you’ve never seen before and uncover the secrets buried inside them.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232550/9f1f8f56e4e53d81a4f1dce944db4ed6cd595e9d/header.jpg?t=1772723670" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232550/9f1f8f56e4e53d81a4f1dce944db4ed6cd595e9d/header.jpg?t=1772723670" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232550/9f1f8f56e4e53d81a4f1dce944db4ed6cd595e9d/header.jpg?t=1772723670" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4232550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232550/9f1f8f56e4e53d81a4f1dce944db4ed6cd595e9d/header.jpg?t=1772723670" alt="Cages: Hidden Worlds（新規追加）" /></a></p><p>Cages: Hidden Worlds is an immersive first-person puzzle escape game, where every sound, shadow, and mechanism bring an eerie sense of mystery and impending doom. Solve the workings of complex, original machinery you’ve never seen before and uncover the secrets buried inside them.</p><p><a href="https://store.steampowered.com/app/4232550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
