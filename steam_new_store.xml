@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 16:55:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 17:41:27 +0000</lastBuildDate>
+<item>
+  <title>Surviving Day!（新規追加）</title>
+  <link>https://store.steampowered.com/app/4188750/</link>
+  <guid isPermaLink="false">steam-store-published-4188750</guid>
+  <pubDate>Sat, 07 Mar 2026 17:41:27 +0000</pubDate>
+  <description>Moddable and Hostable as a server for others to join and adventure, build, or fight. Jump into a new voxel game that is as powerful as it is fun! Experience a new level of detail and special features that keep the game interesting and fun.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188750/f2848c8aecaa8168981d626b8bcbb6b7850b029c/header.jpg?t=1772905229" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188750/f2848c8aecaa8168981d626b8bcbb6b7850b029c/header.jpg?t=1772905229" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188750/f2848c8aecaa8168981d626b8bcbb6b7850b029c/header.jpg?t=1772905229" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4188750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188750/f2848c8aecaa8168981d626b8bcbb6b7850b029c/header.jpg?t=1772905229" alt="Surviving Day!（新規追加）" /></a></p><p>Moddable and Hostable as a server for others to join and adventure, build, or fight. Jump into a new voxel game that is as powerful as it is fun! Experience a new level of detail and special features that keep the game interesting and fun.</p><p><a href="https://store.steampowered.com/app/4188750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Loop Tower: Prologue（新規追加）</title>
   <link>https://store.steampowered.com/app/4491220/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488970/a1b81302d8c7315586d16e727a1900e604cc1be0/header.jpg?t=1772722659" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488970/a1b81302d8c7315586d16e727a1900e604cc1be0/header.jpg?t=1772722659" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4488970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488970/a1b81302d8c7315586d16e727a1900e604cc1be0/header.jpg?t=1772722659" alt="Fossil Bound（新規追加）" /></a></p><p>Discover prehistoric fossils, carefully excavate dinosaur skeletons, and build your own museum in this relaxing pixel-art paleontology game focused on exploration, discovery, and scientific curiosity.</p><p><a href="https://store.steampowered.com/app/4488970/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>VAGUS（新規追加）</title>
-  <link>https://store.steampowered.com/app/4453180/</link>
-  <guid isPermaLink="false">steam-store-published-4453180</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>VAGUS is an unconventional visual novel with a light adventure style. Through collecting narrative fragments randomly presented, you piece together the story that is both bizarre and familiar. A 28,000-word novella from the distinct perspectives of three protagonists who pursue and lose their goals.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453180/9b558a7fb563c3a86174b0c487f738ad225df284/header.jpg?t=1772725114" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453180/9b558a7fb563c3a86174b0c487f738ad225df284/header.jpg?t=1772725114" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453180/9b558a7fb563c3a86174b0c487f738ad225df284/header.jpg?t=1772725114" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4453180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453180/9b558a7fb563c3a86174b0c487f738ad225df284/header.jpg?t=1772725114" alt="VAGUS（新規追加）" /></a></p><p>VAGUS is an unconventional visual novel with a light adventure style. Through collecting narrative fragments randomly presented, you piece together the story that is both bizarre and familiar. A 28,000-word novella from the distinct perspectives of three protagonists who pursue and lose their goals.</p><p><a href="https://store.steampowered.com/app/4453180/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
