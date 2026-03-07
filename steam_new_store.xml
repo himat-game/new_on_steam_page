@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 20:22:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 20:53:26 +0000</lastBuildDate>
+<item>
+  <title>Shit-Stealing Gnomes（新規追加）</title>
+  <link>https://store.steampowered.com/app/3979370/</link>
+  <guid isPermaLink="false">steam-store-published-3979370</guid>
+  <pubDate>Sat, 07 Mar 2026 20:53:26 +0000</pubDate>
+  <description>Co-op adventure in which you play as little gnomes robbing houses. Be stealthy and steal the dirtiest things you can find.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979370/0ca76a2cf8ae4fc1144716fe8d36c2f68b6b0815/header.jpg?t=1772915964" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979370/0ca76a2cf8ae4fc1144716fe8d36c2f68b6b0815/header.jpg?t=1772915964" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979370/0ca76a2cf8ae4fc1144716fe8d36c2f68b6b0815/header.jpg?t=1772915964" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3979370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979370/0ca76a2cf8ae4fc1144716fe8d36c2f68b6b0815/header.jpg?t=1772915964" alt="Shit-Stealing Gnomes（新規追加）" /></a></p><p>Co-op adventure in which you play as little gnomes robbing houses. Be stealthy and steal the dirtiest things you can find.</p><p><a href="https://store.steampowered.com/app/3979370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>CAPTCHA Hell（新規追加）</title>
   <link>https://store.steampowered.com/app/4310270/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469990/dc398178e5b59ad2948eb4c110ef8dd283f1b3ab/header.jpg?t=1772732184" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469990/dc398178e5b59ad2948eb4c110ef8dd283f1b3ab/header.jpg?t=1772732184" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4469990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469990/dc398178e5b59ad2948eb4c110ef8dd283f1b3ab/header.jpg?t=1772732184" alt="Summon the Commoners（新規追加）" /></a></p><p>A hectic gambling auto-battler. Roll slot machines, smack enemies, and curate an unstoppable deck to overcome massive armies. Break the game through ridiculous jack-pot based synergies.</p><p><a href="https://store.steampowered.com/app/4469990/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Scary Game 2: The Mad Shepherd（新規追加）</title>
-  <link>https://store.steampowered.com/app/4479970/</link>
-  <guid isPermaLink="false">steam-store-published-4479970</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>Your first day as the new shepherd in the village… and everything is going wrong. The animals are missing. The villagers are strange. And the truth is far more terrifying.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479970/f056fd5b25a593a02e642cf93a0e8f99ee689cb6/header.jpg?t=1772729946" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479970/f056fd5b25a593a02e642cf93a0e8f99ee689cb6/header.jpg?t=1772729946" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479970/f056fd5b25a593a02e642cf93a0e8f99ee689cb6/header.jpg?t=1772729946" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4479970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479970/f056fd5b25a593a02e642cf93a0e8f99ee689cb6/header.jpg?t=1772729946" alt="Scary Game 2: The Mad Shepherd（新規追加）" /></a></p><p>Your first day as the new shepherd in the village… and everything is going wrong. The animals are missing. The villagers are strange. And the truth is far more terrifying.</p><p><a href="https://store.steampowered.com/app/4479970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
