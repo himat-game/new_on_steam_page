@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 14:30:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 14:54:27 +0000</lastBuildDate>
+<item>
+  <title>Climber and The Ice Tower（新規追加）</title>
+  <link>https://store.steampowered.com/app/4362540/</link>
+  <guid isPermaLink="false">steam-store-published-4362540</guid>
+  <pubDate>Sat, 07 Mar 2026 14:54:27 +0000</pubDate>
+  <description> Climber and The Ice Tower is a 2D pixel art platform game where your goal is to overcome each challenge to save the animals of the village!!!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362540/73062f3d83a93439e1c66d567830ee6fa3bd7fbf/header.jpg?t=1772894547" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362540/73062f3d83a93439e1c66d567830ee6fa3bd7fbf/header.jpg?t=1772894547" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362540/73062f3d83a93439e1c66d567830ee6fa3bd7fbf/header.jpg?t=1772894547" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4362540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362540/73062f3d83a93439e1c66d567830ee6fa3bd7fbf/header.jpg?t=1772894547" alt="Climber and The Ice Tower（新規追加）" /></a></p><p> Climber and The Ice Tower is a 2D pixel art platform game where your goal is to overcome each challenge to save the animals of the village!!!</p><p><a href="https://store.steampowered.com/app/4362540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Wayward Woods（新規追加）</title>
   <link>https://store.steampowered.com/app/4462280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451210/de3774a8fb7f3b62aaf7a6a1ab6219ff4781c1db/header.jpg?t=1772723636" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451210/de3774a8fb7f3b62aaf7a6a1ab6219ff4781c1db/header.jpg?t=1772723636" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4451210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451210/de3774a8fb7f3b62aaf7a6a1ab6219ff4781c1db/header.jpg?t=1772723636" alt="Forsaken Shores（新規追加）" /></a></p><p>Forsaken Shores is a 1-4 player survival RPG style game. Giving you two game modes to choose from, Adventure or Survival. With the ability to use the same characters in both game modes. So, no need to start a new character every time you want to start on a new world or join a new friend.</p><p><a href="https://store.steampowered.com/app/4451210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Stolen Minds（新規追加）</title>
-  <link>https://store.steampowered.com/app/3987170/</link>
-  <guid isPermaLink="false">steam-store-published-3987170</guid>
-  <pubDate>Thu, 05 Mar 2026 15:51:37 +0000</pubDate>
-  <description>Stolen Minds is a zombie horror RPG set in a cyberpunk city controlled by a General Purpose Artificial Intelligence. Difficulty is not limited by your progression but also by how quickly the AI can learn how to command the populace. You must stop this digital horror before it’s too late.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987170/72a6c87d4d41e55f46503242ac46f8a04d790451/header.jpg?t=1772725573" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987170/72a6c87d4d41e55f46503242ac46f8a04d790451/header.jpg?t=1772725573" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987170/72a6c87d4d41e55f46503242ac46f8a04d790451/header.jpg?t=1772725573" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3987170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987170/72a6c87d4d41e55f46503242ac46f8a04d790451/header.jpg?t=1772725573" alt="Stolen Minds（新規追加）" /></a></p><p>Stolen Minds is a zombie horror RPG set in a cyberpunk city controlled by a General Purpose Artificial Intelligence. Difficulty is not limited by your progression but also by how quickly the AI can learn how to command the populace. You must stop this digital horror before it’s too late.</p><p><a href="https://store.steampowered.com/app/3987170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
