@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 19:52:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 20:55:07 +0000</lastBuildDate>
+<item>
+  <title>The Sievert Scale（新規追加）</title>
+  <link>https://store.steampowered.com/app/4499300/</link>
+  <guid isPermaLink="false">steam-store-published-4499300</guid>
+  <pubDate>Sun, 08 Mar 2026 20:55:07 +0000</pubDate>
+  <description>Working as a Safety Contractor for a Nuclear Power Plant your job is to monitor plant safety through CCTV. Identify hazards, document incidents and keep operations running. Report too little and danger spreads, too much and you fail the quarterly audit. Can you toe the line?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499300/7e2b9d1074da1c3d02a60c1fb4e5f8cd0a5101b9/header.jpg?t=1773002686" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499300/7e2b9d1074da1c3d02a60c1fb4e5f8cd0a5101b9/header.jpg?t=1773002686" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499300/7e2b9d1074da1c3d02a60c1fb4e5f8cd0a5101b9/header.jpg?t=1773002686" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4499300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499300/7e2b9d1074da1c3d02a60c1fb4e5f8cd0a5101b9/header.jpg?t=1773002686" alt="The Sievert Scale（新規追加）" /></a></p><p>Working as a Safety Contractor for a Nuclear Power Plant your job is to monitor plant safety through CCTV. Identify hazards, document incidents and keep operations running. Report too little and danger spreads, too much and you fail the quarterly audit. Can you toe the line?</p><p><a href="https://store.steampowered.com/app/4499300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hot Girls Gym - Nudist Gym Manager（新規追加）</title>
   <link>https://store.steampowered.com/app/4468150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443330/315c6d7b0be267a12c158860622db0e5bbb4b02e/header.jpg?t=1772734589" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443330/315c6d7b0be267a12c158860622db0e5bbb4b02e/header.jpg?t=1772734589" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4443330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443330/315c6d7b0be267a12c158860622db0e5bbb4b02e/header.jpg?t=1772734589" alt="Blood Arena Path of Steel: Prologue（新規追加）" /></a></p><p>Fight your way through brutal medieval arenas in this free prologue featuring physics-driven melee combat, effective armor systems, and violent consequences.</p><p><a href="https://store.steampowered.com/app/4443330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cat Hits the Deck（新規追加）</title>
-  <link>https://store.steampowered.com/app/4489000/</link>
-  <guid isPermaLink="false">steam-store-published-4489000</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>Deckbuilder roguelike about a cat that fears being hurt but has only cards that hurt her before enemies! Min-max your resources, get OverPowered cards in your paw, and build an unlosable Deck that prolly gonna kill you 9 times^^</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489000/1d85a4cb244ffaae9fb792fa5778ed2ca8a5b28b/header.jpg?t=1772737463" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489000/1d85a4cb244ffaae9fb792fa5778ed2ca8a5b28b/header.jpg?t=1772737463" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489000/1d85a4cb244ffaae9fb792fa5778ed2ca8a5b28b/header.jpg?t=1772737463" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4489000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489000/1d85a4cb244ffaae9fb792fa5778ed2ca8a5b28b/header.jpg?t=1772737463" alt="Cat Hits the Deck（新規追加）" /></a></p><p>Deckbuilder roguelike about a cat that fears being hurt but has only cards that hurt her before enemies! Min-max your resources, get OverPowered cards in your paw, and build an unlosable Deck that prolly gonna kill you 9 times^^</p><p><a href="https://store.steampowered.com/app/4489000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
