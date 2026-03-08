@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 06:54:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 08:27:43 +0000</lastBuildDate>
+<item>
+  <title>Z Drive（新規追加）</title>
+  <link>https://store.steampowered.com/app/4467600/</link>
+  <guid isPermaLink="false">steam-store-published-4467600</guid>
+  <pubDate>Sun, 08 Mar 2026 08:27:43 +0000</pubDate>
+  <description>Drive, explore, search for resources, and craft! And drive! Do it for as long as you can! This FPS takes place in a rough world after a zombie attack. Prepare your wheeled fortress for every possible adventure! Explore the dead world and search for the remnants of civilization.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467600/cffbd89c61feecc0e536d6e8bfdd8f02784eaada/header.jpg?t=1772956438" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467600/cffbd89c61feecc0e536d6e8bfdd8f02784eaada/header.jpg?t=1772956438" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467600/cffbd89c61feecc0e536d6e8bfdd8f02784eaada/header.jpg?t=1772956438" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4467600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467600/cffbd89c61feecc0e536d6e8bfdd8f02784eaada/header.jpg?t=1772956438" alt="Z Drive（新規追加）" /></a></p><p>Drive, explore, search for resources, and craft! And drive! Do it for as long as you can! This FPS takes place in a rough world after a zombie attack. Prepare your wheeled fortress for every possible adventure! Explore the dead world and search for the remnants of civilization.</p><p><a href="https://store.steampowered.com/app/4467600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>My Cuckqueen Girlfriend（新規追加）</title>
   <link>https://store.steampowered.com/app/4442740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464900/03d30f67249bf840bbad410e7db83da6a8204cb7/header.jpg?t=1772731181" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464900/03d30f67249bf840bbad410e7db83da6a8204cb7/header.jpg?t=1772731181" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4464900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464900/03d30f67249bf840bbad410e7db83da6a8204cb7/header.jpg?t=1772731181" alt="My Perfect Nails（新規追加）" /></a></p><p>My Perfect Nails is a retro dress up game inspired by the 2000&#x27;s girl games, where you can create your perfect set of nails! Choose between many adorable 3D decors and charms to create the nails of your dreams! ✨🌸</p><p><a href="https://store.steampowered.com/app/4464900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Defuse or u ded（新規追加）</title>
-  <link>https://store.steampowered.com/app/4487470/</link>
-  <guid isPermaLink="false">steam-store-published-4487470</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>Fast-paced FPS game to play with friends, it has a lot of silly weapons, abbilities and maps</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487470/03c4f6f865d08573aa36489bdb9cdebd2fa34c8f/header.jpg?t=1772727289" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487470/03c4f6f865d08573aa36489bdb9cdebd2fa34c8f/header.jpg?t=1772727289" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487470/03c4f6f865d08573aa36489bdb9cdebd2fa34c8f/header.jpg?t=1772727289" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487470/03c4f6f865d08573aa36489bdb9cdebd2fa34c8f/header.jpg?t=1772727289" alt="Defuse or u ded（新規追加）" /></a></p><p>Fast-paced FPS game to play with friends, it has a lot of silly weapons, abbilities and maps</p><p><a href="https://store.steampowered.com/app/4487470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
