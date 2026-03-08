@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 14:54:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 16:24:26 +0000</lastBuildDate>
+<item>
+  <title>Pull It Together（新規追加）</title>
+  <link>https://store.steampowered.com/app/4458000/</link>
+  <guid isPermaLink="false">steam-store-published-4458000</guid>
+  <pubDate>Sun, 08 Mar 2026 16:24:26 +0000</pubDate>
+  <description>Haul your wagon as a crew to progress along the trail and escape the approaching storm! Manage your supplies and band together as you fumble through the wilderness’s challenges.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458000/2327eba5a5de1efa526444c265dc091fc1ca4276/header.jpg?t=1772985545" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458000/2327eba5a5de1efa526444c265dc091fc1ca4276/header.jpg?t=1772985545" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458000/2327eba5a5de1efa526444c265dc091fc1ca4276/header.jpg?t=1772985545" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4458000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458000/2327eba5a5de1efa526444c265dc091fc1ca4276/header.jpg?t=1772985545" alt="Pull It Together（新規追加）" /></a></p><p>Haul your wagon as a crew to progress along the trail and escape the approaching storm! Manage your supplies and band together as you fumble through the wilderness’s challenges.</p><p><a href="https://store.steampowered.com/app/4458000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Castle Siege Commander（新規追加）</title>
   <link>https://store.steampowered.com/app/4199320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447420/c2064c0a4cc938f2ae1d91ef50510d38e02be473/header.jpg?t=1772735084" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447420/c2064c0a4cc938f2ae1d91ef50510d38e02be473/header.jpg?t=1772735084" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4447420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447420/c2064c0a4cc938f2ae1d91ef50510d38e02be473/header.jpg?t=1772735084" alt="Firestorm（新規追加）" /></a></p><p>Firestorm is a deckbuilding strategy game in a fantasy world of weapons and magic. Compete alone or with friends in campaigns or generated battles managing units and spells on a tabletop hex board.</p><p><a href="https://store.steampowered.com/app/4447420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Housekeeper（新規追加）</title>
-  <link>https://store.steampowered.com/app/4433710/</link>
-  <guid isPermaLink="false">steam-store-published-4433710</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>The Housekeeper is a psychological horror simulation game where you work as the new night shift housekeeper at an ominous hotel. As you work through your shifts, you start to experience strange events. Will these events reveal a dark secret, or will they be the cause of your demise?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433710/969fbb622e6872277e048b72b57bfe8e60ee47f8/header.jpg?t=1772734444" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433710/969fbb622e6872277e048b72b57bfe8e60ee47f8/header.jpg?t=1772734444" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433710/969fbb622e6872277e048b72b57bfe8e60ee47f8/header.jpg?t=1772734444" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4433710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433710/969fbb622e6872277e048b72b57bfe8e60ee47f8/header.jpg?t=1772734444" alt="The Housekeeper（新規追加）" /></a></p><p>The Housekeeper is a psychological horror simulation game where you work as the new night shift housekeeper at an ominous hotel. As you work through your shifts, you start to experience strange events. Will these events reveal a dark secret, or will they be the cause of your demise?</p><p><a href="https://store.steampowered.com/app/4433710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
