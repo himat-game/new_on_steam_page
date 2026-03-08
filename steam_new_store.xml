@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 14:34:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 14:54:52 +0000</lastBuildDate>
+<item>
+  <title>Castle Siege Commander（新規追加）</title>
+  <link>https://store.steampowered.com/app/4199320/</link>
+  <guid isPermaLink="false">steam-store-published-4199320</guid>
+  <pubDate>Sun, 08 Mar 2026 14:54:52 +0000</pubDate>
+  <description>Command your army with your voice in this multiplayer medieval tactical game. Create custom voice commands, control siege warfare, and fight over strategic supply routes.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199320/b916a1c214895bb8ae11f3d05b9322fbb14dde3c/header.jpg?t=1772980182" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199320/b916a1c214895bb8ae11f3d05b9322fbb14dde3c/header.jpg?t=1772980182" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199320/b916a1c214895bb8ae11f3d05b9322fbb14dde3c/header.jpg?t=1772980182" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4199320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199320/b916a1c214895bb8ae11f3d05b9322fbb14dde3c/header.jpg?t=1772980182" alt="Castle Siege Commander（新規追加）" /></a></p><p>Command your army with your voice in this multiplayer medieval tactical game. Create custom voice commands, control siege warfare, and fight over strategic supply routes.</p><p><a href="https://store.steampowered.com/app/4199320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>E C L I P S E（新規追加）</title>
   <link>https://store.steampowered.com/app/4432310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433710/969fbb622e6872277e048b72b57bfe8e60ee47f8/header.jpg?t=1772734444" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433710/969fbb622e6872277e048b72b57bfe8e60ee47f8/header.jpg?t=1772734444" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4433710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433710/969fbb622e6872277e048b72b57bfe8e60ee47f8/header.jpg?t=1772734444" alt="The Housekeeper（新規追加）" /></a></p><p>The Housekeeper is a psychological horror simulation game where you work as the new night shift housekeeper at an ominous hotel. As you work through your shifts, you start to experience strange events. Will these events reveal a dark secret, or will they be the cause of your demise?</p><p><a href="https://store.steampowered.com/app/4433710/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hide and Seek（新規追加）</title>
-  <link>https://store.steampowered.com/app/3655400/</link>
-  <guid isPermaLink="false">steam-store-published-3655400</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>Play hide and seek solo or online with up to four players. Take the role of a hider or seeker, use unique items and abilities, and outsmart opponents in casual matches. A small indie solo-developed game built to run smoothly on most Windows PCs</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3655400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016" alt="Hide and Seek（新規追加）" /></a></p><p>Play hide and seek solo or online with up to four players. Take the role of a hider or seeker, use unique items and abilities, and outsmart opponents in casual matches. A small indie solo-developed game built to run smoothly on most Windows PCs</p><p><a href="https://store.steampowered.com/app/3655400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
