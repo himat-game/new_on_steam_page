@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 22:20:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 22:54:45 +0000</lastBuildDate>
+<item>
+  <title>Department of Missing Persons（新規追加）</title>
+  <link>https://store.steampowered.com/app/4461830/</link>
+  <guid isPermaLink="false">steam-store-published-4461830</guid>
+  <pubDate>Sun, 08 Mar 2026 22:54:45 +0000</pubDate>
+  <description>In this GeoGuessr-like game, work at Mili Co. using GeoFinder to track missing persons. Stay safe inside the office, cooperate with coworkers, and survive in a world where only the workplace offers security.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461830/bad7bf3c6fc8dec23336f2322e97af58a2e71208/header.jpg?t=1773008482" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461830/bad7bf3c6fc8dec23336f2322e97af58a2e71208/header.jpg?t=1773008482" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461830/bad7bf3c6fc8dec23336f2322e97af58a2e71208/header.jpg?t=1773008482" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4461830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461830/bad7bf3c6fc8dec23336f2322e97af58a2e71208/header.jpg?t=1773008482" alt="Department of Missing Persons（新規追加）" /></a></p><p>In this GeoGuessr-like game, work at Mili Co. using GeoFinder to track missing persons. Stay safe inside the office, cooperate with coworkers, and survive in a world where only the workplace offers security.</p><p><a href="https://store.steampowered.com/app/4461830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Varsity 7on7（新規追加）</title>
   <link>https://store.steampowered.com/app/4312110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445170/558c0113a8a75d3bc2949308f6cdcd410ed9841c/header.jpg?t=1772738587" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445170/558c0113a8a75d3bc2949308f6cdcd410ed9841c/header.jpg?t=1772738587" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4445170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445170/558c0113a8a75d3bc2949308f6cdcd410ed9841c/header.jpg?t=1772738587" alt="ProtoPunk（新規追加）" /></a></p><p>ProtoPunk is a fast-paced, steampunk movement FPS. Gun down clunkers with your revolver to gain speed. Slow the gears of time to sharpen your aim. Slide and boost through the city to uncover your past and stop the corruption choking it.</p><p><a href="https://store.steampowered.com/app/4445170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Baseball Legacy Manager 26（新規追加）</title>
-  <link>https://store.steampowered.com/app/4444840/</link>
-  <guid isPermaLink="false">steam-store-published-4444840</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>Build the ultimate legacy as the general manager of a professional baseball team!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444840/be3ffc5111a7134f62582a51775ffad9185ff406/header.jpg?t=1772737603" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444840/be3ffc5111a7134f62582a51775ffad9185ff406/header.jpg?t=1772737603" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444840/be3ffc5111a7134f62582a51775ffad9185ff406/header.jpg?t=1772737603" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4444840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444840/be3ffc5111a7134f62582a51775ffad9185ff406/header.jpg?t=1772737603" alt="Baseball Legacy Manager 26（新規追加）" /></a></p><p>Build the ultimate legacy as the general manager of a professional baseball team!</p><p><a href="https://store.steampowered.com/app/4444840/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
