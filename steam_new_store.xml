@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 10:25:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 11:53:26 +0000</lastBuildDate>
+<item>
+  <title>Dino Tales（新規追加）</title>
+  <link>https://store.steampowered.com/app/4485190/</link>
+  <guid isPermaLink="false">steam-store-published-4485190</guid>
+  <pubDate>Sun, 08 Mar 2026 11:53:26 +0000</pubDate>
+  <description>The game has seven baby dinosaur characters, and each tale features one or more dinosaurs as they travel through their adventures on Dino Tales Island.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485190/fb8eaa6b28ce3a88b4b8297a16aa2d3aac77ddf4/header.jpg?t=1772969058" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485190/fb8eaa6b28ce3a88b4b8297a16aa2d3aac77ddf4/header.jpg?t=1772969058" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485190/fb8eaa6b28ce3a88b4b8297a16aa2d3aac77ddf4/header.jpg?t=1772969058" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4485190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485190/fb8eaa6b28ce3a88b4b8297a16aa2d3aac77ddf4/header.jpg?t=1772969058" alt="Dino Tales（新規追加）" /></a></p><p>The game has seven baby dinosaur characters, and each tale features one or more dinosaurs as they travel through their adventures on Dino Tales Island.</p><p><a href="https://store.steampowered.com/app/4485190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Blush（新規追加）</title>
   <link>https://store.steampowered.com/app/4484780/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492150/17f26437961e1a672a7d6b0c842cc28cd4b6b248/header.jpg?t=1772727010" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492150/17f26437961e1a672a7d6b0c842cc28cd4b6b248/header.jpg?t=1772727010" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4492150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492150/17f26437961e1a672a7d6b0c842cc28cd4b6b248/header.jpg?t=1772727010" alt="Terminal Hacker: Override（新規追加）" /></a></p><p>Step into the shadows. Terminal Hacker: Override is an infinite, procedurally generated hacking simulator. Accept dark web contracts, bypass firewalls using pure word-deduction logic, and upgrade your system. No hand-holding, just you, the terminal, and the next target.</p><p><a href="https://store.steampowered.com/app/4492150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beyond Constraints（新規追加）</title>
-  <link>https://store.steampowered.com/app/4490030/</link>
-  <guid isPermaLink="false">steam-store-published-4490030</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>A short, intimate third-person narrative experience about breaking free from a toxic relationship. Step into Emily&#x27;s life as she confronts manipulation, rediscovers her identity, and finds the courage to reclaim her freedom. A deeply personal, voice-acted LGBTQ+ story — playable in under an hour.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490030/dd46d657279b0c936e68fac5ab218fe5dea3ebce/header.jpg?t=1772726928" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490030/dd46d657279b0c936e68fac5ab218fe5dea3ebce/header.jpg?t=1772726928" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490030/dd46d657279b0c936e68fac5ab218fe5dea3ebce/header.jpg?t=1772726928" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4490030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490030/dd46d657279b0c936e68fac5ab218fe5dea3ebce/header.jpg?t=1772726928" alt="Beyond Constraints（新規追加）" /></a></p><p>A short, intimate third-person narrative experience about breaking free from a toxic relationship. Step into Emily&#x27;s life as she confronts manipulation, rediscovers her identity, and finds the courage to reclaim her freedom. A deeply personal, voice-acted LGBTQ+ story — playable in under an hour.</p><p><a href="https://store.steampowered.com/app/4490030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
