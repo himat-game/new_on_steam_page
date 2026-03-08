@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 13:38:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 14:34:04 +0000</lastBuildDate>
+<item>
+  <title>E C L I P S E（新規追加）</title>
+  <link>https://store.steampowered.com/app/4432310/</link>
+  <guid isPermaLink="false">steam-store-published-4432310</guid>
+  <pubDate>Sun, 08 Mar 2026 14:34:04 +0000</pubDate>
+  <description>You wake up, completely suffering from amnesia, stranded in deep space inside a floating station. Your primary objective: reach the station&#x27;s cockpit, uncover the truth behind its horrendous catastrophe. Everything should be that simple...shouldn&#x27;t it?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432310/c6cc03aa0e03898609c7272475a63949df5d4742/header.jpg?t=1772978869" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432310/c6cc03aa0e03898609c7272475a63949df5d4742/header.jpg?t=1772978869" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432310/c6cc03aa0e03898609c7272475a63949df5d4742/header.jpg?t=1772978869" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4432310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432310/c6cc03aa0e03898609c7272475a63949df5d4742/header.jpg?t=1772978869" alt="E C L I P S E（新規追加）" /></a></p><p>You wake up, completely suffering from amnesia, stranded in deep space inside a floating station. Your primary objective: reach the station&#x27;s cockpit, uncover the truth behind its horrendous catastrophe. Everything should be that simple...shouldn&#x27;t it?</p><p><a href="https://store.steampowered.com/app/4432310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>天使过家家（新規追加）</title>
   <link>https://store.steampowered.com/app/4186860/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3655400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3655400/524d6d970120aec385ec42b3fe7f521d4430ac38/header.jpg?t=1772731016" alt="Hide and Seek（新規追加）" /></a></p><p>Play hide and seek solo or online with up to four players. Take the role of a hider or seeker, use unique items and abilities, and outsmart opponents in casual matches. A small indie solo-developed game built to run smoothly on most Windows PCs</p><p><a href="https://store.steampowered.com/app/3655400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rampage Kage（新規追加）</title>
-  <link>https://store.steampowered.com/app/4456620/</link>
-  <guid isPermaLink="false">steam-store-published-4456620</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>Rampage-Kage is a demanding 2D Metroidvania action-platformer set in a Tokyo underworld. As Kage, you must master punishing, precision combat to dismantle city gangs. Explore an interconnected urban labyrinth, collect powerful charms to customize your skills.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456620/c292f636bf85bc8c939c33d0484e61caea7495ee/header.jpg?t=1772726586" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456620/c292f636bf85bc8c939c33d0484e61caea7495ee/header.jpg?t=1772726586" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456620/c292f636bf85bc8c939c33d0484e61caea7495ee/header.jpg?t=1772726586" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4456620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456620/c292f636bf85bc8c939c33d0484e61caea7495ee/header.jpg?t=1772726586" alt="Rampage Kage（新規追加）" /></a></p><p>Rampage-Kage is a demanding 2D Metroidvania action-platformer set in a Tokyo underworld. As Kage, you must master punishing, precision combat to dismantle city gangs. Explore an interconnected urban labyrinth, collect powerful charms to customize your skills.</p><p><a href="https://store.steampowered.com/app/4456620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
