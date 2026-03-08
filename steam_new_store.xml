@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 20:55:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 21:20:31 +0000</lastBuildDate>
+<item>
+  <title>Shards of Primora（新規追加）</title>
+  <link>https://store.steampowered.com/app/4440150/</link>
+  <guid isPermaLink="false">steam-store-published-4440150</guid>
+  <pubDate>Sun, 08 Mar 2026 21:20:31 +0000</pubDate>
+  <description>Shards of Primora is an auto-battler/idler with a strong emphasis on character development. With 6 unique skills per class, 20 passive abilities, and loot system with rarity and set bonuses, there is a lot of customization and progression to be found. Create your party and conquer the realm today!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440150/67d72a3e3d73de9ec47b0c534d90b0756af72b37/header.jpg?t=1773003963" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440150/67d72a3e3d73de9ec47b0c534d90b0756af72b37/header.jpg?t=1773003963" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440150/67d72a3e3d73de9ec47b0c534d90b0756af72b37/header.jpg?t=1773003963" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4440150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440150/67d72a3e3d73de9ec47b0c534d90b0756af72b37/header.jpg?t=1773003963" alt="Shards of Primora（新規追加）" /></a></p><p>Shards of Primora is an auto-battler/idler with a strong emphasis on character development. With 6 unique skills per class, 20 passive abilities, and loot system with rarity and set bonuses, there is a lot of customization and progression to be found. Create your party and conquer the realm today!</p><p><a href="https://store.steampowered.com/app/4440150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Sievert Scale（新規追加）</title>
   <link>https://store.steampowered.com/app/4499300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333440/cd32347f7f77002af72b6811a39b09454c8e6d32/header.jpg?t=1772738847" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333440/cd32347f7f77002af72b6811a39b09454c8e6d32/header.jpg?t=1772738847" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4333440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333440/cd32347f7f77002af72b6811a39b09454c8e6d32/header.jpg?t=1772738847" alt="SNOTROCKET™（新規追加）" /></a></p><p>SNOTROCKET is a retro co-op space game where you and your friends are violently ill and racing to find a cure before the ship explodes. Expect flying snot, projectile vomit, and catastrophic bowel failure at every turn.</p><p><a href="https://store.steampowered.com/app/4333440/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Blood Arena Path of Steel: Prologue（新規追加）</title>
-  <link>https://store.steampowered.com/app/4443330/</link>
-  <guid isPermaLink="false">steam-store-published-4443330</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>Fight your way through brutal medieval arenas in this free prologue featuring physics-driven melee combat, effective armor systems, and violent consequences.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443330/315c6d7b0be267a12c158860622db0e5bbb4b02e/header.jpg?t=1772734589" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443330/315c6d7b0be267a12c158860622db0e5bbb4b02e/header.jpg?t=1772734589" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443330/315c6d7b0be267a12c158860622db0e5bbb4b02e/header.jpg?t=1772734589" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4443330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443330/315c6d7b0be267a12c158860622db0e5bbb4b02e/header.jpg?t=1772734589" alt="Blood Arena Path of Steel: Prologue（新規追加）" /></a></p><p>Fight your way through brutal medieval arenas in this free prologue featuring physics-driven melee combat, effective armor systems, and violent consequences.</p><p><a href="https://store.steampowered.com/app/4443330/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
