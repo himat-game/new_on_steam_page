@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 07 Mar 2026 22:20:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 01:54:17 +0000</lastBuildDate>
+<item>
+  <title>Golem Rumble（新規追加）</title>
+  <link>https://store.steampowered.com/app/4461610/</link>
+  <guid isPermaLink="false">steam-store-published-4461610</guid>
+  <pubDate>Sun, 08 Mar 2026 01:54:17 +0000</pubDate>
+  <description>A fast-paced 1v1 arena brawler where shamans summon golems through magical masks. Build your minion squad each round and fight alongside them to outplay your opponent.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461610/f8acd326fab2de282345b28f3c0f926dd9241da2/header.jpg?t=1772930391" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461610/f8acd326fab2de282345b28f3c0f926dd9241da2/header.jpg?t=1772930391" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461610/f8acd326fab2de282345b28f3c0f926dd9241da2/header.jpg?t=1772930391" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4461610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461610/f8acd326fab2de282345b28f3c0f926dd9241da2/header.jpg?t=1772930391" alt="Golem Rumble（新規追加）" /></a></p><p>A fast-paced 1v1 arena brawler where shamans summon golems through magical masks. Build your minion squad each round and fight alongside them to outplay your opponent.</p><p><a href="https://store.steampowered.com/app/4461610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Network Empire（新規追加）</title>
   <link>https://store.steampowered.com/app/4426740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476610/ebca234c5f5cc484887f0af4d8a57a55055f7920/header.jpg?t=1772733585" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476610/ebca234c5f5cc484887f0af4d8a57a55055f7920/header.jpg?t=1772733585" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4476610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476610/ebca234c5f5cc484887f0af4d8a57a55055f7920/header.jpg?t=1772733585" alt="Backrooms: Collision Not Found（新規追加）" /></a></p><p>Backrooms: Collision Not Found is an eerie 1-4 player co-op horror experience where reality itself is broken. Navigate trough various procedurally-generated liminal spaces, unravel deep mysteries, and survive the entities lurking in a world where physics no longer applies.</p><p><a href="https://store.steampowered.com/app/4476610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RUINER 2（新規追加）</title>
-  <link>https://store.steampowered.com/app/2936810/</link>
-  <guid isPermaLink="false">steam-store-published-2936810</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>RUINER 2 is a Cyberpunk Action RPG from Reikon Games, set in the world of RUINER, where death must be earned. Brutal, lightning-fast combat meets a deep, systems-driven experience. Master the Shell System - switch characters mid-combat and exploit lethal synergies in single player or co-op with up to three players.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936810/34b67ba6ca2c3b4cc8d30d62fafde4c67d06f059/header.jpg?t=1772731970" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936810/34b67ba6ca2c3b4cc8d30d62fafde4c67d06f059/header.jpg?t=1772731970" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936810/34b67ba6ca2c3b4cc8d30d62fafde4c67d06f059/header.jpg?t=1772731970" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2936810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936810/34b67ba6ca2c3b4cc8d30d62fafde4c67d06f059/header.jpg?t=1772731970" alt="RUINER 2（新規追加）" /></a></p><p>RUINER 2 is a Cyberpunk Action RPG from Reikon Games, set in the world of RUINER, where death must be earned. Brutal, lightning-fast combat meets a deep, systems-driven experience. Master the Shell System - switch characters mid-combat and exploit lethal synergies in single player or co-op with up to three players.</p><p><a href="https://store.steampowered.com/app/2936810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
