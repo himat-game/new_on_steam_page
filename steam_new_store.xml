@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 17:53:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 18:30:01 +0000</lastBuildDate>
+<item>
+  <title>Horse Racing Jackpot（新規追加）</title>
+  <link>https://store.steampowered.com/app/4203000/</link>
+  <guid isPermaLink="false">steam-store-published-4203000</guid>
+  <pubDate>Sun, 08 Mar 2026 18:30:01 +0000</pubDate>
+  <description>A fun horse race betting simulator including realistic, physics-based racing. With over 100 million race combinations, you have 3 races to become the Master Better!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203000/6352cc33a5ed74bf00f4cb156b3c715b13344686/header.jpg?t=1772993135" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203000/6352cc33a5ed74bf00f4cb156b3c715b13344686/header.jpg?t=1772993135" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203000/6352cc33a5ed74bf00f4cb156b3c715b13344686/header.jpg?t=1772993135" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4203000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4203000/6352cc33a5ed74bf00f4cb156b3c715b13344686/header.jpg?t=1772993135" alt="Horse Racing Jackpot（新規追加）" /></a></p><p>A fun horse race betting simulator including realistic, physics-based racing. With over 100 million race combinations, you have 3 races to become the Master Better!</p><p><a href="https://store.steampowered.com/app/4203000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Crystalia（新規追加）</title>
   <link>https://store.steampowered.com/app/4176440/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436740/19e4a1c22de9abe713ded355ea2c619efe39ad28/header.jpg?t=1772738313" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436740/19e4a1c22de9abe713ded355ea2c619efe39ad28/header.jpg?t=1772738313" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4436740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436740/19e4a1c22de9abe713ded355ea2c619efe39ad28/header.jpg?t=1772738313" alt="Level Up, Tiny King!（新規追加）" /></a></p><p>Level Up, Tiny King! is a solo survivors-like auto-shooter platformer. After being kidnapped and thrown into the dungeons, you must fight your way upward. Survive relentless waves of cute enemies while climbing. Grow stronger, recruit magical buddies, and reclaim your throne.</p><p><a href="https://store.steampowered.com/app/4436740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Yelling At Cats: The Game（新規追加）</title>
-  <link>https://store.steampowered.com/app/4488520/</link>
-  <guid isPermaLink="false">steam-store-published-4488520</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>A short and silly horror game where you play as a cat with an owner experiencing Coprolalia and must find out what has made them so angry by staring at them long enough without being caught.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4488520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723" alt="Yelling At Cats: The Game（新規追加）" /></a></p><p>A short and silly horror game where you play as a cat with an owner experiencing Coprolalia and must find out what has made them so angry by staring at them long enough without being caught.</p><p><a href="https://store.steampowered.com/app/4488520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
