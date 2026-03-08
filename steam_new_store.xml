@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 16:57:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 17:53:41 +0000</lastBuildDate>
+<item>
+  <title>Crystalia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4176440/</link>
+  <guid isPermaLink="false">steam-store-published-4176440</guid>
+  <pubDate>Sun, 08 Mar 2026 17:53:41 +0000</pubDate>
+  <description>Crystalia is a first-person tower defense game mixing automation, management and exploration set in a utopian sci-fi world built on crystal extraction. Dig into caves, build autonomous defense zones and uncover the history of a civilization shaped around crystals.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176440/3eb72c184953e94864508e3a563fc1b2e9315533/header.jpg?t=1772991870" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176440/3eb72c184953e94864508e3a563fc1b2e9315533/header.jpg?t=1772991870" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176440/3eb72c184953e94864508e3a563fc1b2e9315533/header.jpg?t=1772991870" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4176440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4176440/3eb72c184953e94864508e3a563fc1b2e9315533/header.jpg?t=1772991870" alt="Crystalia（新規追加）" /></a></p><p>Crystalia is a first-person tower defense game mixing automation, management and exploration set in a utopian sci-fi world built on crystal extraction. Dig into caves, build autonomous defense zones and uncover the history of a civilization shaped around crystals.</p><p><a href="https://store.steampowered.com/app/4176440/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Gladiator Arena: Heroes of Rome（新規追加）</title>
   <link>https://store.steampowered.com/app/4117700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4488520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488520/f8e4d861a3a61479e172c657b7da2a00ea67f42b/header.jpg?t=1772734723" alt="Yelling At Cats: The Game（新規追加）" /></a></p><p>A short and silly horror game where you play as a cat with an owner experiencing Coprolalia and must find out what has made them so angry by staring at them long enough without being caught.</p><p><a href="https://store.steampowered.com/app/4488520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Paranormal Wilds（新規追加）</title>
-  <link>https://store.steampowered.com/app/3848880/</link>
-  <guid isPermaLink="false">steam-store-published-3848880</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>A paranormal game set in Nature with supernatural events,traverse unknown universe to rescue souls and banish the unseen entities from our world</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848880/1f153e1d484b9dd479e747764fc733a79e13dd9d/header.jpg?t=1772733870" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848880/1f153e1d484b9dd479e747764fc733a79e13dd9d/header.jpg?t=1772733870" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848880/1f153e1d484b9dd479e747764fc733a79e13dd9d/header.jpg?t=1772733870" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3848880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848880/1f153e1d484b9dd479e747764fc733a79e13dd9d/header.jpg?t=1772733870" alt="Paranormal Wilds（新規追加）" /></a></p><p>A paranormal game set in Nature with supernatural events,traverse unknown universe to rescue souls and banish the unseen entities from our world</p><p><a href="https://store.steampowered.com/app/3848880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
