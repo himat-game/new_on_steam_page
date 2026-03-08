@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 21:20:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 21:51:47 +0000</lastBuildDate>
+<item>
+  <title>DashForm（新規追加）</title>
+  <link>https://store.steampowered.com/app/4489410/</link>
+  <guid isPermaLink="false">steam-store-published-4489410</guid>
+  <pubDate>Sun, 08 Mar 2026 21:51:47 +0000</pubDate>
+  <description> Escape Heaven in this satisfying movement based bullet hell.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489410/d3f540235b981ca64781b95ba3c35747e378ab5b/header.jpg?t=1773005886" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489410/d3f540235b981ca64781b95ba3c35747e378ab5b/header.jpg?t=1773005886" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489410/d3f540235b981ca64781b95ba3c35747e378ab5b/header.jpg?t=1773005886" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4489410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489410/d3f540235b981ca64781b95ba3c35747e378ab5b/header.jpg?t=1773005886" alt="DashForm（新規追加）" /></a></p><p> Escape Heaven in this satisfying movement based bullet hell.</p><p><a href="https://store.steampowered.com/app/4489410/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Shards of Primora（新規追加）</title>
   <link>https://store.steampowered.com/app/4440150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760520/972f453102d17c2bc1c8a3089ff06fd07b741219/header.jpg?t=1772738691" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760520/972f453102d17c2bc1c8a3089ff06fd07b741219/header.jpg?t=1772738691" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3760520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760520/972f453102d17c2bc1c8a3089ff06fd07b741219/header.jpg?t=1772738691" alt="Rogue &#x27;n&#x27; Roll: Dice of Fate（新規追加）" /></a></p><p>A dark dice-based roguelike where every roll shapes your fate. Build powerful dice synergies, collect relics, and survive brutal turn-based battles in a world ruled by chance.</p><p><a href="https://store.steampowered.com/app/3760520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SNOTROCKET™（新規追加）</title>
-  <link>https://store.steampowered.com/app/4333440/</link>
-  <guid isPermaLink="false">steam-store-published-4333440</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>SNOTROCKET is a retro co-op space game where you and your friends are violently ill and racing to find a cure before the ship explodes. Expect flying snot, projectile vomit, and catastrophic bowel failure at every turn.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333440/cd32347f7f77002af72b6811a39b09454c8e6d32/header.jpg?t=1772738847" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333440/cd32347f7f77002af72b6811a39b09454c8e6d32/header.jpg?t=1772738847" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333440/cd32347f7f77002af72b6811a39b09454c8e6d32/header.jpg?t=1772738847" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4333440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333440/cd32347f7f77002af72b6811a39b09454c8e6d32/header.jpg?t=1772738847" alt="SNOTROCKET™（新規追加）" /></a></p><p>SNOTROCKET is a retro co-op space game where you and your friends are violently ill and racing to find a cure before the ship explodes. Expect flying snot, projectile vomit, and catastrophic bowel failure at every turn.</p><p><a href="https://store.steampowered.com/app/4333440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
