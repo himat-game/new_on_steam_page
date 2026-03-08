@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 09:56:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 10:25:44 +0000</lastBuildDate>
+<item>
+  <title>Hentai Blush（新規追加）</title>
+  <link>https://store.steampowered.com/app/4484780/</link>
+  <guid isPermaLink="false">steam-store-published-4484780</guid>
+  <pubDate>Sun, 08 Mar 2026 10:25:44 +0000</pubDate>
+  <description>Embark on a relaxing and sensual puzzle journey with Hentai Blush, where each calming level and every completed image gently soothes your mind.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484780/0b10479bc4e2d85f2b58108169b0960cd8ebbb86/header.jpg?t=1772964731" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484780/0b10479bc4e2d85f2b58108169b0960cd8ebbb86/header.jpg?t=1772964731" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484780/0b10479bc4e2d85f2b58108169b0960cd8ebbb86/header.jpg?t=1772964731" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4484780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484780/0b10479bc4e2d85f2b58108169b0960cd8ebbb86/header.jpg?t=1772964731" alt="Hentai Blush（新規追加）" /></a></p><p>Embark on a relaxing and sensual puzzle journey with Hentai Blush, where each calming level and every completed image gently soothes your mind.</p><p><a href="https://store.steampowered.com/app/4484780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dungeon Fortress : Overlord（新規追加）</title>
   <link>https://store.steampowered.com/app/3835260/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490030/dd46d657279b0c936e68fac5ab218fe5dea3ebce/header.jpg?t=1772726928" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490030/dd46d657279b0c936e68fac5ab218fe5dea3ebce/header.jpg?t=1772726928" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4490030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490030/dd46d657279b0c936e68fac5ab218fe5dea3ebce/header.jpg?t=1772726928" alt="Beyond Constraints（新規追加）" /></a></p><p>A short, intimate third-person narrative experience about breaking free from a toxic relationship. Step into Emily&#x27;s life as she confronts manipulation, rediscovers her identity, and finds the courage to reclaim her freedom. A deeply personal, voice-acted LGBTQ+ story — playable in under an hour.</p><p><a href="https://store.steampowered.com/app/4490030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Unknown App（新規追加）</title>
-  <link>https://store.steampowered.com/app/4478080/</link>
-  <guid isPermaLink="false">steam-store-published-4478080</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>Survive the fog-filled ruins of Murino. Play as Drun and Ch, uncover Mellstroy’s experiments, and escape—or destroy—the creeping Fog before it consumes everything.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478080/dd4862384a7a488137538a98d090c70cffa02714/header.jpg?t=1772730946" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478080/dd4862384a7a488137538a98d090c70cffa02714/header.jpg?t=1772730946" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478080/dd4862384a7a488137538a98d090c70cffa02714/header.jpg?t=1772730946" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4478080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478080/dd4862384a7a488137538a98d090c70cffa02714/header.jpg?t=1772730946" alt="Unknown App（新規追加）" /></a></p><p>Survive the fog-filled ruins of Murino. Play as Drun and Ch, uncover Mellstroy’s experiments, and escape—or destroy—the creeping Fog before it consumes everything.</p><p><a href="https://store.steampowered.com/app/4478080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
