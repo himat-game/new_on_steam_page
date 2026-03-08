@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 11:53:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 12:42:30 +0000</lastBuildDate>
+<item>
+  <title>Sudoku Studio（新規追加）</title>
+  <link>https://store.steampowered.com/app/4243980/</link>
+  <guid isPermaLink="false">steam-store-published-4243980</guid>
+  <pubDate>Sun, 08 Mar 2026 12:42:30 +0000</pubDate>
+  <description>Sudoku Studio: Your creative space for all things Sudoku. Enjoy a vast library of classic and variant puzzles. Design and share your own creations through the Steam Workshop. Challenge your mind, unleash your creativity.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243980/fed3a2c9c74efdfba80bbe5939aebb701d4b4ee1/header.jpg?t=1772973106" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243980/fed3a2c9c74efdfba80bbe5939aebb701d4b4ee1/header.jpg?t=1772973106" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243980/fed3a2c9c74efdfba80bbe5939aebb701d4b4ee1/header.jpg?t=1772973106" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4243980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243980/fed3a2c9c74efdfba80bbe5939aebb701d4b4ee1/header.jpg?t=1772973106" alt="Sudoku Studio（新規追加）" /></a></p><p>Sudoku Studio: Your creative space for all things Sudoku. Enjoy a vast library of classic and variant puzzles. Design and share your own creations through the Steam Workshop. Challenge your mind, unleash your creativity.</p><p><a href="https://store.steampowered.com/app/4243980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dino Tales（新規追加）</title>
   <link>https://store.steampowered.com/app/4485190/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483420/82e1c2ce44293f1e6f5eaa0b74cb54779fe05233/header.jpg?t=1772729224" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483420/82e1c2ce44293f1e6f5eaa0b74cb54779fe05233/header.jpg?t=1772729224" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4483420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483420/82e1c2ce44293f1e6f5eaa0b74cb54779fe05233/header.jpg?t=1772729224" alt="Luna Has Gone（新規追加）" /></a></p><p>Luna Has Gone is an RPG inspired by PS1-era pre-rendered backgrounds, delivering a unique visual style for an RPG Maker game. The gameplay features turn-based battles with limited resources. You play as Misha, the daughter of a world-class corporation, whose goal is to find her missing friend, Luna.</p><p><a href="https://store.steampowered.com/app/4483420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Terminal Hacker: Override（新規追加）</title>
-  <link>https://store.steampowered.com/app/4492150/</link>
-  <guid isPermaLink="false">steam-store-published-4492150</guid>
-  <pubDate>Thu, 05 Mar 2026 18:01:01 +0000</pubDate>
-  <description>Step into the shadows. Terminal Hacker: Override is an infinite, procedurally generated hacking simulator. Accept dark web contracts, bypass firewalls using pure word-deduction logic, and upgrade your system. No hand-holding, just you, the terminal, and the next target.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492150/17f26437961e1a672a7d6b0c842cc28cd4b6b248/header.jpg?t=1772727010" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492150/17f26437961e1a672a7d6b0c842cc28cd4b6b248/header.jpg?t=1772727010" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492150/17f26437961e1a672a7d6b0c842cc28cd4b6b248/header.jpg?t=1772727010" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4492150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492150/17f26437961e1a672a7d6b0c842cc28cd4b6b248/header.jpg?t=1772727010" alt="Terminal Hacker: Override（新規追加）" /></a></p><p>Step into the shadows. Terminal Hacker: Override is an infinite, procedurally generated hacking simulator. Accept dark web contracts, bypass firewalls using pure word-deduction logic, and upgrade your system. No hand-holding, just you, the terminal, and the next target.</p><p><a href="https://store.steampowered.com/app/4492150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
