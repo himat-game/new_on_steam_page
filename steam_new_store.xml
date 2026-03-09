@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 09 Mar 2026 21:48:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 22:25:41 +0000</lastBuildDate>
+<item>
+  <title>Springfield Hotel（新規追加）</title>
+  <link>https://store.steampowered.com/app/4241240/</link>
+  <guid isPermaLink="false">steam-store-published-4241240</guid>
+  <pubDate>Mon, 09 Mar 2026 22:25:41 +0000</pubDate>
+  <description>A social-deduction horror game set in a hotel that changes after dark. Blend in, uncover secrets, and survive the night. Trust is fragile, identities are hidden, and every shift could be your last.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241240/54f683b255b361f372cb4cb0ceae7c7a705fc03c/header.jpg?t=1773094730" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241240/54f683b255b361f372cb4cb0ceae7c7a705fc03c/header.jpg?t=1773094730" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241240/54f683b255b361f372cb4cb0ceae7c7a705fc03c/header.jpg?t=1773094730" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4241240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241240/54f683b255b361f372cb4cb0ceae7c7a705fc03c/header.jpg?t=1773094730" alt="Springfield Hotel（新規追加）" /></a></p><p>A social-deduction horror game set in a hotel that changes after dark. Blend in, uncover secrets, and survive the night. Trust is fragile, identities are hidden, and every shift could be your last.</p><p><a href="https://store.steampowered.com/app/4241240/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Solar Pact（新規追加）</title>
+  <link>https://store.steampowered.com/app/4338900/</link>
+  <guid isPermaLink="false">steam-store-published-4338900</guid>
+  <pubDate>Mon, 09 Mar 2026 22:25:41 +0000</pubDate>
+  <description>Solar Pact is a sci-fi adventure built around movement, combat and discovery. Climb, run, and fight your way through handcrafted worlds, uncovering secrets and mastering traversal as danger and exploration follow every step.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338900/886a059f96b02a44cf56e24be052d9026dc2149a/header.jpg?t=1773094971" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338900/886a059f96b02a44cf56e24be052d9026dc2149a/header.jpg?t=1773094971" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338900/886a059f96b02a44cf56e24be052d9026dc2149a/header.jpg?t=1773094971" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4338900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338900/886a059f96b02a44cf56e24be052d9026dc2149a/header.jpg?t=1773094971" alt="Solar Pact（新規追加）" /></a></p><p>Solar Pact is a sci-fi adventure built around movement, combat and discovery. Climb, run, and fight your way through handcrafted worlds, uncovering secrets and mastering traversal as danger and exploration follow every step.</p><p><a href="https://store.steampowered.com/app/4338900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chug Master Chuck（新規追加）</title>
   <link>https://store.steampowered.com/app/4458370/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123160/e087be27f5316eadf5be22c6ce46e80f93690d73/header.jpg?t=1772801086" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123160/e087be27f5316eadf5be22c6ce46e80f93690d73/header.jpg?t=1772801086" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4123160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4123160/e087be27f5316eadf5be22c6ce46e80f93690d73/header.jpg?t=1772801086" alt="Roguelings（新規追加）" /></a></p><p>Roguelings is a 2D Single-Player Top-Down Roguelite Party-Based RPG. Select characters to build your party, explore the Medieval Fantasy world. Visit the towns, survive the wilderness, enter deep dungeons, and seek ancient artifacts. Restore the world to its original state, or die trying.</p><p><a href="https://store.steampowered.com/app/4123160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Getting Stronger（新規追加）</title>
-  <link>https://store.steampowered.com/app/4499900/</link>
-  <guid isPermaLink="false">steam-store-published-4499900</guid>
-  <pubDate>Fri, 06 Mar 2026 12:52:56 +0000</pubDate>
-  <description>Get shred in creative ways while platforming in Getting Stronger! You can&#x27;t die, but it will definitely hurt... Charge upwards to save your loved one and listen to the shaman. He&#x27;ll help you become the man you&#x27;re supposed to be. He&#x27;ll help you Becoming Stronger.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499900/e658d87fca85681222b096d6892b066c431d7f01/header.jpg?t=1772799056" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499900/e658d87fca85681222b096d6892b066c431d7f01/header.jpg?t=1772799056" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499900/e658d87fca85681222b096d6892b066c431d7f01/header.jpg?t=1772799056" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4499900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499900/e658d87fca85681222b096d6892b066c431d7f01/header.jpg?t=1772799056" alt="Getting Stronger（新規追加）" /></a></p><p>Get shred in creative ways while platforming in Getting Stronger! You can&#x27;t die, but it will definitely hurt... Charge upwards to save your loved one and listen to the shaman. He&#x27;ll help you become the man you&#x27;re supposed to be. He&#x27;ll help you Becoming Stronger.</p><p><a href="https://store.steampowered.com/app/4499900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Banana Life Sim（新規追加）</title>
-  <link>https://store.steampowered.com/app/4486370/</link>
-  <guid isPermaLink="false">steam-store-published-4486370</guid>
-  <pubDate>Fri, 06 Mar 2026 12:52:56 +0000</pubDate>
-  <description>Banana Life Sim is a game in which you can become a banana.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486370/f64894edfa4964d64676b6013f9525a38012f2a4/header.jpg?t=1772798844" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486370/f64894edfa4964d64676b6013f9525a38012f2a4/header.jpg?t=1772798844" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486370/f64894edfa4964d64676b6013f9525a38012f2a4/header.jpg?t=1772798844" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4486370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486370/f64894edfa4964d64676b6013f9525a38012f2a4/header.jpg?t=1772798844" alt="Banana Life Sim（新規追加）" /></a></p><p>Banana Life Sim is a game in which you can become a banana.</p><p><a href="https://store.steampowered.com/app/4486370/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
