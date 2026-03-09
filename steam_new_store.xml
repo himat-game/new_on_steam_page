@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 08 Mar 2026 22:54:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 01:55:35 +0000</lastBuildDate>
+<item>
+  <title>SVAKA: Lost Legends（新規追加）</title>
+  <link>https://store.steampowered.com/app/4295790/</link>
+  <guid isPermaLink="false">steam-store-published-4295790</guid>
+  <pubDate>Mon, 09 Mar 2026 01:55:35 +0000</pubDate>
+  <description>Discover the World of Maji. Help Svaka and his friends to save the possessed innocents from the clutches of Dzuna and find Svaka&#x27;s missing father.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295790/54f2a8816e032491838f4696107b36d8a505a273/header.jpg?t=1773019050" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295790/54f2a8816e032491838f4696107b36d8a505a273/header.jpg?t=1773019050" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295790/54f2a8816e032491838f4696107b36d8a505a273/header.jpg?t=1773019050" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4295790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295790/54f2a8816e032491838f4696107b36d8a505a273/header.jpg?t=1773019050" alt="SVAKA: Lost Legends（新規追加）" /></a></p><p>Discover the World of Maji. Help Svaka and his friends to save the possessed innocents from the clutches of Dzuna and find Svaka&#x27;s missing father.</p><p><a href="https://store.steampowered.com/app/4295790/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Department of Missing Persons（新規追加）</title>
   <link>https://store.steampowered.com/app/4461830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900700/332e4013faeacd90eb9694118ad76bc09fdc1592/header.jpg?t=1772738386" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900700/332e4013faeacd90eb9694118ad76bc09fdc1592/header.jpg?t=1772738386" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3900700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900700/332e4013faeacd90eb9694118ad76bc09fdc1592/header.jpg?t=1772738386" alt="Noël macabre（新規追加）" /></a></p><p>Noël macabre is a narrative-driven horror FPS that blends dark comedy with cosmic horror. Play as Georges, a police officer forced to return to work on Christmas Eve. Investigate a mysterious threat and save those who can still be saved. Will you see your duty through to the end?</p><p><a href="https://store.steampowered.com/app/3900700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ProtoPunk（新規追加）</title>
-  <link>https://store.steampowered.com/app/4445170/</link>
-  <guid isPermaLink="false">steam-store-published-4445170</guid>
-  <pubDate>Thu, 05 Mar 2026 19:36:49 +0000</pubDate>
-  <description>ProtoPunk is a fast-paced, steampunk movement FPS. Gun down clunkers with your revolver to gain speed. Slow the gears of time to sharpen your aim. Slide and boost through the city to uncover your past and stop the corruption choking it.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445170/558c0113a8a75d3bc2949308f6cdcd410ed9841c/header.jpg?t=1772738587" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445170/558c0113a8a75d3bc2949308f6cdcd410ed9841c/header.jpg?t=1772738587" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445170/558c0113a8a75d3bc2949308f6cdcd410ed9841c/header.jpg?t=1772738587" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4445170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4445170/558c0113a8a75d3bc2949308f6cdcd410ed9841c/header.jpg?t=1772738587" alt="ProtoPunk（新規追加）" /></a></p><p>ProtoPunk is a fast-paced, steampunk movement FPS. Gun down clunkers with your revolver to gain speed. Slow the gears of time to sharpen your aim. Slide and boost through the city to uncover your past and stop the corruption choking it.</p><p><a href="https://store.steampowered.com/app/4445170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
