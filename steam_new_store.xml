@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 09 Mar 2026 11:05:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 11:51:15 +0000</lastBuildDate>
+<item>
+  <title>My AI Cultivation System（新規追加）</title>
+  <link>https://store.steampowered.com/app/4425470/</link>
+  <guid isPermaLink="false">steam-store-published-4425470</guid>
+  <pubDate>Mon, 09 Mar 2026 11:51:15 +0000</pubDate>
+  <description>This is a narrative-driven text adventure game set on the stage of a &#x27;sci-fi infused xianxia world,&#x27; blending &#x27;multi-identity simulation,&#x27; &#x27;system privileges cheats,&#x27; and &#x27;deep causal narratives.&#x27; Players will traverse between the real world and an AI-generated virtual xianxia realm</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425470/c78ee8a0035d092f1163475fbbe875c4fe72b09b/header.jpg?t=1773055304" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425470/c78ee8a0035d092f1163475fbbe875c4fe72b09b/header.jpg?t=1773055304" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425470/c78ee8a0035d092f1163475fbbe875c4fe72b09b/header.jpg?t=1773055304" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4425470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425470/c78ee8a0035d092f1163475fbbe875c4fe72b09b/header.jpg?t=1773055304" alt="My AI Cultivation System（新規追加）" /></a></p><p>This is a narrative-driven text adventure game set on the stage of a &#x27;sci-fi infused xianxia world,&#x27; blending &#x27;multi-identity simulation,&#x27; &#x27;system privileges cheats,&#x27; and &#x27;deep causal narratives.&#x27; Players will traverse between the real world and an AI-generated virtual xianxia realm</p><p><a href="https://store.steampowered.com/app/4425470/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>8 Ball Pool: Play Together（新規追加）</title>
   <link>https://store.steampowered.com/app/4501430/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209940/95ea577a93728d7f451c663af6c05bfaa36cdca4/header.jpg?t=1772761123" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209940/95ea577a93728d7f451c663af6c05bfaa36cdca4/header.jpg?t=1772761123" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4209940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209940/95ea577a93728d7f451c663af6c05bfaa36cdca4/header.jpg?t=1772761123" alt="Monster Meals: Big Bite Diner（新規追加）" /></a></p><p>A cooking, exploration and management game where you search procedural biomes for ingredients and serve demanding monster customers. Upgrade your diner and improve your character through a daily loop of gathering, cooking and serving. Play solo or with friends in full co-op.</p><p><a href="https://store.steampowered.com/app/4209940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Overbooked（新規追加）</title>
-  <link>https://store.steampowered.com/app/4482970/</link>
-  <guid isPermaLink="false">steam-store-published-4482970</guid>
-  <pubDate>Fri, 06 Mar 2026 03:09:45 +0000</pubDate>
-  <description>Manage a chaotic hotel in this Roguelite deckbuilder! Meet your slacking Panda manager, arrange rooms for animal guests, and hit demanding KPIs in tight spaces. This hotel needs talent like you!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482970/5356caa2d1b8c7c7d7764edeead901f33792adf9/header.jpg?t=1772761466" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482970/5356caa2d1b8c7c7d7764edeead901f33792adf9/header.jpg?t=1772761466" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482970/5356caa2d1b8c7c7d7764edeead901f33792adf9/header.jpg?t=1772761466" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4482970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4482970/5356caa2d1b8c7c7d7764edeead901f33792adf9/header.jpg?t=1772761466" alt="Overbooked（新規追加）" /></a></p><p>Manage a chaotic hotel in this Roguelite deckbuilder! Meet your slacking Panda manager, arrange rooms for animal guests, and hit demanding KPIs in tight spaces. This hotel needs talent like you!</p><p><a href="https://store.steampowered.com/app/4482970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
