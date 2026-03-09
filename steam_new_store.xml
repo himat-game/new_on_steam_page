@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 09 Mar 2026 09:04:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Mar 2026 10:09:18 +0000</lastBuildDate>
+<item>
+  <title>Target Menace : The Awakening（新規追加）</title>
+  <link>https://store.steampowered.com/app/4239460/</link>
+  <guid isPermaLink="false">steam-store-published-4239460</guid>
+  <pubDate>Mon, 09 Mar 2026 10:09:18 +0000</pubDate>
+  <description>You woke up on a island full of spiders...Uncover, Fight, Explore in the target menace universe </description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239460/3969b9b8cc17192a77a1fc47e6d7c7df249d80e7/header.jpg?t=1773049179" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239460/3969b9b8cc17192a77a1fc47e6d7c7df249d80e7/header.jpg?t=1773049179" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239460/3969b9b8cc17192a77a1fc47e6d7c7df249d80e7/header.jpg?t=1773049179" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4239460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4239460/3969b9b8cc17192a77a1fc47e6d7c7df249d80e7/header.jpg?t=1773049179" alt="Target Menace : The Awakening（新規追加）" /></a></p><p>You woke up on a island full of spiders...Uncover, Fight, Explore in the target menace universe </p><p><a href="https://store.steampowered.com/app/4239460/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Space-Time Girl（新規追加）</title>
   <link>https://store.steampowered.com/app/3464280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192210/d172cd744f88a169d6e7a8cfecd13583a571da9e/header.jpg?t=1772751473" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192210/d172cd744f88a169d6e7a8cfecd13583a571da9e/header.jpg?t=1772751473" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4192210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4192210/d172cd744f88a169d6e7a8cfecd13583a571da9e/header.jpg?t=1772751473" alt="Cold Decree（新規追加）" /></a></p><p>Cold Decree is an atmospheric detective game that puts you in charge of a forensic laboratory. Scrutinize unsolved case files, analyze objects, and manually query the technical data within massive databases. Stop guessing; identify the perpetrator using only concrete evidence.</p><p><a href="https://store.steampowered.com/app/4192210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Corruption Brothel（新規追加）</title>
-  <link>https://store.steampowered.com/app/4485710/</link>
-  <guid isPermaLink="false">steam-store-published-4485710</guid>
-  <pubDate>Thu, 05 Mar 2026 23:29:36 +0000</pubDate>
-  <description>They burned your tavern over a handful of silver. Now you&#x27;re burning their bloodlines to ash. Assassinate nobles. Collect their daughters. Build a brothel empire from aristocratic ruin. Every lord who laughed will kneel, or die in silk sheets.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485710/dcdd8871f6af187aab79ee0d6e8974d3710e0c13/header.jpg?t=1772750989" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485710/dcdd8871f6af187aab79ee0d6e8974d3710e0c13/header.jpg?t=1772750989" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485710/dcdd8871f6af187aab79ee0d6e8974d3710e0c13/header.jpg?t=1772750989" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4485710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485710/dcdd8871f6af187aab79ee0d6e8974d3710e0c13/header.jpg?t=1772750989" alt="Corruption Brothel（新規追加）" /></a></p><p>They burned your tavern over a handful of silver. Now you&#x27;re burning their bloodlines to ash. Assassinate nobles. Collect their daughters. Build a brothel empire from aristocratic ruin. Every lord who laughed will kneel, or die in silk sheets.</p><p><a href="https://store.steampowered.com/app/4485710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
