@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 10 Mar 2026 22:26:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Mar 2026 23:32:22 +0000</lastBuildDate>
+<item>
+  <title>Undead Tide: Light&#x27;s Defense（新規追加）</title>
+  <link>https://store.steampowered.com/app/4508060/</link>
+  <guid isPermaLink="false">steam-store-published-4508060</guid>
+  <pubDate>Tue, 10 Mar 2026 23:32:22 +0000</pubDate>
+  <description>Relaxed strategic bullet hell survival, defending against endless undead legions! A roguelite bullet hell shooter that blends hero development, talent builds, and weapon combinations, supporting multiple playstyles and strategies!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508060/d7cb4b4990aa763af286964d5adf9a02f6885726/header.jpg?t=1773184819" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508060/d7cb4b4990aa763af286964d5adf9a02f6885726/header.jpg?t=1773184819" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508060/d7cb4b4990aa763af286964d5adf9a02f6885726/header.jpg?t=1773184819" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4508060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508060/d7cb4b4990aa763af286964d5adf9a02f6885726/header.jpg?t=1773184819" alt="Undead Tide: Light&#x27;s Defense（新規追加）" /></a></p><p>Relaxed strategic bullet hell survival, defending against endless undead legions! A roguelite bullet hell shooter that blends hero development, talent builds, and weapon combinations, supporting multiple playstyles and strategies!</p><p><a href="https://store.steampowered.com/app/4508060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Tombstone Tactics（新規追加）</title>
   <link>https://store.steampowered.com/app/3400130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468190/56890b85ec51e5125d19ff6a8635a41296db6bb4/header.jpg?t=1772872110" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468190/56890b85ec51e5125d19ff6a8635a41296db6bb4/header.jpg?t=1772872110" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4468190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468190/56890b85ec51e5125d19ff6a8635a41296db6bb4/header.jpg?t=1772872110" alt="Eon Empires（新規追加）" /></a></p><p>Create and lead your civilization from the Stone Age to a futuristic era. Shape history on customizable maps through war, diplomacy, culture, trade, science, and religion.</p><p><a href="https://store.steampowered.com/app/4468190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Totem TD（新規追加）</title>
-  <link>https://store.steampowered.com/app/4499130/</link>
-  <guid isPermaLink="false">steam-store-published-4499130</guid>
-  <pubDate>Sat, 07 Mar 2026 08:58:44 +0000</pubDate>
-  <description>Build your totem from cards, defend against waves of enemies, and grow your deck in this roguelite tower defense adventure. Strategize, rotate, survive, repeat!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499130/37cc99d9fd2602e106f7921250ba336570738553/header.jpg?t=1772873793" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499130/37cc99d9fd2602e106f7921250ba336570738553/header.jpg?t=1772873793" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499130/37cc99d9fd2602e106f7921250ba336570738553/header.jpg?t=1772873793" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4499130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499130/37cc99d9fd2602e106f7921250ba336570738553/header.jpg?t=1772873793" alt="Totem TD（新規追加）" /></a></p><p>Build your totem from cards, defend against waves of enemies, and grow your deck in this roguelite tower defense adventure. Strategize, rotate, survive, repeat!</p><p><a href="https://store.steampowered.com/app/4499130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
