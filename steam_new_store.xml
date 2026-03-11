@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 11 Mar 2026 20:31:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 21:00:59 +0000</lastBuildDate>
+<item>
+  <title>Orbital Decay（新規追加）</title>
+  <link>https://store.steampowered.com/app/4506600/</link>
+  <guid isPermaLink="false">steam-store-published-4506600</guid>
+  <pubDate>Wed, 11 Mar 2026 21:00:59 +0000</pubDate>
+  <description>A catastrophic orbital decay threatens the station, and your math skills are the only defense. Solve rapid-fire math problems to calculate thrust vectors, stabilize the orbit, and climb the global leaderboards in this high-stakes educational simulation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506600/d80244a888501b20d826281b7effdf4f91a97b8b/header.jpg?t=1773262591" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506600/d80244a888501b20d826281b7effdf4f91a97b8b/header.jpg?t=1773262591" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506600/d80244a888501b20d826281b7effdf4f91a97b8b/header.jpg?t=1773262591" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4506600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506600/d80244a888501b20d826281b7effdf4f91a97b8b/header.jpg?t=1773262591" alt="Orbital Decay（新規追加）" /></a></p><p>A catastrophic orbital decay threatens the station, and your math skills are the only defense. Solve rapid-fire math problems to calculate thrust vectors, stabilize the orbit, and climb the global leaderboards in this high-stakes educational simulation.</p><p><a href="https://store.steampowered.com/app/4506600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rebind（新規追加）</title>
   <link>https://store.steampowered.com/app/4492950/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021960/2498ce95677d2cd9f8cf834adffeb35bc4681f89/header.jpg?t=1773076103" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021960/2498ce95677d2cd9f8cf834adffeb35bc4681f89/header.jpg?t=1773076103" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2021960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021960/2498ce95677d2cd9f8cf834adffeb35bc4681f89/header.jpg?t=1773076103" alt="Cozy Grove: Camp Spirit（新規追加）" /></a></p><p>All those who are lost deserve kindness. Help cute, ghostly bears find peace in this relaxing sequel to the beloved life-sim game Cozy Grove, where kindness rules and new crafting, building, and camping island adventures await.</p><p><a href="https://store.steampowered.com/app/2021960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SKY HARVEST（新規追加）</title>
-  <link>https://store.steampowered.com/app/4501170/</link>
-  <guid isPermaLink="false">steam-store-published-4501170</guid>
-  <pubDate>Mon, 09 Mar 2026 17:11:28 +0000</pubDate>
-  <description>The Earth is dead. Take control of the ARC-7 terminal and manage the fate of 5,000 souls. Balance energy and credits, make moral choices, gamble, and survive the Loan Shark. Every keystroke has a price in this 100-day dystopian text-based simulation. Your shift begins now, Operator.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501170/8b24790890071819738e1abcfa713076e094d972/header.jpg?t=1773074698" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501170/8b24790890071819738e1abcfa713076e094d972/header.jpg?t=1773074698" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501170/8b24790890071819738e1abcfa713076e094d972/header.jpg?t=1773074698" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4501170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501170/8b24790890071819738e1abcfa713076e094d972/header.jpg?t=1773074698" alt="SKY HARVEST（新規追加）" /></a></p><p>The Earth is dead. Take control of the ARC-7 terminal and manage the fate of 5,000 souls. Balance energy and credits, make moral choices, gamble, and survive the Loan Shark. Every keystroke has a price in this 100-day dystopian text-based simulation. Your shift begins now, Operator.</p><p><a href="https://store.steampowered.com/app/4501170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
