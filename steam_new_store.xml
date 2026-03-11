@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 11 Mar 2026 22:55:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 23:22:10 +0000</lastBuildDate>
+<item>
+  <title>Dig n Fight（新規追加）</title>
+  <link>https://store.steampowered.com/app/4486230/</link>
+  <guid isPermaLink="false">steam-store-published-4486230</guid>
+  <pubDate>Wed, 11 Mar 2026 23:22:10 +0000</pubDate>
+  <description>Dig n Fight is a roguelite incremental game. Clear each layer by mining every block and crushing every guardian. Evolve your stats after every wave to transform from a tiny pickaxe into an unstoppable force of destruction.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4486230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" alt="Dig n Fight（新規追加）" /></a></p><p>Dig n Fight is a roguelite incremental game. Clear each layer by mining every block and crushing every guardian. Evolve your stats after every wave to transform from a tiny pickaxe into an unstoppable force of destruction.</p><p><a href="https://store.steampowered.com/app/4486230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Peepo Wars（新規追加）</title>
+  <link>https://store.steampowered.com/app/4364510/</link>
+  <guid isPermaLink="false">steam-store-published-4364510</guid>
+  <pubDate>Wed, 11 Mar 2026 23:22:10 +0000</pubDate>
+  <description>Pick a faction. Grab a gun. Kill everything. Peepo Wars is a WWII roguelite FPS with timed runs, kill combos, and upgrade cards. Chain kills to unlock streak abilities, level up mid-run with permanent upgrades, and unlock characters across dozens of runs.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364510/95921c8ed7f0e01647c697fcc5b0ac63eaa79009/header.jpg?t=1773270208" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364510/95921c8ed7f0e01647c697fcc5b0ac63eaa79009/header.jpg?t=1773270208" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364510/95921c8ed7f0e01647c697fcc5b0ac63eaa79009/header.jpg?t=1773270208" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4364510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364510/95921c8ed7f0e01647c697fcc5b0ac63eaa79009/header.jpg?t=1773270208" alt="Peepo Wars（新規追加）" /></a></p><p>Pick a faction. Grab a gun. Kill everything. Peepo Wars is a WWII roguelite FPS with timed runs, kill combos, and upgrade cards. Chain kills to unlock streak abilities, level up mid-run with permanent upgrades, and unlock characters across dozens of runs.</p><p><a href="https://store.steampowered.com/app/4364510/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Believr Football Manager（新規追加）</title>
   <link>https://store.steampowered.com/app/4505090/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4474010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499" alt="Zi´s Mansion（新規追加）" /></a></p><p>Explore an abandoned mansion, solve dark puzzles, and escape creatures guarding a forgotten secret.</p><p><a href="https://store.steampowered.com/app/4474010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>LEAVES 3（新規追加）</title>
-  <link>https://store.steampowered.com/app/4460170/</link>
-  <guid isPermaLink="false">steam-store-published-4460170</guid>
-  <pubDate>Mon, 09 Mar 2026 18:02:35 +0000</pubDate>
-  <description>Dive into the enchanting world of LEAVES 3, a handcrafted adventure full of mysteries and wonders. Explore a world crafted with love and imagination, solve puzzles and free the Treefruities.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460170/55cbfdfd98467857c352de8bbdbae892bbf84f56/header.jpg?t=1773076954" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460170/55cbfdfd98467857c352de8bbdbae892bbf84f56/header.jpg?t=1773076954" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460170/55cbfdfd98467857c352de8bbdbae892bbf84f56/header.jpg?t=1773076954" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4460170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4460170/55cbfdfd98467857c352de8bbdbae892bbf84f56/header.jpg?t=1773076954" alt="LEAVES 3（新規追加）" /></a></p><p>Dive into the enchanting world of LEAVES 3, a handcrafted adventure full of mysteries and wonders. Explore a world crafted with love and imagination, solve puzzles and free the Treefruities.</p><p><a href="https://store.steampowered.com/app/4460170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tragedy is approaching（新規追加）</title>
-  <link>https://store.steampowered.com/app/4486430/</link>
-  <guid isPermaLink="false">steam-store-published-4486430</guid>
-  <pubDate>Mon, 09 Mar 2026 18:02:35 +0000</pubDate>
-  <description>A first-person survival game set in a post-Soviet wasteland. Explore abandoned locations, fight the infected, scavenge resources, and build a base to survive</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486430/b90a076a5efcde17bdfc3f0a35bbc4a39e8e3f82/header.jpg?t=1773077011" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486430/b90a076a5efcde17bdfc3f0a35bbc4a39e8e3f82/header.jpg?t=1773077011" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486430/b90a076a5efcde17bdfc3f0a35bbc4a39e8e3f82/header.jpg?t=1773077011" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4486430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486430/b90a076a5efcde17bdfc3f0a35bbc4a39e8e3f82/header.jpg?t=1773077011" alt="Tragedy is approaching（新規追加）" /></a></p><p>A first-person survival game set in a post-Soviet wasteland. Explore abandoned locations, fight the infected, scavenge resources, and build a base to survive</p><p><a href="https://store.steampowered.com/app/4486430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
