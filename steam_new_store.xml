@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 11 Mar 2026 23:22:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 23:54:58 +0000</lastBuildDate>
+<item>
+  <title>Oopstacle Course（新規追加）</title>
+  <link>https://store.steampowered.com/app/4507020/</link>
+  <guid isPermaLink="false">steam-store-published-4507020</guid>
+  <pubDate>Wed, 11 Mar 2026 23:54:58 +0000</pubDate>
+  <description>Oopstacle Course is a chaotic 3D multiplayer party platformer where you and other players build the obstacle course step by step every round and then try to reach the finish to gain points.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507020/0f05da6379efb36498f1952883bc229b1f3c4393/header.jpg?t=1773272491" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507020/0f05da6379efb36498f1952883bc229b1f3c4393/header.jpg?t=1773272491" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507020/0f05da6379efb36498f1952883bc229b1f3c4393/header.jpg?t=1773272491" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4507020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507020/0f05da6379efb36498f1952883bc229b1f3c4393/header.jpg?t=1773272491" alt="Oopstacle Course（新規追加）" /></a></p><p>Oopstacle Course is a chaotic 3D multiplayer party platformer where you and other players build the obstacle course step by step every round and then try to reach the finish to gain points.</p><p><a href="https://store.steampowered.com/app/4507020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dig n Fight（新規追加）</title>
   <link>https://store.steampowered.com/app/4486230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079160/facccad654f450bff559c949b33fb35faebe98b2/header.jpg?t=1773077013" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079160/facccad654f450bff559c949b33fb35faebe98b2/header.jpg?t=1773077013" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4079160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4079160/facccad654f450bff559c949b33fb35faebe98b2/header.jpg?t=1773077013" alt="Super Basketball Classics（新規追加）" /></a></p><p>Classic arcade basketball returns with a twist. Super Basketball Classics Featuring the World Famous Harlem Globetrotters combines retro-inspired gameplay, modern upgrades, and Globetrotter flair for the ultimate hoops showdown.</p><p><a href="https://store.steampowered.com/app/4079160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Zi´s Mansion（新規追加）</title>
-  <link>https://store.steampowered.com/app/4474010/</link>
-  <guid isPermaLink="false">steam-store-published-4474010</guid>
-  <pubDate>Mon, 09 Mar 2026 18:02:35 +0000</pubDate>
-  <description>Explore an abandoned mansion, solve dark puzzles, and escape creatures guarding a forgotten secret.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4474010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474010/d47ab6d1dfb0395ff941561d5d33e5ffbb331741/header.jpg?t=1773076499" alt="Zi´s Mansion（新規追加）" /></a></p><p>Explore an abandoned mansion, solve dark puzzles, and escape creatures guarding a forgotten secret.</p><p><a href="https://store.steampowered.com/app/4474010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
