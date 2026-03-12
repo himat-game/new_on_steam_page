@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 12 Mar 2026 20:31:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 21:03:02 +0000</lastBuildDate>
+<item>
+  <title>The 7th Guest Remake（新規追加）</title>
+  <link>https://store.steampowered.com/app/4491360/</link>
+  <guid isPermaLink="false">steam-store-published-4491360</guid>
+  <pubDate>Thu, 12 Mar 2026 21:03:02 +0000</pubDate>
+  <description>The iconic game The 7th Guest has been brought back to life with modern technology, delivering an atmospheric story like no other. Explore a foreboding mansion, solve mind-bending puzzles, and uncover its dark secrets. The 7th Guest is the ultimate mystery adventure, reimagined for modern platforms.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491360/ba4e68cf5d709de4d3c4971850548d66321c6110/header.jpg?t=1773349223" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491360/ba4e68cf5d709de4d3c4971850548d66321c6110/header.jpg?t=1773349223" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491360/ba4e68cf5d709de4d3c4971850548d66321c6110/header.jpg?t=1773349223" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4491360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491360/ba4e68cf5d709de4d3c4971850548d66321c6110/header.jpg?t=1773349223" alt="The 7th Guest Remake（新規追加）" /></a></p><p>The iconic game The 7th Guest has been brought back to life with modern technology, delivering an atmospheric story like no other. Explore a foreboding mansion, solve mind-bending puzzles, and uncover its dark secrets. The 7th Guest is the ultimate mystery adventure, reimagined for modern platforms.</p><p><a href="https://store.steampowered.com/app/4491360/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Defender of the Crown: The Legend Returns（新規追加）</title>
   <link>https://store.steampowered.com/app/4208140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361980/4949d649e9030a7bd49343fc4ffdbd78049977fd/header.jpg?t=1773151811" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361980/4949d649e9030a7bd49343fc4ffdbd78049977fd/header.jpg?t=1773151811" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4361980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361980/4949d649e9030a7bd49343fc4ffdbd78049977fd/header.jpg?t=1773151811" alt="Veneer Vølt（新規追加）" /></a></p><p>Grab your friends and clock in as adorable Guard Bots in the most extravagant museum. Set up exhibitions and patrol the halls, but beware — when the lights go out, the exhibits wander off and cause expensive mayhem. Can you contain the damage to Mr. Veneer&#x27;s pockets or will he have to &amp;quot;upgrade&amp;quot; you?</p><p><a href="https://store.steampowered.com/app/4361980/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Mall Explodes!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4457830/</link>
-  <guid isPermaLink="false">steam-store-published-4457830</guid>
-  <pubDate>Tue, 10 Mar 2026 13:59:50 +0000</pubDate>
-  <description>The Mall Explodes! is a visual novel about a security guard with only a few minutes to stop a bomb from exploding in a shopping mall. Figure out who the bomber is and stop them before it&#x27;s too late!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457830/1f01095fbf80823f9e2bdc5a1229081e8b2fd804/header.jpg?t=1773151118" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457830/1f01095fbf80823f9e2bdc5a1229081e8b2fd804/header.jpg?t=1773151118" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457830/1f01095fbf80823f9e2bdc5a1229081e8b2fd804/header.jpg?t=1773151118" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4457830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457830/1f01095fbf80823f9e2bdc5a1229081e8b2fd804/header.jpg?t=1773151118" alt="The Mall Explodes!（新規追加）" /></a></p><p>The Mall Explodes! is a visual novel about a security guard with only a few minutes to stop a bomb from exploding in a shopping mall. Figure out who the bomber is and stop them before it&#x27;s too late!</p><p><a href="https://store.steampowered.com/app/4457830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
