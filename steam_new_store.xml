@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 12 Mar 2026 09:03:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 10:02:29 +0000</lastBuildDate>
+<item>
+  <title>Scam Grandpa（新規追加）</title>
+  <link>https://store.steampowered.com/app/4490860/</link>
+  <guid isPermaLink="false">steam-store-published-4490860</guid>
+  <pubDate>Thu, 12 Mar 2026 10:02:29 +0000</pubDate>
+  <description>Convince Grandpa into giving you 10 million dollars. A thriller and comedy visual novel that you can finish within 30 minutes.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490860/41d1d1dd6cdd8604ed28e294c4879a2d90694a7f/header.jpg?t=1773306216" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490860/41d1d1dd6cdd8604ed28e294c4879a2d90694a7f/header.jpg?t=1773306216" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490860/41d1d1dd6cdd8604ed28e294c4879a2d90694a7f/header.jpg?t=1773306216" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4490860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490860/41d1d1dd6cdd8604ed28e294c4879a2d90694a7f/header.jpg?t=1773306216" alt="Scam Grandpa（新規追加）" /></a></p><p>Convince Grandpa into giving you 10 million dollars. A thriller and comedy visual novel that you can finish within 30 minutes.</p><p><a href="https://store.steampowered.com/app/4490860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Secuhibit（新規追加）</title>
   <link>https://store.steampowered.com/app/4248020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441060/4df0a36fc019836b753e0a00a1e05dfe4aabe3e9/header.jpg?t=1773114440" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441060/4df0a36fc019836b753e0a00a1e05dfe4aabe3e9/header.jpg?t=1773114440" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4441060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441060/4df0a36fc019836b753e0a00a1e05dfe4aabe3e9/header.jpg?t=1773114440" alt="FRCTL（新規追加）" /></a></p><p>FRCTL is a fast-paced arcade shooter roguelike where you pilot a sleek spacecraft through waves of geometric enemies. Chain kills to build devastating combos, unlock powerful upgrades, and push your skills to the limit. Can you survive long enough to face the boss at 100,000 points?</p><p><a href="https://store.steampowered.com/app/4441060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Omnicore: Freiza&#x27;s Retribution（新規追加）</title>
-  <link>https://store.steampowered.com/app/4504810/</link>
-  <guid isPermaLink="false">steam-store-published-4504810</guid>
-  <pubDate>Tue, 10 Mar 2026 01:48:20 +0000</pubDate>
-  <description>A hardcore sci-fi survival game spanning 400+ procedurally generated star systems. Defend, mine, trade, fight, and command your way through a galaxy where five factions never stop expanding and every resource fuels your next desperate move.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504810/c13bab120824442d4b547c79ab4a6f0bafb06306/header.jpg?t=1773105559" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504810/c13bab120824442d4b547c79ab4a6f0bafb06306/header.jpg?t=1773105559" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504810/c13bab120824442d4b547c79ab4a6f0bafb06306/header.jpg?t=1773105559" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4504810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504810/c13bab120824442d4b547c79ab4a6f0bafb06306/header.jpg?t=1773105559" alt="Omnicore: Freiza&#x27;s Retribution（新規追加）" /></a></p><p>A hardcore sci-fi survival game spanning 400+ procedurally generated star systems. Defend, mine, trade, fight, and command your way through a galaxy where five factions never stop expanding and every resource fuels your next desperate move.</p><p><a href="https://store.steampowered.com/app/4504810/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
