@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 13 Mar 2026 05:29:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 06:30:14 +0000</lastBuildDate>
+<item>
+  <title>Carmilla : Crimson Moon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4488990/</link>
+  <guid isPermaLink="false">steam-store-published-4488990</guid>
+  <pubDate>Fri, 13 Mar 2026 06:30:14 +0000</pubDate>
+  <description>A dark yuri gothic romance under a blood-red moon. In the shadowed halls of a crumbling 19th-century Styrian castle, innocent Laura surrenders to Carmilla: a captivating vampire who tempts her soul toward corruption, awakening ecstasy... and risking eternal damnation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488990/60da1a32b34a66ef6a2560583e4c661f6fd4068d/header.jpg?t=1773380142" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488990/60da1a32b34a66ef6a2560583e4c661f6fd4068d/header.jpg?t=1773380142" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488990/60da1a32b34a66ef6a2560583e4c661f6fd4068d/header.jpg?t=1773380142" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4488990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488990/60da1a32b34a66ef6a2560583e4c661f6fd4068d/header.jpg?t=1773380142" alt="Carmilla : Crimson Moon（新規追加）" /></a></p><p>A dark yuri gothic romance under a blood-red moon. In the shadowed halls of a crumbling 19th-century Styrian castle, innocent Laura surrenders to Carmilla: a captivating vampire who tempts her soul toward corruption, awakening ecstasy... and risking eternal damnation.</p><p><a href="https://store.steampowered.com/app/4488990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PERDITION: TERMINUS（新規追加）</title>
   <link>https://store.steampowered.com/app/4442120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387910/d808c663189c815ffb9347ca041aa93484bbfa59/header.jpg?t=1773170141" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387910/d808c663189c815ffb9347ca041aa93484bbfa59/header.jpg?t=1773170141" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4387910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387910/d808c663189c815ffb9347ca041aa93484bbfa59/header.jpg?t=1773170141" alt="There Is Nothing There（新規追加）" /></a></p><p>Narrative-driven psychological horror set in a confined apartment. Explore, interact with everyday objects, and notice increasingly unsettling changes around you. Your small, everyday choices will shape your future and define your ending. A debut title created by a solo developer.</p><p><a href="https://store.steampowered.com/app/4387910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>F.E.R.Y.L.（新規追加）</title>
-  <link>https://store.steampowered.com/app/4459400/</link>
-  <guid isPermaLink="false">steam-store-published-4459400</guid>
-  <pubDate>Tue, 10 Mar 2026 19:53:45 +0000</pubDate>
-  <description>Feryl is an experimental digital life simulation. A small creature lives in a glass terrarium on your desktop. It explores, plays with objects, responds to your voice, and sometimes challenges you to tic-tac-toe.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459400/1df85189bf019eff6184666889227d36b1f37405/header.jpg?t=1773170318" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459400/1df85189bf019eff6184666889227d36b1f37405/header.jpg?t=1773170318" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459400/1df85189bf019eff6184666889227d36b1f37405/header.jpg?t=1773170318" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4459400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459400/1df85189bf019eff6184666889227d36b1f37405/header.jpg?t=1773170318" alt="F.E.R.Y.L.（新規追加）" /></a></p><p>Feryl is an experimental digital life simulation. A small creature lives in a glass terrarium on your desktop. It explores, plays with objects, responds to your voice, and sometimes challenges you to tic-tac-toe.</p><p><a href="https://store.steampowered.com/app/4459400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
