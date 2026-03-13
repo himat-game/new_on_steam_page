@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 13 Mar 2026 11:07:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 11:47:04 +0000</lastBuildDate>
+<item>
+  <title>Make Moku Proud（新規追加）</title>
+  <link>https://store.steampowered.com/app/4500850/</link>
+  <guid isPermaLink="false">steam-store-published-4500850</guid>
+  <pubDate>Fri, 13 Mar 2026 11:47:04 +0000</pubDate>
+  <description>Uncover the truth behind a broken ritual in Make Moku Proud... a psychological visual novel where guilt, obedience, and choice shape the fate of a witness watching his companions disappear.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500850/c3419794e93cf6cf5479854a615309cbe1214d8d/header.jpg?t=1773402293" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500850/c3419794e93cf6cf5479854a615309cbe1214d8d/header.jpg?t=1773402293" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500850/c3419794e93cf6cf5479854a615309cbe1214d8d/header.jpg?t=1773402293" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4500850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500850/c3419794e93cf6cf5479854a615309cbe1214d8d/header.jpg?t=1773402293" alt="Make Moku Proud（新規追加）" /></a></p><p>Uncover the truth behind a broken ritual in Make Moku Proud... a psychological visual novel where guilt, obedience, and choice shape the fate of a witness watching his companions disappear.</p><p><a href="https://store.steampowered.com/app/4500850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>One Day（新規追加）</title>
   <link>https://store.steampowered.com/app/4478540/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507060/702dd5289ea1473edf9a0975e64992cf4b008c09/header.jpg?t=1773178526" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507060/702dd5289ea1473edf9a0975e64992cf4b008c09/header.jpg?t=1773178526" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4507060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507060/702dd5289ea1473edf9a0975e64992cf4b008c09/header.jpg?t=1773178526" alt="Vanguard Valiants（新規追加）" /></a></p><p>Reclaim the lands taken by the Zahar. Build and lead armies to recover the villages seized by the enemy. Acquire better weapons and manage your soldiers throughout the liberation campaign.</p><p><a href="https://store.steampowered.com/app/4507060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Virtual Violence（新規追加）</title>
-  <link>https://store.steampowered.com/app/4502250/</link>
-  <guid isPermaLink="false">steam-store-published-4502250</guid>
-  <pubDate>Tue, 10 Mar 2026 21:01:31 +0000</pubDate>
-  <description>Virtual Violence is a hand animated 2d Fighting game and a 3 Button fighter where you play as various indie v-tubers. </description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502250/ec7e45ac69944b925d392bbd321995ea9abe7e4c/header.jpg?t=1773175937" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502250/ec7e45ac69944b925d392bbd321995ea9abe7e4c/header.jpg?t=1773175937" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502250/ec7e45ac69944b925d392bbd321995ea9abe7e4c/header.jpg?t=1773175937" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4502250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502250/ec7e45ac69944b925d392bbd321995ea9abe7e4c/header.jpg?t=1773175937" alt="Virtual Violence（新規追加）" /></a></p><p>Virtual Violence is a hand animated 2d Fighting game and a 3 Button fighter where you play as various indie v-tubers. </p><p><a href="https://store.steampowered.com/app/4502250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
