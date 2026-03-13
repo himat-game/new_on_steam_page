@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 13 Mar 2026 09:00:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 09:52:02 +0000</lastBuildDate>
+<item>
+  <title>Marshmallow Marvin（新規追加）</title>
+  <link>https://store.steampowered.com/app/3864630/</link>
+  <guid isPermaLink="false">steam-store-published-3864630</guid>
+  <pubDate>Fri, 13 Mar 2026 09:52:02 +0000</pubDate>
+  <description>Marshmallow Marvin is a challenging 2D pixel art platformer where you guide Marvin through trap filled catacombs, avoiding deadly spikes, dodging automated turrets, and mastering precision platforming to reach the exit.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864630/83e0cae319fe4a9e8061c336e3eb145a58027459/header.jpg?t=1773393743" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864630/83e0cae319fe4a9e8061c336e3eb145a58027459/header.jpg?t=1773393743" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864630/83e0cae319fe4a9e8061c336e3eb145a58027459/header.jpg?t=1773393743" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3864630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864630/83e0cae319fe4a9e8061c336e3eb145a58027459/header.jpg?t=1773393743" alt="Marshmallow Marvin（新規追加）" /></a></p><p>Marshmallow Marvin is a challenging 2D pixel art platformer where you guide Marvin through trap filled catacombs, avoiding deadly spikes, dodging automated turrets, and mastering precision platforming to reach the exit.</p><p><a href="https://store.steampowered.com/app/3864630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Edena: Echoes of Magic（新規追加）</title>
   <link>https://store.steampowered.com/app/4467320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493010/5ea6ea15c88d54b79d4a478cde4804a04243a0f4/header.jpg?t=1773174466" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493010/5ea6ea15c88d54b79d4a478cde4804a04243a0f4/header.jpg?t=1773174466" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4493010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493010/5ea6ea15c88d54b79d4a478cde4804a04243a0f4/header.jpg?t=1773174466" alt="Amid the Grid（新規追加）" /></a></p><p>A poetic puzzle journey consisting of maze and jigsaw mechanics embedded in a relaxed surreal 3d platformer with existential tones. Walk, jump, and fly to collect puzzle pieces and maneuver through the grid.</p><p><a href="https://store.steampowered.com/app/4493010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Last Letter（新規追加）</title>
-  <link>https://store.steampowered.com/app/4508710/</link>
-  <guid isPermaLink="false">steam-store-published-4508710</guid>
-  <pubDate>Tue, 10 Mar 2026 20:30:13 +0000</pubDate>
-  <description>The Last Letter is a short VHS-style horror game about a film student who receives mysterious letters containing coordinates that lead to a house deep in the forest, where the truth about his past awaits.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508710/9b16ae77b068f778776761cacc1665d7930e814d/header.jpg?t=1773174342" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508710/9b16ae77b068f778776761cacc1665d7930e814d/header.jpg?t=1773174342" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508710/9b16ae77b068f778776761cacc1665d7930e814d/header.jpg?t=1773174342" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4508710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508710/9b16ae77b068f778776761cacc1665d7930e814d/header.jpg?t=1773174342" alt="The Last Letter（新規追加）" /></a></p><p>The Last Letter is a short VHS-style horror game about a film student who receives mysterious letters containing coordinates that lead to a house deep in the forest, where the truth about his past awaits.</p><p><a href="https://store.steampowered.com/app/4508710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
