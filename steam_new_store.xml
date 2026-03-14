@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 19:05:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 19:43:12 +0000</lastBuildDate>
+<item>
+  <title>Crankles（新規追加）</title>
+  <link>https://store.steampowered.com/app/4113670/</link>
+  <guid isPermaLink="false">steam-store-published-4113670</guid>
+  <pubDate>Sat, 14 Mar 2026 19:43:12 +0000</pubDate>
+  <description>3rd person arcade platformer where you play as Crankles - a cat who despises everything and doesn&#x27;t really care. But kicking some dog butts is better than doing nothing, right? Retrieve the stolen cat toys, learn new skills and uncover all secrets! The fate of The Purring Island is in your paws!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113670/73e33ba3ab2b93a3aad825a7757762db18421821/header.jpg?t=1773515313" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113670/73e33ba3ab2b93a3aad825a7757762db18421821/header.jpg?t=1773515313" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113670/73e33ba3ab2b93a3aad825a7757762db18421821/header.jpg?t=1773515313" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4113670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113670/73e33ba3ab2b93a3aad825a7757762db18421821/header.jpg?t=1773515313" alt="Crankles（新規追加）" /></a></p><p>3rd person arcade platformer where you play as Crankles - a cat who despises everything and doesn&#x27;t really care. But kicking some dog butts is better than doing nothing, right? Retrieve the stolen cat toys, learn new skills and uncover all secrets! The fate of The Purring Island is in your paws!</p><p><a href="https://store.steampowered.com/app/4113670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hus: The 4-Row Mancala（新規追加）</title>
   <link>https://store.steampowered.com/app/4511710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447090/5fe7427b3da382e08bccb8ac6b705f6a44f6d936/header.jpg?t=1773257292" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447090/5fe7427b3da382e08bccb8ac6b705f6a44f6d936/header.jpg?t=1773257292" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4447090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447090/5fe7427b3da382e08bccb8ac6b705f6a44f6d936/header.jpg?t=1773257292" alt="Master of chaos（新規追加）" /></a></p><p>Counter, deflect, and rack up combos to grow stronger in this roguelike where execution is as rewarding as your upgrades. Craft, explore, and take on challenges to unlock your upgrades. Face endless hordes and epic boss battles — only the greatest become the Master of Chaos. The rest just die.</p><p><a href="https://store.steampowered.com/app/4447090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Eye X Eye（新規追加）</title>
-  <link>https://store.steampowered.com/app/4332950/</link>
-  <guid isPermaLink="false">steam-store-published-4332950</guid>
-  <pubDate>Wed, 11 Mar 2026 19:53:28 +0000</pubDate>
-  <description>Eye x Eye is a two player cooperative platform. Push and pull your friend while trying to overcome challenges and the urge to throw them off a cliff.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332950/00ea799c0e93f11eb08f6bde2e484c5f03d08590/header.jpg?t=1773258538" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332950/00ea799c0e93f11eb08f6bde2e484c5f03d08590/header.jpg?t=1773258538" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332950/00ea799c0e93f11eb08f6bde2e484c5f03d08590/header.jpg?t=1773258538" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4332950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332950/00ea799c0e93f11eb08f6bde2e484c5f03d08590/header.jpg?t=1773258538" alt="Eye X Eye（新規追加）" /></a></p><p>Eye x Eye is a two player cooperative platform. Push and pull your friend while trying to overcome challenges and the urge to throw them off a cliff.</p><p><a href="https://store.steampowered.com/app/4332950/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
