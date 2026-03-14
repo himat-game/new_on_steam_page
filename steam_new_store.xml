@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 20:25:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 20:56:46 +0000</lastBuildDate>
+<item>
+  <title>The Illuminati Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/1429070/</link>
+  <guid isPermaLink="false">steam-store-published-1429070</guid>
+  <pubDate>Sat, 14 Mar 2026 20:56:46 +0000</pubDate>
+  <description>Enter a secret initiation inside a massive Masonic temple. Survive deadly trials, uncover hidden symbols, and climb floor by floor toward the top of the lodge. Choose your character, unlock secret scenarios, and prove you are worthy to join the Illuminati and claim world power.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429070/165914275bcd65230bb655bfbf533352835c431b/header.jpg?t=1773521034" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429070/165914275bcd65230bb655bfbf533352835c431b/header.jpg?t=1773521034" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429070/165914275bcd65230bb655bfbf533352835c431b/header.jpg?t=1773521034" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1429070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429070/165914275bcd65230bb655bfbf533352835c431b/header.jpg?t=1773521034" alt="The Illuminati Simulator（新規追加）" /></a></p><p>Enter a secret initiation inside a massive Masonic temple. Survive deadly trials, uncover hidden symbols, and climb floor by floor toward the top of the lodge. Choose your character, unlock secret scenarios, and prove you are worthy to join the Illuminati and claim world power.</p><p><a href="https://store.steampowered.com/app/1429070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Jingle Blocks（新規追加）</title>
   <link>https://store.steampowered.com/app/4498810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505730/61877dc8cf540b4b504562ae576caa604fd14d45/header.jpg?t=1773257014" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505730/61877dc8cf540b4b504562ae576caa604fd14d45/header.jpg?t=1773257014" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4505730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505730/61877dc8cf540b4b504562ae576caa604fd14d45/header.jpg?t=1773257014" alt="Gunmetal Rails（新規追加）" /></a></p><p>A roguelite bullet hell where you build trains — that&#x27;s right, TRAINS. Add carts, bolt on guns, stack upgrades, and see if you can survive. Playstyle? Up to you.</p><p><a href="https://store.steampowered.com/app/4505730/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Finisher（新規追加）</title>
-  <link>https://store.steampowered.com/app/4508480/</link>
-  <guid isPermaLink="false">steam-store-published-4508480</guid>
-  <pubDate>Wed, 11 Mar 2026 19:53:28 +0000</pubDate>
-  <description>Fight endless waves of robots in a brutal factory combat test. Master a fast-paced melee system with punches, kicks, aerial attacks, sword strikes, dodging, blocking, and parrying. Push through increasingly difficult waves and record how far you can go.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508480/e0b3a4045932d130fa46519b4a6090d0f1e55472/header.jpg?t=1773257453" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508480/e0b3a4045932d130fa46519b4a6090d0f1e55472/header.jpg?t=1773257453" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508480/e0b3a4045932d130fa46519b4a6090d0f1e55472/header.jpg?t=1773257453" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4508480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508480/e0b3a4045932d130fa46519b4a6090d0f1e55472/header.jpg?t=1773257453" alt="Finisher（新規追加）" /></a></p><p>Fight endless waves of robots in a brutal factory combat test. Master a fast-paced melee system with punches, kicks, aerial attacks, sword strikes, dodging, blocking, and parrying. Push through increasingly difficult waves and record how far you can go.</p><p><a href="https://store.steampowered.com/app/4508480/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
