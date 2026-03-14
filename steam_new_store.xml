@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 20:56:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 21:28:25 +0000</lastBuildDate>
+<item>
+  <title>Rabbit Scare（新規追加）</title>
+  <link>https://store.steampowered.com/app/4436480/</link>
+  <guid isPermaLink="false">steam-store-published-4436480</guid>
+  <pubDate>Sat, 14 Mar 2026 21:28:25 +0000</pubDate>
+  <description>There&#x27;s something wrong with these buildings, and it&#x27;s your job to fix them! Uncover a spooky mystery that&#x27;s terrifying all the residents in the area. Be careful! There may be something or someone creeping by...</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436480/4de971a63b7a0abb89e62e85835b0d003e8492a4/header.jpg?t=1773523203" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436480/4de971a63b7a0abb89e62e85835b0d003e8492a4/header.jpg?t=1773523203" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436480/4de971a63b7a0abb89e62e85835b0d003e8492a4/header.jpg?t=1773523203" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4436480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4436480/4de971a63b7a0abb89e62e85835b0d003e8492a4/header.jpg?t=1773523203" alt="Rabbit Scare（新規追加）" /></a></p><p>There&#x27;s something wrong with these buildings, and it&#x27;s your job to fix them! Uncover a spooky mystery that&#x27;s terrifying all the residents in the area. Be careful! There may be something or someone creeping by...</p><p><a href="https://store.steampowered.com/app/4436480/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Illuminati Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/1429070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432520/a5a0d285bfcd7403c3dafea431f2f946bbf014e8/header.jpg?t=1773257765" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432520/a5a0d285bfcd7403c3dafea431f2f946bbf014e8/header.jpg?t=1773257765" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4432520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432520/a5a0d285bfcd7403c3dafea431f2f946bbf014e8/header.jpg?t=1773257765" alt="Rune Tower Incremental（新規追加）" /></a></p><p>Chill incremental TD idler: Scale ONE tower to infinity with 14 powerful runes. Experiment wildly - Bounce+Splash shreds packs, Combo+Laser ramps single-target doom, Sniper+Kaboom explodes hordes. AFK waves, smash epic bosses &amp;amp; adventurers, prestige for exponential might. Relax, fuse, ascend!</p><p><a href="https://store.steampowered.com/app/4432520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Gunmetal Rails（新規追加）</title>
-  <link>https://store.steampowered.com/app/4505730/</link>
-  <guid isPermaLink="false">steam-store-published-4505730</guid>
-  <pubDate>Wed, 11 Mar 2026 19:53:28 +0000</pubDate>
-  <description>A roguelite bullet hell where you build trains — that&#x27;s right, TRAINS. Add carts, bolt on guns, stack upgrades, and see if you can survive. Playstyle? Up to you.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505730/61877dc8cf540b4b504562ae576caa604fd14d45/header.jpg?t=1773257014" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505730/61877dc8cf540b4b504562ae576caa604fd14d45/header.jpg?t=1773257014" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505730/61877dc8cf540b4b504562ae576caa604fd14d45/header.jpg?t=1773257014" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4505730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505730/61877dc8cf540b4b504562ae576caa604fd14d45/header.jpg?t=1773257014" alt="Gunmetal Rails（新規追加）" /></a></p><p>A roguelite bullet hell where you build trains — that&#x27;s right, TRAINS. Add carts, bolt on guns, stack upgrades, and see if you can survive. Playstyle? Up to you.</p><p><a href="https://store.steampowered.com/app/4505730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
