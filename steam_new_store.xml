@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 21:28:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 21:53:57 +0000</lastBuildDate>
+<item>
+  <title>Protean Rings: Time to Live（新規追加）</title>
+  <link>https://store.steampowered.com/app/4346590/</link>
+  <guid isPermaLink="false">steam-store-published-4346590</guid>
+  <pubDate>Sat, 14 Mar 2026 21:53:57 +0000</pubDate>
+  <description>Protean Rings is a top down squad stealth strategy heist sandbox. Command specialists to infiltrate with disguises and intel. Run solo/synced plays to bend guards, civilians, and systems into an opening to rescue, kidnap, kill, or embarrass a target—or steal, sabotage, or plant it. Extract cleanly.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346590/103387f7904cc15d1d44f769bd051b18c7d62a56/header.jpg?t=1773524525" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346590/103387f7904cc15d1d44f769bd051b18c7d62a56/header.jpg?t=1773524525" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346590/103387f7904cc15d1d44f769bd051b18c7d62a56/header.jpg?t=1773524525" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4346590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346590/103387f7904cc15d1d44f769bd051b18c7d62a56/header.jpg?t=1773524525" alt="Protean Rings: Time to Live（新規追加）" /></a></p><p>Protean Rings is a top down squad stealth strategy heist sandbox. Command specialists to infiltrate with disguises and intel. Run solo/synced plays to bend guards, civilians, and systems into an opening to rescue, kidnap, kill, or embarrass a target—or steal, sabotage, or plant it. Extract cleanly.</p><p><a href="https://store.steampowered.com/app/4346590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rabbit Scare（新規追加）</title>
   <link>https://store.steampowered.com/app/4436480/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842910/93de75b786348c8e2c1c0dbfc9564204ff43b297/header.jpg?t=1773256540" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842910/93de75b786348c8e2c1c0dbfc9564204ff43b297/header.jpg?t=1773256540" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3842910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842910/93de75b786348c8e2c1c0dbfc9564204ff43b297/header.jpg?t=1773256540" alt="Impact to the Head（新規追加）" /></a></p><p>Story-driven, first-person melee combat game. After being discharged from the military, a man turns to the occupation of a hired killer.</p><p><a href="https://store.steampowered.com/app/3842910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rune Tower Incremental（新規追加）</title>
-  <link>https://store.steampowered.com/app/4432520/</link>
-  <guid isPermaLink="false">steam-store-published-4432520</guid>
-  <pubDate>Wed, 11 Mar 2026 19:53:28 +0000</pubDate>
-  <description>Chill incremental TD idler: Scale ONE tower to infinity with 14 powerful runes. Experiment wildly - Bounce+Splash shreds packs, Combo+Laser ramps single-target doom, Sniper+Kaboom explodes hordes. AFK waves, smash epic bosses &amp;amp; adventurers, prestige for exponential might. Relax, fuse, ascend!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432520/a5a0d285bfcd7403c3dafea431f2f946bbf014e8/header.jpg?t=1773257765" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432520/a5a0d285bfcd7403c3dafea431f2f946bbf014e8/header.jpg?t=1773257765" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432520/a5a0d285bfcd7403c3dafea431f2f946bbf014e8/header.jpg?t=1773257765" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4432520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432520/a5a0d285bfcd7403c3dafea431f2f946bbf014e8/header.jpg?t=1773257765" alt="Rune Tower Incremental（新規追加）" /></a></p><p>Chill incremental TD idler: Scale ONE tower to infinity with 14 powerful runes. Experiment wildly - Bounce+Splash shreds packs, Combo+Laser ramps single-target doom, Sniper+Kaboom explodes hordes. AFK waves, smash epic bosses &amp;amp; adventurers, prestige for exponential might. Relax, fuse, ascend!</p><p><a href="https://store.steampowered.com/app/4432520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
