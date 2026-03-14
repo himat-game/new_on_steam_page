@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 22:57:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 23:32:13 +0000</lastBuildDate>
+<item>
+  <title>Alchemic Apothecary（新規追加）</title>
+  <link>https://store.steampowered.com/app/4512410/</link>
+  <guid isPermaLink="false">steam-store-published-4512410</guid>
+  <pubDate>Sat, 14 Mar 2026 23:32:13 +0000</pubDate>
+  <description>Alchemic Apothecary is a 3D first person singleplayer medieval market-simulator where the player has its own apothecary shop that sells alchemical potions or poisons and inscription scrolls or tomes.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512410/88adb8d3a58761ff0b9f11af7584fe44a71cf0cb/header.jpg?t=1773530373" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512410/88adb8d3a58761ff0b9f11af7584fe44a71cf0cb/header.jpg?t=1773530373" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512410/88adb8d3a58761ff0b9f11af7584fe44a71cf0cb/header.jpg?t=1773530373" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4512410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512410/88adb8d3a58761ff0b9f11af7584fe44a71cf0cb/header.jpg?t=1773530373" alt="Alchemic Apothecary（新規追加）" /></a></p><p>Alchemic Apothecary is a 3D first person singleplayer medieval market-simulator where the player has its own apothecary shop that sells alchemical potions or poisons and inscription scrolls or tomes.</p><p><a href="https://store.steampowered.com/app/4512410/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Alien Masters（新規追加）</title>
   <link>https://store.steampowered.com/app/3997120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492790/ffb9ac22195e588a2f9f7491fc5aa895ab49e9a7/header.jpg?t=1773256683" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492790/ffb9ac22195e588a2f9f7491fc5aa895ab49e9a7/header.jpg?t=1773256683" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4492790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492790/ffb9ac22195e588a2f9f7491fc5aa895ab49e9a7/header.jpg?t=1773256683" alt="FURRY SUMMER（新規追加）" /></a></p><p>Welcome to the ultimate furry beach episode! A scorching hot arcade breaker where you smash blocks to unlock explicit, uncensored videos of gorgeous anthro girls. Grab your paddle, keep your beach balls bouncing, and dive deep into pure M/F summer fun.</p><p><a href="https://store.steampowered.com/app/4492790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>gAillery: Don&#x27;t Trust Your Eyes（新規追加）</title>
-  <link>https://store.steampowered.com/app/4142540/</link>
-  <guid isPermaLink="false">steam-store-published-4142540</guid>
-  <pubDate>Wed, 11 Mar 2026 19:53:28 +0000</pubDate>
-  <description>Can you tell a neural network from a masterpiece? Test yourself and expand your knowledge of world art in the most realistic and thrilling art gallery simulator!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142540/51155e999e6d75a8b842ee29ff855f143111398a/header.jpg?t=1773258429" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142540/51155e999e6d75a8b842ee29ff855f143111398a/header.jpg?t=1773258429" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142540/51155e999e6d75a8b842ee29ff855f143111398a/header.jpg?t=1773258429" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4142540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142540/51155e999e6d75a8b842ee29ff855f143111398a/header.jpg?t=1773258429" alt="gAillery: Don&#x27;t Trust Your Eyes（新規追加）" /></a></p><p>Can you tell a neural network from a masterpiece? Test yourself and expand your knowledge of world art in the most realistic and thrilling art gallery simulator!</p><p><a href="https://store.steampowered.com/app/4142540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
