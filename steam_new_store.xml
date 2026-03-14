@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 21:53:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 22:57:44 +0000</lastBuildDate>
+<item>
+  <title>Alien Masters（新規追加）</title>
+  <link>https://store.steampowered.com/app/3997120/</link>
+  <guid isPermaLink="false">steam-store-published-3997120</guid>
+  <pubDate>Sat, 14 Mar 2026 22:57:44 +0000</pubDate>
+  <description>Run your own burger van in the depths of space! Cook delicious meals for bizarre aliens and dangerous outlaws. Upgrade your kitchen with high-tech equipment, deal with ruthless space gangsters, and build the biggest fast-food empire in the galaxy!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997120/d6589f023780e55efd2223b71812e321b2dd36f6/header.jpg?t=1773528174" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997120/d6589f023780e55efd2223b71812e321b2dd36f6/header.jpg?t=1773528174" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997120/d6589f023780e55efd2223b71812e321b2dd36f6/header.jpg?t=1773528174" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3997120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997120/d6589f023780e55efd2223b71812e321b2dd36f6/header.jpg?t=1773528174" alt="Alien Masters（新規追加）" /></a></p><p>Run your own burger van in the depths of space! Cook delicious meals for bizarre aliens and dangerous outlaws. Upgrade your kitchen with high-tech equipment, deal with ruthless space gangsters, and build the biggest fast-food empire in the galaxy!</p><p><a href="https://store.steampowered.com/app/3997120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Protean Rings: Time to Live（新規追加）</title>
   <link>https://store.steampowered.com/app/4346590/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142540/51155e999e6d75a8b842ee29ff855f143111398a/header.jpg?t=1773258429" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142540/51155e999e6d75a8b842ee29ff855f143111398a/header.jpg?t=1773258429" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4142540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142540/51155e999e6d75a8b842ee29ff855f143111398a/header.jpg?t=1773258429" alt="gAillery: Don&#x27;t Trust Your Eyes（新規追加）" /></a></p><p>Can you tell a neural network from a masterpiece? Test yourself and expand your knowledge of world art in the most realistic and thrilling art gallery simulator!</p><p><a href="https://store.steampowered.com/app/4142540/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Impact to the Head（新規追加）</title>
-  <link>https://store.steampowered.com/app/3842910/</link>
-  <guid isPermaLink="false">steam-store-published-3842910</guid>
-  <pubDate>Wed, 11 Mar 2026 19:53:28 +0000</pubDate>
-  <description>Story-driven, first-person melee combat game. After being discharged from the military, a man turns to the occupation of a hired killer.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842910/93de75b786348c8e2c1c0dbfc9564204ff43b297/header.jpg?t=1773256540" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842910/93de75b786348c8e2c1c0dbfc9564204ff43b297/header.jpg?t=1773256540" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842910/93de75b786348c8e2c1c0dbfc9564204ff43b297/header.jpg?t=1773256540" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3842910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842910/93de75b786348c8e2c1c0dbfc9564204ff43b297/header.jpg?t=1773256540" alt="Impact to the Head（新規追加）" /></a></p><p>Story-driven, first-person melee combat game. After being discharged from the military, a man turns to the occupation of a hired killer.</p><p><a href="https://store.steampowered.com/app/3842910/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
