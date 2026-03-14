@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 07:58:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 08:42:50 +0000</lastBuildDate>
+<item>
+  <title>The Undercut: Racing Manager（新規追加）</title>
+  <link>https://store.steampowered.com/app/4514930/</link>
+  <guid isPermaLink="false">steam-store-published-4514930</guid>
+  <pubDate>Sat, 14 Mar 2026 08:42:50 +0000</pubDate>
+  <description>Circuits come and go. Sponsors rise and fall. Every season reshuffles the deck. A retro motorsport management sim with physics-driven races, procedurally generated tracks, and a dynamic world that never plays the same way twice.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514930/fc59de3950d1d5c884e72db08733464cf4de6a6d/header.jpg?t=1773475861" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514930/fc59de3950d1d5c884e72db08733464cf4de6a6d/header.jpg?t=1773475861" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514930/fc59de3950d1d5c884e72db08733464cf4de6a6d/header.jpg?t=1773475861" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4514930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514930/fc59de3950d1d5c884e72db08733464cf4de6a6d/header.jpg?t=1773475861" alt="The Undercut: Racing Manager（新規追加）" /></a></p><p>Circuits come and go. Sponsors rise and fall. Every season reshuffles the deck. A retro motorsport management sim with physics-driven races, procedurally generated tracks, and a dynamic world that never plays the same way twice.</p><p><a href="https://store.steampowered.com/app/4514930/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Before 6 PM（新規追加）</title>
   <link>https://store.steampowered.com/app/4424370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2550530/f696bb757fa0d384eeb2e828b03e4ca199d65ab4/header.jpg?t=1773243555" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2550530/f696bb757fa0d384eeb2e828b03e4ca199d65ab4/header.jpg?t=1773243555" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2550530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2550530/f696bb757fa0d384eeb2e828b03e4ca199d65ab4/header.jpg?t=1773243555" alt="The Legend of California（新規追加）" /></a></p><p>The Legend of California is an open world, action-survival shooter set on the mythical Island of California during the gold rush era. Explore a vast, untamed frontier and forge your legacy alone or with friends.</p><p><a href="https://store.steampowered.com/app/2550530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fading Voices（新規追加）</title>
-  <link>https://store.steampowered.com/app/2870560/</link>
-  <guid isPermaLink="false">steam-store-published-2870560</guid>
-  <pubDate>Wed, 11 Mar 2026 16:05:35 +0000</pubDate>
-  <description>Fading Voices plays like Final Fantasy + Like a Dragon. Explore twisting caverns and dense forests, squaring up against filthy creatures, bizarre monsters, and elite soldiers across a vast island at war in turn-based tactical combat, and decide the story with a few key decisions.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870560/50d46526136d335398c0d911c5347d5f21e86319/header.jpg?t=1773245002" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870560/50d46526136d335398c0d911c5347d5f21e86319/header.jpg?t=1773245002" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870560/50d46526136d335398c0d911c5347d5f21e86319/header.jpg?t=1773245002" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2870560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870560/50d46526136d335398c0d911c5347d5f21e86319/header.jpg?t=1773245002" alt="Fading Voices（新規追加）" /></a></p><p>Fading Voices plays like Final Fantasy + Like a Dragon. Explore twisting caverns and dense forests, squaring up against filthy creatures, bizarre monsters, and elite soldiers across a vast island at war in turn-based tactical combat, and decide the story with a few key decisions.</p><p><a href="https://store.steampowered.com/app/2870560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
