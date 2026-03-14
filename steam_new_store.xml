@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 19:43:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 20:25:11 +0000</lastBuildDate>
+<item>
+  <title>Jingle Blocks（新規追加）</title>
+  <link>https://store.steampowered.com/app/4498810/</link>
+  <guid isPermaLink="false">steam-store-published-4498810</guid>
+  <pubDate>Sat, 14 Mar 2026 20:25:11 +0000</pubDate>
+  <description>Jingle blocks is a Christmas themed incemental in which you have to make enough toys for the whole world !</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498810/14e232ae431b076fcc4dee9791193cfaa7926a06/header.jpg?t=1773517864" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498810/14e232ae431b076fcc4dee9791193cfaa7926a06/header.jpg?t=1773517864" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498810/14e232ae431b076fcc4dee9791193cfaa7926a06/header.jpg?t=1773517864" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4498810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498810/14e232ae431b076fcc4dee9791193cfaa7926a06/header.jpg?t=1773517864" alt="Jingle Blocks（新規追加）" /></a></p><p>Jingle blocks is a Christmas themed incemental in which you have to make enough toys for the whole world !</p><p><a href="https://store.steampowered.com/app/4498810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Crankles（新規追加）</title>
   <link>https://store.steampowered.com/app/4113670/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508480/e0b3a4045932d130fa46519b4a6090d0f1e55472/header.jpg?t=1773257453" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508480/e0b3a4045932d130fa46519b4a6090d0f1e55472/header.jpg?t=1773257453" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4508480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508480/e0b3a4045932d130fa46519b4a6090d0f1e55472/header.jpg?t=1773257453" alt="Finisher（新規追加）" /></a></p><p>Fight endless waves of robots in a brutal factory combat test. Master a fast-paced melee system with punches, kicks, aerial attacks, sword strikes, dodging, blocking, and parrying. Push through increasingly difficult waves and record how far you can go.</p><p><a href="https://store.steampowered.com/app/4508480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Master of chaos（新規追加）</title>
-  <link>https://store.steampowered.com/app/4447090/</link>
-  <guid isPermaLink="false">steam-store-published-4447090</guid>
-  <pubDate>Wed, 11 Mar 2026 19:53:28 +0000</pubDate>
-  <description>Counter, deflect, and rack up combos to grow stronger in this roguelike where execution is as rewarding as your upgrades. Craft, explore, and take on challenges to unlock your upgrades. Face endless hordes and epic boss battles — only the greatest become the Master of Chaos. The rest just die.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447090/5fe7427b3da382e08bccb8ac6b705f6a44f6d936/header.jpg?t=1773257292" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447090/5fe7427b3da382e08bccb8ac6b705f6a44f6d936/header.jpg?t=1773257292" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447090/5fe7427b3da382e08bccb8ac6b705f6a44f6d936/header.jpg?t=1773257292" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4447090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447090/5fe7427b3da382e08bccb8ac6b705f6a44f6d936/header.jpg?t=1773257292" alt="Master of chaos（新規追加）" /></a></p><p>Counter, deflect, and rack up combos to grow stronger in this roguelike where execution is as rewarding as your upgrades. Craft, explore, and take on challenges to unlock your upgrades. Face endless hordes and epic boss battles — only the greatest become the Master of Chaos. The rest just die.</p><p><a href="https://store.steampowered.com/app/4447090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
