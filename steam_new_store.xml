@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 13 Mar 2026 22:57:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 23:56:53 +0000</lastBuildDate>
+<item>
+  <title>Soul Bind（新規追加）</title>
+  <link>https://store.steampowered.com/app/4059430/</link>
+  <guid isPermaLink="false">steam-store-published-4059430</guid>
+  <pubDate>Fri, 13 Mar 2026 23:56:53 +0000</pubDate>
+  <description>This immersive first-person multiplayer horror game centers on Taoist exorcism, using Chinese metaphysics like Yin-Yang, Bazi, and talismans. Step into the role of a Taoist disciple, confront supernatural entities, and wield the mysterious power of Eastern mysticism.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059430/d928963d33e6315aba0d80d203ffe3d3e3376fed/header.jpg?t=1773445445" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059430/d928963d33e6315aba0d80d203ffe3d3e3376fed/header.jpg?t=1773445445" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059430/d928963d33e6315aba0d80d203ffe3d3e3376fed/header.jpg?t=1773445445" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4059430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059430/d928963d33e6315aba0d80d203ffe3d3e3376fed/header.jpg?t=1773445445" alt="Soul Bind（新規追加）" /></a></p><p>This immersive first-person multiplayer horror game centers on Taoist exorcism, using Chinese metaphysics like Yin-Yang, Bazi, and talismans. Step into the role of a Taoist disciple, confront supernatural entities, and wield the mysterious power of Eastern mysticism.</p><p><a href="https://store.steampowered.com/app/4059430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pistil（新規追加）</title>
   <link>https://store.steampowered.com/app/4263900/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500650/0dd8d98970ffc9cff94c068638e4ed25c1c32bf5/header.jpg?t=1773232211" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500650/0dd8d98970ffc9cff94c068638e4ed25c1c32bf5/header.jpg?t=1773232211" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4500650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500650/0dd8d98970ffc9cff94c068638e4ed25c1c32bf5/header.jpg?t=1773232211" alt="Cave of Mystery（新規追加）" /></a></p><p>Cave of Mystery is an Indie Survival Horror game that focuses scaring even the bravest players. Fight Monsters, solve puzzles, save your daughter and discover the lost lore of the Cave. In this cursed world, only you can stand up to absolute terror.</p><p><a href="https://store.steampowered.com/app/4500650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kitman（新規追加）</title>
-  <link>https://store.steampowered.com/app/4186890/</link>
-  <guid isPermaLink="false">steam-store-published-4186890</guid>
-  <pubDate>Wed, 11 Mar 2026 12:54:24 +0000</pubDate>
-  <description>KITMAN is a 1-4 player sports management simulator set in the backrooms of a stadium. Run the team by running the locker room. Clean the team’s boots, patch jerseys, mop floors, and when no-one is looking… sneak into the gaffer’s office and fix the game plan!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186890/e29e8a904dd34f4c31215a2b3b2f207c55df054c/header.jpg?t=1773230378" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186890/e29e8a904dd34f4c31215a2b3b2f207c55df054c/header.jpg?t=1773230378" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186890/e29e8a904dd34f4c31215a2b3b2f207c55df054c/header.jpg?t=1773230378" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4186890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4186890/e29e8a904dd34f4c31215a2b3b2f207c55df054c/header.jpg?t=1773230378" alt="Kitman（新規追加）" /></a></p><p>KITMAN is a 1-4 player sports management simulator set in the backrooms of a stadium. Run the team by running the locker room. Clean the team’s boots, patch jerseys, mop floors, and when no-one is looking… sneak into the gaffer’s office and fix the game plan!</p><p><a href="https://store.steampowered.com/app/4186890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
