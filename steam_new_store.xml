@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 16:59:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 17:55:37 +0000</lastBuildDate>
+<item>
+  <title>MOLOKAUST（新規追加）</title>
+  <link>https://store.steampowered.com/app/4503570/</link>
+  <guid isPermaLink="false">steam-store-published-4503570</guid>
+  <pubDate>Sat, 14 Mar 2026 17:55:37 +0000</pubDate>
+  <description>Delve into a ruthless cursed town in this first-person survival horror. With a hyper-realistic atmosphere and extreme survival mechanics, you must ration your inventory and face your worst nightmares to save your wife and daughter.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503570/72bfd849533ef8af5e78bc7d7db4ee2b33e2594b/header.jpg?t=1773509975" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503570/72bfd849533ef8af5e78bc7d7db4ee2b33e2594b/header.jpg?t=1773509975" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503570/72bfd849533ef8af5e78bc7d7db4ee2b33e2594b/header.jpg?t=1773509975" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4503570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503570/72bfd849533ef8af5e78bc7d7db4ee2b33e2594b/header.jpg?t=1773509975" alt="MOLOKAUST（新規追加）" /></a></p><p>Delve into a ruthless cursed town in this first-person survival horror. With a hyper-realistic atmosphere and extreme survival mechanics, you must ration your inventory and face your worst nightmares to save your wife and daughter.</p><p><a href="https://store.steampowered.com/app/4503570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Fancy Pants Adventures Online（新規追加）</title>
   <link>https://store.steampowered.com/app/4503040/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230580/a6f2443069791f52f4c719b20909ccc7b2ca0d9c/header.jpg?t=1773257916" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230580/a6f2443069791f52f4c719b20909ccc7b2ca0d9c/header.jpg?t=1773257916" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4230580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230580/a6f2443069791f52f4c719b20909ccc7b2ca0d9c/header.jpg?t=1773257916" alt="DA_RL（新規追加）" /></a></p><p>DA_RL is a turn-based traditional roguelike with procedurally generated dungeons, five distinct classes, a deep item system, and dozens of enemy types. Every run is different.</p><p><a href="https://store.steampowered.com/app/4230580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>A Light（新規追加）</title>
-  <link>https://store.steampowered.com/app/4488170/</link>
-  <guid isPermaLink="false">steam-store-published-4488170</guid>
-  <pubDate>Wed, 11 Mar 2026 19:12:04 +0000</pubDate>
-  <description>Explore a living world shaped by ancient guardians. Defeat them to gain relics, alter the land, and open new paths — but every victory reshapes the world around you. Choose your order, adapt to changing environments, and uncover the truth behind the prison inside the sun.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488170/c591491077c5ade399a940ffd4ea33b0070c7a02/header.jpg?t=1773255358" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488170/c591491077c5ade399a940ffd4ea33b0070c7a02/header.jpg?t=1773255358" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488170/c591491077c5ade399a940ffd4ea33b0070c7a02/header.jpg?t=1773255358" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4488170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488170/c591491077c5ade399a940ffd4ea33b0070c7a02/header.jpg?t=1773255358" alt="A Light（新規追加）" /></a></p><p>Explore a living world shaped by ancient guardians. Defeat them to gain relics, alter the land, and open new paths — but every victory reshapes the world around you. Choose your order, adapt to changing environments, and uncover the truth behind the prison inside the sun.</p><p><a href="https://store.steampowered.com/app/4488170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
