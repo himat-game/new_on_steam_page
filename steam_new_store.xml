@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 14 Mar 2026 10:33:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 11:53:41 +0000</lastBuildDate>
+<item>
+  <title>Coffee Raccoons（新規追加）</title>
+  <link>https://store.steampowered.com/app/4448200/</link>
+  <guid isPermaLink="false">steam-store-published-4448200</guid>
+  <pubDate>Sat, 14 Mar 2026 11:53:41 +0000</pubDate>
+  <description>Run your intergalactic brewing business as you explore alien worlds in search of rare ingredients. Upgrade your machines, unlock quirky space gear, and journey to distant planets to discover new flavors. Craft irresistible menus and grow your café into a legendary coffee destination among the stars!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448200/59a1c5b427eb9e4a59a6bdfe9c731966165e8223/header.jpg?t=1773488000" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448200/59a1c5b427eb9e4a59a6bdfe9c731966165e8223/header.jpg?t=1773488000" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448200/59a1c5b427eb9e4a59a6bdfe9c731966165e8223/header.jpg?t=1773488000" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4448200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448200/59a1c5b427eb9e4a59a6bdfe9c731966165e8223/header.jpg?t=1773488000" alt="Coffee Raccoons（新規追加）" /></a></p><p>Run your intergalactic brewing business as you explore alien worlds in search of rare ingredients. Upgrade your machines, unlock quirky space gear, and journey to distant planets to discover new flavors. Craft irresistible menus and grow your café into a legendary coffee destination among the stars!</p><p><a href="https://store.steampowered.com/app/4448200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Starwing Tactics（新規追加）</title>
   <link>https://store.steampowered.com/app/4460090/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948470/a0ff35585a89208ea8ab1f4b4ac51c6af838018f/header.jpg?t=1773251828" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948470/a0ff35585a89208ea8ab1f4b4ac51c6af838018f/header.jpg?t=1773251828" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3948470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948470/a0ff35585a89208ea8ab1f4b4ac51c6af838018f/header.jpg?t=1773251828" alt="RWR 2（新規追加）" /></a></p><p>The fan-favorite top-down tactical shooter is back! Bigger, smarter, and more tactical than ever. RWR 2 builds on the acclaimed RUNNING WITH RIFLES with fresh possibilities and familiar charm.</p><p><a href="https://store.steampowered.com/app/3948470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Terminal Tales: An Interactive Fiction Anthology（新規追加）</title>
-  <link>https://store.steampowered.com/app/4420210/</link>
-  <guid isPermaLink="false">steam-store-published-4420210</guid>
-  <pubDate>Wed, 11 Mar 2026 18:05:44 +0000</pubDate>
-  <description>Terminal Tales: An Interactive Fiction Anthology features multiple text-based adventures from a variety of genres. Explore a curated vault of brand-new, modern mysteries and sci-fi epics. No graphics. No limits. Just your imagination and a world waiting for your command.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420210/6675ea360ba99b8596e368df96fe4702d605fc50/header.jpg?t=1773251923" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420210/6675ea360ba99b8596e368df96fe4702d605fc50/header.jpg?t=1773251923" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420210/6675ea360ba99b8596e368df96fe4702d605fc50/header.jpg?t=1773251923" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4420210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420210/6675ea360ba99b8596e368df96fe4702d605fc50/header.jpg?t=1773251923" alt="Terminal Tales: An Interactive Fiction Anthology（新規追加）" /></a></p><p>Terminal Tales: An Interactive Fiction Anthology features multiple text-based adventures from a variety of genres. Explore a curated vault of brand-new, modern mysteries and sci-fi epics. No graphics. No limits. Just your imagination and a world waiting for your command.</p><p><a href="https://store.steampowered.com/app/4420210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
