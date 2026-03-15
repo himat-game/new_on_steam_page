@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Mar 2026 19:25:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 20:26:09 +0000</lastBuildDate>
+<item>
+  <title>Hell of a Lie（新規追加）</title>
+  <link>https://store.steampowered.com/app/2879610/</link>
+  <guid isPermaLink="false">steam-store-published-2879610</guid>
+  <pubDate>Sun, 15 Mar 2026 20:26:09 +0000</pubDate>
+  <description>Hell of a Lie is a point-and-click adventure with detective elements where the player takes on the role of a demon intern working in Hell’s bureaucracy. The demon’s task is to make deals for human souls. But it’s not that simple — every person has their own fears, dreams, and weaknesses.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879610/4e2663a20fc7bb959514d7ba508ec08b65c8c3f4/header.jpg?t=1773605689" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879610/4e2663a20fc7bb959514d7ba508ec08b65c8c3f4/header.jpg?t=1773605689" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879610/4e2663a20fc7bb959514d7ba508ec08b65c8c3f4/header.jpg?t=1773605689" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2879610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879610/4e2663a20fc7bb959514d7ba508ec08b65c8c3f4/header.jpg?t=1773605689" alt="Hell of a Lie（新規追加）" /></a></p><p>Hell of a Lie is a point-and-click adventure with detective elements where the player takes on the role of a demon intern working in Hell’s bureaucracy. The demon’s task is to make deals for human souls. But it’s not that simple — every person has their own fears, dreams, and weaknesses.</p><p><a href="https://store.steampowered.com/app/2879610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>AIAI（新規追加）</title>
   <link>https://store.steampowered.com/app/3838240/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017960/853a5f5d8dfe6973b2360f97650cf502bb8574f0/header.jpg?t=1773287930" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017960/853a5f5d8dfe6973b2360f97650cf502bb8574f0/header.jpg?t=1773287930" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4017960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017960/853a5f5d8dfe6973b2360f97650cf502bb8574f0/header.jpg?t=1773287930" alt="Rose Guns Days -Season 1-（新規追加）" /></a></p><p>In 1944, unprecedented disaster struck Japan, forcing it to accept an unconditional ceasefire from its enemy nations in World War 2. As a result, the Japanese have become a people without a nation, but they still come together and do whatever it takes to live without giving up...</p><p><a href="https://store.steampowered.com/app/4017960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Galaxy Grudge（新規追加）</title>
-  <link>https://store.steampowered.com/app/4217550/</link>
-  <guid isPermaLink="false">steam-store-published-4217550</guid>
-  <pubDate>Thu, 12 Mar 2026 04:12:06 +0000</pubDate>
-  <description>Galaxy Grudge is a free-to-play arena shooter built for fast, competitive multiplayer. Inspired by the golden age of classic FPS games, combining fluid movement, inventive weapons, and dynamic game modes for intense, skill-driven battles. Join in the development and be a part of the next great AFPS!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217550/f059b00cd3955fd4c94675ecd1092ad80d6ea5a7/header.jpg?t=1773286396" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217550/f059b00cd3955fd4c94675ecd1092ad80d6ea5a7/header.jpg?t=1773286396" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217550/f059b00cd3955fd4c94675ecd1092ad80d6ea5a7/header.jpg?t=1773286396" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4217550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217550/f059b00cd3955fd4c94675ecd1092ad80d6ea5a7/header.jpg?t=1773286396" alt="Galaxy Grudge（新規追加）" /></a></p><p>Galaxy Grudge is a free-to-play arena shooter built for fast, competitive multiplayer. Inspired by the golden age of classic FPS games, combining fluid movement, inventive weapons, and dynamic game modes for intense, skill-driven battles. Join in the development and be a part of the next great AFPS!</p><p><a href="https://store.steampowered.com/app/4217550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
