@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Mar 2026 15:36:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 17:37:37 +0000</lastBuildDate>
+<item>
+  <title>Stardust Trial（新規追加）</title>
+  <link>https://store.steampowered.com/app/4387110/</link>
+  <guid isPermaLink="false">steam-store-published-4387110</guid>
+  <pubDate>Sun, 15 Mar 2026 17:37:37 +0000</pubDate>
+  <description>A cute, anime-style casual roguelite survival game. Actively attack monsters to rack up kills and unlock powerful skills! Summon magical artifacts to fight alongside you. Clear dynamic stages with unique victory conditions and enjoy the ultimate bullet-heaven experience!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387110/0502b85bab500f366cb183126135611735d80c9a/header.jpg?t=1773594884" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387110/0502b85bab500f366cb183126135611735d80c9a/header.jpg?t=1773594884" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387110/0502b85bab500f366cb183126135611735d80c9a/header.jpg?t=1773594884" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4387110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387110/0502b85bab500f366cb183126135611735d80c9a/header.jpg?t=1773594884" alt="Stardust Trial（新規追加）" /></a></p><p>A cute, anime-style casual roguelite survival game. Actively attack monsters to rack up kills and unlock powerful skills! Summon magical artifacts to fight alongside you. Clear dynamic stages with unique victory conditions and enjoy the ultimate bullet-heaven experience!</p><p><a href="https://store.steampowered.com/app/4387110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sheepdog（新規追加）</title>
   <link>https://store.steampowered.com/app/3404270/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419240/6c612b26f311cdb277308c149c34d03d2a3abaaa/header.jpg?t=1773281451" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419240/6c612b26f311cdb277308c149c34d03d2a3abaaa/header.jpg?t=1773281451" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4419240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419240/6c612b26f311cdb277308c149c34d03d2a3abaaa/header.jpg?t=1773281451" alt="Under the Heavens: Warring States Saga（新規追加）" /></a></p><p>A choice-driven narrative RPG set in China’s Warring States period. Rise from a nameless soldier to a legendary general through decisions with permanent consequences. Death is final. History remembers only the survivors.</p><p><a href="https://store.steampowered.com/app/4419240/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lisa: The Lost Memories（新規追加）</title>
-  <link>https://store.steampowered.com/app/4498730/</link>
-  <guid isPermaLink="false">steam-store-published-4498730</guid>
-  <pubDate>Thu, 12 Mar 2026 01:52:35 +0000</pubDate>
-  <description>Lisa The Lost Memories is a visual novel game where you help Lisa regain her memories. You&#x27;ll choose your own path and unlock multiple endings. CONQUER THE MEMORY DUNGEON!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498730/0a125e6f45d0afe834a59c79f4b155627302eda8/header.jpg?t=1773278662" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498730/0a125e6f45d0afe834a59c79f4b155627302eda8/header.jpg?t=1773278662" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498730/0a125e6f45d0afe834a59c79f4b155627302eda8/header.jpg?t=1773278662" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4498730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498730/0a125e6f45d0afe834a59c79f4b155627302eda8/header.jpg?t=1773278662" alt="Lisa: The Lost Memories（新規追加）" /></a></p><p>Lisa The Lost Memories is a visual novel game where you help Lisa regain her memories. You&#x27;ll choose your own path and unlock multiple endings. CONQUER THE MEMORY DUNGEON!</p><p><a href="https://store.steampowered.com/app/4498730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
