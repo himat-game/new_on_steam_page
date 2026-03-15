@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Mar 2026 20:57:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 21:32:14 +0000</lastBuildDate>
+<item>
+  <title>Poisoned Path（新規追加）</title>
+  <link>https://store.steampowered.com/app/4509000/</link>
+  <guid isPermaLink="false">steam-store-published-4509000</guid>
+  <pubDate>Sun, 15 Mar 2026 21:32:14 +0000</pubDate>
+  <description>Poisoned Path is a deep visual novel set in a mysterious atmosphere, where your choices determine the story&#x27;s fate. Uncover dark secrets and chart your own course.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509000/5577c66afd11acb638862a1fae3a65699a88286c/header.jpg?t=1773609600" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509000/5577c66afd11acb638862a1fae3a65699a88286c/header.jpg?t=1773609600" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509000/5577c66afd11acb638862a1fae3a65699a88286c/header.jpg?t=1773609600" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4509000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509000/5577c66afd11acb638862a1fae3a65699a88286c/header.jpg?t=1773609600" alt="Poisoned Path（新規追加）" /></a></p><p>Poisoned Path is a deep visual novel set in a mysterious atmosphere, where your choices determine the story&#x27;s fate. Uncover dark secrets and chart your own course.</p><p><a href="https://store.steampowered.com/app/4509000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Souq Boss Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4229880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504630/cf1fecf8d2b980106178fd428be1e4b8c5a6224e/header.jpg?t=1773287953" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504630/cf1fecf8d2b980106178fd428be1e4b8c5a6224e/header.jpg?t=1773287953" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4504630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504630/cf1fecf8d2b980106178fd428be1e4b8c5a6224e/header.jpg?t=1773287953" alt="人性游戏（新規追加）" /></a></p><p>“The Human Game” is an immersive interactive fiction game. You play as Jingchuan, a debt slave who risks his life on a high‑altitude bridge to break free. Surviving to uncover a conspiracy. Face the ultimate choice between survival and morality, and advance the story via exploration and choices.</p><p><a href="https://store.steampowered.com/app/4504630/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Spellrite（新規追加）</title>
-  <link>https://store.steampowered.com/app/4466390/</link>
-  <guid isPermaLink="false">steam-store-published-4466390</guid>
-  <pubDate>Thu, 12 Mar 2026 04:12:06 +0000</pubDate>
-  <description>Explore a shifting magical library in this procedurally generated roguelike. Battle monsters, type unstable spells, and collect powerful items. Each run teaches you new spells to remember and master as you uncover secrets and search for a cure for your wife’s illness.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466390/572a53219225e180da9c2c662752fd12fa15965d/header.jpg?t=1773281896" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466390/572a53219225e180da9c2c662752fd12fa15965d/header.jpg?t=1773281896" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466390/572a53219225e180da9c2c662752fd12fa15965d/header.jpg?t=1773281896" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4466390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466390/572a53219225e180da9c2c662752fd12fa15965d/header.jpg?t=1773281896" alt="Spellrite（新規追加）" /></a></p><p>Explore a shifting magical library in this procedurally generated roguelike. Battle monsters, type unstable spells, and collect powerful items. Each run teaches you new spells to remember and master as you uncover secrets and search for a cure for your wife’s illness.</p><p><a href="https://store.steampowered.com/app/4466390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
