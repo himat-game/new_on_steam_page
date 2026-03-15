@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 15 Mar 2026 07:14:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 07:54:29 +0000</lastBuildDate>
+<item>
+  <title>Holy Doner!（新規追加）</title>
+  <link>https://store.steampowered.com/app/4406530/</link>
+  <guid isPermaLink="false">steam-store-published-4406530</guid>
+  <pubDate>Sun, 15 Mar 2026 07:54:29 +0000</pubDate>
+  <description>Your uncle has gone on a business trip, so now his shawarma stand is yours. Take orders, throw food at customers, and see how they react if you mess up! Compete against the clock alone or create absolute chaos in co-op mode. Can you run a business when everything around you is on fire?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406530/a33aad76a057d6db7cb4aa206f2944cd1523e4e9/header.jpg?t=1773559232" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406530/a33aad76a057d6db7cb4aa206f2944cd1523e4e9/header.jpg?t=1773559232" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406530/a33aad76a057d6db7cb4aa206f2944cd1523e4e9/header.jpg?t=1773559232" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4406530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406530/a33aad76a057d6db7cb4aa206f2944cd1523e4e9/header.jpg?t=1773559232" alt="Holy Doner!（新規追加）" /></a></p><p>Your uncle has gone on a business trip, so now his shawarma stand is yours. Take orders, throw food at customers, and see how they react if you mess up! Compete against the clock alone or create absolute chaos in co-op mode. Can you run a business when everything around you is on fire?</p><p><a href="https://store.steampowered.com/app/4406530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Yuki-Onna Checker（新規追加）</title>
   <link>https://store.steampowered.com/app/4513410/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507020/0f05da6379efb36498f1952883bc229b1f3c4393/header.jpg?t=1773272491" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507020/0f05da6379efb36498f1952883bc229b1f3c4393/header.jpg?t=1773272491" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4507020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507020/0f05da6379efb36498f1952883bc229b1f3c4393/header.jpg?t=1773272491" alt="Oopstacle Course（新規追加）" /></a></p><p>Oopstacle Course is a chaotic 3D multiplayer party platformer where you and other players build the obstacle course step by step every round and then try to reach the finish to gain points.</p><p><a href="https://store.steampowered.com/app/4507020/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dig n Fight（新規追加）</title>
-  <link>https://store.steampowered.com/app/4486230/</link>
-  <guid isPermaLink="false">steam-store-published-4486230</guid>
-  <pubDate>Wed, 11 Mar 2026 23:22:10 +0000</pubDate>
-  <description>Dig n Fight is a roguelite incremental game. Clear each layer by mining every block and crushing every guardian. Evolve your stats after every wave to transform from a tiny pickaxe into an unstoppable force of destruction.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4486230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/3a6a3811ba62e5034db1302cdcb0a11cc4d537cd/header.jpg?t=1773270120" alt="Dig n Fight（新規追加）" /></a></p><p>Dig n Fight is a roguelite incremental game. Clear each layer by mining every block and crushing every guardian. Evolve your stats after every wave to transform from a tiny pickaxe into an unstoppable force of destruction.</p><p><a href="https://store.steampowered.com/app/4486230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
