@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 16 Mar 2026 05:05:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 06:49:23 +0000</lastBuildDate>
+<item>
+  <title>Void Rhythm（新規追加）</title>
+  <link>https://store.steampowered.com/app/4494800/</link>
+  <guid isPermaLink="false">steam-store-published-4494800</guid>
+  <pubDate>Mon, 16 Mar 2026 06:49:23 +0000</pubDate>
+  <description>Fight through unending swarms of enemies and blast your way out of the siege. When the odds are stacked against you, trigger Bullet Time to turn the tide, slowing the world down to dismantle your enemies one by one. Strike hard, strike fast—offense is your best defense.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494800/a990d6c47175f24f245eff2a9ebfe6a64f26eea4/header.jpg?t=1773640757" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494800/a990d6c47175f24f245eff2a9ebfe6a64f26eea4/header.jpg?t=1773640757" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494800/a990d6c47175f24f245eff2a9ebfe6a64f26eea4/header.jpg?t=1773640757" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4494800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494800/a990d6c47175f24f245eff2a9ebfe6a64f26eea4/header.jpg?t=1773640757" alt="Void Rhythm（新規追加）" /></a></p><p>Fight through unending swarms of enemies and blast your way out of the siege. When the odds are stacked against you, trigger Bullet Time to turn the tide, slowing the world down to dismantle your enemies one by one. Strike hard, strike fast—offense is your best defense.</p><p><a href="https://store.steampowered.com/app/4494800/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Keyboard Rush（新規追加）</title>
   <link>https://store.steampowered.com/app/4455420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172450/16f16a6bd0c1a7cbe9516ec64490ed4cd6618e74/header.jpg?t=1773296043" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172450/16f16a6bd0c1a7cbe9516ec64490ed4cd6618e74/header.jpg?t=1773296043" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4172450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4172450/16f16a6bd0c1a7cbe9516ec64490ed4cd6618e74/header.jpg?t=1773296043" alt="捉迷藏（新規追加）" /></a></p><p>The Hidden Ones is a cooperative horror puzzle game that supports four-player online multiplayer. An seemingly ordinary fire incident unravels the prologue to a cold case that has been buried in a small town , binding the fates of four protagonists into an eerie and intricate maze of mystery.</p><p><a href="https://store.steampowered.com/app/4172450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ShootAndJump（新規追加）</title>
-  <link>https://store.steampowered.com/app/2553750/</link>
-  <guid isPermaLink="false">steam-store-published-2553750</guid>
-  <pubDate>Thu, 12 Mar 2026 06:31:45 +0000</pubDate>
-  <description>Every shot comes with recoil! This is the only rule. Survive first, then defeat more enemies. Plan each move carefully—every shot you take matters. Whether you can break through the enemy&#x27;s encirclement and escape depends entirely on your skill.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553750/f47b845c980f37df276a4b9d0567143155dc61a2/header.jpg?t=1773294998" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553750/f47b845c980f37df276a4b9d0567143155dc61a2/header.jpg?t=1773294998" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553750/f47b845c980f37df276a4b9d0567143155dc61a2/header.jpg?t=1773294998" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2553750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553750/f47b845c980f37df276a4b9d0567143155dc61a2/header.jpg?t=1773294998" alt="ShootAndJump（新規追加）" /></a></p><p>Every shot comes with recoil! This is the only rule. Survive first, then defeat more enemies. Plan each move carefully—every shot you take matters. Whether you can break through the enemy&#x27;s encirclement and escape depends entirely on your skill.</p><p><a href="https://store.steampowered.com/app/2553750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
