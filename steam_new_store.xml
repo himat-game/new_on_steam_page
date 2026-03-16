@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 16 Mar 2026 22:59:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 23:38:08 +0000</lastBuildDate>
+<item>
+  <title>Typer Survivor（新規追加）</title>
+  <link>https://store.steampowered.com/app/4430310/</link>
+  <guid isPermaLink="false">steam-store-published-4430310</guid>
+  <pubDate>Mon, 16 Mar 2026 23:38:08 +0000</pubDate>
+  <description>Typer Survivor is a fast-paced typing roguelike that will push your typing to the limit. Battle through monster-filled dungeons, level up between waves, and build a run from dozens of upgrades. Earn letters by defeating enemies and spend them at the shop to unlock new characters, spells, and more.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430310/f724d3f815c9c13f2bcaeba41c5afb6ed788a52c/header.jpg?t=1773703331" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430310/f724d3f815c9c13f2bcaeba41c5afb6ed788a52c/header.jpg?t=1773703331" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430310/f724d3f815c9c13f2bcaeba41c5afb6ed788a52c/header.jpg?t=1773703331" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4430310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430310/f724d3f815c9c13f2bcaeba41c5afb6ed788a52c/header.jpg?t=1773703331" alt="Typer Survivor（新規追加）" /></a></p><p>Typer Survivor is a fast-paced typing roguelike that will push your typing to the limit. Battle through monster-filled dungeons, level up between waves, and build a run from dozens of upgrades. Earn letters by defeating enemies and spend them at the shop to unlock new characters, spells, and more.</p><p><a href="https://store.steampowered.com/app/4430310/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>10s（新規追加）</title>
   <link>https://store.steampowered.com/app/4501820/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437600/920f5d60e5255cb7c88eb689847dbe26fbd50a62/header.jpg?t=1773359656" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437600/920f5d60e5255cb7c88eb689847dbe26fbd50a62/header.jpg?t=1773359656" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3437600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3437600/920f5d60e5255cb7c88eb689847dbe26fbd50a62/header.jpg?t=1773359656" alt="Fear Hour（新規追加）" /></a></p><p>Insane mistakes brought you to a life-or-death judgment. Fight off a terrifying Killer, or kill those who trespass on your territory in this tense (1v5) online experience. Where following your instincts might help you escape, or kill them all.</p><p><a href="https://store.steampowered.com/app/3437600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mandala（新規追加）</title>
-  <link>https://store.steampowered.com/app/4293770/</link>
-  <guid isPermaLink="false">steam-store-published-4293770</guid>
-  <pubDate>Fri, 13 Mar 2026 01:56:17 +0000</pubDate>
-  <description>A hypnotic wave shooter where calm is your greatest power. Release petals into the void and drift through fractal worlds that breathe with the music.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1773359269" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1773359269" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1773359269" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4293770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1773359269" alt="Mandala（新規追加）" /></a></p><p>A hypnotic wave shooter where calm is your greatest power. Release petals into the void and drift through fractal worlds that breathe with the music.</p><p><a href="https://store.steampowered.com/app/4293770/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
