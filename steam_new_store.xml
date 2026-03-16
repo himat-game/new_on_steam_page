@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 16 Mar 2026 08:06:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 09:15:45 +0000</lastBuildDate>
+<item>
+  <title>Phase Line Red（新規追加）</title>
+  <link>https://store.steampowered.com/app/4488690/</link>
+  <guid isPermaLink="false">steam-store-published-4488690</guid>
+  <pubDate>Mon, 16 Mar 2026 09:15:45 +0000</pubDate>
+  <description>Take command in Phase Line Red, a WEGO turn-based tactical wargame. Plan company-level operations, issue orders to your platoons, and watch the chaos of WW2 combat unfold in thrilling, simultaneous cinematic replays. Master the fog of war and push the frontline forward.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488690/1345580a80434d5cc9bcbb4fa51dfa259f541ca2/header.jpg?t=1773651841" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488690/1345580a80434d5cc9bcbb4fa51dfa259f541ca2/header.jpg?t=1773651841" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488690/1345580a80434d5cc9bcbb4fa51dfa259f541ca2/header.jpg?t=1773651841" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4488690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488690/1345580a80434d5cc9bcbb4fa51dfa259f541ca2/header.jpg?t=1773651841" alt="Phase Line Red（新規追加）" /></a></p><p>Take command in Phase Line Red, a WEGO turn-based tactical wargame. Plan company-level operations, issue orders to your platoons, and watch the chaos of WW2 combat unfold in thrilling, simultaneous cinematic replays. Master the fog of war and push the frontline forward.</p><p><a href="https://store.steampowered.com/app/4488690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Ava Loveless（新規追加）</title>
+  <link>https://store.steampowered.com/app/4513900/</link>
+  <guid isPermaLink="false">steam-store-published-4513900</guid>
+  <pubDate>Mon, 16 Mar 2026 09:15:45 +0000</pubDate>
+  <description>Fictional short story set in the United Kingdom under a Gothic/Steampunk aesthetic, where a young woman contemplates a discovery that could potentially change the world.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513900/40e815379b8794d522fbde6ebd4e099f711950c3/header.jpg?t=1773649680" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513900/40e815379b8794d522fbde6ebd4e099f711950c3/header.jpg?t=1773649680" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513900/40e815379b8794d522fbde6ebd4e099f711950c3/header.jpg?t=1773649680" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4513900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513900/40e815379b8794d522fbde6ebd4e099f711950c3/header.jpg?t=1773649680" alt="Ava Loveless（新規追加）" /></a></p><p>Fictional short story set in the United Kingdom under a Gothic/Steampunk aesthetic, where a young woman contemplates a discovery that could potentially change the world.</p><p><a href="https://store.steampowered.com/app/4513900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Where is My Pet?（新規追加）</title>
   <link>https://store.steampowered.com/app/4466850/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506900/1d8e4a12db192db6752d3c6c2ef59a236b1274c9/header.jpg?t=1773299673" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506900/1d8e4a12db192db6752d3c6c2ef59a236b1274c9/header.jpg?t=1773299673" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4506900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506900/1d8e4a12db192db6752d3c6c2ef59a236b1274c9/header.jpg?t=1773299673" alt="Float Lord（新規追加）" /></a></p><p>Float. Fail. Fall. Repeat. Climb higher with precision or luck. Avoid pointy hazards, collect colorful fruits and veggies, and unlock silly skins. One pop — and your hard-earned progress tumbles down.</p><p><a href="https://store.steampowered.com/app/4506900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Chaos Agents（新規追加）</title>
-  <link>https://store.steampowered.com/app/3240890/</link>
-  <guid isPermaLink="false">steam-store-published-3240890</guid>
-  <pubDate>Thu, 12 Mar 2026 07:31:57 +0000</pubDate>
-  <description>Chaos Agents, designed by Richard Garfield, is the world’s first Autobattler Royale where every hero is one of a kind. Born with unique names, appearance, and skillsets you guide your Agent to victory by fusing the strategic planning of autobattlers with the tension and scale of a Battle Royale.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240890/106d6249a65b578bf5579a84823fdf88de06e209/header.jpg?t=1773300218" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240890/106d6249a65b578bf5579a84823fdf88de06e209/header.jpg?t=1773300218" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240890/106d6249a65b578bf5579a84823fdf88de06e209/header.jpg?t=1773300218" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3240890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240890/106d6249a65b578bf5579a84823fdf88de06e209/header.jpg?t=1773300218" alt="Chaos Agents（新規追加）" /></a></p><p>Chaos Agents, designed by Richard Garfield, is the world’s first Autobattler Royale where every hero is one of a kind. Born with unique names, appearance, and skillsets you guide your Agent to victory by fusing the strategic planning of autobattlers with the tension and scale of a Battle Royale.</p><p><a href="https://store.steampowered.com/app/3240890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Swordless（新規追加）</title>
-  <link>https://store.steampowered.com/app/4451820/</link>
-  <guid isPermaLink="false">steam-store-published-4451820</guid>
-  <pubDate>Thu, 12 Mar 2026 07:31:57 +0000</pubDate>
-  <description>A broken sword... The left hand controls the hilt, the right hand guides the blade. They work together to reach the end, and unite as one!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451820/04405893fb5a14ffaa4c385366b1eae323f60ca3/header.jpg?t=1773298492" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451820/04405893fb5a14ffaa4c385366b1eae323f60ca3/header.jpg?t=1773298492" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451820/04405893fb5a14ffaa4c385366b1eae323f60ca3/header.jpg?t=1773298492" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4451820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451820/04405893fb5a14ffaa4c385366b1eae323f60ca3/header.jpg?t=1773298492" alt="Swordless（新規追加）" /></a></p><p>A broken sword... The left hand controls the hilt, the right hand guides the blade. They work together to reach the end, and unite as one!</p><p><a href="https://store.steampowered.com/app/4451820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
