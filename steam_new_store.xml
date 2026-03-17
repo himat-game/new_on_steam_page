@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 17 Mar 2026 08:03:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Mar 2026 09:10:08 +0000</lastBuildDate>
+<item>
+  <title>Miser King gamesforfarm（新規追加）</title>
+  <link>https://store.steampowered.com/app/4516460/</link>
+  <guid isPermaLink="false">steam-store-published-4516460</guid>
+  <pubDate>Tue, 17 Mar 2026 09:10:08 +0000</pubDate>
+  <description>Help the greedy Miser King conquer the endless tower! He pursues treasures, regardless of danger, for he values ​​them more than his life. Jump over enemies, avoid deadly traps, and collect valuable items in this hardcore pixel platformer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516460/d6dc82344788216df4e1ff4f4fe12925fc1329a4/header.jpg?t=1773735330" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516460/d6dc82344788216df4e1ff4f4fe12925fc1329a4/header.jpg?t=1773735330" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516460/d6dc82344788216df4e1ff4f4fe12925fc1329a4/header.jpg?t=1773735330" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4516460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516460/d6dc82344788216df4e1ff4f4fe12925fc1329a4/header.jpg?t=1773735330" alt="Miser King gamesforfarm（新規追加）" /></a></p><p>Help the greedy Miser King conquer the endless tower! He pursues treasures, regardless of danger, for he values ​​them more than his life. Jump over enemies, avoid deadly traps, and collect valuable items in this hardcore pixel platformer.</p><p><a href="https://store.steampowered.com/app/4516460/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mystery Trip（新規追加）</title>
   <link>https://store.steampowered.com/app/3847250/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509030/f7b7696def8857d589db0d28a2fb260bf22269c3/header.jpg?t=1773405653" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509030/f7b7696def8857d589db0d28a2fb260bf22269c3/header.jpg?t=1773405653" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4509030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509030/f7b7696def8857d589db0d28a2fb260bf22269c3/header.jpg?t=1773405653" alt="Boya Coya（新規追加）" /></a></p><p>A fast, strategic two-player trick-taking card game inspired by the ancient card game Ganjifa. Master eight suits, chain bonus points, and declare Boya Coya to swing momentum, testing your skills vs CPU or in ranked online play.</p><p><a href="https://store.steampowered.com/app/4509030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cardslinger（新規追加）</title>
-  <link>https://store.steampowered.com/app/4090010/</link>
-  <guid isPermaLink="false">steam-store-published-4090010</guid>
-  <pubDate>Fri, 13 Mar 2026 12:53:26 +0000</pubDate>
-  <description>Cardslinger is a tactical, weird west, roguelite deckbuilder about overthrowing a corrupt government. Fight through the harsh Frontier to cut out the source of the corruption; the Devil himself. Rally allied Outlaws, don equipment and gather powerful cards to perfect the build and break the curse.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090010/f1a81ac80295ae3e40542c4018dc4646da2a7a9b/header.jpg?t=1773405725" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090010/f1a81ac80295ae3e40542c4018dc4646da2a7a9b/header.jpg?t=1773405725" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090010/f1a81ac80295ae3e40542c4018dc4646da2a7a9b/header.jpg?t=1773405725" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4090010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090010/f1a81ac80295ae3e40542c4018dc4646da2a7a9b/header.jpg?t=1773405725" alt="Cardslinger（新規追加）" /></a></p><p>Cardslinger is a tactical, weird west, roguelite deckbuilder about overthrowing a corrupt government. Fight through the harsh Frontier to cut out the source of the corruption; the Devil himself. Rally allied Outlaws, don equipment and gather powerful cards to perfect the build and break the curse.</p><p><a href="https://store.steampowered.com/app/4090010/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
