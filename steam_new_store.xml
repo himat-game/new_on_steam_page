@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 19 Mar 2026 21:49:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 22:25:13 +0000</lastBuildDate>
+<item>
+  <title>Ash Dawn（新規追加）</title>
+  <link>https://store.steampowered.com/app/4371220/</link>
+  <guid isPermaLink="false">steam-store-published-4371220</guid>
+  <pubDate>Thu, 19 Mar 2026 22:25:13 +0000</pubDate>
+  <description>A fantasy bullet-hell RPG. Explore and get stronger before taking on the impending threat to the lands of Ash Dawn.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371220/83f6a10ce685809ff3c10a232b191ccfba75c056/header.jpg?t=1773957817" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371220/83f6a10ce685809ff3c10a232b191ccfba75c056/header.jpg?t=1773957817" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371220/83f6a10ce685809ff3c10a232b191ccfba75c056/header.jpg?t=1773957817" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4371220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371220/83f6a10ce685809ff3c10a232b191ccfba75c056/header.jpg?t=1773957817" alt="Ash Dawn（新規追加）" /></a></p><p>A fantasy bullet-hell RPG. Explore and get stronger before taking on the impending threat to the lands of Ash Dawn.</p><p><a href="https://store.steampowered.com/app/4371220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>IN HEAT: Honeymoon! 3D（新規追加）</title>
   <link>https://store.steampowered.com/app/3458250/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180560/19a2862ef08a36ef87e63b1c4ebdea64066b7f81/header.jpg?t=1773783022" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180560/19a2862ef08a36ef87e63b1c4ebdea64066b7f81/header.jpg?t=1773783022" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4180560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180560/19a2862ef08a36ef87e63b1c4ebdea64066b7f81/header.jpg?t=1773783022" alt="Akashic（新規追加）" /></a></p><p>Wave survival game with dynamically generated weapons and upgrades which rewards consistently good performance with healing and access to powerful abilities that can turn the tide of any battle. Fight your way out of the Astrum and grow your power indefinitely while doing so.</p><p><a href="https://store.steampowered.com/app/4180560/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Islandustry（新規追加）</title>
-  <link>https://store.steampowered.com/app/4522870/</link>
-  <guid isPermaLink="false">steam-store-published-4522870</guid>
-  <pubDate>Tue, 17 Mar 2026 21:45:54 +0000</pubDate>
-  <description>Find the best island, outbid your rivals and start exploiting it. Automate your production and watch the market to sell your goods at the right price. Use your profits to buy upgrades and make your production chain even faster.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522870/d41ceb440b39a30580e4cbfd5f5e750d0c246c89/header.jpg?t=1773782463" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522870/d41ceb440b39a30580e4cbfd5f5e750d0c246c89/header.jpg?t=1773782463" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522870/d41ceb440b39a30580e4cbfd5f5e750d0c246c89/header.jpg?t=1773782463" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4522870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522870/d41ceb440b39a30580e4cbfd5f5e750d0c246c89/header.jpg?t=1773782463" alt="Islandustry（新規追加）" /></a></p><p>Find the best island, outbid your rivals and start exploiting it. Automate your production and watch the market to sell your goods at the right price. Use your profits to buy upgrades and make your production chain even faster.</p><p><a href="https://store.steampowered.com/app/4522870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
