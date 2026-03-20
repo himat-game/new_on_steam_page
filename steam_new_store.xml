@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 20 Mar 2026 17:35:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 18:04:35 +0000</lastBuildDate>
+<item>
+  <title>GRIMOIRE - The Lost Ritual（新規追加）</title>
+  <link>https://store.steampowered.com/app/4515870/</link>
+  <guid isPermaLink="false">steam-store-published-4515870</guid>
+  <pubDate>Fri, 20 Mar 2026 18:04:35 +0000</pubDate>
+  <description>“On the unseen side of everyday life, a story begins.”</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515870/93742abe67f634081cbfa85d24b2a4b233fe2753/header.jpg?t=1774029661" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515870/93742abe67f634081cbfa85d24b2a4b233fe2753/header.jpg?t=1774029661" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515870/93742abe67f634081cbfa85d24b2a4b233fe2753/header.jpg?t=1774029661" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4515870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515870/93742abe67f634081cbfa85d24b2a4b233fe2753/header.jpg?t=1774029661" alt="GRIMOIRE - The Lost Ritual（新規追加）" /></a></p><p>“On the unseen side of everyday life, a story begins.”</p><p><a href="https://store.steampowered.com/app/4515870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Trabacolo（新規追加）</title>
+  <link>https://store.steampowered.com/app/3711770/</link>
+  <guid isPermaLink="false">steam-store-published-3711770</guid>
+  <pubDate>Fri, 20 Mar 2026 18:04:35 +0000</pubDate>
+  <description>Trabacolo is a 1-16 player co-op space game in a chaotic physics-driven world. Build and control large modular spaceships alone or together. Manage resources and collect all catalyst material. Explore maps with a variety of challenges, look out for enemies, and take care: Some of the floor is lava.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711770/c4acc3eeee7d5518b23d73fe59385cbb53b696f5/header.jpg?t=1774028246" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711770/c4acc3eeee7d5518b23d73fe59385cbb53b696f5/header.jpg?t=1774028246" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711770/c4acc3eeee7d5518b23d73fe59385cbb53b696f5/header.jpg?t=1774028246" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3711770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711770/c4acc3eeee7d5518b23d73fe59385cbb53b696f5/header.jpg?t=1774028246" alt="Trabacolo（新規追加）" /></a></p><p>Trabacolo is a 1-16 player co-op space game in a chaotic physics-driven world. Build and control large modular spaceships alone or together. Manage resources and collect all catalyst material. Explore maps with a variety of challenges, look out for enemies, and take care: Some of the floor is lava.</p><p><a href="https://store.steampowered.com/app/3711770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hexa Vanguard（新規追加）</title>
   <link>https://store.steampowered.com/app/4531090/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521620/a3f4b95bc59cc59f42b7d9934e1601375c3e45c7/header.jpg?t=1773840137" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521620/a3f4b95bc59cc59f42b7d9934e1601375c3e45c7/header.jpg?t=1773840137" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4521620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521620/a3f4b95bc59cc59f42b7d9934e1601375c3e45c7/header.jpg?t=1773840137" alt="Deceptive Shadows: Final Case（新規追加）" /></a></p><p>A captive demon, a relentless detective, and a missing girl. In this top-down survival horror, interrogate a creature of the dark, piece together the clues, and outsmart its demonic mind games to uncover the truth.</p><p><a href="https://store.steampowered.com/app/4521620/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ore Factory Squad（新規追加）</title>
-  <link>https://store.steampowered.com/app/4210580/</link>
-  <guid isPermaLink="false">steam-store-published-4210580</guid>
-  <pubDate>Wed, 18 Mar 2026 14:42:32 +0000</pubDate>
-  <description>Ore Factory Squad is a co-op mining and factory-building game with procedural mining and fun at its core! Play alone or with friends, buy properties, dig deep for valuable resources, complete contracts, upgrade and automate production lines and grow your factory from zero to industry!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b92a9a6a416073d67cce44596e5c51fa2c24d3ae/header.jpg?t=1773844031" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b92a9a6a416073d67cce44596e5c51fa2c24d3ae/header.jpg?t=1773844031" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b92a9a6a416073d67cce44596e5c51fa2c24d3ae/header.jpg?t=1773844031" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4210580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b92a9a6a416073d67cce44596e5c51fa2c24d3ae/header.jpg?t=1773844031" alt="Ore Factory Squad（新規追加）" /></a></p><p>Ore Factory Squad is a co-op mining and factory-building game with procedural mining and fun at its core! Play alone or with friends, buy properties, dig deep for valuable resources, complete contracts, upgrade and automate production lines and grow your factory from zero to industry!</p><p><a href="https://store.steampowered.com/app/4210580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bell Knight（新規追加）</title>
-  <link>https://store.steampowered.com/app/4462930/</link>
-  <guid isPermaLink="false">steam-store-published-4462930</guid>
-  <pubDate>Wed, 18 Mar 2026 14:42:32 +0000</pubDate>
-  <description>Traverse a town overrun by monsters, strike down malevolent spirits, and uphold the sacred duty of the Bell Society. Praise the Bell.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462930/0e41c92d1c4d266e3bcb28d15f9fb847720a9350/header.jpg?t=1773844420" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462930/0e41c92d1c4d266e3bcb28d15f9fb847720a9350/header.jpg?t=1773844420" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462930/0e41c92d1c4d266e3bcb28d15f9fb847720a9350/header.jpg?t=1773844420" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4462930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462930/0e41c92d1c4d266e3bcb28d15f9fb847720a9350/header.jpg?t=1773844420" alt="Bell Knight（新規追加）" /></a></p><p>Traverse a town overrun by monsters, strike down malevolent spirits, and uphold the sacred duty of the Bell Society. Praise the Bell.</p><p><a href="https://store.steampowered.com/app/4462930/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
