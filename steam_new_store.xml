@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 20 Mar 2026 07:32:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 08:04:42 +0000</lastBuildDate>
+<item>
+  <title>Aliens Idols （新規追加）</title>
+  <link>https://store.steampowered.com/app/4314710/</link>
+  <guid isPermaLink="false">steam-store-published-4314710</guid>
+  <pubDate>Fri, 20 Mar 2026 08:04:42 +0000</pubDate>
+  <description>A short rhythm game where a group of disastrous and caricatural Jpop idols meets incremental gameplay, under the watchful eye of a twisted alien manager.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314710/9861d7e7ad45167e72fca785b7c2fad3ef109a7b/header.jpg?t=1773993087" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314710/9861d7e7ad45167e72fca785b7c2fad3ef109a7b/header.jpg?t=1773993087" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314710/9861d7e7ad45167e72fca785b7c2fad3ef109a7b/header.jpg?t=1773993087" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4314710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314710/9861d7e7ad45167e72fca785b7c2fad3ef109a7b/header.jpg?t=1773993087" alt="Aliens Idols （新規追加）" /></a></p><p>A short rhythm game where a group of disastrous and caricatural Jpop idols meets incremental gameplay, under the watchful eye of a twisted alien manager.</p><p><a href="https://store.steampowered.com/app/4314710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>WakuWaku Park（新規追加）</title>
   <link>https://store.steampowered.com/app/3850800/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074840/37cce6067ef9e09bf3a1e2135c12bb8ce21370ae/header.jpg?t=1773808425" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074840/37cce6067ef9e09bf3a1e2135c12bb8ce21370ae/header.jpg?t=1773808425" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4074840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074840/37cce6067ef9e09bf3a1e2135c12bb8ce21370ae/header.jpg?t=1773808425" alt="Jaleco Arcade Collection Vol.1（新規追加）" /></a></p><p>A masterpiece? A hidden gem? Your next nostalgic favorite awaits. The JALECO Arcade Collection is here!</p><p><a href="https://store.steampowered.com/app/4074840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Velvet（新規追加）</title>
-  <link>https://store.steampowered.com/app/4529600/</link>
-  <guid isPermaLink="false">steam-store-published-4529600</guid>
-  <pubDate>Wed, 18 Mar 2026 05:47:21 +0000</pubDate>
-  <description>Velvet is a single-player adult match-3 game where you clear handcrafted five-stage routes, complete escalating puzzle goals, and unlock erotic reward scenes. Pick a girl, push through her ladder, and earn the payoff one stage at a time.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529600/630569319b84859a04911a39cb7e1aeca65b3150/header.jpg?t=1773809955" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529600/630569319b84859a04911a39cb7e1aeca65b3150/header.jpg?t=1773809955" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529600/630569319b84859a04911a39cb7e1aeca65b3150/header.jpg?t=1773809955" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4529600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529600/630569319b84859a04911a39cb7e1aeca65b3150/header.jpg?t=1773809955" alt="Velvet（新規追加）" /></a></p><p>Velvet is a single-player adult match-3 game where you clear handcrafted five-stage routes, complete escalating puzzle goals, and unlock erotic reward scenes. Pick a girl, push through her ladder, and earn the payoff one stage at a time.</p><p><a href="https://store.steampowered.com/app/4529600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
