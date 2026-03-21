@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Mar 2026 11:52:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 13:40:18 +0000</lastBuildDate>
+<item>
+  <title>Land of Ruins（新規追加）</title>
+  <link>https://store.steampowered.com/app/4451570/</link>
+  <guid isPermaLink="false">steam-store-published-4451570</guid>
+  <pubDate>Sat, 21 Mar 2026 13:40:18 +0000</pubDate>
+  <description>Land of Ruins is a turn-based tactical RPG blending classic grid strategy with Roguelike elements. Recruit heroes, explore procedurally generated maps, build powerful synergies, customize skills and talents, defeat dark bosses, and become a legend of the Ruins.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451570/0f670bc89c23d399ffec6c62b6310c3ed1a9317e/header.jpg?t=1774097501" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451570/0f670bc89c23d399ffec6c62b6310c3ed1a9317e/header.jpg?t=1774097501" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451570/0f670bc89c23d399ffec6c62b6310c3ed1a9317e/header.jpg?t=1774097501" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4451570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451570/0f670bc89c23d399ffec6c62b6310c3ed1a9317e/header.jpg?t=1774097501" alt="Land of Ruins（新規追加）" /></a></p><p>Land of Ruins is a turn-based tactical RPG blending classic grid strategy with Roguelike elements. Recruit heroes, explore procedurally generated maps, build powerful synergies, customize skills and talents, defeat dark bosses, and become a legend of the Ruins.</p><p><a href="https://store.steampowered.com/app/4451570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Beat A Boo!（新規追加）</title>
   <link>https://store.steampowered.com/app/4537500/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515350/53f6a3ac3fe4923e927bd5632c09dd5a961afb9a/header.jpg?t=1773867161" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515350/53f6a3ac3fe4923e927bd5632c09dd5a961afb9a/header.jpg?t=1773867161" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4515350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515350/53f6a3ac3fe4923e927bd5632c09dd5a961afb9a/header.jpg?t=1773867161" alt="Bullets &amp; BlackJack（新規追加）" /></a></p><p>Local-multiplayer rogue-like based off blackjack. Gameplay focused on fun flowing platforming and combat.</p><p><a href="https://store.steampowered.com/app/4515350/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>少女的幻想乐园（新規追加）</title>
-  <link>https://store.steampowered.com/app/4503490/</link>
-  <guid isPermaLink="false">steam-store-published-4503490</guid>
-  <pubDate>Wed, 18 Mar 2026 21:07:21 +0000</pubDate>
-  <description>This is a visual novel about loneliness and fantasy. You will play a student in a closed boarding school for girls, feeling lonely and alienated, communicating with an imaginary friend every day.Your choices will lead to an ending of either redemption or downfall.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503490/1f9c6fe095845850e51e073c74f3e62f4a2b17fd/header.jpg?t=1773867360" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503490/1f9c6fe095845850e51e073c74f3e62f4a2b17fd/header.jpg?t=1773867360" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503490/1f9c6fe095845850e51e073c74f3e62f4a2b17fd/header.jpg?t=1773867360" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4503490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503490/1f9c6fe095845850e51e073c74f3e62f4a2b17fd/header.jpg?t=1773867360" alt="少女的幻想乐园（新規追加）" /></a></p><p>This is a visual novel about loneliness and fantasy. You will play a student in a closed boarding school for girls, feeling lonely and alienated, communicating with an imaginary friend every day.Your choices will lead to an ending of either redemption or downfall.</p><p><a href="https://store.steampowered.com/app/4503490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
