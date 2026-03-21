@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Mar 2026 19:40:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 20:22:52 +0000</lastBuildDate>
+<item>
+  <title>Weirdshine（新規追加）</title>
+  <link>https://store.steampowered.com/app/3331630/</link>
+  <guid isPermaLink="false">steam-store-published-3331630</guid>
+  <pubDate>Sat, 21 Mar 2026 20:22:52 +0000</pubDate>
+  <description>Weirdshine is a 2D precision platformer full of gimmicks that would probably have been considered a rage game in the late 2000s.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331630/620ab8e3550dac92202263406f81ee956d49dc9c/header.jpg?t=1774123996" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331630/620ab8e3550dac92202263406f81ee956d49dc9c/header.jpg?t=1774123996" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331630/620ab8e3550dac92202263406f81ee956d49dc9c/header.jpg?t=1774123996" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3331630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331630/620ab8e3550dac92202263406f81ee956d49dc9c/header.jpg?t=1774123996" alt="Weirdshine（新規追加）" /></a></p><p>Weirdshine is a 2D precision platformer full of gimmicks that would probably have been considered a rage game in the late 2000s.</p><p><a href="https://store.steampowered.com/app/3331630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Balloon &amp; You（新規追加）</title>
+  <link>https://store.steampowered.com/app/4513560/</link>
+  <guid isPermaLink="false">steam-store-published-4513560</guid>
+  <pubDate>Sat, 21 Mar 2026 20:22:52 +0000</pubDate>
+  <description>One touch..one mistake..BOOM! Do you dare to carry a balloon to the end without it touching ANYTHING? First-person perspective: precise physical touches + extreme parkour. If it touches any surface..it explodes and you&#x27;re back to the start! Patience, precision, and nerves of steel.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513560/ab814fb7e728f1cfb000708fa23a39e3c47295b5/header.jpg?t=1774122780" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513560/ab814fb7e728f1cfb000708fa23a39e3c47295b5/header.jpg?t=1774122780" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513560/ab814fb7e728f1cfb000708fa23a39e3c47295b5/header.jpg?t=1774122780" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4513560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513560/ab814fb7e728f1cfb000708fa23a39e3c47295b5/header.jpg?t=1774122780" alt="Balloon &amp; You（新規追加）" /></a></p><p>One touch..one mistake..BOOM! Do you dare to carry a balloon to the end without it touching ANYTHING? First-person perspective: precise physical touches + extreme parkour. If it touches any surface..it explodes and you&#x27;re back to the start! Patience, precision, and nerves of steel.</p><p><a href="https://store.steampowered.com/app/4513560/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Echo Tower（新規追加）</title>
   <link>https://store.steampowered.com/app/4341660/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389770/e2091dc056056f24f4f4053dd62c69089f4990b1/header.jpg?t=1773877290" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389770/e2091dc056056f24f4f4053dd62c69089f4990b1/header.jpg?t=1773877290" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4389770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389770/e2091dc056056f24f4f4053dd62c69089f4990b1/header.jpg?t=1773877290" alt="Last Dawn: Helios（新規追加）" /></a></p><p>A tactical top-down roguelike where you defend a collapsing stronghold alongside a damaged AI. Break shields, shred armor, deploy orbital defenses, and forge devastating weapon and turret synergies to survive the next Dawn.</p><p><a href="https://store.steampowered.com/app/4389770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ZomeStead（新規追加）</title>
-  <link>https://store.steampowered.com/app/4335430/</link>
-  <guid isPermaLink="false">steam-store-published-4335430</guid>
-  <pubDate>Wed, 18 Mar 2026 23:00:58 +0000</pubDate>
-  <description>2D farm management sandbox RPG in the demon world. Fuse slow-life farming with dark necromancy! Raise zombies and skeletons from monster corpses as loyal partners. Assign them farm tasks or dungeon raids against bosses. Craft gear, build your undead army, and create your demon farm.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335430/82ec13c18582a1265cc285e7b42badb466bde765/header.jpg?t=1773874197" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335430/82ec13c18582a1265cc285e7b42badb466bde765/header.jpg?t=1773874197" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335430/82ec13c18582a1265cc285e7b42badb466bde765/header.jpg?t=1773874197" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4335430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335430/82ec13c18582a1265cc285e7b42badb466bde765/header.jpg?t=1773874197" alt="ZomeStead（新規追加）" /></a></p><p>2D farm management sandbox RPG in the demon world. Fuse slow-life farming with dark necromancy! Raise zombies and skeletons from monster corpses as loyal partners. Assign them farm tasks or dungeon raids against bosses. Craft gear, build your undead army, and create your demon farm.</p><p><a href="https://store.steampowered.com/app/4335430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ignore the Blackbird（新規追加）</title>
-  <link>https://store.steampowered.com/app/4519240/</link>
-  <guid isPermaLink="false">steam-store-published-4519240</guid>
-  <pubDate>Wed, 18 Mar 2026 23:00:58 +0000</pubDate>
-  <description>Ignore the Blackbird is a hand-drawn watercolor puzzle game. Explore the greenhouse, solve puzzles woven into its surroundings, and uncover what happened to Sonya’s family.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519240/6963426706465fab01be7c6600fd6b00b95e2c06/header.jpg?t=1773873645" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519240/6963426706465fab01be7c6600fd6b00b95e2c06/header.jpg?t=1773873645" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519240/6963426706465fab01be7c6600fd6b00b95e2c06/header.jpg?t=1773873645" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4519240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519240/6963426706465fab01be7c6600fd6b00b95e2c06/header.jpg?t=1773873645" alt="Ignore the Blackbird（新規追加）" /></a></p><p>Ignore the Blackbird is a hand-drawn watercolor puzzle game. Explore the greenhouse, solve puzzles woven into its surroundings, and uncover what happened to Sonya’s family.</p><p><a href="https://store.steampowered.com/app/4519240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
