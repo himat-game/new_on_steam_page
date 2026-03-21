@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Mar 2026 09:47:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 10:23:28 +0000</lastBuildDate>
+<item>
+  <title>Pizza Turbo（新規追加）</title>
+  <link>https://store.steampowered.com/app/4538280/</link>
+  <guid isPermaLink="false">steam-store-published-4538280</guid>
+  <pubDate>Sat, 21 Mar 2026 10:23:28 +0000</pubDate>
+  <description>High-speed arcade racing game where you deliver pizzas across a chaotic city full of deadly traps. Perform stunts, use power-ups, and survive before your pizza gets cold.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538280/ff31ae26d637a83e60cd465ac360cc814262fec5/header.jpg?t=1774086523" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538280/ff31ae26d637a83e60cd465ac360cc814262fec5/header.jpg?t=1774086523" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538280/ff31ae26d637a83e60cd465ac360cc814262fec5/header.jpg?t=1774086523" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4538280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538280/ff31ae26d637a83e60cd465ac360cc814262fec5/header.jpg?t=1774086523" alt="Pizza Turbo（新規追加）" /></a></p><p>High-speed arcade racing game where you deliver pizzas across a chaotic city full of deadly traps. Perform stunts, use power-ups, and survive before your pizza gets cold.</p><p><a href="https://store.steampowered.com/app/4538280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hentai Shion（新規追加）</title>
   <link>https://store.steampowered.com/app/4533570/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438220/1eda4b965f8ce4d6d2974743731c94360035ab6d/header.jpg?t=1773866940" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438220/1eda4b965f8ce4d6d2974743731c94360035ab6d/header.jpg?t=1773866940" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4438220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438220/1eda4b965f8ce4d6d2974743731c94360035ab6d/header.jpg?t=1773866940" alt="My Necromancer&#x27;s Library（新規追加）" /></a></p><p>Manage a medieval library: collect books, arrange shelves, assist patrons, and host community events! Hire adventurers to delve into the depths of a dead Necromancer’s lair for rare tomes. Restore and customize books while uncovering a character-driven tale in this peculiar mining town.</p><p><a href="https://store.steampowered.com/app/4438220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dispel Dark（新規追加）</title>
-  <link>https://store.steampowered.com/app/4487490/</link>
-  <guid isPermaLink="false">steam-store-published-4487490</guid>
-  <pubDate>Wed, 18 Mar 2026 20:34:16 +0000</pubDate>
-  <description>Dispel Dark, a game where your torch is your source of light... and your weapon. Defeat enemies, collect coins, buy upgrades, and try to survive increasingly hostile levels. How far will your light last?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487490/04e9d2cd5af7528c6069c1dbf4d774914c7aff3c/header.jpg?t=1773865161" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487490/04e9d2cd5af7528c6069c1dbf4d774914c7aff3c/header.jpg?t=1773865161" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487490/04e9d2cd5af7528c6069c1dbf4d774914c7aff3c/header.jpg?t=1773865161" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487490/04e9d2cd5af7528c6069c1dbf4d774914c7aff3c/header.jpg?t=1773865161" alt="Dispel Dark（新規追加）" /></a></p><p>Dispel Dark, a game where your torch is your source of light... and your weapon. Defeat enemies, collect coins, buy upgrades, and try to survive increasingly hostile levels. How far will your light last?</p><p><a href="https://store.steampowered.com/app/4487490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
