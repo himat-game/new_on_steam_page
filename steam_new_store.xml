@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Mar 2026 17:30:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 18:32:44 +0000</lastBuildDate>
+<item>
+  <title>Rock the Block（新規追加）</title>
+  <link>https://store.steampowered.com/app/4487300/</link>
+  <guid isPermaLink="false">steam-store-published-4487300</guid>
+  <pubDate>Sat, 21 Mar 2026 18:32:44 +0000</pubDate>
+  <description>Ride falling blocks, jump between pieces, and clear rows in this physics puzzler</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487300/c2585db061fe756e75b61b02f270a11d1cc813de/header.jpg?t=1774116238" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487300/c2585db061fe756e75b61b02f270a11d1cc813de/header.jpg?t=1774116238" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487300/c2585db061fe756e75b61b02f270a11d1cc813de/header.jpg?t=1774116238" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487300/c2585db061fe756e75b61b02f270a11d1cc813de/header.jpg?t=1774116238" alt="Rock the Block（新規追加）" /></a></p><p>Ride falling blocks, jump between pieces, and clear rows in this physics puzzler</p><p><a href="https://store.steampowered.com/app/4487300/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Minibus Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4274990/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249000/0940474aadce059d8b4aff20af7f3066726d0663/header.jpg?t=1773873782" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249000/0940474aadce059d8b4aff20af7f3066726d0663/header.jpg?t=1773873782" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249000/0940474aadce059d8b4aff20af7f3066726d0663/header.jpg?t=1773873782" alt="Stellar Freight: Endless Horizon（新規追加）" /></a></p><p>Embark on a Sci-fi Roguelike Turn-based RPG with Tactical combat. Become a Captain of a freight ship, deliver cargo through deep space, manage your crew, upgrade your ship, fight space warships, and build your reputation. Every day brings new adventure. Space shows no mercy.</p><p><a href="https://store.steampowered.com/app/4249000/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Lone Boss（新規追加）</title>
-  <link>https://store.steampowered.com/app/4090350/</link>
-  <guid isPermaLink="false">steam-store-published-4090350</guid>
-  <pubDate>Wed, 18 Mar 2026 23:00:58 +0000</pubDate>
-  <description>The Lone Boss is a challenging 2D pixel art boss fight. Confront a single enemy in a tight arena filled with fireballs and minions. As the boss evolves through multiple states and randomized attacks, one mistake will cost you the fight. Master the patterns and survive the ultimate test of focus.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090350/b6045e24f2688b634c2f48d2767a1fc7387b179f/header.jpg?t=1773874334" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090350/b6045e24f2688b634c2f48d2767a1fc7387b179f/header.jpg?t=1773874334" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090350/b6045e24f2688b634c2f48d2767a1fc7387b179f/header.jpg?t=1773874334" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4090350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090350/b6045e24f2688b634c2f48d2767a1fc7387b179f/header.jpg?t=1773874334" alt="The Lone Boss（新規追加）" /></a></p><p>The Lone Boss is a challenging 2D pixel art boss fight. Confront a single enemy in a tight arena filled with fireballs and minions. As the boss evolves through multiple states and randomized attacks, one mistake will cost you the fight. Master the patterns and survive the ultimate test of focus.</p><p><a href="https://store.steampowered.com/app/4090350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
