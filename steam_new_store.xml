@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Mar 2026 10:56:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 11:24:14 +0000</lastBuildDate>
+<item>
+  <title>wageslave（新規追加）</title>
+  <link>https://store.steampowered.com/app/4441830/</link>
+  <guid isPermaLink="false">steam-store-published-4441830</guid>
+  <pubDate>Sat, 21 Mar 2026 11:24:14 +0000</pubDate>
+  <description>A short, narrative, dystopian office survival game. Ship code to eat. Optimise your nootropics stack. Stay sane. Cope with HR&#x27;s passive-aggressive pings. Climb the career ladder. Retire early (if you can).</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441830/5368df52386faff369e241cbd7c5db509fe554a9/header.jpg?t=1774090851" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441830/5368df52386faff369e241cbd7c5db509fe554a9/header.jpg?t=1774090851" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441830/5368df52386faff369e241cbd7c5db509fe554a9/header.jpg?t=1774090851" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4441830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4441830/5368df52386faff369e241cbd7c5db509fe554a9/header.jpg?t=1774090851" alt="wageslave（新規追加）" /></a></p><p>A short, narrative, dystopian office survival game. Ship code to eat. Optimise your nootropics stack. Stay sane. Cope with HR&#x27;s passive-aggressive pings. Climb the career ladder. Retire early (if you can).</p><p><a href="https://store.steampowered.com/app/4441830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Roadhouse Simulator - Prologue（新規追加）</title>
   <link>https://store.steampowered.com/app/4417950/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409830/c905dd303a3579be1fd8001b258c92035eed3a1f/header.jpg?t=1773867410" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409830/c905dd303a3579be1fd8001b258c92035eed3a1f/header.jpg?t=1773867410" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4409830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409830/c905dd303a3579be1fd8001b258c92035eed3a1f/header.jpg?t=1773867410" alt="MechPit（新規追加）" /></a></p><p>Build modular robots and operate them through a physical Control Pod in VR. Design, test, and send your machines into the Pit to battle.</p><p><a href="https://store.steampowered.com/app/4409830/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hacker Clicker（新規追加）</title>
-  <link>https://store.steampowered.com/app/4504620/</link>
-  <guid isPermaLink="false">steam-store-published-4504620</guid>
-  <pubDate>Wed, 18 Mar 2026 21:07:21 +0000</pubDate>
-  <description>Click! Something is downloading. You don&#x27;t know what. Every three hours, something drops. Fence it. Climb the leaderboard. Don&#x27;t stop hacking.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504620/a71f3191a017f750cd61d57b8e282e1cb3c150d3/header.jpg?t=1773867329" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504620/a71f3191a017f750cd61d57b8e282e1cb3c150d3/header.jpg?t=1773867329" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504620/a71f3191a017f750cd61d57b8e282e1cb3c150d3/header.jpg?t=1773867329" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4504620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504620/a71f3191a017f750cd61d57b8e282e1cb3c150d3/header.jpg?t=1773867329" alt="Hacker Clicker（新規追加）" /></a></p><p>Click! Something is downloading. You don&#x27;t know what. Every three hours, something drops. Fence it. Climb the leaderboard. Don&#x27;t stop hacking.</p><p><a href="https://store.steampowered.com/app/4504620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
