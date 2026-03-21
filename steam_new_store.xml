@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 21 Mar 2026 19:02:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 19:40:31 +0000</lastBuildDate>
+<item>
+  <title>Echo Tower（新規追加）</title>
+  <link>https://store.steampowered.com/app/4341660/</link>
+  <guid isPermaLink="false">steam-store-published-4341660</guid>
+  <pubDate>Sat, 21 Mar 2026 19:40:31 +0000</pubDate>
+  <description>Climb a tower plunged into darkness using the power of echo location. Echo Tower is an audio action adventure game where your ears replace your eyes. Navigate through the floors, solve puzzles and reach the top to bring back the light to the planet.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341660/969a28af372cb57fe51506c10d07812e1a06edbf/header.jpg?t=1774121807" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341660/969a28af372cb57fe51506c10d07812e1a06edbf/header.jpg?t=1774121807" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341660/969a28af372cb57fe51506c10d07812e1a06edbf/header.jpg?t=1774121807" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4341660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341660/969a28af372cb57fe51506c10d07812e1a06edbf/header.jpg?t=1774121807" alt="Echo Tower（新規追加）" /></a></p><p>Climb a tower plunged into darkness using the power of echo location. Echo Tower is an audio action adventure game where your ears replace your eyes. Navigate through the floors, solve puzzles and reach the top to bring back the light to the planet.</p><p><a href="https://store.steampowered.com/app/4341660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Indie City Mixtape 2026（新規追加）</title>
   <link>https://store.steampowered.com/app/4401950/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519240/6963426706465fab01be7c6600fd6b00b95e2c06/header.jpg?t=1773873645" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519240/6963426706465fab01be7c6600fd6b00b95e2c06/header.jpg?t=1773873645" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4519240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519240/6963426706465fab01be7c6600fd6b00b95e2c06/header.jpg?t=1773873645" alt="Ignore the Blackbird（新規追加）" /></a></p><p>Ignore the Blackbird is a hand-drawn watercolor puzzle game. Explore the greenhouse, solve puzzles woven into its surroundings, and uncover what happened to Sonya’s family.</p><p><a href="https://store.steampowered.com/app/4519240/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>SupermarCAT（新規追加）</title>
-  <link>https://store.steampowered.com/app/4303240/</link>
-  <guid isPermaLink="false">steam-store-published-4303240</guid>
-  <pubDate>Wed, 18 Mar 2026 23:00:58 +0000</pubDate>
-  <description>A cozy supermarket management game where every employee, customer and thief is a cat. Stock shelves, hire cashiers and stockers, expand your store, outsmart shoplifters and juggle daily events as you build the ultimate feline retail empire.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303240/0de6367875b7d69d0bd0ddbf7e55c60c91587eeb/header.jpg?t=1773874343" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303240/0de6367875b7d69d0bd0ddbf7e55c60c91587eeb/header.jpg?t=1773874343" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303240/0de6367875b7d69d0bd0ddbf7e55c60c91587eeb/header.jpg?t=1773874343" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4303240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303240/0de6367875b7d69d0bd0ddbf7e55c60c91587eeb/header.jpg?t=1773874343" alt="SupermarCAT（新規追加）" /></a></p><p>A cozy supermarket management game where every employee, customer and thief is a cat. Stock shelves, hire cashiers and stockers, expand your store, outsmart shoplifters and juggle daily events as you build the ultimate feline retail empire.</p><p><a href="https://store.steampowered.com/app/4303240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
