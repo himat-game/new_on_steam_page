@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Mar 2026 15:53:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 16:27:08 +0000</lastBuildDate>
+<item>
+  <title>Deep Space Remnant（新規追加）</title>
+  <link>https://store.steampowered.com/app/4526330/</link>
+  <guid isPermaLink="false">steam-store-published-4526330</guid>
+  <pubDate>Sun, 22 Mar 2026 16:27:08 +0000</pubDate>
+  <description>This space survival sim lets you build a space station, construct ships to gather resources for expansion, and upgrade tech for stronger shields to withstand cosmic radiation, all while surviving in a radioactive environment.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526330/acb211072ab9960f7123ad484990c899c13f3185/header.jpg?t=1774195334" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526330/acb211072ab9960f7123ad484990c899c13f3185/header.jpg?t=1774195334" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526330/acb211072ab9960f7123ad484990c899c13f3185/header.jpg?t=1774195334" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4526330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526330/acb211072ab9960f7123ad484990c899c13f3185/header.jpg?t=1774195334" alt="Deep Space Remnant（新規追加）" /></a></p><p>This space survival sim lets you build a space station, construct ships to gather resources for expansion, and upgrade tech for stronger shields to withstand cosmic radiation, all while surviving in a radioactive environment.</p><p><a href="https://store.steampowered.com/app/4526330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Geisha Spring Party（新規追加）</title>
   <link>https://store.steampowered.com/app/4524850/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4310190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671" alt="Keyboard Warriors（新規追加）" /></a></p><p>The pen (or keyboard) is mightier than the sword! Use your fast typing skills, and deckbuilding knowledge to delve into a procedurally generated dungeon to fend off monsters, loot rare relics, and build crazy synergies.</p><p><a href="https://store.steampowered.com/app/4310190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pass the Bomb : Runner（新規追加）</title>
-  <link>https://store.steampowered.com/app/4435710/</link>
-  <guid isPermaLink="false">steam-store-published-4435710</guid>
-  <pubDate>Thu, 19 Mar 2026 05:45:19 +0000</pubDate>
-  <description>Without reason or explanation, you are forced to carry a bomb. It is neither divine punishment nor your choice. The fuse burns endlessly, and the bomb never stops. Keep balance, avoid dangers, and move forward. Drop it and it explodes. Endure journey, and at its end, pass the bomb on.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435710/a33df7f239c64851d573f4c59e8c5753a220f9a7/header.jpg?t=1773898684" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435710/a33df7f239c64851d573f4c59e8c5753a220f9a7/header.jpg?t=1773898684" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435710/a33df7f239c64851d573f4c59e8c5753a220f9a7/header.jpg?t=1773898684" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4435710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435710/a33df7f239c64851d573f4c59e8c5753a220f9a7/header.jpg?t=1773898684" alt="Pass the Bomb : Runner（新規追加）" /></a></p><p>Without reason or explanation, you are forced to carry a bomb. It is neither divine punishment nor your choice. The fuse burns endlessly, and the bomb never stops. Keep balance, avoid dangers, and move forward. Drop it and it explodes. Endure journey, and at its end, pass the bomb on.</p><p><a href="https://store.steampowered.com/app/4435710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
