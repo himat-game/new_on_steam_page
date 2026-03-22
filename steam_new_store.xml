@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 22 Mar 2026 16:27:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 17:30:59 +0000</lastBuildDate>
+<item>
+  <title>RE/SUB（新規追加）</title>
+  <link>https://store.steampowered.com/app/3194870/</link>
+  <guid isPermaLink="false">steam-store-published-3194870</guid>
+  <pubDate>Sun, 22 Mar 2026 17:30:59 +0000</pubDate>
+  <description>A minimalist puzzle game where you slide across ice-grid boards, plan constrained paths, and solve increasingly complex challenges. Start with simple 2D grids, then take on 3D and 4D boards with teleporters, sticky tiles, keys, and turn modifiers. Easy to pick up, tough to master.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3194870/8efd8e5327a47ff1ac615bf58fba770fa426f407/header.jpg?t=1774198857" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3194870/8efd8e5327a47ff1ac615bf58fba770fa426f407/header.jpg?t=1774198857" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3194870/8efd8e5327a47ff1ac615bf58fba770fa426f407/header.jpg?t=1774198857" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3194870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3194870/8efd8e5327a47ff1ac615bf58fba770fa426f407/header.jpg?t=1774198857" alt="RE/SUB（新規追加）" /></a></p><p>A minimalist puzzle game where you slide across ice-grid boards, plan constrained paths, and solve increasingly complex challenges. Start with simple 2D grids, then take on 3D and 4D boards with teleporters, sticky tiles, keys, and turn modifiers. Easy to pick up, tough to master.</p><p><a href="https://store.steampowered.com/app/3194870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Deep Space Remnant（新規追加）</title>
   <link>https://store.steampowered.com/app/4526330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430660/15b6ce1cbcf99d19c5b371f7f45cc3d7966921c3/header.jpg?t=1773898041" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430660/15b6ce1cbcf99d19c5b371f7f45cc3d7966921c3/header.jpg?t=1773898041" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4430660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430660/15b6ce1cbcf99d19c5b371f7f45cc3d7966921c3/header.jpg?t=1773898041" alt="Thrill Seeker（新規追加）" /></a></p><p>Make your way through a maze of laboratories and offices of post-Soviet-era facility of unknown origin, left to decay - and not entirely empty. Uncover the truth about that underground place of horror. But stay ever alert for the danger creeping in the dark.</p><p><a href="https://store.steampowered.com/app/4430660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Keyboard Warriors（新規追加）</title>
-  <link>https://store.steampowered.com/app/4310190/</link>
-  <guid isPermaLink="false">steam-store-published-4310190</guid>
-  <pubDate>Thu, 19 Mar 2026 05:45:19 +0000</pubDate>
-  <description>The pen (or keyboard) is mightier than the sword! Use your fast typing skills, and deckbuilding knowledge to delve into a procedurally generated dungeon to fend off monsters, loot rare relics, and build crazy synergies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4310190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310190/b5aafd4badb44af8279d1ca0c8ef0802b9642b57/header.jpg?t=1773894671" alt="Keyboard Warriors（新規追加）" /></a></p><p>The pen (or keyboard) is mightier than the sword! Use your fast typing skills, and deckbuilding knowledge to delve into a procedurally generated dungeon to fend off monsters, loot rare relics, and build crazy synergies.</p><p><a href="https://store.steampowered.com/app/4310190/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
