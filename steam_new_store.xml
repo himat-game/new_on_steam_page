@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 23 Mar 2026 08:51:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 09:59:50 +0000</lastBuildDate>
+<item>
+  <title>Quiz On!! Succubus（新規追加）</title>
+  <link>https://store.steampowered.com/app/4451890/</link>
+  <guid isPermaLink="false">steam-store-published-4451890</guid>
+  <pubDate>Mon, 23 Mar 2026 09:59:50 +0000</pubDate>
+  <description>《Quiz On!! Succubus》 is a fun quiz game with roguelike, strategy deck-building and nurturing elements. Sign a contract with the Succubus Princess, use quiz power to break the Lilith Barrier. Interact with teachers in the sealed space, deepen bonds and unlock exclusive stories and abilities.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451890/6c0b82fae7c18c98f50da9ef3db651f37139138a/header.jpg?t=1774256001" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451890/6c0b82fae7c18c98f50da9ef3db651f37139138a/header.jpg?t=1774256001" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451890/6c0b82fae7c18c98f50da9ef3db651f37139138a/header.jpg?t=1774256001" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4451890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451890/6c0b82fae7c18c98f50da9ef3db651f37139138a/header.jpg?t=1774256001" alt="Quiz On!! Succubus（新規追加）" /></a></p><p>《Quiz On!! Succubus》 is a fun quiz game with roguelike, strategy deck-building and nurturing elements. Sign a contract with the Succubus Princess, use quiz power to break the Lilith Barrier. Interact with teachers in the sealed space, deepen bonds and unlock exclusive stories and abilities.</p><p><a href="https://store.steampowered.com/app/4451890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SAADINE（新規追加）</title>
   <link>https://store.steampowered.com/app/4397210/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4434580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152" alt="Dust &amp; Diamonds（新規追加）" /></a></p><p>Humans are extinct, and Goblins proudly stand at the top of the food chain! Take over a mine, expand your surface base, and automate logistics. Manage workers, trade, avoid cave-ins and lava, and above all – try to endure your father&#x27;s constant grumbling!</p><p><a href="https://store.steampowered.com/app/4434580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Apple Man Sam（新規追加）</title>
-  <link>https://store.steampowered.com/app/4293080/</link>
-  <guid isPermaLink="false">steam-store-published-4293080</guid>
-  <pubDate>Thu, 19 Mar 2026 11:21:26 +0000</pubDate>
-  <description>Apple Man Sam...is a little Apple Man! Shoot your way through hordes of moustached vegetables, as you level up, upgrade your weapons, and obtain items to grow absurdly strong. Defeat the final boss and complete quests to unlock more maps and loadouts, for endless fun!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293080/2ae76a7ed97c6b8cf4bbc8e5ee434e4e6e6e3daf/header.jpg?t=1773916845" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293080/2ae76a7ed97c6b8cf4bbc8e5ee434e4e6e6e3daf/header.jpg?t=1773916845" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293080/2ae76a7ed97c6b8cf4bbc8e5ee434e4e6e6e3daf/header.jpg?t=1773916845" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4293080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293080/2ae76a7ed97c6b8cf4bbc8e5ee434e4e6e6e3daf/header.jpg?t=1773916845" alt="Apple Man Sam（新規追加）" /></a></p><p>Apple Man Sam...is a little Apple Man! Shoot your way through hordes of moustached vegetables, as you level up, upgrade your weapons, and obtain items to grow absurdly strong. Defeat the final boss and complete quests to unlock more maps and loadouts, for endless fun!</p><p><a href="https://store.steampowered.com/app/4293080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
