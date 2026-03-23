@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 23 Mar 2026 21:36:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 22:00:25 +0000</lastBuildDate>
+<item>
+  <title>Blast（新規追加）</title>
+  <link>https://store.steampowered.com/app/4307520/</link>
+  <guid isPermaLink="false">steam-store-published-4307520</guid>
+  <pubDate>Mon, 23 Mar 2026 22:00:25 +0000</pubDate>
+  <description>Take on your opponents in strategic 5-minute duels! Collect over 800 unique cards, master 7 elements and their synergies, and dominate the board in this free-to-play tactical card game. PC and Mobile - Cross-play enabled!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307520/8aaf03489993a520f62f1cd012cc61ab85e6218d/header.jpg?t=1774303107" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307520/8aaf03489993a520f62f1cd012cc61ab85e6218d/header.jpg?t=1774303107" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307520/8aaf03489993a520f62f1cd012cc61ab85e6218d/header.jpg?t=1774303107" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4307520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307520/8aaf03489993a520f62f1cd012cc61ab85e6218d/header.jpg?t=1774303107" alt="Blast（新規追加）" /></a></p><p>Take on your opponents in strategic 5-minute duels! Collect over 800 unique cards, master 7 elements and their synergies, and dominate the board in this free-to-play tactical card game. PC and Mobile - Cross-play enabled!</p><p><a href="https://store.steampowered.com/app/4307520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ibboran（新規追加）</title>
   <link>https://store.steampowered.com/app/2379980/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778400/e96aca1c2fdc362d9569750583cc9fd49daf0f2e/header.jpg?t=1773961360" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778400/e96aca1c2fdc362d9569750583cc9fd49daf0f2e/header.jpg?t=1773961360" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3778400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778400/e96aca1c2fdc362d9569750583cc9fd49daf0f2e/header.jpg?t=1773961360" alt="Master of the Mow（新規追加）" /></a></p><p>Become the Master of the Mow. Cut grass, clear trash, and uncover buried treasures across the overgrown grounds of an old manor estate. Upgrade your tools and grow stronger with each trinket you sell and solve the mystery of why the grass grows back every morning. Can you finish it all in one day?</p><p><a href="https://store.steampowered.com/app/3778400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>PyroKite（新規追加）</title>
-  <link>https://store.steampowered.com/app/4505250/</link>
-  <guid isPermaLink="false">steam-store-published-4505250</guid>
-  <pubDate>Thu, 19 Mar 2026 23:38:22 +0000</pubDate>
-  <description>Devour the swarm. In this vivid arcade torch &#x27;em up, you play as a dragon growing its tail to expand its firepower. Dodge bullet-hell patterns, wield elemental magic, and slay massive mythic bosses!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505250/a1ea786c2df3b18e574142f9488593ce0946e9ee/header.jpg?t=1773962172" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505250/a1ea786c2df3b18e574142f9488593ce0946e9ee/header.jpg?t=1773962172" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505250/a1ea786c2df3b18e574142f9488593ce0946e9ee/header.jpg?t=1773962172" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4505250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505250/a1ea786c2df3b18e574142f9488593ce0946e9ee/header.jpg?t=1773962172" alt="PyroKite（新規追加）" /></a></p><p>Devour the swarm. In this vivid arcade torch &#x27;em up, you play as a dragon growing its tail to expand its firepower. Dodge bullet-hell patterns, wield elemental magic, and slay massive mythic bosses!</p><p><a href="https://store.steampowered.com/app/4505250/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
