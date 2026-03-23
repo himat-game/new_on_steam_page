@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 23 Mar 2026 09:59:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Mar 2026 11:02:28 +0000</lastBuildDate>
+<item>
+  <title>PATLABOR the Case Files（新規追加）</title>
+  <link>https://store.steampowered.com/app/3275400/</link>
+  <guid isPermaLink="false">steam-store-published-3275400</guid>
+  <pubDate>Mon, 23 Mar 2026 11:02:28 +0000</pubDate>
+  <description>Relive iconic scenes from &amp;quot;Mobile Police Patlabor&amp;quot; in this 3D console action game. Experience dual perspectives: Main Missions as the SV2, and Another Side Missions as their rivals. Hone your pilot skills in Simulator Mode, featuring shooting ranges and Labor duels.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275400/8ccbb76edf116563e371af0ff0fa12f255c527fd/header.jpg?t=1774261407" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275400/8ccbb76edf116563e371af0ff0fa12f255c527fd/header.jpg?t=1774261407" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275400/8ccbb76edf116563e371af0ff0fa12f255c527fd/header.jpg?t=1774261407" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3275400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275400/8ccbb76edf116563e371af0ff0fa12f255c527fd/header.jpg?t=1774261407" alt="PATLABOR the Case Files（新規追加）" /></a></p><p>Relive iconic scenes from &amp;quot;Mobile Police Patlabor&amp;quot; in this 3D console action game. Experience dual perspectives: Main Missions as the SV2, and Another Side Missions as their rivals. Hone your pilot skills in Simulator Mode, featuring shooting ranges and Labor duels.</p><p><a href="https://store.steampowered.com/app/3275400/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Quiz On!! Succubus（新規追加）</title>
   <link>https://store.steampowered.com/app/4451890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513210/f8054d270eab0e66a7462936c7cf28711ff117c5/header.jpg?t=1773915625" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513210/f8054d270eab0e66a7462936c7cf28711ff117c5/header.jpg?t=1773915625" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4513210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513210/f8054d270eab0e66a7462936c7cf28711ff117c5/header.jpg?t=1773915625" alt="Maybe It Meant Something（新規追加）" /></a></p><p>Platformer journeying a nightmare of meaning.</p><p><a href="https://store.steampowered.com/app/4513210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dust &amp; Diamonds（新規追加）</title>
-  <link>https://store.steampowered.com/app/4434580/</link>
-  <guid isPermaLink="false">steam-store-published-4434580</guid>
-  <pubDate>Thu, 19 Mar 2026 11:21:26 +0000</pubDate>
-  <description>Humans are extinct, and Goblins proudly stand at the top of the food chain! Take over a mine, expand your surface base, and automate logistics. Manage workers, trade, avoid cave-ins and lava, and above all – try to endure your father&#x27;s constant grumbling!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4434580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/899f5aa4400b4126254b84560962d6d4c30a5797/header.jpg?t=1773916152" alt="Dust &amp; Diamonds（新規追加）" /></a></p><p>Humans are extinct, and Goblins proudly stand at the top of the food chain! Take over a mine, expand your surface base, and automate logistics. Manage workers, trade, avoid cave-ins and lava, and above all – try to endure your father&#x27;s constant grumbling!</p><p><a href="https://store.steampowered.com/app/4434580/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
