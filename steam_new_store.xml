@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 26 Mar 2026 10:50:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 11:48:16 +0000</lastBuildDate>
+<item>
+  <title>World Nexuses: Hyper Racer（新規追加）</title>
+  <link>https://store.steampowered.com/app/4529610/</link>
+  <guid isPermaLink="false">steam-store-published-4529610</guid>
+  <pubDate>Thu, 26 Mar 2026 11:48:16 +0000</pubDate>
+  <description>A sci‑fi arcade racing game where you pilot advanced spacecraft through futuristic tracks. Master tight controls, react at high speed, and push your reflexes to the limit in pure fast‑paced racing action.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529610/bb2c9af2fb0919e7594ac813e7c041697ef9590f/header.jpg?t=1774523553" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529610/bb2c9af2fb0919e7594ac813e7c041697ef9590f/header.jpg?t=1774523553" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529610/bb2c9af2fb0919e7594ac813e7c041697ef9590f/header.jpg?t=1774523553" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4529610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529610/bb2c9af2fb0919e7594ac813e7c041697ef9590f/header.jpg?t=1774523553" alt="World Nexuses: Hyper Racer（新規追加）" /></a></p><p>A sci‑fi arcade racing game where you pilot advanced spacecraft through futuristic tracks. Master tight controls, react at high speed, and push your reflexes to the limit in pure fast‑paced racing action.</p><p><a href="https://store.steampowered.com/app/4529610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Factory Default: Build, Trade, Repeat（新規追加）</title>
   <link>https://store.steampowered.com/app/3901610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543590/8d958dcf5c07e8c28929599f2334ff412580f122/header.jpg?t=1774368862" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543590/8d958dcf5c07e8c28929599f2334ff412580f122/header.jpg?t=1774368862" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4543590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543590/8d958dcf5c07e8c28929599f2334ff412580f122/header.jpg?t=1774368862" alt="Leave a Message（新規追加）" /></a></p><p>Test your wits in this funny party game where players record their voices to answer prompts that set them up with increasingly humorous and silly scenarios. Players vote for the funniest answer. Endless fun for up to 6 players and even more with audience voting!</p><p><a href="https://store.steampowered.com/app/4543590/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Khaldun: Text Based Strategy（新規追加）</title>
-  <link>https://store.steampowered.com/app/4539870/</link>
-  <guid isPermaLink="false">steam-store-published-4539870</guid>
-  <pubDate>Tue, 24 Mar 2026 17:16:07 +0000</pubDate>
-  <description>Khaldun is a medieval-themed ASCII graphics kingdom management game. Take part in realistic war simulations and decide every detail of your kingdom, from its economy to its demographics! Your decisions will shape the life of a nation. Rise or be lost to history...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1774370231" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1774370231" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1774370231" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4539870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1774370231" alt="Khaldun: Text Based Strategy（新規追加）" /></a></p><p>Khaldun is a medieval-themed ASCII graphics kingdom management game. Take part in realistic war simulations and decide every detail of your kingdom, from its economy to its demographics! Your decisions will shape the life of a nation. Rise or be lost to history...</p><p><a href="https://store.steampowered.com/app/4539870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
