@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Mar 2026 21:00:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 21:38:41 +0000</lastBuildDate>
+<item>
+  <title>Your Meow-jesty!（新規追加）</title>
+  <link>https://store.steampowered.com/app/4453370/</link>
+  <guid isPermaLink="false">steam-store-published-4453370</guid>
+  <pubDate>Sat, 28 Mar 2026 21:38:41 +0000</pubDate>
+  <description>Explore. Annoy. Conquer. Play as an ambitious cat set loose in a cosy castle town.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453370/a556ed0aa2d39f427e1eaaf8f42ab5385055aaa2/header.jpg?t=1774732314" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453370/a556ed0aa2d39f427e1eaaf8f42ab5385055aaa2/header.jpg?t=1774732314" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453370/a556ed0aa2d39f427e1eaaf8f42ab5385055aaa2/header.jpg?t=1774732314" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4453370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453370/a556ed0aa2d39f427e1eaaf8f42ab5385055aaa2/header.jpg?t=1774732314" alt="Your Meow-jesty!（新規追加）" /></a></p><p>Explore. Annoy. Conquer. Play as an ambitious cat set loose in a cosy castle town.</p><p><a href="https://store.steampowered.com/app/4453370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SimpSlots（新規追加）</title>
   <link>https://store.steampowered.com/app/4501870/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541610/d9f083126aca3b9d4a6b21b5e22d2eeae41a97d4/header.jpg?t=1774566195" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541610/d9f083126aca3b9d4a6b21b5e22d2eeae41a97d4/header.jpg?t=1774566195" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4541610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541610/d9f083126aca3b9d4a6b21b5e22d2eeae41a97d4/header.jpg?t=1774566195" alt="Ascension: The Infinite Descent（新規追加）" /></a></p><p>Descend into the abyss, navigate the dungeon, collect cards for your custom loadout, and fight monsters in turn-based combat. Death is only the beginning—use Rebirth to gain permanent attributes that scale everything you do, and dive back in to try again.</p><p><a href="https://store.steampowered.com/app/4541610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Scathefire（新規追加）</title>
-  <link>https://store.steampowered.com/app/2614830/</link>
-  <guid isPermaLink="false">steam-store-published-2614830</guid>
-  <pubDate>Thu, 26 Mar 2026 22:59:25 +0000</pubDate>
-  <description>Scathefire is a tactical RPG sandbox-with-a-story. Fight through a handcrafted narrative in the spirit of classic fantasy JRPGs, or step into a brutal sandbox campaign mode with permadeath where every choice matters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614830/97995ec3e502c0a64a515c9891b832fffae44dc3/header.jpg?t=1774564847" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614830/97995ec3e502c0a64a515c9891b832fffae44dc3/header.jpg?t=1774564847" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614830/97995ec3e502c0a64a515c9891b832fffae44dc3/header.jpg?t=1774564847" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2614830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614830/97995ec3e502c0a64a515c9891b832fffae44dc3/header.jpg?t=1774564847" alt="Scathefire（新規追加）" /></a></p><p>Scathefire is a tactical RPG sandbox-with-a-story. Fight through a handcrafted narrative in the spirit of classic fantasy JRPGs, or step into a brutal sandbox campaign mode with permadeath where every choice matters.</p><p><a href="https://store.steampowered.com/app/2614830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
