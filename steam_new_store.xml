@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Mar 2026 08:35:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 09:07:43 +0000</lastBuildDate>
+<item>
+  <title>Tower of Heroes（新規追加）</title>
+  <link>https://store.steampowered.com/app/4509330/</link>
+  <guid isPermaLink="false">steam-store-published-4509330</guid>
+  <pubDate>Sat, 28 Mar 2026 09:07:43 +0000</pubDate>
+  <description>An idle game where your character automatically attacks enemies, collects resources to strengthen your character, and challenges stronger enemies in higher levels.Will you rise to the top and claim the title of legend?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509330/83b03129219947673a53b1739ab51040805332c3/header.jpg?t=1774687629" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509330/83b03129219947673a53b1739ab51040805332c3/header.jpg?t=1774687629" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509330/83b03129219947673a53b1739ab51040805332c3/header.jpg?t=1774687629" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4509330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509330/83b03129219947673a53b1739ab51040805332c3/header.jpg?t=1774687629" alt="Tower of Heroes（新規追加）" /></a></p><p>An idle game where your character automatically attacks enemies, collects resources to strengthen your character, and challenges stronger enemies in higher levels.Will you rise to the top and claim the title of legend?</p><p><a href="https://store.steampowered.com/app/4509330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>I Fell for Her（新規追加）</title>
   <link>https://store.steampowered.com/app/4562850/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/5b6e8da1758e442e33e546bf649c2f65142a79bc/header.jpg?t=1774550175" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/5b6e8da1758e442e33e546bf649c2f65142a79bc/header.jpg?t=1774550175" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3064040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/5b6e8da1758e442e33e546bf649c2f65142a79bc/header.jpg?t=1774550175" alt="Bluey&#x27;s Happy Snaps（新規追加）" /></a></p><p>Time to play! Explore, have fun and capture your favorite moments with Bluey and Bingo in this photo-powered game. Look out for familiar spots from the show, create your own scrapbook and turn in-game memories into playful moments for real life.</p><p><a href="https://store.steampowered.com/app/3064040/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Infinite Dungeon: Idle Adventure（新規追加）</title>
-  <link>https://store.steampowered.com/app/4529260/</link>
-  <guid isPermaLink="false">steam-store-published-4529260</guid>
-  <pubDate>Thu, 26 Mar 2026 19:40:41 +0000</pubDate>
-  <description>Idle Dungeon Crawling x Incremental Clicker: Experience the thrill of limitless growth. Master hero synergies and upgrade priorities to bring strategic depth to every dungeon run</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529260/2d846513cb8443e03f9f1e26b03923b80db9743c/header.jpg?t=1774553286" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529260/2d846513cb8443e03f9f1e26b03923b80db9743c/header.jpg?t=1774553286" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529260/2d846513cb8443e03f9f1e26b03923b80db9743c/header.jpg?t=1774553286" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4529260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529260/2d846513cb8443e03f9f1e26b03923b80db9743c/header.jpg?t=1774553286" alt="Infinite Dungeon: Idle Adventure（新規追加）" /></a></p><p>Idle Dungeon Crawling x Incremental Clicker: Experience the thrill of limitless growth. Master hero synergies and upgrade priorities to bring strategic depth to every dungeon run</p><p><a href="https://store.steampowered.com/app/4529260/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
