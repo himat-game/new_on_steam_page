@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Mar 2026 17:48:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 19:17:09 +0000</lastBuildDate>
+<item>
+  <title>Haiju（新規追加）</title>
+  <link>https://store.steampowered.com/app/4555260/</link>
+  <guid isPermaLink="false">steam-store-published-4555260</guid>
+  <pubDate>Sat, 28 Mar 2026 19:17:09 +0000</pubDate>
+  <description>Gather the 36 Heavenly Wind Bells from across otherworldly landscapes drawn from Japanese mythology. Charge through enemies and glide over vast gaps in a high-speed action platformer charged with electric energy.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555260/69698976e99e653bb2c5aeb8aae0c184dd3c5026/header.jpg?t=1774723270" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555260/69698976e99e653bb2c5aeb8aae0c184dd3c5026/header.jpg?t=1774723270" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555260/69698976e99e653bb2c5aeb8aae0c184dd3c5026/header.jpg?t=1774723270" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4555260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555260/69698976e99e653bb2c5aeb8aae0c184dd3c5026/header.jpg?t=1774723270" alt="Haiju（新規追加）" /></a></p><p>Gather the 36 Heavenly Wind Bells from across otherworldly landscapes drawn from Japanese mythology. Charge through enemies and glide over vast gaps in a high-speed action platformer charged with electric energy.</p><p><a href="https://store.steampowered.com/app/4555260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Magnus（新規追加）</title>
   <link>https://store.steampowered.com/app/4384670/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499530/124a85cf19ec2df0367292d72354e505c4b914be/header.jpg?t=1774564338" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499530/124a85cf19ec2df0367292d72354e505c4b914be/header.jpg?t=1774564338" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4499530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499530/124a85cf19ec2df0367292d72354e505c4b914be/header.jpg?t=1774564338" alt="Don Quijote（新規追加）" /></a></p><p>An interactive graphic novel reimagining Cervantes&#x27; masterpiece in striking neo-noir style. Guide Don Quixote through La Mancha, make choices that shape his journey, and discover four unique endings in this tragicomic tale of idealism and madness.</p><p><a href="https://store.steampowered.com/app/4499530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ice&#x27;s Big Adventure（新規追加）</title>
-  <link>https://store.steampowered.com/app/4526280/</link>
-  <guid isPermaLink="false">steam-store-published-4526280</guid>
-  <pubDate>Thu, 26 Mar 2026 22:59:25 +0000</pubDate>
-  <description>You play as Ice, a young sorcerer with powerful ice magic and absolutely no memory of her past. She’s not trying to save the world, she mostly just wants to chill, hang out with her friends, and maybe avoid causing another disaster.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526280/d4fb3f3d1c24cc800d016e3f117bf347edf72303/header.jpg?t=1774564222" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526280/d4fb3f3d1c24cc800d016e3f117bf347edf72303/header.jpg?t=1774564222" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526280/d4fb3f3d1c24cc800d016e3f117bf347edf72303/header.jpg?t=1774564222" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4526280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526280/d4fb3f3d1c24cc800d016e3f117bf347edf72303/header.jpg?t=1774564222" alt="Ice&#x27;s Big Adventure（新規追加）" /></a></p><p>You play as Ice, a young sorcerer with powerful ice magic and absolutely no memory of her past. She’s not trying to save the world, she mostly just wants to chill, hang out with her friends, and maybe avoid causing another disaster.</p><p><a href="https://store.steampowered.com/app/4526280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
