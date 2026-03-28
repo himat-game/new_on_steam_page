@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Mar 2026 19:17:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 21:00:22 +0000</lastBuildDate>
+<item>
+  <title>SimpSlots（新規追加）</title>
+  <link>https://store.steampowered.com/app/4501870/</link>
+  <guid isPermaLink="false">steam-store-published-4501870</guid>
+  <pubDate>Sat, 28 Mar 2026 21:00:22 +0000</pubDate>
+  <description>Spin the reels, earn points, and unlock 10 unique girls in this addictive slot machine experience. Collect 20 powerful perks, chase 30+ achievements, and reveal NSFW rewards as you play. How far will your luck and your devotion will take you?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501870/60d08a4587f3781cfd394bbd8a32d3b6f8c54d19/header.jpg?t=1774730259" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501870/60d08a4587f3781cfd394bbd8a32d3b6f8c54d19/header.jpg?t=1774730259" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501870/60d08a4587f3781cfd394bbd8a32d3b6f8c54d19/header.jpg?t=1774730259" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4501870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501870/60d08a4587f3781cfd394bbd8a32d3b6f8c54d19/header.jpg?t=1774730259" alt="SimpSlots（新規追加）" /></a></p><p>Spin the reels, earn points, and unlock 10 unique girls in this addictive slot machine experience. Collect 20 powerful perks, chase 30+ achievements, and reveal NSFW rewards as you play. How far will your luck and your devotion will take you?</p><p><a href="https://store.steampowered.com/app/4501870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Haiju（新規追加）</title>
   <link>https://store.steampowered.com/app/4555260/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614830/97995ec3e502c0a64a515c9891b832fffae44dc3/header.jpg?t=1774564847" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614830/97995ec3e502c0a64a515c9891b832fffae44dc3/header.jpg?t=1774564847" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2614830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2614830/97995ec3e502c0a64a515c9891b832fffae44dc3/header.jpg?t=1774564847" alt="Scathefire（新規追加）" /></a></p><p>Scathefire is a tactical RPG sandbox-with-a-story. Fight through a handcrafted narrative in the spirit of classic fantasy JRPGs, or step into a brutal sandbox campaign mode with permadeath where every choice matters.</p><p><a href="https://store.steampowered.com/app/2614830/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Don Quijote（新規追加）</title>
-  <link>https://store.steampowered.com/app/4499530/</link>
-  <guid isPermaLink="false">steam-store-published-4499530</guid>
-  <pubDate>Thu, 26 Mar 2026 22:59:25 +0000</pubDate>
-  <description>An interactive graphic novel reimagining Cervantes&#x27; masterpiece in striking neo-noir style. Guide Don Quixote through La Mancha, make choices that shape his journey, and discover four unique endings in this tragicomic tale of idealism and madness.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499530/124a85cf19ec2df0367292d72354e505c4b914be/header.jpg?t=1774564338" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499530/124a85cf19ec2df0367292d72354e505c4b914be/header.jpg?t=1774564338" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499530/124a85cf19ec2df0367292d72354e505c4b914be/header.jpg?t=1774564338" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4499530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499530/124a85cf19ec2df0367292d72354e505c4b914be/header.jpg?t=1774564338" alt="Don Quijote（新規追加）" /></a></p><p>An interactive graphic novel reimagining Cervantes&#x27; masterpiece in striking neo-noir style. Guide Don Quixote through La Mancha, make choices that shape his journey, and discover four unique endings in this tragicomic tale of idealism and madness.</p><p><a href="https://store.steampowered.com/app/4499530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
