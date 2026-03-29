@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 29 Mar 2026 13:51:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 14:31:07 +0000</lastBuildDate>
+<item>
+  <title>Succulent Break（新規追加）</title>
+  <link>https://store.steampowered.com/app/4536070/</link>
+  <guid isPermaLink="false">steam-store-published-4536070</guid>
+  <pubDate>Sun, 29 Mar 2026 14:31:07 +0000</pubDate>
+  <description>Come and grow a variety of succulents! Succulent Break is a relaxing simulation game where you can nurture plants in the corner of your desktop. Match pots and soil, water them at the perfect moment, and watch your succulents burst into vibrant colors.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536070/35e893b840efef434d9126cde4c157c6e43b13fa/header.jpg?t=1774792339" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536070/35e893b840efef434d9126cde4c157c6e43b13fa/header.jpg?t=1774792339" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536070/35e893b840efef434d9126cde4c157c6e43b13fa/header.jpg?t=1774792339" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4536070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536070/35e893b840efef434d9126cde4c157c6e43b13fa/header.jpg?t=1774792339" alt="Succulent Break（新規追加）" /></a></p><p>Come and grow a variety of succulents! Succulent Break is a relaxing simulation game where you can nurture plants in the corner of your desktop. Match pots and soil, water them at the perfect moment, and watch your succulents burst into vibrant colors.</p><p><a href="https://store.steampowered.com/app/4536070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Enfeathered（新規追加）</title>
   <link>https://store.steampowered.com/app/4558050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535780/5f630324b81a13783a44fb80cd2335f6dc8eaf52/header.jpg?t=1774575564" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535780/5f630324b81a13783a44fb80cd2335f6dc8eaf52/header.jpg?t=1774575564" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4535780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535780/5f630324b81a13783a44fb80cd2335f6dc8eaf52/header.jpg?t=1774575564" alt="Love is Undead（新規追加）" /></a></p><p>In this adventure game, play as a scientist immune to a deadly virus. Scavenge for resources, develop a vaccine, and test it on Amber, a recently infected girl. Manage supplies, explore dangerous areas, and build a bond that could save humanity. Enjoy post-apocalyptic life with a zombie girl!</p><p><a href="https://store.steampowered.com/app/4535780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>RuneClick（新規追加）</title>
-  <link>https://store.steampowered.com/app/4516860/</link>
-  <guid isPermaLink="false">steam-store-published-4516860</guid>
-  <pubDate>Fri, 27 Mar 2026 03:31:27 +0000</pubDate>
-  <description>A medieval desktop companion RPG that runs as an always-on-top overlay. Your real keyboard and mouse input drives your character&#x27;s progress. Chop, mine, fish, smith, cook, and craft while you work. Every click counts.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4516860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919" alt="RuneClick（新規追加）" /></a></p><p>A medieval desktop companion RPG that runs as an always-on-top overlay. Your real keyboard and mouse input drives your character&#x27;s progress. Chop, mine, fish, smith, cook, and craft while you work. Every click counts.</p><p><a href="https://store.steampowered.com/app/4516860/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
