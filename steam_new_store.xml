@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 29 Mar 2026 12:50:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 13:51:44 +0000</lastBuildDate>
+<item>
+  <title>Enfeathered（新規追加）</title>
+  <link>https://store.steampowered.com/app/4558050/</link>
+  <guid isPermaLink="false">steam-store-published-4558050</guid>
+  <pubDate>Sun, 29 Mar 2026 13:51:44 +0000</pubDate>
+  <description>Flap, Dash, Jump, Glide, Dash, and more, through a vast world full of places to explore, people to talk to, and enemies to fight. Use all of your movement tools in order to both explore and fight, all in chunky 2d pixelart.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558050/4e25d5484f18ac30b4f56396ef9af2e073daf56d/header.jpg?t=1774789882" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558050/4e25d5484f18ac30b4f56396ef9af2e073daf56d/header.jpg?t=1774789882" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558050/4e25d5484f18ac30b4f56396ef9af2e073daf56d/header.jpg?t=1774789882" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4558050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558050/4e25d5484f18ac30b4f56396ef9af2e073daf56d/header.jpg?t=1774789882" alt="Enfeathered（新規追加）" /></a></p><p>Flap, Dash, Jump, Glide, Dash, and more, through a vast world full of places to explore, people to talk to, and enemies to fight. Use all of your movement tools in order to both explore and fight, all in chunky 2d pixelart.</p><p><a href="https://store.steampowered.com/app/4558050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bad Range（新規追加）</title>
   <link>https://store.steampowered.com/app/4239630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4516860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516860/e9655172cc285b17923633368de14c8201746a65/header.jpg?t=1774581919" alt="RuneClick（新規追加）" /></a></p><p>A medieval desktop companion RPG that runs as an always-on-top overlay. Your real keyboard and mouse input drives your character&#x27;s progress. Chop, mine, fish, smith, cook, and craft while you work. Every click counts.</p><p><a href="https://store.steampowered.com/app/4516860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Shadows Of Memory lll（新規追加）</title>
-  <link>https://store.steampowered.com/app/4430140/</link>
-  <guid isPermaLink="false">steam-store-published-4430140</guid>
-  <pubDate>Fri, 27 Mar 2026 03:31:27 +0000</pubDate>
-  <description>Face your fears, Alice. This time, you&#x27;re not alone. This is the last chapter in the horror visual novel trilogy.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430140/5e94d3dcf44b682345beb661e57fee87e15b9298/header.jpg?t=1774571944" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430140/5e94d3dcf44b682345beb661e57fee87e15b9298/header.jpg?t=1774571944" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430140/5e94d3dcf44b682345beb661e57fee87e15b9298/header.jpg?t=1774571944" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4430140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430140/5e94d3dcf44b682345beb661e57fee87e15b9298/header.jpg?t=1774571944" alt="Shadows Of Memory lll（新規追加）" /></a></p><p>Face your fears, Alice. This time, you&#x27;re not alone. This is the last chapter in the horror visual novel trilogy.</p><p><a href="https://store.steampowered.com/app/4430140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
