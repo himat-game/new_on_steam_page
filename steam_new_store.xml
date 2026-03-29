@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 28 Mar 2026 22:33:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Mar 2026 23:48:13 +0000</lastBuildDate>
+<item>
+  <title>Project Looking Glass（新規追加）</title>
+  <link>https://store.steampowered.com/app/4461730/</link>
+  <guid isPermaLink="false">steam-store-published-4461730</guid>
+  <pubDate>Sat, 28 Mar 2026 23:48:13 +0000</pubDate>
+  <description>1963. A classified experiment. A grieving mother. A signal that won&#x27;t stop transmitting. Step through the Looking Glass — a first-person psychological horror told through the static of a Cold War-era apparatus that peers into places mankind was never meant to reach.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461730/8d2980cc4e3c561d18365a6992047396d119eaf8/header.jpg?t=1774741076" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461730/8d2980cc4e3c561d18365a6992047396d119eaf8/header.jpg?t=1774741076" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461730/8d2980cc4e3c561d18365a6992047396d119eaf8/header.jpg?t=1774741076" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4461730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461730/8d2980cc4e3c561d18365a6992047396d119eaf8/header.jpg?t=1774741076" alt="Project Looking Glass（新規追加）" /></a></p><p>1963. A classified experiment. A grieving mother. A signal that won&#x27;t stop transmitting. Step through the Looking Glass — a first-person psychological horror told through the static of a Cold War-era apparatus that peers into places mankind was never meant to reach.</p><p><a href="https://store.steampowered.com/app/4461730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Indignum（新規追加）</title>
   <link>https://store.steampowered.com/app/4483910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379680/7a8ef5881086df870457d6822213db2cfad7b403/header.jpg?t=1774565985" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379680/7a8ef5881086df870457d6822213db2cfad7b403/header.jpg?t=1774565985" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4379680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379680/7a8ef5881086df870457d6822213db2cfad7b403/header.jpg?t=1774565985" alt="Brutal Disclosure（新規追加）" /></a></p><p>A retro raycasting FPS, where grey aliens have abducted your wife! It&#x27;s all real! Fight through the UFO/UAP lore. Discover and kill different alien species, read above top secret MJ-12 documents, and reveal the truth about the UFO/UAP phenomenon through BRUTAL DISCLOSURE.</p><p><a href="https://store.steampowered.com/app/4379680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Zodiacra（新規追加）</title>
-  <link>https://store.steampowered.com/app/4555830/</link>
-  <guid isPermaLink="false">steam-store-published-4555830</guid>
-  <pubDate>Thu, 26 Mar 2026 23:40:14 +0000</pubDate>
-  <description>Step into Zodiacra - an atmospheric puzzle game with calming stellar visuals. Connect the stars to reveal constellations across a serene night sky, uncovering zodiac signs, mythical creatures, divine beings, and the stories behind them.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555830/3de868fe8ef1c8d3c6c2cedce3894560c5ba7c83/header.jpg?t=1774567424" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555830/3de868fe8ef1c8d3c6c2cedce3894560c5ba7c83/header.jpg?t=1774567424" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555830/3de868fe8ef1c8d3c6c2cedce3894560c5ba7c83/header.jpg?t=1774567424" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4555830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555830/3de868fe8ef1c8d3c6c2cedce3894560c5ba7c83/header.jpg?t=1774567424" alt="Zodiacra（新規追加）" /></a></p><p>Step into Zodiacra - an atmospheric puzzle game with calming stellar visuals. Connect the stars to reveal constellations across a serene night sky, uncovering zodiac signs, mythical creatures, divine beings, and the stories behind them.</p><p><a href="https://store.steampowered.com/app/4555830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
