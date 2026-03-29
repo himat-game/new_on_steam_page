@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 29 Mar 2026 11:03:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 11:45:40 +0000</lastBuildDate>
+<item>
+  <title>Arcade Park Islands: Rides &amp; Minigames（新規追加）</title>
+  <link>https://store.steampowered.com/app/4343650/</link>
+  <guid isPermaLink="false">steam-store-published-4343650</guid>
+  <pubDate>Sun, 29 Mar 2026 11:45:40 +0000</pubDate>
+  <description>A cozy first-person theme park arcade game: explore parks, ride attractions, play skill-based minigames, and chase highscores while filling your trophy shelf.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343650/b30e44a239e219927e2506bd2dc363d59a193ed8/header.jpg?t=1774783324" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343650/b30e44a239e219927e2506bd2dc363d59a193ed8/header.jpg?t=1774783324" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343650/b30e44a239e219927e2506bd2dc363d59a193ed8/header.jpg?t=1774783324" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4343650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343650/b30e44a239e219927e2506bd2dc363d59a193ed8/header.jpg?t=1774783324" alt="Arcade Park Islands: Rides &amp; Minigames（新規追加）" /></a></p><p>A cozy first-person theme park arcade game: explore parks, ride attractions, play skill-based minigames, and chase highscores while filling your trophy shelf.</p><p><a href="https://store.steampowered.com/app/4343650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Vaska（新規追加）</title>
   <link>https://store.steampowered.com/app/4530110/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513060/fb0720988f11f3011c8dd5084141c6bc276a60d5/header.jpg?t=1774576206" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513060/fb0720988f11f3011c8dd5084141c6bc276a60d5/header.jpg?t=1774576206" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4513060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513060/fb0720988f11f3011c8dd5084141c6bc276a60d5/header.jpg?t=1774576206" alt="Yandere Virus（新規追加）" /></a></p><p>An online co-op horror game for up to 4 players. Play solo or with your friends to collect Platonic Pumpkins and save your precious friend infected by the terrifying Yandere Virus.</p><p><a href="https://store.steampowered.com/app/4513060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Aqua Street（新規追加）</title>
-  <link>https://store.steampowered.com/app/4537710/</link>
-  <guid isPermaLink="false">steam-store-published-4537710</guid>
-  <pubDate>Fri, 27 Mar 2026 03:31:27 +0000</pubDate>
-  <description>Aqua street is an open world game where you can race with friends. The game has a traffic system, it is very interesting to race and have traffic on the streets and not just traffic, there is also the police chasing you. The game has many interesting details.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537710/03a0c70864f198b907f70e05f938917dfaa23e61/header.jpg?t=1774581510" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537710/03a0c70864f198b907f70e05f938917dfaa23e61/header.jpg?t=1774581510" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537710/03a0c70864f198b907f70e05f938917dfaa23e61/header.jpg?t=1774581510" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4537710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537710/03a0c70864f198b907f70e05f938917dfaa23e61/header.jpg?t=1774581510" alt="Aqua Street（新規追加）" /></a></p><p>Aqua street is an open world game where you can race with friends. The game has a traffic system, it is very interesting to race and have traffic on the streets and not just traffic, there is also the police chasing you. The game has many interesting details.</p><p><a href="https://store.steampowered.com/app/4537710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
