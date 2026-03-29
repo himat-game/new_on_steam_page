@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 29 Mar 2026 09:48:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 10:30:07 +0000</lastBuildDate>
+<item>
+  <title>Naughty Arena（新規追加）</title>
+  <link>https://store.steampowered.com/app/4103840/</link>
+  <guid isPermaLink="false">steam-store-published-4103840</guid>
+  <pubDate>Sun, 29 Mar 2026 10:30:07 +0000</pubDate>
+  <description>Naughty Arena is a turn-based RPG battler drenched in unapologetic lust</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103840/e5ab8a607f1cde47eb5ecc0b90289b97d19da02a/header.jpg?t=1774778864" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103840/e5ab8a607f1cde47eb5ecc0b90289b97d19da02a/header.jpg?t=1774778864" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103840/e5ab8a607f1cde47eb5ecc0b90289b97d19da02a/header.jpg?t=1774778864" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4103840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4103840/e5ab8a607f1cde47eb5ecc0b90289b97d19da02a/header.jpg?t=1774778864" alt="Naughty Arena（新規追加）" /></a></p><p>Naughty Arena is a turn-based RPG battler drenched in unapologetic lust</p><p><a href="https://store.steampowered.com/app/4103840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Field Recordings（新規追加）</title>
   <link>https://store.steampowered.com/app/4537930/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4242200/16077d8aee3e2a83cdf14829424f733a3db055a6/header.jpg?t=1774580716" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4242200/16077d8aee3e2a83cdf14829424f733a3db055a6/header.jpg?t=1774580716" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4242200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4242200/16077d8aee3e2a83cdf14829424f733a3db055a6/header.jpg?t=1774580716" alt="Hauntworks（新規追加）" /></a></p><p>Run a haunted house where emotions are resources and monsters are your colleagues. Just don&#x27;t kill too many as you try to escape limbo.</p><p><a href="https://store.steampowered.com/app/4242200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>AutoShowRoom（新規追加）</title>
-  <link>https://store.steampowered.com/app/4534870/</link>
-  <guid isPermaLink="false">steam-store-published-4534870</guid>
-  <pubDate>Fri, 27 Mar 2026 03:31:27 +0000</pubDate>
-  <description>AutoShowRoom is a small relaxing incremental game about managing your own car showroom! Collect +100 unique cars from 10 different countries! Tune them to perfection and showcase them in thrilling events! Unlock new models and expand your collection! Build the ulitimate car showroom!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534870/b746ae6b6100db2eb7ea9715322a2c9defd630fd/header.jpg?t=1774571302" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534870/b746ae6b6100db2eb7ea9715322a2c9defd630fd/header.jpg?t=1774571302" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534870/b746ae6b6100db2eb7ea9715322a2c9defd630fd/header.jpg?t=1774571302" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4534870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534870/b746ae6b6100db2eb7ea9715322a2c9defd630fd/header.jpg?t=1774571302" alt="AutoShowRoom（新規追加）" /></a></p><p>AutoShowRoom is a small relaxing incremental game about managing your own car showroom! Collect +100 unique cars from 10 different countries! Tune them to perfection and showcase them in thrilling events! Unlock new models and expand your collection! Build the ulitimate car showroom!</p><p><a href="https://store.steampowered.com/app/4534870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
