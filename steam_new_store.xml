@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 29 Mar 2026 15:48:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 17:49:47 +0000</lastBuildDate>
+<item>
+  <title>Rotten Chamber（新規追加）</title>
+  <link>https://store.steampowered.com/app/4559620/</link>
+  <guid isPermaLink="false">steam-store-published-4559620</guid>
+  <pubDate>Sun, 29 Mar 2026 17:49:47 +0000</pubDate>
+  <description>A single-player logic puzzle disguised as social deduction. Read the claims of a corrupt city council, catch the liars and arrest them, but every wrong call brings you closer to losing it all.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559620/301a30f579acc1390b4a3d781a35adbec72247d1/header.jpg?t=1774805774" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559620/301a30f579acc1390b4a3d781a35adbec72247d1/header.jpg?t=1774805774" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559620/301a30f579acc1390b4a3d781a35adbec72247d1/header.jpg?t=1774805774" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4559620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559620/301a30f579acc1390b4a3d781a35adbec72247d1/header.jpg?t=1774805774" alt="Rotten Chamber（新規追加）" /></a></p><p>A single-player logic puzzle disguised as social deduction. Read the claims of a corrupt city council, catch the liars and arrest them, but every wrong call brings you closer to losing it all.</p><p><a href="https://store.steampowered.com/app/4559620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pool（新規追加）</title>
   <link>https://store.steampowered.com/app/4311790/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1774585984" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1774585984" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3778650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1774585984" alt="Wall Brawl（新規追加）" /></a></p><p>A fantasy multiplayer fortress‑building combat game where 32 players battle, gather resources, and break castles in explosive showdowns</p><p><a href="https://store.steampowered.com/app/3778650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fish House Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4536970/</link>
-  <guid isPermaLink="false">steam-store-published-4536970</guid>
-  <pubDate>Fri, 27 Mar 2026 05:25:29 +0000</pubDate>
-  <description>Catch it, cook it… or sell it under the table. 🎣 In Fish House, catch fish, cook, and serve customers! Upgrade your gear, catch valuable fish, and grow your restaurant. Not everything is legal—some fish are risky but profitable. Every fish ends up on a plate… some leave through the back door.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536970/1c5e87bfb2da1e699a8bf0ca8448d9b32c513d27/header.jpg?t=1774585326" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536970/1c5e87bfb2da1e699a8bf0ca8448d9b32c513d27/header.jpg?t=1774585326" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536970/1c5e87bfb2da1e699a8bf0ca8448d9b32c513d27/header.jpg?t=1774585326" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4536970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536970/1c5e87bfb2da1e699a8bf0ca8448d9b32c513d27/header.jpg?t=1774585326" alt="Fish House Simulator（新規追加）" /></a></p><p>Catch it, cook it… or sell it under the table. 🎣 In Fish House, catch fish, cook, and serve customers! Upgrade your gear, catch valuable fish, and grow your restaurant. Not everything is legal—some fish are risky but profitable. Every fish ends up on a plate… some leave through the back door.</p><p><a href="https://store.steampowered.com/app/4536970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
