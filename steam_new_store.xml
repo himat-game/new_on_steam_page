@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 29 Mar 2026 17:49:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 18:38:39 +0000</lastBuildDate>
+<item>
+  <title>Fat Justice（新規追加）</title>
+  <link>https://store.steampowered.com/app/4551710/</link>
+  <guid isPermaLink="false">steam-store-published-4551710</guid>
+  <pubDate>Sun, 29 Mar 2026 18:38:39 +0000</pubDate>
+  <description>You are the newly appointed Judge in the Stone Age trying to keep a chaotic island from falling apart. Listen to bizarre testimonies while balancing absurd laws and deadly politics. Pass judgment, shape the island&#x27;s fate, and uncover the truth behind your father&#x27;s mysterious disappearance.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551710/b7cff79dfef42910b86544168bd1ca6c73fdd5de/header.jpg?t=1774809308" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551710/b7cff79dfef42910b86544168bd1ca6c73fdd5de/header.jpg?t=1774809308" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551710/b7cff79dfef42910b86544168bd1ca6c73fdd5de/header.jpg?t=1774809308" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4551710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551710/b7cff79dfef42910b86544168bd1ca6c73fdd5de/header.jpg?t=1774809308" alt="Fat Justice（新規追加）" /></a></p><p>You are the newly appointed Judge in the Stone Age trying to keep a chaotic island from falling apart. Listen to bizarre testimonies while balancing absurd laws and deadly politics. Pass judgment, shape the island&#x27;s fate, and uncover the truth behind your father&#x27;s mysterious disappearance.</p><p><a href="https://store.steampowered.com/app/4551710/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rotten Chamber（新規追加）</title>
   <link>https://store.steampowered.com/app/4559620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525680/a8c89fec78b627e3b401fa178f250b89ce8ad134/header.jpg?t=1774585136" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525680/a8c89fec78b627e3b401fa178f250b89ce8ad134/header.jpg?t=1774585136" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4525680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525680/a8c89fec78b627e3b401fa178f250b89ce8ad134/header.jpg?t=1774585136" alt="Fonsermónique’s Culinary Diary（新規追加）" /></a></p><p>Fonsermónique&#x27;s Culinary Diary is a short, linear narrative game where cooking becomes a bridge to the soul. As you prepare recipes, you receive feedback that accompanies Fonsermónique on her personal journey while exploring the temple for ingredients and the dragon, uncovering their unusual bond.</p><p><a href="https://store.steampowered.com/app/4525680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wall Brawl（新規追加）</title>
-  <link>https://store.steampowered.com/app/3778650/</link>
-  <guid isPermaLink="false">steam-store-published-3778650</guid>
-  <pubDate>Fri, 27 Mar 2026 05:25:29 +0000</pubDate>
-  <description>A fantasy multiplayer fortress‑building combat game where 32 players battle, gather resources, and break castles in explosive showdowns</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1774585984" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1774585984" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1774585984" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3778650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1774585984" alt="Wall Brawl（新規追加）" /></a></p><p>A fantasy multiplayer fortress‑building combat game where 32 players battle, gather resources, and break castles in explosive showdowns</p><p><a href="https://store.steampowered.com/app/3778650/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
