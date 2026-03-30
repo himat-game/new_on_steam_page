@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 29 Mar 2026 21:48:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 23:49:36 +0000</lastBuildDate>
+<item>
+  <title>A Frog&#x27;s Job 2: Froggina（新規追加）</title>
+  <link>https://store.steampowered.com/app/4506700/</link>
+  <guid isPermaLink="false">steam-store-published-4506700</guid>
+  <pubDate>Sun, 29 Mar 2026 23:49:36 +0000</pubDate>
+  <description>Your life has come to an end, when you find Frog God he seems impressed. Turns out most frog souls need a soul reaper to show them the way to the afterlife. Find out in this challenging puzzle platformer with a unique clock-stopping mechanic!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506700/532eabf1a2e8d7e0bce26b11df22039c451e22b5/header.jpg?t=1774827555" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506700/532eabf1a2e8d7e0bce26b11df22039c451e22b5/header.jpg?t=1774827555" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506700/532eabf1a2e8d7e0bce26b11df22039c451e22b5/header.jpg?t=1774827555" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4506700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506700/532eabf1a2e8d7e0bce26b11df22039c451e22b5/header.jpg?t=1774827555" alt="A Frog&#x27;s Job 2: Froggina（新規追加）" /></a></p><p>Your life has come to an end, when you find Frog God he seems impressed. Turns out most frog souls need a soul reaper to show them the way to the afterlife. Find out in this challenging puzzle platformer with a unique clock-stopping mechanic!</p><p><a href="https://store.steampowered.com/app/4506700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Village in the Mountain（新規追加）</title>
   <link>https://store.steampowered.com/app/4501480/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268820/05e4646d83a6240964cbad0d9329d888ceb7e4cc/header.jpg?t=1774592426" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268820/05e4646d83a6240964cbad0d9329d888ceb7e4cc/header.jpg?t=1774592426" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4268820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268820/05e4646d83a6240964cbad0d9329d888ceb7e4cc/header.jpg?t=1774592426" alt="Orb Orb Magi（新規追加）" /></a></p><p>Orb Orb Magi is an arcade Pinball Bulletheaven inspired by action roguelites and early Pinball videogames. Play Pinball like a Magical Girl with lots of different weapons and upgrades.</p><p><a href="https://store.steampowered.com/app/4268820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Petro Hunter（新規追加）</title>
-  <link>https://store.steampowered.com/app/4542320/</link>
-  <guid isPermaLink="false">steam-store-published-4542320</guid>
-  <pubDate>Fri, 27 Mar 2026 06:47:57 +0000</pubDate>
-  <description>The Isle of Man TT reborn in the apocalypse. In this world, speed alone is not enough to survive. Become a Hunter, defeat the monstrous Petro, and use its blood as fuel to push beyond your limits!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542320/bb25155f02d2d24d88e941c352bafa506dc0e73a/header.jpg?t=1774591904" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542320/bb25155f02d2d24d88e941c352bafa506dc0e73a/header.jpg?t=1774591904" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542320/bb25155f02d2d24d88e941c352bafa506dc0e73a/header.jpg?t=1774591904" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4542320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542320/bb25155f02d2d24d88e941c352bafa506dc0e73a/header.jpg?t=1774591904" alt="Petro Hunter（新規追加）" /></a></p><p>The Isle of Man TT reborn in the apocalypse. In this world, speed alone is not enough to survive. Become a Hunter, defeat the monstrous Petro, and use its blood as fuel to push beyond your limits!</p><p><a href="https://store.steampowered.com/app/4542320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
