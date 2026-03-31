@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 31 Mar 2026 11:12:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 12:02:25 +0000</lastBuildDate>
+<item>
+  <title>Zero Sum（新規追加）</title>
+  <link>https://store.steampowered.com/app/4546380/</link>
+  <guid isPermaLink="false">steam-store-published-4546380</guid>
+  <pubDate>Tue, 31 Mar 2026 12:02:25 +0000</pubDate>
+  <description>A hand-drawn twin-stick shooter where every bullet is an equation and every enemy is a number. Reduce them all to zero. No health bars. Just raw arithmetic violence. Seven operators. Infinite ways to kill a number.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546380/4ba1f8d55899a5efd6401c5f86112f01b8b0d681/header.jpg?t=1774957547" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546380/4ba1f8d55899a5efd6401c5f86112f01b8b0d681/header.jpg?t=1774957547" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546380/4ba1f8d55899a5efd6401c5f86112f01b8b0d681/header.jpg?t=1774957547" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4546380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546380/4ba1f8d55899a5efd6401c5f86112f01b8b0d681/header.jpg?t=1774957547" alt="Zero Sum（新規追加）" /></a></p><p>A hand-drawn twin-stick shooter where every bullet is an equation and every enemy is a number. Reduce them all to zero. No health bars. Just raw arithmetic violence. Seven operators. Infinite ways to kill a number.</p><p><a href="https://store.steampowered.com/app/4546380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kiss of Sin: Rewinding Flame（新規追加）</title>
   <link>https://store.steampowered.com/app/3551620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3857150/2ce6a210148fdfd22a5e1418053c37f6e418ee2d/header.jpg?t=1774689806" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3857150/2ce6a210148fdfd22a5e1418053c37f6e418ee2d/header.jpg?t=1774689806" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3857150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3857150/2ce6a210148fdfd22a5e1418053c37f6e418ee2d/header.jpg?t=1774689806" alt="Artificial Blood（新規追加）" /></a></p><p>Artificial Blood is a non-linear dark fantasy NSFW Horror RPG centered on cheating and swinging. Explore a world of vampires and demons where your girlfriend Lucille has affairs with monsters and teammates. Play as the protagonist and engage in sexual encounters with various girls and creatures.</p><p><a href="https://store.steampowered.com/app/3857150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Altered Priest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4335670/</link>
-  <guid isPermaLink="false">steam-store-published-4335670</guid>
-  <pubDate>Sat, 28 Mar 2026 09:53:37 +0000</pubDate>
-  <description>Altered Priest is a brutal old-school Time Attack FPS where you play as a Vatican priest on a mission to stop a satanic cult. Fight through procedurally generated dark fantasy dungeons, recover stolen relics, and escape before time runs out.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335670/84423c5b06b201493607c6808e66a5c8e511986e/header.jpg?t=1774688889" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335670/84423c5b06b201493607c6808e66a5c8e511986e/header.jpg?t=1774688889" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335670/84423c5b06b201493607c6808e66a5c8e511986e/header.jpg?t=1774688889" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4335670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335670/84423c5b06b201493607c6808e66a5c8e511986e/header.jpg?t=1774688889" alt="Altered Priest（新規追加）" /></a></p><p>Altered Priest is a brutal old-school Time Attack FPS where you play as a Vatican priest on a mission to stop a satanic cult. Fight through procedurally generated dark fantasy dungeons, recover stolen relics, and escape before time runs out.</p><p><a href="https://store.steampowered.com/app/4335670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
