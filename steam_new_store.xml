@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 03 Apr 2026 21:31:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 22:01:25 +0000</lastBuildDate>
+<item>
+  <title>Frogmancer（新規追加）</title>
+  <link>https://store.steampowered.com/app/4546630/</link>
+  <guid isPermaLink="false">steam-store-published-4546630</guid>
+  <pubDate>Fri, 03 Apr 2026 22:01:25 +0000</pubDate>
+  <description>A survivors-like shooter where you play as a frog wizard defending your home from swarms of flying enemies. Aim, shoot, level up, and shape your build through a variety of overpowered magical attack patterns!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546630/09c60787aefc582eb4e666b786c1cdee128ecc07/header.jpg?t=1775251881" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546630/09c60787aefc582eb4e666b786c1cdee128ecc07/header.jpg?t=1775251881" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546630/09c60787aefc582eb4e666b786c1cdee128ecc07/header.jpg?t=1775251881" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4546630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546630/09c60787aefc582eb4e666b786c1cdee128ecc07/header.jpg?t=1775251881" alt="Frogmancer（新規追加）" /></a></p><p>A survivors-like shooter where you play as a frog wizard defending your home from swarms of flying enemies. Aim, shoot, level up, and shape your build through a variety of overpowered magical attack patterns!</p><p><a href="https://store.steampowered.com/app/4546630/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dice Gun Commando（新規追加）</title>
   <link>https://store.steampowered.com/app/4537600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561660/25cf9e6c1b559a09416835669a6234e43150e49a/header.jpg?t=1775090144" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561660/25cf9e6c1b559a09416835669a6234e43150e49a/header.jpg?t=1775090144" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4561660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561660/25cf9e6c1b559a09416835669a6234e43150e49a/header.jpg?t=1775090144" alt="See-Through Jewels（新規追加）" /></a></p><p>Addictive Match 3 Puzzle with Smiley Girl&#x27;s exquisite combination!</p><p><a href="https://store.steampowered.com/app/4561660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>The Sage&#x27;s Seven（新規追加）</title>
-  <link>https://store.steampowered.com/app/4563450/</link>
-  <guid isPermaLink="false">steam-store-published-4563450</guid>
-  <pubDate>Thu, 02 Apr 2026 02:02:24 +0000</pubDate>
-  <description>A 7-turn logic duel. Analyze and refute villains’ arguments using draft-based card strategy.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4563450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974" alt="The Sage&#x27;s Seven（新規追加）" /></a></p><p>A 7-turn logic duel. Analyze and refute villains’ arguments using draft-based card strategy.</p><p><a href="https://store.steampowered.com/app/4563450/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
