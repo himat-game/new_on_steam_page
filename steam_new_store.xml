@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 03 Apr 2026 17:53:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 18:42:11 +0000</lastBuildDate>
+<item>
+  <title>Ataegina Act II（新規追加）</title>
+  <link>https://store.steampowered.com/app/4514990/</link>
+  <guid isPermaLink="false">steam-store-published-4514990</guid>
+  <pubDate>Fri, 03 Apr 2026 18:42:11 +0000</pubDate>
+  <description>In a world filled with magic and riddled with war, you find yourself playing an important role. A life of spellcraft, politics and intrigue awaits you. Will you use your powers to unify the land and its people? Or shall you use them for your own personal gain and amusement, no matter the cost?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514990/5847c3e42e9314ec9c8609ff54d7a69e8ef14301/header.jpg?t=1775241382" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514990/5847c3e42e9314ec9c8609ff54d7a69e8ef14301/header.jpg?t=1775241382" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514990/5847c3e42e9314ec9c8609ff54d7a69e8ef14301/header.jpg?t=1775241382" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4514990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514990/5847c3e42e9314ec9c8609ff54d7a69e8ef14301/header.jpg?t=1775241382" alt="Ataegina Act II（新規追加）" /></a></p><p>In a world filled with magic and riddled with war, you find yourself playing an important role. A life of spellcraft, politics and intrigue awaits you. Will you use your powers to unify the land and its people? Or shall you use them for your own personal gain and amusement, no matter the cost?</p><p><a href="https://store.steampowered.com/app/4514990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Overdrive Reloaded（新規追加）</title>
   <link>https://store.steampowered.com/app/4574760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621" alt="Resident Evil (1996)（新規追加）" /></a></p><p>Your squad has been choppered to a remote mansion to investigate a bio-experiment gone wrong. You’re plunged straight into a deathtrap. Arm yourself, solve puzzles, and unearth mysteries. But beware: every move you make draws you deeper into the deadly embrace of Resident Evil.</p><p><a href="https://store.steampowered.com/app/4249100/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Breath of Fire IV（新規追加）</title>
-  <link>https://store.steampowered.com/app/4249150/</link>
-  <guid isPermaLink="false">steam-store-published-4249150</guid>
-  <pubDate>Thu, 02 Apr 2026 02:02:24 +0000</pubDate>
-  <description>Stunning New and Improved Graphics – High Resolution, Animated Characters in Vast 3-D Worlds. More Than 200 Spells to Learn and Master – Unlock New Magic From Opponents. 2 Epic Intertwining Storylines – Follow the Fates of Ryu and Fou-Lu – A Classic RPG Adventure!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775089453" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775089453" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775089453" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249150/426a889a2d4ec776dc4d87530dadd659ffa393a6/header.jpg?t=1775089453" alt="Breath of Fire IV（新規追加）" /></a></p><p>Stunning New and Improved Graphics – High Resolution, Animated Characters in Vast 3-D Worlds. More Than 200 Spells to Learn and Master – Unlock New Magic From Opponents. 2 Epic Intertwining Storylines – Follow the Fates of Ryu and Fou-Lu – A Classic RPG Adventure!</p><p><a href="https://store.steampowered.com/app/4249150/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
