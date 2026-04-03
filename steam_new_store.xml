@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 03 Apr 2026 20:55:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 21:31:05 +0000</lastBuildDate>
+<item>
+  <title>Dice Gun Commando（新規追加）</title>
+  <link>https://store.steampowered.com/app/4537600/</link>
+  <guid isPermaLink="false">steam-store-published-4537600</guid>
+  <pubDate>Fri, 03 Apr 2026 21:31:05 +0000</pubDate>
+  <description>Guns roll dice. Dice trigger mods. Mods cause MAYHEM! Save the world from invading cosmic horrors by building crazy synergies with dice-driven weaponry.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537600/2c4a9018f56fc40201cdee12f43ca68b3535bd69/header.jpg?t=1775251017" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537600/2c4a9018f56fc40201cdee12f43ca68b3535bd69/header.jpg?t=1775251017" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537600/2c4a9018f56fc40201cdee12f43ca68b3535bd69/header.jpg?t=1775251017" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4537600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537600/2c4a9018f56fc40201cdee12f43ca68b3535bd69/header.jpg?t=1775251017" alt="Dice Gun Commando（新規追加）" /></a></p><p>Guns roll dice. Dice trigger mods. Mods cause MAYHEM! Save the world from invading cosmic horrors by building crazy synergies with dice-driven weaponry.</p><p><a href="https://store.steampowered.com/app/4537600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Stray Wars（新規追加）</title>
   <link>https://store.steampowered.com/app/4262850/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4563450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563450/5a5dd522599f7f58dd794e1571a5ea00bc7c037d/header.jpg?t=1775094974" alt="The Sage&#x27;s Seven（新規追加）" /></a></p><p>A 7-turn logic duel. Analyze and refute villains’ arguments using draft-based card strategy.</p><p><a href="https://store.steampowered.com/app/4563450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Egg Hunter（新規追加）</title>
-  <link>https://store.steampowered.com/app/4442340/</link>
-  <guid isPermaLink="false">steam-store-published-4442340</guid>
-  <pubDate>Thu, 02 Apr 2026 02:02:24 +0000</pubDate>
-  <description>Explore vast open landscapes—from icy tundras to tropical islands—in this fast-paced egg-hunting adventure. Search for hidden eggs across dynamic day and night levels while racing against countdown timers and dodging thieves determined to steal your haul in Warriors&#x27; Call!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442340/e3d6e12d1db9e9efd874b976865179cba09245f3/header.jpg?t=1775092300" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442340/e3d6e12d1db9e9efd874b976865179cba09245f3/header.jpg?t=1775092300" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442340/e3d6e12d1db9e9efd874b976865179cba09245f3/header.jpg?t=1775092300" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4442340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442340/e3d6e12d1db9e9efd874b976865179cba09245f3/header.jpg?t=1775092300" alt="Egg Hunter（新規追加）" /></a></p><p>Explore vast open landscapes—from icy tundras to tropical islands—in this fast-paced egg-hunting adventure. Search for hidden eggs across dynamic day and night levels while racing against countdown timers and dodging thieves determined to steal your haul in Warriors&#x27; Call!</p><p><a href="https://store.steampowered.com/app/4442340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
