@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 02 Apr 2026 23:32:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 00:02:49 +0000</lastBuildDate>
+<item>
+  <title>You Will Fall（新規追加）</title>
+  <link>https://store.steampowered.com/app/4559610/</link>
+  <guid isPermaLink="false">steam-store-published-4559610</guid>
+  <pubDate>Fri, 03 Apr 2026 00:02:49 +0000</pubDate>
+  <description>Climb. Slip. Fall. Start over. You Will Fall is a momentum based parkour climber set in the dark of night. There are no checkpoints. No second chances. Just you, the height, and gravity waiting for one wrong step. How far can you go before you prove the title right?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559610/d37722dbcd5478a1734773d0723fa0bfa4f3e3c9/header.jpg?t=1775173708" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559610/d37722dbcd5478a1734773d0723fa0bfa4f3e3c9/header.jpg?t=1775173708" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559610/d37722dbcd5478a1734773d0723fa0bfa4f3e3c9/header.jpg?t=1775173708" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4559610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559610/d37722dbcd5478a1734773d0723fa0bfa4f3e3c9/header.jpg?t=1775173708" alt="You Will Fall（新規追加）" /></a></p><p>Climb. Slip. Fall. Start over. You Will Fall is a momentum based parkour climber set in the dark of night. There are no checkpoints. No second chances. Just you, the height, and gravity waiting for one wrong step. How far can you go before you prove the title right?</p><p><a href="https://store.steampowered.com/app/4559610/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Wannabe Trashman（新規追加）</title>
   <link>https://store.steampowered.com/app/4579770/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520780/beca4bca4e6bc48e7fc98e8c385ed04cc94e6141/header.jpg?t=1775012028" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520780/beca4bca4e6bc48e7fc98e8c385ed04cc94e6141/header.jpg?t=1775012028" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4520780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520780/beca4bca4e6bc48e7fc98e8c385ed04cc94e6141/header.jpg?t=1775012028" alt="诸天斗法（新規追加）" /></a></p><p>A free-to-play strategic card game set in the world of Journey to the West. Choose your faction, build your deck, and battle for supremacy in real-time PvP.</p><p><a href="https://store.steampowered.com/app/4520780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>海神捕鱼（新規追加）</title>
-  <link>https://store.steampowered.com/app/4537540/</link>
-  <guid isPermaLink="false">steam-store-published-4537540</guid>
-  <pubDate>Wed, 01 Apr 2026 05:13:38 +0000</pubDate>
-  <description>《海神捕鱼》采用全新次世代引擎倾力打造，拥有突破极限的美术表现力，完美复刻经典街机捕鱼玩法。游戏内设多个亚特兰蒂斯奇幻3D渔场，等您来捕获各种潜藏在深海的神秘BOSS。炫酷的深海场景、超高清的电影级画质，为您奉上一场绝对震撼的视听盛宴。</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537540/bf99bf5355e21758e5b8099babbb5ee2072dd1b7/header.jpg?t=1775014503" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537540/bf99bf5355e21758e5b8099babbb5ee2072dd1b7/header.jpg?t=1775014503" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537540/bf99bf5355e21758e5b8099babbb5ee2072dd1b7/header.jpg?t=1775014503" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4537540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537540/bf99bf5355e21758e5b8099babbb5ee2072dd1b7/header.jpg?t=1775014503" alt="海神捕鱼（新規追加）" /></a></p><p>《海神捕鱼》采用全新次世代引擎倾力打造，拥有突破极限的美术表现力，完美复刻经典街机捕鱼玩法。游戏内设多个亚特兰蒂斯奇幻3D渔场，等您来捕获各种潜藏在深海的神秘BOSS。炫酷的深海场景、超高清的电影级画质，为您奉上一场绝对震撼的视听盛宴。</p><p><a href="https://store.steampowered.com/app/4537540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
