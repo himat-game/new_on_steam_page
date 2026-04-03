@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 03 Apr 2026 18:42:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 19:36:16 +0000</lastBuildDate>
+<item>
+  <title>Artifex Legends（新規追加）</title>
+  <link>https://store.steampowered.com/app/4349720/</link>
+  <guid isPermaLink="false">steam-store-published-4349720</guid>
+  <pubDate>Fri, 03 Apr 2026 19:36:16 +0000</pubDate>
+  <description>A stylized fantasy action roleplaying game set in an open-world. With a strong focus on exploration, character progression, combat, gathering, crafting, and loot! Choose how your character grows and where you adventure.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349720/e88d335a49cbb8d895edecd3f651f8f352288cb0/header.jpg?t=1775243518" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349720/e88d335a49cbb8d895edecd3f651f8f352288cb0/header.jpg?t=1775243518" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349720/e88d335a49cbb8d895edecd3f651f8f352288cb0/header.jpg?t=1775243518" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4349720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349720/e88d335a49cbb8d895edecd3f651f8f352288cb0/header.jpg?t=1775243518" alt="Artifex Legends（新規追加）" /></a></p><p>A stylized fantasy action roleplaying game set in an open-world. With a strong focus on exploration, character progression, combat, gathering, crafting, and loot! Choose how your character grows and where you adventure.</p><p><a href="https://store.steampowered.com/app/4349720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>HEXA（新規追加）</title>
+  <link>https://store.steampowered.com/app/4581230/</link>
+  <guid isPermaLink="false">steam-store-published-4581230</guid>
+  <pubDate>Fri, 03 Apr 2026 19:36:16 +0000</pubDate>
+  <description>Board the helm of Starship HEXA, and conquer the universe the only way you know how: shapes. HEXA is a unique, quick to pick up, and super fun logic puzzle game based on everybody’s favorite polygon.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581230/306cef1eb16a1c69fd419755250b003c75d3b03c/header.jpg?t=1775244918" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581230/306cef1eb16a1c69fd419755250b003c75d3b03c/header.jpg?t=1775244918" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581230/306cef1eb16a1c69fd419755250b003c75d3b03c/header.jpg?t=1775244918" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4581230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581230/306cef1eb16a1c69fd419755250b003c75d3b03c/header.jpg?t=1775244918" alt="HEXA（新規追加）" /></a></p><p>Board the helm of Starship HEXA, and conquer the universe the only way you know how: shapes. HEXA is a unique, quick to pick up, and super fun logic puzzle game based on everybody’s favorite polygon.</p><p><a href="https://store.steampowered.com/app/4581230/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ataegina Act II（新規追加）</title>
   <link>https://store.steampowered.com/app/4514990/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554530/4a996a35e796cd5f1556a21d3e6396977225528f/header.jpg?t=1775087592" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554530/4a996a35e796cd5f1556a21d3e6396977225528f/header.jpg?t=1775087592" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4554530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554530/4a996a35e796cd5f1556a21d3e6396977225528f/header.jpg?t=1775087592" alt="Weekly Jobless Isle（新規追加）" /></a></p><p>In the wasteland ruled by AI, a weekly exile game unfolds.Will you choose to survive alone, lingering in the shadow of zombies and mutated creatures? Or rally your companions and build a haven of hope for old humanity on this desolate island with your own hands?</p><p><a href="https://store.steampowered.com/app/4554530/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Resident Evil 3 Nemesis (1999)（新規追加）</title>
-  <link>https://store.steampowered.com/app/4249120/</link>
-  <guid isPermaLink="false">steam-store-published-4249120</guid>
-  <pubDate>Thu, 02 Apr 2026 02:02:24 +0000</pubDate>
-  <description>Join Jill Valentine, the survivor of the notorious disaster, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City… but caught in a town crawling with zombies, more than ever she must rely on brute force and cunning to find a way to escape alive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249120/a882eb9852c45108a0e4d725cd15132387ab038e/header.jpg?t=1775090236" alt="Resident Evil 3 Nemesis (1999)（新規追加）" /></a></p><p>Join Jill Valentine, the survivor of the notorious disaster, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City… but caught in a town crawling with zombies, more than ever she must rely on brute force and cunning to find a way to escape alive.</p><p><a href="https://store.steampowered.com/app/4249120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Resident Evil (1996)（新規追加）</title>
-  <link>https://store.steampowered.com/app/4249100/</link>
-  <guid isPermaLink="false">steam-store-published-4249100</guid>
-  <pubDate>Thu, 02 Apr 2026 02:02:24 +0000</pubDate>
-  <description>Your squad has been choppered to a remote mansion to investigate a bio-experiment gone wrong. You’re plunged straight into a deathtrap. Arm yourself, solve puzzles, and unearth mysteries. But beware: every move you make draws you deeper into the deadly embrace of Resident Evil.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4249100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249100/370da9c8c5e4573ea3c9d6ff22c88e89728fa0ed/header.jpg?t=1775088621" alt="Resident Evil (1996)（新規追加）" /></a></p><p>Your squad has been choppered to a remote mansion to investigate a bio-experiment gone wrong. You’re plunged straight into a deathtrap. Arm yourself, solve puzzles, and unearth mysteries. But beware: every move you make draws you deeper into the deadly embrace of Resident Evil.</p><p><a href="https://store.steampowered.com/app/4249100/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
