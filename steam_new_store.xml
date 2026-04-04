@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 20:27:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 21:48:19 +0000</lastBuildDate>
+<item>
+  <title>Motelia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4542520/</link>
+  <guid isPermaLink="false">steam-store-published-4542520</guid>
+  <pubDate>Sat, 04 Apr 2026 21:48:19 +0000</pubDate>
+  <description>A psychological horror game set in an old roadside motel. Clean rooms, fix broken things, and welcome weird customers. Try to go your normal routine while struggling with your mental health</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542520/d9bbdea387ed29934326c6310cf1145555956d0d/header.jpg?t=1775337121" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542520/d9bbdea387ed29934326c6310cf1145555956d0d/header.jpg?t=1775337121" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542520/d9bbdea387ed29934326c6310cf1145555956d0d/header.jpg?t=1775337121" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4542520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542520/d9bbdea387ed29934326c6310cf1145555956d0d/header.jpg?t=1775337121" alt="Motelia（新規追加）" /></a></p><p>A psychological horror game set in an old roadside motel. Clean rooms, fix broken things, and welcome weird customers. Try to go your normal routine while struggling with your mental health</p><p><a href="https://store.steampowered.com/app/4542520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Prison Glow（新規追加）</title>
   <link>https://store.steampowered.com/app/4575680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469010/5ec95acd720c0ea66a7a5b06f6795d3eac86f140/header.jpg?t=1775132430" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469010/5ec95acd720c0ea66a7a5b06f6795d3eac86f140/header.jpg?t=1775132430" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4469010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469010/5ec95acd720c0ea66a7a5b06f6795d3eac86f140/header.jpg?t=1775132430" alt="LUXY MONSTERS（新規追加）" /></a></p><p>A colorful 8-bit action platformer with tricky jumps, monster-filled worlds, and fast-paced retro gameplay.</p><p><a href="https://store.steampowered.com/app/4469010/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TAMITOS: Tale of Understanding（新規追加）</title>
-  <link>https://store.steampowered.com/app/4483920/</link>
-  <guid isPermaLink="false">steam-store-published-4483920</guid>
-  <pubDate>Thu, 02 Apr 2026 13:06:37 +0000</pubDate>
-  <description>A story-driven platformer where you experience the world through autistic and neurotypical perspectives. Explore a magical world, rescue Tamitos frog creatures representing emotions, and solve meaningful puzzles that teach empathy, understanding, and the beauty of seeing the world differently.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483920/42ecab6beaabf986255bc910fdf51c0dce574229/header.jpg?t=1775131007" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483920/42ecab6beaabf986255bc910fdf51c0dce574229/header.jpg?t=1775131007" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483920/42ecab6beaabf986255bc910fdf51c0dce574229/header.jpg?t=1775131007" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4483920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483920/42ecab6beaabf986255bc910fdf51c0dce574229/header.jpg?t=1775131007" alt="TAMITOS: Tale of Understanding（新規追加）" /></a></p><p>A story-driven platformer where you experience the world through autistic and neurotypical perspectives. Explore a magical world, rescue Tamitos frog creatures representing emotions, and solve meaningful puzzles that teach empathy, understanding, and the beauty of seeing the world differently.</p><p><a href="https://store.steampowered.com/app/4483920/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
