@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 17:50:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 18:38:00 +0000</lastBuildDate>
+<item>
+  <title>Pod&#x27;s Itty Bitty Adventure（新規追加）</title>
+  <link>https://store.steampowered.com/app/4551640/</link>
+  <guid isPermaLink="false">steam-store-published-4551640</guid>
+  <pubDate>Sat, 04 Apr 2026 18:38:00 +0000</pubDate>
+  <description>&amp;quot;Pod&#x27;s Itty Bitty Adventure&amp;quot; is a short retro-themed open-world Metroidvania platformer that prioritizes movement and exploration.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551640/446d9883b87526fd71d047be5641ae9712b5bce7/header.jpg?t=1775326716" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551640/446d9883b87526fd71d047be5641ae9712b5bce7/header.jpg?t=1775326716" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551640/446d9883b87526fd71d047be5641ae9712b5bce7/header.jpg?t=1775326716" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4551640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551640/446d9883b87526fd71d047be5641ae9712b5bce7/header.jpg?t=1775326716" alt="Pod&#x27;s Itty Bitty Adventure（新規追加）" /></a></p><p>&amp;quot;Pod&#x27;s Itty Bitty Adventure&amp;quot; is a short retro-themed open-world Metroidvania platformer that prioritizes movement and exploration.</p><p><a href="https://store.steampowered.com/app/4551640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SANDSTRIKE（新規追加）</title>
   <link>https://store.steampowered.com/app/4556220/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4333960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001" alt="TYPER3000（新規追加）" /></a></p><p>Typer3000 is a strategic typing game that combines precise typing with action survival and tower defence. By typing quickly, you control attacks, activate defences and adapt to increasing waves of enemies. There is also a multiplayer and COOP function.</p><p><a href="https://store.steampowered.com/app/4333960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dameido（新規追加）</title>
-  <link>https://store.steampowered.com/app/4280500/</link>
-  <guid isPermaLink="false">steam-store-published-4280500</guid>
-  <pubDate>Thu, 02 Apr 2026 09:58:56 +0000</pubDate>
-  <description>Dameido is a Visual Novel centered on themes of intimacy, loneliness, and meaningful connection. You play as the protagonist, a former burned out salaryman who inherited his late grandfather’s mansion. You are greeted by maids with fluffy ears, they are cute and hopeless.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280500/6b9a06eb66a58c9cb3a8e8d13577ebcb38189597/header.jpg?t=1775121068" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280500/6b9a06eb66a58c9cb3a8e8d13577ebcb38189597/header.jpg?t=1775121068" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280500/6b9a06eb66a58c9cb3a8e8d13577ebcb38189597/header.jpg?t=1775121068" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280500/6b9a06eb66a58c9cb3a8e8d13577ebcb38189597/header.jpg?t=1775121068" alt="Dameido（新規追加）" /></a></p><p>Dameido is a Visual Novel centered on themes of intimacy, loneliness, and meaningful connection. You play as the protagonist, a former burned out salaryman who inherited his late grandfather’s mansion. You are greeted by maids with fluffy ears, they are cute and hopeless.</p><p><a href="https://store.steampowered.com/app/4280500/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
