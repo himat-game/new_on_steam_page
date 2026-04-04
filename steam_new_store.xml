@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 13:51:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 15:02:28 +0000</lastBuildDate>
+<item>
+  <title>Hiryu no Ken Collection（新規追加）</title>
+  <link>https://store.steampowered.com/app/4575330/</link>
+  <guid isPermaLink="false">steam-store-published-4575330</guid>
+  <pubDate>Sat, 04 Apr 2026 15:02:28 +0000</pubDate>
+  <description>A retro action game collection featuring four early Hiryu no Ken titles, combining martial arts battles, side-scrolling stages, and unique battle mechanics across the series. Japanese language support only.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575330/cd28656cb48a91d6010a3e495f7d8c3fa3e9a30a/header.jpg?t=1775314868" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575330/cd28656cb48a91d6010a3e495f7d8c3fa3e9a30a/header.jpg?t=1775314868" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575330/cd28656cb48a91d6010a3e495f7d8c3fa3e9a30a/header.jpg?t=1775314868" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4575330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575330/cd28656cb48a91d6010a3e495f7d8c3fa3e9a30a/header.jpg?t=1775314868" alt="Hiryu no Ken Collection（新規追加）" /></a></p><p>A retro action game collection featuring four early Hiryu no Ken titles, combining martial arts battles, side-scrolling stages, and unique battle mechanics across the series. Japanese language support only.</p><p><a href="https://store.steampowered.com/app/4575330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Planetary Resource Optimization &amp; Freight Infrastructure Technician Simulator 2167（新規追加）</title>
   <link>https://store.steampowered.com/app/4534000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4563360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274" alt="BünzliFight: Swiss City Simulator（新規追加）" /></a></p><p>Cooperative real time city building simulator with Swiss flair. Build a town together manage resources and budgets solve quirky everyday problems and experience a world that keeps running even when you are offline.</p><p><a href="https://store.steampowered.com/app/4563360/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Heroes of Ropascia（新規追加）</title>
-  <link>https://store.steampowered.com/app/4564390/</link>
-  <guid isPermaLink="false">steam-store-published-4564390</guid>
-  <pubDate>Thu, 02 Apr 2026 08:53:13 +0000</pubDate>
-  <description>Create your own party of heroes to face the dark forces in this 2D-RPG with a round-based combat system. Collect gear, level up your characters and discover what this vast world has to offer.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4564390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622" alt="Heroes of Ropascia（新規追加）" /></a></p><p>Create your own party of heroes to face the dark forces in this 2D-RPG with a round-based combat system. Collect gear, level up your characters and discover what this vast world has to offer.</p><p><a href="https://store.steampowered.com/app/4564390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
