@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 12:50:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 13:51:28 +0000</lastBuildDate>
+<item>
+  <title>Planetary Resource Optimization &amp; Freight Infrastructure Technician Simulator 2167（新規追加）</title>
+  <link>https://store.steampowered.com/app/4534000/</link>
+  <guid isPermaLink="false">steam-store-published-4534000</guid>
+  <pubDate>Sat, 04 Apr 2026 13:51:28 +0000</pubDate>
+  <description>Arcade train driving game about collecting, managing, and delivering resources with survivors-like and TD-like elements. Manage, upgrade, and defend mining stations, drive your train through the network of underground caves, grow numbers and multiply profits in a dark neocapitalistic future</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534000/84aee05f8d38cfa8aee95c23ceb9373050a0368a/header.jpg?t=1775307428" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534000/84aee05f8d38cfa8aee95c23ceb9373050a0368a/header.jpg?t=1775307428" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534000/84aee05f8d38cfa8aee95c23ceb9373050a0368a/header.jpg?t=1775307428" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4534000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534000/84aee05f8d38cfa8aee95c23ceb9373050a0368a/header.jpg?t=1775307428" alt="Planetary Resource Optimization &amp; Freight Infrastructure Technician Simulator 2167（新規追加）" /></a></p><p>Arcade train driving game about collecting, managing, and delivering resources with survivors-like and TD-like elements. Manage, upgrade, and defend mining stations, drive your train through the network of underground caves, grow numbers and multiply profits in a dark neocapitalistic future</p><p><a href="https://store.steampowered.com/app/4534000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Yua Games collection（新規追加）</title>
   <link>https://store.steampowered.com/app/4558920/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4564390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564390/4a18f104abec212cf086aa1c3034b4744efc1e8e/header.jpg?t=1775117622" alt="Heroes of Ropascia（新規追加）" /></a></p><p>Create your own party of heroes to face the dark forces in this 2D-RPG with a round-based combat system. Collect gear, level up your characters and discover what this vast world has to offer.</p><p><a href="https://store.steampowered.com/app/4564390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pixelora Tech Store（新規追加）</title>
-  <link>https://store.steampowered.com/app/4540340/</link>
-  <guid isPermaLink="false">steam-store-published-4540340</guid>
-  <pubDate>Thu, 02 Apr 2026 08:53:13 +0000</pubDate>
-  <description>Build, manage, and grow your own tech store! Sell products, interact with customers, follow market trends, and make the right decisions to create your empire. Every choice shapes your future in Pixelora.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540340/00c88d696ce1483d580edd43c27ee7a55bb0b1a1/header.jpg?t=1775117428" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540340/00c88d696ce1483d580edd43c27ee7a55bb0b1a1/header.jpg?t=1775117428" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540340/00c88d696ce1483d580edd43c27ee7a55bb0b1a1/header.jpg?t=1775117428" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4540340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540340/00c88d696ce1483d580edd43c27ee7a55bb0b1a1/header.jpg?t=1775117428" alt="Pixelora Tech Store（新規追加）" /></a></p><p>Build, manage, and grow your own tech store! Sell products, interact with customers, follow market trends, and make the right decisions to create your empire. Every choice shapes your future in Pixelora.</p><p><a href="https://store.steampowered.com/app/4540340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
