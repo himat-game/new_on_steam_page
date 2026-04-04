@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 07:28:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 08:05:34 +0000</lastBuildDate>
+<item>
+  <title>Wavecraft Legends（新規追加）</title>
+  <link>https://store.steampowered.com/app/4492170/</link>
+  <guid isPermaLink="false">steam-store-published-4492170</guid>
+  <pubDate>Sat, 04 Apr 2026 08:05:34 +0000</pubDate>
+  <description>Carve your legacy on the water. Wavecraft Legends blends high-octane physics with the soul of classic arcade racing. Master the waves, outpace storied rivals, and claim your place among legends!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492170/5309718d46feaf5fd39f174625911a4ac0371c57/header.jpg?t=1775288357" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492170/5309718d46feaf5fd39f174625911a4ac0371c57/header.jpg?t=1775288357" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492170/5309718d46feaf5fd39f174625911a4ac0371c57/header.jpg?t=1775288357" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4492170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492170/5309718d46feaf5fd39f174625911a4ac0371c57/header.jpg?t=1775288357" alt="Wavecraft Legends（新規追加）" /></a></p><p>Carve your legacy on the water. Wavecraft Legends blends high-octane physics with the soul of classic arcade racing. Master the waves, outpace storied rivals, and claim your place among legends!</p><p><a href="https://store.steampowered.com/app/4492170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Getting Home（新規追加）</title>
   <link>https://store.steampowered.com/app/4575880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550070/6841f051423b09bb6001bdcfdb0c43f95e083938/header.jpg?t=1775112071" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550070/6841f051423b09bb6001bdcfdb0c43f95e083938/header.jpg?t=1775112071" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4550070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550070/6841f051423b09bb6001bdcfdb0c43f95e083938/header.jpg?t=1775112071" alt="Two Left Hands（新規追加）" /></a></p><p>A co-op physics game where each player controls one clumsy left hand. Communicate, coordinate, and catastrophize your way through odd jobs in a small town. The job doesn&#x27;t have to be perfect, it just has to be done.</p><p><a href="https://store.steampowered.com/app/4550070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Global Transit Manager（新規追加）</title>
-  <link>https://store.steampowered.com/app/2674310/</link>
-  <guid isPermaLink="false">steam-store-published-2674310</guid>
-  <pubDate>Thu, 02 Apr 2026 07:43:14 +0000</pubDate>
-  <description>Global Transit Manager is a futuristic fleet management simulation where you build your own logistics empire. Track the truck market, hire drivers, manage their visas, and forge worldwide routes to reach the pinnacle of global trade. Every second and every drop of fuel counts!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674310/6792f0079adfa741cb1474c5c48007cb02d18782/header.jpg?t=1775113895" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674310/6792f0079adfa741cb1474c5c48007cb02d18782/header.jpg?t=1775113895" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674310/6792f0079adfa741cb1474c5c48007cb02d18782/header.jpg?t=1775113895" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2674310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674310/6792f0079adfa741cb1474c5c48007cb02d18782/header.jpg?t=1775113895" alt="Global Transit Manager（新規追加）" /></a></p><p>Global Transit Manager is a futuristic fleet management simulation where you build your own logistics empire. Track the truck market, hire drivers, manage their visas, and forge worldwide routes to reach the pinnacle of global trade. Every second and every drop of fuel counts!</p><p><a href="https://store.steampowered.com/app/2674310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
