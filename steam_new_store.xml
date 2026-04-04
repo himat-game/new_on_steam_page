@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 15:02:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 15:49:04 +0000</lastBuildDate>
+<item>
+  <title>Sophie&#x27;s Grids（新規追加）</title>
+  <link>https://store.steampowered.com/app/2310850/</link>
+  <guid isPermaLink="false">steam-store-published-2310850</guid>
+  <pubDate>Sat, 04 Apr 2026 15:49:04 +0000</pubDate>
+  <description>Solve scrambled grids by turning their rows and columns.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310850/875208620d4c4cefd2925012acef892679d5188a/header.jpg?t=1775316464" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310850/875208620d4c4cefd2925012acef892679d5188a/header.jpg?t=1775316464" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310850/875208620d4c4cefd2925012acef892679d5188a/header.jpg?t=1775316464" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2310850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310850/875208620d4c4cefd2925012acef892679d5188a/header.jpg?t=1775316464" alt="Sophie&#x27;s Grids（新規追加）" /></a></p><p>Solve scrambled grids by turning their rows and columns.</p><p><a href="https://store.steampowered.com/app/2310850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hiryu no Ken Collection（新規追加）</title>
   <link>https://store.steampowered.com/app/4575330/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533810/a645d235d39053f70aceaa2651f28bc3e5f344b0/header.jpg?t=1775117222" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533810/a645d235d39053f70aceaa2651f28bc3e5f344b0/header.jpg?t=1775117222" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4533810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533810/a645d235d39053f70aceaa2651f28bc3e5f344b0/header.jpg?t=1775117222" alt="Todomeki（新規追加）" /></a></p><p>&amp;quot;Farewell, quiet after-school hours. Welcome to a world where no one remains.&amp;quot; Todomeki is a 3D horror adventure game set in a Japanese school during the 2000s. As you gather fragmented records scattered throughout the building, the hidden truth lurking within the school gradually comes to light.</p><p><a href="https://store.steampowered.com/app/4533810/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>BünzliFight: Swiss City Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4563360/</link>
-  <guid isPermaLink="false">steam-store-published-4563360</guid>
-  <pubDate>Thu, 02 Apr 2026 08:53:13 +0000</pubDate>
-  <description>Cooperative real time city building simulator with Swiss flair. Build a town together manage resources and budgets solve quirky everyday problems and experience a world that keeps running even when you are offline.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4563360/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563360/0d6ae2bb8f1b537e77250dca95e2cdc7e63ac3f8/header.jpg?t=1775119274" alt="BünzliFight: Swiss City Simulator（新規追加）" /></a></p><p>Cooperative real time city building simulator with Swiss flair. Build a town together manage resources and budgets solve quirky everyday problems and experience a world that keeps running even when you are offline.</p><p><a href="https://store.steampowered.com/app/4563360/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
