@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 08:05:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 09:01:02 +0000</lastBuildDate>
+<item>
+  <title>Hentai Clicker: Akumi is streaming（新規追加）</title>
+  <link>https://store.steampowered.com/app/4579920/</link>
+  <guid isPermaLink="false">steam-store-published-4579920</guid>
+  <pubDate>Sat, 04 Apr 2026 09:01:02 +0000</pubDate>
+  <description>🔥 Hentai Clicker: Akumi is streaming Collect ❤️, unlock bold outfits, and upgrade your skills in this addictive anime clicker. Meet Akumi, a fierce karate fighter with a playful side!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579920/be4b0e8f60857725de49ea7359e27ad241367c09/header.jpg?t=1775291095" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579920/be4b0e8f60857725de49ea7359e27ad241367c09/header.jpg?t=1775291095" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579920/be4b0e8f60857725de49ea7359e27ad241367c09/header.jpg?t=1775291095" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4579920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579920/be4b0e8f60857725de49ea7359e27ad241367c09/header.jpg?t=1775291095" alt="Hentai Clicker: Akumi is streaming（新規追加）" /></a></p><p>🔥 Hentai Clicker: Akumi is streaming Collect ❤️, unlock bold outfits, and upgrade your skills in this addictive anime clicker. Meet Akumi, a fierce karate fighter with a playful side!</p><p><a href="https://store.steampowered.com/app/4579920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Wavecraft Legends（新規追加）</title>
   <link>https://store.steampowered.com/app/4492170/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573970/3a8fede582b5076e9293548879c32b02be61840d/header.jpg?t=1775109709" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573970/3a8fede582b5076e9293548879c32b02be61840d/header.jpg?t=1775109709" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4573970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573970/3a8fede582b5076e9293548879c32b02be61840d/header.jpg?t=1775109709" alt="Syntaris（新規追加）" /></a></p><p>Syntaris is a logistics and automation strategy game with RTS elements, focused on system design over micromanagement. Build production networks, command units in real-time, unlock advanced technologies, and absorb enemy infrastructure into your own economy.</p><p><a href="https://store.steampowered.com/app/4573970/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Two Left Hands（新規追加）</title>
-  <link>https://store.steampowered.com/app/4550070/</link>
-  <guid isPermaLink="false">steam-store-published-4550070</guid>
-  <pubDate>Thu, 02 Apr 2026 07:43:14 +0000</pubDate>
-  <description>A co-op physics game where each player controls one clumsy left hand. Communicate, coordinate, and catastrophize your way through odd jobs in a small town. The job doesn&#x27;t have to be perfect, it just has to be done.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550070/6841f051423b09bb6001bdcfdb0c43f95e083938/header.jpg?t=1775112071" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550070/6841f051423b09bb6001bdcfdb0c43f95e083938/header.jpg?t=1775112071" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550070/6841f051423b09bb6001bdcfdb0c43f95e083938/header.jpg?t=1775112071" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4550070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550070/6841f051423b09bb6001bdcfdb0c43f95e083938/header.jpg?t=1775112071" alt="Two Left Hands（新規追加）" /></a></p><p>A co-op physics game where each player controls one clumsy left hand. Communicate, coordinate, and catastrophize your way through odd jobs in a small town. The job doesn&#x27;t have to be perfect, it just has to be done.</p><p><a href="https://store.steampowered.com/app/4550070/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
