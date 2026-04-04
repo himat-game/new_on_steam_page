@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Apr 2026 18:38:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 19:18:43 +0000</lastBuildDate>
+<item>
+  <title>异界少女的轮回血契（新規追加）</title>
+  <link>https://store.steampowered.com/app/4330570/</link>
+  <guid isPermaLink="false">steam-store-published-4330570</guid>
+  <pubDate>Sat, 04 Apr 2026 19:18:43 +0000</pubDate>
+  <description>Only the winner can leave, and your hands must be stained with blood, using others as a price to fulfill your own desires. Who will be the first to pick up the butcher knife for their desires? A debate x suspense ADV work, dedicated to everyone.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330570/173839cdf413ba3f847c543dec41889d7c9e3017/header.jpg?t=1775329376" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330570/173839cdf413ba3f847c543dec41889d7c9e3017/header.jpg?t=1775329376" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330570/173839cdf413ba3f847c543dec41889d7c9e3017/header.jpg?t=1775329376" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4330570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330570/173839cdf413ba3f847c543dec41889d7c9e3017/header.jpg?t=1775329376" alt="异界少女的轮回血契（新規追加）" /></a></p><p>Only the winner can leave, and your hands must be stained with blood, using others as a price to fulfill your own desires. Who will be the first to pick up the butcher knife for their desires? A debate x suspense ADV work, dedicated to everyone.</p><p><a href="https://store.steampowered.com/app/4330570/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pod&#x27;s Itty Bitty Adventure（新規追加）</title>
   <link>https://store.steampowered.com/app/4551640/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127610/b26927d7dea3b3efdf32944897793485484c0136/header.jpg?t=1775122674" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127610/b26927d7dea3b3efdf32944897793485484c0136/header.jpg?t=1775122674" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4127610/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127610/b26927d7dea3b3efdf32944897793485484c0136/header.jpg?t=1775122674" alt="Quarantine Zombies 2: Day Zero（新規追加）" /></a></p><p>From the lead game designer of Quarantine Zone and Quarantine Zombies comes a new mix of inspection sim and open-world shooter in Chicago. Determine the stage of infection and transport infected refugees through hostile streets to the Captain before they turn. Continue Hank and his brother’s story.</p><p><a href="https://store.steampowered.com/app/4127610/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TYPER3000（新規追加）</title>
-  <link>https://store.steampowered.com/app/4333960/</link>
-  <guid isPermaLink="false">steam-store-published-4333960</guid>
-  <pubDate>Thu, 02 Apr 2026 09:58:56 +0000</pubDate>
-  <description>Typer3000 is a strategic typing game that combines precise typing with action survival and tower defence. By typing quickly, you control attacks, activate defences and adapt to increasing waves of enemies. There is also a multiplayer and COOP function.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4333960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333960/c746a6ef104c08f25af1f7da86bc8b9e89997412/header.jpg?t=1775123001" alt="TYPER3000（新規追加）" /></a></p><p>Typer3000 is a strategic typing game that combines precise typing with action survival and tower defence. By typing quickly, you control attacks, activate defences and adapt to increasing waves of enemies. There is also a multiplayer and COOP function.</p><p><a href="https://store.steampowered.com/app/4333960/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
