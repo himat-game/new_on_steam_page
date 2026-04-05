@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Apr 2026 18:40:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 19:22:12 +0000</lastBuildDate>
+<item>
+  <title>Chippy Beaver（新規追加）</title>
+  <link>https://store.steampowered.com/app/4478730/</link>
+  <guid isPermaLink="false">steam-store-published-4478730</guid>
+  <pubDate>Sun, 05 Apr 2026 19:22:12 +0000</pubDate>
+  <description>Chippy Beaver​ is an engaging incremental idle game where you lead your beaver colony to chop down fantastical trees in the sky, harvest various relics, construct diverse buildings, and use money to upgrade your beavers.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478730/13597fed92b14e709eaa76e91650314a682ff0d1/header.jpg?t=1775415887" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478730/13597fed92b14e709eaa76e91650314a682ff0d1/header.jpg?t=1775415887" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478730/13597fed92b14e709eaa76e91650314a682ff0d1/header.jpg?t=1775415887" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4478730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478730/13597fed92b14e709eaa76e91650314a682ff0d1/header.jpg?t=1775415887" alt="Chippy Beaver（新規追加）" /></a></p><p>Chippy Beaver​ is an engaging incremental idle game where you lead your beaver colony to chop down fantastical trees in the sky, harvest various relics, construct diverse buildings, and use money to upgrade your beavers.</p><p><a href="https://store.steampowered.com/app/4478730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Rootwarden（新規追加）</title>
+  <link>https://store.steampowered.com/app/4294000/</link>
+  <guid isPermaLink="false">steam-store-published-4294000</guid>
+  <pubDate>Sun, 05 Apr 2026 19:22:12 +0000</pubDate>
+  <description>Tactical Action-RTS Extraction. Design modular droids and build an economic base to harvest minerals. Defend your mining rigs against alien swarms and evacuate before the hive overruns you. Manage your fleet from the command hub.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294000/6b5510b3b0720b54ed312825e4242fdadb5ebdb5/header.jpg?t=1775415789" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294000/6b5510b3b0720b54ed312825e4242fdadb5ebdb5/header.jpg?t=1775415789" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294000/6b5510b3b0720b54ed312825e4242fdadb5ebdb5/header.jpg?t=1775415789" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4294000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294000/6b5510b3b0720b54ed312825e4242fdadb5ebdb5/header.jpg?t=1775415789" alt="Rootwarden（新規追加）" /></a></p><p>Tactical Action-RTS Extraction. Design modular droids and build an economic base to harvest minerals. Defend your mining rigs against alien swarms and evacuate before the hive overruns you. Manage your fleet from the command hub.</p><p><a href="https://store.steampowered.com/app/4294000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SoulSwap（新規追加）</title>
   <link>https://store.steampowered.com/app/4539000/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3947040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667" alt="Pegfinity（新規追加）" /></a></p><p>Launch. Bounce. Score. Upgrade. Repeat. A colorful physics based incremental that blends Pachinko-style satisfaction with tons of upgrades. Every run makes your board stronger. One more run is never enough.</p><p><a href="https://store.steampowered.com/app/3947040/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Endix（新規追加）</title>
-  <link>https://store.steampowered.com/app/4356840/</link>
-  <guid isPermaLink="false">steam-store-published-4356840</guid>
-  <pubDate>Thu, 02 Apr 2026 17:28:30 +0000</pubDate>
-  <description>Explore unique &amp;amp; immersive booths from your favorite games. Watch exclusive trailers, compete in mini-games, and connect with players, creators &amp;amp; developers from around the world. All inside a living, free multiplayer experience.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356840/bd5749a25a866efe2652aac705f3fd8d057a4a0a/header.jpg?t=1775149562" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356840/bd5749a25a866efe2652aac705f3fd8d057a4a0a/header.jpg?t=1775149562" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356840/bd5749a25a866efe2652aac705f3fd8d057a4a0a/header.jpg?t=1775149562" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4356840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356840/bd5749a25a866efe2652aac705f3fd8d057a4a0a/header.jpg?t=1775149562" alt="Endix（新規追加）" /></a></p><p>Explore unique &amp;amp; immersive booths from your favorite games. Watch exclusive trailers, compete in mini-games, and connect with players, creators &amp;amp; developers from around the world. All inside a living, free multiplayer experience.</p><p><a href="https://store.steampowered.com/app/4356840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Trainferno（新規追加）</title>
-  <link>https://store.steampowered.com/app/4578890/</link>
-  <guid isPermaLink="false">steam-store-published-4578890</guid>
-  <pubDate>Thu, 02 Apr 2026 17:28:30 +0000</pubDate>
-  <description>Upgrade and defend your armored train against relentless machines in a side-scrolling survival game designed to run while you work or browse.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578890/36b67f00eae33fdc792465d45a8078cf0289150f/header.jpg?t=1775149365" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578890/36b67f00eae33fdc792465d45a8078cf0289150f/header.jpg?t=1775149365" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578890/36b67f00eae33fdc792465d45a8078cf0289150f/header.jpg?t=1775149365" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4578890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578890/36b67f00eae33fdc792465d45a8078cf0289150f/header.jpg?t=1775149365" alt="Trainferno（新規追加）" /></a></p><p>Upgrade and defend your armored train against relentless machines in a side-scrolling survival game designed to run while you work or browse.</p><p><a href="https://store.steampowered.com/app/4578890/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
