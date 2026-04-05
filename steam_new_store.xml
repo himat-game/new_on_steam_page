@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Apr 2026 06:13:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 07:33:40 +0000</lastBuildDate>
+<item>
+  <title>领导来了Boss is coming（新規追加）</title>
+  <link>https://store.steampowered.com/app/4572510/</link>
+  <guid isPermaLink="false">steam-store-published-4572510</guid>
+  <pubDate>Sun, 05 Apr 2026 07:33:40 +0000</pubDate>
+  <description>A casual indie game set in a modern workplace. You&#x27;re a rookie in the office. But you have a self-serving manager. You&#x27;ll be tasked to handle tricky situations. So how to handle that? And how many ways to drive your manager crazy? The game aims to provide a relaxing, enjoyful and some LOL moments.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572510/2c27084ec1968746b1d7040d27a5a62c9653437c/header.jpg?t=1775369921" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572510/2c27084ec1968746b1d7040d27a5a62c9653437c/header.jpg?t=1775369921" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572510/2c27084ec1968746b1d7040d27a5a62c9653437c/header.jpg?t=1775369921" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4572510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572510/2c27084ec1968746b1d7040d27a5a62c9653437c/header.jpg?t=1775369921" alt="领导来了Boss is coming（新規追加）" /></a></p><p>A casual indie game set in a modern workplace. You&#x27;re a rookie in the office. But you have a self-serving manager. You&#x27;ll be tasked to handle tricky situations. So how to handle that? And how many ways to drive your manager crazy? The game aims to provide a relaxing, enjoyful and some LOL moments.</p><p><a href="https://store.steampowered.com/app/4572510/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ten Pins To Oblivion（新規追加）</title>
   <link>https://store.steampowered.com/app/4331160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550270/b2e5a0201f81cd33a75d3396aa3885efbbea169a/header.jpg?t=1775139894" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550270/b2e5a0201f81cd33a75d3396aa3885efbbea169a/header.jpg?t=1775139894" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4550270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550270/b2e5a0201f81cd33a75d3396aa3885efbbea169a/header.jpg?t=1775139894" alt="Bingo Bingle（新規追加）" /></a></p><p>Spin your way to fortune by cranking a bingo drum and building powerful combinations of balls and cards.</p><p><a href="https://store.steampowered.com/app/4550270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Red Capture（新規追加）</title>
-  <link>https://store.steampowered.com/app/4532710/</link>
-  <guid isPermaLink="false">steam-store-published-4532710</guid>
-  <pubDate>Thu, 02 Apr 2026 14:36:03 +0000</pubDate>
-  <description>Red Capture is a side-scrolling game where the player controls a red square, dodging dangerous figures and jumping on constantly shifting and randomly changing platforms. The game also features a competitive two-player mode where you can see who can last the longest.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532710/ca43d89964eacb773d52953d7f9122b096f03630/header.jpg?t=1775135593" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532710/ca43d89964eacb773d52953d7f9122b096f03630/header.jpg?t=1775135593" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532710/ca43d89964eacb773d52953d7f9122b096f03630/header.jpg?t=1775135593" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4532710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532710/ca43d89964eacb773d52953d7f9122b096f03630/header.jpg?t=1775135593" alt="Red Capture（新規追加）" /></a></p><p>Red Capture is a side-scrolling game where the player controls a red square, dodging dangerous figures and jumping on constantly shifting and randomly changing platforms. The game also features a competitive two-player mode where you can see who can last the longest.</p><p><a href="https://store.steampowered.com/app/4532710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
