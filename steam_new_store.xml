@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Apr 2026 09:58:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 10:40:17 +0000</lastBuildDate>
+<item>
+  <title>Mining Goblins Idle（新規追加）</title>
+  <link>https://store.steampowered.com/app/4519530/</link>
+  <guid isPermaLink="false">steam-store-published-4519530</guid>
+  <pubDate>Sun, 05 Apr 2026 10:40:17 +0000</pubDate>
+  <description>Dig, automate, and get greedy as ores crumble, gold piles up, and goblins never stop swinging. An idle clicker where your goblin crew mines so you don&#x27;t have to.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519530/c079dbd4b60ade027ca86d024076188b8ca49532/header.jpg?t=1775384534" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519530/c079dbd4b60ade027ca86d024076188b8ca49532/header.jpg?t=1775384534" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519530/c079dbd4b60ade027ca86d024076188b8ca49532/header.jpg?t=1775384534" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4519530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519530/c079dbd4b60ade027ca86d024076188b8ca49532/header.jpg?t=1775384534" alt="Mining Goblins Idle（新規追加）" /></a></p><p>Dig, automate, and get greedy as ores crumble, gold piles up, and goblins never stop swinging. An idle clicker where your goblin crew mines so you don&#x27;t have to.</p><p><a href="https://store.steampowered.com/app/4519530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Clash of Cultures（新規追加）</title>
   <link>https://store.steampowered.com/app/4565810/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562980/109ebbea11eb4f747d0534938e2fe7379e36bc13/header.jpg?t=1775137282" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562980/109ebbea11eb4f747d0534938e2fe7379e36bc13/header.jpg?t=1775137282" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4562980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562980/109ebbea11eb4f747d0534938e2fe7379e36bc13/header.jpg?t=1775137282" alt="Soul of Dreamer（新規追加）" /></a></p><p>A young girl trapped in a strange world guided only by their heart and soul. jump around and explore many places to find a way out.</p><p><a href="https://store.steampowered.com/app/4562980/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Night Creed（新規追加）</title>
-  <link>https://store.steampowered.com/app/4526750/</link>
-  <guid isPermaLink="false">steam-store-published-4526750</guid>
-  <pubDate>Thu, 02 Apr 2026 14:36:03 +0000</pubDate>
-  <description>In the ruined lands of an ancient kingdom, evil, hidden for centuries in the ruins of old castles, awakens. Monsters begin to emerge from dark rifts, filling the deserted fortresses and forgotten roads.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526750/9297a3a3a07a3c4c0d79dd8d9b81f722d1ad5853/header.jpg?t=1775135614" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526750/9297a3a3a07a3c4c0d79dd8d9b81f722d1ad5853/header.jpg?t=1775135614" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526750/9297a3a3a07a3c4c0d79dd8d9b81f722d1ad5853/header.jpg?t=1775135614" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4526750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526750/9297a3a3a07a3c4c0d79dd8d9b81f722d1ad5853/header.jpg?t=1775135614" alt="Night Creed（新規追加）" /></a></p><p>In the ruined lands of an ancient kingdom, evil, hidden for centuries in the ruins of old castles, awakens. Monsters begin to emerge from dark rifts, filling the deserted fortresses and forgotten roads.</p><p><a href="https://store.steampowered.com/app/4526750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
