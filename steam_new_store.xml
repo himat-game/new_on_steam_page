@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Apr 2026 19:22:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 19:58:15 +0000</lastBuildDate>
+<item>
+  <title>lichtung（新規追加）</title>
+  <link>https://store.steampowered.com/app/4407100/</link>
+  <guid isPermaLink="false">steam-store-published-4407100</guid>
+  <pubDate>Sun, 05 Apr 2026 19:58:15 +0000</pubDate>
+  <description>Enter a calm and unfamiliar world, lying dormant as you arrive. As you explore its surroundings, the world gradually opens up, revealing its light. The more you engage with it, the more you become enveloped in a soothing yet lively awakening, full of surprises.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4407100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" alt="lichtung（新規追加）" /></a></p><p>Enter a calm and unfamiliar world, lying dormant as you arrive. As you explore its surroundings, the world gradually opens up, revealing its light. The more you engage with it, the more you become enveloped in a soothing yet lively awakening, full of surprises.</p><p><a href="https://store.steampowered.com/app/4407100/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chippy Beaver（新規追加）</title>
   <link>https://store.steampowered.com/app/4478730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/1d6535d11ad911cf2bf9e5e609e110b366eaae9e/header.jpg?t=1775150363" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/1d6535d11ad911cf2bf9e5e609e110b366eaae9e/header.jpg?t=1775150363" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4560660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/1d6535d11ad911cf2bf9e5e609e110b366eaae9e/header.jpg?t=1775150363" alt="Eslabong（新規追加）" /></a></p><p>Fight or spectate chaotic 5v5 arena battles. Build your club, recruit and trade mercenaries, and climb through intense leagues and cups.</p><p><a href="https://store.steampowered.com/app/4560660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pegfinity（新規追加）</title>
-  <link>https://store.steampowered.com/app/3947040/</link>
-  <guid isPermaLink="false">steam-store-published-3947040</guid>
-  <pubDate>Thu, 02 Apr 2026 17:28:30 +0000</pubDate>
-  <description>Launch. Bounce. Score. Upgrade. Repeat. A colorful physics based incremental that blends Pachinko-style satisfaction with tons of upgrades. Every run makes your board stronger. One more run is never enough.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3947040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947040/425af8799169a4398e52ffd5f1afb9db9d66a623/header.jpg?t=1775149667" alt="Pegfinity（新規追加）" /></a></p><p>Launch. Bounce. Score. Upgrade. Repeat. A colorful physics based incremental that blends Pachinko-style satisfaction with tons of upgrades. Every run makes your board stronger. One more run is never enough.</p><p><a href="https://store.steampowered.com/app/3947040/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
