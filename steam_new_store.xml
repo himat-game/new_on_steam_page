@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Apr 2026 13:56:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 14:36:03 +0000</lastBuildDate>
+<item>
+  <title>Fu-Fu-Chan -way up!-（新規追加）</title>
+  <link>https://store.steampowered.com/app/4568980/</link>
+  <guid isPermaLink="false">steam-store-published-4568980</guid>
+  <pubDate>Sun, 05 Apr 2026 14:36:03 +0000</pubDate>
+  <description>Blow into the microphone to guide a tiny balloon creature through a surreal world of towering, stacked-up objects, aiming for the sky far above. A 2D scrolling platformer powered by physics, where every breath you take is palpably felt.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568980/c2a16a91c412f31c4f0204ff09523a3e4d371f6d/header.jpg?t=1775397596" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568980/c2a16a91c412f31c4f0204ff09523a3e4d371f6d/header.jpg?t=1775397596" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568980/c2a16a91c412f31c4f0204ff09523a3e4d371f6d/header.jpg?t=1775397596" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4568980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568980/c2a16a91c412f31c4f0204ff09523a3e4d371f6d/header.jpg?t=1775397596" alt="Fu-Fu-Chan -way up!-（新規追加）" /></a></p><p>Blow into the microphone to guide a tiny balloon creature through a surreal world of towering, stacked-up objects, aiming for the sky far above. A 2D scrolling platformer powered by physics, where every breath you take is palpably felt.</p><p><a href="https://store.steampowered.com/app/4568980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Get to Work, Gnomes! Christmas Factory（新規追加）</title>
   <link>https://store.steampowered.com/app/4447620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572190/9981316ccc12e1d2b258553483183841804c7b24/header.jpg?t=1775146361" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572190/9981316ccc12e1d2b258553483183841804c7b24/header.jpg?t=1775146361" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4572190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572190/9981316ccc12e1d2b258553483183841804c7b24/header.jpg?t=1775146361" alt="Mine Farm（新規追加）" /></a></p><p>Mine Farm is a progressive mining RPG centered on the pure joy of looting. Mine various minerals, challenge colossal entities, and find your way out of the unknown. Be warned: the journey home won&#x27;t be easy.</p><p><a href="https://store.steampowered.com/app/4572190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>H.I.M. - Hobo’s Infernal Mayhem（新規追加）</title>
-  <link>https://store.steampowered.com/app/4248110/</link>
-  <guid isPermaLink="false">steam-store-published-4248110</guid>
-  <pubDate>Thu, 02 Apr 2026 15:38:04 +0000</pubDate>
-  <description>H.I.M. - Hobo&#x27;s Infernal Mayhem is a single-player, high-octane 3D wave shooter bullet hell set in neon-soaked near-future Italy. Make a pact with the Devil, stack risky Pact Boons, and shred the Syndicate&#x27;s armies to get your stolen white cat back.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248110/8a430244c96d801b91c8a6a59c6db417fadd41ae/header.jpg?t=1775143082" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248110/8a430244c96d801b91c8a6a59c6db417fadd41ae/header.jpg?t=1775143082" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248110/8a430244c96d801b91c8a6a59c6db417fadd41ae/header.jpg?t=1775143082" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4248110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248110/8a430244c96d801b91c8a6a59c6db417fadd41ae/header.jpg?t=1775143082" alt="H.I.M. - Hobo’s Infernal Mayhem（新規追加）" /></a></p><p>H.I.M. - Hobo&#x27;s Infernal Mayhem is a single-player, high-octane 3D wave shooter bullet hell set in neon-soaked near-future Italy. Make a pact with the Devil, stack risky Pact Boons, and shred the Syndicate&#x27;s armies to get your stolen white cat back.</p><p><a href="https://store.steampowered.com/app/4248110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
