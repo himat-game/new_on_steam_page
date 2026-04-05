@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Apr 2026 11:27:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 11:56:35 +0000</lastBuildDate>
+<item>
+  <title>Core Defense 2099（新規追加）</title>
+  <link>https://store.steampowered.com/app/4481540/</link>
+  <guid isPermaLink="false">steam-store-published-4481540</guid>
+  <pubDate>Sun, 05 Apr 2026 11:56:35 +0000</pubDate>
+  <description>Core Defense 2099 is the best tower defense game for controllers. Swap heroes anytime, place buildings wherever you like, fight through endless waves—and bring your cute pets along for the ride.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481540/bc640a792a4b1da66ee6e7349b7e27cd3eb120e0/header.jpg?t=1775389975" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481540/bc640a792a4b1da66ee6e7349b7e27cd3eb120e0/header.jpg?t=1775389975" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481540/bc640a792a4b1da66ee6e7349b7e27cd3eb120e0/header.jpg?t=1775389975" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4481540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481540/bc640a792a4b1da66ee6e7349b7e27cd3eb120e0/header.jpg?t=1775389975" alt="Core Defense 2099（新規追加）" /></a></p><p>Core Defense 2099 is the best tower defense game for controllers. Swap heroes anytime, place buildings wherever you like, fight through endless waves—and bring your cute pets along for the ride.</p><p><a href="https://store.steampowered.com/app/4481540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PinScape（新規追加）</title>
   <link>https://store.steampowered.com/app/4370620/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382390/94938350d259cb0ef47b62a51850d330d7c0e380/header.jpg?t=1775142978" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382390/94938350d259cb0ef47b62a51850d330d7c0e380/header.jpg?t=1775142978" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4382390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382390/94938350d259cb0ef47b62a51850d330d7c0e380/header.jpg?t=1775142978" alt="INTO THE RUN（新規追加）" /></a></p><p>Run, collect stars, and set your record.</p><p><a href="https://store.steampowered.com/app/4382390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Reveal Ball Pit: Defeated by Tentacles（新規追加）</title>
-  <link>https://store.steampowered.com/app/4479130/</link>
-  <guid isPermaLink="false">steam-store-published-4479130</guid>
-  <pubDate>Thu, 02 Apr 2026 15:38:04 +0000</pubDate>
-  <description>Short game inspired by BALL x PIT. Break blocks, level up, merge balls, pick upgrades. Uncover dark zones to reveal the waifu beneath.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479130/824bcfaca5b659feb85f43d516478efcab435214/header.jpg?t=1775141108" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479130/824bcfaca5b659feb85f43d516478efcab435214/header.jpg?t=1775141108" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479130/824bcfaca5b659feb85f43d516478efcab435214/header.jpg?t=1775141108" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4479130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479130/824bcfaca5b659feb85f43d516478efcab435214/header.jpg?t=1775141108" alt="Reveal Ball Pit: Defeated by Tentacles（新規追加）" /></a></p><p>Short game inspired by BALL x PIT. Break blocks, level up, merge balls, pick upgrades. Uncover dark zones to reveal the waifu beneath.</p><p><a href="https://store.steampowered.com/app/4479130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
