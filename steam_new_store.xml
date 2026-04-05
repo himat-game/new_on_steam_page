@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Apr 2026 17:04:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 17:50:52 +0000</lastBuildDate>
+<item>
+  <title>Lack Of Light（新規追加）</title>
+  <link>https://store.steampowered.com/app/3506890/</link>
+  <guid isPermaLink="false">steam-store-published-3506890</guid>
+  <pubDate>Sun, 05 Apr 2026 17:50:52 +0000</pubDate>
+  <description>Lack of Light is a roguelite RPG adventure game in which you explore the dungeons in a quest to save your beloved sister. Along the way, you’ll meet colourful characters, find yourself in unlikely situations, and discover stories that are as funny as they are absurd.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506890/0e5702c580baf207efb1be3411a8f9a84bdd31e2/header.jpg?t=1775410408" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506890/0e5702c580baf207efb1be3411a8f9a84bdd31e2/header.jpg?t=1775410408" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506890/0e5702c580baf207efb1be3411a8f9a84bdd31e2/header.jpg?t=1775410408" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3506890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506890/0e5702c580baf207efb1be3411a8f9a84bdd31e2/header.jpg?t=1775410408" alt="Lack Of Light（新規追加）" /></a></p><p>Lack of Light is a roguelite RPG adventure game in which you explore the dungeons in a quest to save your beloved sister. Along the way, you’ll meet colourful characters, find yourself in unlikely situations, and discover stories that are as funny as they are absurd.</p><p><a href="https://store.steampowered.com/app/3506890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SIM Election USA（新規追加）</title>
   <link>https://store.steampowered.com/app/4551530/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560290/edd97fc27b1d19c0427814aeaf1db3759680b012/header.jpg?t=1775145044" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560290/edd97fc27b1d19c0427814aeaf1db3759680b012/header.jpg?t=1775145044" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4560290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560290/edd97fc27b1d19c0427814aeaf1db3759680b012/header.jpg?t=1775145044" alt="Sweet Dance（新規追加）" /></a></p><p>A next-gen 3D dress-up rhythm dance game. Mix and match a vast collection of fashionable outfits, master the hottest dance moves, and unlock trending TikTok hits. Meet new friends and embark on a sweet romantic journey!</p><p><a href="https://store.steampowered.com/app/4560290/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GAME The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)! ~Dungeon and Mystery Girl~（新規追加）</title>
-  <link>https://store.steampowered.com/app/4320940/</link>
-  <guid isPermaLink="false">steam-store-published-4320940</guid>
-  <pubDate>Thu, 02 Apr 2026 16:34:36 +0000</pubDate>
-  <description>A fast-paced arena shooter game with simple controls and strategic battles. Experience a story original to the game, starring the characters of Appraiser (Provisional).</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320940/e05150126e92b6f26452b141cc3e11f755c38c5d/header.jpg?t=1775145012" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320940/e05150126e92b6f26452b141cc3e11f755c38c5d/header.jpg?t=1775145012" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320940/e05150126e92b6f26452b141cc3e11f755c38c5d/header.jpg?t=1775145012" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4320940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320940/e05150126e92b6f26452b141cc3e11f755c38c5d/header.jpg?t=1775145012" alt="GAME The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)! ~Dungeon and Mystery Girl~（新規追加）" /></a></p><p>A fast-paced arena shooter game with simple controls and strategic battles. Experience a story original to the game, starring the characters of Appraiser (Provisional).</p><p><a href="https://store.steampowered.com/app/4320940/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
