@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 06 Apr 2026 11:14:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 12:00:34 +0000</lastBuildDate>
+<item>
+  <title>Ace &amp; Aro: Heart-to-Heart（新規追加）</title>
+  <link>https://store.steampowered.com/app/4554030/</link>
+  <guid isPermaLink="false">steam-store-published-4554030</guid>
+  <pubDate>Mon, 06 Apr 2026 12:00:34 +0000</pubDate>
+  <description>Welcome to the Ace &amp;amp; Aro Meetup! Everyone is accepted here – whether you’re a-spec yourself or just curious to learn more. Meet the members, try a cocktail (or two) and unwind with some arcade games. Let’s have a heart-to-heart!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554030/82c4947fd84a5d0b829a5333f823995750657dad/header.jpg?t=1775475922" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554030/82c4947fd84a5d0b829a5333f823995750657dad/header.jpg?t=1775475922" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554030/82c4947fd84a5d0b829a5333f823995750657dad/header.jpg?t=1775475922" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4554030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554030/82c4947fd84a5d0b829a5333f823995750657dad/header.jpg?t=1775475922" alt="Ace &amp; Aro: Heart-to-Heart（新規追加）" /></a></p><p>Welcome to the Ace &amp;amp; Aro Meetup! Everyone is accepted here – whether you’re a-spec yourself or just curious to learn more. Meet the members, try a cocktail (or two) and unwind with some arcade games. Let’s have a heart-to-heart!</p><p><a href="https://store.steampowered.com/app/4554030/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Starport Merchants（新規追加）</title>
   <link>https://store.steampowered.com/app/4546370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565480/c8858ebef98219b8b6b54f546dfd544c6cb84a63/header.jpg?t=1775157919" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565480/c8858ebef98219b8b6b54f546dfd544c6cb84a63/header.jpg?t=1775157919" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4565480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565480/c8858ebef98219b8b6b54f546dfd544c6cb84a63/header.jpg?t=1775157919" alt="Plantile（新規追加）" /></a></p><p>Plantile is a grid-based game about building your plant factory. Start from a single seed, expand your production overtime, and reach full automation by utilizing advanced tiles!</p><p><a href="https://store.steampowered.com/app/4565480/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mouspionage（新規追加）</title>
-  <link>https://store.steampowered.com/app/3646000/</link>
-  <guid isPermaLink="false">steam-store-published-3646000</guid>
-  <pubDate>Thu, 02 Apr 2026 19:32:45 +0000</pubDate>
-  <description>Command a covert network of animal agents in this active incremental game. Infiltrate homes, steal valuable assets, and extract top-secret intel to expand your operation and pull off increasingly daring heists.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3646000/52d3124b248d0daa893cac5d6b8f86dad928252c/header.jpg?t=1775157597" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3646000/52d3124b248d0daa893cac5d6b8f86dad928252c/header.jpg?t=1775157597" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3646000/52d3124b248d0daa893cac5d6b8f86dad928252c/header.jpg?t=1775157597" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3646000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3646000/52d3124b248d0daa893cac5d6b8f86dad928252c/header.jpg?t=1775157597" alt="Mouspionage（新規追加）" /></a></p><p>Command a covert network of animal agents in this active incremental game. Infiltrate homes, steal valuable assets, and extract top-secret intel to expand your operation and pull off increasingly daring heists.</p><p><a href="https://store.steampowered.com/app/3646000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
