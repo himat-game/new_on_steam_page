@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 06 Apr 2026 02:11:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 05:07:19 +0000</lastBuildDate>
+<item>
+  <title>Welcome to Elite Cafe（新規追加）</title>
+  <link>https://store.steampowered.com/app/4434680/</link>
+  <guid isPermaLink="false">steam-store-published-4434680</guid>
+  <pubDate>Mon, 06 Apr 2026 05:07:19 +0000</pubDate>
+  <description>A heart-pounding café management game! Serve customers, cook meals, and invent new menu items — Elite Cafe is busy again today! You can even make your own cookies and drinks. Change outfits and your favorite character becomes the manager?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434680/24da8d0bf84135292f0c4457ede358f22ca74230/header.jpg?t=1775443705" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434680/24da8d0bf84135292f0c4457ede358f22ca74230/header.jpg?t=1775443705" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434680/24da8d0bf84135292f0c4457ede358f22ca74230/header.jpg?t=1775443705" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4434680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434680/24da8d0bf84135292f0c4457ede358f22ca74230/header.jpg?t=1775443705" alt="Welcome to Elite Cafe（新規追加）" /></a></p><p>A heart-pounding café management game! Serve customers, cook meals, and invent new menu items — Elite Cafe is busy again today! You can even make your own cookies and drinks. Change outfits and your favorite character becomes the manager?</p><p><a href="https://store.steampowered.com/app/4434680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Project YH（新規追加）</title>
   <link>https://store.steampowered.com/app/4554340/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576600/a710f83f4215a69d12c1331ead8c3c6dcc559740/header.jpg?t=1775153204" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576600/a710f83f4215a69d12c1331ead8c3c6dcc559740/header.jpg?t=1775153204" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4576600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576600/a710f83f4215a69d12c1331ead8c3c6dcc559740/header.jpg?t=1775153204" alt="Knight Survivor（新規追加）" /></a></p><p>Knight Survivor is a fast-paced, top-down roguelite arena shooter where medieval fantasy meets explosive modern firepower. Face down endless waves of relentless slimes and monsters, collect gold, and visit the shop to build an unstoppable arsenal. How many waves can you survive before you fall?</p><p><a href="https://store.steampowered.com/app/4576600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Turkeygeddon: Feast of Fury（新規追加）</title>
-  <link>https://store.steampowered.com/app/2871490/</link>
-  <guid isPermaLink="false">steam-store-published-2871490</guid>
-  <pubDate>Thu, 02 Apr 2026 18:32:25 +0000</pubDate>
-  <description>A couch co-op chaos shooter for 1–8 players—blast turkey swarms, dodge wild arena hazards, and build overpowered loadouts.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871490/08e44c5b405319893dbb90ee3c8a41946afe6d2e/header.jpg?t=1775151094" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871490/08e44c5b405319893dbb90ee3c8a41946afe6d2e/header.jpg?t=1775151094" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871490/08e44c5b405319893dbb90ee3c8a41946afe6d2e/header.jpg?t=1775151094" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2871490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871490/08e44c5b405319893dbb90ee3c8a41946afe6d2e/header.jpg?t=1775151094" alt="Turkeygeddon: Feast of Fury（新規追加）" /></a></p><p>A couch co-op chaos shooter for 1–8 players—blast turkey swarms, dodge wild arena hazards, and build overpowered loadouts.</p><p><a href="https://store.steampowered.com/app/2871490/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
