@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 08 Apr 2026 10:40:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 11:38:40 +0000</lastBuildDate>
+<item>
+  <title>Still Breathing（新規追加）</title>
+  <link>https://store.steampowered.com/app/4594740/</link>
+  <guid isPermaLink="false">steam-store-published-4594740</guid>
+  <pubDate>Wed, 08 Apr 2026 11:38:40 +0000</pubDate>
+  <description>Something fell from the sky. Now your family is underground. You have 30 days of food, five mouths to feed, and a door that won&#x27;t stop anyone from knocking. Explore the remains of the city, scavenge resources, trade with survivors, and save your family from a terrible fate by taking decisive choices</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594740/2b011edeaa09f9693da97554891ab23c77f51a28/header.jpg?t=1775646450" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594740/2b011edeaa09f9693da97554891ab23c77f51a28/header.jpg?t=1775646450" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594740/2b011edeaa09f9693da97554891ab23c77f51a28/header.jpg?t=1775646450" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4594740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594740/2b011edeaa09f9693da97554891ab23c77f51a28/header.jpg?t=1775646450" alt="Still Breathing（新規追加）" /></a></p><p>Something fell from the sky. Now your family is underground. You have 30 days of food, five mouths to feed, and a door that won&#x27;t stop anyone from knocking. Explore the remains of the city, scavenge resources, trade with survivors, and save your family from a terrible fate by taking decisive choices</p><p><a href="https://store.steampowered.com/app/4594740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Witchmarked（新規追加）</title>
   <link>https://store.steampowered.com/app/4588400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527390/231eb14d516c6d6a892df5959f511a551dc331a6/header.jpg?t=1775425662" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527390/231eb14d516c6d6a892df5959f511a551dc331a6/header.jpg?t=1775425662" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4527390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527390/231eb14d516c6d6a892df5959f511a551dc331a6/header.jpg?t=1775425662" alt="RobBred - Funny Chat（新規追加）" /></a></p><p>Bored? Lonely? Want to meet new people? Here you&#x27;ll meet random players and have crazy, funny, and interesting conversations. One of the craziest indie games of the year is here.</p><p><a href="https://store.steampowered.com/app/4527390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>lichtung（新規追加）</title>
-  <link>https://store.steampowered.com/app/4407100/</link>
-  <guid isPermaLink="false">steam-store-published-4407100</guid>
-  <pubDate>Sun, 05 Apr 2026 19:58:15 +0000</pubDate>
-  <description>Enter a calm and unfamiliar world, lying dormant as you arrive. As you explore its surroundings, the world gradually opens up, revealing its light. The more you engage with it, the more you become enveloped in a soothing yet lively awakening, full of surprises.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4407100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407100/038da637fe8d04327ffa0db9053de88d1485ff2c/header.jpg?t=1775418030" alt="lichtung（新規追加）" /></a></p><p>Enter a calm and unfamiliar world, lying dormant as you arrive. As you explore its surroundings, the world gradually opens up, revealing its light. The more you engage with it, the more you become enveloped in a soothing yet lively awakening, full of surprises.</p><p><a href="https://store.steampowered.com/app/4407100/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
