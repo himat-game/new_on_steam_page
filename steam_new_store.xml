@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 11 Apr 2026 21:49:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 22:29:03 +0000</lastBuildDate>
+<item>
+  <title>Big Wok（新規追加）</title>
+  <link>https://store.steampowered.com/app/3917320/</link>
+  <guid isPermaLink="false">steam-store-published-3917320</guid>
+  <pubDate>Sat, 11 Apr 2026 22:29:03 +0000</pubDate>
+  <description>The only game where you can become rice and be in a wok with a radio!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917320/b3f702a8a34189dab7c3a71710e32161cc5979af/header.jpg?t=1775944459" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917320/b3f702a8a34189dab7c3a71710e32161cc5979af/header.jpg?t=1775944459" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917320/b3f702a8a34189dab7c3a71710e32161cc5979af/header.jpg?t=1775944459" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3917320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917320/b3f702a8a34189dab7c3a71710e32161cc5979af/header.jpg?t=1775944459" alt="Big Wok（新規追加）" /></a></p><p>The only game where you can become rice and be in a wok with a radio!</p><p><a href="https://store.steampowered.com/app/3917320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Offroad Frontiers（新規追加）</title>
   <link>https://store.steampowered.com/app/4584440/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605820/fa6ddae1e4c555a23bd28c88366c0a4d03584cdb/header.jpg?t=1775789213" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605820/fa6ddae1e4c555a23bd28c88366c0a4d03584cdb/header.jpg?t=1775789213" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4605820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605820/fa6ddae1e4c555a23bd28c88366c0a4d03584cdb/header.jpg?t=1775789213" alt="Ninja Noboken Episode 2（新規追加）" /></a></p><p>Fast-paced 2.5D ninja action returns. Fight deadly enemies, survive brutal environments, and master new abilities in the next chapter of Ninja Noboken.</p><p><a href="https://store.steampowered.com/app/4605820/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Enjoy Your Stay（新規追加）</title>
-  <link>https://store.steampowered.com/app/4545700/</link>
-  <guid isPermaLink="false">steam-store-published-4545700</guid>
-  <pubDate>Fri, 10 Apr 2026 03:43:48 +0000</pubDate>
-  <description>&amp;quot;Welcome to the Hudson Hotel, where our guests are our top priority.&amp;quot; — This is not the hotel you remember. This is not the hallway you know. Something here is trying to lead you astray. Observe your surroundings, spot irregularities, and choose the right path. That is, if you really want to leave.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545700/ed24b558ffc2bdd3c53002ba74b3b814614c9e06/header.jpg?t=1775779584" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545700/ed24b558ffc2bdd3c53002ba74b3b814614c9e06/header.jpg?t=1775779584" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545700/ed24b558ffc2bdd3c53002ba74b3b814614c9e06/header.jpg?t=1775779584" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4545700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545700/ed24b558ffc2bdd3c53002ba74b3b814614c9e06/header.jpg?t=1775779584" alt="Enjoy Your Stay（新規追加）" /></a></p><p>&amp;quot;Welcome to the Hudson Hotel, where our guests are our top priority.&amp;quot; — This is not the hotel you remember. This is not the hallway you know. Something here is trying to lead you astray. Observe your surroundings, spot irregularities, and choose the right path. That is, if you really want to leave.</p><p><a href="https://store.steampowered.com/app/4545700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
