@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 11 Apr 2026 16:57:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 17:32:28 +0000</lastBuildDate>
+<item>
+  <title>Deep Sea Love（新規追加）</title>
+  <link>https://store.steampowered.com/app/4593340/</link>
+  <guid isPermaLink="false">steam-store-published-4593340</guid>
+  <pubDate>Sat, 11 Apr 2026 17:32:28 +0000</pubDate>
+  <description>Beautiful mermaids. Nude and sensual scenes. Relaxing gameplay.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593340/f822d2b2a9f55be1c73f1f69c1dcdf09f676117a/header.jpg?t=1775927839" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593340/f822d2b2a9f55be1c73f1f69c1dcdf09f676117a/header.jpg?t=1775927839" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593340/f822d2b2a9f55be1c73f1f69c1dcdf09f676117a/header.jpg?t=1775927839" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4593340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593340/f822d2b2a9f55be1c73f1f69c1dcdf09f676117a/header.jpg?t=1775927839" alt="Deep Sea Love（新規追加）" /></a></p><p>Beautiful mermaids. Nude and sensual scenes. Relaxing gameplay.</p><p><a href="https://store.steampowered.com/app/4593340/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Stamp Collector（新規追加）</title>
   <link>https://store.steampowered.com/app/4610420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583180/d270dd0f16c5695ee0f155ba9eaa464b019dca9a/header.jpg?t=1775779103" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583180/d270dd0f16c5695ee0f155ba9eaa464b019dca9a/header.jpg?t=1775779103" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4583180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583180/d270dd0f16c5695ee0f155ba9eaa464b019dca9a/header.jpg?t=1775779103" alt="Sunderknight（新規追加）" /></a></p><p>Locate and descend into the pit and tear through endless waves of demons with three weapons at once! Rip open card packs, stack powerful items, and build overpowered loadouts as you fight deeper into the horde! Something ancient waits at the bottom...</p><p><a href="https://store.steampowered.com/app/4583180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fireworks Designer（新規追加）</title>
-  <link>https://store.steampowered.com/app/4555130/</link>
-  <guid isPermaLink="false">steam-store-published-4555130</guid>
-  <pubDate>Fri, 10 Apr 2026 00:06:14 +0000</pubDate>
-  <description>Design your own fireworks! With a super easy-to-use editor, you can effortlessly create stunning, realistic fireworks. GPU-accelerated rendering handles millions of particles without lag, AND you can launch fireworks together with friends!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555130/461414b31451accf47bcdd36ee15b7dd321c1dcc/header.jpg?t=1775777918" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555130/461414b31451accf47bcdd36ee15b7dd321c1dcc/header.jpg?t=1775777918" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555130/461414b31451accf47bcdd36ee15b7dd321c1dcc/header.jpg?t=1775777918" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4555130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555130/461414b31451accf47bcdd36ee15b7dd321c1dcc/header.jpg?t=1775777918" alt="Fireworks Designer（新規追加）" /></a></p><p>Design your own fireworks! With a super easy-to-use editor, you can effortlessly create stunning, realistic fireworks. GPU-accelerated rendering handles millions of particles without lag, AND you can launch fireworks together with friends!</p><p><a href="https://store.steampowered.com/app/4555130/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
