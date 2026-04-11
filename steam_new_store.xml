@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 11 Apr 2026 20:29:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 21:02:51 +0000</lastBuildDate>
+<item>
+  <title>DEMON&#x27;S REIGN（新規追加）</title>
+  <link>https://store.steampowered.com/app/4605940/</link>
+  <guid isPermaLink="false">steam-store-published-4605940</guid>
+  <pubDate>Sat, 11 Apr 2026 21:02:51 +0000</pubDate>
+  <description>Venture into a dark world ruled by demons, overcome the challenges and defeat the archfiends to gain their power. Explore at your desired order and freely build your character to face impossible battles.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605940/64a2e1038ff7db71ca2c67d2cd0a70d49e507256/header.jpg?t=1775939976" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605940/64a2e1038ff7db71ca2c67d2cd0a70d49e507256/header.jpg?t=1775939976" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605940/64a2e1038ff7db71ca2c67d2cd0a70d49e507256/header.jpg?t=1775939976" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4605940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605940/64a2e1038ff7db71ca2c67d2cd0a70d49e507256/header.jpg?t=1775939976" alt="DEMON&#x27;S REIGN（新規追加）" /></a></p><p>Venture into a dark world ruled by demons, overcome the challenges and defeat the archfiends to gain their power. Explore at your desired order and freely build your character to face impossible battles.</p><p><a href="https://store.steampowered.com/app/4605940/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Cavemen Olympics（新規追加）</title>
   <link>https://store.steampowered.com/app/4594400/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567120/c79f9ebd5bf1c18b127a7b8e1d60c298e4194fa8/header.jpg?t=1775780634" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567120/c79f9ebd5bf1c18b127a7b8e1d60c298e4194fa8/header.jpg?t=1775780634" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4567120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567120/c79f9ebd5bf1c18b127a7b8e1d60c298e4194fa8/header.jpg?t=1775780634" alt="Eclipse Blade（新規追加）" /></a></p><p>Eclipse Blade is a retro ninja action-platformer inspired by classic ninja games from the 1990s. Featuring challenging old-school gameplay and beautifully hand-crafted pixel art, it delivers the pure thrill of classic action in a fresh new way.</p><p><a href="https://store.steampowered.com/app/4567120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Kobayashi Clash of Conquest（新規追加）</title>
-  <link>https://store.steampowered.com/app/4587790/</link>
-  <guid isPermaLink="false">steam-store-published-4587790</guid>
-  <pubDate>Fri, 10 Apr 2026 03:43:48 +0000</pubDate>
-  <description>Kobayashi Clan Of Conquest is a management and defense game set in a fantasy world populated by dragons where you develop your domain, build buildings, recruit heroes and defend your empire.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587790/3c1d5a6b4fd151856189b1b0e774d531312b0a9a/header.jpg?t=1775792481" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587790/3c1d5a6b4fd151856189b1b0e774d531312b0a9a/header.jpg?t=1775792481" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587790/3c1d5a6b4fd151856189b1b0e774d531312b0a9a/header.jpg?t=1775792481" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4587790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587790/3c1d5a6b4fd151856189b1b0e774d531312b0a9a/header.jpg?t=1775792481" alt="Kobayashi Clash of Conquest（新規追加）" /></a></p><p>Kobayashi Clan Of Conquest is a management and defense game set in a fantasy world populated by dragons where you develop your domain, build buildings, recruit heroes and defend your empire.</p><p><a href="https://store.steampowered.com/app/4587790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
