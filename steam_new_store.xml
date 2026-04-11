@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 11 Apr 2026 07:52:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 08:38:57 +0000</lastBuildDate>
+<item>
+  <title>退勤時間（新規追加）</title>
+  <link>https://store.steampowered.com/app/4487050/</link>
+  <guid isPermaLink="false">steam-store-published-4487050</guid>
+  <pubDate>Sat, 11 Apr 2026 08:38:57 +0000</pubDate>
+  <description>Exit 8-affected, &#x27;Find the Old Man&#x27; departure simulation. The final person to leave must check that no other employees remain before switching off the lights and locking up. Note: This game currently only supports Japanese. English support is planned for a future update.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487050/20b6ee5561b5907ea2cb31ba95b50a975114781f/header.jpg?t=1775896525" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487050/20b6ee5561b5907ea2cb31ba95b50a975114781f/header.jpg?t=1775896525" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487050/20b6ee5561b5907ea2cb31ba95b50a975114781f/header.jpg?t=1775896525" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4487050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487050/20b6ee5561b5907ea2cb31ba95b50a975114781f/header.jpg?t=1775896525" alt="退勤時間（新規追加）" /></a></p><p>Exit 8-affected, &#x27;Find the Old Man&#x27; departure simulation. The final person to leave must check that no other employees remain before switching off the lights and locking up. Note: This game currently only supports Japanese. English support is planned for a future update.</p><p><a href="https://store.steampowered.com/app/4487050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Bright Future Village（新規追加）</title>
   <link>https://store.steampowered.com/app/3892850/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375040/d907e5e0ef1627b8832e0028e8e428cf2ada3a5d/header.jpg?t=1775766481" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375040/d907e5e0ef1627b8832e0028e8e428cf2ada3a5d/header.jpg?t=1775766481" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4375040/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375040/d907e5e0ef1627b8832e0028e8e428cf2ada3a5d/header.jpg?t=1775766481" alt="Dwarfspire（新規追加）" /></a></p><p>Dwarfspire is an idle crafter that sits on the side of your screen. Manage a village of mountain-climbing dwarves that scale cliffs as you multitask. Recruit dwarves, gather rare minerals, then craft them into weapons and armor.</p><p><a href="https://store.steampowered.com/app/4375040/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>卑怯な勇者を許さない！～魔王の娘とダンジョン作り～（新規追加）</title>
-  <link>https://store.steampowered.com/app/4596850/</link>
-  <guid isPermaLink="false">steam-store-published-4596850</guid>
-  <pubDate>Thu, 09 Apr 2026 20:31:23 +0000</pubDate>
-  <description>「薬草」や「スキル」を使ってくる勇者たち… ダンジョンを作って、モンスターを増やして 魔王軍を勝利へ導こう！卑怯な勇者たちを許すな！</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596850/19c1f53f51437af08b4461eb93b8dc33fe2e476d/header.jpg?t=1775764948" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596850/19c1f53f51437af08b4461eb93b8dc33fe2e476d/header.jpg?t=1775764948" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596850/19c1f53f51437af08b4461eb93b8dc33fe2e476d/header.jpg?t=1775764948" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4596850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596850/19c1f53f51437af08b4461eb93b8dc33fe2e476d/header.jpg?t=1775764948" alt="卑怯な勇者を許さない！～魔王の娘とダンジョン作り～（新規追加）" /></a></p><p>「薬草」や「スキル」を使ってくる勇者たち… ダンジョンを作って、モンスターを増やして 魔王軍を勝利へ導こう！卑怯な勇者たちを許すな！</p><p><a href="https://store.steampowered.com/app/4596850/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
