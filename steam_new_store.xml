@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 14:49:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 15:33:38 +0000</lastBuildDate>
+<item>
+  <title>Pixelwave Off（新規追加）</title>
+  <link>https://store.steampowered.com/app/4339240/</link>
+  <guid isPermaLink="false">steam-store-published-4339240</guid>
+  <pubDate>Sun, 12 Apr 2026 15:33:38 +0000</pubDate>
+  <description>Pixelwave Off is a backrooms-mascot horror game set in the 2000s.You return to search for your friend, who disappeared a few years ago.Find him and uncover the dark secrets hidden within Pixelwave Entertainment.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339240/62d68acd837feed3d69a02b3a2d8b09f91cb4a36/header.jpg?t=1776006787" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339240/62d68acd837feed3d69a02b3a2d8b09f91cb4a36/header.jpg?t=1776006787" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339240/62d68acd837feed3d69a02b3a2d8b09f91cb4a36/header.jpg?t=1776006787" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4339240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4339240/62d68acd837feed3d69a02b3a2d8b09f91cb4a36/header.jpg?t=1776006787" alt="Pixelwave Off（新規追加）" /></a></p><p>Pixelwave Off is a backrooms-mascot horror game set in the 2000s.You return to search for your friend, who disappeared a few years ago.Find him and uncover the dark secrets hidden within Pixelwave Entertainment.</p><p><a href="https://store.steampowered.com/app/4339240/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>SpiritusCard（新規追加）</title>
   <link>https://store.steampowered.com/app/4564290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4548090/5e84281ffa84d6a768888b7e4cc1cea1c86fba84/header.jpg?t=1775799415" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4548090/5e84281ffa84d6a768888b7e4cc1cea1c86fba84/header.jpg?t=1775799415" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4548090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4548090/5e84281ffa84d6a768888b7e4cc1cea1c86fba84/header.jpg?t=1775799415" alt="Wah!Topia（新規追加）" /></a></p><p>In the depths of the astral seas a bunch of crafty kobolds will need to defend and resist chaos to survive. Wah!Topia is a colony simulation and defense game where you manage resources, build stations and protect the monument.</p><p><a href="https://store.steampowered.com/app/4548090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Push and Pull（新規追加）</title>
-  <link>https://store.steampowered.com/app/4575420/</link>
-  <guid isPermaLink="false">steam-store-published-4575420</guid>
-  <pubDate>Fri, 10 Apr 2026 05:55:54 +0000</pubDate>
-  <description>The Push and Pull is a co-op only puzzle platformer about playing as two dualistic bunnies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/0dca6c641e40b9d6443243d656a70ce06e1b0c26/header.jpg?t=1775798302" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/0dca6c641e40b9d6443243d656a70ce06e1b0c26/header.jpg?t=1775798302" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/0dca6c641e40b9d6443243d656a70ce06e1b0c26/header.jpg?t=1775798302" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4575420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/0dca6c641e40b9d6443243d656a70ce06e1b0c26/header.jpg?t=1775798302" alt="Push and Pull（新規追加）" /></a></p><p>The Push and Pull is a co-op only puzzle platformer about playing as two dualistic bunnies.</p><p><a href="https://store.steampowered.com/app/4575420/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
