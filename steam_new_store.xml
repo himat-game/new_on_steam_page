@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 08:01:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 09:07:23 +0000</lastBuildDate>
+<item>
+  <title>Donkee&#x27;s Adventure（新規追加）</title>
+  <link>https://store.steampowered.com/app/4593620/</link>
+  <guid isPermaLink="false">steam-store-published-4593620</guid>
+  <pubDate>Sun, 12 Apr 2026 09:07:23 +0000</pubDate>
+  <description>A simple, fast-paced 2D platformer where you survive chaotic challenges and explore different environments in a short but action-packed adventure.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593620/237f88b2f724ce093e173ebc66325b43b27163c4/header.jpg?t=1775982699" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593620/237f88b2f724ce093e173ebc66325b43b27163c4/header.jpg?t=1775982699" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593620/237f88b2f724ce093e173ebc66325b43b27163c4/header.jpg?t=1775982699" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4593620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593620/237f88b2f724ce093e173ebc66325b43b27163c4/header.jpg?t=1775982699" alt="Donkee&#x27;s Adventure（新規追加）" /></a></p><p>A simple, fast-paced 2D platformer where you survive chaotic challenges and explore different environments in a short but action-packed adventure.</p><p><a href="https://store.steampowered.com/app/4593620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Savor Hour（新規追加）</title>
   <link>https://store.steampowered.com/app/4542580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598930/b716cf5a81817575cfc7efc7cd6968b7352e94af/header.jpg?t=1775790556" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598930/b716cf5a81817575cfc7efc7cd6968b7352e94af/header.jpg?t=1775790556" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4598930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598930/b716cf5a81817575cfc7efc7cd6968b7352e94af/header.jpg?t=1775790556" alt="Frank &#x27;n&#x27; Stein&#x27;s Body Shop（新規追加）" /></a></p><p>Run a bizarre shop, process strange and unsettling goods, and survive escalating chaos. Stock won’t last, customers won’t wait, and nothing is ever quite right. Sell fast, adapt faster, because everything must go.</p><p><a href="https://store.steampowered.com/app/4598930/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fairy Cursebreaker（新規追加）</title>
-  <link>https://store.steampowered.com/app/4430170/</link>
-  <guid isPermaLink="false">steam-store-published-4430170</guid>
-  <pubDate>Fri, 10 Apr 2026 03:43:48 +0000</pubDate>
-  <description>Undo a notorious puppet curse put on a variety of classic fairy tale characters by solving puzzles, finding clues, and uncovering the pages of a mysterious book in Fairy Cursebreaker!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430170/971554883dfc52ac0e09ad94c2995fa0de5e8f0b/header.jpg?t=1775787891" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430170/971554883dfc52ac0e09ad94c2995fa0de5e8f0b/header.jpg?t=1775787891" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430170/971554883dfc52ac0e09ad94c2995fa0de5e8f0b/header.jpg?t=1775787891" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4430170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430170/971554883dfc52ac0e09ad94c2995fa0de5e8f0b/header.jpg?t=1775787891" alt="Fairy Cursebreaker（新規追加）" /></a></p><p>Undo a notorious puppet curse put on a variety of classic fairy tale characters by solving puzzles, finding clues, and uncovering the pages of a mysterious book in Fairy Cursebreaker!</p><p><a href="https://store.steampowered.com/app/4430170/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
