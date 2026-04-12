@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 12:55:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 13:59:05 +0000</lastBuildDate>
+<item>
+  <title>Totemofilia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4607000/</link>
+  <guid isPermaLink="false">steam-store-published-4607000</guid>
+  <pubDate>Sun, 12 Apr 2026 13:59:05 +0000</pubDate>
+  <description>Totemofilia is a top-down action-adventure game. Explore impossible ruins, fight weird creatures, and solve puzzles in this minimalist dark fantasy world!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607000/aaf5c67d3e01d04f823f29d2d5d0b815ee52dbe7/header.jpg?t=1775999117" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607000/aaf5c67d3e01d04f823f29d2d5d0b815ee52dbe7/header.jpg?t=1775999117" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607000/aaf5c67d3e01d04f823f29d2d5d0b815ee52dbe7/header.jpg?t=1775999117" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4607000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607000/aaf5c67d3e01d04f823f29d2d5d0b815ee52dbe7/header.jpg?t=1775999117" alt="Totemofilia（新規追加）" /></a></p><p>Totemofilia is a top-down action-adventure game. Explore impossible ruins, fight weird creatures, and solve puzzles in this minimalist dark fantasy world!</p><p><a href="https://store.steampowered.com/app/4607000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Let&#x27;s Find Cats Inside the Human Body（新規追加）</title>
   <link>https://store.steampowered.com/app/4561610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508080/0f5a9e2825383b7b61f6b94c7d23645e48673c2a/header.jpg?t=1775798006" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508080/0f5a9e2825383b7b61f6b94c7d23645e48673c2a/header.jpg?t=1775798006" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4508080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508080/0f5a9e2825383b7b61f6b94c7d23645e48673c2a/header.jpg?t=1775798006" alt="Man, don&#x27;t get angry!（新規追加）" /></a></p><p>Good old Ludo... but with completely unhinged mechanics! Roll the dice, collect Powerups, set traps, and unleash airstrikes as matches spiral into chaotic, friendship-shattering mayhem!</p><p><a href="https://store.steampowered.com/app/4508080/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Overtime : Paper Trail（新規追加）</title>
-  <link>https://store.steampowered.com/app/4555350/</link>
-  <guid isPermaLink="false">steam-store-published-4555350</guid>
-  <pubDate>Fri, 10 Apr 2026 05:55:54 +0000</pubDate>
-  <description>Nothing good gets printed at 3 AM. Work the graveyard shift at a rundown copy shop. Smile at the strangers. Copy their files. But when the machine whirs, look deeper. There&#x27;s a reason they came in the dark. Find out what they&#x27;re hiding, before they realize you know too much</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555350/1f899371f39d9ed04c1fe8c5232268f3d8691d01/header.jpg?t=1775799104" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555350/1f899371f39d9ed04c1fe8c5232268f3d8691d01/header.jpg?t=1775799104" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555350/1f899371f39d9ed04c1fe8c5232268f3d8691d01/header.jpg?t=1775799104" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4555350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555350/1f899371f39d9ed04c1fe8c5232268f3d8691d01/header.jpg?t=1775799104" alt="Overtime : Paper Trail（新規追加）" /></a></p><p>Nothing good gets printed at 3 AM. Work the graveyard shift at a rundown copy shop. Smile at the strangers. Copy their files. But when the machine whirs, look deeper. There&#x27;s a reason they came in the dark. Find out what they&#x27;re hiding, before they realize you know too much</p><p><a href="https://store.steampowered.com/app/4555350/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
