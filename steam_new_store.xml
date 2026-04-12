@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 21:32:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 22:56:44 +0000</lastBuildDate>
+<item>
+  <title>The Machine Stops（新規追加）</title>
+  <link>https://store.steampowered.com/app/4579320/</link>
+  <guid isPermaLink="false">steam-store-published-4579320</guid>
+  <pubDate>Sun, 12 Apr 2026 22:56:44 +0000</pubDate>
+  <description>Make everyone obsolete with AI by managing resources on a Matrix-style interface. You have one year to strategize resource allocation, unlock new layers of growth, and keep an accelerating company from collapsing under its own scale.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579320/d3200322efe91eba5899f498d7a6b9ed917c6080/header.jpg?t=1776032345" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579320/d3200322efe91eba5899f498d7a6b9ed917c6080/header.jpg?t=1776032345" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579320/d3200322efe91eba5899f498d7a6b9ed917c6080/header.jpg?t=1776032345" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4579320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579320/d3200322efe91eba5899f498d7a6b9ed917c6080/header.jpg?t=1776032345" alt="The Machine Stops（新規追加）" /></a></p><p>Make everyone obsolete with AI by managing resources on a Matrix-style interface. You have one year to strategize resource allocation, unlock new layers of growth, and keep an accelerating company from collapsing under its own scale.</p><p><a href="https://store.steampowered.com/app/4579320/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Futa Heim（新規追加）</title>
   <link>https://store.steampowered.com/app/4594450/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1775793194" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1775793194" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4132030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1775793194" alt="Nova Origin（新規追加）" /></a></p><p>Nova Origin is a next-generation sci-fi city builder set on a mysterious alien planet. Build, expand, and survive as you establish a thriving colony, manage resources, and uncover the secrets of a hostile new world.</p><p><a href="https://store.steampowered.com/app/4132030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ToyBoxers!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4014830/</link>
-  <guid isPermaLink="false">steam-store-published-4014830</guid>
-  <pubDate>Fri, 10 Apr 2026 05:55:54 +0000</pubDate>
-  <description>Punch, Shoot, Or Explode your friends in this punchy toy like party game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014830/70ab2c92960ec98fcdc3c0ba97df38f40314b599/header.jpg?t=1775798376" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014830/70ab2c92960ec98fcdc3c0ba97df38f40314b599/header.jpg?t=1775798376" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014830/70ab2c92960ec98fcdc3c0ba97df38f40314b599/header.jpg?t=1775798376" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4014830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4014830/70ab2c92960ec98fcdc3c0ba97df38f40314b599/header.jpg?t=1775798376" alt="ToyBoxers!（新規追加）" /></a></p><p>Punch, Shoot, Or Explode your friends in this punchy toy like party game.</p><p><a href="https://store.steampowered.com/app/4014830/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
