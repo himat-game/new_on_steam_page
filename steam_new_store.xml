@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 16:04:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 16:58:50 +0000</lastBuildDate>
+<item>
+  <title>PlanZ（新規追加）</title>
+  <link>https://store.steampowered.com/app/4561520/</link>
+  <guid isPermaLink="false">steam-store-published-4561520</guid>
+  <pubDate>Sun, 12 Apr 2026 16:58:50 +0000</pubDate>
+  <description>PlanZ is a stylized open-world zombie survival game. In a world overrun by the Zombies, survival is your only goal. Explore, fight, and endure as you face relentless horrors in a brutal, unforgiving landscape. The infected are everywhere — they will hunt you down without mercy.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561520/a73a8922f1f2bde46538b47d493d88cf7ce2c93a/header.jpg?t=1776012685" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561520/a73a8922f1f2bde46538b47d493d88cf7ce2c93a/header.jpg?t=1776012685" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561520/a73a8922f1f2bde46538b47d493d88cf7ce2c93a/header.jpg?t=1776012685" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4561520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561520/a73a8922f1f2bde46538b47d493d88cf7ce2c93a/header.jpg?t=1776012685" alt="PlanZ（新規追加）" /></a></p><p>PlanZ is a stylized open-world zombie survival game. In a world overrun by the Zombies, survival is your only goal. Explore, fight, and endure as you face relentless horrors in a brutal, unforgiving landscape. The infected are everywhere — they will hunt you down without mercy.</p><p><a href="https://store.steampowered.com/app/4561520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Armed and Dangerooze（新規追加）</title>
   <link>https://store.steampowered.com/app/4479070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579210/4addf6c1a015c44d453a9a743f541cb53dabd662/header.jpg?t=1775794103" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579210/4addf6c1a015c44d453a9a743f541cb53dabd662/header.jpg?t=1775794103" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4579210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579210/4addf6c1a015c44d453a9a743f541cb53dabd662/header.jpg?t=1775794103" alt="幻域 Fantasy Domain（新規追加）" /></a></p><p>&amp;quot;Fantasy Domain&amp;quot; is a fantasy action-adventure roguelike. Explore freely, fight nimbly, and grow your character to stay versatile on the battlefield. Ever-changing bosses deliver thrilling combat. Keep training to become the overlord!</p><p><a href="https://store.steampowered.com/app/4579210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>LIMICORE（新規追加）</title>
-  <link>https://store.steampowered.com/app/4570390/</link>
-  <guid isPermaLink="false">steam-store-published-4570390</guid>
-  <pubDate>Fri, 10 Apr 2026 05:55:54 +0000</pubDate>
-  <description>LIMICORE is a dark and narratively driven experience containing uncovered mysteries. Traverse the world through various realities and solve engaging puzzles to discover the truth behind the organization&#x27;s objectives.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570390/ba59f8177b9640118fc960af9251697498cac196/header.jpg?t=1775792762" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570390/ba59f8177b9640118fc960af9251697498cac196/header.jpg?t=1775792762" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570390/ba59f8177b9640118fc960af9251697498cac196/header.jpg?t=1775792762" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4570390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570390/ba59f8177b9640118fc960af9251697498cac196/header.jpg?t=1775792762" alt="LIMICORE（新規追加）" /></a></p><p>LIMICORE is a dark and narratively driven experience containing uncovered mysteries. Traverse the world through various realities and solve engaging puzzles to discover the truth behind the organization&#x27;s objectives.</p><p><a href="https://store.steampowered.com/app/4570390/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
