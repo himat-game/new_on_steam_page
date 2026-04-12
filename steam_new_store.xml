@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 13:59:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 14:49:03 +0000</lastBuildDate>
+<item>
+  <title>SpiritusCard（新規追加）</title>
+  <link>https://store.steampowered.com/app/4564290/</link>
+  <guid isPermaLink="false">steam-store-published-4564290</guid>
+  <pubDate>Sun, 12 Apr 2026 14:49:03 +0000</pubDate>
+  <description>Spiritus TCG blends classic Five Elements strengths and weaknesses with Yin, Yang, and Chaos in one reveal and turn-order system. Each round moves through prep, draw, mulligan-style swap, face-down placement, simultaneous reveals, and multi-step resolution.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564290/d7d5d2354ce8401bc5aa5302ca5dac04ba59f62f/header.jpg?t=1776004463" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564290/d7d5d2354ce8401bc5aa5302ca5dac04ba59f62f/header.jpg?t=1776004463" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564290/d7d5d2354ce8401bc5aa5302ca5dac04ba59f62f/header.jpg?t=1776004463" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4564290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564290/d7d5d2354ce8401bc5aa5302ca5dac04ba59f62f/header.jpg?t=1776004463" alt="SpiritusCard（新規追加）" /></a></p><p>Spiritus TCG blends classic Five Elements strengths and weaknesses with Yin, Yang, and Chaos in one reveal and turn-order system. Each round moves through prep, draw, mulligan-style swap, face-down placement, simultaneous reveals, and multi-step resolution.</p><p><a href="https://store.steampowered.com/app/4564290/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Totemofilia（新規追加）</title>
   <link>https://store.steampowered.com/app/4607000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/0dca6c641e40b9d6443243d656a70ce06e1b0c26/header.jpg?t=1775798302" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/0dca6c641e40b9d6443243d656a70ce06e1b0c26/header.jpg?t=1775798302" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4575420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/0dca6c641e40b9d6443243d656a70ce06e1b0c26/header.jpg?t=1775798302" alt="Push and Pull（新規追加）" /></a></p><p>The Push and Pull is a co-op only puzzle platformer about playing as two dualistic bunnies.</p><p><a href="https://store.steampowered.com/app/4575420/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Man, don&#x27;t get angry!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4508080/</link>
-  <guid isPermaLink="false">steam-store-published-4508080</guid>
-  <pubDate>Fri, 10 Apr 2026 05:55:54 +0000</pubDate>
-  <description>Good old Ludo... but with completely unhinged mechanics! Roll the dice, collect Powerups, set traps, and unleash airstrikes as matches spiral into chaotic, friendship-shattering mayhem!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508080/0f5a9e2825383b7b61f6b94c7d23645e48673c2a/header.jpg?t=1775798006" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508080/0f5a9e2825383b7b61f6b94c7d23645e48673c2a/header.jpg?t=1775798006" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508080/0f5a9e2825383b7b61f6b94c7d23645e48673c2a/header.jpg?t=1775798006" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4508080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508080/0f5a9e2825383b7b61f6b94c7d23645e48673c2a/header.jpg?t=1775798006" alt="Man, don&#x27;t get angry!（新規追加）" /></a></p><p>Good old Ludo... but with completely unhinged mechanics! Roll the dice, collect Powerups, set traps, and unleash airstrikes as matches spiral into chaotic, friendship-shattering mayhem!</p><p><a href="https://store.steampowered.com/app/4508080/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
