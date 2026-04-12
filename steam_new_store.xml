@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 22:56:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 23:35:54 +0000</lastBuildDate>
+<item>
+  <title>Succubus Sex Trials（新規追加）</title>
+  <link>https://store.steampowered.com/app/4581550/</link>
+  <guid isPermaLink="false">steam-store-published-4581550</guid>
+  <pubDate>Sun, 12 Apr 2026 23:35:54 +0000</pubDate>
+  <description>A Succubus and a Devilgirl compete for you in a demonic trial. Choose a winner… or claim them both. A dark monster girl visual novel with animated scenes, rising temptation, and choices that draw you deeper in.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581550/92b29e40a0971ee7ce9ff770bbd225be0cc81374/header.jpg?t=1776035156" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581550/92b29e40a0971ee7ce9ff770bbd225be0cc81374/header.jpg?t=1776035156" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581550/92b29e40a0971ee7ce9ff770bbd225be0cc81374/header.jpg?t=1776035156" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4581550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581550/92b29e40a0971ee7ce9ff770bbd225be0cc81374/header.jpg?t=1776035156" alt="Succubus Sex Trials（新規追加）" /></a></p><p>A Succubus and a Devilgirl compete for you in a demonic trial. Choose a winner… or claim them both. A dark monster girl visual novel with animated scenes, rising temptation, and choices that draw you deeper in.</p><p><a href="https://store.steampowered.com/app/4581550/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Machine Stops（新規追加）</title>
   <link>https://store.steampowered.com/app/4579320/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599140/13575bc52dcd61b82f56166ad87efc5cad9fd89a/header.jpg?t=1775796670" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599140/13575bc52dcd61b82f56166ad87efc5cad9fd89a/header.jpg?t=1775796670" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4599140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599140/13575bc52dcd61b82f56166ad87efc5cad9fd89a/header.jpg?t=1775796670" alt="Oath for Glory（新規追加）" /></a></p><p>Join the tournament as a lowly knight of a small village. A skill-based boss fighting game built around directional combat. Learn, adapt, and master precise melee mechanics where player skill determines victory.</p><p><a href="https://store.steampowered.com/app/4599140/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nova Origin（新規追加）</title>
-  <link>https://store.steampowered.com/app/4132030/</link>
-  <guid isPermaLink="false">steam-store-published-4132030</guid>
-  <pubDate>Fri, 10 Apr 2026 05:55:54 +0000</pubDate>
-  <description>Nova Origin is a next-generation sci-fi city builder set on a mysterious alien planet. Build, expand, and survive as you establish a thriving colony, manage resources, and uncover the secrets of a hostile new world.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1775793194" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1775793194" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1775793194" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4132030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1775793194" alt="Nova Origin（新規追加）" /></a></p><p>Nova Origin is a next-generation sci-fi city builder set on a mysterious alien planet. Build, expand, and survive as you establish a thriving colony, manage resources, and uncover the secrets of a hostile new world.</p><p><a href="https://store.steampowered.com/app/4132030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
