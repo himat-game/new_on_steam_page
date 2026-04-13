@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Apr 2026 23:35:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 00:04:42 +0000</lastBuildDate>
+<item>
+  <title>DOO DOO VILLAGE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4582850/</link>
+  <guid isPermaLink="false">steam-store-published-4582850</guid>
+  <pubDate>Mon, 13 Apr 2026 00:04:42 +0000</pubDate>
+  <description>Battle through relentless dungeons, earn gold, and build your own trading empire as a mage who turns magic into wealth.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582850/17e54db9cad5d4ed0fe74e15a7fb8d3c6ad84821/header.jpg?t=1776037587" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582850/17e54db9cad5d4ed0fe74e15a7fb8d3c6ad84821/header.jpg?t=1776037587" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582850/17e54db9cad5d4ed0fe74e15a7fb8d3c6ad84821/header.jpg?t=1776037587" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4582850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582850/17e54db9cad5d4ed0fe74e15a7fb8d3c6ad84821/header.jpg?t=1776037587" alt="DOO DOO VILLAGE（新規追加）" /></a></p><p>Battle through relentless dungeons, earn gold, and build your own trading empire as a mage who turns magic into wealth.</p><p><a href="https://store.steampowered.com/app/4582850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Succubus Sex Trials（新規追加）</title>
   <link>https://store.steampowered.com/app/4581550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524150/42ac5be2d663e205e349272f83b3d8fcbcf2ff2c/header.jpg?t=1775795233" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524150/42ac5be2d663e205e349272f83b3d8fcbcf2ff2c/header.jpg?t=1775795233" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4524150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524150/42ac5be2d663e205e349272f83b3d8fcbcf2ff2c/header.jpg?t=1775795233" alt="WithIN（新規追加）" /></a></p><p>Seoyul falls into a deep, melancholic sleep and awakens in the mysterious “Shadow Sea.” There, she meets Shady, a gentle shadow spirit. She explores ethereal landscapes, overcoming platforming challenges and puzzles, using the power of light to fend off lurking shadow monsters.</p><p><a href="https://store.steampowered.com/app/4524150/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Oath for Glory（新規追加）</title>
-  <link>https://store.steampowered.com/app/4599140/</link>
-  <guid isPermaLink="false">steam-store-published-4599140</guid>
-  <pubDate>Fri, 10 Apr 2026 05:55:54 +0000</pubDate>
-  <description>Join the tournament as a lowly knight of a small village. A skill-based boss fighting game built around directional combat. Learn, adapt, and master precise melee mechanics where player skill determines victory.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599140/13575bc52dcd61b82f56166ad87efc5cad9fd89a/header.jpg?t=1775796670" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599140/13575bc52dcd61b82f56166ad87efc5cad9fd89a/header.jpg?t=1775796670" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599140/13575bc52dcd61b82f56166ad87efc5cad9fd89a/header.jpg?t=1775796670" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4599140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599140/13575bc52dcd61b82f56166ad87efc5cad9fd89a/header.jpg?t=1775796670" alt="Oath for Glory（新規追加）" /></a></p><p>Join the tournament as a lowly knight of a small village. A skill-based boss fighting game built around directional combat. Learn, adapt, and master precise melee mechanics where player skill determines victory.</p><p><a href="https://store.steampowered.com/app/4599140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
