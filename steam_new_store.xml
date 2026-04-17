@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 17 Apr 2026 22:21:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 17 Apr 2026 23:22:11 +0000</lastBuildDate>
+<item>
+  <title>Keep Watering（新規追加）</title>
+  <link>https://store.steampowered.com/app/4569670/</link>
+  <guid isPermaLink="false">steam-store-published-4569670</guid>
+  <pubDate>Fri, 17 Apr 2026 23:22:11 +0000</pubDate>
+  <description>Water. Harvest. Upgrade. Repeat. A relaxing incremental game about growing your farm and chasing the next upgrade. Simple to start. Impossible to stop.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569670/36e68e9b1f28584d09f564c0de7ef40239b1c35d/header.jpg?t=1776465829" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569670/36e68e9b1f28584d09f564c0de7ef40239b1c35d/header.jpg?t=1776465829" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569670/36e68e9b1f28584d09f564c0de7ef40239b1c35d/header.jpg?t=1776465829" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4569670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569670/36e68e9b1f28584d09f564c0de7ef40239b1c35d/header.jpg?t=1776465829" alt="Keep Watering（新規追加）" /></a></p><p>Water. Harvest. Upgrade. Repeat. A relaxing incremental game about growing your farm and chasing the next upgrade. Simple to start. Impossible to stop.</p><p><a href="https://store.steampowered.com/app/4569670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Strike Again VR（新規追加）</title>
   <link>https://store.steampowered.com/app/4574390/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587550/283303e17effbd0ac29dd40de59f95bbd1a58c30/header.jpg?t=1776304391" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587550/283303e17effbd0ac29dd40de59f95bbd1a58c30/header.jpg?t=1776304391" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4587550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587550/283303e17effbd0ac29dd40de59f95bbd1a58c30/header.jpg?t=1776304391" alt="Iron Bird（新規追加）" /></a></p><p>Classic vertical scrolling bullet hell × roguelike. 10 distinct aircraft with unique weapon systems, 10 sub-units, and dozens of cosmic powers. Weave through enemy fire and craft the perfect god-run build.</p><p><a href="https://store.steampowered.com/app/4587550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Orbital Upgrade（新規追加）</title>
-  <link>https://store.steampowered.com/app/4316570/</link>
-  <guid isPermaLink="false">steam-store-published-4316570</guid>
-  <pubDate>Thu, 16 Apr 2026 03:48:51 +0000</pubDate>
-  <description>As the AI of a space station, you control programmable bots and solve automation puzzles. Plan precise processes, optimize your strategies, and watch your solutions execute autonomously.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316570/1d85312653231081f7a40448a586e834a072748e/header.jpg?t=1776308097" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316570/1d85312653231081f7a40448a586e834a072748e/header.jpg?t=1776308097" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316570/1d85312653231081f7a40448a586e834a072748e/header.jpg?t=1776308097" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4316570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4316570/1d85312653231081f7a40448a586e834a072748e/header.jpg?t=1776308097" alt="Orbital Upgrade（新規追加）" /></a></p><p>As the AI of a space station, you control programmable bots and solve automation puzzles. Plan precise processes, optimize your strategies, and watch your solutions execute autonomously.</p><p><a href="https://store.steampowered.com/app/4316570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
