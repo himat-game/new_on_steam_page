@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 18 Apr 2026 20:05:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 20:55:49 +0000</lastBuildDate>
+<item>
+  <title>Wanderfolk（新規追加）</title>
+  <link>https://store.steampowered.com/app/4599270/</link>
+  <guid isPermaLink="false">steam-store-published-4599270</guid>
+  <pubDate>Sat, 18 Apr 2026 20:55:49 +0000</pubDate>
+  <description>A farming RPG where villagers remember everything. Grow crops, forage, and explore a procedurally generated world, then talk to AI-powered NPCs who form real opinions about you. Build friendships, pursue romance, fight monsters (or stay peaceful), and become part of a living village community.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599270/8160be36f5a3071061e332afde88243e306fef04/header.jpg?t=1776544793" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599270/8160be36f5a3071061e332afde88243e306fef04/header.jpg?t=1776544793" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599270/8160be36f5a3071061e332afde88243e306fef04/header.jpg?t=1776544793" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4599270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599270/8160be36f5a3071061e332afde88243e306fef04/header.jpg?t=1776544793" alt="Wanderfolk（新規追加）" /></a></p><p>A farming RPG where villagers remember everything. Grow crops, forage, and explore a procedurally generated world, then talk to AI-powered NPCs who form real opinions about you. Build friendships, pursue romance, fight monsters (or stay peaceful), and become part of a living village community.</p><p><a href="https://store.steampowered.com/app/4599270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>BioRogue（新規追加）</title>
+  <link>https://store.steampowered.com/app/3719650/</link>
+  <guid isPermaLink="false">steam-store-published-3719650</guid>
+  <pubDate>Sat, 18 Apr 2026 20:55:49 +0000</pubDate>
+  <description>BioRogue is a 3D twin-stick roguelite bullet hell where you wield living cybernetic fish-weapons and craft powerful mutation builds. Blast through relentless combat, evolve your loadout with every run, and dismantle a regime built on genetic exploitation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3719650/c262c4429082dd437fc5c21045bc88081174a1bf/header.jpg?t=1776544626" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3719650/c262c4429082dd437fc5c21045bc88081174a1bf/header.jpg?t=1776544626" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3719650/c262c4429082dd437fc5c21045bc88081174a1bf/header.jpg?t=1776544626" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3719650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3719650/c262c4429082dd437fc5c21045bc88081174a1bf/header.jpg?t=1776544626" alt="BioRogue（新規追加）" /></a></p><p>BioRogue is a 3D twin-stick roguelite bullet hell where you wield living cybernetic fish-weapons and craft powerful mutation builds. Blast through relentless combat, evolve your loadout with every run, and dismantle a regime built on genetic exploitation.</p><p><a href="https://store.steampowered.com/app/3719650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Epic Idle Quest II（新規追加）</title>
   <link>https://store.steampowered.com/app/4628310/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613680/d23f3260b3c669d86522d895ce48a66a4eb3ee38/header.jpg?t=1776361485" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613680/d23f3260b3c669d86522d895ce48a66a4eb3ee38/header.jpg?t=1776361485" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4613680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613680/d23f3260b3c669d86522d895ce48a66a4eb3ee38/header.jpg?t=1776361485" alt="Retro Manager（新規追加）" /></a></p><p>A fast-paced retro football management game inspired by the 90s. Build your squad, tweak tactics, and watch matches unfold minute-by-minute.</p><p><a href="https://store.steampowered.com/app/4613680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>HZ Industry（新規追加）</title>
-  <link>https://store.steampowered.com/app/4618850/</link>
-  <guid isPermaLink="false">steam-store-published-4618850</guid>
-  <pubDate>Thu, 16 Apr 2026 18:39:49 +0000</pubDate>
-  <description>Your factory feeds the fight—above ground and below. Automate ruthless production lines, hold your colony through raids, then descend into The Abyss: real-time champion combat where gear and gems actually matter. Build. Automate. Dominate.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618850/920084a3351f139a1618f45ec2070b7fa96b7615/header.jpg?t=1776364372" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618850/920084a3351f139a1618f45ec2070b7fa96b7615/header.jpg?t=1776364372" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618850/920084a3351f139a1618f45ec2070b7fa96b7615/header.jpg?t=1776364372" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4618850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618850/920084a3351f139a1618f45ec2070b7fa96b7615/header.jpg?t=1776364372" alt="HZ Industry（新規追加）" /></a></p><p>Your factory feeds the fight—above ground and below. Automate ruthless production lines, hold your colony through raids, then descend into The Abyss: real-time champion combat where gear and gems actually matter. Build. Automate. Dominate.</p><p><a href="https://store.steampowered.com/app/4618850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hidden Rabbit 2（新規追加）</title>
-  <link>https://store.steampowered.com/app/4631430/</link>
-  <guid isPermaLink="false">steam-store-published-4631430</guid>
-  <pubDate>Thu, 16 Apr 2026 18:39:49 +0000</pubDate>
-  <description>Explore the captivating hand-drawn artwork in unique settings, and in a theme park filled with rabbits, attempt to locate all 100 adorable rabbits hidden throughout the game. Can you find them all?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631430/a2ff25c81a0b000d1b3d5f8b7c3c5c69d3e89a1b/header.jpg?t=1776362372" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631430/a2ff25c81a0b000d1b3d5f8b7c3c5c69d3e89a1b/header.jpg?t=1776362372" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631430/a2ff25c81a0b000d1b3d5f8b7c3c5c69d3e89a1b/header.jpg?t=1776362372" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4631430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631430/a2ff25c81a0b000d1b3d5f8b7c3c5c69d3e89a1b/header.jpg?t=1776362372" alt="Hidden Rabbit 2（新規追加）" /></a></p><p>Explore the captivating hand-drawn artwork in unique settings, and in a theme park filled with rabbits, attempt to locate all 100 adorable rabbits hidden throughout the game. Can you find them all?</p><p><a href="https://store.steampowered.com/app/4631430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
