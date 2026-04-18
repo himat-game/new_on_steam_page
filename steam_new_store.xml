@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 18 Apr 2026 22:02:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 22:56:55 +0000</lastBuildDate>
+<item>
+  <title>Robologs（新規追加）</title>
+  <link>https://store.steampowered.com/app/4504370/</link>
+  <guid isPermaLink="false">steam-store-published-4504370</guid>
+  <pubDate>Sat, 18 Apr 2026 22:56:55 +0000</pubDate>
+  <description>Robologs is an arcade shooter where you fight against out-of-control zombie robots. Fight against an endless army in abandoned areas! Choose your character and weapons, team up with your friends, and see how long you can survive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504370/478940b9c93a1caec9393444911c2d6e4420f078/header.jpg?t=1776551957" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504370/478940b9c93a1caec9393444911c2d6e4420f078/header.jpg?t=1776551957" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504370/478940b9c93a1caec9393444911c2d6e4420f078/header.jpg?t=1776551957" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4504370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504370/478940b9c93a1caec9393444911c2d6e4420f078/header.jpg?t=1776551957" alt="Robologs（新規追加）" /></a></p><p>Robologs is an arcade shooter where you fight against out-of-control zombie robots. Fight against an endless army in abandoned areas! Choose your character and weapons, team up with your friends, and see how long you can survive.</p><p><a href="https://store.steampowered.com/app/4504370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Vertigo Enigma（新規追加）</title>
   <link>https://store.steampowered.com/app/3339560/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744160/9c908cc3b37d4fe40b26ac8c814dde2f6b42830e/header.jpg?t=1776365478" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744160/9c908cc3b37d4fe40b26ac8c814dde2f6b42830e/header.jpg?t=1776365478" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2744160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744160/9c908cc3b37d4fe40b26ac8c814dde2f6b42830e/header.jpg?t=1776365478" alt="Construction Simulator: Evolution（新規追加）" /></a></p><p>Dig into the next exciting evolution of the Construction Simulator series and experience the biggest construction playground ever. Control numerous licensed machines, take on manual labor, and master both construction and demolition.</p><p><a href="https://store.steampowered.com/app/2744160/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Leafy Greenz（新規追加）</title>
-  <link>https://store.steampowered.com/app/4607520/</link>
-  <guid isPermaLink="false">steam-store-published-4607520</guid>
-  <pubDate>Thu, 16 Apr 2026 18:39:49 +0000</pubDate>
-  <description>Leafy Greenz is a game where you play as Leafy, who gets eaten by a Koala. You must make your way throughout the digestive tract of the Koala, playing through a series of minigames and attempting to achieve a high score.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607520/87a933beb020c5223ad9b0729523a114eb75d3ac/header.jpg?t=1776363291" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607520/87a933beb020c5223ad9b0729523a114eb75d3ac/header.jpg?t=1776363291" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607520/87a933beb020c5223ad9b0729523a114eb75d3ac/header.jpg?t=1776363291" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4607520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607520/87a933beb020c5223ad9b0729523a114eb75d3ac/header.jpg?t=1776363291" alt="Leafy Greenz（新規追加）" /></a></p><p>Leafy Greenz is a game where you play as Leafy, who gets eaten by a Koala. You must make your way throughout the digestive tract of the Koala, playing through a series of minigames and attempting to achieve a high score.</p><p><a href="https://store.steampowered.com/app/4607520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
