@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Apr 2026 07:20:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 08:14:58 +0000</lastBuildDate>
+<item>
+  <title>Coldblooded（新規追加）</title>
+  <link>https://store.steampowered.com/app/4632750/</link>
+  <guid isPermaLink="false">steam-store-published-4632750</guid>
+  <pubDate>Sun, 19 Apr 2026 08:14:58 +0000</pubDate>
+  <description>After crash landing in the midst of a catastrophic orbital battle, take on the role of a reptilian alien in this non-linear 2D puzzle adventure game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632750/e233d624bfe873988f9ec9e929493fb7ef5454b4/header.jpg?t=1776586048" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632750/e233d624bfe873988f9ec9e929493fb7ef5454b4/header.jpg?t=1776586048" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632750/e233d624bfe873988f9ec9e929493fb7ef5454b4/header.jpg?t=1776586048" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4632750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632750/e233d624bfe873988f9ec9e929493fb7ef5454b4/header.jpg?t=1776586048" alt="Coldblooded（新規追加）" /></a></p><p>After crash landing in the midst of a catastrophic orbital battle, take on the role of a reptilian alien in this non-linear 2D puzzle adventure game.</p><p><a href="https://store.steampowered.com/app/4632750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Monster Girls Escapade（新規追加）</title>
   <link>https://store.steampowered.com/app/4578100/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631120/23b47d5c5d5919c93cbe1f32923c30f8ac2ab724/header.jpg?t=1776372310" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631120/23b47d5c5d5919c93cbe1f32923c30f8ac2ab724/header.jpg?t=1776372310" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4631120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631120/23b47d5c5d5919c93cbe1f32923c30f8ac2ab724/header.jpg?t=1776372310" alt="Dead Hand（新規追加）" /></a></p><p>A brutal post-apocalyptic deckbuilder. Scavenge, survive, and fight through the dead world — every card is a resource, every run a last stand. How long can you hold on ?</p><p><a href="https://store.steampowered.com/app/4631120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Fieldwork（新規追加）</title>
-  <link>https://store.steampowered.com/app/4561760/</link>
-  <guid isPermaLink="false">steam-store-published-4561760</guid>
-  <pubDate>Thu, 16 Apr 2026 21:40:36 +0000</pubDate>
-  <description>Your editor sent you to explore an abandoned ship graveyard. Photograph the evidence, stay quiet and get out alive.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561760/0191a2b6ba2ca2a95b5332f23abf323b049f8ef2/header.jpg?t=1776373437" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561760/0191a2b6ba2ca2a95b5332f23abf323b049f8ef2/header.jpg?t=1776373437" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561760/0191a2b6ba2ca2a95b5332f23abf323b049f8ef2/header.jpg?t=1776373437" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4561760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561760/0191a2b6ba2ca2a95b5332f23abf323b049f8ef2/header.jpg?t=1776373437" alt="Fieldwork（新規追加）" /></a></p><p>Your editor sent you to explore an abandoned ship graveyard. Photograph the evidence, stay quiet and get out alive.</p><p><a href="https://store.steampowered.com/app/4561760/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
