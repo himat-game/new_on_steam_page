@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Apr 2026 11:02:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 11:51:51 +0000</lastBuildDate>
+<item>
+  <title>Picklemania: The Ultimate Showdown（新規追加）</title>
+  <link>https://store.steampowered.com/app/4632110/</link>
+  <guid isPermaLink="false">steam-store-published-4632110</guid>
+  <pubDate>Sun, 19 Apr 2026 11:51:51 +0000</pubDate>
+  <description>Arcade-style pickleball game focused on fast, skill-based rallies. Move, aim, and time shots to control ball trajectory and outplay the opponents. Pick up a paddle and head straight in an intensive match!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632110/80b216611c9366772c93e971a261134edafc1dd3/header.jpg?t=1776598245" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632110/80b216611c9366772c93e971a261134edafc1dd3/header.jpg?t=1776598245" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632110/80b216611c9366772c93e971a261134edafc1dd3/header.jpg?t=1776598245" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4632110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632110/80b216611c9366772c93e971a261134edafc1dd3/header.jpg?t=1776598245" alt="Picklemania: The Ultimate Showdown（新規追加）" /></a></p><p>Arcade-style pickleball game focused on fast, skill-based rallies. Move, aim, and time shots to control ball trajectory and outplay the opponents. Pick up a paddle and head straight in an intensive match!</p><p><a href="https://store.steampowered.com/app/4632110/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hearing Voices（新規追加）</title>
   <link>https://store.steampowered.com/app/4595880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580050/5303877d5df6f339da6c61a1eca4a4ed8bdca1cf/header.jpg?t=1776378786" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580050/5303877d5df6f339da6c61a1eca4a4ed8bdca1cf/header.jpg?t=1776378786" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4580050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580050/5303877d5df6f339da6c61a1eca4a4ed8bdca1cf/header.jpg?t=1776378786" alt="Sunrise Story（新規追加）" /></a></p><p>A cozy life sim where you return to your seaside hometown, run a charming homestay, and welcome travelers from around the world.</p><p><a href="https://store.steampowered.com/app/4580050/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Earth Forge（新規追加）</title>
-  <link>https://store.steampowered.com/app/4539110/</link>
-  <guid isPermaLink="false">steam-store-published-4539110</guid>
-  <pubDate>Thu, 16 Apr 2026 22:37:06 +0000</pubDate>
-  <description>COLLECT, UPGRADE, UNLOCK AND NAVIGATE Single player adventure gameplay involves mining for materials, finding and collecting enough minerals in a randomly generated world to unlock upgrades. The upgraded player can then navigate through mines and dungeons avoiding bats to reach treasure chests.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1776378557" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1776378557" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1776378557" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4539110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1776378557" alt="Earth Forge（新規追加）" /></a></p><p>COLLECT, UPGRADE, UNLOCK AND NAVIGATE Single player adventure gameplay involves mining for materials, finding and collecting enough minerals in a randomly generated world to unlock upgrades. The upgraded player can then navigate through mines and dungeons avoiding bats to reach treasure chests.</p><p><a href="https://store.steampowered.com/app/4539110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
