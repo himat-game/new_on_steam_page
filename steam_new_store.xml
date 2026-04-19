@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Apr 2026 20:56:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 21:36:24 +0000</lastBuildDate>
+<item>
+  <title>Zombies Attack My Burger Joint（新規追加）</title>
+  <link>https://store.steampowered.com/app/4606860/</link>
+  <guid isPermaLink="false">steam-store-published-4606860</guid>
+  <pubDate>Sun, 19 Apr 2026 21:36:24 +0000</pubDate>
+  <description>Defend your burger joint against hordes of the undead! In Zombies Attack My Burger Joint, you assemble tactical burgers for ammo and fire french-fry machine guns. Aim for the head, manage your ingredients, customize your kitchen, build defenses, and save the world!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606860/8bc55235ec461a8bcc7e5382287c7f9c221d1d5f/header.jpg?t=1776632588" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606860/8bc55235ec461a8bcc7e5382287c7f9c221d1d5f/header.jpg?t=1776632588" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606860/8bc55235ec461a8bcc7e5382287c7f9c221d1d5f/header.jpg?t=1776632588" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4606860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606860/8bc55235ec461a8bcc7e5382287c7f9c221d1d5f/header.jpg?t=1776632588" alt="Zombies Attack My Burger Joint（新規追加）" /></a></p><p>Defend your burger joint against hordes of the undead! In Zombies Attack My Burger Joint, you assemble tactical burgers for ammo and fire french-fry machine guns. Aim for the head, manage your ingredients, customize your kitchen, build defenses, and save the world!</p><p><a href="https://store.steampowered.com/app/4606860/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Love Like Broken Glass（新規追加）</title>
   <link>https://store.steampowered.com/app/4624020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610870/d4b31ca163d6996765610e46609d08c9c1303680/header.jpg?t=1776396516" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610870/d4b31ca163d6996765610e46609d08c9c1303680/header.jpg?t=1776396516" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4610870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610870/d4b31ca163d6996765610e46609d08c9c1303680/header.jpg?t=1776396516" alt="NightFang（新規追加）" /></a></p><p>NightFang wears it&#x27;s inspirations on it&#x27;s sleeve.  It&#x27;s an 80s/90s Anime/VHS inspired Shmup, rendered in delicious  3D that hypnotizes you into thinking it&#x27;s 2D. Youth is a falling star. Rise up against the Crimson Scourge.</p><p><a href="https://store.steampowered.com/app/4610870/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Spooker（新規追加）</title>
-  <link>https://store.steampowered.com/app/4571310/</link>
-  <guid isPermaLink="false">steam-store-published-4571310</guid>
-  <pubDate>Fri, 17 Apr 2026 04:23:27 +0000</pubDate>
-  <description>A roguelite pool-like game where you play for your freedom against your host and lightly cursed ventriloquist dummy, Ralphie. Steady your shots, build your combos and rack up enough points to make your escape. Good luck!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4571310/cf026662d46fb1f2d427caf53a63cc5157b9048c/header.jpg?t=1776389501" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4571310/cf026662d46fb1f2d427caf53a63cc5157b9048c/header.jpg?t=1776389501" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4571310/cf026662d46fb1f2d427caf53a63cc5157b9048c/header.jpg?t=1776389501" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4571310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4571310/cf026662d46fb1f2d427caf53a63cc5157b9048c/header.jpg?t=1776389501" alt="Spooker（新規追加）" /></a></p><p>A roguelite pool-like game where you play for your freedom against your host and lightly cursed ventriloquist dummy, Ralphie. Steady your shots, build your combos and rack up enough points to make your escape. Good luck!</p><p><a href="https://store.steampowered.com/app/4571310/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
