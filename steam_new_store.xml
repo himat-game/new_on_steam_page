@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Apr 2026 19:39:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 20:05:39 +0000</lastBuildDate>
+<item>
+  <title>Temperhall 1402（新規追加）</title>
+  <link>https://store.steampowered.com/app/4613720/</link>
+  <guid isPermaLink="false">steam-store-published-4613720</guid>
+  <pubDate>Sun, 19 Apr 2026 20:05:39 +0000</pubDate>
+  <description>A medieval blacksmith guild management sim. Grow your workshop, forge items from horseshoes to swords, fulfill orders, and build reputation. Manage resources, track ore supplies, and train blacksmiths in new techniques.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613720/9956ab3b31aa61b7b2d0c295322373e0c10d7dbf/header.jpg?t=1776627491" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613720/9956ab3b31aa61b7b2d0c295322373e0c10d7dbf/header.jpg?t=1776627491" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613720/9956ab3b31aa61b7b2d0c295322373e0c10d7dbf/header.jpg?t=1776627491" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4613720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613720/9956ab3b31aa61b7b2d0c295322373e0c10d7dbf/header.jpg?t=1776627491" alt="Temperhall 1402（新規追加）" /></a></p><p>A medieval blacksmith guild management sim. Grow your workshop, forge items from horseshoes to swords, fulfill orders, and build reputation. Manage resources, track ore supplies, and train blacksmiths in new techniques.</p><p><a href="https://store.steampowered.com/app/4613720/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Allelon（新規追加）</title>
   <link>https://store.steampowered.com/app/4609830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395520/89d17901063dec9d2b7286185babff60fc8a6072/header.jpg?t=1776395550" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395520/89d17901063dec9d2b7286185babff60fc8a6072/header.jpg?t=1776395550" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4395520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395520/89d17901063dec9d2b7286185babff60fc8a6072/header.jpg?t=1776395550" alt="A Game About Nothing（新規追加）" /></a></p><p>A Game about Nothing is an experience through the eyes of a college student struggling to make it through their day while avoiding the unpleasant experiences that often interrupt it.</p><p><a href="https://store.steampowered.com/app/4395520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Godborne: Ashes of Ramessu（新規追加）</title>
-  <link>https://store.steampowered.com/app/4175000/</link>
-  <guid isPermaLink="false">steam-store-published-4175000</guid>
-  <pubDate>Fri, 17 Apr 2026 04:23:27 +0000</pubDate>
-  <description>A co‑op first‑person tower defense platformer game where you build towers and traps to fight off waves of enemies, all to buy you time to solve the puzzles of the ancient ruins around you.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175000/39298de2bcb5865005916eaa6ead788559ce969a/header.jpg?t=1776395719" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175000/39298de2bcb5865005916eaa6ead788559ce969a/header.jpg?t=1776395719" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175000/39298de2bcb5865005916eaa6ead788559ce969a/header.jpg?t=1776395719" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4175000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175000/39298de2bcb5865005916eaa6ead788559ce969a/header.jpg?t=1776395719" alt="Godborne: Ashes of Ramessu（新規追加）" /></a></p><p>A co‑op first‑person tower defense platformer game where you build towers and traps to fight off waves of enemies, all to buy you time to solve the puzzles of the ancient ruins around you.</p><p><a href="https://store.steampowered.com/app/4175000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
