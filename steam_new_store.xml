@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Apr 2026 10:03:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 11:02:20 +0000</lastBuildDate>
+<item>
+  <title>Hearing Voices（新規追加）</title>
+  <link>https://store.steampowered.com/app/4595880/</link>
+  <guid isPermaLink="false">steam-store-published-4595880</guid>
+  <pubDate>Sun, 19 Apr 2026 11:02:20 +0000</pubDate>
+  <description>Hearing Voices is a unique indie short horror experience where you will need to put your listening and deduction skills to the test to solve puzzles. Mistakes have consequences.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595880/27ba3c4e158efd0e480d516cb6e3f5346e0fdc7e/header.jpg?t=1776594540" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595880/27ba3c4e158efd0e480d516cb6e3f5346e0fdc7e/header.jpg?t=1776594540" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595880/27ba3c4e158efd0e480d516cb6e3f5346e0fdc7e/header.jpg?t=1776594540" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4595880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595880/27ba3c4e158efd0e480d516cb6e3f5346e0fdc7e/header.jpg?t=1776594540" alt="Hearing Voices（新規追加）" /></a></p><p>Hearing Voices is a unique indie short horror experience where you will need to put your listening and deduction skills to the test to solve puzzles. Mistakes have consequences.</p><p><a href="https://store.steampowered.com/app/4595880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Afternoon Frontline（新規追加）</title>
   <link>https://store.steampowered.com/app/4366380/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1776378557" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1776378557" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4539110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1776378557" alt="Earth Forge（新規追加）" /></a></p><p>COLLECT, UPGRADE, UNLOCK AND NAVIGATE Single player adventure gameplay involves mining for materials, finding and collecting enough minerals in a randomly generated world to unlock upgrades. The upgraded player can then navigate through mines and dungeons avoiding bats to reach treasure chests.</p><p><a href="https://store.steampowered.com/app/4539110/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Haven and Hell（新規追加）</title>
-  <link>https://store.steampowered.com/app/4151710/</link>
-  <guid isPermaLink="false">steam-store-published-4151710</guid>
-  <pubDate>Thu, 16 Apr 2026 21:40:36 +0000</pubDate>
-  <description>“Draw your fate, mortal…” A deck-driven bullet-haven roguelite where every card reshapes your soul. Shift between Haven’s calm and Hell’s chaos, survive endless waves, and let the Crypt Keeper judge your worth.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151710/012c69b928ea047b13f2d77500a995ea4f65aa91/header.jpg?t=1776375239" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151710/012c69b928ea047b13f2d77500a995ea4f65aa91/header.jpg?t=1776375239" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151710/012c69b928ea047b13f2d77500a995ea4f65aa91/header.jpg?t=1776375239" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4151710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151710/012c69b928ea047b13f2d77500a995ea4f65aa91/header.jpg?t=1776375239" alt="Haven and Hell（新規追加）" /></a></p><p>“Draw your fate, mortal…” A deck-driven bullet-haven roguelite where every card reshapes your soul. Shift between Haven’s calm and Hell’s chaos, survive endless waves, and let the Crypt Keeper judge your worth.</p><p><a href="https://store.steampowered.com/app/4151710/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
