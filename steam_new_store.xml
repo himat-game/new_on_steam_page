@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 18 Apr 2026 22:56:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 00:03:48 +0000</lastBuildDate>
+<item>
+  <title>Monster Masher（新規追加）</title>
+  <link>https://store.steampowered.com/app/4621700/</link>
+  <guid isPermaLink="false">steam-store-published-4621700</guid>
+  <pubDate>Sun, 19 Apr 2026 00:03:48 +0000</pubDate>
+  <description>Drop monsters. Merge monsters. Pray the pit doesn&#x27;t overflow. Monster Masher is a cozy-yet-chaotic puzzle game where matching creatures fuse into bigger beasts. Build combos, fight bosses, and pretend you&#x27;re not addicted. You are though. Fr fr.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621700/27e8d99f3d791dc731153a5973e57d3fce99c893/header.jpg?t=1776555563" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621700/27e8d99f3d791dc731153a5973e57d3fce99c893/header.jpg?t=1776555563" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621700/27e8d99f3d791dc731153a5973e57d3fce99c893/header.jpg?t=1776555563" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4621700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621700/27e8d99f3d791dc731153a5973e57d3fce99c893/header.jpg?t=1776555563" alt="Monster Masher（新規追加）" /></a></p><p>Drop monsters. Merge monsters. Pray the pit doesn&#x27;t overflow. Monster Masher is a cozy-yet-chaotic puzzle game where matching creatures fuse into bigger beasts. Build combos, fight bosses, and pretend you&#x27;re not addicted. You are though. Fr fr.</p><p><a href="https://store.steampowered.com/app/4621700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Robologs（新規追加）</title>
   <link>https://store.steampowered.com/app/4504370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471750/2be0cb250125ee594eb0cb2d4bd178ed19c3b5db/header.jpg?t=1776365254" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471750/2be0cb250125ee594eb0cb2d4bd178ed19c3b5db/header.jpg?t=1776365254" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3471750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471750/2be0cb250125ee594eb0cb2d4bd178ed19c3b5db/header.jpg?t=1776365254" alt="Kitaria Fables 2（新規追加）" /></a></p><p>Team up with new heroes Alice and Dusty as they embark on an epic adventure across the mysterious Arkadera Peninsula. Develop unique combat skills, gather precious materials, forge powerful items, and tend to your growing farm, either alone or with a friend!</p><p><a href="https://store.steampowered.com/app/3471750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Construction Simulator: Evolution（新規追加）</title>
-  <link>https://store.steampowered.com/app/2744160/</link>
-  <guid isPermaLink="false">steam-store-published-2744160</guid>
-  <pubDate>Thu, 16 Apr 2026 19:48:31 +0000</pubDate>
-  <description>Dig into the next exciting evolution of the Construction Simulator series and experience the biggest construction playground ever. Control numerous licensed machines, take on manual labor, and master both construction and demolition.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744160/9c908cc3b37d4fe40b26ac8c814dde2f6b42830e/header.jpg?t=1776365478" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744160/9c908cc3b37d4fe40b26ac8c814dde2f6b42830e/header.jpg?t=1776365478" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744160/9c908cc3b37d4fe40b26ac8c814dde2f6b42830e/header.jpg?t=1776365478" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2744160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744160/9c908cc3b37d4fe40b26ac8c814dde2f6b42830e/header.jpg?t=1776365478" alt="Construction Simulator: Evolution（新規追加）" /></a></p><p>Dig into the next exciting evolution of the Construction Simulator series and experience the biggest construction playground ever. Control numerous licensed machines, take on manual labor, and master both construction and demolition.</p><p><a href="https://store.steampowered.com/app/2744160/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
