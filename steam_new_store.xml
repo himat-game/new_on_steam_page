@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Apr 2026 16:06:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 17:42:22 +0000</lastBuildDate>
+<item>
+  <title>By the King&#x27;s Command（新規追加）</title>
+  <link>https://store.steampowered.com/app/4559340/</link>
+  <guid isPermaLink="false">steam-store-published-4559340</guid>
+  <pubDate>Sun, 19 Apr 2026 17:42:22 +0000</pubDate>
+  <description>Build up your little kingdom, strategically placing buildings to generate gold in defensible locations, then defend against invaders in brutal real-time tactics.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559340/f9293af999e9c70f9bcc3d512a8d1d7c3ade9071/header.jpg?t=1776620417" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559340/f9293af999e9c70f9bcc3d512a8d1d7c3ade9071/header.jpg?t=1776620417" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559340/f9293af999e9c70f9bcc3d512a8d1d7c3ade9071/header.jpg?t=1776620417" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4559340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559340/f9293af999e9c70f9bcc3d512a8d1d7c3ade9071/header.jpg?t=1776620417" alt="By the King&#x27;s Command（新規追加）" /></a></p><p>Build up your little kingdom, strategically placing buildings to generate gold in defensible locations, then defend against invaders in brutal real-time tactics.</p><p><a href="https://store.steampowered.com/app/4559340/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Punchslingers（新規追加）</title>
   <link>https://store.steampowered.com/app/4550960/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055170/a892b321f5bb9997b7c645832ab98261f634f12f/header.jpg?t=1776384695" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055170/a892b321f5bb9997b7c645832ab98261f634f12f/header.jpg?t=1776384695" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4055170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055170/a892b321f5bb9997b7c645832ab98261f634f12f/header.jpg?t=1776384695" alt="Cherry on Top（新規追加）" /></a></p><p>Chain abilities, get rich, and bake an unbreakable defense in endless roguelike chaos!</p><p><a href="https://store.steampowered.com/app/4055170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>History Founder（新規追加）</title>
-  <link>https://store.steampowered.com/app/4598620/</link>
-  <guid isPermaLink="false">steam-store-published-4598620</guid>
-  <pubDate>Fri, 17 Apr 2026 01:07:45 +0000</pubDate>
-  <description>From the heroes of the Three Kingdoms to modern geopolitics—a seamless simulation of 1,800 years of history.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598620/6a3ea243692eac74f3e7c1074273b484609ca48e/header.jpg?t=1776387105" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598620/6a3ea243692eac74f3e7c1074273b484609ca48e/header.jpg?t=1776387105" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598620/6a3ea243692eac74f3e7c1074273b484609ca48e/header.jpg?t=1776387105" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4598620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4598620/6a3ea243692eac74f3e7c1074273b484609ca48e/header.jpg?t=1776387105" alt="History Founder（新規追加）" /></a></p><p>From the heroes of the Three Kingdoms to modern geopolitics—a seamless simulation of 1,800 years of history.</p><p><a href="https://store.steampowered.com/app/4598620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
