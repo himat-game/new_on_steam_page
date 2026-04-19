@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Apr 2026 21:36:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 22:56:58 +0000</lastBuildDate>
+<item>
+  <title>Gin and Wall（新規追加）</title>
+  <link>https://store.steampowered.com/app/4608160/</link>
+  <guid isPermaLink="false">steam-store-published-4608160</guid>
+  <pubDate>Sun, 19 Apr 2026 22:56:58 +0000</pubDate>
+  <description>“Gin and Wall” is a 2D action game where you dodge a variety of walls. The controls are simple: just move and jump. Strange-looking walls appear on the stage, trying to stop you from clearing the level. Jump over the walls or move under them to reach the finish line.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608160/b1899e1982a50d1039178900cacbd4023519e43c/header.jpg?t=1776637084" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608160/b1899e1982a50d1039178900cacbd4023519e43c/header.jpg?t=1776637084" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608160/b1899e1982a50d1039178900cacbd4023519e43c/header.jpg?t=1776637084" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4608160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608160/b1899e1982a50d1039178900cacbd4023519e43c/header.jpg?t=1776637084" alt="Gin and Wall（新規追加）" /></a></p><p>“Gin and Wall” is a 2D action game where you dodge a variety of walls. The controls are simple: just move and jump. Strange-looking walls appear on the stage, trying to stop you from clearing the level. Jump over the walls or move under them to reach the finish line.</p><p><a href="https://store.steampowered.com/app/4608160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Zombies Attack My Burger Joint（新規追加）</title>
   <link>https://store.steampowered.com/app/4606860/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419770/cb59582d1713e85aa413bb6c702af9a6ad44c6fa/header.jpg?t=1776388440" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419770/cb59582d1713e85aa413bb6c702af9a6ad44c6fa/header.jpg?t=1776388440" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4419770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419770/cb59582d1713e85aa413bb6c702af9a6ad44c6fa/header.jpg?t=1776388440" alt="Space Tenacity（新規追加）" /></a></p><p>Chuck space aliens into each other! Dodge giant asteroids! Engage your tractor beam, force field and phase shifting technology to navigate the unknown in this 2D side scrolling physics based space adventure. </p><p><a href="https://store.steampowered.com/app/4419770/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>NightFang（新規追加）</title>
-  <link>https://store.steampowered.com/app/4610870/</link>
-  <guid isPermaLink="false">steam-store-published-4610870</guid>
-  <pubDate>Fri, 17 Apr 2026 04:23:27 +0000</pubDate>
-  <description>NightFang wears it&#x27;s inspirations on it&#x27;s sleeve.  It&#x27;s an 80s/90s Anime/VHS inspired Shmup, rendered in delicious  3D that hypnotizes you into thinking it&#x27;s 2D. Youth is a falling star. Rise up against the Crimson Scourge.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610870/d4b31ca163d6996765610e46609d08c9c1303680/header.jpg?t=1776396516" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610870/d4b31ca163d6996765610e46609d08c9c1303680/header.jpg?t=1776396516" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610870/d4b31ca163d6996765610e46609d08c9c1303680/header.jpg?t=1776396516" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4610870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610870/d4b31ca163d6996765610e46609d08c9c1303680/header.jpg?t=1776396516" alt="NightFang（新規追加）" /></a></p><p>NightFang wears it&#x27;s inspirations on it&#x27;s sleeve.  It&#x27;s an 80s/90s Anime/VHS inspired Shmup, rendered in delicious  3D that hypnotizes you into thinking it&#x27;s 2D. Youth is a falling star. Rise up against the Crimson Scourge.</p><p><a href="https://store.steampowered.com/app/4610870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
