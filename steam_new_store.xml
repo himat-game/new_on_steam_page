@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 25 Apr 2026 15:57:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 17:35:13 +0000</lastBuildDate>
+<item>
+  <title>Crunch Bunch（新規追加）</title>
+  <link>https://store.steampowered.com/app/4430530/</link>
+  <guid isPermaLink="false">steam-store-published-4430530</guid>
+  <pubDate>Sat, 25 Apr 2026 17:35:13 +0000</pubDate>
+  <description>A short incremental stealth game where you eat through piles of food, rescue trapped animals, manage your fullness, and grow stronger through a skill tree while escaping a witch’s minions.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430530/61271c65f7c07320fc61901370d0edd6caf949ff/header.jpg?t=1777136073" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430530/61271c65f7c07320fc61901370d0edd6caf949ff/header.jpg?t=1777136073" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430530/61271c65f7c07320fc61901370d0edd6caf949ff/header.jpg?t=1777136073" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4430530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430530/61271c65f7c07320fc61901370d0edd6caf949ff/header.jpg?t=1777136073" alt="Crunch Bunch（新規追加）" /></a></p><p>A short incremental stealth game where you eat through piles of food, rescue trapped animals, manage your fullness, and grow stronger through a skill tree while escaping a witch’s minions.</p><p><a href="https://store.steampowered.com/app/4430530/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Arcane Souls（新規追加）</title>
   <link>https://store.steampowered.com/app/4121520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657370/e0b449d34b386d806a67a6eef6dfaad3062400c4/header.jpg?t=1776984578" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657370/e0b449d34b386d806a67a6eef6dfaad3062400c4/header.jpg?t=1776984578" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4657370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657370/e0b449d34b386d806a67a6eef6dfaad3062400c4/header.jpg?t=1776984578" alt="Hotel Manager: Together（新規追加）" /></a></p><p>Build your own hotel empire from scratch! Welcome guests, prepare rooms, hire staff, and transform a small motel into a five-star luxury resort. Can you keep your guests happy and reach the top in this fast-paced time management game ?</p><p><a href="https://store.steampowered.com/app/4657370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Shroom Dealer（新規追加）</title>
-  <link>https://store.steampowered.com/app/3546870/</link>
-  <guid isPermaLink="false">steam-store-published-3546870</guid>
-  <pubDate>Thu, 23 Apr 2026 23:08:49 +0000</pubDate>
-  <description>Set off on a deck-building adventure where you trade, plant, and harvest shrooms. Each journey you will adapt to a dynamic ecosystem of creatures, traps, treasures, and more. Challenge your intuition to cultivate synergies, escape pitfalls, and uncover the well of hidden secrets that awaits.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546870/a8e2b36b3aace46951b9a2a0db98a70987ed1ac0/header.jpg?t=1776983037" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546870/a8e2b36b3aace46951b9a2a0db98a70987ed1ac0/header.jpg?t=1776983037" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546870/a8e2b36b3aace46951b9a2a0db98a70987ed1ac0/header.jpg?t=1776983037" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3546870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546870/a8e2b36b3aace46951b9a2a0db98a70987ed1ac0/header.jpg?t=1776983037" alt="Shroom Dealer（新規追加）" /></a></p><p>Set off on a deck-building adventure where you trade, plant, and harvest shrooms. Each journey you will adapt to a dynamic ecosystem of creatures, traps, treasures, and more. Challenge your intuition to cultivate synergies, escape pitfalls, and uncover the well of hidden secrets that awaits.</p><p><a href="https://store.steampowered.com/app/3546870/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
