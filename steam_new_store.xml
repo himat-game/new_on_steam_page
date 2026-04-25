@@ -5,7 +5,40 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 25 Apr 2026 10:08:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 11:06:29 +0000</lastBuildDate>
+<item>
+  <title>Cyber UF2（新規追加）</title>
+  <link>https://store.steampowered.com/app/3770150/</link>
+  <guid isPermaLink="false">steam-store-published-3770150</guid>
+  <pubDate>Sat, 25 Apr 2026 11:06:29 +0000</pubDate>
+  <description>Cyber UF2 is a classic Flash FPS developed in 2003 by Taiwanese creator 3DBBQ (Net Terminator Hyper Game Studio). As a spin-off of the Hostility UF series, it serves as a high-intensity practice range set in a futuristic battlefield.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770150/0a6a6aa58d7cbd746af4f53846cdc89b12f43593/header.jpg?t=1777112850" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770150/0a6a6aa58d7cbd746af4f53846cdc89b12f43593/header.jpg?t=1777112850" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770150/0a6a6aa58d7cbd746af4f53846cdc89b12f43593/header.jpg?t=1777112850" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3770150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3770150/0a6a6aa58d7cbd746af4f53846cdc89b12f43593/header.jpg?t=1777112850" alt="Cyber UF2（新規追加）" /></a></p><p>Cyber UF2 is a classic Flash FPS developed in 2003 by Taiwanese creator 3DBBQ (Net Terminator Hyper Game Studio). As a spin-off of the Hostility UF series, it serves as a high-intensity practice range set in a futuristic battlefield.</p><p><a href="https://store.steampowered.com/app/3770150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>CYBER SCOUTS（新規追加）</title>
+  <link>https://store.steampowered.com/app/4623870/</link>
+  <guid isPermaLink="false">steam-store-published-4623870</guid>
+  <pubDate>Sat, 25 Apr 2026 11:06:29 +0000</pubDate>
+  <description>Cyber Scouts is a multiplayer space sandbox with block-level ship destruction. Build modular ships block by block, write Lua scripts to automate your fleet, and engage in tactical combat against players and AI. Your engineering skills are the ultimate weapon for galactic survival!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623870/6ca6109162133b54994e8012a65e32661b273fff/header.jpg?t=1777114721" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623870/6ca6109162133b54994e8012a65e32661b273fff/header.jpg?t=1777114721" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623870/6ca6109162133b54994e8012a65e32661b273fff/header.jpg?t=1777114721" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4623870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623870/6ca6109162133b54994e8012a65e32661b273fff/header.jpg?t=1777114721" alt="CYBER SCOUTS（新規追加）" /></a></p><p>Cyber Scouts is a multiplayer space sandbox with block-level ship destruction. Build modular ships block by block, write Lua scripts to automate your fleet, and engage in tactical combat against players and AI. Your engineering skills are the ultimate weapon for galactic survival!</p><p><a href="https://store.steampowered.com/app/4623870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>The Quiet Order（新規追加）</title>
+  <link>https://store.steampowered.com/app/4480270/</link>
+  <guid isPermaLink="false">steam-store-published-4480270</guid>
+  <pubDate>Sat, 25 Apr 2026 11:06:29 +0000</pubDate>
+  <description>Simple rules. Deep logic. A minimalist puzzle game with puzzles for every skill level and new challenges every day. Escape, focus, and find your flow.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480270/831532b3095f13aca4b27b36debe1b7d86050c88/header.jpg?t=1777114154" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480270/831532b3095f13aca4b27b36debe1b7d86050c88/header.jpg?t=1777114154" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480270/831532b3095f13aca4b27b36debe1b7d86050c88/header.jpg?t=1777114154" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4480270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480270/831532b3095f13aca4b27b36debe1b7d86050c88/header.jpg?t=1777114154" alt="The Quiet Order（新規追加）" /></a></p><p>Simple rules. Deep logic. A minimalist puzzle game with puzzles for every skill level and new challenges every day. Escape, focus, and find your flow.</p><p><a href="https://store.steampowered.com/app/4480270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chess 2（新規追加）</title>
   <link>https://store.steampowered.com/app/4662350/</link>
@@ -3272,39 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641880/4213a7db59e03ee422e43520544509dfc0567486/header.jpg?t=1776973906" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641880/4213a7db59e03ee422e43520544509dfc0567486/header.jpg?t=1776973906" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4641880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641880/4213a7db59e03ee422e43520544509dfc0567486/header.jpg?t=1776973906" alt="Silent Wreckage｜寂靜沉輪（新規追加）" /></a></p><p>Dive into a sunken ocean liner lost in the deep sea. In this narrative-driven 3D survival horror puzzle game, explore a claustrophobic environment while managing limited air resources, solving puzzles, evading unknown horrors, and uncovering the truth behind a distortion of time and space.</p><p><a href="https://store.steampowered.com/app/4641880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Taktari（新規追加）</title>
-  <link>https://store.steampowered.com/app/4642310/</link>
-  <guid isPermaLink="false">steam-store-published-4642310</guid>
-  <pubDate>Thu, 23 Apr 2026 20:13:52 +0000</pubDate>
-  <description>Taktari is a turn-based auto-battle game where both player and enemies queue up their actions prior to battle. Press play and let the actions play out in this African Inspired Fantasy deck building game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642310/c5db6c3371b0d85414b82b370a7be2060c6777ed/header.jpg?t=1776971868" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642310/c5db6c3371b0d85414b82b370a7be2060c6777ed/header.jpg?t=1776971868" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642310/c5db6c3371b0d85414b82b370a7be2060c6777ed/header.jpg?t=1776971868" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4642310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642310/c5db6c3371b0d85414b82b370a7be2060c6777ed/header.jpg?t=1776971868" alt="Taktari（新規追加）" /></a></p><p>Taktari is a turn-based auto-battle game where both player and enemies queue up their actions prior to battle. Press play and let the actions play out in this African Inspired Fantasy deck building game.</p><p><a href="https://store.steampowered.com/app/4642310/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hap Hazard（新規追加）</title>
-  <link>https://store.steampowered.com/app/4593880/</link>
-  <guid isPermaLink="false">steam-store-published-4593880</guid>
-  <pubDate>Thu, 23 Apr 2026 20:13:52 +0000</pubDate>
-  <description>In this &amp;quot;Arcade Metroidbrainia&amp;quot;, the only thing that stops you from progressing are holes in your understanding. Use mechanics in clever unique ways to uncover secrets, or dodge randomly generated hazards to get highscores.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593880/59de8b9700df3f429fc386345c04eedd1a56d413/header.jpg?t=1776974576" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593880/59de8b9700df3f429fc386345c04eedd1a56d413/header.jpg?t=1776974576" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593880/59de8b9700df3f429fc386345c04eedd1a56d413/header.jpg?t=1776974576" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4593880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593880/59de8b9700df3f429fc386345c04eedd1a56d413/header.jpg?t=1776974576" alt="Hap Hazard（新規追加）" /></a></p><p>In this &amp;quot;Arcade Metroidbrainia&amp;quot;, the only thing that stops you from progressing are holes in your understanding. Use mechanics in clever unique ways to uncover secrets, or dodge randomly generated hazards to get highscores.</p><p><a href="https://store.steampowered.com/app/4593880/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ONLYFAPPER FEMBOYS（新規追加）</title>
-  <link>https://store.steampowered.com/app/4631800/</link>
-  <guid isPermaLink="false">steam-store-published-4631800</guid>
-  <pubDate>Thu, 23 Apr 2026 20:13:52 +0000</pubDate>
-  <description>Four broke roommates, one month to pay rent, and a single camera. Can you turn your household into the internet&#x27;s next viral sensation? ONLYFAPPER FEMBOYS is a character-driven visual novel about survival, romance, and the spicy world of adult content creation.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631800/f14967ced47488bee2ab530f14ce492829bc9c60/header.jpg?t=1776972394" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631800/f14967ced47488bee2ab530f14ce492829bc9c60/header.jpg?t=1776972394" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631800/f14967ced47488bee2ab530f14ce492829bc9c60/header.jpg?t=1776972394" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4631800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631800/f14967ced47488bee2ab530f14ce492829bc9c60/header.jpg?t=1776972394" alt="ONLYFAPPER FEMBOYS（新規追加）" /></a></p><p>Four broke roommates, one month to pay rent, and a single camera. Can you turn your household into the internet&#x27;s next viral sensation? ONLYFAPPER FEMBOYS is a character-driven visual novel about survival, romance, and the spicy world of adult content creation.</p><p><a href="https://store.steampowered.com/app/4631800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
