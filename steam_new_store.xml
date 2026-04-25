@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 25 Apr 2026 21:55:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 23:20:33 +0000</lastBuildDate>
+<item>
+  <title>Mexican Train（新規追加）</title>
+  <link>https://store.steampowered.com/app/4513000/</link>
+  <guid isPermaLink="false">steam-store-published-4513000</guid>
+  <pubDate>Sat, 25 Apr 2026 23:20:33 +0000</pubDate>
+  <description>Mexican Train brings the classic game of Mexican Train Dominoes to 3D, supporting up to 7 players per online multiplayer session, or play solo and compete against up to 6 CPU players.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513000/d370cef3a08ce79488cf3195f860abb969567b4d/header.jpg?t=1777158214" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513000/d370cef3a08ce79488cf3195f860abb969567b4d/header.jpg?t=1777158214" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513000/d370cef3a08ce79488cf3195f860abb969567b4d/header.jpg?t=1777158214" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4513000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513000/d370cef3a08ce79488cf3195f860abb969567b4d/header.jpg?t=1777158214" alt="Mexican Train（新規追加）" /></a></p><p>Mexican Train brings the classic game of Mexican Train Dominoes to 3D, supporting up to 7 players per online multiplayer session, or play solo and compete against up to 6 CPU players.</p><p><a href="https://store.steampowered.com/app/4513000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Vesuvius（新規追加）</title>
   <link>https://store.steampowered.com/app/4557830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567580/da24f95a26e9a129ec261c08ec07cd346700df7a/header.jpg?t=1777000666" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567580/da24f95a26e9a129ec261c08ec07cd346700df7a/header.jpg?t=1777000666" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4567580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567580/da24f95a26e9a129ec261c08ec07cd346700df7a/header.jpg?t=1777000666" alt="Locostation（新規追加）" /></a></p><p>Locostation is an incremental game. Drive a train, deliver cargo, fight off thieves and upgrade.</p><p><a href="https://store.steampowered.com/app/4567580/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cornerfall（新規追加）</title>
-  <link>https://store.steampowered.com/app/4613530/</link>
-  <guid isPermaLink="false">steam-store-published-4613530</guid>
-  <pubDate>Fri, 24 Apr 2026 03:53:20 +0000</pubDate>
-  <description>A text-based idle RPG that lives in the corner of your desktop. Build your character, send them into cursed lands, and check back to find new loot, defeated bosses, and higher tiers unlocked. All without lifting a finger.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613530/abd7f40e833593db7c8aac638a5551de21999a47/header.jpg?t=1776995545" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613530/abd7f40e833593db7c8aac638a5551de21999a47/header.jpg?t=1776995545" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613530/abd7f40e833593db7c8aac638a5551de21999a47/header.jpg?t=1776995545" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4613530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613530/abd7f40e833593db7c8aac638a5551de21999a47/header.jpg?t=1776995545" alt="Cornerfall（新規追加）" /></a></p><p>A text-based idle RPG that lives in the corner of your desktop. Build your character, send them into cursed lands, and check back to find new loot, defeated bosses, and higher tiers unlocked. All without lifting a finger.</p><p><a href="https://store.steampowered.com/app/4613530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
