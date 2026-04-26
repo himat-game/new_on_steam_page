@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Apr 2026 17:22:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 18:08:32 +0000</lastBuildDate>
+<item>
+  <title>Milfania（新規追加）</title>
+  <link>https://store.steampowered.com/app/4278800/</link>
+  <guid isPermaLink="false">steam-store-published-4278800</guid>
+  <pubDate>Sun, 26 Apr 2026 18:08:32 +0000</pubDate>
+  <description>Milfania is a story-driven visual novel blending romance, drama, and intrigue, where your choices shape relationships and determine the outcome of every encounter. Navigate a world of temptation, secrets, and power as you build connections and uncover the truth.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278800/731d13bb167829b20aa153eba5c756882ca37a23/header.jpg?t=1777226270" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278800/731d13bb167829b20aa153eba5c756882ca37a23/header.jpg?t=1777226270" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278800/731d13bb167829b20aa153eba5c756882ca37a23/header.jpg?t=1777226270" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4278800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278800/731d13bb167829b20aa153eba5c756882ca37a23/header.jpg?t=1777226270" alt="Milfania（新規追加）" /></a></p><p>Milfania is a story-driven visual novel blending romance, drama, and intrigue, where your choices shape relationships and determine the outcome of every encounter. Navigate a world of temptation, secrets, and power as you build connections and uncover the truth.</p><p><a href="https://store.steampowered.com/app/4278800/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Smoke Easy: Hookah Lounge Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4627520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564960/267f1e8adb2111d7eec4a808b9b53f82b00a6fe2/header.jpg?t=1777017604" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564960/267f1e8adb2111d7eec4a808b9b53f82b00a6fe2/header.jpg?t=1777017604" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4564960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564960/267f1e8adb2111d7eec4a808b9b53f82b00a6fe2/header.jpg?t=1777017604" alt="Maskbound（新規追加）" /></a></p><p>Maskbound is the story of a Native American village whose culture centers around powerful artifacts – elemental masks. The lives of its people change forever when a visitor from Europe arrives! It’s a tale of tradition and culture clashing with knowledge brought from across the ocean.</p><p><a href="https://store.steampowered.com/app/4564960/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Catniss around the world（新規追加）</title>
-  <link>https://store.steampowered.com/app/4629780/</link>
-  <guid isPermaLink="false">steam-store-published-4629780</guid>
-  <pubDate>Fri, 24 Apr 2026 08:24:24 +0000</pubDate>
-  <description>Jump into a beautifully crafted adventure starring Catniss! Experience smooth, traditional 2D animation brought to life inside immersive 3D environments. Run, leap, and explore vibrant side-scrolling worlds full of charm and challenge.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4629780/aeb902c652cf820121716e88320aaed7dea917fd/header.jpg?t=1777011975" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4629780/aeb902c652cf820121716e88320aaed7dea917fd/header.jpg?t=1777011975" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4629780/aeb902c652cf820121716e88320aaed7dea917fd/header.jpg?t=1777011975" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4629780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4629780/aeb902c652cf820121716e88320aaed7dea917fd/header.jpg?t=1777011975" alt="Catniss around the world（新規追加）" /></a></p><p>Jump into a beautifully crafted adventure starring Catniss! Experience smooth, traditional 2D animation brought to life inside immersive 3D environments. Run, leap, and explore vibrant side-scrolling worlds full of charm and challenge.</p><p><a href="https://store.steampowered.com/app/4629780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
