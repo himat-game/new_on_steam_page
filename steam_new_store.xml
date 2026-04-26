@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Apr 2026 10:42:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 11:37:04 +0000</lastBuildDate>
+<item>
+  <title>Typical NPC（新規追加）</title>
+  <link>https://store.steampowered.com/app/4643380/</link>
+  <guid isPermaLink="false">steam-store-published-4643380</guid>
+  <pubDate>Sun, 26 Apr 2026 11:37:04 +0000</pubDate>
+  <description>Run a grimy fantasy weapon shop while heroes save the world somewhere else. Sell rusty swords, survive arrogant customers, repair the damage, and fight for your retirement before the final battle arrives.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643380/671ada6f3fd230e6a10a3f9e10d12ea28f8016fb/header.jpg?t=1777201400" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643380/671ada6f3fd230e6a10a3f9e10d12ea28f8016fb/header.jpg?t=1777201400" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643380/671ada6f3fd230e6a10a3f9e10d12ea28f8016fb/header.jpg?t=1777201400" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4643380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643380/671ada6f3fd230e6a10a3f9e10d12ea28f8016fb/header.jpg?t=1777201400" alt="Typical NPC（新規追加）" /></a></p><p>Run a grimy fantasy weapon shop while heroes save the world somewhere else. Sell rusty swords, survive arrogant customers, repair the damage, and fight for your retirement before the final battle arrives.</p><p><a href="https://store.steampowered.com/app/4643380/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Boku Boku（新規追加）</title>
   <link>https://store.steampowered.com/app/4031280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645470/e71ad701debad55f6edcdf4e0dd1baaa49a510e4/header.jpg?t=1777009837" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645470/e71ad701debad55f6edcdf4e0dd1baaa49a510e4/header.jpg?t=1777009837" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4645470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645470/e71ad701debad55f6edcdf4e0dd1baaa49a510e4/header.jpg?t=1777009837" alt="WHERE IS MY CAT?（新規追加）" /></a></p><p>Your cat is missing. This is terrible! It was kidnapped and hidden by an unknown, evil Entity that terrorizes the tenants of your house because it is bored. Finding the cat is now your unsolvable problem. You will go crazy before the end. This is not a threat. It&#x27;s a statistic.</p><p><a href="https://store.steampowered.com/app/4645470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Darklords: Siegefront（新規追加）</title>
-  <link>https://store.steampowered.com/app/4599400/</link>
-  <guid isPermaLink="false">steam-store-published-4599400</guid>
-  <pubDate>Fri, 24 Apr 2026 06:06:14 +0000</pubDate>
-  <description>Pick Human or Demon in a real-time strategy game with twelve units and faction skills per race, custom six-unit armies, and a multi-difficulty campaign. Finish the campaign to unlock Challenge Mode and top your records.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599400/b4831a265916af82c61f6ff5a53c6d747143eede/header.jpg?t=1777008754" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599400/b4831a265916af82c61f6ff5a53c6d747143eede/header.jpg?t=1777008754" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599400/b4831a265916af82c61f6ff5a53c6d747143eede/header.jpg?t=1777008754" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4599400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599400/b4831a265916af82c61f6ff5a53c6d747143eede/header.jpg?t=1777008754" alt="Darklords: Siegefront（新規追加）" /></a></p><p>Pick Human or Demon in a real-time strategy game with twelve units and faction skills per race, custom six-unit armies, and a multi-difficulty campaign. Finish the campaign to unlock Challenge Mode and top your records.</p><p><a href="https://store.steampowered.com/app/4599400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
