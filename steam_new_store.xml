@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Apr 2026 19:58:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Apr 2026 21:35:18 +0000</lastBuildDate>
+<item>
+  <title>Lampyris Moon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4626350/</link>
+  <guid isPermaLink="false">steam-store-published-4626350</guid>
+  <pubDate>Sun, 26 Apr 2026 21:35:18 +0000</pubDate>
+  <description>On a night when the moon seems different, an individual ventures into a silent but oppressive environment. Very quickly, a strange feeling takes hold… as if something is watching him, lurking in the shadows.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626350/c1336f6ebe13a7eef238a67048ae6552a815ad18/header.jpg?t=1777237546" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626350/c1336f6ebe13a7eef238a67048ae6552a815ad18/header.jpg?t=1777237546" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626350/c1336f6ebe13a7eef238a67048ae6552a815ad18/header.jpg?t=1777237546" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4626350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626350/c1336f6ebe13a7eef238a67048ae6552a815ad18/header.jpg?t=1777237546" alt="Lampyris Moon（新規追加）" /></a></p><p>On a night when the moon seems different, an individual ventures into a silent but oppressive environment. Very quickly, a strange feeling takes hold… as if something is watching him, lurking in the shadows.</p><p><a href="https://store.steampowered.com/app/4626350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Sol Titan: Echno（新規追加）</title>
+  <link>https://store.steampowered.com/app/3673160/</link>
+  <guid isPermaLink="false">steam-store-published-3673160</guid>
+  <pubDate>Sun, 26 Apr 2026 21:35:18 +0000</pubDate>
+  <description>A 2D action-adventure sandbox set inside the broken mind of a titan. Explore procedurally generated alien worlds, survive shifting gravity and brutal environments, master precise combat, build powered bases, and repair the mental chaos before it consumes everything.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3673160/e7e075dc170a073a346cb31e700a0d87de16795f/header.jpg?t=1777238627" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3673160/e7e075dc170a073a346cb31e700a0d87de16795f/header.jpg?t=1777238627" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3673160/e7e075dc170a073a346cb31e700a0d87de16795f/header.jpg?t=1777238627" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3673160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3673160/e7e075dc170a073a346cb31e700a0d87de16795f/header.jpg?t=1777238627" alt="Sol Titan: Echno（新規追加）" /></a></p><p>A 2D action-adventure sandbox set inside the broken mind of a titan. Explore procedurally generated alien worlds, survive shifting gravity and brutal environments, master precise combat, build powered bases, and repair the mental chaos before it consumes everything.</p><p><a href="https://store.steampowered.com/app/3673160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Sit Still（新規追加）</title>
   <link>https://store.steampowered.com/app/4564420/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556740/eeea1296aa684e6daf81a6467b26ac1a3c271be6/header.jpg?t=1777019453" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556740/eeea1296aa684e6daf81a6467b26ac1a3c271be6/header.jpg?t=1777019453" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4556740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556740/eeea1296aa684e6daf81a6467b26ac1a3c271be6/header.jpg?t=1777019453" alt="Exo Chumps（新規追加）" /></a></p><p>Brutal tactical turn-based combat challenging your commander skills. Unforgiving strategic decision making only true generals can withstand. Beaten down by an alien invasion. Risen from victory. Travel to different planets, conquer new worlds or join forces with alien allies.</p><p><a href="https://store.steampowered.com/app/4556740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pandemonium Line: Flipping on borrowed dime（新規追加）</title>
-  <link>https://store.steampowered.com/app/4635030/</link>
-  <guid isPermaLink="false">steam-store-published-4635030</guid>
-  <pubDate>Fri, 24 Apr 2026 10:10:00 +0000</pubDate>
-  <description>An Action-Rougelike Deckbuilder with a twist: Build your deck out of coins! Fight your way through this hellish train to the driver‘s cabin, all while the eyes of a snarky demon are monitoring you. As it is thrilled to decide your fate by mere coin-flips, you were the one to take it&#x27;s job offer.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635030/e44ffac188fd3da846415b0d9af23452f01aad94/header.jpg?t=1777019217" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635030/e44ffac188fd3da846415b0d9af23452f01aad94/header.jpg?t=1777019217" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635030/e44ffac188fd3da846415b0d9af23452f01aad94/header.jpg?t=1777019217" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4635030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635030/e44ffac188fd3da846415b0d9af23452f01aad94/header.jpg?t=1777019217" alt="Pandemonium Line: Flipping on borrowed dime（新規追加）" /></a></p><p>An Action-Rougelike Deckbuilder with a twist: Build your deck out of coins! Fight your way through this hellish train to the driver‘s cabin, all while the eyes of a snarky demon are monitoring you. As it is thrilled to decide your fate by mere coin-flips, you were the one to take it&#x27;s job offer.</p><p><a href="https://store.steampowered.com/app/4635030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pump Away!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4631520/</link>
-  <guid isPermaLink="false">steam-store-published-4631520</guid>
-  <pubDate>Fri, 24 Apr 2026 10:10:00 +0000</pubDate>
-  <description>A railroad adventure that sits at the bottom of your screen! Click to make the car go brrr or let it idle - this cat and dog duo will pump away and liven up your desktop.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631520/20d2989cb3d8312d3400d8058c0b1954d1f6e912/header.jpg?t=1777024484" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631520/20d2989cb3d8312d3400d8058c0b1954d1f6e912/header.jpg?t=1777024484" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631520/20d2989cb3d8312d3400d8058c0b1954d1f6e912/header.jpg?t=1777024484" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4631520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631520/20d2989cb3d8312d3400d8058c0b1954d1f6e912/header.jpg?t=1777024484" alt="Pump Away!（新規追加）" /></a></p><p>A railroad adventure that sits at the bottom of your screen! Click to make the car go brrr or let it idle - this cat and dog duo will pump away and liven up your desktop.</p><p><a href="https://store.steampowered.com/app/4631520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
