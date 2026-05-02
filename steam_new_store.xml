@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 02 May 2026 21:02:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 22:00:52 +0000</lastBuildDate>
+<item>
+  <title>Gladiator&#x27;s Revenge（新規追加）</title>
+  <link>https://store.steampowered.com/app/4639240/</link>
+  <guid isPermaLink="false">steam-store-published-4639240</guid>
+  <pubDate>Sat, 02 May 2026 22:00:52 +0000</pubDate>
+  <description>Gladiator’s Revenge is a fast-paced 2D action and strategy game focused on arena survival. master the real-time combat and pick your character&#x27;s skills to overcome escalating enemies in the Arena! Controlls: Enter, arrows, and q w e r (optional- mouse).</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639240/2b5c2648a24693c66da79f135ce5ffc2f7f5fb00/header.jpg?t=1777757613" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639240/2b5c2648a24693c66da79f135ce5ffc2f7f5fb00/header.jpg?t=1777757613" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639240/2b5c2648a24693c66da79f135ce5ffc2f7f5fb00/header.jpg?t=1777757613" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4639240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639240/2b5c2648a24693c66da79f135ce5ffc2f7f5fb00/header.jpg?t=1777757613" alt="Gladiator&#x27;s Revenge（新規追加）" /></a></p><p>Gladiator’s Revenge is a fast-paced 2D action and strategy game focused on arena survival. master the real-time combat and pick your character&#x27;s skills to overcome escalating enemies in the Arena! Controlls: Enter, arrows, and q w e r (optional- mouse).</p><p><a href="https://store.steampowered.com/app/4639240/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Vanguard Tides（新規追加）</title>
   <link>https://store.steampowered.com/app/4683140/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950510/6ff74081bcb6ad3b3902f6fb1809eb304b9ddee1/header.jpg?t=1777573657" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950510/6ff74081bcb6ad3b3902f6fb1809eb304b9ddee1/header.jpg?t=1777573657" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3950510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950510/6ff74081bcb6ad3b3902f6fb1809eb304b9ddee1/header.jpg?t=1777573657" alt="XorO（新規追加）" /></a></p><p>&amp;quot;XorO&amp;quot; is a 1vs1 fighting-inspired puzzle game that puts focus on the mind games by getting rid of mechanical, input-based complexity while also having a set of simple, easy to understand rules derived from familiar ideas of tic-tac-toe and rock-paper-scissors. </p><p><a href="https://store.steampowered.com/app/3950510/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tide Fall（新規追加）</title>
-  <link>https://store.steampowered.com/app/4500520/</link>
-  <guid isPermaLink="false">steam-store-published-4500520</guid>
-  <pubDate>Thu, 30 Apr 2026 19:51:35 +0000</pubDate>
-  <description>Explore dangerous islands, build and defend your base, sail the seas, and raid rival crews in this open-world pirate survival game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500520/8eaa215dcb7887bab5377310dfbcbce153c5051b/header.jpg?t=1777576819" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500520/8eaa215dcb7887bab5377310dfbcbce153c5051b/header.jpg?t=1777576819" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500520/8eaa215dcb7887bab5377310dfbcbce153c5051b/header.jpg?t=1777576819" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4500520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500520/8eaa215dcb7887bab5377310dfbcbce153c5051b/header.jpg?t=1777576819" alt="Tide Fall（新規追加）" /></a></p><p>Explore dangerous islands, build and defend your base, sail the seas, and raid rival crews in this open-world pirate survival game.</p><p><a href="https://store.steampowered.com/app/4500520/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
