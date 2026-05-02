@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 02 May 2026 20:07:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 21:02:21 +0000</lastBuildDate>
+<item>
+  <title>Vanguard Tides（新規追加）</title>
+  <link>https://store.steampowered.com/app/4683140/</link>
+  <guid isPermaLink="false">steam-store-published-4683140</guid>
+  <pubDate>Sat, 02 May 2026 21:02:21 +0000</pubDate>
+  <description>Fight in massive-scale battles where armies paint the battlefield in their color. Captured territory influences both your health and your abilities. Level up your vanguard and your army, defend your castles, and survive the shifting tides of battle to claim ultimate victory!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683140/329a7b32d98e4c0a9e8f77935b6fe313f3341a17/header.jpg?t=1777753771" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683140/329a7b32d98e4c0a9e8f77935b6fe313f3341a17/header.jpg?t=1777753771" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683140/329a7b32d98e4c0a9e8f77935b6fe313f3341a17/header.jpg?t=1777753771" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4683140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683140/329a7b32d98e4c0a9e8f77935b6fe313f3341a17/header.jpg?t=1777753771" alt="Vanguard Tides（新規追加）" /></a></p><p>Fight in massive-scale battles where armies paint the battlefield in their color. Captured territory influences both your health and your abilities. Level up your vanguard and your army, defend your castles, and survive the shifting tides of battle to claim ultimate victory!</p><p><a href="https://store.steampowered.com/app/4683140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Empty Heaven: Liminal Dream（新規追加）</title>
   <link>https://store.steampowered.com/app/4591130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500520/8eaa215dcb7887bab5377310dfbcbce153c5051b/header.jpg?t=1777576819" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500520/8eaa215dcb7887bab5377310dfbcbce153c5051b/header.jpg?t=1777576819" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4500520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500520/8eaa215dcb7887bab5377310dfbcbce153c5051b/header.jpg?t=1777576819" alt="Tide Fall（新規追加）" /></a></p><p>Explore dangerous islands, build and defend your base, sail the seas, and raid rival crews in this open-world pirate survival game.</p><p><a href="https://store.steampowered.com/app/4500520/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Scum&#x27;s Errand（新規追加）</title>
-  <link>https://store.steampowered.com/app/4669110/</link>
-  <guid isPermaLink="false">steam-store-published-4669110</guid>
-  <pubDate>Thu, 30 Apr 2026 19:51:35 +0000</pubDate>
-  <description>Raid cursed dungeons, claim powerful loot, and escape before it&#x27;s too late. Scum&#x27;s Errand is a top-down roguelite horde shooter with extraction mechanics where every run makes you stronger, but greed can cost you everything.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669110/e3904c82e709eb59ecd5c30f305bac70fa53f258/header.jpg?t=1777575367" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669110/e3904c82e709eb59ecd5c30f305bac70fa53f258/header.jpg?t=1777575367" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669110/e3904c82e709eb59ecd5c30f305bac70fa53f258/header.jpg?t=1777575367" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4669110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669110/e3904c82e709eb59ecd5c30f305bac70fa53f258/header.jpg?t=1777575367" alt="Scum&#x27;s Errand（新規追加）" /></a></p><p>Raid cursed dungeons, claim powerful loot, and escape before it&#x27;s too late. Scum&#x27;s Errand is a top-down roguelite horde shooter with extraction mechanics where every run makes you stronger, but greed can cost you everything.</p><p><a href="https://store.steampowered.com/app/4669110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
