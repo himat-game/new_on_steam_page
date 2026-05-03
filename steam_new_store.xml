@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 03 May 2026 22:21:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 23:24:58 +0000</lastBuildDate>
+<item>
+  <title>SCP: Minor Case -FLP-（新規追加）</title>
+  <link>https://store.steampowered.com/app/4466550/</link>
+  <guid isPermaLink="false">steam-store-published-4466550</guid>
+  <pubDate>Sun, 03 May 2026 23:24:58 +0000</pubDate>
+  <description>A story-driven adventure game set in the SCP Foundation universe</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466550/7cae9bab6283bb0915a263046291e3c81eb47e51/header.jpg?t=1777847094" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466550/7cae9bab6283bb0915a263046291e3c81eb47e51/header.jpg?t=1777847094" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466550/7cae9bab6283bb0915a263046291e3c81eb47e51/header.jpg?t=1777847094" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4466550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466550/7cae9bab6283bb0915a263046291e3c81eb47e51/header.jpg?t=1777847094" alt="SCP: Minor Case -FLP-（新規追加）" /></a></p><p>A story-driven adventure game set in the SCP Foundation universe</p><p><a href="https://store.steampowered.com/app/4466550/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bal Institute（新規追加）</title>
   <link>https://store.steampowered.com/app/4628480/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667230/6007bb4bafff2c55d2033f776a17728ea7f213a3/header.jpg?t=1777606692" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667230/6007bb4bafff2c55d2033f776a17728ea7f213a3/header.jpg?t=1777606692" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4667230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667230/6007bb4bafff2c55d2033f776a17728ea7f213a3/header.jpg?t=1777606692" alt="Peristeria（新規追加）" /></a></p><p>An atmospheric 3D metroidvania with heavy emphasis on platforming and exploration. Use projectiles, grappling, and dash to discover hidden ruins and secrets beneath the surface.</p><p><a href="https://store.steampowered.com/app/4667230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Read Only（新規追加）</title>
-  <link>https://store.steampowered.com/app/4663420/</link>
-  <guid isPermaLink="false">steam-store-published-4663420</guid>
-  <pubDate>Fri, 01 May 2026 08:25:52 +0000</pubDate>
-  <description>A psychological narrative game about memory, identity, and things that were never meant to be “fixed.” Explore your past, piece together what was lost, and decide what you’re ready to see.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663420/318946be1b10a8565ef6b252383a0360ba6f9085/header.jpg?t=1777612719" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663420/318946be1b10a8565ef6b252383a0360ba6f9085/header.jpg?t=1777612719" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663420/318946be1b10a8565ef6b252383a0360ba6f9085/header.jpg?t=1777612719" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4663420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663420/318946be1b10a8565ef6b252383a0360ba6f9085/header.jpg?t=1777612719" alt="Read Only（新規追加）" /></a></p><p>A psychological narrative game about memory, identity, and things that were never meant to be “fixed.” Explore your past, piece together what was lost, and decide what you’re ready to see.</p><p><a href="https://store.steampowered.com/app/4663420/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
