@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 08 May 2026 08:59:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 10:43:46 +0000</lastBuildDate>
+<item>
+  <title>Rebirth: Denied Protocol（新規追加）</title>
+  <link>https://store.steampowered.com/app/4693140/</link>
+  <guid isPermaLink="false">steam-store-published-4693140</guid>
+  <pubDate>Fri, 08 May 2026 10:43:46 +0000</pubDate>
+  <description>Trapped inside a failed resurrection experiment, a cop must survive grotesque creatures and uncover the truth behind a mad doctor’s obsession in this PS1-style survival horror with fixed cameras and tank controls.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693140/a5618a256c2c4d7d3efc19f7f113bef42dd9464c/header.jpg?t=1778234572" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693140/a5618a256c2c4d7d3efc19f7f113bef42dd9464c/header.jpg?t=1778234572" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693140/a5618a256c2c4d7d3efc19f7f113bef42dd9464c/header.jpg?t=1778234572" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4693140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693140/a5618a256c2c4d7d3efc19f7f113bef42dd9464c/header.jpg?t=1778234572" alt="Rebirth: Denied Protocol（新規追加）" /></a></p><p>Trapped inside a failed resurrection experiment, a cop must survive grotesque creatures and uncover the truth behind a mad doctor’s obsession in this PS1-style survival horror with fixed cameras and tank controls.</p><p><a href="https://store.steampowered.com/app/4693140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Bianhe River Monster（新規追加）</title>
   <link>https://store.steampowered.com/app/4377380/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701990/2b8f92c1c99a9ce7d31bf9efde7e971c15e8c8f8/header.jpg?t=1778077526" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701990/2b8f92c1c99a9ce7d31bf9efde7e971c15e8c8f8/header.jpg?t=1778077526" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4701990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701990/2b8f92c1c99a9ce7d31bf9efde7e971c15e8c8f8/header.jpg?t=1778077526" alt="UnoDos（新規追加）" /></a></p><p>UnoDos is a low-poly 3D puzzle game where you control two characters simultaneously. They don&#x27;t share a brain. You do.</p><p><a href="https://store.steampowered.com/app/4701990/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hyperphallic: Episode 2（新規追加）</title>
-  <link>https://store.steampowered.com/app/4688380/</link>
-  <guid isPermaLink="false">steam-store-published-4688380</guid>
-  <pubDate>Wed, 06 May 2026 15:38:12 +0000</pubDate>
-  <description>An erotic Visual Novel where you date a guy with an enormous, throbbing ~personality~.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688380/96cb7e49edcea3ae02700ecd4d0a99266098a7e2/header.jpg?t=1778078001" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688380/96cb7e49edcea3ae02700ecd4d0a99266098a7e2/header.jpg?t=1778078001" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688380/96cb7e49edcea3ae02700ecd4d0a99266098a7e2/header.jpg?t=1778078001" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4688380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688380/96cb7e49edcea3ae02700ecd4d0a99266098a7e2/header.jpg?t=1778078001" alt="Hyperphallic: Episode 2（新規追加）" /></a></p><p>An erotic Visual Novel where you date a guy with an enormous, throbbing ~personality~.</p><p><a href="https://store.steampowered.com/app/4688380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
