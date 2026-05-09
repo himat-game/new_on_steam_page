@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 09 May 2026 21:40:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 22:25:14 +0000</lastBuildDate>
+<item>
+  <title>Crow Heist（新規追加）</title>
+  <link>https://store.steampowered.com/app/4336420/</link>
+  <guid isPermaLink="false">steam-store-published-4336420</guid>
+  <pubDate>Sat, 09 May 2026 22:25:14 +0000</pubDate>
+  <description>The HOA have taken everything from Crowley... His nest, his ability to fly, and most important of all, his trinkets! Break into their homes as Crowley for revenge in this 2.5D Platform Comedy game. Unlock their drawers, break their belongings, and steal everything you can to rebuild the crow&#x27;s home!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336420/92daabaf9ece655cf104c3785760e59d60212b33/header.jpg?t=1778365018" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336420/92daabaf9ece655cf104c3785760e59d60212b33/header.jpg?t=1778365018" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336420/92daabaf9ece655cf104c3785760e59d60212b33/header.jpg?t=1778365018" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4336420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336420/92daabaf9ece655cf104c3785760e59d60212b33/header.jpg?t=1778365018" alt="Crow Heist（新規追加）" /></a></p><p>The HOA have taken everything from Crowley... His nest, his ability to fly, and most important of all, his trinkets! Break into their homes as Crowley for revenge in this 2.5D Platform Comedy game. Unlock their drawers, break their belongings, and steal everything you can to rebuild the crow&#x27;s home!</p><p><a href="https://store.steampowered.com/app/4336420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Disillusioned（新規追加）</title>
   <link>https://store.steampowered.com/app/4710020/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668790/825185d46a68dccedf578d8ff6c13c1150c630b6/header.jpg?t=1778156192" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668790/825185d46a68dccedf578d8ff6c13c1150c630b6/header.jpg?t=1778156192" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4668790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668790/825185d46a68dccedf578d8ff6c13c1150c630b6/header.jpg?t=1778156192" alt="欲都戰姬（新規追加）" /></a></p><p>《欲都戰姬》是一款科幻背景的 18+ 超能感官互動養成遊戲。戰姬已撕裂虛空降臨，在這裡，戰鬥只是前戲，「調教與羈絆」才是核心！透過全動態 Live2D 技術與專屬調教系統，你的每一次觸碰都將引發她們最真實的反應。解鎖不為人知的隱秘互動，體驗從羞澀反抗到徹底服從的極致感官盛宴！</p><p><a href="https://store.steampowered.com/app/4668790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Regulea: Infection Card Battle（新規追加）</title>
-  <link>https://store.steampowered.com/app/4673800/</link>
-  <guid isPermaLink="false">steam-store-published-4673800</guid>
-  <pubDate>Thu, 07 May 2026 10:52:31 +0000</pubDate>
-  <description>A turn-based strategy card game about infections and antibiotics. Build a deck from 119 cards, spread infections to pressure your opponent, or use the right antibiotics to recover. Correct choices alone are not enough to win; timing and strategy matter. Simple rules, short battles, replayability.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673800/316b1cf89f42758fd48ca55201ab0d124d27d1e6/header.jpg?t=1778147578" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673800/316b1cf89f42758fd48ca55201ab0d124d27d1e6/header.jpg?t=1778147578" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673800/316b1cf89f42758fd48ca55201ab0d124d27d1e6/header.jpg?t=1778147578" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4673800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673800/316b1cf89f42758fd48ca55201ab0d124d27d1e6/header.jpg?t=1778147578" alt="Regulea: Infection Card Battle（新規追加）" /></a></p><p>A turn-based strategy card game about infections and antibiotics. Build a deck from 119 cards, spread infections to pressure your opponent, or use the right antibiotics to recover. Correct choices alone are not enough to win; timing and strategy matter. Simple rules, short battles, replayability.</p><p><a href="https://store.steampowered.com/app/4673800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
