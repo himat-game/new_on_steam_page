@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 09 May 2026 15:33:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 16:32:37 +0000</lastBuildDate>
+<item>
+  <title>PenguPult（新規追加）</title>
+  <link>https://store.steampowered.com/app/3943190/</link>
+  <guid isPermaLink="false">steam-store-published-3943190</guid>
+  <pubDate>Sat, 09 May 2026 16:32:37 +0000</pubDate>
+  <description>Grab your hammer and launch yourself through ice and snow in PenguPult! Conquer the mountain with precision or slip and fall back to the bottom!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3943190/3ad2ea38247f37c95f72a9a53bd0883dbbd90298/header.jpg?t=1778341954" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3943190/3ad2ea38247f37c95f72a9a53bd0883dbbd90298/header.jpg?t=1778341954" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3943190/3ad2ea38247f37c95f72a9a53bd0883dbbd90298/header.jpg?t=1778341954" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3943190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3943190/3ad2ea38247f37c95f72a9a53bd0883dbbd90298/header.jpg?t=1778341954" alt="PenguPult（新規追加）" /></a></p><p>Grab your hammer and launch yourself through ice and snow in PenguPult! Conquer the mountain with precision or slip and fall back to the bottom!</p><p><a href="https://store.steampowered.com/app/3943190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Succubi Domini（新規追加）</title>
   <link>https://store.steampowered.com/app/4606460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331130/2659a39491985875470b92ffad1b3359abf19f97/header.jpg?t=1778143449" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331130/2659a39491985875470b92ffad1b3359abf19f97/header.jpg?t=1778143449" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4331130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331130/2659a39491985875470b92ffad1b3359abf19f97/header.jpg?t=1778143449" alt="Abyss Horde（新規追加）" /></a></p><p>Darkness tears reality apart. Hordes of beasts, monsters, and abyssal demons surge from the depths—mindless, driven only by destruction. Adventurer, the line needs you! In 《Abyss Horde》, defend against ever-stronger waves. Every run builds a new defense; every upgrade shifts the tide.</p><p><a href="https://store.steampowered.com/app/4331130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Rome City Builder（新規追加）</title>
-  <link>https://store.steampowered.com/app/4667340/</link>
-  <guid isPermaLink="false">steam-store-published-4667340</guid>
-  <pubDate>Thu, 07 May 2026 10:52:31 +0000</pubDate>
-  <description>Build your Roman city. Gather resources, build structures, train soldiers and defend against Barbarians at night. How many days can your civilization last?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667340/ad618be8287ee493907df8255b8351487aa67973/header.jpg?t=1778149673" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667340/ad618be8287ee493907df8255b8351487aa67973/header.jpg?t=1778149673" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667340/ad618be8287ee493907df8255b8351487aa67973/header.jpg?t=1778149673" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4667340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667340/ad618be8287ee493907df8255b8351487aa67973/header.jpg?t=1778149673" alt="Rome City Builder（新規追加）" /></a></p><p>Build your Roman city. Gather resources, build structures, train soldiers and defend against Barbarians at night. How many days can your civilization last?</p><p><a href="https://store.steampowered.com/app/4667340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
