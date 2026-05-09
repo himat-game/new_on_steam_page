@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 09 May 2026 18:35:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 19:42:55 +0000</lastBuildDate>
+<item>
+  <title>Escape This（新規追加）</title>
+  <link>https://store.steampowered.com/app/4705520/</link>
+  <guid isPermaLink="false">steam-store-published-4705520</guid>
+  <pubDate>Sat, 09 May 2026 19:42:55 +0000</pubDate>
+  <description>A falling block puzzle platformer game with punishing bosses. Switch between two perspectives to rise to the top and escape the evil clutches of The Entity</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1778352677" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1778352677" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1778352677" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4705520/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1778352677" alt="Escape This（新規追加）" /></a></p><p>A falling block puzzle platformer game with punishing bosses. Switch between two perspectives to rise to the top and escape the evil clutches of The Entity</p><p><a href="https://store.steampowered.com/app/4705520/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Trump Ballroom Blitz（新規追加）</title>
   <link>https://store.steampowered.com/app/4443070/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310650/f3147acf76fdfb484ea0b7450da94f20a4605c17/header.jpg?t=1778143887" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310650/f3147acf76fdfb484ea0b7450da94f20a4605c17/header.jpg?t=1778143887" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4310650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310650/f3147acf76fdfb484ea0b7450da94f20a4605c17/header.jpg?t=1778143887" alt="Desktop decoration（新規追加）" /></a></p><p>This is a game that allows you to freely decorate your computer desktop. Have you ever thought about setting your desktop in a unique way? Come on, let&#x27;s get started and design and decorate your desktop together! Accompany you in your work and study!</p><p><a href="https://store.steampowered.com/app/4310650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Doctor Kairokos（新規追加）</title>
-  <link>https://store.steampowered.com/app/4631090/</link>
-  <guid isPermaLink="false">steam-store-published-4631090</guid>
-  <pubDate>Thu, 07 May 2026 10:52:31 +0000</pubDate>
-  <description>Play as scientist Doctor Kairokos, use a time machine remote controller and find your missing assistant in this 3D adventure game.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631090/e9e1d7e28b8625e571f1ca82871e0e04132cc0b7/header.jpg?t=1778146670" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631090/e9e1d7e28b8625e571f1ca82871e0e04132cc0b7/header.jpg?t=1778146670" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631090/e9e1d7e28b8625e571f1ca82871e0e04132cc0b7/header.jpg?t=1778146670" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4631090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631090/e9e1d7e28b8625e571f1ca82871e0e04132cc0b7/header.jpg?t=1778146670" alt="Doctor Kairokos（新規追加）" /></a></p><p>Play as scientist Doctor Kairokos, use a time machine remote controller and find your missing assistant in this 3D adventure game.</p><p><a href="https://store.steampowered.com/app/4631090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
