@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 10 May 2026 10:39:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 11:32:45 +0000</lastBuildDate>
+<item>
+  <title>H.E.R. Project（新規追加）</title>
+  <link>https://store.steampowered.com/app/4561540/</link>
+  <guid isPermaLink="false">steam-store-published-4561540</guid>
+  <pubDate>Sun, 10 May 2026 11:32:45 +0000</pubDate>
+  <description>H.E.R. Project is an incremental game in which you collect resources, build structures and buy upgrades. Help a robot evolve a mysterious creature and discover the truth about the &#x27;H.E.R. Project&#x27;.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561540/6cef0c5d5aa12ad27206d3007199aeb7d38d1c7a/header.jpg?t=1778411920" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561540/6cef0c5d5aa12ad27206d3007199aeb7d38d1c7a/header.jpg?t=1778411920" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561540/6cef0c5d5aa12ad27206d3007199aeb7d38d1c7a/header.jpg?t=1778411920" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4561540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561540/6cef0c5d5aa12ad27206d3007199aeb7d38d1c7a/header.jpg?t=1778411920" alt="H.E.R. Project（新規追加）" /></a></p><p>H.E.R. Project is an incremental game in which you collect resources, build structures and buy upgrades. Help a robot evolve a mysterious creature and discover the truth about the &#x27;H.E.R. Project&#x27;.</p><p><a href="https://store.steampowered.com/app/4561540/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Lost &amp; The Found（新規追加）</title>
   <link>https://store.steampowered.com/app/4623130/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588330/b65a0f0486765ee6625258060b13d2ef6805919e/header.jpg?t=1778165765" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588330/b65a0f0486765ee6625258060b13d2ef6805919e/header.jpg?t=1778165765" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4588330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588330/b65a0f0486765ee6625258060b13d2ef6805919e/header.jpg?t=1778165765" alt="Dynastic Era（新規追加）" /></a></p><p>Simple map coloring game, And about history of ancient civilized, Mini ancient strategy game with a large world map to explore, in which you can simulate different ancient civilizations, the game will have different chapters showing ancient historical events.</p><p><a href="https://store.steampowered.com/app/4588330/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>AmaTisMo（新規追加）</title>
-  <link>https://store.steampowered.com/app/4707800/</link>
-  <guid isPermaLink="false">steam-store-published-4707800</guid>
-  <pubDate>Thu, 07 May 2026 15:16:25 +0000</pubDate>
-  <description>A visual novel about depression and self-love. Play as Amatista, a young woman trapped in isolation, as she begins a journey she never asked for. Every choice shapes the story. Fully accessible for blind players.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707800/088cc9b8d0c55e6f9acf651e052f2a173e0615dc/header.jpg?t=1778165018" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707800/088cc9b8d0c55e6f9acf651e052f2a173e0615dc/header.jpg?t=1778165018" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707800/088cc9b8d0c55e6f9acf651e052f2a173e0615dc/header.jpg?t=1778165018" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4707800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707800/088cc9b8d0c55e6f9acf651e052f2a173e0615dc/header.jpg?t=1778165018" alt="AmaTisMo（新規追加）" /></a></p><p>A visual novel about depression and self-love. Play as Amatista, a young woman trapped in isolation, as she begins a journey she never asked for. Every choice shapes the story. Fully accessible for blind players.</p><p><a href="https://store.steampowered.com/app/4707800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
