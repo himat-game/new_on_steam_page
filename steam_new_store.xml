@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 10 May 2026 17:15:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 18:08:16 +0000</lastBuildDate>
+<item>
+  <title>Dusklander（新規追加）</title>
+  <link>https://store.steampowered.com/app/4386890/</link>
+  <guid isPermaLink="false">steam-store-published-4386890</guid>
+  <pubDate>Sun, 10 May 2026 18:08:16 +0000</pubDate>
+  <description>Survive in a nightmare world where Light is the most valuable resource. Explore, craft and learn to bend this strange reality to your will. Travel across lands locked in everlasting dusk, face dangers lurking in the dark and find a way to wake up.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386890/79112554cab338adcc671aae4e5fa43a1b3e4cdb/header.jpg?t=1778435920" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386890/79112554cab338adcc671aae4e5fa43a1b3e4cdb/header.jpg?t=1778435920" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386890/79112554cab338adcc671aae4e5fa43a1b3e4cdb/header.jpg?t=1778435920" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4386890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386890/79112554cab338adcc671aae4e5fa43a1b3e4cdb/header.jpg?t=1778435920" alt="Dusklander（新規追加）" /></a></p><p>Survive in a nightmare world where Light is the most valuable resource. Explore, craft and learn to bend this strange reality to your will. Travel across lands locked in everlasting dusk, face dangers lurking in the dark and find a way to wake up.</p><p><a href="https://store.steampowered.com/app/4386890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Buddies to Death（新規追加）</title>
   <link>https://store.steampowered.com/app/4453660/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696210/2aaad0f8792a68e4c8883971b7ab61c93af167ab/header.jpg?t=1778172549" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696210/2aaad0f8792a68e4c8883971b7ab61c93af167ab/header.jpg?t=1778172549" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4696210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696210/2aaad0f8792a68e4c8883971b7ab61c93af167ab/header.jpg?t=1778172549" alt="Five Nights at Bowl City High School（新規追加）" /></a></p><p>You&#x27;ve just been hired at Bowl City High School, but its not what it seems... Use your flashlight to light up the office and look for lurking teachers, locate hiding spots to survive, and block off vents to stop them from getting into your office. Most importantly, however, you must stop Mr. Gut...</p><p><a href="https://store.steampowered.com/app/4696210/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Market Manager Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4689230/</link>
-  <guid isPermaLink="false">steam-store-published-4689230</guid>
-  <pubDate>Thu, 07 May 2026 17:11:18 +0000</pubDate>
-  <description>Build and manage your own market. Fill the shelves, set prices, serve customers, manage online orders and grow your business. Hire employees, check stocks and turn your market into a large business.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689230/123c99a573191f18f07656bbb3f55ce373885b7b/header.jpg?t=1778172961" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689230/123c99a573191f18f07656bbb3f55ce373885b7b/header.jpg?t=1778172961" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689230/123c99a573191f18f07656bbb3f55ce373885b7b/header.jpg?t=1778172961" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4689230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689230/123c99a573191f18f07656bbb3f55ce373885b7b/header.jpg?t=1778172961" alt="Market Manager Simulator（新規追加）" /></a></p><p>Build and manage your own market. Fill the shelves, set prices, serve customers, manage online orders and grow your business. Hire employees, check stocks and turn your market into a large business.</p><p><a href="https://store.steampowered.com/app/4689230/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
