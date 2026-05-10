@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 10 May 2026 05:08:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 07:35:55 +0000</lastBuildDate>
+<item>
+  <title>童话镇 the Fairy Town（新規追加）</title>
+  <link>https://store.steampowered.com/app/4581080/</link>
+  <guid isPermaLink="false">steam-store-published-4581080</guid>
+  <pubDate>Sun, 10 May 2026 07:35:55 +0000</pubDate>
+  <description>Fairy Town is an alternate-history narrative game. Brew a cup of coffee with your own hands and listen to the memories of Fairy Town’s survivors; or travel with Lilith across the collapsed continent of Fairy Town, visiting more than 30 regimes with radically different ideologies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581080/970a6524f060078001edcb992ec5fc7ac5c5fe75/header.jpg?t=1778391649" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581080/970a6524f060078001edcb992ec5fc7ac5c5fe75/header.jpg?t=1778391649" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581080/970a6524f060078001edcb992ec5fc7ac5c5fe75/header.jpg?t=1778391649" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4581080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581080/970a6524f060078001edcb992ec5fc7ac5c5fe75/header.jpg?t=1778391649" alt="童话镇 the Fairy Town（新規追加）" /></a></p><p>Fairy Town is an alternate-history narrative game. Brew a cup of coffee with your own hands and listen to the memories of Fairy Town’s survivors; or travel with Lilith across the collapsed continent of Fairy Town, visiting more than 30 regimes with radically different ideologies.</p><p><a href="https://store.steampowered.com/app/4581080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Nipple Training Simulator（新規追加）</title>
   <link>https://store.steampowered.com/app/4611560/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703900/6857b6d3d23d1b3763e18f125739fe1490573f81/header.jpg?t=1778162719" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703900/6857b6d3d23d1b3763e18f125739fe1490573f81/header.jpg?t=1778162719" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4703900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703900/6857b6d3d23d1b3763e18f125739fe1490573f81/header.jpg?t=1778162719" alt="Risk The Crown（新規追加）" /></a></p><p>A tower defense roguelite where victory means knowing exactly when to run. Draft troops, defend your castle, and escape with your king before it&#x27;s too late</p><p><a href="https://store.steampowered.com/app/4703900/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Clankerfront（新規追加）</title>
-  <link>https://store.steampowered.com/app/4706900/</link>
-  <guid isPermaLink="false">steam-store-published-4706900</guid>
-  <pubDate>Thu, 07 May 2026 15:16:25 +0000</pubDate>
-  <description>Clankerfront is a classic isometric RTS where AI research went too far and awakened the world’s home appliances against humanity. Build bases, command armies, fight solo or co-op, and defend the front from the clankers.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706900/7d503edd206df19ef1f1dd1dd8b473f52904a479/header.jpg?t=1778157914" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706900/7d503edd206df19ef1f1dd1dd8b473f52904a479/header.jpg?t=1778157914" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706900/7d503edd206df19ef1f1dd1dd8b473f52904a479/header.jpg?t=1778157914" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4706900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706900/7d503edd206df19ef1f1dd1dd8b473f52904a479/header.jpg?t=1778157914" alt="Clankerfront（新規追加）" /></a></p><p>Clankerfront is a classic isometric RTS where AI research went too far and awakened the world’s home appliances against humanity. Build bases, command armies, fight solo or co-op, and defend the front from the clankers.</p><p><a href="https://store.steampowered.com/app/4706900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
