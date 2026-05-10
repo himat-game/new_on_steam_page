@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 09 May 2026 22:25:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 01:24:09 +0000</lastBuildDate>
+<item>
+  <title>Click Build Repeat（新規追加）</title>
+  <link>https://store.steampowered.com/app/4568060/</link>
+  <guid isPermaLink="false">steam-store-published-4568060</guid>
+  <pubDate>Sun, 10 May 2026 01:24:09 +0000</pubDate>
+  <description>Click Build Repeat is an incremental game about building and collecting model kits.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568060/20457c5c862b69b6320069d1cb13e0063c44eb8c/header.jpg?t=1778370364" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568060/20457c5c862b69b6320069d1cb13e0063c44eb8c/header.jpg?t=1778370364" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568060/20457c5c862b69b6320069d1cb13e0063c44eb8c/header.jpg?t=1778370364" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4568060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568060/20457c5c862b69b6320069d1cb13e0063c44eb8c/header.jpg?t=1778370364" alt="Click Build Repeat（新規追加）" /></a></p><p>Click Build Repeat is an incremental game about building and collecting model kits.</p><p><a href="https://store.steampowered.com/app/4568060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Crow Heist（新規追加）</title>
   <link>https://store.steampowered.com/app/4336420/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626650/870f5f68ff1d548fe1231cbafa124fcee9a1bf90/header.jpg?t=1778155991" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626650/870f5f68ff1d548fe1231cbafa124fcee9a1bf90/header.jpg?t=1778155991" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4626650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626650/870f5f68ff1d548fe1231cbafa124fcee9a1bf90/header.jpg?t=1778155991" alt="Evil Maiden: The Noble Warrior and the Demon Armor（新規追加）" /></a></p><p>In a war‑torn otherworld, the warrior Alice survives only by relying on her companions in the mercenary band. But when she returns from a mission, she finds every member slaughtered and her younger sister taken by a mysterious woman in white.</p><p><a href="https://store.steampowered.com/app/4626650/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>欲都戰姬（新規追加）</title>
-  <link>https://store.steampowered.com/app/4668790/</link>
-  <guid isPermaLink="false">steam-store-published-4668790</guid>
-  <pubDate>Thu, 07 May 2026 12:27:15 +0000</pubDate>
-  <description>《欲都戰姬》是一款科幻背景的 18+ 超能感官互動養成遊戲。戰姬已撕裂虛空降臨，在這裡，戰鬥只是前戲，「調教與羈絆」才是核心！透過全動態 Live2D 技術與專屬調教系統，你的每一次觸碰都將引發她們最真實的反應。解鎖不為人知的隱秘互動，體驗從羞澀反抗到徹底服從的極致感官盛宴！</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668790/825185d46a68dccedf578d8ff6c13c1150c630b6/header.jpg?t=1778156192" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668790/825185d46a68dccedf578d8ff6c13c1150c630b6/header.jpg?t=1778156192" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668790/825185d46a68dccedf578d8ff6c13c1150c630b6/header.jpg?t=1778156192" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4668790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668790/825185d46a68dccedf578d8ff6c13c1150c630b6/header.jpg?t=1778156192" alt="欲都戰姬（新規追加）" /></a></p><p>《欲都戰姬》是一款科幻背景的 18+ 超能感官互動養成遊戲。戰姬已撕裂虛空降臨，在這裡，戰鬥只是前戲，「調教與羈絆」才是核心！透過全動態 Live2D 技術與專屬調教系統，你的每一次觸碰都將引發她們最真實的反應。解鎖不為人知的隱秘互動，體驗從羞澀反抗到徹底服從的極致感官盛宴！</p><p><a href="https://store.steampowered.com/app/4668790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
