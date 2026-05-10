@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 10 May 2026 18:08:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 19:35:25 +0000</lastBuildDate>
+<item>
+  <title>Cheese Stack（新規追加）</title>
+  <link>https://store.steampowered.com/app/4674970/</link>
+  <guid isPermaLink="false">steam-store-published-4674970</guid>
+  <pubDate>Sun, 10 May 2026 19:35:25 +0000</pubDate>
+  <description>Cheese Stack -  is a cozy puzzle game where you arrange falling pieces of cheese into perfect rows. Simple rules, delicious graphics, upbeat music, and a highscore table you&#x27;ll be tempted to beat. It&#x27;s the perfect way to relax for 5 minutes or lose yourself in the game for an hour.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674970/9a1c3e3e3d660cae544b09b6c75cbe392854a722/header.jpg?t=1778440891" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674970/9a1c3e3e3d660cae544b09b6c75cbe392854a722/header.jpg?t=1778440891" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674970/9a1c3e3e3d660cae544b09b6c75cbe392854a722/header.jpg?t=1778440891" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4674970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4674970/9a1c3e3e3d660cae544b09b6c75cbe392854a722/header.jpg?t=1778440891" alt="Cheese Stack（新規追加）" /></a></p><p>Cheese Stack -  is a cozy puzzle game where you arrange falling pieces of cheese into perfect rows. Simple rules, delicious graphics, upbeat music, and a highscore table you&#x27;ll be tempted to beat. It&#x27;s the perfect way to relax for 5 minutes or lose yourself in the game for an hour.</p><p><a href="https://store.steampowered.com/app/4674970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dusklander（新規追加）</title>
   <link>https://store.steampowered.com/app/4386890/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708290/0524c0ab3e05c6e4209a0344cc6827203f37c5bc/header.jpg?t=1778170648" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708290/0524c0ab3e05c6e4209a0344cc6827203f37c5bc/header.jpg?t=1778170648" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4708290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708290/0524c0ab3e05c6e4209a0344cc6827203f37c5bc/header.jpg?t=1778170648" alt="Crimson Crusade（新規追加）" /></a></p><p>Crimson Crusade is a Dark Fantasy, Deckbuilding Roguelike Auto-Battler about war, necromancers, and resurrection. Draft your dark army, summon foul creatures, and wipe the battlefield clean of your enemies. Will you end the war, or simply extend it into eternity?</p><p><a href="https://store.steampowered.com/app/4708290/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Five Nights at Bowl City High School（新規追加）</title>
-  <link>https://store.steampowered.com/app/4696210/</link>
-  <guid isPermaLink="false">steam-store-published-4696210</guid>
-  <pubDate>Thu, 07 May 2026 17:11:18 +0000</pubDate>
-  <description>You&#x27;ve just been hired at Bowl City High School, but its not what it seems... Use your flashlight to light up the office and look for lurking teachers, locate hiding spots to survive, and block off vents to stop them from getting into your office. Most importantly, however, you must stop Mr. Gut...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696210/2aaad0f8792a68e4c8883971b7ab61c93af167ab/header.jpg?t=1778172549" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696210/2aaad0f8792a68e4c8883971b7ab61c93af167ab/header.jpg?t=1778172549" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696210/2aaad0f8792a68e4c8883971b7ab61c93af167ab/header.jpg?t=1778172549" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4696210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696210/2aaad0f8792a68e4c8883971b7ab61c93af167ab/header.jpg?t=1778172549" alt="Five Nights at Bowl City High School（新規追加）" /></a></p><p>You&#x27;ve just been hired at Bowl City High School, but its not what it seems... Use your flashlight to light up the office and look for lurking teachers, locate hiding spots to survive, and block off vents to stop them from getting into your office. Most importantly, however, you must stop Mr. Gut...</p><p><a href="https://store.steampowered.com/app/4696210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
