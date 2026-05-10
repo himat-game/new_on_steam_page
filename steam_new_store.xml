@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 10 May 2026 15:15:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 17:15:06 +0000</lastBuildDate>
+<item>
+  <title>Buddies to Death（新規追加）</title>
+  <link>https://store.steampowered.com/app/4453660/</link>
+  <guid isPermaLink="false">steam-store-published-4453660</guid>
+  <pubDate>Sun, 10 May 2026 17:15:06 +0000</pubDate>
+  <description>Buddies to Death - A fast-paced, turn-based, 4X strategy set in a medieval fantasy world with asymmetric factions, amazing lore, and FISHHH!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453660/2934b4c040600935999df3a87ec0fdaa0362e15d/header.jpg?t=1778430835" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453660/2934b4c040600935999df3a87ec0fdaa0362e15d/header.jpg?t=1778430835" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453660/2934b4c040600935999df3a87ec0fdaa0362e15d/header.jpg?t=1778430835" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4453660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453660/2934b4c040600935999df3a87ec0fdaa0362e15d/header.jpg?t=1778430835" alt="Buddies to Death（新規追加）" /></a></p><p>Buddies to Death - A fast-paced, turn-based, 4X strategy set in a medieval fantasy world with asymmetric factions, amazing lore, and FISHHH!</p><p><a href="https://store.steampowered.com/app/4453660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Call of Toys: Tower Defense（新規追加）</title>
+  <link>https://store.steampowered.com/app/4686660/</link>
+  <guid isPermaLink="false">steam-store-published-4686660</guid>
+  <pubDate>Sun, 10 May 2026 17:15:06 +0000</pubDate>
+  <description>Embark on an exhilarating journey to protect Santa&#x27;s Valley in this epic Tower Defense game. Explore an arsenal of 13 unique towers, each equipped with magical spells and exclusive abilities. Customize your towers with numerous upgrades that enhance their strength and unlock new magical powers.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686660/52f29e3d18bb98821ef65b9c747d548bcf2c62f2/header.jpg?t=1778433175" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686660/52f29e3d18bb98821ef65b9c747d548bcf2c62f2/header.jpg?t=1778433175" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686660/52f29e3d18bb98821ef65b9c747d548bcf2c62f2/header.jpg?t=1778433175" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4686660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686660/52f29e3d18bb98821ef65b9c747d548bcf2c62f2/header.jpg?t=1778433175" alt="Call of Toys: Tower Defense（新規追加）" /></a></p><p>Embark on an exhilarating journey to protect Santa&#x27;s Valley in this epic Tower Defense game. Explore an arsenal of 13 unique towers, each equipped with magical spells and exclusive abilities. Customize your towers with numerous upgrades that enhance their strength and unlock new magical powers.</p><p><a href="https://store.steampowered.com/app/4686660/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Captain Awesome - Adventures in Space（新規追加）</title>
   <link>https://store.steampowered.com/app/4611690/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689230/123c99a573191f18f07656bbb3f55ce373885b7b/header.jpg?t=1778172961" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689230/123c99a573191f18f07656bbb3f55ce373885b7b/header.jpg?t=1778172961" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4689230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689230/123c99a573191f18f07656bbb3f55ce373885b7b/header.jpg?t=1778172961" alt="Market Manager Simulator（新規追加）" /></a></p><p>Build and manage your own market. Fill the shelves, set prices, serve customers, manage online orders and grow your business. Hire employees, check stocks and turn your market into a large business.</p><p><a href="https://store.steampowered.com/app/4689230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Survival Z（新規追加）</title>
-  <link>https://store.steampowered.com/app/4670930/</link>
-  <guid isPermaLink="false">steam-store-published-4670930</guid>
-  <pubDate>Thu, 07 May 2026 17:11:18 +0000</pubDate>
-  <description>Survival Z is an action-adventure game with survival elements, set in a semi-open world inspired by Brazil. Collect and manage resources, level up, hunt and eliminate all infected and other enemies scattered across the map, trade with merchants, and upgrade your arsenal.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670930/263022d2513f1697f7bbacc6d19459b3d5158a67/header.jpg?t=1778170786" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670930/263022d2513f1697f7bbacc6d19459b3d5158a67/header.jpg?t=1778170786" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670930/263022d2513f1697f7bbacc6d19459b3d5158a67/header.jpg?t=1778170786" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4670930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670930/263022d2513f1697f7bbacc6d19459b3d5158a67/header.jpg?t=1778170786" alt="Survival Z（新規追加）" /></a></p><p>Survival Z is an action-adventure game with survival elements, set in a semi-open world inspired by Brazil. Collect and manage resources, level up, hunt and eliminate all infected and other enemies scattered across the map, trade with merchants, and upgrade your arsenal.</p><p><a href="https://store.steampowered.com/app/4670930/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Дорога Жизни（新規追加）</title>
-  <link>https://store.steampowered.com/app/4693550/</link>
-  <guid isPermaLink="false">steam-store-published-4693550</guid>
-  <pubDate>Thu, 07 May 2026 17:11:18 +0000</pubDate>
-  <description>A narrative-driven truck driver simulator set within a historically reconstructed World War II setting, taking place on the route across Lake Ladoga (“Road of Life”) during the Siege of Leningrad.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693550/c8b4f1592e927bc72d1be373c1da7c6d5698832c/header.jpg?t=1778172864" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693550/c8b4f1592e927bc72d1be373c1da7c6d5698832c/header.jpg?t=1778172864" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693550/c8b4f1592e927bc72d1be373c1da7c6d5698832c/header.jpg?t=1778172864" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4693550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693550/c8b4f1592e927bc72d1be373c1da7c6d5698832c/header.jpg?t=1778172864" alt="Дорога Жизни（新規追加）" /></a></p><p>A narrative-driven truck driver simulator set within a historically reconstructed World War II setting, taking place on the route across Lake Ladoga (“Road of Life”) during the Siege of Leningrad.</p><p><a href="https://store.steampowered.com/app/4693550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
