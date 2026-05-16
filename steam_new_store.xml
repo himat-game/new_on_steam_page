@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 16 May 2026 14:20:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 15:38:17 +0000</lastBuildDate>
+<item>
+  <title>Crowned（新規追加）</title>
+  <link>https://store.steampowered.com/app/4709990/</link>
+  <guid isPermaLink="false">steam-store-published-4709990</guid>
+  <pubDate>Sat, 16 May 2026 15:38:17 +0000</pubDate>
+  <description>Lead legendary medieval armies in a turn-based card strategy game set during the conflicts of the Middle Ages. Choose your King, build your deck, and outmaneuver your enemies on the battlefield. Every card is earned through battle. Every decision matters.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709990/f3cdf39f0b826893d48c0dbb85e5c7d4feb0b8d8/header.jpg?t=1778943144" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709990/f3cdf39f0b826893d48c0dbb85e5c7d4feb0b8d8/header.jpg?t=1778943144" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709990/f3cdf39f0b826893d48c0dbb85e5c7d4feb0b8d8/header.jpg?t=1778943144" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4709990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709990/f3cdf39f0b826893d48c0dbb85e5c7d4feb0b8d8/header.jpg?t=1778943144" alt="Crowned（新規追加）" /></a></p><p>Lead legendary medieval armies in a turn-based card strategy game set during the conflicts of the Middle Ages. Choose your King, build your deck, and outmaneuver your enemies on the battlefield. Every card is earned through battle. Every decision matters.</p><p><a href="https://store.steampowered.com/app/4709990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dancing Line（新規追加）</title>
   <link>https://store.steampowered.com/app/4395300/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673460/55d2818d59ad6d898c266ddcda11a51f78fa87fc/header.jpg?t=1778729502" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673460/55d2818d59ad6d898c266ddcda11a51f78fa87fc/header.jpg?t=1778729502" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4673460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673460/55d2818d59ad6d898c266ddcda11a51f78fa87fc/header.jpg?t=1778729502" alt="Cursor.exe（新規追加）" /></a></p><p>Navigate a living system that lies, shifts, and fights back as you race to complete its objectives. Activate nodes, deliver signals, and adapt as it begins to learn you.</p><p><a href="https://store.steampowered.com/app/4673460/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>DiveInLoveVR（新規追加）</title>
-  <link>https://store.steampowered.com/app/4708590/</link>
-  <guid isPermaLink="false">steam-store-published-4708590</guid>
-  <pubDate>Thu, 14 May 2026 04:15:49 +0000</pubDate>
-  <description>A story-driven romantic visual novel where your words shape each interaction. Choose the right responses to grow closer to three unique girls, uncover their hidden feelings, and experience a connection that deepens with every conversation.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708590/01719561a1636e4b632f97925cade8b0b4301ddc/header.jpg?t=1778723422" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708590/01719561a1636e4b632f97925cade8b0b4301ddc/header.jpg?t=1778723422" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708590/01719561a1636e4b632f97925cade8b0b4301ddc/header.jpg?t=1778723422" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4708590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708590/01719561a1636e4b632f97925cade8b0b4301ddc/header.jpg?t=1778723422" alt="DiveInLoveVR（新規追加）" /></a></p><p>A story-driven romantic visual novel where your words shape each interaction. Choose the right responses to grow closer to three unique girls, uncover their hidden feelings, and experience a connection that deepens with every conversation.</p><p><a href="https://store.steampowered.com/app/4708590/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
