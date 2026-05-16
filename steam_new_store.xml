@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 16 May 2026 10:39:06 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 11:35:54 +0000</lastBuildDate>
+<item>
+  <title>Puzzle Art（新規追加）</title>
+  <link>https://store.steampowered.com/app/4516050/</link>
+  <guid isPermaLink="false">steam-store-published-4516050</guid>
+  <pubDate>Sat, 16 May 2026 11:35:54 +0000</pubDate>
+  <description>Puzzle Art is a beautiful and relaxing 2D puzzle game. Explore various galleries, from wild animals to enchanting tales, and piece together stunning artworks. Adjust the difficulty to your liking and complete your collection at your own pace!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516050/0e5496298ae522f314db461319f2fd3d9c1dd80f/header.jpg?t=1778928650" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516050/0e5496298ae522f314db461319f2fd3d9c1dd80f/header.jpg?t=1778928650" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516050/0e5496298ae522f314db461319f2fd3d9c1dd80f/header.jpg?t=1778928650" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4516050/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516050/0e5496298ae522f314db461319f2fd3d9c1dd80f/header.jpg?t=1778928650" alt="Puzzle Art（新規追加）" /></a></p><p>Puzzle Art is a beautiful and relaxing 2D puzzle game. Explore various galleries, from wild animals to enchanting tales, and piece together stunning artworks. Adjust the difficulty to your liking and complete your collection at your own pace!</p><p><a href="https://store.steampowered.com/app/4516050/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Too Soon（新規追加）</title>
   <link>https://store.steampowered.com/app/4709200/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611190/36197faf15ba85b21fbba260bf15564552b468ca/header.jpg?t=1778729858" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611190/36197faf15ba85b21fbba260bf15564552b468ca/header.jpg?t=1778729858" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4611190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611190/36197faf15ba85b21fbba260bf15564552b468ca/header.jpg?t=1778729858" alt="The Blighted Frontier（新規追加）" /></a></p><p>Rebuild civilization in a world consumed by the blight. Manage survivors, defend against the dead, and transform a fragile camp into a thriving frontier settlement.</p><p><a href="https://store.steampowered.com/app/4611190/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Red Ledger（新規追加）</title>
-  <link>https://store.steampowered.com/app/3801400/</link>
-  <guid isPermaLink="false">steam-store-published-3801400</guid>
-  <pubDate>Thu, 14 May 2026 04:15:49 +0000</pubDate>
-  <description>Four departments. One sealed warehouse. Submit your secret budget, claim the assets, and hope the paperwork survives inspection. Red Ledger is a short 4-player PvP bluffing game with bot-filled seats.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/3081f1deced8f7c9d7eea54bef476168986f9298/header.jpg?t=1778722031" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/3081f1deced8f7c9d7eea54bef476168986f9298/header.jpg?t=1778722031" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/3081f1deced8f7c9d7eea54bef476168986f9298/header.jpg?t=1778722031" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3801400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/3081f1deced8f7c9d7eea54bef476168986f9298/header.jpg?t=1778722031" alt="Red Ledger（新規追加）" /></a></p><p>Four departments. One sealed warehouse. Submit your secret budget, claim the assets, and hope the paperwork survives inspection. Red Ledger is a short 4-player PvP bluffing game with bot-filled seats.</p><p><a href="https://store.steampowered.com/app/3801400/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
