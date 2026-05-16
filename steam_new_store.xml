@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 16 May 2026 09:14:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 10:39:06 +0000</lastBuildDate>
+<item>
+  <title>Too Soon（新規追加）</title>
+  <link>https://store.steampowered.com/app/4709200/</link>
+  <guid isPermaLink="false">steam-store-published-4709200</guid>
+  <pubDate>Sat, 16 May 2026 10:39:06 +0000</pubDate>
+  <description>Too Soon is a psychological meta-game about waiting, relapse, and opening the game when you probably should not. Every launch is remembered. The longer you stay away, the more the system changes the way it speaks to you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709200/79d8167a68a654fe60ad1a8f7f7f11782f7be547/header.jpg?t=1778927670" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709200/79d8167a68a654fe60ad1a8f7f7f11782f7be547/header.jpg?t=1778927670" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709200/79d8167a68a654fe60ad1a8f7f7f11782f7be547/header.jpg?t=1778927670" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4709200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709200/79d8167a68a654fe60ad1a8f7f7f11782f7be547/header.jpg?t=1778927670" alt="Too Soon（新規追加）" /></a></p><p>Too Soon is a psychological meta-game about waiting, relapse, and opening the game when you probably should not. Every launch is remembered. The longer you stay away, the more the system changes the way it speaks to you.</p><p><a href="https://store.steampowered.com/app/4709200/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Wonderful Body Wanted（新規追加）</title>
   <link>https://store.steampowered.com/app/4260290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/3081f1deced8f7c9d7eea54bef476168986f9298/header.jpg?t=1778722031" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/3081f1deced8f7c9d7eea54bef476168986f9298/header.jpg?t=1778722031" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3801400/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/3081f1deced8f7c9d7eea54bef476168986f9298/header.jpg?t=1778722031" alt="Red Ledger（新規追加）" /></a></p><p>Four departments. One sealed warehouse. Submit your secret budget, claim the assets, and hope the paperwork survives inspection. Red Ledger is a short 4-player PvP bluffing game with bot-filled seats.</p><p><a href="https://store.steampowered.com/app/3801400/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Node Pit（新規追加）</title>
-  <link>https://store.steampowered.com/app/4618790/</link>
-  <guid isPermaLink="false">steam-store-published-4618790</guid>
-  <pubDate>Thu, 14 May 2026 04:15:49 +0000</pubDate>
-  <description>A rogue‑lite, gamble‑style puzzle where you launch catalysts like a Plinko shot inside a starship reactor, activating nodes to charge warp energy. Build powerful nodes through inheritance and card choices!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618790/af00899610389780a20003395fb2e630853107d3/header.jpg?t=1778727034" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618790/af00899610389780a20003395fb2e630853107d3/header.jpg?t=1778727034" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618790/af00899610389780a20003395fb2e630853107d3/header.jpg?t=1778727034" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4618790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618790/af00899610389780a20003395fb2e630853107d3/header.jpg?t=1778727034" alt="Node Pit（新規追加）" /></a></p><p>A rogue‑lite, gamble‑style puzzle where you launch catalysts like a Plinko shot inside a starship reactor, activating nodes to charge warp energy. Build powerful nodes through inheritance and card choices!</p><p><a href="https://store.steampowered.com/app/4618790/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
