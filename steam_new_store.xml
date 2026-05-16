@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 16 May 2026 19:44:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 21:43:45 +0000</lastBuildDate>
+<item>
+  <title>EQUILIBRIUM（新規追加）</title>
+  <link>https://store.steampowered.com/app/4661850/</link>
+  <guid isPermaLink="false">steam-store-published-4661850</guid>
+  <pubDate>Sat, 16 May 2026 21:43:45 +0000</pubDate>
+  <description>Take control of global macroeconomics and geopolitics in this deep, realistic simulation. Manage GDP, inflation, and international tensions as an invisible architect. Will you maintain the global equilibrium or exploit the chaos for power? The world&#x27;s fate is in your hands.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661850/d3870e59ed293b72490c6beb676dba5f7c1ba7ab/header.jpg?t=1778965035" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661850/d3870e59ed293b72490c6beb676dba5f7c1ba7ab/header.jpg?t=1778965035" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661850/d3870e59ed293b72490c6beb676dba5f7c1ba7ab/header.jpg?t=1778965035" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4661850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661850/d3870e59ed293b72490c6beb676dba5f7c1ba7ab/header.jpg?t=1778965035" alt="EQUILIBRIUM（新規追加）" /></a></p><p>Take control of global macroeconomics and geopolitics in this deep, realistic simulation. Manage GDP, inflation, and international tensions as an invisible architect. Will you maintain the global equilibrium or exploit the chaos for power? The world&#x27;s fate is in your hands.</p><p><a href="https://store.steampowered.com/app/4661850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Weaper（新規追加）</title>
   <link>https://store.steampowered.com/app/4690030/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727130/8ee81fc92964b5f9c4f118c429f8272b78ad66cf/header.jpg?t=1778732646" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727130/8ee81fc92964b5f9c4f118c429f8272b78ad66cf/header.jpg?t=1778732646" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4727130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727130/8ee81fc92964b5f9c4f118c429f8272b78ad66cf/header.jpg?t=1778732646" alt="Backrooms: The Void（新規追加）" /></a></p><p>Backrooms: The Void is a cooperative psychological horror game for 1–4 players. Trapped in an endless emptiness where space feels alive and reality constantly distorts, you must navigate decaying corridors, forgotten places, and impossible structures while something unseen follows your every move.</p><p><a href="https://store.steampowered.com/app/4727130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Guns &amp; Dragons（新規追加）</title>
-  <link>https://store.steampowered.com/app/4687860/</link>
-  <guid isPermaLink="false">steam-store-published-4687860</guid>
-  <pubDate>Thu, 14 May 2026 07:24:46 +0000</pubDate>
-  <description>Dragons? Magic? Who cares? Fight with overwhelming firepower in this co-op FPS roguelite. Fight, choose, grow stronger. Science vs. magic. Fight enemies in dungeons, pick runes and artifacts to craft your own build, use materials to expand your base, develop deadlier weapons, and take down dragons.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687860/0bbdc0356beff70b53f7cc5a710c5bf47914511a/header.jpg?t=1778741664" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687860/0bbdc0356beff70b53f7cc5a710c5bf47914511a/header.jpg?t=1778741664" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687860/0bbdc0356beff70b53f7cc5a710c5bf47914511a/header.jpg?t=1778741664" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4687860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687860/0bbdc0356beff70b53f7cc5a710c5bf47914511a/header.jpg?t=1778741664" alt="Guns &amp; Dragons（新規追加）" /></a></p><p>Dragons? Magic? Who cares? Fight with overwhelming firepower in this co-op FPS roguelite. Fight, choose, grow stronger. Science vs. magic. Fight enemies in dungeons, pick runes and artifacts to craft your own build, use materials to expand your base, develop deadlier weapons, and take down dragons.</p><p><a href="https://store.steampowered.com/app/4687860/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
