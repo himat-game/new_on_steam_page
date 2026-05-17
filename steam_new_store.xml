@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 17 May 2026 17:36:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 18:40:46 +0000</lastBuildDate>
+<item>
+  <title>Aligned Hearts（新規追加）</title>
+  <link>https://store.steampowered.com/app/4731580/</link>
+  <guid isPermaLink="false">steam-store-published-4731580</guid>
+  <pubDate>Sun, 17 May 2026 18:40:46 +0000</pubDate>
+  <description>An adult romance visual novel set in a San Francisco AI lab during a twelve-week sprint to launch a frontier model. Play as Pierce, Helion AI&#x27;s co-founder, caught between three powerful women as deadlines, depositions, and go/no-go votes close in.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731580/ee4ab93df6547bcae8893849f8cb01c822d02ea0/header.jpg?t=1779041057" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731580/ee4ab93df6547bcae8893849f8cb01c822d02ea0/header.jpg?t=1779041057" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731580/ee4ab93df6547bcae8893849f8cb01c822d02ea0/header.jpg?t=1779041057" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4731580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731580/ee4ab93df6547bcae8893849f8cb01c822d02ea0/header.jpg?t=1779041057" alt="Aligned Hearts（新規追加）" /></a></p><p>An adult romance visual novel set in a San Francisco AI lab during a twelve-week sprint to launch a frontier model. Play as Pierce, Helion AI&#x27;s co-founder, caught between three powerful women as deadlines, depositions, and go/no-go votes close in.</p><p><a href="https://store.steampowered.com/app/4731580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Chair!（新規追加）</title>
   <link>https://store.steampowered.com/app/4167980/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690800/e167b0096cfbd657913d8cb657e25f77dbd3b9d4/header.jpg?t=1778745711" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690800/e167b0096cfbd657913d8cb657e25f77dbd3b9d4/header.jpg?t=1778745711" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3690800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690800/e167b0096cfbd657913d8cb657e25f77dbd3b9d4/header.jpg?t=1778745711" alt="Aurora Directive（新規追加）" /></a></p><p>Command an elite mercenary squad in a story-driven turn-based tactics game. Use experimental augmentations, master a flexible 3 Action Point combat system, and fight through a war for control of the Nova Prime System.</p><p><a href="https://store.steampowered.com/app/3690800/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hit Streak And Brawl（新規追加）</title>
-  <link>https://store.steampowered.com/app/4720210/</link>
-  <guid isPermaLink="false">steam-store-published-4720210</guid>
-  <pubDate>Thu, 14 May 2026 09:57:08 +0000</pubDate>
-  <description>Fast-paced light roguelike: random events flash rapidly. Surrounded by swarms, move up/down/left/right to charge and knock enemies flying. Combine effects—or adapt instantly. Break encirclements, rack up scores, and unlock the ultimate boss challenge.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720210/c8e9e0dbc967fc7dfa9bb9318442a0ce32e0a1cb/header.jpg?t=1778745757" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720210/c8e9e0dbc967fc7dfa9bb9318442a0ce32e0a1cb/header.jpg?t=1778745757" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720210/c8e9e0dbc967fc7dfa9bb9318442a0ce32e0a1cb/header.jpg?t=1778745757" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4720210/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720210/c8e9e0dbc967fc7dfa9bb9318442a0ce32e0a1cb/header.jpg?t=1778745757" alt="Hit Streak And Brawl（新規追加）" /></a></p><p>Fast-paced light roguelike: random events flash rapidly. Surrounded by swarms, move up/down/left/right to charge and knock enemies flying. Combine effects—or adapt instantly. Break encirclements, rack up scores, and unlock the ultimate boss challenge.</p><p><a href="https://store.steampowered.com/app/4720210/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
