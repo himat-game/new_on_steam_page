@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 17 May 2026 12:38:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 14:08:37 +0000</lastBuildDate>
+<item>
+  <title>content moderator.（新規追加）</title>
+  <link>https://store.steampowered.com/app/4727820/</link>
+  <guid isPermaLink="false">steam-store-published-4727820</guid>
+  <pubDate>Sun, 17 May 2026 14:08:37 +0000</pubDate>
+  <description>To pay for your mother&#x27;s surgery, you take on a shady part-time job: &amp;quot;content moderator&amp;quot; Your task is to delete the &amp;quot;forbidden images&amp;quot; that must never see the light of day. Survive the creeping curses of this abnormal office.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727820/19781b5e7239d7a328b8a02a38d8d5393a85411d/header.jpg?t=1779024131" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727820/19781b5e7239d7a328b8a02a38d8d5393a85411d/header.jpg?t=1779024131" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727820/19781b5e7239d7a328b8a02a38d8d5393a85411d/header.jpg?t=1779024131" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4727820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727820/19781b5e7239d7a328b8a02a38d8d5393a85411d/header.jpg?t=1779024131" alt="content moderator.（新規追加）" /></a></p><p>To pay for your mother&#x27;s surgery, you take on a shady part-time job: &amp;quot;content moderator&amp;quot; Your task is to delete the &amp;quot;forbidden images&amp;quot; that must never see the light of day. Survive the creeping curses of this abnormal office.</p><p><a href="https://store.steampowered.com/app/4727820/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>A Psychopomp Besieged（新規追加）</title>
   <link>https://store.steampowered.com/app/4410280/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615910/c07b5e8f5a6da29cfec82855e1999be5735575db/header.jpg?t=1778748473" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615910/c07b5e8f5a6da29cfec82855e1999be5735575db/header.jpg?t=1778748473" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4615910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615910/c07b5e8f5a6da29cfec82855e1999be5735575db/header.jpg?t=1778748473" alt="Horde Reapers（新規追加）" /></a></p><p>Fight through relentless hordes solo or in up to 4-player co-op. Loot powerful relics, grow stronger each run, and rebuild your village to unlock heroes and upgrades</p><p><a href="https://store.steampowered.com/app/4615910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Neon Arcade（新規追加）</title>
-  <link>https://store.steampowered.com/app/4644470/</link>
-  <guid isPermaLink="false">steam-store-published-4644470</guid>
-  <pubDate>Thu, 14 May 2026 09:57:08 +0000</pubDate>
-  <description>There is a place where arcade machines never die and the desktop never sleeps. RiderOS is your portal to 50+ neon-soaked games across every genre, all breathing the same electric air. Log in. Pick a window. Lose the evening.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644470/75353cc053ff35d8b301a642be2a063a01e0e691/header.jpg?t=1778747552" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644470/75353cc053ff35d8b301a642be2a063a01e0e691/header.jpg?t=1778747552" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644470/75353cc053ff35d8b301a642be2a063a01e0e691/header.jpg?t=1778747552" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4644470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644470/75353cc053ff35d8b301a642be2a063a01e0e691/header.jpg?t=1778747552" alt="Neon Arcade（新規追加）" /></a></p><p>There is a place where arcade machines never die and the desktop never sleeps. RiderOS is your portal to 50+ neon-soaked games across every genre, all breathing the same electric air. Log in. Pick a window. Lose the evening.</p><p><a href="https://store.steampowered.com/app/4644470/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
