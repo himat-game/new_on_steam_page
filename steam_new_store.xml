@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 16 May 2026 22:41:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 16 May 2026 23:50:07 +0000</lastBuildDate>
+<item>
+  <title>FAST FOOD FUNKIN&#x27;（新規追加）</title>
+  <link>https://store.steampowered.com/app/4698120/</link>
+  <guid isPermaLink="false">steam-store-published-4698120</guid>
+  <pubDate>Sat, 16 May 2026 23:50:07 +0000</pubDate>
+  <description>Have some beats with yo&#x27; mickey dee double-cheese. A high-caloric FRIDAY NIGHT FUNKIN&#x27; parody game made for the annual Flash Forward Jam on Newgrounds</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698120/71679862bfe364c53513919509866e9e9837279c/header.jpg?t=1778973799" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698120/71679862bfe364c53513919509866e9e9837279c/header.jpg?t=1778973799" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698120/71679862bfe364c53513919509866e9e9837279c/header.jpg?t=1778973799" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4698120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698120/71679862bfe364c53513919509866e9e9837279c/header.jpg?t=1778973799" alt="FAST FOOD FUNKIN&#x27;（新規追加）" /></a></p><p>Have some beats with yo&#x27; mickey dee double-cheese. A high-caloric FRIDAY NIGHT FUNKIN&#x27; parody game made for the annual Flash Forward Jam on Newgrounds</p><p><a href="https://store.steampowered.com/app/4698120/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Meoware（新規追加）</title>
   <link>https://store.steampowered.com/app/4706460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718670/8be4b3edb85b5c6e8da1ea01ab299295358b873e/header.jpg?t=1778743000" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718670/8be4b3edb85b5c6e8da1ea01ab299295358b873e/header.jpg?t=1778743000" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4718670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718670/8be4b3edb85b5c6e8da1ea01ab299295358b873e/header.jpg?t=1778743000" alt="Divine Sin: Death Duel（新規追加）" /></a></p><p>A dark fantasy deckbuilding roguelike featuring a unique Clash combat system, where every duel becomes an exchange of calculated moves and deadly counters.</p><p><a href="https://store.steampowered.com/app/4718670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>NEON BLOCK（新規追加）</title>
-  <link>https://store.steampowered.com/app/4608320/</link>
-  <guid isPermaLink="false">steam-store-published-4608320</guid>
-  <pubDate>Thu, 14 May 2026 07:24:46 +0000</pubDate>
-  <description>Neon Block is a hardcore cyberpunk multitasking challenge. Manage a fast-paced block puzzle with your left hand while hacking the Omega Core via a real-time terminal with your right. Solve the equation, counter system glitches, and prove that free will cannot be calculated.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608320/74283139e6678e78d94cc0ad9d6c1ae8d439c6aa/header.jpg?t=1778737200" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608320/74283139e6678e78d94cc0ad9d6c1ae8d439c6aa/header.jpg?t=1778737200" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608320/74283139e6678e78d94cc0ad9d6c1ae8d439c6aa/header.jpg?t=1778737200" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4608320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608320/74283139e6678e78d94cc0ad9d6c1ae8d439c6aa/header.jpg?t=1778737200" alt="NEON BLOCK（新規追加）" /></a></p><p>Neon Block is a hardcore cyberpunk multitasking challenge. Manage a fast-paced block puzzle with your left hand while hacking the Omega Core via a real-time terminal with your right. Solve the equation, counter system glitches, and prove that free will cannot be calculated.</p><p><a href="https://store.steampowered.com/app/4608320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
