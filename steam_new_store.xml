@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 17 May 2026 18:40:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 22:10:16 +0000</lastBuildDate>
+<item>
+  <title>RSK Studio - Engine Suite Plugins（新規追加）</title>
+  <link>https://store.steampowered.com/app/4580900/</link>
+  <guid isPermaLink="false">steam-store-published-4580900</guid>
+  <pubDate>Sun, 17 May 2026 22:10:16 +0000</pubDate>
+  <description>20 professional plugins for RPG Maker MZ. Real-time visual editors, dynamic weather, seamless worlds, tactical combat and more. 11 languages. No code.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580900/2bdd0aef3312c76576840bc7e19ec1beebb393a9/header.jpg?t=1779053383" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580900/2bdd0aef3312c76576840bc7e19ec1beebb393a9/header.jpg?t=1779053383" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580900/2bdd0aef3312c76576840bc7e19ec1beebb393a9/header.jpg?t=1779053383" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4580900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580900/2bdd0aef3312c76576840bc7e19ec1beebb393a9/header.jpg?t=1779053383" alt="RSK Studio - Engine Suite Plugins（新規追加）" /></a></p><p>20 professional plugins for RPG Maker MZ. Real-time visual editors, dynamic weather, seamless worlds, tactical combat and more. 11 languages. No code.</p><p><a href="https://store.steampowered.com/app/4580900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Aligned Hearts（新規追加）</title>
   <link>https://store.steampowered.com/app/4731580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606800/5ec3632e3e9b1f652595705b45630bbe61ae2963/header.jpg?t=1778747328" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606800/5ec3632e3e9b1f652595705b45630bbe61ae2963/header.jpg?t=1778747328" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4606800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606800/5ec3632e3e9b1f652595705b45630bbe61ae2963/header.jpg?t=1778747328" alt="Lark（新規追加）" /></a></p><p>Lark is a chaotic multiplayer survival roguelike where you play as a scrappy Wildthing. Harvest, build shelters, steal from other races, sacrifice loot to THE PIT, stack ridiculous buffs, and grow from tiny nuisance to unhinged forest god.</p><p><a href="https://store.steampowered.com/app/4606800/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Aurora Directive（新規追加）</title>
-  <link>https://store.steampowered.com/app/3690800/</link>
-  <guid isPermaLink="false">steam-store-published-3690800</guid>
-  <pubDate>Thu, 14 May 2026 09:57:08 +0000</pubDate>
-  <description>Command an elite mercenary squad in a story-driven turn-based tactics game. Use experimental augmentations, master a flexible 3 Action Point combat system, and fight through a war for control of the Nova Prime System.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690800/e167b0096cfbd657913d8cb657e25f77dbd3b9d4/header.jpg?t=1778745711" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690800/e167b0096cfbd657913d8cb657e25f77dbd3b9d4/header.jpg?t=1778745711" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690800/e167b0096cfbd657913d8cb657e25f77dbd3b9d4/header.jpg?t=1778745711" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3690800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690800/e167b0096cfbd657913d8cb657e25f77dbd3b9d4/header.jpg?t=1778745711" alt="Aurora Directive（新規追加）" /></a></p><p>Command an elite mercenary squad in a story-driven turn-based tactics game. Use experimental augmentations, master a flexible 3 Action Point combat system, and fight through a war for control of the Nova Prime System.</p><p><a href="https://store.steampowered.com/app/3690800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
