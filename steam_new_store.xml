@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 16 May 2026 23:50:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 02:48:21 +0000</lastBuildDate>
+<item>
+  <title>Degrowth（新規追加）</title>
+  <link>https://store.steampowered.com/app/4716810/</link>
+  <guid isPermaLink="false">steam-store-published-4716810</guid>
+  <pubDate>Sun, 17 May 2026 02:48:21 +0000</pubDate>
+  <description>Unbuild various cities in order to convince citizens of the benefits of cloud based living! Perform demolition using our simple one-click interface, but be careful not to delete the homes of citizens who are still employed! Your work is complete when everyone&#x27;s brain is uploaded to the cloud!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716810/57fc743a67142ce8369eb704c999008aeb2e515d/header.jpg?t=1778983342" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716810/57fc743a67142ce8369eb704c999008aeb2e515d/header.jpg?t=1778983342" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716810/57fc743a67142ce8369eb704c999008aeb2e515d/header.jpg?t=1778983342" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4716810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716810/57fc743a67142ce8369eb704c999008aeb2e515d/header.jpg?t=1778983342" alt="Degrowth（新規追加）" /></a></p><p>Unbuild various cities in order to convince citizens of the benefits of cloud based living! Perform demolition using our simple one-click interface, but be careful not to delete the homes of citizens who are still employed! Your work is complete when everyone&#x27;s brain is uploaded to the cloud!</p><p><a href="https://store.steampowered.com/app/4716810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>FAST FOOD FUNKIN&#x27;（新規追加）</title>
   <link>https://store.steampowered.com/app/4698120/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550850/88ec6dcf9804f2166769b5c9ee5c493a22b10c7f/header.jpg?t=1778739311" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550850/88ec6dcf9804f2166769b5c9ee5c493a22b10c7f/header.jpg?t=1778739311" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4550850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550850/88ec6dcf9804f2166769b5c9ee5c493a22b10c7f/header.jpg?t=1778739311" alt="Head Of Escalation（新規追加）" /></a></p><p>Head of Escalation - is a retro-style indie game that offers an ironic take on the daily life of a subway escalator attendant. Create your own attendant and try to make it through your probation period without a single incident. Even the slightest slip-up could get you shown the door.</p><p><a href="https://store.steampowered.com/app/4550850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Divine Sin: Death Duel（新規追加）</title>
-  <link>https://store.steampowered.com/app/4718670/</link>
-  <guid isPermaLink="false">steam-store-published-4718670</guid>
-  <pubDate>Thu, 14 May 2026 07:24:46 +0000</pubDate>
-  <description>A dark fantasy deckbuilding roguelike featuring a unique Clash combat system, where every duel becomes an exchange of calculated moves and deadly counters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718670/8be4b3edb85b5c6e8da1ea01ab299295358b873e/header.jpg?t=1778743000" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718670/8be4b3edb85b5c6e8da1ea01ab299295358b873e/header.jpg?t=1778743000" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718670/8be4b3edb85b5c6e8da1ea01ab299295358b873e/header.jpg?t=1778743000" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4718670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718670/8be4b3edb85b5c6e8da1ea01ab299295358b873e/header.jpg?t=1778743000" alt="Divine Sin: Death Duel（新規追加）" /></a></p><p>A dark fantasy deckbuilding roguelike featuring a unique Clash combat system, where every duel becomes an exchange of calculated moves and deadly counters.</p><p><a href="https://store.steampowered.com/app/4718670/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
