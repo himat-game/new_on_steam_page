@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 18 May 2026 22:38:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 23:43:11 +0000</lastBuildDate>
+<item>
+  <title>ANAVASI（新規追加）</title>
+  <link>https://store.steampowered.com/app/4173690/</link>
+  <guid isPermaLink="false">steam-store-published-4173690</guid>
+  <pubDate>Mon, 18 May 2026 23:43:11 +0000</pubDate>
+  <description>A cinematic narrative adventure set in modern-day Athens. Game developer Jason is drawn into a centuries-old society of vampires hidden beneath the city — where every choice pulls him toward truth, obsession, or damnation.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173690/18dcbf29da17761c92df4f90f6628b978c36cf4a/header.jpg?t=1779147561" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173690/18dcbf29da17761c92df4f90f6628b978c36cf4a/header.jpg?t=1779147561" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173690/18dcbf29da17761c92df4f90f6628b978c36cf4a/header.jpg?t=1779147561" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4173690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173690/18dcbf29da17761c92df4f90f6628b978c36cf4a/header.jpg?t=1779147561" alt="ANAVASI（新規追加）" /></a></p><p>A cinematic narrative adventure set in modern-day Athens. Game developer Jason is drawn into a centuries-old society of vampires hidden beneath the city — where every choice pulls him toward truth, obsession, or damnation.</p><p><a href="https://store.steampowered.com/app/4173690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Timberworks（新規追加）</title>
   <link>https://store.steampowered.com/app/4374670/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272070/7593bded8abc2fb5e94d590aed13f80bdc6b3b8d/header.jpg?t=1778775099" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272070/7593bded8abc2fb5e94d590aed13f80bdc6b3b8d/header.jpg?t=1778775099" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4272070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272070/7593bded8abc2fb5e94d590aed13f80bdc6b3b8d/header.jpg?t=1778775099" alt="Actor, RE: Actor（新規追加）" /></a></p><p>&amp;quot;Oh, THAT celebrity name game!&amp;quot; 3 - 8 players, both online and couch. Use the browser on your phone, tablet or computer to join in the fun!</p><p><a href="https://store.steampowered.com/app/4272070/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Maple Ridge（新規追加）</title>
-  <link>https://store.steampowered.com/app/4716540/</link>
-  <guid isPermaLink="false">steam-store-published-4716540</guid>
-  <pubDate>Thu, 14 May 2026 16:22:33 +0000</pubDate>
-  <description>After losing his wife in an accident, Alex is left alone in a suburban house where every little detail reminds him of the past. An ordinary evening quickly turns into a series of strange and unsettling events.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716540/816faf43e2d1f02249916bdc30517086c0430a2e/header.jpg?t=1778773181" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716540/816faf43e2d1f02249916bdc30517086c0430a2e/header.jpg?t=1778773181" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716540/816faf43e2d1f02249916bdc30517086c0430a2e/header.jpg?t=1778773181" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4716540/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716540/816faf43e2d1f02249916bdc30517086c0430a2e/header.jpg?t=1778773181" alt="Maple Ridge（新規追加）" /></a></p><p>After losing his wife in an accident, Alex is left alone in a suburban house where every little detail reminds him of the past. An ordinary evening quickly turns into a series of strange and unsettling events.</p><p><a href="https://store.steampowered.com/app/4716540/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
