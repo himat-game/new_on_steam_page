@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 22 May 2026 21:37:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 22 May 2026 22:38:30 +0000</lastBuildDate>
+<item>
+  <title>Tides of Destiny（新規追加）</title>
+  <link>https://store.steampowered.com/app/4704970/</link>
+  <guid isPermaLink="false">steam-store-published-4704970</guid>
+  <pubDate>Fri, 22 May 2026 22:38:30 +0000</pubDate>
+  <description>Assemble ever more intricate pieces, harvest the resources they provide, develop your Kingdom, send your explorers to discover the world, and find dry land before angry Gods sweep you away.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704970/5e3322e47ff2fece9d4dc643dabb7ed0aace440a/header.jpg?t=1779486199" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704970/5e3322e47ff2fece9d4dc643dabb7ed0aace440a/header.jpg?t=1779486199" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704970/5e3322e47ff2fece9d4dc643dabb7ed0aace440a/header.jpg?t=1779486199" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4704970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704970/5e3322e47ff2fece9d4dc643dabb7ed0aace440a/header.jpg?t=1779486199" alt="Tides of Destiny（新規追加）" /></a></p><p>Assemble ever more intricate pieces, harvest the resources they provide, develop your Kingdom, send your explorers to discover the world, and find dry land before angry Gods sweep you away.</p><p><a href="https://store.steampowered.com/app/4704970/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Peg Cascade（新規追加）</title>
+  <link>https://store.steampowered.com/app/4755080/</link>
+  <guid isPermaLink="false">steam-store-published-4755080</guid>
+  <pubDate>Fri, 22 May 2026 22:38:30 +0000</pubDate>
+  <description>Peg Cascade is a neon arcade-idle game of bouncing balls, rising scores, timed clears, prestige runs, and shareable Custom Boards you can build, export, import, and challenge friends to beat.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755080/73ac7d424cf7653831c2132dd2a1353e57bd941b/header.jpg?t=1779488238" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755080/73ac7d424cf7653831c2132dd2a1353e57bd941b/header.jpg?t=1779488238" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755080/73ac7d424cf7653831c2132dd2a1353e57bd941b/header.jpg?t=1779488238" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4755080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755080/73ac7d424cf7653831c2132dd2a1353e57bd941b/header.jpg?t=1779488238" alt="Peg Cascade（新規追加）" /></a></p><p>Peg Cascade is a neon arcade-idle game of bouncing balls, rising scores, timed clears, prestige runs, and shareable Custom Boards you can build, export, import, and challenge friends to beat.</p><p><a href="https://store.steampowered.com/app/4755080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Animal Rescue Network（新規追加）</title>
   <link>https://store.steampowered.com/app/4753780/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738470/f85d3a8c4d896de91fa963b76b6435942f525e92/header.jpg?t=1779305383" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738470/f85d3a8c4d896de91fa963b76b6435942f525e92/header.jpg?t=1779305383" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4738470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738470/f85d3a8c4d896de91fa963b76b6435942f525e92/header.jpg?t=1779305383" alt="RePair in the Space（新規追加）" /></a></p><p>RePair in the Space is a game where an alien and a robot must repair their ship. Whether playing with a friend or embarking on this journey alone, you’ll have to craft and use items to fix every sector of the ship, battling against time, haste... and sometimes against your friend or even yourself!</p><p><a href="https://store.steampowered.com/app/4738470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>FLIPSWEEPER（新規追加）</title>
-  <link>https://store.steampowered.com/app/4691720/</link>
-  <guid isPermaLink="false">steam-store-published-4691720</guid>
-  <pubDate>Wed, 20 May 2026 20:37:00 +0000</pubDate>
-  <description>Put your deductive reasoning to the test in this sleek, modern logic puzzle. Reveal safe tiles and mark hidden dangers to successfully clear the grid. Optimize your speed, minimize your hint usage, and master your logic skills to earn perfect 3-star ratings across dozens of challenging levels.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691720/a78173b24f75e3a741a35d4a85e57daf50676824/header.jpg?t=1779301971" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691720/a78173b24f75e3a741a35d4a85e57daf50676824/header.jpg?t=1779301971" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691720/a78173b24f75e3a741a35d4a85e57daf50676824/header.jpg?t=1779301971" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4691720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691720/a78173b24f75e3a741a35d4a85e57daf50676824/header.jpg?t=1779301971" alt="FLIPSWEEPER（新規追加）" /></a></p><p>Put your deductive reasoning to the test in this sleek, modern logic puzzle. Reveal safe tiles and mark hidden dangers to successfully clear the grid. Optimize your speed, minimize your hint usage, and master your logic skills to earn perfect 3-star ratings across dozens of challenging levels.</p><p><a href="https://store.steampowered.com/app/4691720/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Creepy Horrors: Blood Cult 2（新規追加）</title>
-  <link>https://store.steampowered.com/app/4405120/</link>
-  <guid isPermaLink="false">steam-store-published-4405120</guid>
-  <pubDate>Wed, 20 May 2026 20:37:00 +0000</pubDate>
-  <description>Build your roster of Creepy Horrors with demons, undead, spirits and cryptids in this tactical monster-taming dungeon RPG. Sacrifice blood cult followers and alchemical materials to summon Horrors, wielding them in merciless 3v3 battle to conquer rival cults and nightmare fueled monstrosities alike.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405120/399173741daf5707db7ba4045ee42824eb572f07/header.jpg?t=1779308441" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405120/399173741daf5707db7ba4045ee42824eb572f07/header.jpg?t=1779308441" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405120/399173741daf5707db7ba4045ee42824eb572f07/header.jpg?t=1779308441" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4405120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4405120/399173741daf5707db7ba4045ee42824eb572f07/header.jpg?t=1779308441" alt="Creepy Horrors: Blood Cult 2（新規追加）" /></a></p><p>Build your roster of Creepy Horrors with demons, undead, spirits and cryptids in this tactical monster-taming dungeon RPG. Sacrifice blood cult followers and alchemical materials to summon Horrors, wielding them in merciless 3v3 battle to conquer rival cults and nightmare fueled monstrosities alike.</p><p><a href="https://store.steampowered.com/app/4405120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
