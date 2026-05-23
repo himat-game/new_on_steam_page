@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 23 May 2026 10:13:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 11:37:17 +0000</lastBuildDate>
+<item>
+  <title>Word Score Labs（新規追加）</title>
+  <link>https://store.steampowered.com/app/4698420/</link>
+  <guid isPermaLink="false">steam-store-published-4698420</guid>
+  <pubDate>Sat, 23 May 2026 11:37:17 +0000</pubDate>
+  <description>This is a collection of several word mini-games designed to make memorizing English words fun and unforgettable, while achieving the sense of satisfaction from high scores. Each mini-game acts like a mini-lab, offering different way such as playing, dictation, or speaking to improve your level.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698420/51f4bfe9ec4444ae681dc9aa50e346a5a0ce1947/header.jpg?t=1779531837" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698420/51f4bfe9ec4444ae681dc9aa50e346a5a0ce1947/header.jpg?t=1779531837" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698420/51f4bfe9ec4444ae681dc9aa50e346a5a0ce1947/header.jpg?t=1779531837" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4698420/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698420/51f4bfe9ec4444ae681dc9aa50e346a5a0ce1947/header.jpg?t=1779531837" alt="Word Score Labs（新規追加）" /></a></p><p>This is a collection of several word mini-games designed to make memorizing English words fun and unforgettable, while achieving the sense of satisfaction from high scores. Each mini-game acts like a mini-lab, offering different way such as playing, dictation, or speaking to improve your level.</p><p><a href="https://store.steampowered.com/app/4698420/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>S.H.I.F.T（新規追加）</title>
   <link>https://store.steampowered.com/app/4754430/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696120/3029fe99221c011c829539fd12882d8f94d8763d/header.jpg?t=1779324826" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696120/3029fe99221c011c829539fd12882d8f94d8763d/header.jpg?t=1779324826" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4696120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696120/3029fe99221c011c829539fd12882d8f94d8763d/header.jpg?t=1779324826" alt="Be The Rocket Bucket（新規追加）" /></a></p><p>Smash, blow up, and destroy to bring peace to the world. The more destroyed, the faster it&#x27;s destroyed, the more money is made. Upgrade your guns, thrusters, battleship, drones, and so much more. Realistic physics is at the core of everything done. The Llama&#x27;s of Peace await your service.</p><p><a href="https://store.steampowered.com/app/4696120/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ghost Trap: Underworld（新規追加）</title>
-  <link>https://store.steampowered.com/app/4736820/</link>
-  <guid isPermaLink="false">steam-store-published-4736820</guid>
-  <pubDate>Thu, 21 May 2026 02:59:01 +0000</pubDate>
-  <description>John Ghost is back with a vengeance in this retro-metroidvania. Fall to the underworld, and explore. Seek to calm the horrors below to ensure a peaceful rest for your loved ones. </description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736820/f6eb94aed626ddcc92f7d7ab16b4717b93dc9104/header.jpg?t=1779328438" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736820/f6eb94aed626ddcc92f7d7ab16b4717b93dc9104/header.jpg?t=1779328438" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736820/f6eb94aed626ddcc92f7d7ab16b4717b93dc9104/header.jpg?t=1779328438" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4736820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736820/f6eb94aed626ddcc92f7d7ab16b4717b93dc9104/header.jpg?t=1779328438" alt="Ghost Trap: Underworld（新規追加）" /></a></p><p>John Ghost is back with a vengeance in this retro-metroidvania. Fall to the underworld, and explore. Seek to calm the horrors below to ensure a peaceful rest for your loved ones. </p><p><a href="https://store.steampowered.com/app/4736820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
