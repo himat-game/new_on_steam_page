@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 23 May 2026 22:10:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 23:12:52 +0000</lastBuildDate>
+<item>
+  <title>Surface Tension: Eclipse（新規追加）</title>
+  <link>https://store.steampowered.com/app/4753000/</link>
+  <guid isPermaLink="false">steam-store-published-4753000</guid>
+  <pubDate>Sat, 23 May 2026 23:12:52 +0000</pubDate>
+  <description>Navigate a surreal, dreamlike world in this atmospheric 2D puzzlevania. Manipulate light and shadow to cast solid platforms out of thin air, solve intricate room puzzles, and uncover the mysteries hidden within the high-contrast darkness. Master the eclipse to survive.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753000/c790e5d52a3ae499d3601e014e2dd5c894028784/header.jpg?t=1779574373" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753000/c790e5d52a3ae499d3601e014e2dd5c894028784/header.jpg?t=1779574373" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753000/c790e5d52a3ae499d3601e014e2dd5c894028784/header.jpg?t=1779574373" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4753000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753000/c790e5d52a3ae499d3601e014e2dd5c894028784/header.jpg?t=1779574373" alt="Surface Tension: Eclipse（新規追加）" /></a></p><p>Navigate a surreal, dreamlike world in this atmospheric 2D puzzlevania. Manipulate light and shadow to cast solid platforms out of thin air, solve intricate room puzzles, and uncover the mysteries hidden within the high-contrast darkness. Master the eclipse to survive.</p><p><a href="https://store.steampowered.com/app/4753000/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>It wasn’t meow（新規追加）</title>
   <link>https://store.steampowered.com/app/4278750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733840/b836236340b8193231b40a47e69949e00b057aaf/header.jpg?t=1779357805" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733840/b836236340b8193231b40a47e69949e00b057aaf/header.jpg?t=1779357805" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4733840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733840/b836236340b8193231b40a47e69949e00b057aaf/header.jpg?t=1779357805" alt="Little Battle Simulator（新規追加）" /></a></p><p>Create the battlefield of your dreams and fight! Monsters, vast armies, rivers and forests, multiple teams… Anything goes! Create your own battle in &amp;quot;Sandbox&amp;quot;. Witness the chaos in &amp;quot;Random Battle&amp;quot;, Achieve the highest possible score in &amp;quot;Challenge&amp;quot;</p><p><a href="https://store.steampowered.com/app/4733840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Backrooms: The Endless Halls（新規追加）</title>
-  <link>https://store.steampowered.com/app/4720800/</link>
-  <guid isPermaLink="false">steam-store-published-4720800</guid>
-  <pubDate>Thu, 21 May 2026 10:40:27 +0000</pubDate>
-  <description>Backrooms: The Endless Halls is a cooperative horror game for 1–4 players. On your own or with friends, you’ll dive into an unknown world where everything will seem familiar to you, yet at the same time frightening and very confusing. Try to make it out alive, if that’s even possible...</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720800/b2acb005489d245a55b56e2cfe0c8f6eb8902861/header.jpg?t=1779358760" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720800/b2acb005489d245a55b56e2cfe0c8f6eb8902861/header.jpg?t=1779358760" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720800/b2acb005489d245a55b56e2cfe0c8f6eb8902861/header.jpg?t=1779358760" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4720800/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720800/b2acb005489d245a55b56e2cfe0c8f6eb8902861/header.jpg?t=1779358760" alt="Backrooms: The Endless Halls（新規追加）" /></a></p><p>Backrooms: The Endless Halls is a cooperative horror game for 1–4 players. On your own or with friends, you’ll dive into an unknown world where everything will seem familiar to you, yet at the same time frightening and very confusing. Try to make it out alive, if that’s even possible...</p><p><a href="https://store.steampowered.com/app/4720800/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
