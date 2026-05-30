@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 30 May 2026 11:03:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 12:17:24 +0000</lastBuildDate>
+<item>
+  <title>You&#x27;re Gonna Be Famous!（新規追加）</title>
+  <link>https://store.steampowered.com/app/4303410/</link>
+  <guid isPermaLink="false">steam-store-published-4303410</guid>
+  <pubDate>Sat, 30 May 2026 12:17:24 +0000</pubDate>
+  <description>A psychedelic RPG set in the cutthroat world of the entertainment industry. Climb the ranks and become the greatest celebrity the world has ever seen!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303410/9e3415a3c2837ae763eead13789a47cc4bf8a5f3/header.jpg?t=1780140675" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303410/9e3415a3c2837ae763eead13789a47cc4bf8a5f3/header.jpg?t=1780140675" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303410/9e3415a3c2837ae763eead13789a47cc4bf8a5f3/header.jpg?t=1780140675" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4303410/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303410/9e3415a3c2837ae763eead13789a47cc4bf8a5f3/header.jpg?t=1780140675" alt="You&#x27;re Gonna Be Famous!（新規追加）" /></a></p><p>A psychedelic RPG set in the cutthroat world of the entertainment industry. Climb the ranks and become the greatest celebrity the world has ever seen!</p><p><a href="https://store.steampowered.com/app/4303410/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Amicraft Factory™（新規追加）</title>
   <link>https://store.steampowered.com/app/4783150/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760700/e37fdd817a23a04ab0fe2bfede4235cb9a9c5425/header.jpg?t=1779993180" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760700/e37fdd817a23a04ab0fe2bfede4235cb9a9c5425/header.jpg?t=1779993180" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4760700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760700/e37fdd817a23a04ab0fe2bfede4235cb9a9c5425/header.jpg?t=1779993180" alt="Chronicles Of The Sinner（新規追加）" /></a></p><p>Chronicles of The Sinner is a first-person survival horror set inside an abandoned orphanage. As a lone investigator, you are sent to uncover what happened within its walls. Explore, gather resources, solve puzzles, and try to survive… if you don’t lose yourself first.</p><p><a href="https://store.steampowered.com/app/4760700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cyberpunk Brothel 🤖（新規追加）</title>
-  <link>https://store.steampowered.com/app/4771970/</link>
-  <guid isPermaLink="false">steam-store-published-4771970</guid>
-  <pubDate>Thu, 28 May 2026 19:55:03 +0000</pubDate>
-  <description>Alex is a pro hacker, but he’s also known on the darker parts of the web, seeking out corporate fraud and instigating acts of shadow code that would make others cringe if they knew. However, his hobbies make him a true sexual deviant, and now his AI partners may be coming into their own reality!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771970/ee28609d5ed6f9e68051567a2fca9ba0097c0edf/header.jpg?t=1779993777" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771970/ee28609d5ed6f9e68051567a2fca9ba0097c0edf/header.jpg?t=1779993777" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771970/ee28609d5ed6f9e68051567a2fca9ba0097c0edf/header.jpg?t=1779993777" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4771970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771970/ee28609d5ed6f9e68051567a2fca9ba0097c0edf/header.jpg?t=1779993777" alt="Cyberpunk Brothel 🤖（新規追加）" /></a></p><p>Alex is a pro hacker, but he’s also known on the darker parts of the web, seeking out corporate fraud and instigating acts of shadow code that would make others cringe if they knew. However, his hobbies make him a true sexual deviant, and now his AI partners may be coming into their own reality!</p><p><a href="https://store.steampowered.com/app/4771970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
