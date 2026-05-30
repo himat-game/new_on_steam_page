@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 30 May 2026 20:52:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 21:58:44 +0000</lastBuildDate>
+<item>
+  <title>Motel Blyn（新規追加）</title>
+  <link>https://store.steampowered.com/app/4375690/</link>
+  <guid isPermaLink="false">steam-store-published-4375690</guid>
+  <pubDate>Sat, 30 May 2026 21:58:44 +0000</pubDate>
+  <description>An adult crime-life sim where sex work, theft, choices, and paranoia shape each day. Survive Goldenfront as Piana Hue. Every choice can pull her deeper.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375690/c924c7f496e028b641c2c8eefab5cb07c90e4398/header.jpg?t=1780177727" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375690/c924c7f496e028b641c2c8eefab5cb07c90e4398/header.jpg?t=1780177727" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375690/c924c7f496e028b641c2c8eefab5cb07c90e4398/header.jpg?t=1780177727" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4375690/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375690/c924c7f496e028b641c2c8eefab5cb07c90e4398/header.jpg?t=1780177727" alt="Motel Blyn（新規追加）" /></a></p><p>An adult crime-life sim where sex work, theft, choices, and paranoia shape each day. Survive Goldenfront as Piana Hue. Every choice can pull her deeper.</p><p><a href="https://store.steampowered.com/app/4375690/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>MILKY COWGIRLSVERSE（新規追加）</title>
   <link>https://store.steampowered.com/app/4784680/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530390/c41fbae9f4604b766ff6864d88aa1cdea254d031/header.jpg?t=1780009117" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530390/c41fbae9f4604b766ff6864d88aa1cdea254d031/header.jpg?t=1780009117" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4530390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530390/c41fbae9f4604b766ff6864d88aa1cdea254d031/header.jpg?t=1780009117" alt="TCG World（新規追加）" /></a></p><p>Explore, build, collect Sprites, craft, farm, fish, race, and establish your place in a persistent open-world adventure.</p><p><a href="https://store.steampowered.com/app/4530390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Coloniam（新規追加）</title>
-  <link>https://store.steampowered.com/app/4705440/</link>
-  <guid isPermaLink="false">steam-store-published-4705440</guid>
-  <pubDate>Thu, 28 May 2026 23:12:52 +0000</pubDate>
-  <description>Real-time grand strategy MMO on the actual map of Earth. Choose one of four superpowers, command armies and navies, forge alliances, betray friends, and fight thousands of players in a persistent world that never pauses.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705440/f1f1b725c1e4d5d3745531f521388fc403b4518e/header.jpg?t=1780007795" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705440/f1f1b725c1e4d5d3745531f521388fc403b4518e/header.jpg?t=1780007795" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705440/f1f1b725c1e4d5d3745531f521388fc403b4518e/header.jpg?t=1780007795" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4705440/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705440/f1f1b725c1e4d5d3745531f521388fc403b4518e/header.jpg?t=1780007795" alt="Coloniam（新規追加）" /></a></p><p>Real-time grand strategy MMO on the actual map of Earth. Choose one of four superpowers, command armies and navies, forge alliances, betray friends, and fight thousands of players in a persistent world that never pauses.</p><p><a href="https://store.steampowered.com/app/4705440/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
