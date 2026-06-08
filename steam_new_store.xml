@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 07 Jun 2026 21:38:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 00:03:59 +0000</lastBuildDate>
+<item>
+  <title>Benthos（新規追加）</title>
+  <link>https://store.steampowered.com/app/4276370/</link>
+  <guid isPermaLink="false">steam-store-published-4276370</guid>
+  <pubDate>Mon, 08 Jun 2026 00:03:59 +0000</pubDate>
+  <description>Benthos is a co-op submarine exploration game set in the depths of an alien ocean. Coordinate your crew to pilot the sub, man the guns, hunt monsters, and complete high-risk missions. Build new underwater facilities, upgrade your vessel, and uncover the secrets hidden beneath the ice.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276370/a326fdc89dd2b0f1fabc39aabb3fa679ad0cfa42/header.jpg?t=1780873846" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276370/a326fdc89dd2b0f1fabc39aabb3fa679ad0cfa42/header.jpg?t=1780873846" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276370/a326fdc89dd2b0f1fabc39aabb3fa679ad0cfa42/header.jpg?t=1780873846" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4276370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276370/a326fdc89dd2b0f1fabc39aabb3fa679ad0cfa42/header.jpg?t=1780873846" alt="Benthos（新規追加）" /></a></p><p>Benthos is a co-op submarine exploration game set in the depths of an alien ocean. Coordinate your crew to pilot the sub, man the guns, hunt monsters, and complete high-risk missions. Build new underwater facilities, upgrade your vessel, and uncover the secrets hidden beneath the ice.</p><p><a href="https://store.steampowered.com/app/4276370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Monster Zoo Tycoon（新規追加）</title>
   <link>https://store.steampowered.com/app/4556830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783130/3debd34adb26d838d0c9cdb605e6c583a2f7781f/header.jpg?t=1780673431" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783130/3debd34adb26d838d0c9cdb605e6c583a2f7781f/header.jpg?t=1780673431" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4783130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783130/3debd34adb26d838d0c9cdb605e6c583a2f7781f/header.jpg?t=1780673431" alt="One Star Hotel（新規追加）" /></a></p><p>Run a chaotic one-star hotel with your friends. Cook meals, serve guests, manage the restaurant, and survive the night while hiding the hotel&#x27;s darkest secret</p><p><a href="https://store.steampowered.com/app/4783130/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Depths（新規追加）</title>
-  <link>https://store.steampowered.com/app/4808100/</link>
-  <guid isPermaLink="false">steam-store-published-4808100</guid>
-  <pubDate>Fri, 05 Jun 2026 16:16:56 +0000</pubDate>
-  <description>Depths is a cooperative multiplayer game where you and up to three friends​ delve into procedurally generated caves, collecting items,​ going deeper, making sure to meet quota every dive. Avoid the monsters that dwell in these caverns​ if you and your friends hope to make it out alive.​</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808100/febdf85eb8362e554a51b1f6d7e64556a02df810/header.jpg?t=1780672338" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808100/febdf85eb8362e554a51b1f6d7e64556a02df810/header.jpg?t=1780672338" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808100/febdf85eb8362e554a51b1f6d7e64556a02df810/header.jpg?t=1780672338" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4808100/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808100/febdf85eb8362e554a51b1f6d7e64556a02df810/header.jpg?t=1780672338" alt="Depths（新規追加）" /></a></p><p>Depths is a cooperative multiplayer game where you and up to three friends​ delve into procedurally generated caves, collecting items,​ going deeper, making sure to meet quota every dive. Avoid the monsters that dwell in these caverns​ if you and your friends hope to make it out alive.​</p><p><a href="https://store.steampowered.com/app/4808100/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
