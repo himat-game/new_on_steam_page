@@ -203,6 +203,13 @@ def truncate(text: str, limit: int = 600) -> str:
     if not text: return ""
     return text if len(text) <= limit else (text[: limit - 1] + "…")
 
+XML_INVALID_RE = re.compile(r"[\x00-\x08\x0B\x0C\x0E-\x1F]")
+
+def clean_xml_text(s):
+    if s is None:
+        return ""
+    return XML_INVALID_RE.sub("", str(s))
+
 def build_rss(channel_title: str, channel_link: str, channel_desc: str, items: List[Dict], lang: str = "ja-jp") -> str:
     if items:
         last = items[0]["pubDate"]
@@ -223,13 +230,13 @@ def build_rss(channel_title: str, channel_link: str, channel_desc: str, items: L
     out.write(f'<lastBuildDate>{rfc822(last_dt)}</lastBuildDate>\n')
 
     for it in items:
-        title = it.get("title", "(no title)")
-        link = it.get("link", "")
-        guid = it.get("guid", str(random.random()))
+        title = clean_xml_text(it.get("title", "(no title)"))
+        link = clean_xml_text(it.get("link", ""))
+        guid = clean_xml_text(it.get("guid", str(random.random())))
         pub = it.get("pubDate")
         pub_dt = dt.datetime.fromisoformat(pub.replace("Z", "+00:00")).astimezone(dt.timezone.utc)
-        desc_plain = truncate(it.get("description", ""))
-        image = it.get("image")
+        desc_plain = truncate(clean_xml_text(it.get("description", "")))
+        image = clean_xml_text(it.get("image", ""))
 
         out.write('<item>\n')
         out.write(f'  <title>{html.escape(title)}</title>\n')
