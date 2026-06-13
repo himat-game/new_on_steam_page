@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 13 Jun 2026 20:43:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 22:01:10 +0000</lastBuildDate>
+<item>
+  <title>Tiny Patisserie（新規追加）</title>
+  <link>https://store.steampowered.com/app/4703250/</link>
+  <guid isPermaLink="false">steam-store-published-4703250</guid>
+  <pubDate>Sat, 13 Jun 2026 22:01:10 +0000</pubDate>
+  <description>Run your own cozy pastry shop. 🍰 Spot what customers are craving, combine and box up sweet treats, and jump into hands-on minigames for every order. Unlock new recipes, upgrade your tools, and grow your tiny shop into a thriving neighborhood favorite.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/19acdc1ce7891da2b250a9990a96b6a302a9064b/header.jpg?t=1781384027" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/19acdc1ce7891da2b250a9990a96b6a302a9064b/header.jpg?t=1781384027" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/19acdc1ce7891da2b250a9990a96b6a302a9064b/header.jpg?t=1781384027" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4703250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/19acdc1ce7891da2b250a9990a96b6a302a9064b/header.jpg?t=1781384027" alt="Tiny Patisserie（新規追加）" /></a></p><p>Run your own cozy pastry shop. 🍰 Spot what customers are craving, combine and box up sweet treats, and jump into hands-on minigames for every order. Unlock new recipes, upgrade your tools, and grow your tiny shop into a thriving neighborhood favorite.</p><p><a href="https://store.steampowered.com/app/4703250/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kinghold（新規追加）</title>
   <link>https://store.steampowered.com/app/4829360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831590/55d872cfb38fde2e0a0ed306044806ded4972947/header.jpg?t=1781232247" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831590/55d872cfb38fde2e0a0ed306044806ded4972947/header.jpg?t=1781232247" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4831590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831590/55d872cfb38fde2e0a0ed306044806ded4972947/header.jpg?t=1781232247" alt="CrueArcade Alive（新規追加）" /></a></p><p>Face the apocalypse in this adrenaline-fueled, retro-inspired arcade brawler! Battle through hordes of the undead across tactical stages, face unique bosses, and scavenge vital supplies. Grab a friend for local co-op, manage your resources, and fight to survive the urban nightmare</p><p><a href="https://store.steampowered.com/app/4831590/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>A Moon Full of Money（新規追加）</title>
-  <link>https://store.steampowered.com/app/4765460/</link>
-  <guid isPermaLink="false">steam-store-published-4765460</guid>
-  <pubDate>Fri, 12 Jun 2026 05:19:00 +0000</pubDate>
-  <description>Mine ores and upgrade your base in this compact incremental game. Every upgrade expands and automates your operation with new abilities like mining robots, drones, mines, supply drops, and an orbital laser.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765460/6b8b539f14eb5f2ab5126010c97d1bdd8983b965/header.jpg?t=1781239848" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765460/6b8b539f14eb5f2ab5126010c97d1bdd8983b965/header.jpg?t=1781239848" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765460/6b8b539f14eb5f2ab5126010c97d1bdd8983b965/header.jpg?t=1781239848" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4765460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765460/6b8b539f14eb5f2ab5126010c97d1bdd8983b965/header.jpg?t=1781239848" alt="A Moon Full of Money（新規追加）" /></a></p><p>Mine ores and upgrade your base in this compact incremental game. Every upgrade expands and automates your operation with new abilities like mining robots, drones, mines, supply drops, and an orbital laser.</p><p><a href="https://store.steampowered.com/app/4765460/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
