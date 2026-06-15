@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 14 Jun 2026 22:47:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 00:05:59 +0000</lastBuildDate>
+<item>
+  <title>Make it! Shaved Ice（新規追加）</title>
+  <link>https://store.steampowered.com/app/4834080/</link>
+  <guid isPermaLink="false">steam-store-published-4834080</guid>
+  <pubDate>Mon, 15 Jun 2026 00:05:59 +0000</pubDate>
+  <description>Get ready for a delicious shaved ice challenge! Make lots of shaved ice and watch your food cart prosper!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1781481748" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1781481748" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1781481748" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4834080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1781481748" alt="Make it! Shaved Ice（新規追加）" /></a></p><p>Get ready for a delicious shaved ice challenge! Make lots of shaved ice and watch your food cart prosper!</p><p><a href="https://store.steampowered.com/app/4834080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Qwak Reborn（新規追加）</title>
   <link>https://store.steampowered.com/app/4704570/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565600/f5ff1e1c8338b251519b20d8fc3d86188c46da5f/header.jpg?t=1781260187" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565600/f5ff1e1c8338b251519b20d8fc3d86188c46da5f/header.jpg?t=1781260187" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4565600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565600/f5ff1e1c8338b251519b20d8fc3d86188c46da5f/header.jpg?t=1781260187" alt="Dissonance（新規追加）" /></a></p><p>Dissonance is a Co-Op PVE Looter Shooter that can be played by you and up to 5 friends! The merging of two planets changed the world and it is up to you to defeat new foes in your chosen Dissonant suits! Collect loot, explore dungeons, find your past and close intense storm breaches!</p><p><a href="https://store.steampowered.com/app/4565600/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Gond I（新規追加）</title>
-  <link>https://store.steampowered.com/app/4763780/</link>
-  <guid isPermaLink="false">steam-store-published-4763780</guid>
-  <pubDate>Fri, 12 Jun 2026 12:34:08 +0000</pubDate>
-  <description>Survive the outbreak at MUST university in this psychological horror game. Play as two different characters, hide from the infected &amp;quot;Gondii&amp;quot;, and uncover the dark secrets of the apocalypse. You only need to find 50% of the truth to escape... but what about the rest?</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763780/828df87f1bfb9d6bdc3d3b68e925596cc6834120/header.jpg?t=1781257527" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763780/828df87f1bfb9d6bdc3d3b68e925596cc6834120/header.jpg?t=1781257527" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763780/828df87f1bfb9d6bdc3d3b68e925596cc6834120/header.jpg?t=1781257527" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4763780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763780/828df87f1bfb9d6bdc3d3b68e925596cc6834120/header.jpg?t=1781257527" alt="Gond I（新規追加）" /></a></p><p>Survive the outbreak at MUST university in this psychological horror game. Play as two different characters, hide from the infected &amp;quot;Gondii&amp;quot;, and uncover the dark secrets of the apocalypse. You only need to find 50% of the truth to escape... but what about the rest?</p><p><a href="https://store.steampowered.com/app/4763780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
