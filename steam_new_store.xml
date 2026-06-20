@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Jun 2026 21:41:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 23:04:49 +0000</lastBuildDate>
+<item>
+  <title>Kibo and the Cursed Lands（新規追加）</title>
+  <link>https://store.steampowered.com/app/3680700/</link>
+  <guid isPermaLink="false">steam-store-published-3680700</guid>
+  <pubDate>Sat, 20 Jun 2026 23:04:49 +0000</pubDate>
+  <description>Kibo and the Cursed Lands is an enchanting, single-player action RPG set in the land of Thalmyra. Play as Kibo the desperate wanderer and traverse obstacles, fight through enemies and wield unique, elemental weapons in order to find a cure for this ever-growing threat.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680700/9fabbc670cf53acdd59931e55e878caf6aa7098d/header.jpg?t=1781994085" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680700/9fabbc670cf53acdd59931e55e878caf6aa7098d/header.jpg?t=1781994085" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680700/9fabbc670cf53acdd59931e55e878caf6aa7098d/header.jpg?t=1781994085" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3680700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680700/9fabbc670cf53acdd59931e55e878caf6aa7098d/header.jpg?t=1781994085" alt="Kibo and the Cursed Lands（新規追加）" /></a></p><p>Kibo and the Cursed Lands is an enchanting, single-player action RPG set in the land of Thalmyra. Play as Kibo the desperate wanderer and traverse obstacles, fight through enemies and wield unique, elemental weapons in order to find a cure for this ever-growing threat.</p><p><a href="https://store.steampowered.com/app/3680700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rowan Needs Shinies!（新規追加）</title>
   <link>https://store.steampowered.com/app/4636160/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844380/bb966eed19e778d85064e032881cbe0728aad635/header.jpg?t=1781801742" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844380/bb966eed19e778d85064e032881cbe0728aad635/header.jpg?t=1781801742" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4844380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844380/bb966eed19e778d85064e032881cbe0728aad635/header.jpg?t=1781801742" alt="Skillbound（新規追加）" /></a></p><p>Sprint through an ever-changing world, dodge deadly projectiles, conquer towering obstacles, level up, and unlock powerful abilities in this fast-paced 2D endless runner.</p><p><a href="https://store.steampowered.com/app/4844380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Pile Up, Pirate!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4821780/</link>
-  <guid isPermaLink="false">steam-store-published-4821780</guid>
-  <pubDate>Thu, 18 Jun 2026 19:04:39 +0000</pubDate>
-  <description>You overslept, rowed your boat straight into a massive pit, and now you&#x27;re stuck! Look through the eyes of a clumsy pirate, stack falling crates, solve physics puzzles, and face challenging platforming to climb back to the top. Just beware of the lava... and that mocking parrot!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821780/b4e1d739eb5411e7035653552696f54df9431c1b/header.jpg?t=1781802072" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821780/b4e1d739eb5411e7035653552696f54df9431c1b/header.jpg?t=1781802072" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821780/b4e1d739eb5411e7035653552696f54df9431c1b/header.jpg?t=1781802072" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4821780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821780/b4e1d739eb5411e7035653552696f54df9431c1b/header.jpg?t=1781802072" alt="Pile Up, Pirate!（新規追加）" /></a></p><p>You overslept, rowed your boat straight into a massive pit, and now you&#x27;re stuck! Look through the eyes of a clumsy pirate, stack falling crates, solve physics puzzles, and face challenging platforming to climb back to the top. Just beware of the lava... and that mocking parrot!</p><p><a href="https://store.steampowered.com/app/4821780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
