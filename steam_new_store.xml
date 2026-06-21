@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 20 Jun 2026 23:04:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 01:40:56 +0000</lastBuildDate>
+<item>
+  <title>The Last Factory（新規追加）</title>
+  <link>https://store.steampowered.com/app/4824830/</link>
+  <guid isPermaLink="false">steam-store-published-4824830</guid>
+  <pubDate>Sun, 21 Jun 2026 01:40:56 +0000</pubDate>
+  <description>Build, automate, and defend humanity&#x27;s last factory on a dying industrial planet. Chain production lines, survive AUTON raids and dust storms, research lost technology, and uncover what silenced every factory before yours.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824830/4268ed782e8068148afd3ee4b27cd6ec38434153/header.jpg?t=1781996876" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824830/4268ed782e8068148afd3ee4b27cd6ec38434153/header.jpg?t=1781996876" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824830/4268ed782e8068148afd3ee4b27cd6ec38434153/header.jpg?t=1781996876" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4824830/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824830/4268ed782e8068148afd3ee4b27cd6ec38434153/header.jpg?t=1781996876" alt="The Last Factory（新規追加）" /></a></p><p>Build, automate, and defend humanity&#x27;s last factory on a dying industrial planet. Chain production lines, survive AUTON raids and dust storms, research lost technology, and uncover what silenced every factory before yours.</p><p><a href="https://store.steampowered.com/app/4824830/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Kibo and the Cursed Lands（新規追加）</title>
   <link>https://store.steampowered.com/app/3680700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812890/901e1112eedb0f9f229b5ea0e1307aa9ba57004a/header.jpg?t=1781800150" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812890/901e1112eedb0f9f229b5ea0e1307aa9ba57004a/header.jpg?t=1781800150" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4812890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812890/901e1112eedb0f9f229b5ea0e1307aa9ba57004a/header.jpg?t=1781800150" alt="Ghost Room: Enter The Darkness（新規追加）" /></a></p><p>EVERY room is a new trap. EVERY shadow is a deadly threat. Unravel the mystery of this place and try to escape alive.</p><p><a href="https://store.steampowered.com/app/4812890/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Skillbound（新規追加）</title>
-  <link>https://store.steampowered.com/app/4844380/</link>
-  <guid isPermaLink="false">steam-store-published-4844380</guid>
-  <pubDate>Thu, 18 Jun 2026 19:04:39 +0000</pubDate>
-  <description>Sprint through an ever-changing world, dodge deadly projectiles, conquer towering obstacles, level up, and unlock powerful abilities in this fast-paced 2D endless runner.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844380/bb966eed19e778d85064e032881cbe0728aad635/header.jpg?t=1781801742" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844380/bb966eed19e778d85064e032881cbe0728aad635/header.jpg?t=1781801742" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844380/bb966eed19e778d85064e032881cbe0728aad635/header.jpg?t=1781801742" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4844380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844380/bb966eed19e778d85064e032881cbe0728aad635/header.jpg?t=1781801742" alt="Skillbound（新規追加）" /></a></p><p>Sprint through an ever-changing world, dodge deadly projectiles, conquer towering obstacles, level up, and unlock powerful abilities in this fast-paced 2D endless runner.</p><p><a href="https://store.steampowered.com/app/4844380/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
