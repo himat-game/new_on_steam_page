@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 21 Jun 2026 20:07:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 21:44:12 +0000</lastBuildDate>
+<item>
+  <title>Malevolent Star（新規追加）</title>
+  <link>https://store.steampowered.com/app/4842330/</link>
+  <guid isPermaLink="false">steam-store-published-4842330</guid>
+  <pubDate>Sun, 21 Jun 2026 21:44:12 +0000</pubDate>
+  <description>Malevolent Star is a first-person shooter with retro graphics, an eerie narrative experience, and simple, engaging combat. Fight against clever enemies, crazy enemies, and terrifying enemies (in approximately that order) to uncover the mysteries of the last of the living machine planets.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842330/f9c9dbd6e38c7e001dc8b330ac3c9c63d1751e7f/header.jpg?t=1782078181" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842330/f9c9dbd6e38c7e001dc8b330ac3c9c63d1751e7f/header.jpg?t=1782078181" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842330/f9c9dbd6e38c7e001dc8b330ac3c9c63d1751e7f/header.jpg?t=1782078181" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4842330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842330/f9c9dbd6e38c7e001dc8b330ac3c9c63d1751e7f/header.jpg?t=1782078181" alt="Malevolent Star（新規追加）" /></a></p><p>Malevolent Star is a first-person shooter with retro graphics, an eerie narrative experience, and simple, engaging combat. Fight against clever enemies, crazy enemies, and terrifying enemies (in approximately that order) to uncover the mysteries of the last of the living machine planets.</p><p><a href="https://store.steampowered.com/app/4842330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Grimoire Limbo（新規追加）</title>
   <link>https://store.steampowered.com/app/2476430/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802240/85ea75411a375f95c010b0157420ef4b496cffb2/header.jpg?t=1781812662" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802240/85ea75411a375f95c010b0157420ef4b496cffb2/header.jpg?t=1781812662" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4802240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802240/85ea75411a375f95c010b0157420ef4b496cffb2/header.jpg?t=1781812662" alt="Starforge Pirate（新規追加）" /></a></p><p>Starforge Pirate is a fast-paced arcade roguelite in which you will battle cosmic enemies, forge wild weapons, manage heat, upgrade your ship, face deadly bosses, and chase the perfect run.</p><p><a href="https://store.steampowered.com/app/4802240/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Prove it Blob!（新規追加）</title>
-  <link>https://store.steampowered.com/app/4840430/</link>
-  <guid isPermaLink="false">steam-store-published-4840430</guid>
-  <pubDate>Thu, 18 Jun 2026 21:30:17 +0000</pubDate>
-  <description>Prove It Blob is a relaxing puzzle game where you solve riddles and use the power of telekinesis to rearrange the appearance of the world.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840430/335c792fd1b090512edb20ef9a06723afc0d9c59/header.jpg?t=1781811105" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840430/335c792fd1b090512edb20ef9a06723afc0d9c59/header.jpg?t=1781811105" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840430/335c792fd1b090512edb20ef9a06723afc0d9c59/header.jpg?t=1781811105" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4840430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840430/335c792fd1b090512edb20ef9a06723afc0d9c59/header.jpg?t=1781811105" alt="Prove it Blob!（新規追加）" /></a></p><p>Prove It Blob is a relaxing puzzle game where you solve riddles and use the power of telekinesis to rearrange the appearance of the world.</p><p><a href="https://store.steampowered.com/app/4840430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
