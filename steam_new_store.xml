@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 01 Jul 2026 20:18:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 21:52:55 +0000</lastBuildDate>
+<item>
+  <title>Octo Armada（新規追加）</title>
+  <link>https://store.steampowered.com/app/4883890/</link>
+  <guid isPermaLink="false">steam-store-published-4883890</guid>
+  <pubDate>Wed, 01 Jul 2026 21:52:55 +0000</pubDate>
+  <description>Octo Armada is a fast-paced space shooter roguelite with bullet heaven gameplay. Pilot your spaceship through relentless waves of Octos, collect Crystals from defeated enemies, unlock powerful upgrades, and create devastating builds to survive against the endless invasion.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883890/d971fd5e785df7881ccdf96a9c8b1a5d435b87df/header.jpg?t=1782938589" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883890/d971fd5e785df7881ccdf96a9c8b1a5d435b87df/header.jpg?t=1782938589" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883890/d971fd5e785df7881ccdf96a9c8b1a5d435b87df/header.jpg?t=1782938589" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4883890/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883890/d971fd5e785df7881ccdf96a9c8b1a5d435b87df/header.jpg?t=1782938589" alt="Octo Armada（新規追加）" /></a></p><p>Octo Armada is a fast-paced space shooter roguelite with bullet heaven gameplay. Pilot your spaceship through relentless waves of Octos, collect Crystals from defeated enemies, unlock powerful upgrades, and create devastating builds to survive against the endless invasion.</p><p><a href="https://store.steampowered.com/app/4883890/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Beaver Arena（新規追加）</title>
+  <link>https://store.steampowered.com/app/4866650/</link>
+  <guid isPermaLink="false">steam-store-published-4866650</guid>
+  <pubDate>Wed, 01 Jul 2026 21:52:55 +0000</pubDate>
+  <description>A fast-paced arena survival game where beavers battle endless waves of enemies. Fight, dodge, collect upgrades, unlock new abilities, and survive as long as possible in chaotic action-packed matches.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866650/e1ed4a4afb7c75ddd12c76072118d2f3956c21b2/header.jpg?t=1782937561" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866650/e1ed4a4afb7c75ddd12c76072118d2f3956c21b2/header.jpg?t=1782937561" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866650/e1ed4a4afb7c75ddd12c76072118d2f3956c21b2/header.jpg?t=1782937561" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4866650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866650/e1ed4a4afb7c75ddd12c76072118d2f3956c21b2/header.jpg?t=1782937561" alt="Beaver Arena（新規追加）" /></a></p><p>A fast-paced arena survival game where beavers battle endless waves of enemies. Fight, dodge, collect upgrades, unlock new abilities, and survive as long as possible in chaotic action-packed matches.</p><p><a href="https://store.steampowered.com/app/4866650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>MISRECORDED（新規追加）</title>
   <link>https://store.steampowered.com/app/4898740/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840470/df955679b16bb5e7c064e11be94fe1b718688d41/header.jpg?t=1782746567" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840470/df955679b16bb5e7c064e11be94fe1b718688d41/header.jpg?t=1782746567" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4840470/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840470/df955679b16bb5e7c064e11be94fe1b718688d41/header.jpg?t=1782746567" alt="Crypt Club（新規追加）" /></a></p><p>Explore a sprawling cave network with your friends in search of fun occult loot for the Crypt Club! Find fun-to-use items, torn pages of a tome, and even a monster lurking within the depths.</p><p><a href="https://store.steampowered.com/app/4840470/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>NEKOHERO（新規追加）</title>
-  <link>https://store.steampowered.com/app/4844970/</link>
-  <guid isPermaLink="false">steam-store-published-4844970</guid>
-  <pubDate>Mon, 29 Jun 2026 17:13:09 +0000</pubDate>
-  <description>Meet 51 unique NEKOs! Choose a NEKO from the boxes, adjust the angle and power, and launch it into action. Build bridges with unpredictable physics, rescue the heroine, collect your favorite NEKOs, and conquer stages filled with unique obstacles and challenges.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844970/2fb66d2049a98b26b7f69d8c25e90875a8c951be/header.jpg?t=1782752208" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844970/2fb66d2049a98b26b7f69d8c25e90875a8c951be/header.jpg?t=1782752208" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844970/2fb66d2049a98b26b7f69d8c25e90875a8c951be/header.jpg?t=1782752208" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4844970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844970/2fb66d2049a98b26b7f69d8c25e90875a8c951be/header.jpg?t=1782752208" alt="NEKOHERO（新規追加）" /></a></p><p>Meet 51 unique NEKOs! Choose a NEKO from the boxes, adjust the angle and power, and launch it into action. Build bridges with unpredictable physics, rescue the heroine, collect your favorite NEKOs, and conquer stages filled with unique obstacles and challenges.</p><p><a href="https://store.steampowered.com/app/4844970/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ELE（新規追加）</title>
-  <link>https://store.steampowered.com/app/4864510/</link>
-  <guid isPermaLink="false">steam-store-published-4864510</guid>
-  <pubDate>Mon, 29 Jun 2026 17:13:09 +0000</pubDate>
-  <description>ELE is a fast-paced multiplayer party shooter with elemental counters. Players capture key fragments in random maps, synthesize keys, and evacuate to win. Allocate attribute points to adapt your build against players or monsters. Various items on the battlefield add unpredictability</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864510/4a5d484417afaf07c7b1fbe14f05bea558da987b/header.jpg?t=1782744641" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864510/4a5d484417afaf07c7b1fbe14f05bea558da987b/header.jpg?t=1782744641" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864510/4a5d484417afaf07c7b1fbe14f05bea558da987b/header.jpg?t=1782744641" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4864510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864510/4a5d484417afaf07c7b1fbe14f05bea558da987b/header.jpg?t=1782744641" alt="ELE（新規追加）" /></a></p><p>ELE is a fast-paced multiplayer party shooter with elemental counters. Players capture key fragments in random maps, synthesize keys, and evacuate to win. Allocate attribute points to adapt your build against players or monsters. Various items on the battlefield add unpredictability</p><p><a href="https://store.steampowered.com/app/4864510/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
