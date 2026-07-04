@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 04 Jul 2026 21:34:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 23:39:18 +0000</lastBuildDate>
+<item>
+  <title>Lawn Mower Mayhem（新規追加）</title>
+  <link>https://store.steampowered.com/app/4775020/</link>
+  <guid isPermaLink="false">steam-store-published-4775020</guid>
+  <pubDate>Sat, 04 Jul 2026 23:39:18 +0000</pubDate>
+  <description>Run a one-person lawn-care empire in a cartoon cul-de-sac — while three meddling neighbors sabotage every job. They hide rubber chickens in the grass, kick gnomes onto your route, and turn routine yard work into competitive slapstick. Mow clean, get paid, build your name. Chaos, no cruelty.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775020/b9371260864f0b04ce769cfe565e2b8161348024/header.jpg?t=1783205091" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775020/b9371260864f0b04ce769cfe565e2b8161348024/header.jpg?t=1783205091" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775020/b9371260864f0b04ce769cfe565e2b8161348024/header.jpg?t=1783205091" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4775020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775020/b9371260864f0b04ce769cfe565e2b8161348024/header.jpg?t=1783205091" alt="Lawn Mower Mayhem（新規追加）" /></a></p><p>Run a one-person lawn-care empire in a cartoon cul-de-sac — while three meddling neighbors sabotage every job. They hide rubber chickens in the grass, kick gnomes onto your route, and turn routine yard work into competitive slapstick. Mow clean, get paid, build your name. Chaos, no cruelty.</p><p><a href="https://store.steampowered.com/app/4775020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chest Looter: Monster Card Collection（新規追加）</title>
   <link>https://store.steampowered.com/app/4905460/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794170/5485580861c3482551a8ba19950556117966ca75/header.jpg?t=1782998141" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794170/5485580861c3482551a8ba19950556117966ca75/header.jpg?t=1782998141" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4794170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794170/5485580861c3482551a8ba19950556117966ca75/header.jpg?t=1782998141" alt="Swarmslam（新規追加）" /></a></p><p>Watch a swarm of tiny slammers hurl themselves at a planet and mine it till it breaks, then feed that ore to THE CORE to make your swarm bigger and faster. SLAM, CRACK, REPEAT</p><p><a href="https://store.steampowered.com/app/4794170/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Zephyr Cloud（新規追加）</title>
-  <link>https://store.steampowered.com/app/4265110/</link>
-  <guid isPermaLink="false">steam-store-published-4265110</guid>
-  <pubDate>Thu, 02 Jul 2026 15:33:56 +0000</pubDate>
-  <description>Zephyr Cloud is a cozy life and settlement sim set on floating islands. Raise zephyrs, train and improve them, breed new generations, compete in races, explore islands, and discover unique species</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265110/2b37ba794f1f3223dc61a92c9ef097ced6363e98/header.jpg?t=1783004346" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265110/2b37ba794f1f3223dc61a92c9ef097ced6363e98/header.jpg?t=1783004346" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265110/2b37ba794f1f3223dc61a92c9ef097ced6363e98/header.jpg?t=1783004346" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4265110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265110/2b37ba794f1f3223dc61a92c9ef097ced6363e98/header.jpg?t=1783004346" alt="Zephyr Cloud（新規追加）" /></a></p><p>Zephyr Cloud is a cozy life and settlement sim set on floating islands. Raise zephyrs, train and improve them, breed new generations, compete in races, explore islands, and discover unique species</p><p><a href="https://store.steampowered.com/app/4265110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
