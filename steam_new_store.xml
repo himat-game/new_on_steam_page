@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 05 Jul 2026 21:59:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 23:08:57 +0000</lastBuildDate>
+<item>
+  <title>At Face Value（新規追加）</title>
+  <link>https://store.steampowered.com/app/4816840/</link>
+  <guid isPermaLink="false">steam-store-published-4816840</guid>
+  <pubDate>Sun, 05 Jul 2026 23:08:57 +0000</pubDate>
+  <description>Every card is worth exactly what it says, so draw a few thousand of them. At Face Value is a witty, deceptively deep incremental about turning one humble deck of cards into a runaway point-printing machine. Draw, upgrade, shuffle, repeat… just one more time.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816840/845406ea7f03d053318e7a6a3c30f97c8093b428/header.jpg?t=1783290168" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816840/845406ea7f03d053318e7a6a3c30f97c8093b428/header.jpg?t=1783290168" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816840/845406ea7f03d053318e7a6a3c30f97c8093b428/header.jpg?t=1783290168" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4816840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816840/845406ea7f03d053318e7a6a3c30f97c8093b428/header.jpg?t=1783290168" alt="At Face Value（新規追加）" /></a></p><p>Every card is worth exactly what it says, so draw a few thousand of them. At Face Value is a witty, deceptively deep incremental about turning one humble deck of cards into a runaway point-printing machine. Draw, upgrade, shuffle, repeat… just one more time.</p><p><a href="https://store.steampowered.com/app/4816840/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Action &amp; Automation（新規追加）</title>
+  <link>https://store.steampowered.com/app/4530330/</link>
+  <guid isPermaLink="false">steam-store-published-4530330</guid>
+  <pubDate>Sun, 05 Jul 2026 23:08:57 +0000</pubDate>
+  <description>Fight directly as a Commander while your automated base keeps working. Gather physical Nuts, build modules and logistics routes, and master three asymmetric machine species in a 2D action-strategy battlefield.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530330/126d131e875a73c13fa0b466eb2a26974c0f2455/header.jpg?t=1783292662" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530330/126d131e875a73c13fa0b466eb2a26974c0f2455/header.jpg?t=1783292662" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530330/126d131e875a73c13fa0b466eb2a26974c0f2455/header.jpg?t=1783292662" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4530330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530330/126d131e875a73c13fa0b466eb2a26974c0f2455/header.jpg?t=1783292662" alt="Action &amp; Automation（新規追加）" /></a></p><p>Fight directly as a Commander while your automated base keeps working. Gather physical Nuts, build modules and logistics routes, and master three asymmetric machine species in a 2D action-strategy battlefield.</p><p><a href="https://store.steampowered.com/app/4530330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Swarm of the Sea（新規追加）</title>
   <link>https://store.steampowered.com/app/4877170/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829370/acd327bde4e3c6235a74ab3b3ab560981e5cb7b7/header.jpg?t=1783034052" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829370/acd327bde4e3c6235a74ab3b3ab560981e5cb7b7/header.jpg?t=1783034052" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4829370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829370/acd327bde4e3c6235a74ab3b3ab560981e5cb7b7/header.jpg?t=1783034052" alt="Arcade 80&#x27;s Racing（新規追加）" /></a></p><p>Enter the golden age of motorsport! A 2.5D pixel art arcade racing game featuring 10 cars, 16 tracks, a full championship, and a career mode. Easy to pick up, challenging to master.</p><p><a href="https://store.steampowered.com/app/4829370/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Backdoor（新規追加）</title>
-  <link>https://store.steampowered.com/app/4811680/</link>
-  <guid isPermaLink="false">steam-store-published-4811680</guid>
-  <pubDate>Fri, 03 Jul 2026 00:02:56 +0000</pubDate>
-  <description>Backdoor is a hacking simulation set in the early days of the Internet. You enter the underground world as a freelance hacker. Build your reputation, upgrade your tools, and take jobs from small clients or large corporations.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811680/b4c854ff3446bc24743826d8a962108c76efc4ae/header.jpg?t=1783032587" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811680/b4c854ff3446bc24743826d8a962108c76efc4ae/header.jpg?t=1783032587" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811680/b4c854ff3446bc24743826d8a962108c76efc4ae/header.jpg?t=1783032587" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4811680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811680/b4c854ff3446bc24743826d8a962108c76efc4ae/header.jpg?t=1783032587" alt="Backdoor（新規追加）" /></a></p><p>Backdoor is a hacking simulation set in the early days of the Internet. You enter the underground world as a freelance hacker. Build your reputation, upgrade your tools, and take jobs from small clients or large corporations.</p><p><a href="https://store.steampowered.com/app/4811680/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Los Cuentos de Frox（新規追加）</title>
-  <link>https://store.steampowered.com/app/4894120/</link>
-  <guid isPermaLink="false">steam-store-published-4894120</guid>
-  <pubDate>Thu, 02 Jul 2026 22:43:23 +0000</pubDate>
-  <description>Explore the vast universe of Tora in this classic 2D turn-based RPG. Delve into a deep fantasy world filled with mysteries, traverse interconnected rooms and dungeons packed with secrets, and manage your inventory in a narrative-driven adventure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894120/93f54d8113e80efa46da8cf38b5e0da4d212db32/header.jpg?t=1783030976" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894120/93f54d8113e80efa46da8cf38b5e0da4d212db32/header.jpg?t=1783030976" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894120/93f54d8113e80efa46da8cf38b5e0da4d212db32/header.jpg?t=1783030976" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4894120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894120/93f54d8113e80efa46da8cf38b5e0da4d212db32/header.jpg?t=1783030976" alt="Los Cuentos de Frox（新規追加）" /></a></p><p>Explore the vast universe of Tora in this classic 2D turn-based RPG. Delve into a deep fantasy world filled with mysteries, traverse interconnected rooms and dungeons packed with secrets, and manage your inventory in a narrative-driven adventure.</p><p><a href="https://store.steampowered.com/app/4894120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
