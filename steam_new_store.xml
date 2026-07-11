@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 11 Jul 2026 22:09:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 23:13:02 +0000</lastBuildDate>
+<item>
+  <title>Pueblo Duerme（新規追加）</title>
+  <link>https://store.steampowered.com/app/4818190/</link>
+  <guid isPermaLink="false">steam-store-published-4818190</guid>
+  <pubDate>Sat, 11 Jul 2026 23:13:02 +0000</pubDate>
+  <description>Pueblo Duerme is a social deduction game with villagers, werewolves, special roles and bots that try to behave like real players. Debate, suspect, vote and survive the night.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818190/51a9d468d9bfb81640841ca2526a81fa69454280/header.jpg?t=1783807898" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818190/51a9d468d9bfb81640841ca2526a81fa69454280/header.jpg?t=1783807898" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818190/51a9d468d9bfb81640841ca2526a81fa69454280/header.jpg?t=1783807898" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4818190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818190/51a9d468d9bfb81640841ca2526a81fa69454280/header.jpg?t=1783807898" alt="Pueblo Duerme（新規追加）" /></a></p><p>Pueblo Duerme is a social deduction game with villagers, werewolves, special roles and bots that try to behave like real players. Debate, suspect, vote and survive the night.</p><p><a href="https://store.steampowered.com/app/4818190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Gorgeous Mother &amp; Daughter Submit to Me（新規追加）</title>
   <link>https://store.steampowered.com/app/4876370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271760/5cfc326f6f54d31e73077bede9a6e9621f17bc0e/header.jpg?t=1783627297" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271760/5cfc326f6f54d31e73077bede9a6e9621f17bc0e/header.jpg?t=1783627297" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4271760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271760/5cfc326f6f54d31e73077bede9a6e9621f17bc0e/header.jpg?t=1783627297" alt="Necroblobicon（新規追加）" /></a></p><p>Raise an undead army and build it into something broken. Necroblobicon is a roguelike where every unit in your squad fills a role. Knights, archers, assassins, healers, even bosses. Roll the right traits and slap on some gear to turn your minions into gods. Aim your death ball. Take the castle.</p><p><a href="https://store.steampowered.com/app/4271760/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Wizard Tower Pinball（新規追加）</title>
-  <link>https://store.steampowered.com/app/4902750/</link>
-  <guid isPermaLink="false">steam-store-published-4902750</guid>
-  <pubDate>Thu, 09 Jul 2026 21:06:31 +0000</pubDate>
-  <description>Hypnotic retro pinball game with a realistic physics engine and five distinct tables, including a procedurally generated table with one million possible layouts. Master the flippers, chase high scores, and lose yourself in the lights.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902750/a285e9ec45a240a659358668130d589dd15a9876/header.jpg?t=1783628310" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902750/a285e9ec45a240a659358668130d589dd15a9876/header.jpg?t=1783628310" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902750/a285e9ec45a240a659358668130d589dd15a9876/header.jpg?t=1783628310" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4902750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902750/a285e9ec45a240a659358668130d589dd15a9876/header.jpg?t=1783628310" alt="Wizard Tower Pinball（新規追加）" /></a></p><p>Hypnotic retro pinball game with a realistic physics engine and five distinct tables, including a procedurally generated table with one million possible layouts. Master the flippers, chase high scores, and lose yourself in the lights.</p><p><a href="https://store.steampowered.com/app/4902750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
