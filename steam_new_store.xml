@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 11 Jul 2026 17:52:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 18:57:20 +0000</lastBuildDate>
+<item>
+  <title>SHORE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4280880/</link>
+  <guid isPermaLink="false">steam-store-published-4280880</guid>
+  <pubDate>Sat, 11 Jul 2026 18:57:20 +0000</pubDate>
+  <description>Stuck in the middle of the ocean, survive together on a fragile physics-based raft. Fight storms, tsunamis, sharks, and starvation as you find your way back home in SHORE, a 1-4-player co-op survival adventure.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280880/9958d1ebd6224ff3f8f8807f37059d8d7e1a7075/header.jpg?t=1783793324" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280880/9958d1ebd6224ff3f8f8807f37059d8d7e1a7075/header.jpg?t=1783793324" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280880/9958d1ebd6224ff3f8f8807f37059d8d7e1a7075/header.jpg?t=1783793324" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4280880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4280880/9958d1ebd6224ff3f8f8807f37059d8d7e1a7075/header.jpg?t=1783793324" alt="SHORE（新規追加）" /></a></p><p>Stuck in the middle of the ocean, survive together on a fragile physics-based raft. Fight storms, tsunamis, sharks, and starvation as you find your way back home in SHORE, a 1-4-player co-op survival adventure.</p><p><a href="https://store.steampowered.com/app/4280880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Squimo（新規追加）</title>
   <link>https://store.steampowered.com/app/4786580/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916270/a3fbe312f5604cdbef7b6835bd2eac08de7e8c4c/header.jpg?t=1783629586" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916270/a3fbe312f5604cdbef7b6835bd2eac08de7e8c4c/header.jpg?t=1783629586" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4916270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916270/a3fbe312f5604cdbef7b6835bd2eac08de7e8c4c/header.jpg?t=1783629586" alt="Wizard&#x27;s Calc（新規追加）" /></a></p><p>A mental math puzzle where every round presents a new equation to solve. Chain fire and ice operations to hit the target, navigate around locked digits, survive rule-breaking bosses, and use shop items to turn the tide.</p><p><a href="https://store.steampowered.com/app/4916270/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Cardfight: Conspiracy（新規追加）</title>
-  <link>https://store.steampowered.com/app/4872320/</link>
-  <guid isPermaLink="false">steam-store-published-4872320</guid>
-  <pubDate>Thu, 09 Jul 2026 19:40:16 +0000</pubDate>
-  <description>A story-rich RPG told from multiple perspectives. A fusion of turn-based card battling and quick-time defense. Six classmates, each with their own decks - and their own secrets. Your name is SPARTAN JACK, your new friends are part of a deadly secret society, and you have a conspiracy to uncover.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872320/2b84134b277c4271402318f958d89cb4285317fd/header.jpg?t=1783620315" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872320/2b84134b277c4271402318f958d89cb4285317fd/header.jpg?t=1783620315" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872320/2b84134b277c4271402318f958d89cb4285317fd/header.jpg?t=1783620315" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4872320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872320/2b84134b277c4271402318f958d89cb4285317fd/header.jpg?t=1783620315" alt="Cardfight: Conspiracy（新規追加）" /></a></p><p>A story-rich RPG told from multiple perspectives. A fusion of turn-based card battling and quick-time defense. Six classmates, each with their own decks - and their own secrets. Your name is SPARTAN JACK, your new friends are part of a deadly secret society, and you have a conspiracy to uncover.</p><p><a href="https://store.steampowered.com/app/4872320/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
