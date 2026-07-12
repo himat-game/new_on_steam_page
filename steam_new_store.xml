@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Jul 2026 17:39:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 19:46:10 +0000</lastBuildDate>
+<item>
+  <title>HAM HOLE（新規追加）</title>
+  <link>https://store.steampowered.com/app/4858670/</link>
+  <guid isPermaLink="false">steam-store-published-4858670</guid>
+  <pubDate>Sun, 12 Jul 2026 19:46:10 +0000</pubDate>
+  <description>You&#x27;ve just awoken to your first day of a mandatory life sentence. You are one of many, tasked with solving an imminent national catastrophe. Between the horrid mystery meat they send down the tubes, to the disgusting infestation that makes it&#x27;s home here, there is no glory to be found in this work.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858670/6b1fff6161b999d811886f5940b48e2ca2a6fa32/header.jpg?t=1783884351" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858670/6b1fff6161b999d811886f5940b48e2ca2a6fa32/header.jpg?t=1783884351" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858670/6b1fff6161b999d811886f5940b48e2ca2a6fa32/header.jpg?t=1783884351" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4858670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858670/6b1fff6161b999d811886f5940b48e2ca2a6fa32/header.jpg?t=1783884351" alt="HAM HOLE（新規追加）" /></a></p><p>You&#x27;ve just awoken to your first day of a mandatory life sentence. You are one of many, tasked with solving an imminent national catastrophe. Between the horrid mystery meat they send down the tubes, to the disgusting infestation that makes it&#x27;s home here, there is no glory to be found in this work.</p><p><a href="https://store.steampowered.com/app/4858670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>They Draw Monsters（新規追加）</title>
   <link>https://store.steampowered.com/app/4912520/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865990/756aad2938269a72df55197e1a0b4d13bcf64f3b/header.jpg?t=1783644195" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865990/756aad2938269a72df55197e1a0b4d13bcf64f3b/header.jpg?t=1783644195" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4865990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865990/756aad2938269a72df55197e1a0b4d13bcf64f3b/header.jpg?t=1783644195" alt="The Great Ebony Clock（新規追加）" /></a></p><p>Explore a cozy point-and-click mystery where your only way to escape is by manipulating time. Shift between different times of the same day, find clues and items to escape the Great Ebony Clock’s Time Prison. You never thought you’d be so happy to see Monday.</p><p><a href="https://store.steampowered.com/app/4865990/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Gob Loggin&#x27;（新規追加）</title>
-  <link>https://store.steampowered.com/app/4858980/</link>
-  <guid isPermaLink="false">steam-store-published-4858980</guid>
-  <pubDate>Fri, 10 Jul 2026 04:18:09 +0000</pubDate>
-  <description>Goblin snowboard racing??? Pull off tricks to build momentum. Sabotage your opponents to get ahead. Gob Loggin&#x27; is the best way to elevate a hangout with friends.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858980/0cc453bc61db3857e56ea21fd12bcb5763d262b4/header.jpg?t=1783647821" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858980/0cc453bc61db3857e56ea21fd12bcb5763d262b4/header.jpg?t=1783647821" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858980/0cc453bc61db3857e56ea21fd12bcb5763d262b4/header.jpg?t=1783647821" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4858980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858980/0cc453bc61db3857e56ea21fd12bcb5763d262b4/header.jpg?t=1783647821" alt="Gob Loggin&#x27;（新規追加）" /></a></p><p>Goblin snowboard racing??? Pull off tricks to build momentum. Sabotage your opponents to get ahead. Gob Loggin&#x27; is the best way to elevate a hangout with friends.</p><p><a href="https://store.steampowered.com/app/4858980/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
