@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 12 Jul 2026 22:43:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 23:50:22 +0000</lastBuildDate>
+<item>
+  <title>The Unworthy（新規追加）</title>
+  <link>https://store.steampowered.com/app/4840160/</link>
+  <guid isPermaLink="false">steam-store-published-4840160</guid>
+  <pubDate>Sun, 12 Jul 2026 23:50:22 +0000</pubDate>
+  <description>What if Hell made a mistake? Based on the testimony of a man who survived clinical death, this cinematic psychological horror challenges you to confront your fears and fight your way back to life, while something lurking in the darkness does everything it can to keep you among the damned forever.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840160/d9b01113dff00d7aa6aae98dd5a507e9e535a598/header.jpg?t=1783896786" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840160/d9b01113dff00d7aa6aae98dd5a507e9e535a598/header.jpg?t=1783896786" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840160/d9b01113dff00d7aa6aae98dd5a507e9e535a598/header.jpg?t=1783896786" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4840160/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840160/d9b01113dff00d7aa6aae98dd5a507e9e535a598/header.jpg?t=1783896786" alt="The Unworthy（新規追加）" /></a></p><p>What if Hell made a mistake? Based on the testimony of a man who survived clinical death, this cinematic psychological horror challenges you to confront your fears and fight your way back to life, while something lurking in the darkness does everything it can to keep you among the damned forever.</p><p><a href="https://store.steampowered.com/app/4840160/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lilac Prose（新規追加）</title>
   <link>https://store.steampowered.com/app/4777550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587290/a2111b087bf115dd28ea7e423c3b33e93029d9fc/header.jpg?t=1783650816" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587290/a2111b087bf115dd28ea7e423c3b33e93029d9fc/header.jpg?t=1783650816" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4587290/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4587290/a2111b087bf115dd28ea7e423c3b33e93029d9fc/header.jpg?t=1783650816" alt="Desktop Companion Time Traveler（新規追加）" /></a></p><p>“Desktop Companion Time Traveler” is an interactive desktop pet game where players can chat with a character in real time. Beyond natural daily interaction, the character also responds proactively to the current context, making it a true companion in everyday life.</p><p><a href="https://store.steampowered.com/app/4587290/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Lust Story（新規追加）</title>
-  <link>https://store.steampowered.com/app/4851740/</link>
-  <guid isPermaLink="false">steam-store-published-4851740</guid>
-  <pubDate>Fri, 10 Jul 2026 04:18:09 +0000</pubDate>
-  <description>Lust Story is a relaxing anime puzzle game with three difficulty modes: Easy, Hard, and Expert. Complete puzzles, unlock illustrations, enjoy pleasant music, and collect Steam achievements.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851740/1e94d78093e927be3fda28f9873e738a9636741e/header.jpg?t=1783654132" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851740/1e94d78093e927be3fda28f9873e738a9636741e/header.jpg?t=1783654132" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851740/1e94d78093e927be3fda28f9873e738a9636741e/header.jpg?t=1783654132" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4851740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851740/1e94d78093e927be3fda28f9873e738a9636741e/header.jpg?t=1783654132" alt="Lust Story（新規追加）" /></a></p><p>Lust Story is a relaxing anime puzzle game with three difficulty modes: Easy, Hard, and Expert. Complete puzzles, unlock illustrations, enjoy pleasant music, and collect Steam achievements.</p><p><a href="https://store.steampowered.com/app/4851740/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
