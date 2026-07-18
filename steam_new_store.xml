@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 18 Jul 2026 14:04:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 15:16:55 +0000</lastBuildDate>
+<item>
+  <title>Elyndor Quest（新規追加）</title>
+  <link>https://store.steampowered.com/app/4877870/</link>
+  <guid isPermaLink="false">steam-store-published-4877870</guid>
+  <pubDate>Sat, 18 Jul 2026 15:16:55 +0000</pubDate>
+  <description>Explore a single-player medieval fantasy RPG set on the continents of Feremor and Elyndor. Play as an Orc seeking freedom for your people or as a Human driven by vengeance. Confront wars, dark creatures, and choices that will define the fate of two civilizations.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877870/bcaff3f77285b22c97e6c60afe54715954ce8e5a/header.jpg?t=1784384833" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877870/bcaff3f77285b22c97e6c60afe54715954ce8e5a/header.jpg?t=1784384833" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877870/bcaff3f77285b22c97e6c60afe54715954ce8e5a/header.jpg?t=1784384833" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4877870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877870/bcaff3f77285b22c97e6c60afe54715954ce8e5a/header.jpg?t=1784384833" alt="Elyndor Quest（新規追加）" /></a></p><p>Explore a single-player medieval fantasy RPG set on the continents of Feremor and Elyndor. Play as an Orc seeking freedom for your people or as a Human driven by vengeance. Confront wars, dark creatures, and choices that will define the fate of two civilizations.</p><p><a href="https://store.steampowered.com/app/4877870/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Go! Super Awesome Monkey!（新規追加）</title>
   <link>https://store.steampowered.com/app/4837550/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906860/83c98664a6d7610d4742eb36afb8668968433e68/header.jpg?t=1784216593" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906860/83c98664a6d7610d4742eb36afb8668968433e68/header.jpg?t=1784216593" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4906860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906860/83c98664a6d7610d4742eb36afb8668968433e68/header.jpg?t=1784216593" alt="世界杯   无名小国的夺冠之路（新規追加）" /></a></p><p>Lead one of the world&#x27;s weakest national teams on an unforgettable World Cup journey! In this roguelite football strategy game, unlock powerful talents, unique skills, and random events as every defeat makes you stronger. Fight your way to glory and create your own World Cup miracle.</p><p><a href="https://store.steampowered.com/app/4906860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>TREASURE ISLAND: The Crimson Legacy（新規追加）</title>
-  <link>https://store.steampowered.com/app/4931920/</link>
-  <guid isPermaLink="false">steam-store-published-4931920</guid>
-  <pubDate>Thu, 16 Jul 2026 16:18:42 +0000</pubDate>
-  <description>A dark adult visual novel about legacy, betrayal, and buried power. Return to Treasure Island with Jim Hawkins, six dangerous women, pirates, secret orders, and the Crimson Compass as the sea opens the path to Flint’s true treasure.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931920/2afa812f7b2664f1f6bfcaed4f222401d001702c/header.jpg?t=1784216459" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931920/2afa812f7b2664f1f6bfcaed4f222401d001702c/header.jpg?t=1784216459" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931920/2afa812f7b2664f1f6bfcaed4f222401d001702c/header.jpg?t=1784216459" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4931920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931920/2afa812f7b2664f1f6bfcaed4f222401d001702c/header.jpg?t=1784216459" alt="TREASURE ISLAND: The Crimson Legacy（新規追加）" /></a></p><p>A dark adult visual novel about legacy, betrayal, and buried power. Return to Treasure Island with Jim Hawkins, six dangerous women, pirates, secret orders, and the Crimson Compass as the sea opens the path to Flint’s true treasure.</p><p><a href="https://store.steampowered.com/app/4931920/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
