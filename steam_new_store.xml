@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 18 Jul 2026 11:25:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 12:33:03 +0000</lastBuildDate>
+<item>
+  <title>Farm Renovator: First Job（新規追加）</title>
+  <link>https://store.steampowered.com/app/4939170/</link>
+  <guid isPermaLink="false">steam-store-published-4939170</guid>
+  <pubDate>Sat, 18 Jul 2026 12:33:03 +0000</pubDate>
+  <description>You inherit an old, neglected farm—so what do you do? You don&#x27;t wait for a miracle. You clean it up, renovate, furnish, and upgrade it! Become a farmer, trader, and builder all at once and turn yourself into a true one-person band. Be the best version of yourself and become a county legend!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939170/4f055506dd6ba195fe707a3aa287987cf51d2019/header.jpg?t=1784377219" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939170/4f055506dd6ba195fe707a3aa287987cf51d2019/header.jpg?t=1784377219" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939170/4f055506dd6ba195fe707a3aa287987cf51d2019/header.jpg?t=1784377219" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4939170/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939170/4f055506dd6ba195fe707a3aa287987cf51d2019/header.jpg?t=1784377219" alt="Farm Renovator: First Job（新規追加）" /></a></p><p>You inherit an old, neglected farm—so what do you do? You don&#x27;t wait for a miracle. You clean it up, renovate, furnish, and upgrade it! Become a farmer, trader, and builder all at once and turn yourself into a true one-person band. Be the best version of yourself and become a county legend!</p><p><a href="https://store.steampowered.com/app/4939170/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DON&#x27;T TURN AROUND（新規追加）</title>
   <link>https://store.steampowered.com/app/4925720/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092180/e76b0a32c31592b3ff61d7be8d34c61cfe825e0a/header.jpg?t=1784208186" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092180/e76b0a32c31592b3ff61d7be8d34c61cfe825e0a/header.jpg?t=1784208186" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4092180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092180/e76b0a32c31592b3ff61d7be8d34c61cfe825e0a/header.jpg?t=1784208186" alt="Cooking Cave（新規追加）" /></a></p><p>A co-op survival horror for up to 4 players. Descend into the dungeon, gather ingredients while avoiding traps and monsters, then cook a meal for a starving beast. Learn its tastes, choose the right ingredients, and don&#x27;t become dinner yourself! More hands mean more loot!</p><p><a href="https://store.steampowered.com/app/4092180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Scapegoat（新規追加）</title>
-  <link>https://store.steampowered.com/app/4895860/</link>
-  <guid isPermaLink="false">steam-store-published-4895860</guid>
-  <pubDate>Thu, 16 Jul 2026 14:57:42 +0000</pubDate>
-  <description>Scapegoat is a social deduction game developed to be played as either a singleplayer game against a host of AI LLM driven characters or as a multiplayer. Multiplayer is a rotating lottery of who the killer and scapegoat are. Your goal is ensuring the killer faces justice and the scapegoat cleared.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895860/f8806485daf832ced11f747c9989f1407e180616/header.jpg?t=1784212200" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895860/f8806485daf832ced11f747c9989f1407e180616/header.jpg?t=1784212200" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895860/f8806485daf832ced11f747c9989f1407e180616/header.jpg?t=1784212200" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4895860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895860/f8806485daf832ced11f747c9989f1407e180616/header.jpg?t=1784212200" alt="Scapegoat（新規追加）" /></a></p><p>Scapegoat is a social deduction game developed to be played as either a singleplayer game against a host of AI LLM driven characters or as a multiplayer. Multiplayer is a rotating lottery of who the killer and scapegoat are. Your goal is ensuring the killer faces justice and the scapegoat cleared.</p><p><a href="https://store.steampowered.com/app/4895860/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
