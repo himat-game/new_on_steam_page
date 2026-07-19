@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 18 Jul 2026 22:28:48 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 01:06:55 +0000</lastBuildDate>
+<item>
+  <title>Prospector Peril（新規追加）</title>
+  <link>https://store.steampowered.com/app/4833990/</link>
+  <guid isPermaLink="false">steam-store-published-4833990</guid>
+  <pubDate>Sun, 19 Jul 2026 01:06:55 +0000</pubDate>
+  <description>Mine down into an active volcano, grab what valuables you can and make your escape before it erupts!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833990/84fde3f98da13205457ed886ac0c49e033766874/header.jpg?t=1784422051" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833990/84fde3f98da13205457ed886ac0c49e033766874/header.jpg?t=1784422051" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833990/84fde3f98da13205457ed886ac0c49e033766874/header.jpg?t=1784422051" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4833990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833990/84fde3f98da13205457ed886ac0c49e033766874/header.jpg?t=1784422051" alt="Prospector Peril（新規追加）" /></a></p><p>Mine down into an active volcano, grab what valuables you can and make your escape before it erupts!</p><p><a href="https://store.steampowered.com/app/4833990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Sultans Revenge（新規追加）</title>
+  <link>https://store.steampowered.com/app/4964080/</link>
+  <guid isPermaLink="false">steam-store-published-4964080</guid>
+  <pubDate>Sun, 19 Jul 2026 01:06:55 +0000</pubDate>
+  <description>Survive endless Ottoman hordes, auto-fire evolving weapons, and climb a branching map to the Vizier&#x27;s throne. A pixel-art bullet-heaven roguelike with 11 weapons (each with a unique evolution), 28 artifacts, and a Bazaar full of permanent upgrades.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964080/0d4591565faa5afd1cd3c256a162d95b626ff9bc/header.jpg?t=1784417693" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964080/0d4591565faa5afd1cd3c256a162d95b626ff9bc/header.jpg?t=1784417693" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964080/0d4591565faa5afd1cd3c256a162d95b626ff9bc/header.jpg?t=1784417693" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4964080/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964080/0d4591565faa5afd1cd3c256a162d95b626ff9bc/header.jpg?t=1784417693" alt="Sultans Revenge（新規追加）" /></a></p><p>Survive endless Ottoman hordes, auto-fire evolving weapons, and climb a branching map to the Vizier&#x27;s throne. A pixel-art bullet-heaven roguelike with 11 weapons (each with a unique evolution), 28 artifacts, and a Bazaar full of permanent upgrades.</p><p><a href="https://store.steampowered.com/app/4964080/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rail Guard（新規追加）</title>
   <link>https://store.steampowered.com/app/4970720/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936660/8bfed4d7b8a8c52d08a743fe0e0f7eb0add5805d/header.jpg?t=1784219580" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936660/8bfed4d7b8a8c52d08a743fe0e0f7eb0add5805d/header.jpg?t=1784219580" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4936660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936660/8bfed4d7b8a8c52d08a743fe0e0f7eb0add5805d/header.jpg?t=1784219580" alt="Peg Champ（新規追加）" /></a></p><p>Take your best shot in this Pachinko puzzle game! Break all the red pegs to win, but be careful you don&#x27;t run out of shots. Earn money and fill out a huge upgrade tree on your journey to become the Peg Champ!</p><p><a href="https://store.steampowered.com/app/4936660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>MULE: DON&#x27;T ASK QUESTIONS（新規追加）</title>
-  <link>https://store.steampowered.com/app/4895220/</link>
-  <guid isPermaLink="false">steam-store-published-4895220</guid>
-  <pubDate>Thu, 16 Jul 2026 17:42:19 +0000</pubDate>
-  <description>1-4 players. Smuggle secret packages across a 9 km² open world and a fully explorable international airport. Evade police patrols, customs inspections and airport security checkpoints while upgrading your vehicles, using disguises, and delivering the cargo before time runs out.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895220/4a82f3a419e4754614b9ae8bae8593351d51051a/header.jpg?t=1784219114" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895220/4a82f3a419e4754614b9ae8bae8593351d51051a/header.jpg?t=1784219114" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895220/4a82f3a419e4754614b9ae8bae8593351d51051a/header.jpg?t=1784219114" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4895220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895220/4a82f3a419e4754614b9ae8bae8593351d51051a/header.jpg?t=1784219114" alt="MULE: DON&#x27;T ASK QUESTIONS（新規追加）" /></a></p><p>1-4 players. Smuggle secret packages across a 9 km² open world and a fully explorable international airport. Evade police patrols, customs inspections and airport security checkpoints while upgrading your vehicles, using disguises, and delivering the cargo before time runs out.</p><p><a href="https://store.steampowered.com/app/4895220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Groovekeeper: Sort the Record Shop（新規追加）</title>
-  <link>https://store.steampowered.com/app/4953280/</link>
-  <guid isPermaLink="false">steam-store-published-4953280</guid>
-  <pubDate>Thu, 16 Jul 2026 16:18:42 +0000</pubDate>
-  <description>A first-person record-sorting game: no customers, no economy, no time pressure. Shelve the records that come out of the crates by genre, put rare ones on the turntable and listen. As the shelves fill up, we guarantee relaxation.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953280/8e39171ad2f9992985ad01e7b0e0dc6c2cb2ed26/header.jpg?t=1784215956" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953280/8e39171ad2f9992985ad01e7b0e0dc6c2cb2ed26/header.jpg?t=1784215956" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953280/8e39171ad2f9992985ad01e7b0e0dc6c2cb2ed26/header.jpg?t=1784215956" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4953280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953280/8e39171ad2f9992985ad01e7b0e0dc6c2cb2ed26/header.jpg?t=1784215956" alt="Groovekeeper: Sort the Record Shop（新規追加）" /></a></p><p>A first-person record-sorting game: no customers, no economy, no time pressure. Shelve the records that come out of the crates by genre, put rare ones on the turntable and listen. As the shelves fill up, we guarantee relaxation.</p><p><a href="https://store.steampowered.com/app/4953280/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
