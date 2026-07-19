@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 19 Jul 2026 18:35:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 19:48:33 +0000</lastBuildDate>
+<item>
+  <title>The Quiet Below（新規追加）</title>
+  <link>https://store.steampowered.com/app/4916670/</link>
+  <guid isPermaLink="false">steam-store-published-4916670</guid>
+  <pubDate>Sun, 19 Jul 2026 19:48:33 +0000</pubDate>
+  <description>A turn-based psychological dungeon crawl. Descend alone, manage light and resolve, and survive the dungeon&#x27;s pressure. </description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916670/cc6628356dea514fd0c32e22e25e9f85f53a4206/header.jpg?t=1784488702" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916670/cc6628356dea514fd0c32e22e25e9f85f53a4206/header.jpg?t=1784488702" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916670/cc6628356dea514fd0c32e22e25e9f85f53a4206/header.jpg?t=1784488702" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4916670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916670/cc6628356dea514fd0c32e22e25e9f85f53a4206/header.jpg?t=1784488702" alt="The Quiet Below（新規追加）" /></a></p><p>A turn-based psychological dungeon crawl. Descend alone, manage light and resolve, and survive the dungeon&#x27;s pressure. </p><p><a href="https://store.steampowered.com/app/4916670/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Whispering Maze（新規追加）</title>
   <link>https://store.steampowered.com/app/4499710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740310/d10a950333dd4873c07a574a6e4d6996354723d3/header.jpg?t=1784245158" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740310/d10a950333dd4873c07a574a6e4d6996354723d3/header.jpg?t=1784245158" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4740310/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740310/d10a950333dd4873c07a574a6e4d6996354723d3/header.jpg?t=1784245158" alt="Sagventyr（新規追加）" /></a></p><p>Explore and survive on the awakened island while preparing to battle powerful enemies. Logging, mining, fighting, building, and crafting will help you defeat formidable foes and gain new powers.</p><p><a href="https://store.steampowered.com/app/4740310/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GRIT（新規追加）</title>
-  <link>https://store.steampowered.com/app/738090/</link>
-  <guid isPermaLink="false">steam-store-published-738090</guid>
-  <pubDate>Thu, 16 Jul 2026 23:32:07 +0000</pubDate>
-  <description>Ride or die in the ultimate Wild West battle royale, where there&#x27;s more to winning than aiming true. Saddle up and ride across town, building the best poker hand from found weapons to make a killing.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738090/header.jpg?t=1784243378" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738090/header.jpg?t=1784243378" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738090/header.jpg?t=1784243378" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/738090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738090/header.jpg?t=1784243378" alt="GRIT（新規追加）" /></a></p><p>Ride or die in the ultimate Wild West battle royale, where there&#x27;s more to winning than aiming true. Saddle up and ride across town, building the best poker hand from found weapons to make a killing.</p><p><a href="https://store.steampowered.com/app/738090/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
