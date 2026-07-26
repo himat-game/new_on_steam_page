@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 25 Jul 2026 23:15:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 00:15:12 +0000</lastBuildDate>
+<item>
+  <title>MineMergeMatic（新規追加）</title>
+  <link>https://store.steampowered.com/app/4976010/</link>
+  <guid isPermaLink="false">steam-store-published-4976010</guid>
+  <pubDate>Sun, 26 Jul 2026 00:15:12 +0000</pubDate>
+  <description>Mine, merge, and automate! Combine ores into valuable resources, build compact production chains, unlock powerful machinery, and expand your grid into a bustling mining factory.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976010/e1d78abd00d4738771ef4ba478ea13ccc78568d4/header.jpg?t=1785023877" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976010/e1d78abd00d4738771ef4ba478ea13ccc78568d4/header.jpg?t=1785023877" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976010/e1d78abd00d4738771ef4ba478ea13ccc78568d4/header.jpg?t=1785023877" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4976010/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976010/e1d78abd00d4738771ef4ba478ea13ccc78568d4/header.jpg?t=1785023877" alt="MineMergeMatic（新規追加）" /></a></p><p>Mine, merge, and automate! Combine ores into valuable resources, build compact production chains, unlock powerful machinery, and expand your grid into a bustling mining factory.</p><p><a href="https://store.steampowered.com/app/4976010/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Mukmil（新規追加）</title>
   <link>https://store.steampowered.com/app/4875370/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981140/c67ea4b964d5ad91db1b3cf1cec9535fdb1e252c/header.jpg?t=1784844726" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981140/c67ea4b964d5ad91db1b3cf1cec9535fdb1e252c/header.jpg?t=1784844726" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4981140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981140/c67ea4b964d5ad91db1b3cf1cec9535fdb1e252c/header.jpg?t=1784844726" alt="Desktop Gremlins（新規追加）" /></a></p><p>A transparent desktop pet that lives on your screen, evolves through 4 characters and wreaks havoc with open applications. Feed and pet it—or face its wrath.</p><p><a href="https://store.steampowered.com/app/4981140/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hop Slasher（新規追加）</title>
-  <link>https://store.steampowered.com/app/4986340/</link>
-  <guid isPermaLink="false">steam-store-published-4986340</guid>
-  <pubDate>Thu, 23 Jul 2026 22:16:56 +0000</pubDate>
-  <description>Hop Slasher is a cartoony arcade game where your movement never stops.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986340/8000a4852b8de41d664db59a0160d2414aa53a1b/header.jpg?t=1784843473" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986340/8000a4852b8de41d664db59a0160d2414aa53a1b/header.jpg?t=1784843473" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986340/8000a4852b8de41d664db59a0160d2414aa53a1b/header.jpg?t=1784843473" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4986340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986340/8000a4852b8de41d664db59a0160d2414aa53a1b/header.jpg?t=1784843473" alt="Hop Slasher（新規追加）" /></a></p><p>Hop Slasher is a cartoony arcade game where your movement never stops.</p><p><a href="https://store.steampowered.com/app/4986340/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
