@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Jul 2026 18:40:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 20:06:12 +0000</lastBuildDate>
+<item>
+  <title>Somnia（新規追加）</title>
+  <link>https://store.steampowered.com/app/4960370/</link>
+  <guid isPermaLink="false">steam-store-published-4960370</guid>
+  <pubDate>Sun, 26 Jul 2026 20:06:12 +0000</pubDate>
+  <description>Somnia is a first-person psychological horror game where you wander through endless hallways, encounter strange entities, and search for mysterious eyes while following the voice that guides you forward.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960370/beec5e74cb597af3217329e2b3149938503edf1b/header.jpg?t=1785094523" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960370/beec5e74cb597af3217329e2b3149938503edf1b/header.jpg?t=1785094523" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960370/beec5e74cb597af3217329e2b3149938503edf1b/header.jpg?t=1785094523" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4960370/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960370/beec5e74cb597af3217329e2b3149938503edf1b/header.jpg?t=1785094523" alt="Somnia（新規追加）" /></a></p><p>Somnia is a first-person psychological horror game where you wander through endless hallways, encounter strange entities, and search for mysterious eyes while following the voice that guides you forward.</p><p><a href="https://store.steampowered.com/app/4960370/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Little Factory（新規追加）</title>
   <link>https://store.steampowered.com/app/4774980/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966740/6e65f77b447f02083feaf1515cb51e0e8603045b/header.jpg?t=1784855202" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966740/6e65f77b447f02083feaf1515cb51e0e8603045b/header.jpg?t=1784855202" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4966740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966740/6e65f77b447f02083feaf1515cb51e0e8603045b/header.jpg?t=1784855202" alt="日本地図 都市パズル（新規追加）" /></a></p><p>A massive geography puzzle with every prefecture, city, ward, town and village in Japan—over 1,700 areas, nearly 1,900 pieces! Learn towns nationwide through Puzzle, Quiz, Study, Silhouette, Mountains &amp;amp; Rivers and Town Fortune mo des. Full controller support, with furigana &amp;amp; read-aloud for all ages.</p><p><a href="https://store.steampowered.com/app/4966740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>万念仙城（新規追加）</title>
-  <link>https://store.steampowered.com/app/4224700/</link>
-  <guid isPermaLink="false">steam-store-published-4224700</guid>
-  <pubDate>Fri, 24 Jul 2026 03:47:06 +0000</pubDate>
-  <description>这是一款开放叙事修仙游戏。你将从一名凡人开始，在强者林立的“仙城”曲都中修行成长，修行中的机遇、心魔与执念，化作无数张卡牌，铸就独一无二的成仙路。奇遇机缘、秘境传承、恩义情缘，在百世轮回中做出不同抉择，从改变个人命运到影响天下众生。</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224700/50e1917d57e534ef7769f6d73a2b8958af8efdf5/header.jpg?t=1784861059" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224700/50e1917d57e534ef7769f6d73a2b8958af8efdf5/header.jpg?t=1784861059" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224700/50e1917d57e534ef7769f6d73a2b8958af8efdf5/header.jpg?t=1784861059" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224700/50e1917d57e534ef7769f6d73a2b8958af8efdf5/header.jpg?t=1784861059" alt="万念仙城（新規追加）" /></a></p><p>这是一款开放叙事修仙游戏。你将从一名凡人开始，在强者林立的“仙城”曲都中修行成长，修行中的机遇、心魔与执念，化作无数张卡牌，铸就独一无二的成仙路。奇遇机缘、秘境传承、恩义情缘，在百世轮回中做出不同抉择，从改变个人命运到影响天下众生。</p><p><a href="https://store.steampowered.com/app/4224700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
