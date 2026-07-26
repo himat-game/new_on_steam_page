@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Jul 2026 16:31:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 17:39:21 +0000</lastBuildDate>
+<item>
+  <title>Ironwake（新規追加）</title>
+  <link>https://store.steampowered.com/app/4954740/</link>
+  <guid isPermaLink="false">steam-store-published-4954740</guid>
+  <pubDate>Sun, 26 Jul 2026 17:39:21 +0000</pubDate>
+  <description>“A gothic turn-based roguelite where the town remembers you. Forge real bonds with the keepers of Ironwake — or betray them and live with it. Raise a creature from egg to Awakening. Descend ever-shifting dungeons for element-forged loot, and come back changed.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954740/c772cea13e1afae9ae1a17c41856134e222d4c6b/header.jpg?t=1785084435" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954740/c772cea13e1afae9ae1a17c41856134e222d4c6b/header.jpg?t=1785084435" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954740/c772cea13e1afae9ae1a17c41856134e222d4c6b/header.jpg?t=1785084435" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4954740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954740/c772cea13e1afae9ae1a17c41856134e222d4c6b/header.jpg?t=1785084435" alt="Ironwake（新規追加）" /></a></p><p>“A gothic turn-based roguelite where the town remembers you. Forge real bonds with the keepers of Ironwake — or betray them and live with it. Raise a creature from egg to Awakening. Descend ever-shifting dungeons for element-forged loot, and come back changed.</p><p><a href="https://store.steampowered.com/app/4954740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>23 Days（新規追加）</title>
   <link>https://store.steampowered.com/app/4564510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942750/af4db7526997b55ef36e63ae523664722d0095ef/header.jpg?t=1784861014" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942750/af4db7526997b55ef36e63ae523664722d0095ef/header.jpg?t=1784861014" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4942750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942750/af4db7526997b55ef36e63ae523664722d0095ef/header.jpg?t=1784861014" alt="Bramblewick: Guild Management Simulator（新規追加）" /></a></p><p>You are the Guild Master. You don&#x27;t swing the sword — you decide who does. Hire adventurers, send them down dangerous roads, and make the calls they&#x27;ll never forget. In Bramblewick, every hero remembers each quest, wound, and order you gave. Build your guild. Live with the choices.</p><p><a href="https://store.steampowered.com/app/4942750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Stackcraft: Three Kingdoms（新規追加）</title>
-  <link>https://store.steampowered.com/app/4604600/</link>
-  <guid isPermaLink="false">steam-store-published-4604600</guid>
-  <pubDate>Fri, 24 Jul 2026 03:47:06 +0000</pubDate>
-  <description>Stackcraft: Three Kingdoms is a card-based simulation game. During the turbulent late Han period, stack cards to recruit famous generals, experience events, develop, and dominate your territory. Try to stack your Three Kingdoms story on the desktop.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604600/edd1cea38e948a6624ebd5b70d5557e711266bda/header.jpg?t=1784862141" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604600/edd1cea38e948a6624ebd5b70d5557e711266bda/header.jpg?t=1784862141" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604600/edd1cea38e948a6624ebd5b70d5557e711266bda/header.jpg?t=1784862141" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4604600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604600/edd1cea38e948a6624ebd5b70d5557e711266bda/header.jpg?t=1784862141" alt="Stackcraft: Three Kingdoms（新規追加）" /></a></p><p>Stackcraft: Three Kingdoms is a card-based simulation game. During the turbulent late Han period, stack cards to recruit famous generals, experience events, develop, and dominate your territory. Try to stack your Three Kingdoms story on the desktop.</p><p><a href="https://store.steampowered.com/app/4604600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
