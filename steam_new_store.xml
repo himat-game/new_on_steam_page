@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 26 Jul 2026 17:39:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 18:40:18 +0000</lastBuildDate>
+<item>
+  <title>Little Factory（新規追加）</title>
+  <link>https://store.steampowered.com/app/4774980/</link>
+  <guid isPermaLink="false">steam-store-published-4774980</guid>
+  <pubDate>Sun, 26 Jul 2026 18:40:18 +0000</pubDate>
+  <description>Welcome to Little Factory, a cozy and relaxing desktop idle production game! Every creature has its own unique traits and work habits, and each one has the potential to be truly one of a kind. Come unlock a special creature of your very own!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774980/5eb0ba3ac3c853d653c6070f7ffbd987c4b90555/header.jpg?t=1785088550" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774980/5eb0ba3ac3c853d653c6070f7ffbd987c4b90555/header.jpg?t=1785088550" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774980/5eb0ba3ac3c853d653c6070f7ffbd987c4b90555/header.jpg?t=1785088550" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4774980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774980/5eb0ba3ac3c853d653c6070f7ffbd987c4b90555/header.jpg?t=1785088550" alt="Little Factory（新規追加）" /></a></p><p>Welcome to Little Factory, a cozy and relaxing desktop idle production game! Every creature has its own unique traits and work habits, and each one has the potential to be truly one of a kind. Come unlock a special creature of your very own!</p><p><a href="https://store.steampowered.com/app/4774980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ironwake（新規追加）</title>
   <link>https://store.steampowered.com/app/4954740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224700/50e1917d57e534ef7769f6d73a2b8958af8efdf5/header.jpg?t=1784861059" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224700/50e1917d57e534ef7769f6d73a2b8958af8efdf5/header.jpg?t=1784861059" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4224700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224700/50e1917d57e534ef7769f6d73a2b8958af8efdf5/header.jpg?t=1784861059" alt="万念仙城（新規追加）" /></a></p><p>这是一款开放叙事修仙游戏。你将从一名凡人开始，在强者林立的“仙城”曲都中修行成长，修行中的机遇、心魔与执念，化作无数张卡牌，铸就独一无二的成仙路。奇遇机缘、秘境传承、恩义情缘，在百世轮回中做出不同抉择，从改变个人命运到影响天下众生。</p><p><a href="https://store.steampowered.com/app/4224700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Bramblewick: Guild Management Simulator（新規追加）</title>
-  <link>https://store.steampowered.com/app/4942750/</link>
-  <guid isPermaLink="false">steam-store-published-4942750</guid>
-  <pubDate>Fri, 24 Jul 2026 03:47:06 +0000</pubDate>
-  <description>You are the Guild Master. You don&#x27;t swing the sword — you decide who does. Hire adventurers, send them down dangerous roads, and make the calls they&#x27;ll never forget. In Bramblewick, every hero remembers each quest, wound, and order you gave. Build your guild. Live with the choices.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942750/af4db7526997b55ef36e63ae523664722d0095ef/header.jpg?t=1784861014" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942750/af4db7526997b55ef36e63ae523664722d0095ef/header.jpg?t=1784861014" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942750/af4db7526997b55ef36e63ae523664722d0095ef/header.jpg?t=1784861014" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4942750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942750/af4db7526997b55ef36e63ae523664722d0095ef/header.jpg?t=1784861014" alt="Bramblewick: Guild Management Simulator（新規追加）" /></a></p><p>You are the Guild Master. You don&#x27;t swing the sword — you decide who does. Hire adventurers, send them down dangerous roads, and make the calls they&#x27;ll never forget. In Bramblewick, every hero remembers each quest, wound, and order you gave. Build your guild. Live with the choices.</p><p><a href="https://store.steampowered.com/app/4942750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
