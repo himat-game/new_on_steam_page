@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 01 Aug 2026 22:33:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 23:34:58 +0000</lastBuildDate>
+<item>
+  <title>Shadow of the Dead Lands（新規追加）</title>
+  <link>https://store.steampowered.com/app/4994960/</link>
+  <guid isPermaLink="false">steam-store-published-4994960</guid>
+  <pubDate>Sat, 01 Aug 2026 23:34:58 +0000</pubDate>
+  <description>Enter a fallen dark-fantasy kingdom in this atmospheric 2D action-adventure. Master shadow powers, overcome deadly platforming challenges, defeat corrupted guardians, and recover five lost hearts to seal the Abyss King once more.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994960/c29c96d418051dcce4040e87b778980bb02c2aaf/header.jpg?t=1785626051" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994960/c29c96d418051dcce4040e87b778980bb02c2aaf/header.jpg?t=1785626051" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994960/c29c96d418051dcce4040e87b778980bb02c2aaf/header.jpg?t=1785626051" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4994960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994960/c29c96d418051dcce4040e87b778980bb02c2aaf/header.jpg?t=1785626051" alt="Shadow of the Dead Lands（新規追加）" /></a></p><p>Enter a fallen dark-fantasy kingdom in this atmospheric 2D action-adventure. Master shadow powers, overcome deadly platforming challenges, defeat corrupted guardians, and recover five lost hearts to seal the Abyss King once more.</p><p><a href="https://store.steampowered.com/app/4994960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Fall Queen（新規追加）</title>
   <link>https://store.steampowered.com/app/4686010/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652670/cc44a748b005d4970b32136687e33a0659730398/header.jpg?t=1785467971" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652670/cc44a748b005d4970b32136687e33a0659730398/header.jpg?t=1785467971" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3652670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3652670/cc44a748b005d4970b32136687e33a0659730398/header.jpg?t=1785467971" alt="International Trading League（新規追加）" /></a></p><p>International Trading League is a massively multiplayer economic simulation where you build an industrial empire across the globe. Produce, trade, and dominate markets in real-world cities.</p><p><a href="https://store.steampowered.com/app/3652670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>GOD CANDLE（新規追加）</title>
-  <link>https://store.steampowered.com/app/5002930/</link>
-  <guid isPermaLink="false">steam-store-published-5002930</guid>
-  <pubDate>Fri, 31 Jul 2026 03:29:25 +0000</pubDate>
-  <description>The market is the dungeon, and it&#x27;s never the same twice. Choose a ticker each morning, then survive ten trading days: ride momentum, abuse leverage up to 10x, outtrade bosses like FOMC Day and the Flash Crash, and draft relics between bells. Print the God Candle — or get liquidated.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002930/e7fd304028be05a140e417d14d11b0aacc443570/header.jpg?t=1785461986" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002930/e7fd304028be05a140e417d14d11b0aacc443570/header.jpg?t=1785461986" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002930/e7fd304028be05a140e417d14d11b0aacc443570/header.jpg?t=1785461986" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5002930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002930/e7fd304028be05a140e417d14d11b0aacc443570/header.jpg?t=1785461986" alt="GOD CANDLE（新規追加）" /></a></p><p>The market is the dungeon, and it&#x27;s never the same twice. Choose a ticker each morning, then survive ten trading days: ride momentum, abuse leverage up to 10x, outtrade bosses like FOMC Day and the Flash Crash, and draft relics between bells. Print the God Candle — or get liquidated.</p><p><a href="https://store.steampowered.com/app/5002930/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
