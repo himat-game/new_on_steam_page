@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 01 Aug 2026 17:04:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 18:13:24 +0000</lastBuildDate>
+<item>
+  <title>Popcorn Idle（新規追加）</title>
+  <link>https://store.steampowered.com/app/4856780/</link>
+  <guid isPermaLink="false">steam-store-published-4856780</guid>
+  <pubDate>Sat, 01 Aug 2026 18:13:24 +0000</pubDate>
+  <description>Popcorn Idle is a cozy idle automation game about the simple joy of popping corn. Earn money, buy upgrades, automate and turn up the heat to boost production. Grow bigger numbers, unlock flavors and combine effects. Fill the whole machine with colorful, tasty popcorn, one crunchy pop at a time.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856780/e97c166a3f74a2f20587e0760c618cfe33b50938/header.jpg?t=1785606593" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856780/e97c166a3f74a2f20587e0760c618cfe33b50938/header.jpg?t=1785606593" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856780/e97c166a3f74a2f20587e0760c618cfe33b50938/header.jpg?t=1785606593" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4856780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856780/e97c166a3f74a2f20587e0760c618cfe33b50938/header.jpg?t=1785606593" alt="Popcorn Idle（新規追加）" /></a></p><p>Popcorn Idle is a cozy idle automation game about the simple joy of popping corn. Earn money, buy upgrades, automate and turn up the heat to boost production. Grow bigger numbers, unlock flavors and combine effects. Fill the whole machine with colorful, tasty popcorn, one crunchy pop at a time.</p><p><a href="https://store.steampowered.com/app/4856780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Prospector Collector（新規追加）</title>
+  <link>https://store.steampowered.com/app/4527920/</link>
+  <guid isPermaLink="false">steam-store-published-4527920</guid>
+  <pubDate>Sat, 01 Aug 2026 18:13:24 +0000</pubDate>
+  <description>A first-person exploration and prospecting adventure where players pan, sluice, sift, and mine to discover rare gemstones and precious metals, each generated with realistic gemological attributes and unique natural shapes, where every expedition brings the feeling that you&#x27;re not alone.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527920/45d7e268e8da54cef16bf1788cfb8b32bc4578d7/header.jpg?t=1785603995" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527920/45d7e268e8da54cef16bf1788cfb8b32bc4578d7/header.jpg?t=1785603995" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527920/45d7e268e8da54cef16bf1788cfb8b32bc4578d7/header.jpg?t=1785603995" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4527920/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527920/45d7e268e8da54cef16bf1788cfb8b32bc4578d7/header.jpg?t=1785603995" alt="Prospector Collector（新規追加）" /></a></p><p>A first-person exploration and prospecting adventure where players pan, sluice, sift, and mine to discover rare gemstones and precious metals, each generated with realistic gemological attributes and unique natural shapes, where every expedition brings the feeling that you&#x27;re not alone.</p><p><a href="https://store.steampowered.com/app/4527920/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Climb, Cube, Climb!（新規追加）</title>
   <link>https://store.steampowered.com/app/4999870/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830030/cfb28e428ead0e66e784009b1c545939d53cca7e/header.jpg?t=1785458370" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830030/cfb28e428ead0e66e784009b1c545939d53cca7e/header.jpg?t=1785458370" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4830030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830030/cfb28e428ead0e66e784009b1c545939d53cca7e/header.jpg?t=1785458370" alt="Unknown Zone（新規追加）" /></a></p><p>Explore procedurally generated surface zones in a combat vehicle, battle hostile entities, collect resources, and extract safely before fuel reserves are depleted.</p><p><a href="https://store.steampowered.com/app/4830030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Solitaire Adventure（新規追加）</title>
-  <link>https://store.steampowered.com/app/4960780/</link>
-  <guid isPermaLink="false">steam-store-published-4960780</guid>
-  <pubDate>Fri, 31 Jul 2026 03:29:25 +0000</pubDate>
-  <description>Set sail with Bella across five mysterious islands! From fiery volcanoes to frozen poles, each holds unique solitaire puzzles. Classic TriPeaks meets spider webs, bombs &amp;amp; more—your relaxing Solitaire Adventure awaits anytime, anywhere!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960780/5c91daabf47e5479cffd12b275d017c96df0a85d/header.jpg?t=1785463170" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960780/5c91daabf47e5479cffd12b275d017c96df0a85d/header.jpg?t=1785463170" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960780/5c91daabf47e5479cffd12b275d017c96df0a85d/header.jpg?t=1785463170" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4960780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960780/5c91daabf47e5479cffd12b275d017c96df0a85d/header.jpg?t=1785463170" alt="Solitaire Adventure（新規追加）" /></a></p><p>Set sail with Bella across five mysterious islands! From fiery volcanoes to frozen poles, each holds unique solitaire puzzles. Classic TriPeaks meets spider webs, bombs &amp;amp; more—your relaxing Solitaire Adventure awaits anytime, anywhere!</p><p><a href="https://store.steampowered.com/app/4960780/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Are You Chicken?（新規追加）</title>
-  <link>https://store.steampowered.com/app/4985780/</link>
-  <guid isPermaLink="false">steam-store-published-4985780</guid>
-  <pubDate>Fri, 31 Jul 2026 03:29:25 +0000</pubDate>
-  <description>Show your courage to earn your place in this world! A quick and fun egg-rolling game you can enjoy anytime.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985780/5f396ce1e252b5a1d45d47cdb168aa66c72ca6b0/header.jpg?t=1785456138" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985780/5f396ce1e252b5a1d45d47cdb168aa66c72ca6b0/header.jpg?t=1785456138" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985780/5f396ce1e252b5a1d45d47cdb168aa66c72ca6b0/header.jpg?t=1785456138" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4985780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985780/5f396ce1e252b5a1d45d47cdb168aa66c72ca6b0/header.jpg?t=1785456138" alt="Are You Chicken?（新規追加）" /></a></p><p>Show your courage to earn your place in this world! A quick and fun egg-rolling game you can enjoy anytime.</p><p><a href="https://store.steampowered.com/app/4985780/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
