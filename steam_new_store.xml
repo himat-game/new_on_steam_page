@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 02 Aug 2026 19:51:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 20:51:25 +0000</lastBuildDate>
+<item>
+  <title>MAHOU SHOJO REVENGE!（新規追加）</title>
+  <link>https://store.steampowered.com/app/1650070/</link>
+  <guid isPermaLink="false">steam-store-published-1650070</guid>
+  <pubDate>Sun, 02 Aug 2026 20:51:25 +0000</pubDate>
+  <description>MAHOU SHOJO REVENGE! is a visual novel where you follow an ex-magical girl on a quest of revenge against her former squad mates that betrayed her.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650070/7e33c5a66bd85c1375c8b5266d831a974ad0dce7/header.jpg?t=1785701854" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650070/7e33c5a66bd85c1375c8b5266d831a974ad0dce7/header.jpg?t=1785701854" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650070/7e33c5a66bd85c1375c8b5266d831a974ad0dce7/header.jpg?t=1785701854" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/1650070/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650070/7e33c5a66bd85c1375c8b5266d831a974ad0dce7/header.jpg?t=1785701854" alt="MAHOU SHOJO REVENGE!（新規追加）" /></a></p><p>MAHOU SHOJO REVENGE! is a visual novel where you follow an ex-magical girl on a quest of revenge against her former squad mates that betrayed her.</p><p><a href="https://store.steampowered.com/app/1650070/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Novella Oscura Reverie（新規追加）</title>
   <link>https://store.steampowered.com/app/4876980/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484660/6bd5440c6d8f6719ec205b84374db17f1dc0dbf6/header.jpg?t=1785493849" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484660/6bd5440c6d8f6719ec205b84374db17f1dc0dbf6/header.jpg?t=1785493849" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4484660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484660/6bd5440c6d8f6719ec205b84374db17f1dc0dbf6/header.jpg?t=1785493849" alt="For Tarnow Eternal（新規追加）" /></a></p><p>The end of time has come - alas, the emperor of the faraway city of Tarnow has managed to avert the natural flow of time, causing the time space continuum to break, slowly decaying into nothingness. Explore the forgotten lands of Tarnow, defeat mighty foes and give the universe a proper death.</p><p><a href="https://store.steampowered.com/app/4484660/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Break the Witch（新規追加）</title>
-  <link>https://store.steampowered.com/app/4939120/</link>
-  <guid isPermaLink="false">steam-store-published-4939120</guid>
-  <pubDate>Fri, 31 Jul 2026 11:44:21 +0000</pubDate>
-  <description>Manage the duality of defending while using the enemy projectiles in your favor to face challenges an progress through the game. To improve collect boons along the way. Try different builds and find the one that best suits your play style.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939120/f7bdf4336f9d68590caad123bb6af0add5863fea/header.jpg?t=1785493271" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939120/f7bdf4336f9d68590caad123bb6af0add5863fea/header.jpg?t=1785493271" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939120/f7bdf4336f9d68590caad123bb6af0add5863fea/header.jpg?t=1785493271" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4939120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939120/f7bdf4336f9d68590caad123bb6af0add5863fea/header.jpg?t=1785493271" alt="Break the Witch（新規追加）" /></a></p><p>Manage the duality of defending while using the enemy projectiles in your favor to face challenges an progress through the game. To improve collect boons along the way. Try different builds and find the one that best suits your play style.</p><p><a href="https://store.steampowered.com/app/4939120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
