@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 07 Aug 2026 10:14:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 11:09:26 +0000</lastBuildDate>
+<item>
+  <title>Abraca Drunk（新規追加）</title>
+  <link>https://store.steampowered.com/app/4994480/</link>
+  <guid isPermaLink="false">steam-store-published-4994480</guid>
+  <pubDate>Fri, 07 Aug 2026 11:09:26 +0000</pubDate>
+  <description>A gaggle of (mana-)drunk wizards try to get home after a long night out. In their inebriated state, they accidentally bring random objects around them to life - oh no! Play with your friends in this 4-Person Co-Op Roguelite, and defeat the creatures to help everyone get back home!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994480/7119e29e8eeb4ee2406a4dde91493bc64bf649a1/header.jpg?t=1786100790" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994480/7119e29e8eeb4ee2406a4dde91493bc64bf649a1/header.jpg?t=1786100790" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994480/7119e29e8eeb4ee2406a4dde91493bc64bf649a1/header.jpg?t=1786100790" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4994480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994480/7119e29e8eeb4ee2406a4dde91493bc64bf649a1/header.jpg?t=1786100790" alt="Abraca Drunk（新規追加）" /></a></p><p>A gaggle of (mana-)drunk wizards try to get home after a long night out. In their inebriated state, they accidentally bring random objects around them to life - oh no! Play with your friends in this 4-Person Co-Op Roguelite, and defeat the creatures to help everyone get back home!</p><p><a href="https://store.steampowered.com/app/4994480/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Halima（新規追加）</title>
+  <link>https://store.steampowered.com/app/3792990/</link>
+  <guid isPermaLink="false">steam-store-published-3792990</guid>
+  <pubDate>Fri, 07 Aug 2026 11:09:26 +0000</pubDate>
+  <description>Enter a claymation dream world shaped by jinn, memory, and forgotten rituals. Solve symbolic puzzles, evade the Nightmare Jinn, and uncover the truth buried inside the dream.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3792990/d9301dbaa88823fdb2b1d9b28413411a7b27c49e/header.jpg?t=1786100756" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3792990/d9301dbaa88823fdb2b1d9b28413411a7b27c49e/header.jpg?t=1786100756" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3792990/d9301dbaa88823fdb2b1d9b28413411a7b27c49e/header.jpg?t=1786100756" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3792990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3792990/d9301dbaa88823fdb2b1d9b28413411a7b27c49e/header.jpg?t=1786100756" alt="Halima（新規追加）" /></a></p><p>Enter a claymation dream world shaped by jinn, memory, and forgotten rituals. Solve symbolic puzzles, evade the Nightmare Jinn, and uncover the truth buried inside the dream.</p><p><a href="https://store.steampowered.com/app/3792990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>BattleDeck（新規追加）</title>
   <link>https://store.steampowered.com/app/4779400/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961790/a5a62d77f701e4bbfe40e1543257eb985d8a79fe/header.jpg?t=1785954510" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961790/a5a62d77f701e4bbfe40e1543257eb985d8a79fe/header.jpg?t=1785954510" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4961790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961790/a5a62d77f701e4bbfe40e1543257eb985d8a79fe/header.jpg?t=1785954510" alt="Puzzles Fishing（新規追加）" /></a></p><p>This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!</p><p><a href="https://store.steampowered.com/app/4961790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tidewrack（新規追加）</title>
-  <link>https://store.steampowered.com/app/5035340/</link>
-  <guid isPermaLink="false">steam-store-published-5035340</guid>
-  <pubDate>Wed, 05 Aug 2026 18:55:38 +0000</pubDate>
-  <description>A few logs, one harpoon, no land in sight. Pull driftwood from the sea, turn your raft into a floating town, and rise from lone survivor to leader of a colony. Dive to the ocean floor. Raiders strike at night, sharks circle — and somewhere out there, a leviathan is waiting.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035340/d5cb7b06733ef26cd37bcdd31f993dd150a769ea/header.jpg?t=1785951589" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035340/d5cb7b06733ef26cd37bcdd31f993dd150a769ea/header.jpg?t=1785951589" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035340/d5cb7b06733ef26cd37bcdd31f993dd150a769ea/header.jpg?t=1785951589" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5035340/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035340/d5cb7b06733ef26cd37bcdd31f993dd150a769ea/header.jpg?t=1785951589" alt="Tidewrack（新規追加）" /></a></p><p>A few logs, one harpoon, no land in sight. Pull driftwood from the sea, turn your raft into a floating town, and rise from lone survivor to leader of a colony. Dive to the ocean floor. Raiders strike at night, sharks circle — and somewhere out there, a leviathan is waiting.</p><p><a href="https://store.steampowered.com/app/5035340/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Scavenger Survivors（新規追加）</title>
-  <link>https://store.steampowered.com/app/4991630/</link>
-  <guid isPermaLink="false">steam-store-published-4991630</guid>
-  <pubDate>Wed, 05 Aug 2026 18:55:38 +0000</pubDate>
-  <description>Love chaotic physics and horde survival? Add Scavenger Survivors to your Wishlist now to get notified when the playtests start and the demo goes live</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991630/883c8b55b497a8e0d2ca28180585e4d02da60142/header.jpg?t=1785949742" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991630/883c8b55b497a8e0d2ca28180585e4d02da60142/header.jpg?t=1785949742" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991630/883c8b55b497a8e0d2ca28180585e4d02da60142/header.jpg?t=1785949742" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4991630/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991630/883c8b55b497a8e0d2ca28180585e4d02da60142/header.jpg?t=1785949742" alt="Scavenger Survivors（新規追加）" /></a></p><p>Love chaotic physics and horde survival? Add Scavenger Survivors to your Wishlist now to get notified when the playtests start and the demo goes live</p><p><a href="https://store.steampowered.com/app/4991630/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
