@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 08 Aug 2026 15:25:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 15:59:47 +0000</lastBuildDate>
+<item>
+  <title>PACIFIC RHYTHM（新規追加）</title>
+  <link>https://store.steampowered.com/app/4968580/</link>
+  <guid isPermaLink="false">steam-store-published-4968580</guid>
+  <pubDate>Sat, 08 Aug 2026 15:59:47 +0000</pubDate>
+  <description>Read and decode the rhythm-moving kaiju&#x27;s behavior, and keep delivering the optimal response. You&#x27;ve been chosen as the Operator. Keep striking down the kaiju. Match its rhythm with your own — fight back in sync with the beat!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968580/6b5b6fdb978afd534c24a8b2f4aedd126f0c2109/header.jpg?t=1786204757" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968580/6b5b6fdb978afd534c24a8b2f4aedd126f0c2109/header.jpg?t=1786204757" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968580/6b5b6fdb978afd534c24a8b2f4aedd126f0c2109/header.jpg?t=1786204757" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4968580/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968580/6b5b6fdb978afd534c24a8b2f4aedd126f0c2109/header.jpg?t=1786204757" alt="PACIFIC RHYTHM（新規追加）" /></a></p><p>Read and decode the rhythm-moving kaiju&#x27;s behavior, and keep delivering the optimal response. You&#x27;ve been chosen as the Operator. Keep striking down the kaiju. Match its rhythm with your own — fight back in sync with the beat!</p><p><a href="https://store.steampowered.com/app/4968580/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Noosibirsk（新規追加）</title>
   <link>https://store.steampowered.com/app/3509600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007910/8651d8c91ddf084541da2dd6a6b744800429c4af/header.jpg?t=1786049942" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007910/8651d8c91ddf084541da2dd6a6b744800429c4af/header.jpg?t=1786049942" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5007910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007910/8651d8c91ddf084541da2dd6a6b744800429c4af/header.jpg?t=1786049942" alt="Metro Resonance（新規追加）" /></a></p><p>An intense 30-minute first-person survival thriller set in a post-apocalyptic underground. Survive a pitch-black tunnel, gather spare parts to fix your handcar, and reach the sealing station before your gas mask filter runs out.</p><p><a href="https://store.steampowered.com/app/5007910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Snake Extended（新規追加）</title>
-  <link>https://store.steampowered.com/app/4895140/</link>
-  <guid isPermaLink="false">steam-store-published-4895140</guid>
-  <pubDate>Fri, 07 Aug 2026 00:39:26 +0000</pubDate>
-  <description>Snake Extended is a classic Snake game expanded with challenges, multiple boards, power-ups, obstacles, and game modifiers. Simple rules, quick rounds, and sharper decisions every run.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895140/6a735cbb8b8ae2a106fcce0c1c0215cf76992da8/header.jpg?t=1786038660" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895140/6a735cbb8b8ae2a106fcce0c1c0215cf76992da8/header.jpg?t=1786038660" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895140/6a735cbb8b8ae2a106fcce0c1c0215cf76992da8/header.jpg?t=1786038660" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4895140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895140/6a735cbb8b8ae2a106fcce0c1c0215cf76992da8/header.jpg?t=1786038660" alt="Snake Extended（新規追加）" /></a></p><p>Snake Extended is a classic Snake game expanded with challenges, multiple boards, power-ups, obstacles, and game modifiers. Simple rules, quick rounds, and sharper decisions every run.</p><p><a href="https://store.steampowered.com/app/4895140/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
