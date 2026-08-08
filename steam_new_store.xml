@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 08 Aug 2026 19:01:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 20:24:31 +0000</lastBuildDate>
+<item>
+  <title>Deepclaim（新規追加）</title>
+  <link>https://store.steampowered.com/app/5013330/</link>
+  <guid isPermaLink="false">steam-store-published-5013330</guid>
+  <pubDate>Sat, 08 Aug 2026 20:24:31 +0000</pubDate>
+  <description>Pilot a mining sub into the crushing deep. Drill down, haul treasure up, and race the air in your tanks — one more gem, or turn back? Twelve strange seas, an endless descent below them, and a choice at the surface: dig in peace, or face the things that live down there.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013330/8c9ba6af91b4f1b32fc5e76270d2647f2ee507b3/header.jpg?t=1786220383" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013330/8c9ba6af91b4f1b32fc5e76270d2647f2ee507b3/header.jpg?t=1786220383" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013330/8c9ba6af91b4f1b32fc5e76270d2647f2ee507b3/header.jpg?t=1786220383" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5013330/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013330/8c9ba6af91b4f1b32fc5e76270d2647f2ee507b3/header.jpg?t=1786220383" alt="Deepclaim（新規追加）" /></a></p><p>Pilot a mining sub into the crushing deep. Drill down, haul treasure up, and race the air in your tanks — one more gem, or turn back? Twelve strange seas, an endless descent below them, and a choice at the surface: dig in peace, or face the things that live down there.</p><p><a href="https://store.steampowered.com/app/5013330/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Hyperboard Extreme（新規追加）</title>
   <link>https://store.steampowered.com/app/4892910/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041260/cad0dc5d38be67c004a084199b9d3c181b83d650/header.jpg?t=1786066766" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041260/cad0dc5d38be67c004a084199b9d3c181b83d650/header.jpg?t=1786066766" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5041260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041260/cad0dc5d38be67c004a084199b9d3c181b83d650/header.jpg?t=1786066766" alt="Ritual : House Sitting（新規追加）" /></a></p><p>A young woman named Nina accepts a house-sitting job recommended by a friend, tempted by the unusually generous pay. But is the house really as ordinary as it seems?</p><p><a href="https://store.steampowered.com/app/5041260/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Caladrius 2/Dark Element（新規追加）</title>
-  <link>https://store.steampowered.com/app/4655000/</link>
-  <guid isPermaLink="false">steam-store-published-4655000</guid>
-  <pubDate>Fri, 07 Aug 2026 03:37:56 +0000</pubDate>
-  <description>A dark gothic world ruled by beauty and darkness... Over a decade after its debut, the infamous Shame Break system returns. Discover striking characters brought to life by acclaimed illustrators, and master enhanced Element Shot and Shame Break systems in this exhilarating 2D bullet-hell shooter.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655000/156e83c3370aeeffb5df17351028662c32f92c25/header.jpg?t=1786064878" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655000/156e83c3370aeeffb5df17351028662c32f92c25/header.jpg?t=1786064878" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655000/156e83c3370aeeffb5df17351028662c32f92c25/header.jpg?t=1786064878" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4655000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655000/156e83c3370aeeffb5df17351028662c32f92c25/header.jpg?t=1786064878" alt="Caladrius 2/Dark Element（新規追加）" /></a></p><p>A dark gothic world ruled by beauty and darkness... Over a decade after its debut, the infamous Shame Break system returns. Discover striking characters brought to life by acclaimed illustrators, and master enhanced Element Shot and Shame Break systems in this exhilarating 2D bullet-hell shooter.</p><p><a href="https://store.steampowered.com/app/4655000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
