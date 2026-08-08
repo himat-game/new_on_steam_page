@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 08 Aug 2026 14:51:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 15:25:25 +0000</lastBuildDate>
+<item>
+  <title>Noosibirsk（新規追加）</title>
+  <link>https://store.steampowered.com/app/3509600/</link>
+  <guid isPermaLink="false">steam-store-published-3509600</guid>
+  <pubDate>Sat, 08 Aug 2026 15:25:25 +0000</pubDate>
+  <description>Puzzle-platformer with hand-crafted pixel art animation in the setting of post-Soviet closed city Noosibirsk. Explore the city full of wonders, acquire new abilities and solve puzzles to unveil secrets of the noosphere and escape to the world outside.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509600/e1faaac84556042d50f0f3b9b2c07fa3582a10e3/header.jpg?t=1786201430" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509600/e1faaac84556042d50f0f3b9b2c07fa3582a10e3/header.jpg?t=1786201430" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509600/e1faaac84556042d50f0f3b9b2c07fa3582a10e3/header.jpg?t=1786201430" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3509600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509600/e1faaac84556042d50f0f3b9b2c07fa3582a10e3/header.jpg?t=1786201430" alt="Noosibirsk（新規追加）" /></a></p><p>Puzzle-platformer with hand-crafted pixel art animation in the setting of post-Soviet closed city Noosibirsk. Explore the city full of wonders, acquire new abilities and solve puzzles to unveil secrets of the noosphere and escape to the world outside.</p><p><a href="https://store.steampowered.com/app/3509600/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Final Straw（新規追加）</title>
   <link>https://store.steampowered.com/app/5035710/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895140/6a735cbb8b8ae2a106fcce0c1c0215cf76992da8/header.jpg?t=1786038660" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895140/6a735cbb8b8ae2a106fcce0c1c0215cf76992da8/header.jpg?t=1786038660" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4895140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895140/6a735cbb8b8ae2a106fcce0c1c0215cf76992da8/header.jpg?t=1786038660" alt="Snake Extended（新規追加）" /></a></p><p>Snake Extended is a classic Snake game expanded with challenges, multiple boards, power-ups, obstacles, and game modifiers. Simple rules, quick rounds, and sharper decisions every run.</p><p><a href="https://store.steampowered.com/app/4895140/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Observation Protocol: The Observed（新規追加）</title>
-  <link>https://store.steampowered.com/app/4998900/</link>
-  <guid isPermaLink="false">steam-store-published-4998900</guid>
-  <pubDate>Fri, 07 Aug 2026 00:39:26 +0000</pubDate>
-  <description>A first-person psychological horror where you wake, again and again, inside a facility that studies you. Each cycle the rooms change, the pattern deepens, and something begins to take shape. The longer you observe, the harder it becomes to tell where the simulation ends.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998900/fde55dcca5490726e6560b767dda8ff209016180/header.jpg?t=1786041659" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998900/fde55dcca5490726e6560b767dda8ff209016180/header.jpg?t=1786041659" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998900/fde55dcca5490726e6560b767dda8ff209016180/header.jpg?t=1786041659" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4998900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998900/fde55dcca5490726e6560b767dda8ff209016180/header.jpg?t=1786041659" alt="Observation Protocol: The Observed（新規追加）" /></a></p><p>A first-person psychological horror where you wake, again and again, inside a facility that studies you. Each cycle the rooms change, the pattern deepens, and something begins to take shape. The longer you observe, the harder it becomes to tell where the simulation ends.</p><p><a href="https://store.steampowered.com/app/4998900/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
