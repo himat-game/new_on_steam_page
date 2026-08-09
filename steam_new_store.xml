@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Aug 2026 10:07:12 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 10:54:44 +0000</lastBuildDate>
+<item>
+  <title>Waking Elara（新規追加）</title>
+  <link>https://store.steampowered.com/app/5017260/</link>
+  <guid isPermaLink="false">steam-store-published-5017260</guid>
+  <pubDate>Sun, 09 Aug 2026 10:54:44 +0000</pubDate>
+  <description>A storm leaves you shipwrecked on an island the maps forgot. Solve the temples of a vanished civilization, and every answer teaches you to build: fire, black powder, a cannon on the cliff. A queen of stone speaks in your dreams. Wake her, and hold the island against those who come for her.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017260/3b9b49255a571cc5570adb5381c888c24e144b63/header.jpg?t=1786271341" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017260/3b9b49255a571cc5570adb5381c888c24e144b63/header.jpg?t=1786271341" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017260/3b9b49255a571cc5570adb5381c888c24e144b63/header.jpg?t=1786271341" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5017260/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017260/3b9b49255a571cc5570adb5381c888c24e144b63/header.jpg?t=1786271341" alt="Waking Elara（新規追加）" /></a></p><p>A storm leaves you shipwrecked on an island the maps forgot. Solve the temples of a vanished civilization, and every answer teaches you to build: fire, black powder, a cannon on the cliff. A queen of stone speaks in your dreams. Wake her, and hold the island against those who come for her.</p><p><a href="https://store.steampowered.com/app/5017260/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Rat Hunt（新規追加）</title>
   <link>https://store.steampowered.com/app/4903290/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003320/bbd0c02c837693e4f5c578108ae0e733bb004117/header.jpg?t=1786074260" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003320/bbd0c02c837693e4f5c578108ae0e733bb004117/header.jpg?t=1786074260" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5003320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003320/bbd0c02c837693e4f5c578108ae0e733bb004117/header.jpg?t=1786074260" alt="Tales of Shandar（新規追加）" /></a></p><p>Embark on a tabletop-inspired fantasy adventure. Battle monsters, pass dice-roll skill checks, solve ancient puzzles, and uncover the lost Tomb of Mithras in this narrative-driven RPG-lite where every choice matters.</p><p><a href="https://store.steampowered.com/app/5003320/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ultimate Dengon Game : A 3D Telephone Game（新規追加）</title>
-  <link>https://store.steampowered.com/app/4991530/</link>
-  <guid isPermaLink="false">steam-store-published-4991530</guid>
-  <pubDate>Fri, 07 Aug 2026 05:21:24 +0000</pubDate>
-  <description>Ultimate Dengon Game is an online party game where you place objects instead of drawing. Build a scene from simple shapes, then an opponent changes just one thing to sabotage it. Your teammate must guess the original prompt. A tiny change can turn a serious creation into total nonsense.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991530/53c6961d29a4409ebc18760cc56fc23c4e509a68/header.jpg?t=1786079615" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991530/53c6961d29a4409ebc18760cc56fc23c4e509a68/header.jpg?t=1786079615" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991530/53c6961d29a4409ebc18760cc56fc23c4e509a68/header.jpg?t=1786079615" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4991530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991530/53c6961d29a4409ebc18760cc56fc23c4e509a68/header.jpg?t=1786079615" alt="Ultimate Dengon Game : A 3D Telephone Game（新規追加）" /></a></p><p>Ultimate Dengon Game is an online party game where you place objects instead of drawing. Build a scene from simple shapes, then an opponent changes just one thing to sabotage it. Your teammate must guess the original prompt. A tiny change can turn a serious creation into total nonsense.</p><p><a href="https://store.steampowered.com/app/4991530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
