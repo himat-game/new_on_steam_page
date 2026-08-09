@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Aug 2026 06:50:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 07:51:24 +0000</lastBuildDate>
+<item>
+  <title>Detonate &amp; Dash（新規追加）</title>
+  <link>https://store.steampowered.com/app/5038810/</link>
+  <guid isPermaLink="false">steam-store-published-5038810</guid>
+  <pubDate>Sun, 09 Aug 2026 07:51:24 +0000</pubDate>
+  <description>One bomb. Four players. One couch. Whoever&#x27;s holding it when the timer hits zero is out. Eight game modes across 56 hand-built arenas that spin, flip and drop out from under you. Every mode is free — bring three friends and one screen.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038810/1766a987f856bb62c0b06b75e1a056b885546a57/header.jpg?t=1786261500" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038810/1766a987f856bb62c0b06b75e1a056b885546a57/header.jpg?t=1786261500" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038810/1766a987f856bb62c0b06b75e1a056b885546a57/header.jpg?t=1786261500" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5038810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038810/1766a987f856bb62c0b06b75e1a056b885546a57/header.jpg?t=1786261500" alt="Detonate &amp; Dash（新規追加）" /></a></p><p>One bomb. Four players. One couch. Whoever&#x27;s holding it when the timer hits zero is out. Eight game modes across 56 hand-built arenas that spin, flip and drop out from under you. Every mode is free — bring three friends and one screen.</p><p><a href="https://store.steampowered.com/app/5038810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Magnet to Planet（新規追加）</title>
   <link>https://store.steampowered.com/app/4928060/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040280/b50dda9b2f1c0989ef751fd69e43371235ba8dc1/header.jpg?t=1786078506" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040280/b50dda9b2f1c0989ef751fd69e43371235ba8dc1/header.jpg?t=1786078506" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5040280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040280/b50dda9b2f1c0989ef751fd69e43371235ba8dc1/header.jpg?t=1786078506" alt="Orbion Online（新規追加）" /></a></p><p>Orbion Online is a real-time multiplayer space action game where you start as a tiny stone and grow by absorbing asteroids, planets, and rival pilots. Explore a shared cosmos of stars, wormholes, and galaxies and climb from pebble to powerhouse.</p><p><a href="https://store.steampowered.com/app/5040280/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Mikael The Apprentice Merchant（新規追加）</title>
-  <link>https://store.steampowered.com/app/4821940/</link>
-  <guid isPermaLink="false">steam-store-published-4821940</guid>
-  <pubDate>Fri, 07 Aug 2026 05:21:24 +0000</pubDate>
-  <description>To pay for her childhood friend’s medical treatment, Mikael — an aspiring merchant — works herself to the bone to save up enough money to open her own shop.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821940/c6257b016ab8af50be4b66eb9b68b01b8ad68cfe/header.jpg?t=1786079833" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821940/c6257b016ab8af50be4b66eb9b68b01b8ad68cfe/header.jpg?t=1786079833" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821940/c6257b016ab8af50be4b66eb9b68b01b8ad68cfe/header.jpg?t=1786079833" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4821940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821940/c6257b016ab8af50be4b66eb9b68b01b8ad68cfe/header.jpg?t=1786079833" alt="Mikael The Apprentice Merchant（新規追加）" /></a></p><p>To pay for her childhood friend’s medical treatment, Mikael — an aspiring merchant — works herself to the bone to save up enough money to open her own shop.</p><p><a href="https://store.steampowered.com/app/4821940/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
