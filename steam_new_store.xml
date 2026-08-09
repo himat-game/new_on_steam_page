@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Aug 2026 15:26:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 16:01:51 +0000</lastBuildDate>
+<item>
+  <title>7 Deaths 1 Life（新規追加）</title>
+  <link>https://store.steampowered.com/app/5033150/</link>
+  <guid isPermaLink="false">steam-store-published-5033150</guid>
+  <pubDate>Sun, 09 Aug 2026 16:01:51 +0000</pubDate>
+  <description>A serial killer named Karma has kidnapped 8 criminals and will force you to choose the order in which they are executed. Will you be able to decide who deserves salvation... and who deserves death?</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033150/8aadcaf630b538e27bbbe33d46f1f36184e30f1c/header.jpg?t=1786291215" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033150/8aadcaf630b538e27bbbe33d46f1f36184e30f1c/header.jpg?t=1786291215" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033150/8aadcaf630b538e27bbbe33d46f1f36184e30f1c/header.jpg?t=1786291215" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5033150/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033150/8aadcaf630b538e27bbbe33d46f1f36184e30f1c/header.jpg?t=1786291215" alt="7 Deaths 1 Life（新規追加）" /></a></p><p>A serial killer named Karma has kidnapped 8 criminals and will force you to choose the order in which they are executed. Will you be able to decide who deserves salvation... and who deserves death?</p><p><a href="https://store.steampowered.com/app/5033150/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Linked Wheels（新規追加）</title>
   <link>https://store.steampowered.com/app/5037940/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412030/bc6efdd1e0f3b74d9e6d352b77d25ffbedfa48c6/header.jpg?t=1786080215" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412030/bc6efdd1e0f3b74d9e6d352b77d25ffbedfa48c6/header.jpg?t=1786080215" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2412030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412030/bc6efdd1e0f3b74d9e6d352b77d25ffbedfa48c6/header.jpg?t=1786080215" alt="TeamSpec（新規追加）" /></a></p><p>The class-based shooter where you can make your own class, both in terms of gameplay and looks!</p><p><a href="https://store.steampowered.com/app/2412030/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Elysia Sector™: The Unknown（新規追加）</title>
-  <link>https://store.steampowered.com/app/2924970/</link>
-  <guid isPermaLink="false">steam-store-published-2924970</guid>
-  <pubDate>Fri, 07 Aug 2026 06:50:52 +0000</pubDate>
-  <description>Embark on a journey beyond humanity&#x27;s extinction. This Survival Horror plunges you into the boots of Lyraeth Mortis, drifting from the twisted realm of Elysia to the cruel emptiness of Reality. Unveiling the Sector&#x27;s dark secrets is your only hope for survival.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924970/4a0753ae3a8c2fbea7a9398b5d5d920b7e7a80e3/header.jpg?t=1786082435" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924970/4a0753ae3a8c2fbea7a9398b5d5d920b7e7a80e3/header.jpg?t=1786082435" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924970/4a0753ae3a8c2fbea7a9398b5d5d920b7e7a80e3/header.jpg?t=1786082435" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/2924970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924970/4a0753ae3a8c2fbea7a9398b5d5d920b7e7a80e3/header.jpg?t=1786082435" alt="Elysia Sector™: The Unknown（新規追加）" /></a></p><p>Embark on a journey beyond humanity&#x27;s extinction. This Survival Horror plunges you into the boots of Lyraeth Mortis, drifting from the twisted realm of Elysia to the cruel emptiness of Reality. Unveiling the Sector&#x27;s dark secrets is your only hope for survival.</p><p><a href="https://store.steampowered.com/app/2924970/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
