@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Aug 2026 03:19:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 04:40:52 +0000</lastBuildDate>
+<item>
+  <title>Stillsun Ark（新規追加）</title>
+  <link>https://store.steampowered.com/app/5047700/</link>
+  <guid isPermaLink="false">steam-store-published-5047700</guid>
+  <pubDate>Sun, 09 Aug 2026 04:40:52 +0000</pubDate>
+  <description>A pixel-art turn-based sci-fi JRPG. Stranded on a tidally locked world where the sun never moves, a shipwrecked crew must survive a planet as wondrous as it is deadly. Bond with alien parasites and shift forms mid-battle to find your way home.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047700/8ddf9201bfd6affa6186491a4451a402afeedf73/header.jpg?t=1786247123" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047700/8ddf9201bfd6affa6186491a4451a402afeedf73/header.jpg?t=1786247123" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047700/8ddf9201bfd6affa6186491a4451a402afeedf73/header.jpg?t=1786247123" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5047700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047700/8ddf9201bfd6affa6186491a4451a402afeedf73/header.jpg?t=1786247123" alt="Stillsun Ark（新規追加）" /></a></p><p>A pixel-art turn-based sci-fi JRPG. Stranded on a tidally locked world where the sun never moves, a shipwrecked crew must survive a planet as wondrous as it is deadly. Bond with alien parasites and shift forms mid-battle to find your way home.</p><p><a href="https://store.steampowered.com/app/5047700/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Magic Attack（新規追加）</title>
+  <link>https://store.steampowered.com/app/4030780/</link>
+  <guid isPermaLink="false">steam-store-published-4030780</guid>
+  <pubDate>Sun, 09 Aug 2026 04:40:52 +0000</pubDate>
+  <description>Magic, explosions, and flying debris! Magic Attack is an action-packed gunship game set in a medieval fantasy world, featuring dynamic environmental destruction and a diverse array of spells. Unleash your magic, obliterate enemy defenses, and lead your army to victory!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030780/f218512320797e8dcc1507fb6b53ac5967393a3a/header.jpg?t=1786245802" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030780/f218512320797e8dcc1507fb6b53ac5967393a3a/header.jpg?t=1786245802" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030780/f218512320797e8dcc1507fb6b53ac5967393a3a/header.jpg?t=1786245802" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4030780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030780/f218512320797e8dcc1507fb6b53ac5967393a3a/header.jpg?t=1786245802" alt="Magic Attack（新規追加）" /></a></p><p>Magic, explosions, and flying debris! Magic Attack is an action-packed gunship game set in a medieval fantasy world, featuring dynamic environmental destruction and a diverse array of spells. Unleash your magic, obliterate enemy defenses, and lead your army to victory!</p><p><a href="https://store.steampowered.com/app/4030780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Buried Bullets（新規追加）</title>
   <link>https://store.steampowered.com/app/2840600/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4603430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490" alt="DeSimulate（新規追加）" /></a></p><p>A turn-based, 1v1 game of logical deduction, prediction and misdirection. Control a crew of twelve aboard an isolated spaceship, or impersonate two of those crew members and eliminate everyone else.</p><p><a href="https://store.steampowered.com/app/4603430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Beat Juicer（新規追加）</title>
-  <link>https://store.steampowered.com/app/4833570/</link>
-  <guid isPermaLink="false">steam-store-published-4833570</guid>
-  <pubDate>Fri, 07 Aug 2026 03:37:56 +0000</pubDate>
-  <description>Crunch beats, upgrade your build, and craft the ultimate song. Beat Juicer is a short incremental game that blends arcade action with a music sandbox to create a satisfying symphony of sights and sounds.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833570/aa51e0832cedb1c892453656592c53ada3002556/header.jpg?t=1786067020" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833570/aa51e0832cedb1c892453656592c53ada3002556/header.jpg?t=1786067020" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833570/aa51e0832cedb1c892453656592c53ada3002556/header.jpg?t=1786067020" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4833570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833570/aa51e0832cedb1c892453656592c53ada3002556/header.jpg?t=1786067020" alt="Beat Juicer（新規追加）" /></a></p><p>Crunch beats, upgrade your build, and craft the ultimate song. Beat Juicer is a short incremental game that blends arcade action with a music sandbox to create a satisfying symphony of sights and sounds.</p><p><a href="https://store.steampowered.com/app/4833570/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Tidy Up Mall（新規追加）</title>
-  <link>https://store.steampowered.com/app/3393120/</link>
-  <guid isPermaLink="false">steam-store-published-3393120</guid>
-  <pubDate>Fri, 07 Aug 2026 03:37:56 +0000</pubDate>
-  <description>Tidy Up Mall is a cozy organization simulator. You need to put 4,990 products back on correct shelf in correct shop. Learn skills to improve efficiency, explore the mall to find chests &amp;amp; secrets. No time limit, take your time to enjoy the satisfaction of organization.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393120/5dcb88a6903ab88567a8209f322ca947045a2a7a/header.jpg?t=1786073407" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393120/5dcb88a6903ab88567a8209f322ca947045a2a7a/header.jpg?t=1786073407" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393120/5dcb88a6903ab88567a8209f322ca947045a2a7a/header.jpg?t=1786073407" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3393120/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393120/5dcb88a6903ab88567a8209f322ca947045a2a7a/header.jpg?t=1786073407" alt="Tidy Up Mall（新規追加）" /></a></p><p>Tidy Up Mall is a cozy organization simulator. You need to put 4,990 products back on correct shelf in correct shop. Learn skills to improve efficiency, explore the mall to find chests &amp;amp; secrets. No time limit, take your time to enjoy the satisfaction of organization.</p><p><a href="https://store.steampowered.com/app/3393120/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
