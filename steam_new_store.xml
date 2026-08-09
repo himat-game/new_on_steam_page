@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Aug 2026 05:43:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 06:50:56 +0000</lastBuildDate>
+<item>
+  <title>Magnet to Planet（新規追加）</title>
+  <link>https://store.steampowered.com/app/4928060/</link>
+  <guid isPermaLink="false">steam-store-published-4928060</guid>
+  <pubDate>Sun, 09 Aug 2026 06:50:56 +0000</pubDate>
+  <description>Start with one discarded magnet and a single paperclip. Attract, snap, and stack metal objects into a growing clump, generate magnetic energy, unlock upgrades and automation, and expand from a tiny desk magnet toward an entire planet in this cozy incremental game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928060/4effb1910899b154777a73cff4a196f253c7c052/header.jpg?t=1786254678" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928060/4effb1910899b154777a73cff4a196f253c7c052/header.jpg?t=1786254678" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928060/4effb1910899b154777a73cff4a196f253c7c052/header.jpg?t=1786254678" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4928060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928060/4effb1910899b154777a73cff4a196f253c7c052/header.jpg?t=1786254678" alt="Magnet to Planet（新規追加）" /></a></p><p>Start with one discarded magnet and a single paperclip. Attract, snap, and stack metal objects into a growing clump, generate magnetic energy, unlock upgrades and automation, and expand from a tiny desk magnet toward an entire planet in this cozy incremental game.</p><p><a href="https://store.steampowered.com/app/4928060/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>CEO.exe（新規追加）</title>
   <link>https://store.steampowered.com/app/5052350/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821940/c6257b016ab8af50be4b66eb9b68b01b8ad68cfe/header.jpg?t=1786079833" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821940/c6257b016ab8af50be4b66eb9b68b01b8ad68cfe/header.jpg?t=1786079833" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4821940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821940/c6257b016ab8af50be4b66eb9b68b01b8ad68cfe/header.jpg?t=1786079833" alt="Mikael The Apprentice Merchant（新規追加）" /></a></p><p>To pay for her childhood friend’s medical treatment, Mikael — an aspiring merchant — works herself to the bone to save up enough money to open her own shop.</p><p><a href="https://store.steampowered.com/app/4821940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>无人归家（新規追加）</title>
-  <link>https://store.steampowered.com/app/5013700/</link>
-  <guid isPermaLink="false">steam-store-published-5013700</guid>
-  <pubDate>Fri, 07 Aug 2026 03:37:56 +0000</pubDate>
-  <description>Read immersive dialogue sequences, make crucial choices to shift the storyline, and unlock multiple distinct endings in this story-focused visual novel. Your decisions alter character relationships and rewrite the fate of every role.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013700/7ae5af3cce7c74ca3a6dc9a582b7e22da6575752/header.jpg?t=1786069140" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013700/7ae5af3cce7c74ca3a6dc9a582b7e22da6575752/header.jpg?t=1786069140" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013700/7ae5af3cce7c74ca3a6dc9a582b7e22da6575752/header.jpg?t=1786069140" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5013700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013700/7ae5af3cce7c74ca3a6dc9a582b7e22da6575752/header.jpg?t=1786069140" alt="无人归家（新規追加）" /></a></p><p>Read immersive dialogue sequences, make crucial choices to shift the storyline, and unlock multiple distinct endings in this story-focused visual novel. Your decisions alter character relationships and rewrite the fate of every role.</p><p><a href="https://store.steampowered.com/app/5013700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
