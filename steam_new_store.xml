@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Aug 2026 04:40:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 05:43:37 +0000</lastBuildDate>
+<item>
+  <title>CEO.exe（新規追加）</title>
+  <link>https://store.steampowered.com/app/5052350/</link>
+  <guid isPermaLink="false">steam-store-published-5052350</guid>
+  <pubDate>Sun, 09 Aug 2026 05:43:37 +0000</pubDate>
+  <description>An idle game about becoming CEO, played entirely on a simulated 1990s office PC. File paperwork by hand, automate it away, hire the staff who replace you — then scheme your way through the boardroom. Every mechanic is a program on the desktop.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052350/b27f2c4d5c8407ac572472f49f56ef6d9c48a38a/header.jpg?t=1786252422" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052350/b27f2c4d5c8407ac572472f49f56ef6d9c48a38a/header.jpg?t=1786252422" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052350/b27f2c4d5c8407ac572472f49f56ef6d9c48a38a/header.jpg?t=1786252422" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5052350/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052350/b27f2c4d5c8407ac572472f49f56ef6d9c48a38a/header.jpg?t=1786252422" alt="CEO.exe（新規追加）" /></a></p><p>An idle game about becoming CEO, played entirely on a simulated 1990s office PC. File paperwork by hand, automate it away, hire the staff who replace you — then scheme your way through the boardroom. Every mechanic is a program on the desktop.</p><p><a href="https://store.steampowered.com/app/5052350/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Stillsun Ark（新規追加）</title>
   <link>https://store.steampowered.com/app/5047700/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013700/7ae5af3cce7c74ca3a6dc9a582b7e22da6575752/header.jpg?t=1786069140" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013700/7ae5af3cce7c74ca3a6dc9a582b7e22da6575752/header.jpg?t=1786069140" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5013700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013700/7ae5af3cce7c74ca3a6dc9a582b7e22da6575752/header.jpg?t=1786069140" alt="无人归家（新規追加）" /></a></p><p>Read immersive dialogue sequences, make crucial choices to shift the storyline, and unlock multiple distinct endings in this story-focused visual novel. Your decisions alter character relationships and rewrite the fate of every role.</p><p><a href="https://store.steampowered.com/app/5013700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>DeSimulate（新規追加）</title>
-  <link>https://store.steampowered.com/app/4603430/</link>
-  <guid isPermaLink="false">steam-store-published-4603430</guid>
-  <pubDate>Fri, 07 Aug 2026 03:37:56 +0000</pubDate>
-  <description>A turn-based, 1v1 game of logical deduction, prediction and misdirection. Control a crew of twelve aboard an isolated spaceship, or impersonate two of those crew members and eliminate everyone else.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4603430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603430/212b797c5496e293997f56b55894072854a9e3df/header.jpg?t=1786065490" alt="DeSimulate（新規追加）" /></a></p><p>A turn-based, 1v1 game of logical deduction, prediction and misdirection. Control a crew of twelve aboard an isolated spaceship, or impersonate two of those crew members and eliminate everyone else.</p><p><a href="https://store.steampowered.com/app/4603430/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
