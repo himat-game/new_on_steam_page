@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 09 Aug 2026 22:26:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 23:02:51 +0000</lastBuildDate>
+<item>
+  <title>Dungeons &amp; Collectors（新規追加）</title>
+  <link>https://store.steampowered.com/app/4954980/</link>
+  <guid isPermaLink="false">steam-store-published-4954980</guid>
+  <pubDate>Sun, 09 Aug 2026 23:02:51 +0000</pubDate>
+  <description>The game that combines dungeon crawling, shooting, collecting, and goblins. Your goal is to gather enough gold to complete the new sticker collection, and along the way, buy weapons to aid you on your adventure and some rather extravagant outfits.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954980/1e94574682fc0d31b4774ecb8ff2ee8fa3a1626d/header.jpg?t=1786315303" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954980/1e94574682fc0d31b4774ecb8ff2ee8fa3a1626d/header.jpg?t=1786315303" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954980/1e94574682fc0d31b4774ecb8ff2ee8fa3a1626d/header.jpg?t=1786315303" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4954980/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954980/1e94574682fc0d31b4774ecb8ff2ee8fa3a1626d/header.jpg?t=1786315303" alt="Dungeons &amp; Collectors（新規追加）" /></a></p><p>The game that combines dungeon crawling, shooting, collecting, and goblins. Your goal is to gather enough gold to complete the new sticker collection, and along the way, buy weapons to aid you on your adventure and some rather extravagant outfits.</p><p><a href="https://store.steampowered.com/app/4954980/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Constellation Clicker（新規追加）</title>
   <link>https://store.steampowered.com/app/5015470/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947670/3fe85d99c4b4898eaf5a45abab419c09d4582dd8/header.jpg?t=1786090917" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947670/3fe85d99c4b4898eaf5a45abab419c09d4582dd8/header.jpg?t=1786090917" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4947670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947670/3fe85d99c4b4898eaf5a45abab419c09d4582dd8/header.jpg?t=1786090917" alt="Desktop Wizard（新規追加）" /></a></p><p>An idle tower defense game that sits at the bottom of your screen</p><p><a href="https://store.steampowered.com/app/4947670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>PROTOCOL: VOID （新規追加）</title>
-  <link>https://store.steampowered.com/app/4979000/</link>
-  <guid isPermaLink="false">steam-store-published-4979000</guid>
-  <pubDate>Fri, 07 Aug 2026 09:17:08 +0000</pubDate>
-  <description>PROTOCOL: VOID CONTRACT is a cyberpunk top-down action RPG for 1–4 players. Take on dangerous contracts, fight hostile systems, collect randomized weapons and cyberware, shape powerful builds, and upgrade your gear to survive deadlier missions.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979000/ff31ae844e854a6f47e0c28f0794be804c3c61ea/header.jpg?t=1786091287" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979000/ff31ae844e854a6f47e0c28f0794be804c3c61ea/header.jpg?t=1786091287" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979000/ff31ae844e854a6f47e0c28f0794be804c3c61ea/header.jpg?t=1786091287" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4979000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979000/ff31ae844e854a6f47e0c28f0794be804c3c61ea/header.jpg?t=1786091287" alt="PROTOCOL: VOID （新規追加）" /></a></p><p>PROTOCOL: VOID CONTRACT is a cyberpunk top-down action RPG for 1–4 players. Take on dangerous contracts, fight hostile systems, collect randomized weapons and cyberware, shape powerful builds, and upgrade your gear to survive deadlier missions.</p><p><a href="https://store.steampowered.com/app/4979000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
