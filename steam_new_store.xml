@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 10 Aug 2026 05:08:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 06:44:06 +0000</lastBuildDate>
+<item>
+  <title>Witch&#x27;s Wish（新規追加）</title>
+  <link>https://store.steampowered.com/app/5006950/</link>
+  <guid isPermaLink="false">steam-store-published-5006950</guid>
+  <pubDate>Mon, 10 Aug 2026 06:44:06 +0000</pubDate>
+  <description>Witch&#x27;s Wish is a desktop idle companion. A young witch lives on your screen. She reads, dozes off, and flies away to explore. Pack her bag. She&#x27;ll send back hand-drawn postcards from her travels — each a unique story. Collect 150+ postcards and outfits she finds. No shop. Every outfit is a gift.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006950/501954202b3a5c9ccb8bb70a46192bb5380d5c98/header.jpg?t=1786342668" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006950/501954202b3a5c9ccb8bb70a46192bb5380d5c98/header.jpg?t=1786342668" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006950/501954202b3a5c9ccb8bb70a46192bb5380d5c98/header.jpg?t=1786342668" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5006950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006950/501954202b3a5c9ccb8bb70a46192bb5380d5c98/header.jpg?t=1786342668" alt="Witch&#x27;s Wish（新規追加）" /></a></p><p>Witch&#x27;s Wish is a desktop idle companion. A young witch lives on your screen. She reads, dozes off, and flies away to explore. Pack her bag. She&#x27;ll send back hand-drawn postcards from her travels — each a unique story. Collect 150+ postcards and outfits she finds. No shop. Every outfit is a gift.</p><p><a href="https://store.steampowered.com/app/5006950/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Precinct 2099（新規追加）</title>
   <link>https://store.steampowered.com/app/5045000/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778200/486b0f7b22892bebdf0a293fa83f675f48a5229f/header.jpg?t=1786102836" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778200/486b0f7b22892bebdf0a293fa83f675f48a5229f/header.jpg?t=1786102836" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4778200/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778200/486b0f7b22892bebdf0a293fa83f675f48a5229f/header.jpg?t=1786102836" alt="Three Kingdoms: Cao Cao&#x27;s Chastity Defense（新規追加）" /></a></p><p>Cao Cao journeys across the realm, pursued by countless beauties eager to have their way with him. But he has eyes only for the married beauties of the Three Kingdoms... Play as Cao Cao in this absurd yet strangely logical adult game of romancing married women × defending his chastity.</p><p><a href="https://store.steampowered.com/app/4778200/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Hell Rite（新規追加）</title>
-  <link>https://store.steampowered.com/app/4925590/</link>
-  <guid isPermaLink="false">steam-store-published-4925590</guid>
-  <pubDate>Fri, 07 Aug 2026 11:59:37 +0000</pubDate>
-  <description>Fight your way through hordes of enemies in fast-paced hack-and-slash combat, explore dungeons, bosses, and collect weapons, armor, and valuable loot. Complete quests, grow stronger, develop your character through powerful skills and abilities, and uncover the secrets buried within Ashenreach.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925590/7851b65b7064b77d5336d4cc4ef490f36f17943d/header.jpg?t=1786102985" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925590/7851b65b7064b77d5336d4cc4ef490f36f17943d/header.jpg?t=1786102985" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925590/7851b65b7064b77d5336d4cc4ef490f36f17943d/header.jpg?t=1786102985" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4925590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925590/7851b65b7064b77d5336d4cc4ef490f36f17943d/header.jpg?t=1786102985" alt="Hell Rite（新規追加）" /></a></p><p>Fight your way through hordes of enemies in fast-paced hack-and-slash combat, explore dungeons, bosses, and collect weapons, armor, and valuable loot. Complete quests, grow stronger, develop your character through powerful skills and abilities, and uncover the secrets buried within Ashenreach.</p><p><a href="https://store.steampowered.com/app/4925590/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
