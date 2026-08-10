@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 10 Aug 2026 21:24:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 22:17:19 +0000</lastBuildDate>
+<item>
+  <title>Lemonade Stand Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/5000810/</link>
+  <guid isPermaLink="false">steam-store-published-5000810</guid>
+  <pubDate>Mon, 10 Aug 2026 22:17:19 +0000</pubDate>
+  <description>Run your own neighborhood lemonade stand! Mix ingredients, craft the perfect recipe, squeeze fresh juice, and keep your customers happy. Order fruits, furniture, and equipment, unlock upgrades and grow your stand into the ultimate business empire.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000810/32a2cf1cf08fdbf076eac514849d12c332713623/header.jpg?t=1786397376" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000810/32a2cf1cf08fdbf076eac514849d12c332713623/header.jpg?t=1786397376" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000810/32a2cf1cf08fdbf076eac514849d12c332713623/header.jpg?t=1786397376" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5000810/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000810/32a2cf1cf08fdbf076eac514849d12c332713623/header.jpg?t=1786397376" alt="Lemonade Stand Simulator（新規追加）" /></a></p><p>Run your own neighborhood lemonade stand! Mix ingredients, craft the perfect recipe, squeeze fresh juice, and keep your customers happy. Order fruits, furniture, and equipment, unlock upgrades and grow your stand into the ultimate business empire.</p><p><a href="https://store.steampowered.com/app/5000810/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ticker &amp; Trade（新規追加）</title>
   <link>https://store.steampowered.com/app/5012600/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046220/90b8ace9b9c2fab3c37edb215afd18ea76b1bef6/header.jpg?t=1786132574" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046220/90b8ace9b9c2fab3c37edb215afd18ea76b1bef6/header.jpg?t=1786132574" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5046220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046220/90b8ace9b9c2fab3c37edb215afd18ea76b1bef6/header.jpg?t=1786132574" alt="Forgotten Possessions（新規追加）" /></a></p><p>Find and collect items that tell a dark story in an abandoned log cabin, but watch out for what lurks behind you. You sneak through dark rooms against a relentless, adaptive creature. Experience a dynamic world with randomized item locations and a reactive environment.</p><p><a href="https://store.steampowered.com/app/5046220/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Helion Conflict（新規追加）</title>
-  <link>https://store.steampowered.com/app/5046240/</link>
-  <guid isPermaLink="false">steam-store-published-5046240</guid>
-  <pubDate>Fri, 07 Aug 2026 20:18:21 +0000</pubDate>
-  <description>Real-time strategy stripped to the decision. Every shipyard you hold builds without pause — you only choose where those ships go. Capture the enemy&#x27;s factories, send an exact share of your fleet, and turn their production against them. Up to eight players online. Minutes, not hours.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046240/7e49bc445cb68fa5c4da90de0d42fba2b8654079/header.jpg?t=1786131527" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046240/7e49bc445cb68fa5c4da90de0d42fba2b8654079/header.jpg?t=1786131527" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046240/7e49bc445cb68fa5c4da90de0d42fba2b8654079/header.jpg?t=1786131527" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5046240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046240/7e49bc445cb68fa5c4da90de0d42fba2b8654079/header.jpg?t=1786131527" alt="Helion Conflict（新規追加）" /></a></p><p>Real-time strategy stripped to the decision. Every shipyard you hold builds without pause — you only choose where those ships go. Capture the enemy&#x27;s factories, send an exact share of your fleet, and turn their production against them. Up to eight players online. Minutes, not hours.</p><p><a href="https://store.steampowered.com/app/5046240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
