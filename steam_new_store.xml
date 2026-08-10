@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 10 Aug 2026 13:47:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 14:53:59 +0000</lastBuildDate>
+<item>
+  <title>Alien Home Invasion（新規追加）</title>
+  <link>https://store.steampowered.com/app/3922220/</link>
+  <guid isPermaLink="false">steam-store-published-3922220</guid>
+  <pubDate>Mon, 10 Aug 2026 14:53:59 +0000</pubDate>
+  <description>Control a crew of aliens with unique powers, recording your actions and replaying them to coordinate your invasion of the homes of Earth!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922220/db85be8554b53670ef12f96be77ca28ce4d71db3/header.jpg?t=1786370278" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922220/db85be8554b53670ef12f96be77ca28ce4d71db3/header.jpg?t=1786370278" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922220/db85be8554b53670ef12f96be77ca28ce4d71db3/header.jpg?t=1786370278" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3922220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922220/db85be8554b53670ef12f96be77ca28ce4d71db3/header.jpg?t=1786370278" alt="Alien Home Invasion（新規追加）" /></a></p><p>Control a crew of aliens with unique powers, recording your actions and replaying them to coordinate your invasion of the homes of Earth!</p><p><a href="https://store.steampowered.com/app/3922220/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Knytt Classic（新規追加）</title>
   <link>https://store.steampowered.com/app/2656050/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038430/3e31b4d85869bf2fe2c45b8dcbb73f0e436dac74/header.jpg?t=1786112810" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038430/3e31b4d85869bf2fe2c45b8dcbb73f0e436dac74/header.jpg?t=1786112810" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5038430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038430/3e31b4d85869bf2fe2c45b8dcbb73f0e436dac74/header.jpg?t=1786112810" alt="Guild Forge（新規追加）" /></a></p><p>Recruit heroes, manage your guild, and send adventurers on rewarding quests in this fantasy guild management simulation. Build your reputation and grow into the kingdom&#x27;s greatest guild.</p><p><a href="https://store.steampowered.com/app/5038430/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Liminal Space Holiday（新規追加）</title>
-  <link>https://store.steampowered.com/app/5041880/</link>
-  <guid isPermaLink="false">steam-store-published-5041880</guid>
-  <pubDate>Fri, 07 Aug 2026 14:28:14 +0000</pubDate>
-  <description>Take a break from life and enjoy a Liminal Space Holiday. A Relaxing Liminal Space Adventure full of Beautiful Atmospheric Nostalgic Locations and Artwork.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041880/91fc5202614cb6341914401faba328a4d1597596/header.jpg?t=1786108839" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041880/91fc5202614cb6341914401faba328a4d1597596/header.jpg?t=1786108839" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041880/91fc5202614cb6341914401faba328a4d1597596/header.jpg?t=1786108839" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5041880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041880/91fc5202614cb6341914401faba328a4d1597596/header.jpg?t=1786108839" alt="Liminal Space Holiday（新規追加）" /></a></p><p>Take a break from life and enjoy a Liminal Space Holiday. A Relaxing Liminal Space Adventure full of Beautiful Atmospheric Nostalgic Locations and Artwork.</p><p><a href="https://store.steampowered.com/app/5041880/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
