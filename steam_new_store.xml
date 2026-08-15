@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 15 Aug 2026 10:43:10 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 11:16:30 +0000</lastBuildDate>
+<item>
+  <title>Stay in Your Lane（新規追加）</title>
+  <link>https://store.steampowered.com/app/5040850/</link>
+  <guid isPermaLink="false">steam-store-published-5040850</guid>
+  <pubDate>Sat, 15 Aug 2026 11:16:30 +0000</pubDate>
+  <description>Stay in Your Lane is a single-lane real-time tug-of-war strategy game. Build your economy, unlock units, spells, and upgrades, then summon an army that fights on its own. Outsmart your rival in campaign, skirmish, or online 1v1 battles.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040850/0cbb3f283efb6fcd711ac95d8ab9a69ab60c19e7/header.jpg?t=1786791626" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040850/0cbb3f283efb6fcd711ac95d8ab9a69ab60c19e7/header.jpg?t=1786791626" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040850/0cbb3f283efb6fcd711ac95d8ab9a69ab60c19e7/header.jpg?t=1786791626" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5040850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040850/0cbb3f283efb6fcd711ac95d8ab9a69ab60c19e7/header.jpg?t=1786791626" alt="Stay in Your Lane（新規追加）" /></a></p><p>Stay in Your Lane is a single-lane real-time tug-of-war strategy game. Build your economy, unlock units, spells, and upgrades, then summon an army that fights on its own. Outsmart your rival in campaign, skirmish, or online 1v1 battles.</p><p><a href="https://store.steampowered.com/app/5040850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>My Desktop Cat（新規追加）</title>
   <link>https://store.steampowered.com/app/5031490/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005840/a920530b5c3658ceabfc352dbef6ff9693067cd8/header.jpg?t=1786681272" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005840/a920530b5c3658ceabfc352dbef6ff9693067cd8/header.jpg?t=1786681272" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5005840/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005840/a920530b5c3658ceabfc352dbef6ff9693067cd8/header.jpg?t=1786681272" alt="Sidebar Starship（新規追加）" /></a></p><p>Park Sidebar Starship at the edge of your screen and let it aim, fire, and collect stardust. Death doesn&#x27;t mean replaying everything from the beginning: every upgrade stays yours. Take over with WASD, the arrow keys, and Space when the shots get rude.</p><p><a href="https://store.steampowered.com/app/5005840/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Legend of Defenders（新規追加）</title>
-  <link>https://store.steampowered.com/app/4740930/</link>
-  <guid isPermaLink="false">steam-store-published-4740930</guid>
-  <pubDate>Fri, 14 Aug 2026 04:45:52 +0000</pubDate>
-  <description>A thrilling idle tower defense game with automated battles and endless growth! Build your defenses, deploy heroes, and watch your fortress evolve from a humble outpost into an unstoppable stronghold—even while you’re away. P.S. Supports a boss key for instant hiding whenever needed.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/46d4013a40c45cd16bb30ed6cbb8d9d75bf2b76f/header.jpg?t=1786676425" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/46d4013a40c45cd16bb30ed6cbb8d9d75bf2b76f/header.jpg?t=1786676425" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/46d4013a40c45cd16bb30ed6cbb8d9d75bf2b76f/header.jpg?t=1786676425" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4740930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/46d4013a40c45cd16bb30ed6cbb8d9d75bf2b76f/header.jpg?t=1786676425" alt="Legend of Defenders（新規追加）" /></a></p><p>A thrilling idle tower defense game with automated battles and endless growth! Build your defenses, deploy heroes, and watch your fortress evolve from a humble outpost into an unstoppable stronghold—even while you’re away. P.S. Supports a boss key for instant hiding whenever needed.</p><p><a href="https://store.steampowered.com/app/4740930/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
