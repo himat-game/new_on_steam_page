@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 15 Aug 2026 22:17:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 22:41:33 +0000</lastBuildDate>
+<item>
+  <title>AI tycoon（新規追加）</title>
+  <link>https://store.steampowered.com/app/5075960/</link>
+  <guid isPermaLink="false">steam-store-published-5075960</guid>
+  <pubDate>Sat, 15 Aug 2026 22:41:33 +0000</pubDate>
+  <description>Found and run an AI company in this simulation strategy game. Collect data, develop tech, iterate language models, and commercialize them for profit. Balance R&amp;amp;D with revenue, hire talent, manage compute, and time launches to beat rivals. Dominate the industry and build your tech empire.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075960/00cd11650a2e4e78f92535e3774e5ce76ac897fc/header.jpg?t=1786832794" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075960/00cd11650a2e4e78f92535e3774e5ce76ac897fc/header.jpg?t=1786832794" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075960/00cd11650a2e4e78f92535e3774e5ce76ac897fc/header.jpg?t=1786832794" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5075960/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075960/00cd11650a2e4e78f92535e3774e5ce76ac897fc/header.jpg?t=1786832794" alt="AI tycoon（新規追加）" /></a></p><p>Found and run an AI company in this simulation strategy game. Collect data, develop tech, iterate language models, and commercialize them for profit. Balance R&amp;amp;D with revenue, hire talent, manage compute, and time launches to beat rivals. Dominate the industry and build your tech empire.</p><p><a href="https://store.steampowered.com/app/5075960/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Beach, Girls &amp; Ice Cream（新規追加）</title>
   <link>https://store.steampowered.com/app/5091780/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464790/3fec9b7ffbe4b2c302b8a3751760b616f5ceda67/header.jpg?t=1786724108" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464790/3fec9b7ffbe4b2c302b8a3751760b616f5ceda67/header.jpg?t=1786724108" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3464790/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464790/3fec9b7ffbe4b2c302b8a3751760b616f5ceda67/header.jpg?t=1786724108" alt="Pinewater（新規追加）" /></a></p><p>Pinewater is a cozy first-person fishing game about restoring a run-down lakeside cabin. Catch rare and legendary fish, restore and decorate your lakeside home, plant trees, and shape the surroundings to your liking — all at your own pace.</p><p><a href="https://store.steampowered.com/app/3464790/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Blacksite Lazarus（新規追加）</title>
-  <link>https://store.steampowered.com/app/5077530/</link>
-  <guid isPermaLink="false">steam-store-published-5077530</guid>
-  <pubDate>Fri, 14 Aug 2026 16:52:06 +0000</pubDate>
-  <description>Sent to investigate a medical facility gone dark, a private military contractor discovers a nightmare of death and mutation. Explore, survive, and uncover the truth behind a cancer cure that created something far worse.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077530/ce48bf2cebf9ef409ba9e8f67045f0036d18e6dc/header.jpg?t=1786723648" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077530/ce48bf2cebf9ef409ba9e8f67045f0036d18e6dc/header.jpg?t=1786723648" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077530/ce48bf2cebf9ef409ba9e8f67045f0036d18e6dc/header.jpg?t=1786723648" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5077530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077530/ce48bf2cebf9ef409ba9e8f67045f0036d18e6dc/header.jpg?t=1786723648" alt="Blacksite Lazarus（新規追加）" /></a></p><p>Sent to investigate a medical facility gone dark, a private military contractor discovers a nightmare of death and mutation. Explore, survive, and uncover the truth behind a cancer cure that created something far worse.</p><p><a href="https://store.steampowered.com/app/5077530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
