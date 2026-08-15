@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 15 Aug 2026 10:18:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 10:43:10 +0000</lastBuildDate>
+<item>
+  <title>My Desktop Cat（新規追加）</title>
+  <link>https://store.steampowered.com/app/5031490/</link>
+  <guid isPermaLink="false">steam-store-published-5031490</guid>
+  <pubDate>Sat, 15 Aug 2026 10:43:10 +0000</pubDate>
+  <description>Bring a cozy animated cat to your Windows desktop. Care for your companion, play with toys, decorate every screen, unlock new cats and achievements, and keep your progress in Steam Cloud while normal apps stay unobstructed.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031490/e024fe63ff373d2dbc495aa78bd13e7397b3cfea/header.jpg?t=1786789246" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031490/e024fe63ff373d2dbc495aa78bd13e7397b3cfea/header.jpg?t=1786789246" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031490/e024fe63ff373d2dbc495aa78bd13e7397b3cfea/header.jpg?t=1786789246" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5031490/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031490/e024fe63ff373d2dbc495aa78bd13e7397b3cfea/header.jpg?t=1786789246" alt="My Desktop Cat（新規追加）" /></a></p><p>Bring a cozy animated cat to your Windows desktop. Care for your companion, play with toys, decorate every screen, unlock new cats and achievements, and keep your progress in Steam Cloud while normal apps stay unobstructed.</p><p><a href="https://store.steampowered.com/app/5031490/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>Devil&#x27;s Sanctum（新規追加）</title>
+  <link>https://store.steampowered.com/app/4896190/</link>
+  <guid isPermaLink="false">steam-store-published-4896190</guid>
+  <pubDate>Sat, 15 Aug 2026 10:43:10 +0000</pubDate>
+  <description>Fight through escalating waves of demons in this fast-paced top-down arena shooter. Choose stackable abilities, create powerful builds and survive the Devil’s trials to earn your freedom.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896190/3be7f79baa361c562e9366f4d2cec3af00f7a40c/header.jpg?t=1786789404" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896190/3be7f79baa361c562e9366f4d2cec3af00f7a40c/header.jpg?t=1786789404" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896190/3be7f79baa361c562e9366f4d2cec3af00f7a40c/header.jpg?t=1786789404" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4896190/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896190/3be7f79baa361c562e9366f4d2cec3af00f7a40c/header.jpg?t=1786789404" alt="Devil&#x27;s Sanctum（新規追加）" /></a></p><p>Fight through escalating waves of demons in this fast-paced top-down arena shooter. Choose stackable abilities, create powerful builds and survive the Devil’s trials to earn your freedom.</p><p><a href="https://store.steampowered.com/app/4896190/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>The Spectacular Evermore（新規追加）</title>
   <link>https://store.steampowered.com/app/4677860/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/46d4013a40c45cd16bb30ed6cbb8d9d75bf2b76f/header.jpg?t=1786676425" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/46d4013a40c45cd16bb30ed6cbb8d9d75bf2b76f/header.jpg?t=1786676425" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4740930/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/46d4013a40c45cd16bb30ed6cbb8d9d75bf2b76f/header.jpg?t=1786676425" alt="Legend of Defenders（新規追加）" /></a></p><p>A thrilling idle tower defense game with automated battles and endless growth! Build your defenses, deploy heroes, and watch your fortress evolve from a humble outpost into an unstoppable stronghold—even while you’re away. P.S. Supports a boss key for instant hiding whenever needed.</p><p><a href="https://store.steampowered.com/app/4740930/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Ruin Rush（新規追加）</title>
-  <link>https://store.steampowered.com/app/4917870/</link>
-  <guid isPermaLink="false">steam-store-published-4917870</guid>
-  <pubDate>Fri, 14 Aug 2026 04:45:52 +0000</pubDate>
-  <description>Challenge yourself in a top-down speedrunner using precision and momentum to dash through enemies and race through ruins. Play Ruin Rush alone, with friends, or against others to climb leaderboards and set your record.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917870/65c739d7551581b7334a89f962c04829013f3bce/header.jpg?t=1786681548" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917870/65c739d7551581b7334a89f962c04829013f3bce/header.jpg?t=1786681548" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917870/65c739d7551581b7334a89f962c04829013f3bce/header.jpg?t=1786681548" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4917870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917870/65c739d7551581b7334a89f962c04829013f3bce/header.jpg?t=1786681548" alt="Ruin Rush（新規追加）" /></a></p><p>Challenge yourself in a top-down speedrunner using precision and momentum to dash through enemies and race through ruins. Play Ruin Rush alone, with friends, or against others to climb leaderboards and set your record.</p><p><a href="https://store.steampowered.com/app/4917870/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>REQ/S（新規追加）</title>
-  <link>https://store.steampowered.com/app/4849000/</link>
-  <guid isPermaLink="false">steam-store-published-4849000</guid>
-  <pubDate>Fri, 14 Aug 2026 04:45:52 +0000</pubDate>
-  <description>You’re the new hire, and the website is your problem. Build the infrastructure, route the traffic, handle incidents, and survive eight connected levels in a single run. Beat the campaign, then keep going in Endless Mode and chase a higher score.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849000/ea33754856ceb0d7b5b197592234186c0146545e/header.jpg?t=1786677703" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849000/ea33754856ceb0d7b5b197592234186c0146545e/header.jpg?t=1786677703" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849000/ea33754856ceb0d7b5b197592234186c0146545e/header.jpg?t=1786677703" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4849000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849000/ea33754856ceb0d7b5b197592234186c0146545e/header.jpg?t=1786677703" alt="REQ/S（新規追加）" /></a></p><p>You’re the new hire, and the website is your problem. Build the infrastructure, route the traffic, handle incidents, and survive eight connected levels in a single run. Beat the campaign, then keep going in Endless Mode and chase a higher score.</p><p><a href="https://store.steampowered.com/app/4849000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
