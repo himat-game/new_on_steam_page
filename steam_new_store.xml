@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 15 Aug 2026 14:17:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 14:42:20 +0000</lastBuildDate>
+<item>
+  <title>Memento Resonance（新規追加）</title>
+  <link>https://store.steampowered.com/app/5074650/</link>
+  <guid isPermaLink="false">steam-store-published-5074650</guid>
+  <pubDate>Sat, 15 Aug 2026 14:42:20 +0000</pubDate>
+  <description>Forge a Resonance with enemy monsters and welcome them into your party. Equip their skills with relics to shape your own battle style, then climb an ever-changing tower as you follow the trail of lost memories in this monster-collecting roguelite turn-based strategy game.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074650/81600ad0239c4773ec5d35d9d71be1a7deadbcc6/header.jpg?t=1786803469" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074650/81600ad0239c4773ec5d35d9d71be1a7deadbcc6/header.jpg?t=1786803469" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074650/81600ad0239c4773ec5d35d9d71be1a7deadbcc6/header.jpg?t=1786803469" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5074650/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074650/81600ad0239c4773ec5d35d9d71be1a7deadbcc6/header.jpg?t=1786803469" alt="Memento Resonance（新規追加）" /></a></p><p>Forge a Resonance with enemy monsters and welcome them into your party. Equip their skills with relics to shape your own battle style, then climb an ever-changing tower as you follow the trail of lost memories in this monster-collecting roguelite turn-based strategy game.</p><p><a href="https://store.steampowered.com/app/5074650/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>HellRock Diver（新規追加）</title>
   <link>https://store.steampowered.com/app/5018830/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071720/8f89d753e8e5541df197707f851108d4ec254189/header.jpg?t=1786690252" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071720/8f89d753e8e5541df197707f851108d4ec254189/header.jpg?t=1786690252" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5071720/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071720/8f89d753e8e5541df197707f851108d4ec254189/header.jpg?t=1786690252" alt="Rule By Roll（新規追加）" /></a></p><p>A tower defense game where you rank up towers, roll the dice to draw them, and pick perks as you level. Every choice compounds — stack talents, chain synergies, and build a defense that holds against hundreds of enemies across levels that only get harder.</p><p><a href="https://store.steampowered.com/app/5071720/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Odonata Augmenta: Rogue Dragonfly（新規追加）</title>
-  <link>https://store.steampowered.com/app/5045570/</link>
-  <guid isPermaLink="false">steam-store-published-5045570</guid>
-  <pubDate>Fri, 14 Aug 2026 07:53:01 +0000</pubDate>
-  <description>A 3D Bullet Heaven with Pixel Graphics, where you steer a Dragonfly and use it&#x27;s superior moveset and your environment against the alien invaders. Upgrade yourself with their weapons to become even more of a apex predator.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045570/fb8c61f572d42c3167b22012a6a542d8d7b6d422/header.jpg?t=1786692072" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045570/fb8c61f572d42c3167b22012a6a542d8d7b6d422/header.jpg?t=1786692072" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045570/fb8c61f572d42c3167b22012a6a542d8d7b6d422/header.jpg?t=1786692072" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5045570/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045570/fb8c61f572d42c3167b22012a6a542d8d7b6d422/header.jpg?t=1786692072" alt="Odonata Augmenta: Rogue Dragonfly（新規追加）" /></a></p><p>A 3D Bullet Heaven with Pixel Graphics, where you steer a Dragonfly and use it&#x27;s superior moveset and your environment against the alien invaders. Upgrade yourself with their weapons to become even more of a apex predator.</p><p><a href="https://store.steampowered.com/app/5045570/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
