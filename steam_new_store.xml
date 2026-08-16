@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 16 Aug 2026 22:17:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 22:40:49 +0000</lastBuildDate>
+<item>
+  <title>Superposition（新規追加）</title>
+  <link>https://store.steampowered.com/app/5077620/</link>
+  <guid isPermaLink="false">steam-store-published-5077620</guid>
+  <pubDate>Sun, 16 Aug 2026 22:40:49 +0000</pubDate>
+  <description>An intense first-person psychological horror micro-indie. Keep your gaze locked on the pipe and regulate the valves under pressure. If you blink or look away, the system collapses.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077620/c9a3fac44cdc81fa1a7a085192c077c8eb141366/header.jpg?t=1786918789" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077620/c9a3fac44cdc81fa1a7a085192c077c8eb141366/header.jpg?t=1786918789" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077620/c9a3fac44cdc81fa1a7a085192c077c8eb141366/header.jpg?t=1786918789" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5077620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077620/c9a3fac44cdc81fa1a7a085192c077c8eb141366/header.jpg?t=1786918789" alt="Superposition（新規追加）" /></a></p><p>An intense first-person psychological horror micro-indie. Keep your gaze locked on the pipe and regulate the valves under pressure. If you blink or look away, the system collapses.</p><p><a href="https://store.steampowered.com/app/5077620/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Fable&#x27;s End Online（新規追加）</title>
   <link>https://store.steampowered.com/app/3008730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4927450/64faf6c720fa1250213932317b50e2b5c34f3bc2/header.jpg?t=1786759120" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4927450/64faf6c720fa1250213932317b50e2b5c34f3bc2/header.jpg?t=1786759120" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4927450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4927450/64faf6c720fa1250213932317b50e2b5c34f3bc2/header.jpg?t=1786759120" alt="Isentroth（新規追加）" /></a></p><p>Swear an oath and walk into the Isenmarch — a cold Norse frontier that does not explain itself. A Machine Game Master narrates your saga, answers the choices you make, and rolls the dice at your side. No two sagas are alike. What breaks first — your isen, or your troth?</p><p><a href="https://store.steampowered.com/app/4927450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Teaching Assistant Life Song Ha-Yoon（新規追加）</title>
-  <link>https://store.steampowered.com/app/4704700/</link>
-  <guid isPermaLink="false">steam-store-published-4704700</guid>
-  <pubDate>Sat, 15 Aug 2026 02:27:15 +0000</pubDate>
-  <description>&amp;lt;Teaching Assistant Life Song Ha-Yoon&amp;gt; is a story about the passionate teaching life of the main character (player), who is a college assistant. Be a player and enjoy the sweet and sexy relationship with the first heroine of the series, Song Ha-Yoon!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704700/d8f6241c32e976a016e4b9fd3a7bf00a96595563/header.jpg?t=1786760340" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704700/d8f6241c32e976a016e4b9fd3a7bf00a96595563/header.jpg?t=1786760340" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704700/d8f6241c32e976a016e4b9fd3a7bf00a96595563/header.jpg?t=1786760340" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4704700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704700/d8f6241c32e976a016e4b9fd3a7bf00a96595563/header.jpg?t=1786760340" alt="Teaching Assistant Life Song Ha-Yoon（新規追加）" /></a></p><p>&amp;lt;Teaching Assistant Life Song Ha-Yoon&amp;gt; is a story about the passionate teaching life of the main character (player), who is a college assistant. Be a player and enjoy the sweet and sexy relationship with the first heroine of the series, Song Ha-Yoon!</p><p><a href="https://store.steampowered.com/app/4704700/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
