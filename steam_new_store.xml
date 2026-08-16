@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 16 Aug 2026 14:43:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 15:17:09 +0000</lastBuildDate>
+<item>
+  <title>Manabies（新規追加）</title>
+  <link>https://store.steampowered.com/app/5088020/</link>
+  <guid isPermaLink="false">steam-store-published-5088020</guid>
+  <pubDate>Sun, 16 Aug 2026 15:17:09 +0000</pubDate>
+  <description>Embark on an action adventure across floating islands where magical creatures, fast-paced arena battles, and an ever-growing flying base hide a unique twist: every battle is powered by real mathematics, helping you become smarter with every challenge.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088020/b1a1bfe036a836076baecfa65ec15f8da3c39ab1/header.jpg?t=1786893183" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088020/b1a1bfe036a836076baecfa65ec15f8da3c39ab1/header.jpg?t=1786893183" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088020/b1a1bfe036a836076baecfa65ec15f8da3c39ab1/header.jpg?t=1786893183" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5088020/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088020/b1a1bfe036a836076baecfa65ec15f8da3c39ab1/header.jpg?t=1786893183" alt="Manabies（新規追加）" /></a></p><p>Embark on an action adventure across floating islands where magical creatures, fast-paced arena battles, and an ever-growing flying base hide a unique twist: every battle is powered by real mathematics, helping you become smarter with every challenge.</p><p><a href="https://store.steampowered.com/app/5088020/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>SHHH: Don&#x27;t Wake the House（新規追加）</title>
+  <link>https://store.steampowered.com/app/5034280/</link>
+  <guid isPermaLink="false">steam-store-published-5034280</guid>
+  <pubDate>Sun, 16 Aug 2026 15:17:09 +0000</pubDate>
+  <description>A solo and co-op stealth heist for 1–4 players. Sneak into a sleeping house, steal the required loot, and escape before the owner wakes. Every footstep, dropped object, and even your voice fills the Wake Meter.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034280/4d1460bdf9958fe4026486b7d473ea7e5ef15cf4/header.jpg?t=1786891933" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034280/4d1460bdf9958fe4026486b7d473ea7e5ef15cf4/header.jpg?t=1786891933" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034280/4d1460bdf9958fe4026486b7d473ea7e5ef15cf4/header.jpg?t=1786891933" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5034280/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034280/4d1460bdf9958fe4026486b7d473ea7e5ef15cf4/header.jpg?t=1786891933" alt="SHHH: Don&#x27;t Wake the House（新規追加）" /></a></p><p>A solo and co-op stealth heist for 1–4 players. Sneak into a sleeping house, steal the required loot, and escape before the owner wakes. Every footstep, dropped object, and even your voice fills the Wake Meter.</p><p><a href="https://store.steampowered.com/app/5034280/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Eternitubes 3D（新規追加）</title>
   <link>https://store.steampowered.com/app/4979880/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080060/b255641fb081fd76fe88377fd6856e56613bddf4/header.jpg?t=1786753092" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080060/b255641fb081fd76fe88377fd6856e56613bddf4/header.jpg?t=1786753092" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5080060/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080060/b255641fb081fd76fe88377fd6856e56613bddf4/header.jpg?t=1786753092" alt="Africa Survival（新規追加）" /></a></p><p>As an explorer, you travel to Africa, hunt in the savanna, Avoid attacks from various ferocious beasts, gather resources, build shelter, and survive.</p><p><a href="https://store.steampowered.com/app/5080060/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Sealing Fallout（新規追加）</title>
-  <link>https://store.steampowered.com/app/4592710/</link>
-  <guid isPermaLink="false">steam-store-published-4592710</guid>
-  <pubDate>Sat, 15 Aug 2026 01:01:35 +0000</pubDate>
-  <description>An AI-powered fusion reactor has blown up and it&#x27;s up to sealkind to save Earth from the ensuing Runaway Electron Avalanche! Group up with up to 6 fellow seals to fix the reactor before the seventh day ends. The AI Adam predicts your failure, prove it wrong and blow it up.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592710/77c616b3b4286dbef4c51df5641a1305cbc9419b/header.jpg?t=1786752823" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592710/77c616b3b4286dbef4c51df5641a1305cbc9419b/header.jpg?t=1786752823" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592710/77c616b3b4286dbef4c51df5641a1305cbc9419b/header.jpg?t=1786752823" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4592710/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592710/77c616b3b4286dbef4c51df5641a1305cbc9419b/header.jpg?t=1786752823" alt="Sealing Fallout（新規追加）" /></a></p><p>An AI-powered fusion reactor has blown up and it&#x27;s up to sealkind to save Earth from the ensuing Runaway Electron Avalanche! Group up with up to 6 fellow seals to fix the reactor before the seventh day ends. The AI Adam predicts your failure, prove it wrong and blow it up.</p><p><a href="https://store.steampowered.com/app/4592710/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>DESTRALIX &amp; DESTENYA Sector（新規追加）</title>
-  <link>https://store.steampowered.com/app/5038300/</link>
-  <guid isPermaLink="false">steam-store-published-5038300</guid>
-  <pubDate>Sat, 15 Aug 2026 01:01:35 +0000</pubDate>
-  <description>Destralix &amp;amp; Destenya is set in the year 2088, where humanity has explored and mapped the entire Solar System and expanded into nearby star systems. Earth remains the central hub of civilization, viewed in living 3D globe divided into thousands of tiles showing terrain, cities and advanced facilities</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038300/0fe53c55a6a563365edfaa2d4e6ff25d3dd9977e/header.jpg?t=1786754671" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038300/0fe53c55a6a563365edfaa2d4e6ff25d3dd9977e/header.jpg?t=1786754671" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038300/0fe53c55a6a563365edfaa2d4e6ff25d3dd9977e/header.jpg?t=1786754671" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5038300/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038300/0fe53c55a6a563365edfaa2d4e6ff25d3dd9977e/header.jpg?t=1786754671" alt="DESTRALIX &amp; DESTENYA Sector（新規追加）" /></a></p><p>Destralix &amp;amp; Destenya is set in the year 2088, where humanity has explored and mapped the entire Solar System and expanded into nearby star systems. Earth remains the central hub of civilization, viewed in living 3D globe divided into thousands of tiles showing terrain, cities and advanced facilities</p><p><a href="https://store.steampowered.com/app/5038300/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
