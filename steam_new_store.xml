@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 16 Aug 2026 21:16:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 22:17:21 +0000</lastBuildDate>
+<item>
+  <title>Fable&#x27;s End Online（新規追加）</title>
+  <link>https://store.steampowered.com/app/3008730/</link>
+  <guid isPermaLink="false">steam-store-published-3008730</guid>
+  <pubDate>Sun, 16 Aug 2026 22:17:21 +0000</pubDate>
+  <description>A fantasy turn based strategy card game where players around the world can play against each other with a set of different decks or build their own to challenge others.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008730/345a3a377a78b7e7d3d442c6aab409e38b99753b/header.jpg?t=1786918580" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008730/345a3a377a78b7e7d3d442c6aab409e38b99753b/header.jpg?t=1786918580" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008730/345a3a377a78b7e7d3d442c6aab409e38b99753b/header.jpg?t=1786918580" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/3008730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008730/345a3a377a78b7e7d3d442c6aab409e38b99753b/header.jpg?t=1786918580" alt="Fable&#x27;s End Online（新規追加）" /></a></p><p>A fantasy turn based strategy card game where players around the world can play against each other with a set of different decks or build their own to challenge others.</p><p><a href="https://store.steampowered.com/app/3008730/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>What Iron Cannot Hold（新規追加）</title>
   <link>https://store.steampowered.com/app/5060410/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704700/d8f6241c32e976a016e4b9fd3a7bf00a96595563/header.jpg?t=1786760340" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704700/d8f6241c32e976a016e4b9fd3a7bf00a96595563/header.jpg?t=1786760340" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4704700/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704700/d8f6241c32e976a016e4b9fd3a7bf00a96595563/header.jpg?t=1786760340" alt="Teaching Assistant Life Song Ha-Yoon（新規追加）" /></a></p><p>&amp;lt;Teaching Assistant Life Song Ha-Yoon&amp;gt; is a story about the passionate teaching life of the main character (player), who is a college assistant. Be a player and enjoy the sweet and sexy relationship with the first heroine of the series, Song Ha-Yoon!</p><p><a href="https://store.steampowered.com/app/4704700/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>LINK IT（新規追加）</title>
-  <link>https://store.steampowered.com/app/5087530/</link>
-  <guid isPermaLink="false">steam-store-published-5087530</guid>
-  <pubDate>Sat, 15 Aug 2026 02:27:15 +0000</pubDate>
-  <description>Connect the matching numbers with a line and fill the whole board! LINK IT is a cozy paper-style number-connecting puzzle — 500 levels, a Daily Challenge, plus Endless and Relax modes. Easy to pick up, hard to put down.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087530/8bfdabf1ddf26f393671681511be7ed03cd7e4f3/header.jpg?t=1786760591" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087530/8bfdabf1ddf26f393671681511be7ed03cd7e4f3/header.jpg?t=1786760591" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087530/8bfdabf1ddf26f393671681511be7ed03cd7e4f3/header.jpg?t=1786760591" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5087530/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087530/8bfdabf1ddf26f393671681511be7ed03cd7e4f3/header.jpg?t=1786760591" alt="LINK IT（新規追加）" /></a></p><p>Connect the matching numbers with a line and fill the whole board! LINK IT is a cozy paper-style number-connecting puzzle — 500 levels, a Daily Challenge, plus Endless and Relax modes. Easy to pick up, hard to put down.</p><p><a href="https://store.steampowered.com/app/5087530/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
