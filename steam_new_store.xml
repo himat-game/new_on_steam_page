@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 16 Aug 2026 11:55:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 12:31:57 +0000</lastBuildDate>
+<item>
+  <title>Projekt: Passion - Season 3（新規追加）</title>
+  <link>https://store.steampowered.com/app/4933950/</link>
+  <guid isPermaLink="false">steam-store-published-4933950</guid>
+  <pubDate>Sun, 16 Aug 2026 12:31:57 +0000</pubDate>
+  <description>Continue the story of Projekt: Passion in its epic final chapter. More comedy, more sex, more romance, more adventure, and yes... even more sex. Reunite with the girls you&#x27;ve come to know and love as the fate of the galaxy hangs in the balance.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933950/15001473135d88db8bd525267a128a53dfcaa617/header.jpg?t=1786881977" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933950/15001473135d88db8bd525267a128a53dfcaa617/header.jpg?t=1786881977" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933950/15001473135d88db8bd525267a128a53dfcaa617/header.jpg?t=1786881977" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4933950/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933950/15001473135d88db8bd525267a128a53dfcaa617/header.jpg?t=1786881977" alt="Projekt: Passion - Season 3（新規追加）" /></a></p><p>Continue the story of Projekt: Passion in its epic final chapter. More comedy, more sex, more romance, more adventure, and yes... even more sex. Reunite with the girls you&#x27;ve come to know and love as the fate of the galaxy hangs in the balance.</p><p><a href="https://store.steampowered.com/app/4933950/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Questris（新規追加）</title>
   <link>https://store.steampowered.com/app/5043760/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950180/251ce1f280da1914365d7cffcd1c5149c90d9005/header.jpg?t=1786745703" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950180/251ce1f280da1914365d7cffcd1c5149c90d9005/header.jpg?t=1786745703" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4950180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950180/251ce1f280da1914365d7cffcd1c5149c90d9005/header.jpg?t=1786745703" alt="Inkpress（新規追加）" /></a></p><p>A relaxing puzzle game about pressing blocks. No rush, just satisfying solutions.</p><p><a href="https://store.steampowered.com/app/4950180/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Nova Match（新規追加）</title>
-  <link>https://store.steampowered.com/app/5083110/</link>
-  <guid isPermaLink="false">steam-store-published-5083110</guid>
-  <pubDate>Fri, 14 Aug 2026 22:18:24 +0000</pubDate>
-  <description>Nova Match is a next-gen, Scifi match &amp;amp; merge game! Blast lines with cosmic strikes, match Nova Cats for board-cleaning explosions. Nova Match is the puzzle game with the soul of an arcade shooter!</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083110/745b9ed9a041ffb6c66554b363c8ccaced39192a/header.jpg?t=1786745888" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083110/745b9ed9a041ffb6c66554b363c8ccaced39192a/header.jpg?t=1786745888" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083110/745b9ed9a041ffb6c66554b363c8ccaced39192a/header.jpg?t=1786745888" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5083110/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083110/745b9ed9a041ffb6c66554b363c8ccaced39192a/header.jpg?t=1786745888" alt="Nova Match（新規追加）" /></a></p><p>Nova Match is a next-gen, Scifi match &amp;amp; merge game! Blast lines with cosmic strikes, match Nova Cats for board-cleaning explosions. Nova Match is the puzzle game with the soul of an arcade shooter!</p><p><a href="https://store.steampowered.com/app/5083110/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
