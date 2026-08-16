@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 16 Aug 2026 15:56:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 16:23:10 +0000</lastBuildDate>
+<item>
+  <title>OminouSushi（新規追加）</title>
+  <link>https://store.steampowered.com/app/5047430/</link>
+  <guid isPermaLink="false">steam-store-published-5047430</guid>
+  <pubDate>Sun, 16 Aug 2026 16:23:10 +0000</pubDate>
+  <description>A quiet anomaly slips onto the conveyor belt. Drop sushi, merge matching pieces, and evolve them as you chase a high score—but “ominous sushi” arrive without warning. Spot them before they fall, or the belt speeds up toward game over. Merge, observe, and trust no sushi.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047430/bfa0789a35f2bc584235f23219ac0e1add59c1ea/header.jpg?t=1786896011" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047430/bfa0789a35f2bc584235f23219ac0e1add59c1ea/header.jpg?t=1786896011" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047430/bfa0789a35f2bc584235f23219ac0e1add59c1ea/header.jpg?t=1786896011" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5047430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047430/bfa0789a35f2bc584235f23219ac0e1add59c1ea/header.jpg?t=1786896011" alt="OminouSushi（新規追加）" /></a></p><p>A quiet anomaly slips onto the conveyor belt. Drop sushi, merge matching pieces, and evolve them as you chase a high score—but “ominous sushi” arrive without warning. Spot them before they fall, or the belt speeds up toward game over. Merge, observe, and trust no sushi.</p><p><a href="https://store.steampowered.com/app/5047430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>DEN DEN BLOCK（新規追加）</title>
   <link>https://store.steampowered.com/app/4962870/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079750/b4d61ef7f6fc1e877f2a526a2c6bb4e1c87203ad/header.jpg?t=1786752170" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079750/b4d61ef7f6fc1e877f2a526a2c6bb4e1c87203ad/header.jpg?t=1786752170" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5079750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079750/b4d61ef7f6fc1e877f2a526a2c6bb4e1c87203ad/header.jpg?t=1786752170" alt="修行~shugyo~（新規追加）" /></a></p><p>Control each arm independently and climb a massive mountain using only your hands. Manage your grip, use momentum, and guide a monk who has lost his legs toward the summit. One mistake can send you far back down.</p><p><a href="https://store.steampowered.com/app/5079750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Capitalize（新規追加）</title>
-  <link>https://store.steampowered.com/app/5083730/</link>
-  <guid isPermaLink="false">steam-store-published-5083730</guid>
-  <pubDate>Sat, 15 Aug 2026 01:01:35 +0000</pubDate>
-  <description>A financial life sim from age 18 to retirement: manage job, budget, housing, broker and businesses to grow your wealth — and learn compound interest and the 4% rule by playing.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083730/8b6ccb5724775ff2d6e68f7c59a9d034b844d3ad/header.jpg?t=1786752706" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083730/8b6ccb5724775ff2d6e68f7c59a9d034b844d3ad/header.jpg?t=1786752706" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083730/8b6ccb5724775ff2d6e68f7c59a9d034b844d3ad/header.jpg?t=1786752706" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5083730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083730/8b6ccb5724775ff2d6e68f7c59a9d034b844d3ad/header.jpg?t=1786752706" alt="Capitalize（新規追加）" /></a></p><p>A financial life sim from age 18 to retirement: manage job, budget, housing, broker and businesses to grow your wealth — and learn compound interest and the 4% rule by playing.</p><p><a href="https://store.steampowered.com/app/5083730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
