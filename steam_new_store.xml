@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 16 Aug 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 13:16:19 +0000</lastBuildDate>
+<item>
+  <title>Magna Conquest（新規追加）</title>
+  <link>https://store.steampowered.com/app/5069130/</link>
+  <guid isPermaLink="false">steam-store-published-5069130</guid>
+  <pubDate>Sun, 16 Aug 2026 13:16:19 +0000</pubDate>
+  <description>Lead a kingdom in a real-time medieval fantasy grand strategy where the campaign world and battles unfold simultaneously. Command armies of up to 100,000 units while shaping your realm through diplomacy, kingdom management, research, and legendary heroes in single-player or campaign multiplayer.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069130/ea61d9b25a9d4d980ab7aacc22b725bf6b032b68/header.jpg?t=1786884418" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069130/ea61d9b25a9d4d980ab7aacc22b725bf6b032b68/header.jpg?t=1786884418" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069130/ea61d9b25a9d4d980ab7aacc22b725bf6b032b68/header.jpg?t=1786884418" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5069130/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069130/ea61d9b25a9d4d980ab7aacc22b725bf6b032b68/header.jpg?t=1786884418" alt="Magna Conquest（新規追加）" /></a></p><p>Lead a kingdom in a real-time medieval fantasy grand strategy where the campaign world and battles unfold simultaneously. Command armies of up to 100,000 units while shaping your realm through diplomacy, kingdom management, research, and legendary heroes in single-player or campaign multiplayer.</p><p><a href="https://store.steampowered.com/app/5069130/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Projekt: Passion - Season 3（新規追加）</title>
   <link>https://store.steampowered.com/app/4933950/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894500/93e5057b6174a4185bed69300cd1ffa226953bfd/header.jpg?t=1786746844" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894500/93e5057b6174a4185bed69300cd1ffa226953bfd/header.jpg?t=1786746844" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4894500/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894500/93e5057b6174a4185bed69300cd1ffa226953bfd/header.jpg?t=1786746844" alt="Minesweeper Maker（新規追加）" /></a></p><p>Minesweeper Maker is a grid based logic game where you can play and create countless puzzles with the community and friends.</p><p><a href="https://store.steampowered.com/app/4894500/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Inkpress（新規追加）</title>
-  <link>https://store.steampowered.com/app/4950180/</link>
-  <guid isPermaLink="false">steam-store-published-4950180</guid>
-  <pubDate>Fri, 14 Aug 2026 22:18:24 +0000</pubDate>
-  <description>A relaxing puzzle game about pressing blocks. No rush, just satisfying solutions.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950180/251ce1f280da1914365d7cffcd1c5149c90d9005/header.jpg?t=1786745703" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950180/251ce1f280da1914365d7cffcd1c5149c90d9005/header.jpg?t=1786745703" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950180/251ce1f280da1914365d7cffcd1c5149c90d9005/header.jpg?t=1786745703" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4950180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950180/251ce1f280da1914365d7cffcd1c5149c90d9005/header.jpg?t=1786745703" alt="Inkpress（新規追加）" /></a></p><p>A relaxing puzzle game about pressing blocks. No rush, just satisfying solutions.</p><p><a href="https://store.steampowered.com/app/4950180/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
