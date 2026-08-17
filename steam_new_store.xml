@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Mon, 17 Aug 2026 05:18:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 05:54:10 +0000</lastBuildDate>
+<item>
+  <title>Tower of Genn（新規追加）</title>
+  <link>https://store.steampowered.com/app/4602770/</link>
+  <guid isPermaLink="false">steam-store-published-4602770</guid>
+  <pubDate>Mon, 17 Aug 2026 05:54:10 +0000</pubDate>
+  <description>Tower of Genn is a puzzle-strategy building game where you construct a precarious Tower using an expansive variety of pieces. Fulfill quests, discover new interactions with special blocks, and uncover the history behind the sacred people of Genn.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602770/1f80ffabe22ef96721c9218117811643c6b69cc9/header.jpg?t=1786944067" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602770/1f80ffabe22ef96721c9218117811643c6b69cc9/header.jpg?t=1786944067" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602770/1f80ffabe22ef96721c9218117811643c6b69cc9/header.jpg?t=1786944067" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4602770/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602770/1f80ffabe22ef96721c9218117811643c6b69cc9/header.jpg?t=1786944067" alt="Tower of Genn（新規追加）" /></a></p><p>Tower of Genn is a puzzle-strategy building game where you construct a precarious Tower using an expansive variety of pieces. Fulfill quests, discover new interactions with special blocks, and uncover the history behind the sacred people of Genn.</p><p><a href="https://store.steampowered.com/app/4602770/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Nobody&#x27;s Isekai（新規追加）</title>
   <link>https://store.steampowered.com/app/4981310/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924850/fc5bb412db355474b9958a645779d760e44bced1/header.jpg?t=1786767237" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924850/fc5bb412db355474b9958a645779d760e44bced1/header.jpg?t=1786767237" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4924850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924850/fc5bb412db355474b9958a645779d760e44bced1/header.jpg?t=1786767237" alt="TRAP LAB（新規追加）" /></a></p><p>A cute platformer that lies to you. Fight through 60 levels of fake floors, pop-up spikes, and traitorous doors — unlock double jumps, dashes and rockets, survive monster swarms, and take down the boss. Die. Learn. Rage. Repeat.</p><p><a href="https://store.steampowered.com/app/4924850/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>From Zero: Idle Factory（新規追加）</title>
-  <link>https://store.steampowered.com/app/5053000/</link>
-  <guid isPermaLink="false">steam-store-published-5053000</guid>
-  <pubDate>Sat, 15 Aug 2026 04:35:34 +0000</pubDate>
-  <description>Start with a worn-out workshop and grow through eight increasingly advanced factories. Produce, ship, reinvest and automate with robots in an active incremental management campaign that progresses only while you play.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053000/f3240a38bdbae92cf53b0fa55f555e378722e706/header.jpg?t=1786767468" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053000/f3240a38bdbae92cf53b0fa55f555e378722e706/header.jpg?t=1786767468" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053000/f3240a38bdbae92cf53b0fa55f555e378722e706/header.jpg?t=1786767468" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5053000/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053000/f3240a38bdbae92cf53b0fa55f555e378722e706/header.jpg?t=1786767468" alt="From Zero: Idle Factory（新規追加）" /></a></p><p>Start with a worn-out workshop and grow through eight increasingly advanced factories. Produce, ship, reinvest and automate with robots in an active incremental management campaign that progresses only while you play.</p><p><a href="https://store.steampowered.com/app/5053000/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
