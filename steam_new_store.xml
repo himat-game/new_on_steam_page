@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Tue, 18 Aug 2026 08:55:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 09:28:02 +0000</lastBuildDate>
+<item>
+  <title>Totally Normal Cat Shelter（新規追加）</title>
+  <link>https://store.steampowered.com/app/5035640/</link>
+  <guid isPermaLink="false">steam-store-published-5035640</guid>
+  <pubDate>Tue, 18 Aug 2026 09:28:02 +0000</pubDate>
+  <description>In this cozy horror adventure you take over your grandma&#x27;s rural cat shelter. Take care of the cat&#x27;s needs, discover their traits and find them fitting homes. Stick to this simple job, or start to snoop around the shelter and learn how to endorse a cat&#x27;s unique traits to help you solve the riddles.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035640/7d873bd82d7de5cc18fba4e652bea0356d05c6e8/header.jpg?t=1787045236" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035640/7d873bd82d7de5cc18fba4e652bea0356d05c6e8/header.jpg?t=1787045236" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035640/7d873bd82d7de5cc18fba4e652bea0356d05c6e8/header.jpg?t=1787045236" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5035640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035640/7d873bd82d7de5cc18fba4e652bea0356d05c6e8/header.jpg?t=1787045236" alt="Totally Normal Cat Shelter（新規追加）" /></a></p><p>In this cozy horror adventure you take over your grandma&#x27;s rural cat shelter. Take care of the cat&#x27;s needs, discover their traits and find them fitting homes. Stick to this simple job, or start to snoop around the shelter and learn how to endorse a cat&#x27;s unique traits to help you solve the riddles.</p><p><a href="https://store.steampowered.com/app/5035640/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Minus Sixty（新規追加）</title>
   <link>https://store.steampowered.com/app/5035490/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089380/c937395c0ef9378d74519d905dbfa144ff5811ae/header.jpg?t=1786949481" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089380/c937395c0ef9378d74519d905dbfa144ff5811ae/header.jpg?t=1786949481" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5089380/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089380/c937395c0ef9378d74519d905dbfa144ff5811ae/header.jpg?t=1786949481" alt="LIGHTBLADE（新規追加）" /></a></p><p>Don&#x27;t dodge the bullets — hit them back. LIGHTBLADE is a one-blade arcade survival game about timing: parry incoming fire, send it home, and keep the combo alive as the waves close in.</p><p><a href="https://store.steampowered.com/app/5089380/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>I&#x27;m not a Psycho Invader（新規追加）</title>
-  <link>https://store.steampowered.com/app/4988730/</link>
-  <guid isPermaLink="false">steam-store-published-4988730</guid>
-  <pubDate>Mon, 17 Aug 2026 07:49:30 +0000</pubDate>
-  <description>You&#x27;ve seized the university! Every floor is full of obstacles. Each hostage is valuable, dangerous, or a waste of time. Kill, search, or interrogate: everything costs time, and panic raises the price. Reach the roof before time runs out.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988730/bc5332c8f89f793aa9daffc45e601dfa0e254235/header.jpg?t=1786951640" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988730/bc5332c8f89f793aa9daffc45e601dfa0e254235/header.jpg?t=1786951640" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988730/bc5332c8f89f793aa9daffc45e601dfa0e254235/header.jpg?t=1786951640" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4988730/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988730/bc5332c8f89f793aa9daffc45e601dfa0e254235/header.jpg?t=1786951640" alt="I&#x27;m not a Psycho Invader（新規追加）" /></a></p><p>You&#x27;ve seized the university! Every floor is full of obstacles. Each hostage is valuable, dangerous, or a waste of time. Kill, search, or interrogate: everything costs time, and panic raises the price. Reach the roof before time runs out.</p><p><a href="https://store.steampowered.com/app/4988730/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
