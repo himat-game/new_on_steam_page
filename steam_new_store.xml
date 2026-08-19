@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Wed, 19 Aug 2026 16:49:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 17:22:58 +0000</lastBuildDate>
+<item>
+  <title>Drill Rover（新規追加）</title>
+  <link>https://store.steampowered.com/app/5081590/</link>
+  <guid isPermaLink="false">steam-store-published-5081590</guid>
+  <pubDate>Wed, 19 Aug 2026 17:22:58 +0000</pubDate>
+  <description>Drill Rover is an incremental game about mining walls in a foreign planet. Step on the gas, upgrade and go deep into the riches.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5081590/7c1f8b89b9c1b638d05e050a8314b4829da19c13/header.jpg?t=1787159134" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5081590/7c1f8b89b9c1b638d05e050a8314b4829da19c13/header.jpg?t=1787159134" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5081590/7c1f8b89b9c1b638d05e050a8314b4829da19c13/header.jpg?t=1787159134" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5081590/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5081590/7c1f8b89b9c1b638d05e050a8314b4829da19c13/header.jpg?t=1787159134" alt="Drill Rover（新規追加）" /></a></p><p>Drill Rover is an incremental game about mining walls in a foreign planet. Step on the gas, upgrade and go deep into the riches.</p><p><a href="https://store.steampowered.com/app/5081590/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Isekai: Demon King（新規追加）</title>
   <link>https://store.steampowered.com/app/5073230/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035390/6c61dcddc069f57df3d0a3f90d787840d3a135c9/header.jpg?t=1787079261" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035390/6c61dcddc069f57df3d0a3f90d787840d3a135c9/header.jpg?t=1787079261" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5035390/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035390/6c61dcddc069f57df3d0a3f90d787840d3a135c9/header.jpg?t=1787079261" alt="Lunar Crypt（新規追加）" /></a></p><p>Journey through the spirit world to exorcise the twelve zodiac animals and save Chinese New Year in this zero-gravity precision platformer inspired by Chinese mythology and folklore.</p><p><a href="https://store.steampowered.com/app/5035390/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ScrapBound（新規追加）</title>
-  <link>https://store.steampowered.com/app/4576480/</link>
-  <guid isPermaLink="false">steam-store-published-4576480</guid>
-  <pubDate>Tue, 18 Aug 2026 18:32:10 +0000</pubDate>
-  <description>ScrapBound is a chaotic 4-player physics brawler packed with wild abilities, unpredictable arenas, and hilarious moments. Battle friends locally or online across unique levels where hazards, physics, and 9+ abilities ensure no two matches play out the same.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576480/bc4e055e20d84e2f2a8778684511e6dc19399376/header.jpg?t=1787075868" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576480/bc4e055e20d84e2f2a8778684511e6dc19399376/header.jpg?t=1787075868" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576480/bc4e055e20d84e2f2a8778684511e6dc19399376/header.jpg?t=1787075868" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4576480/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576480/bc4e055e20d84e2f2a8778684511e6dc19399376/header.jpg?t=1787075868" alt="ScrapBound（新規追加）" /></a></p><p>ScrapBound is a chaotic 4-player physics brawler packed with wild abilities, unpredictable arenas, and hilarious moments. Battle friends locally or online across unique levels where hazards, physics, and 9+ abilities ensure no two matches play out the same.</p><p><a href="https://store.steampowered.com/app/4576480/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
