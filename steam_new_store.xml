@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Thu, 20 Aug 2026 08:33:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 09:08:07 +0000</lastBuildDate>
+<item>
+  <title>Wandering Bard（新規追加）</title>
+  <link>https://store.steampowered.com/app/5076430/</link>
+  <guid isPermaLink="false">steam-store-published-5076430</guid>
+  <pubDate>Thu, 20 Aug 2026 09:08:07 +0000</pubDate>
+  <description>Wander through six troubled regions, learn songs from the people who live there, build sets for each crowd, and complete the music in a cozy, story-rich rhythm RPG.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076430/b8fd1cd021f33a7cd61faaff20626001885ea3da/header.jpg?t=1787214902" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076430/b8fd1cd021f33a7cd61faaff20626001885ea3da/header.jpg?t=1787214902" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076430/b8fd1cd021f33a7cd61faaff20626001885ea3da/header.jpg?t=1787214902" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5076430/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076430/b8fd1cd021f33a7cd61faaff20626001885ea3da/header.jpg?t=1787214902" alt="Wandering Bard（新規追加）" /></a></p><p>Wander through six troubled regions, learn songs from the people who live there, build sets for each crowd, and complete the music in a cozy, story-rich rhythm RPG.</p><p><a href="https://store.steampowered.com/app/5076430/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>RingOut（新規追加）</title>
   <link>https://store.steampowered.com/app/5020730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848230/0772cad0adc3357744aebd4b127032590bc5c472/header.jpg?t=1787119090" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848230/0772cad0adc3357744aebd4b127032590bc5c472/header.jpg?t=1787119090" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4848230/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848230/0772cad0adc3357744aebd4b127032590bc5c472/header.jpg?t=1787119090" alt="Poker n&#x27; Queens（新規追加）" /></a></p><p>Poker’n Queens is a simulated Hentai Texas Hold’em game where you go from rookie to VIP and unlock hot scenes with gorgeous women.</p><p><a href="https://store.steampowered.com/app/4848230/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>朝歌霓虹（新規追加）</title>
-  <link>https://store.steampowered.com/app/5063460/</link>
-  <guid isPermaLink="false">steam-store-published-5063460</guid>
-  <pubDate>Wed, 19 Aug 2026 05:59:50 +0000</pubDate>
-  <description>NEON CHAOGE is an Eastern fantasy interactive cinematic adventure. Explore the mist-shrouded ancient city of Chaoge, uncover secrets hidden within the royal capital, and shape the story through crucial choices, branching paths, intrigue, mystery, and fate.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063460/eabc0493a36e07e4881cc66f592457aa63aff62c/header.jpg?t=1787118639" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063460/eabc0493a36e07e4881cc66f592457aa63aff62c/header.jpg?t=1787118639" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063460/eabc0493a36e07e4881cc66f592457aa63aff62c/header.jpg?t=1787118639" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5063460/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063460/eabc0493a36e07e4881cc66f592457aa63aff62c/header.jpg?t=1787118639" alt="朝歌霓虹（新規追加）" /></a></p><p>NEON CHAOGE is an Eastern fantasy interactive cinematic adventure. Explore the mist-shrouded ancient city of Chaoge, uncover secrets hidden within the royal capital, and shape the story through crucial choices, branching paths, intrigue, mystery, and fate.</p><p><a href="https://store.steampowered.com/app/5063460/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
