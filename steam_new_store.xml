@@ -5,7 +5,29 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Fri, 21 Aug 2026 22:56:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 23:21:22 +0000</lastBuildDate>
+<item>
+  <title>Super Slime（新規追加）</title>
+  <link>https://store.steampowered.com/app/4606680/</link>
+  <guid isPermaLink="false">steam-store-published-4606680</guid>
+  <pubDate>Fri, 21 Aug 2026 23:21:22 +0000</pubDate>
+  <description>A hardcore precision platformer with tight controls, smooth physics, and brutally challenging levels designed to test your skill.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606680/9b1d96930c0b7cfa5e9269e271c756dc26bf693e/header.jpg?t=1787353001" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606680/9b1d96930c0b7cfa5e9269e271c756dc26bf693e/header.jpg?t=1787353001" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606680/9b1d96930c0b7cfa5e9269e271c756dc26bf693e/header.jpg?t=1787353001" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4606680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606680/9b1d96930c0b7cfa5e9269e271c756dc26bf693e/header.jpg?t=1787353001" alt="Super Slime（新規追加）" /></a></p><p>A hardcore precision platformer with tight controls, smooth physics, and brutally challenging levels designed to test your skill.</p><p><a href="https://store.steampowered.com/app/4606680/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
+<item>
+  <title>雨蛙天（新規追加）</title>
+  <link>https://store.steampowered.com/app/5070880/</link>
+  <guid isPermaLink="false">steam-store-published-5070880</guid>
+  <pubDate>Fri, 21 Aug 2026 23:21:22 +0000</pubDate>
+  <description>A story-driven visual novel where your choices lead to different stories. A sudden rain turns everyone it touches into frogs. I can’t tell who’s a teacher and who’s a classmate. But that doesn’t matter. I just want to make friends as soon as possible at this new school.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070880/cc3a945c4364bdf2b98f849179dbea08fcd75d99/header.jpg?t=1787353734" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070880/cc3a945c4364bdf2b98f849179dbea08fcd75d99/header.jpg?t=1787353734" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070880/cc3a945c4364bdf2b98f849179dbea08fcd75d99/header.jpg?t=1787353734" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5070880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070880/cc3a945c4364bdf2b98f849179dbea08fcd75d99/header.jpg?t=1787353734" alt="雨蛙天（新規追加）" /></a></p><p>A story-driven visual novel where your choices lead to different stories. A sudden rain turns everyone it touches into frogs. I can’t tell who’s a teacher and who’s a classmate. But that doesn’t matter. I just want to make friends as soon as possible at this new school.</p><p><a href="https://store.steampowered.com/app/5070880/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Prigod Idle（新規追加）</title>
   <link>https://store.steampowered.com/app/5091900/</link>
@@ -3283,28 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117250/ea14658ae4114e9f60ac70243429a4445c8088a7/header.jpg?t=1787266453" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117250/ea14658ae4114e9f60ac70243429a4445c8088a7/header.jpg?t=1787266453" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5117250/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117250/ea14658ae4114e9f60ac70243429a4445c8088a7/header.jpg?t=1787266453" alt="Tidying Simulator（新規追加）" /></a></p><p>Find scattered objects and return them to their proper places in this first-person tidying simulator. Follow silhouettes and a compass, unlock new abilities as you progress, and restore the entire house to perfection!</p><p><a href="https://store.steampowered.com/app/5117250/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Feathered Citadel（新規追加）</title>
-  <link>https://store.steampowered.com/app/4884940/</link>
-  <guid isPermaLink="false">steam-store-published-4884940</guid>
-  <pubDate>Thu, 20 Aug 2026 22:59:26 +0000</pubDate>
-  <description>Fantasy Deck Builder where you play against yourself as you try to reach the top of the tree and try to stop the end of the world.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884940/d0f7da07ecf52ba901612240a3b04af3c6bd23a8/header.jpg?t=1787266692" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884940/d0f7da07ecf52ba901612240a3b04af3c6bd23a8/header.jpg?t=1787266692" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884940/d0f7da07ecf52ba901612240a3b04af3c6bd23a8/header.jpg?t=1787266692" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4884940/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884940/d0f7da07ecf52ba901612240a3b04af3c6bd23a8/header.jpg?t=1787266692" alt="Feathered Citadel（新規追加）" /></a></p><p>Fantasy Deck Builder where you play against yourself as you try to reach the top of the tree and try to stop the end of the world.</p><p><a href="https://store.steampowered.com/app/4884940/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Dead &amp; Delicious（新規追加）</title>
-  <link>https://store.steampowered.com/app/5120680/</link>
-  <guid isPermaLink="false">steam-store-published-5120680</guid>
-  <pubDate>Thu, 20 Aug 2026 22:59:26 +0000</pubDate>
-  <description>Dead &amp;amp; Delicious is a chaotic co-op burger shop simulator for 1-4 players. Serve customers out front while zombies pour in from the back. Shoot them, slice them apart, and feed the pieces into the grinder. Fresh patties, happy customers, and nobody ever asks where the meat came from.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120680/86f1e707908a0f8053ec3f10cea6c08f8ca3db6d/header.jpg?t=1787265907" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120680/86f1e707908a0f8053ec3f10cea6c08f8ca3db6d/header.jpg?t=1787265907" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120680/86f1e707908a0f8053ec3f10cea6c08f8ca3db6d/header.jpg?t=1787265907" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5120680/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120680/86f1e707908a0f8053ec3f10cea6c08f8ca3db6d/header.jpg?t=1787265907" alt="Dead &amp; Delicious（新規追加）" /></a></p><p>Dead &amp;amp; Delicious is a chaotic co-op burger shop simulator for 1-4 players. Serve customers out front while zombies pour in from the back. Shoot them, slice them apart, and feed the pieces into the grinder. Fresh patties, happy customers, and nobody ever asks where the meat came from.</p><p><a href="https://store.steampowered.com/app/5120680/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
