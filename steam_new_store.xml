@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 22:21:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 23:16:42 +0000</lastBuildDate>
+<item>
+  <title>GRIDLOCK GAMBIT（新規追加）</title>
+  <link>https://store.steampowered.com/app/5111140/</link>
+  <guid isPermaLink="false">steam-store-published-5111140</guid>
+  <pubDate>Sat, 22 Aug 2026 23:16:42 +0000</pubDate>
+  <description>A roguelike tower defense on a chessboard that reshapes itself every turn. Build mazes and fend off the advancing army of black chess pieces with towers, traps, and cards.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111140/0ed27d5f381f2ce98d9d60d6249b13135c27e855/header.jpg?t=1787440583" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111140/0ed27d5f381f2ce98d9d60d6249b13135c27e855/header.jpg?t=1787440583" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111140/0ed27d5f381f2ce98d9d60d6249b13135c27e855/header.jpg?t=1787440583" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5111140/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111140/0ed27d5f381f2ce98d9d60d6249b13135c27e855/header.jpg?t=1787440583" alt="GRIDLOCK GAMBIT（新規追加）" /></a></p><p>A roguelike tower defense on a chessboard that reshapes itself every turn. Build mazes and fend off the advancing army of black chess pieces with towers, traps, and cards.</p><p><a href="https://store.steampowered.com/app/5111140/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PhDing in the UK（新規追加）</title>
   <link>https://store.steampowered.com/app/5107740/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082750/3112e7244575a33e1eca143fd3bf6b72131882c1/header.jpg?t=1787316706" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082750/3112e7244575a33e1eca143fd3bf6b72131882c1/header.jpg?t=1787316706" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5082750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082750/3112e7244575a33e1eca143fd3bf6b72131882c1/header.jpg?t=1787316706" alt="Kronon Era（新規追加）" /></a></p><p>A horde survivor where co-op is the game: meet other players in a living city, form a party, and step through the portal into 10 to 30 minute runs with bosses that swap the arena, biomes that change how you move, and collectible heroes with roles that truly matter.</p><p><a href="https://store.steampowered.com/app/5082750/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Numpad Chef: Pizza Rush（新規追加）</title>
-  <link>https://store.steampowered.com/app/4591740/</link>
-  <guid isPermaLink="false">steam-store-published-4591740</guid>
-  <pubDate>Fri, 21 Aug 2026 13:41:37 +0000</pubDate>
-  <description>Turn your numpad into a pizza kitchen. Type fast, cook faster. Master a unique number-based control system as you prepare, top, and bake pizzas under pressure in a cozy 3D farm kitchen, where every order counts and every mistake matters.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4591740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009" alt="Numpad Chef: Pizza Rush（新規追加）" /></a></p><p>Turn your numpad into a pizza kitchen. Type fast, cook faster. Master a unique number-based control system as you prepare, top, and bake pizzas under pressure in a cozy 3D farm kitchen, where every order counts and every mistake matters.</p><p><a href="https://store.steampowered.com/app/4591740/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
