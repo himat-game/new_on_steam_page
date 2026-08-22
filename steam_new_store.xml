@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 20:42:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 21:18:04 +0000</lastBuildDate>
+<item>
+  <title>Simple Football League Manager（新規追加）</title>
+  <link>https://store.steampowered.com/app/5099850/</link>
+  <guid isPermaLink="false">steam-store-published-5099850</guid>
+  <pubDate>Sat, 22 Aug 2026 21:18:04 +0000</pubDate>
+  <description>Football management back to its roots, inspired by the genre classics. 5,909 clubs, 218 countries, 6 regions and 118,180 players. Choose your club and guide it through league, cup and continental competitions. Featuring two difficulty modes, local multiplayer and an easily customizable database.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099850/7545d8af6823cf276442b83429a30589637dca66/header.jpg?t=1787431355" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099850/7545d8af6823cf276442b83429a30589637dca66/header.jpg?t=1787431355" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099850/7545d8af6823cf276442b83429a30589637dca66/header.jpg?t=1787431355" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5099850/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099850/7545d8af6823cf276442b83429a30589637dca66/header.jpg?t=1787431355" alt="Simple Football League Manager（新規追加）" /></a></p><p>Football management back to its roots, inspired by the genre classics. 5,909 clubs, 218 countries, 6 regions and 118,180 players. Choose your club and guide it through league, cup and continental competitions. Featuring two difficulty modes, local multiplayer and an easily customizable database.</p><p><a href="https://store.steampowered.com/app/5099850/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Chainball（新規追加）</title>
   <link>https://store.steampowered.com/app/5107510/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838670/56dcd5487d7a0a8938908b76d8d9c793dafca59b/header.jpg?t=1787314967" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838670/56dcd5487d7a0a8938908b76d8d9c793dafca59b/header.jpg?t=1787314967" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4838670/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838670/56dcd5487d7a0a8938908b76d8d9c793dafca59b/header.jpg?t=1787314967" alt="Heroll: IF（新規追加）" /></a></p><p>Roll the dice, survive the chaos, and rebuild a broken world in this roguelite board-game RPG. Battle through unpredictable loops, recruit adorable pets, face wild events, and grow stronger with every roll.</p><p><a href="https://store.steampowered.com/app/4838670/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Will This Do?（新規追加）</title>
-  <link>https://store.steampowered.com/app/5111640/</link>
-  <guid isPermaLink="false">steam-store-published-5111640</guid>
-  <pubDate>Fri, 21 Aug 2026 12:50:48 +0000</pubDate>
-  <description>Run a small shop. Buy stock from wholesalers, find what each customer needs, and purchase the materials they bring. Make a profit, sell at a loss, give items away, or refuse the deal. But remember: one item, sold or withheld, can decide who lives and who dies.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111640/392ab7237e5fca8fda51f287906a56adb2a45aac/header.jpg?t=1787315221" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111640/392ab7237e5fca8fda51f287906a56adb2a45aac/header.jpg?t=1787315221" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111640/392ab7237e5fca8fda51f287906a56adb2a45aac/header.jpg?t=1787315221" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5111640/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111640/392ab7237e5fca8fda51f287906a56adb2a45aac/header.jpg?t=1787315221" alt="Will This Do?（新規追加）" /></a></p><p>Run a small shop. Buy stock from wholesalers, find what each customer needs, and purchase the materials they bring. Make a profit, sell at a loss, give items away, or refuse the deal. But remember: one item, sold or withheld, can decide who lives and who dies.</p><p><a href="https://store.steampowered.com/app/5111640/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
