@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 15:56:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 16:19:19 +0000</lastBuildDate>
+<item>
+  <title>Combat Orders &#x27;42（新規追加）</title>
+  <link>https://store.steampowered.com/app/5042510/</link>
+  <guid isPermaLink="false">steam-store-published-5042510</guid>
+  <pubDate>Sat, 22 Aug 2026 16:19:19 +0000</pubDate>
+  <description>Combat Orders ’42 is a modern turn-based strategy game inspired by the classics, set in the world of Asteris. Use skills, control lines of sight, adapt to changing conditions, and outmaneuver an aggressive enemy to master every battlefield.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042510/4820a2b246a7ec48e086b9482a0543d16ca44ccc/header.jpg?t=1787414680" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042510/4820a2b246a7ec48e086b9482a0543d16ca44ccc/header.jpg?t=1787414680" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042510/4820a2b246a7ec48e086b9482a0543d16ca44ccc/header.jpg?t=1787414680" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5042510/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042510/4820a2b246a7ec48e086b9482a0543d16ca44ccc/header.jpg?t=1787414680" alt="Combat Orders &#x27;42（新規追加）" /></a></p><p>Combat Orders ’42 is a modern turn-based strategy game inspired by the classics, set in the world of Asteris. Use skills, control lines of sight, adapt to changing conditions, and outmaneuver an aggressive enemy to master every battlefield.</p><p><a href="https://store.steampowered.com/app/5042510/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Dual Cultivation: Sword Immortal Chronicles（新規追加）</title>
   <link>https://store.steampowered.com/app/5112100/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117740/e6baad6f3a36e575a64f7598919e0d7453fc0732/header.jpg?t=1787305828" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117740/e6baad6f3a36e575a64f7598919e0d7453fc0732/header.jpg?t=1787305828" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5117740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117740/e6baad6f3a36e575a64f7598919e0d7453fc0732/header.jpg?t=1787305828" alt="The Golden Seam（新規追加）" /></a></p><p>A quiet game about mending what&#x27;s broken and learning to wear the seams. Turn each fracture, slide the pieces home, and seal the crack in gold. No timers, no score, no way to fail. Break and mend. The gold remembers.</p><p><a href="https://store.steampowered.com/app/5117740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Megachest（新規追加）</title>
-  <link>https://store.steampowered.com/app/5076240/</link>
-  <guid isPermaLink="false">steam-store-published-5076240</guid>
-  <pubDate>Fri, 21 Aug 2026 10:03:37 +0000</pubDate>
-  <description>Megachest is an incremental game about opening chests, discovering legendary loot, and building your ultimate fortune empire! Start with simple rewards and grow into a master of magic and riches as you unlock rare items, upgrade your power, and hire helpers to automate your chest-opening journey</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076240/222d444dcdb6c74680dfbbd43d7d74d54eaccc3f/header.jpg?t=1787305495" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076240/222d444dcdb6c74680dfbbd43d7d74d54eaccc3f/header.jpg?t=1787305495" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076240/222d444dcdb6c74680dfbbd43d7d74d54eaccc3f/header.jpg?t=1787305495" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5076240/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076240/222d444dcdb6c74680dfbbd43d7d74d54eaccc3f/header.jpg?t=1787305495" alt="Megachest（新規追加）" /></a></p><p>Megachest is an incremental game about opening chests, discovering legendary loot, and building your ultimate fortune empire! Start with simple rewards and grow into a master of magic and riches as you unlock rare items, upgrade your power, and hire helpers to automate your chest-opening journey</p><p><a href="https://store.steampowered.com/app/5076240/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
