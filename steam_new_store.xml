@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 07:57:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 08:32:32 +0000</lastBuildDate>
+<item>
+  <title>Pending Review（新規追加）</title>
+  <link>https://store.steampowered.com/app/5119450/</link>
+  <guid isPermaLink="false">steam-store-published-5119450</guid>
+  <pubDate>Sat, 22 Aug 2026 08:32:32 +0000</pubDate>
+  <description>Every applicant needs the money. Most of them are lying. Find it in the paperwork, stamp APPROVE or REJECT, call the next one in. The rules change every morning and nobody explains why. You are reviewing them. Somebody upstairs is reviewing you.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119450/c694b263e7b0af0851421a4691cf53f761548a27/header.jpg?t=1787387388" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119450/c694b263e7b0af0851421a4691cf53f761548a27/header.jpg?t=1787387388" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119450/c694b263e7b0af0851421a4691cf53f761548a27/header.jpg?t=1787387388" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5119450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119450/c694b263e7b0af0851421a4691cf53f761548a27/header.jpg?t=1787387388" alt="Pending Review（新規追加）" /></a></p><p>Every applicant needs the money. Most of them are lying. Find it in the paperwork, stamp APPROVE or REJECT, call the next one in. The rules change every morning and nobody explains why. You are reviewing them. Somebody upstairs is reviewing you.</p><p><a href="https://store.steampowered.com/app/5119450/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Ramen Haven（新規追加）</title>
   <link>https://store.steampowered.com/app/5101750/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078910/108dc9a3543520501bba41226a92439f3e3172a5/header.jpg?t=1787280249" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078910/108dc9a3543520501bba41226a92439f3e3172a5/header.jpg?t=1787280249" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5078910/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078910/108dc9a3543520501bba41226a92439f3e3172a5/header.jpg?t=1787280249" alt="Wanderbound（新規追加）" /></a></p><p>Leave the beaten path and set off into a cozy world that builds itself as you explore it. Create, observe, catch, gather, camp and climb your way through the seasons.</p><p><a href="https://store.steampowered.com/app/5078910/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>UNBOUND PROVIDENCE（新規追加）</title>
-  <link>https://store.steampowered.com/app/5070660/</link>
-  <guid isPermaLink="false">steam-store-published-5070660</guid>
-  <pubDate>Fri, 21 Aug 2026 03:33:15 +0000</pubDate>
-  <description>『UNBOUND PROVIDENCE』はレトロな3Dダンジョン探索アクションRPG。鉱山から繋がった未知の迷宮を探索しよう！</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070660/5956f2d11e9e9a08370daabf18f845efa9c088b9/header.jpg?t=1787282506" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070660/5956f2d11e9e9a08370daabf18f845efa9c088b9/header.jpg?t=1787282506" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070660/5956f2d11e9e9a08370daabf18f845efa9c088b9/header.jpg?t=1787282506" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5070660/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070660/5956f2d11e9e9a08370daabf18f845efa9c088b9/header.jpg?t=1787282506" alt="UNBOUND PROVIDENCE（新規追加）" /></a></p><p>『UNBOUND PROVIDENCE』はレトロな3Dダンジョン探索アクションRPG。鉱山から繋がった未知の迷宮を探索しよう！</p><p><a href="https://store.steampowered.com/app/5070660/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
