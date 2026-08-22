@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 09:45:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 10:19:08 +0000</lastBuildDate>
+<item>
+  <title>Exspelled（新規追加）</title>
+  <link>https://store.steampowered.com/app/5064270/</link>
+  <guid isPermaLink="false">steam-store-published-5064270</guid>
+  <pubDate>Sat, 22 Aug 2026 10:19:08 +0000</pubDate>
+  <description>Exspelled is a cozy fantasy life sim mixed with tower defense. Build and customize your village, gather resources, welcome outcast creatures, and prepare your defenses. Expand your settlement, strengthen your community, and protect your new home against increasingly dangerous waves of enemies.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064270/ed72eecd77a6349e8d63e053c00529dcc7d4a77e/header.jpg?t=1787392469" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064270/ed72eecd77a6349e8d63e053c00529dcc7d4a77e/header.jpg?t=1787392469" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064270/ed72eecd77a6349e8d63e053c00529dcc7d4a77e/header.jpg?t=1787392469" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5064270/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064270/ed72eecd77a6349e8d63e053c00529dcc7d4a77e/header.jpg?t=1787392469" alt="Exspelled（新規追加）" /></a></p><p>Exspelled is a cozy fantasy life sim mixed with tower defense. Build and customize your village, gather resources, welcome outcast creatures, and prepare your defenses. Expand your settlement, strengthen your community, and protect your new home against increasingly dangerous waves of enemies.</p><p><a href="https://store.steampowered.com/app/5064270/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Long Watch（新規追加）</title>
   <link>https://store.steampowered.com/app/5079730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901550/cd5b52e4b793fbb6c4ba4d3010ce9d7f07a47932/header.jpg?t=1787286145" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901550/cd5b52e4b793fbb6c4ba4d3010ce9d7f07a47932/header.jpg?t=1787286145" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4901550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901550/cd5b52e4b793fbb6c4ba4d3010ce9d7f07a47932/header.jpg?t=1787286145" alt="MASK IT（新規追加）" /></a></p><p>MASK IT is a black-comedy adventure about manufacturing outrage by &amp;quot;editing&amp;quot; the news. As a fresh news editor, your job is to give dull everyday news a little &amp;quot;touch-up&amp;quot; and turn it into a viral sensation no one can look away from!</p><p><a href="https://store.steampowered.com/app/4901550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>INNER EKO（新規追加）</title>
-  <link>https://store.steampowered.com/app/5094560/</link>
-  <guid isPermaLink="false">steam-store-published-5094560</guid>
-  <pubDate>Fri, 21 Aug 2026 04:58:32 +0000</pubDate>
-  <description>A dreamlike first-person platformer about the thoughts you can&#x27;t let go of. Explore a strange world, meet mysterious beings, and face yourself.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094560/713b14771fe966f06b9348c7d4e960983b68ae66/header.jpg?t=1787288171" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094560/713b14771fe966f06b9348c7d4e960983b68ae66/header.jpg?t=1787288171" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094560/713b14771fe966f06b9348c7d4e960983b68ae66/header.jpg?t=1787288171" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5094560/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094560/713b14771fe966f06b9348c7d4e960983b68ae66/header.jpg?t=1787288171" alt="INNER EKO（新規追加）" /></a></p><p>A dreamlike first-person platformer about the thoughts you can&#x27;t let go of. Explore a strange world, meet mysterious beings, and face yourself.</p><p><a href="https://store.steampowered.com/app/5094560/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
