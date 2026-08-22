@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 13:47:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 14:17:06 +0000</lastBuildDate>
+<item>
+  <title>KANSYS: Storms Suppressed（新規追加）</title>
+  <link>https://store.steampowered.com/app/5133780/</link>
+  <guid isPermaLink="false">steam-store-published-5133780</guid>
+  <pubDate>Sat, 22 Aug 2026 14:17:06 +0000</pubDate>
+  <description>Match the herd before the sky takes it. Dawdle and a twister picks its lane across the board — matches in its path pay double, and clear every one of them and it dies on the spot for triple. Three timed modes, one 11x11 board, no filler.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133780/34b94040a99ce6a1f80fe92833d89e2879729288/header.jpg?t=1787407793" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133780/34b94040a99ce6a1f80fe92833d89e2879729288/header.jpg?t=1787407793" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133780/34b94040a99ce6a1f80fe92833d89e2879729288/header.jpg?t=1787407793" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5133780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133780/34b94040a99ce6a1f80fe92833d89e2879729288/header.jpg?t=1787407793" alt="KANSYS: Storms Suppressed（新規追加）" /></a></p><p>Match the herd before the sky takes it. Dawdle and a twister picks its lane across the board — matches in its path pay double, and clear every one of them and it dies on the spot for triple. Three timed modes, one 11x11 board, no filler.</p><p><a href="https://store.steampowered.com/app/5133780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>San Bernardino（新規追加）</title>
   <link>https://store.steampowered.com/app/3668730/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949450/82fa428c8f3d0c47bcc73b2e4e44a2beb2a5b355/header.jpg?t=1787299179" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949450/82fa428c8f3d0c47bcc73b2e4e44a2beb2a5b355/header.jpg?t=1787299179" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4949450/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949450/82fa428c8f3d0c47bcc73b2e4e44a2beb2a5b355/header.jpg?t=1787299179" alt="UnderForged（新規追加）" /></a></p><p>UnderForged is a chaotic co-op crafting game where you play as a team of dwarven blacksmiths. Mine, smelt, and forge raw iron into legendary equipment. Expand your workshop, upgrade your tools, and most importantly fulfil your contracts.</p><p><a href="https://store.steampowered.com/app/4949450/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>English（新規追加）</title>
-  <link>https://store.steampowered.com/app/5078750/</link>
-  <guid isPermaLink="false">steam-store-published-5078750</guid>
-  <pubDate>Fri, 21 Aug 2026 07:59:43 +0000</pubDate>
-  <description>Icame Isaw Iconquered is a fast-paced action roguelike where you fight through ridiculous hordes of enemies, grab crazy upgrades, build completely broken combinations, and survive whatever the game throws at you. Trust me, it gets crazy.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078750/704cf2d4d6be4ac4763bb2f871c808095bdd7a06/header.jpg?t=1787297519" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078750/704cf2d4d6be4ac4763bb2f871c808095bdd7a06/header.jpg?t=1787297519" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078750/704cf2d4d6be4ac4763bb2f871c808095bdd7a06/header.jpg?t=1787297519" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5078750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078750/704cf2d4d6be4ac4763bb2f871c808095bdd7a06/header.jpg?t=1787297519" alt="English（新規追加）" /></a></p><p>Icame Isaw Iconquered is a fast-paced action roguelike where you fight through ridiculous hordes of enemies, grab crazy upgrades, build completely broken combinations, and survive whatever the game throws at you. Trust me, it gets crazy.</p><p><a href="https://store.steampowered.com/app/5078750/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
