@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 10:43:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 11:17:23 +0000</lastBuildDate>
+<item>
+  <title>A Game About Popping Bubbles（新規追加）</title>
+  <link>https://store.steampowered.com/app/4852750/</link>
+  <guid isPermaLink="false">steam-store-published-4852750</guid>
+  <pubDate>Sat, 22 Aug 2026 11:17:23 +0000</pubDate>
+  <description>A relaxing, cozy, classic screensaver-inspired game about popping bubbles with satisfying VFX and SFX. Upgrade your equipment for even better pops, unlock achievements, and uncover a mysterious secret.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852750/d7b7785b45bdfae31e5cfb6e3a7ec6cbe5be5179/header.jpg?t=1787395751" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852750/d7b7785b45bdfae31e5cfb6e3a7ec6cbe5be5179/header.jpg?t=1787395751" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852750/d7b7785b45bdfae31e5cfb6e3a7ec6cbe5be5179/header.jpg?t=1787395751" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4852750/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852750/d7b7785b45bdfae31e5cfb6e3a7ec6cbe5be5179/header.jpg?t=1787395751" alt="A Game About Popping Bubbles（新規追加）" /></a></p><p>A relaxing, cozy, classic screensaver-inspired game about popping bubbles with satisfying VFX and SFX. Upgrade your equipment for even better pops, unlock achievements, and uncover a mysterious secret.</p><p><a href="https://store.steampowered.com/app/4852750/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Brick Brook（新規追加）</title>
   <link>https://store.steampowered.com/app/5049880/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120320/e337a031c9e513450b89fe43fb1219766a8962b1/header.jpg?t=1787290181" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120320/e337a031c9e513450b89fe43fb1219766a8962b1/header.jpg?t=1787290181" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5120320/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120320/e337a031c9e513450b89fe43fb1219766a8962b1/header.jpg?t=1787290181" alt="Faultfinder（新規追加）" /></a></p><p>She kept the machine that holds the city up. It ran correctly for eleven years, and last night it killed her. Step through her rune-tape, watch the registers, rewind the trace, and name the line that did it. You never write a program. You read one, and you convict it.</p><p><a href="https://store.steampowered.com/app/5120320/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Echo Mates（新規追加）</title>
-  <link>https://store.steampowered.com/app/5113760/</link>
-  <guid isPermaLink="false">steam-store-published-5113760</guid>
-  <pubDate>Fri, 21 Aug 2026 05:36:35 +0000</pubDate>
-  <description>To see, you must speak. To speak is to be found. A co-op horror in near-total darkness where every sound sends out a wave that lights the level — and calls whatever lives in it. 1–4 players, real voice, microphone required.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113760/2b764f74f7e07eac468ffa380c84166348e91814/header.jpg?t=1787288406" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113760/2b764f74f7e07eac468ffa380c84166348e91814/header.jpg?t=1787288406" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113760/2b764f74f7e07eac468ffa380c84166348e91814/header.jpg?t=1787288406" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5113760/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113760/2b764f74f7e07eac468ffa380c84166348e91814/header.jpg?t=1787288406" alt="Echo Mates（新規追加）" /></a></p><p>To see, you must speak. To speak is to be found. A co-op horror in near-total darkness where every sound sends out a wave that lights the level — and calls whatever lives in it. 1–4 players, real voice, microphone required.</p><p><a href="https://store.steampowered.com/app/5113760/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
