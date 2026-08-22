@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 02:28:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 03:22:37 +0000</lastBuildDate>
+<item>
+  <title>Epic Seven（新規追加）</title>
+  <link>https://store.steampowered.com/app/5019180/</link>
+  <guid isPermaLink="false">steam-store-published-5019180</guid>
+  <pubDate>Sat, 22 Aug 2026 03:22:37 +0000</pubDate>
+  <description>PLAY THE ANIMATION! A playable anime in your hands, Epic Seven. A turn-based Hero collection RPG alive with stunning 2D visuals. Collect unique Heroes in the Seventh World and plan your path to victory through elemental effects and skill combinations. Challenge Heirs worldwide in World Arena PvP.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019180/6dabc3f404b51e08ab22763d3df4808081baa5e0/header.jpg?t=1787367697" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019180/6dabc3f404b51e08ab22763d3df4808081baa5e0/header.jpg?t=1787367697" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019180/6dabc3f404b51e08ab22763d3df4808081baa5e0/header.jpg?t=1787367697" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5019180/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019180/6dabc3f404b51e08ab22763d3df4808081baa5e0/header.jpg?t=1787367697" alt="Epic Seven（新規追加）" /></a></p><p>PLAY THE ANIMATION! A playable anime in your hands, Epic Seven. A turn-based Hero collection RPG alive with stunning 2D visuals. Collect unique Heroes in the Seventh World and plan your path to victory through elemental effects and skill combinations. Challenge Heirs worldwide in World Arena PvP.</p><p><a href="https://store.steampowered.com/app/5019180/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Lust Isles（新規追加）</title>
   <link>https://store.steampowered.com/app/5122610/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056860/6757c2f69ce2c5677a445ad8195e9f13329dadeb/header.jpg?t=1787270770" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056860/6757c2f69ce2c5677a445ad8195e9f13329dadeb/header.jpg?t=1787270770" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5056860/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056860/6757c2f69ce2c5677a445ad8195e9f13329dadeb/header.jpg?t=1787270770" alt="Mech Brawl（新規追加）" /></a></p><p>Mecha Brawl: A pure tactics game made by a father &amp;amp; son! Packed with a kid&#x27;s wild imagination, unique designs, and fun mechanics. Enjoy easy-to-learn, direct battles rich in strategic counters! Come help us expand this mech universe!</p><p><a href="https://store.steampowered.com/app/5056860/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>ESCAPE: FALSE COLORS（新規追加）</title>
-  <link>https://store.steampowered.com/app/4992820/</link>
-  <guid isPermaLink="false">steam-store-published-4992820</guid>
-  <pubDate>Fri, 21 Aug 2026 01:05:53 +0000</pubDate>
-  <description>A multiplayer party game blending creative painting, identity deception, and psychological horror chase. Paint your disguise, hide among your surroundings, deceive your enemies, and survive the hunt until the last player remains.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992820/d292392637836f4c37aad35e28ce946b0c5117d4/header.jpg?t=1787271870" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992820/d292392637836f4c37aad35e28ce946b0c5117d4/header.jpg?t=1787271870" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992820/d292392637836f4c37aad35e28ce946b0c5117d4/header.jpg?t=1787271870" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4992820/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992820/d292392637836f4c37aad35e28ce946b0c5117d4/header.jpg?t=1787271870" alt="ESCAPE: FALSE COLORS（新規追加）" /></a></p><p>A multiplayer party game blending creative painting, identity deception, and psychological horror chase. Paint your disguise, hide among your surroundings, deceive your enemies, and survive the hunt until the last player remains.</p><p><a href="https://store.steampowered.com/app/4992820/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
