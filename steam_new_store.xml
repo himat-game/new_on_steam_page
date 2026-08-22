@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sat, 22 Aug 2026 21:57:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 22:21:51 +0000</lastBuildDate>
+<item>
+  <title>PhDing in the UK（新規追加）</title>
+  <link>https://store.steampowered.com/app/5107740/</link>
+  <guid isPermaLink="false">steam-store-published-5107740</guid>
+  <pubDate>Sat, 22 Aug 2026 22:21:51 +0000</pubDate>
+  <description>A pixel-art life sim about surviving a PhD in the UK. Manage your time, write your thesis, and turn academic crises like cruel reviewers, looming deadlines, and your viva into turn-based card battles. Build a deck from your own research and see how far you get.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107740/b96c367f5f30d59c0af241ee1c193bac59205157/header.jpg?t=1787436218" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107740/b96c367f5f30d59c0af241ee1c193bac59205157/header.jpg?t=1787436218" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107740/b96c367f5f30d59c0af241ee1c193bac59205157/header.jpg?t=1787436218" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5107740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107740/b96c367f5f30d59c0af241ee1c193bac59205157/header.jpg?t=1787436218" alt="PhDing in the UK（新規追加）" /></a></p><p>A pixel-art life sim about surviving a PhD in the UK. Manage your time, write your thesis, and turn academic crises like cruel reviewers, looming deadlines, and your viva into turn-based card battles. Build a deck from your own research and see how far you get.</p><p><a href="https://store.steampowered.com/app/5107740/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>WEAPONS FREE（新規追加）</title>
   <link>https://store.steampowered.com/app/5025360/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4591740/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009" alt="Numpad Chef: Pizza Rush（新規追加）" /></a></p><p>Turn your numpad into a pizza kitchen. Type fast, cook faster. Master a unique number-based control system as you prepare, top, and bake pizzas under pressure in a cozy 3D farm kitchen, where every order counts and every mistake matters.</p><p><a href="https://store.steampowered.com/app/4591740/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Trouble Thief（新規追加）</title>
-  <link>https://store.steampowered.com/app/5075030/</link>
-  <guid isPermaLink="false">steam-store-published-5075030</guid>
-  <pubDate>Fri, 21 Aug 2026 12:50:48 +0000</pubDate>
-  <description>Steal your way through 30 levels. Just pick up the loot and carry it back to the safe zone, no problem. Each level has very challenging time trials and a no-hit challenge. The game is mainly designed around beating the levels as fast as possible.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075030/32f71bedff06ab2799df5e8b1521e6ae07b215c7/header.jpg?t=1787314372" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075030/32f71bedff06ab2799df5e8b1521e6ae07b215c7/header.jpg?t=1787314372" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075030/32f71bedff06ab2799df5e8b1521e6ae07b215c7/header.jpg?t=1787314372" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5075030/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075030/32f71bedff06ab2799df5e8b1521e6ae07b215c7/header.jpg?t=1787314372" alt="Trouble Thief（新規追加）" /></a></p><p>Steal your way through 30 levels. Just pick up the loot and carry it back to the safe zone, no problem. Each level has very challenging time trials and a no-hit challenge. The game is mainly designed around beating the levels as fast as possible.</p><p><a href="https://store.steampowered.com/app/5075030/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
