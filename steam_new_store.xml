@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 23 Aug 2026 08:36:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 09:45:41 +0000</lastBuildDate>
+<item>
+  <title>Moon Shop Simulator（新規追加）</title>
+  <link>https://store.steampowered.com/app/4926780/</link>
+  <guid isPermaLink="false">steam-store-published-4926780</guid>
+  <pubDate>Sun, 23 Aug 2026 09:45:41 +0000</pubDate>
+  <description>Run a cozy shop beneath the lunar surface. Order goods from Earth, manage cargo taxes, organize your stock in numbered racks, prepare customer orders, and grow your quiet moon-based business in a first-person management simulator.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926780/2a6500ed771ff80affcedde2a855eb4f44537da6/header.jpg?t=1787476898" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926780/2a6500ed771ff80affcedde2a855eb4f44537da6/header.jpg?t=1787476898" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926780/2a6500ed771ff80affcedde2a855eb4f44537da6/header.jpg?t=1787476898" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4926780/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926780/2a6500ed771ff80affcedde2a855eb4f44537da6/header.jpg?t=1787476898" alt="Moon Shop Simulator（新規追加）" /></a></p><p>Run a cozy shop beneath the lunar surface. Order goods from Earth, manage cargo taxes, organize your stock in numbered racks, prepare customer orders, and grow your quiet moon-based business in a first-person management simulator.</p><p><a href="https://store.steampowered.com/app/4926780/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Pawville（新規追加）</title>
   <link>https://store.steampowered.com/app/5065630/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107090/08e604e91c0320e6862b5817b37faec8fefcfb1e/header.jpg?t=1787328035" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107090/08e604e91c0320e6862b5817b37faec8fefcfb1e/header.jpg?t=1787328035" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5107090/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107090/08e604e91c0320e6862b5817b37faec8fefcfb1e/header.jpg?t=1787328035" alt="DIRTY VAMPIRES（新規追加）" /></a></p><p>DIRTY VAMPIRES - is a simple 2D game for adults in which you have to uncover hot images of beautiful ladies.</p><p><a href="https://store.steampowered.com/app/5107090/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Esports Dynasty Manager（新規追加）</title>
-  <link>https://store.steampowered.com/app/5109620/</link>
-  <guid isPermaLink="false">steam-store-published-5109620</guid>
-  <pubDate>Fri, 21 Aug 2026 16:28:46 +0000</pubDate>
-  <description>Take command of an esports organization in a competitive MOBA universe. Build your roster, develop talent, master the draft and the meta, manage finances and infrastructure, compete in major championships, and build a true dynasty.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109620/7334f72c256c07b6008f327e31e9f5fee3ac98b8/header.jpg?t=1787327859" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109620/7334f72c256c07b6008f327e31e9f5fee3ac98b8/header.jpg?t=1787327859" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109620/7334f72c256c07b6008f327e31e9f5fee3ac98b8/header.jpg?t=1787327859" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5109620/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109620/7334f72c256c07b6008f327e31e9f5fee3ac98b8/header.jpg?t=1787327859" alt="Esports Dynasty Manager（新規追加）" /></a></p><p>Take command of an esports organization in a competitive MOBA universe. Build your roster, develop talent, master the draft and the meta, manage finances and infrastructure, compete in major championships, and build a true dynasty.</p><p><a href="https://store.steampowered.com/app/5109620/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
