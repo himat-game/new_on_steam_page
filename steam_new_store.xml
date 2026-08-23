@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 23 Aug 2026 07:29:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 07:59:04 +0000</lastBuildDate>
+<item>
+  <title>Highscore（新規追加）</title>
+  <link>https://store.steampowered.com/app/5037900/</link>
+  <guid isPermaLink="false">steam-store-published-5037900</guid>
+  <pubDate>Sun, 23 Aug 2026 07:59:04 +0000</pubDate>
+  <description>A true old-school arcade where only one thing truly matters: the Score. Blast your way through endless swarms of enemies and lethal bosses, but stay alert: every hit you take won&#x27;t just damage your ship, it directly destroys your score!</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037900/1bfc5579518e8ec8ad78e958a529d4ee184c2a50/header.jpg?t=1787470755" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037900/1bfc5579518e8ec8ad78e958a529d4ee184c2a50/header.jpg?t=1787470755" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037900/1bfc5579518e8ec8ad78e958a529d4ee184c2a50/header.jpg?t=1787470755" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5037900/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037900/1bfc5579518e8ec8ad78e958a529d4ee184c2a50/header.jpg?t=1787470755" alt="Highscore（新規追加）" /></a></p><p>A true old-school arcade where only one thing truly matters: the Score. Blast your way through endless swarms of enemies and lethal bosses, but stay alert: every hit you take won&#x27;t just damage your ship, it directly destroys your score!</p><p><a href="https://store.steampowered.com/app/5037900/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>Archronica（新規追加）</title>
   <link>https://store.steampowered.com/app/5126080/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118550/8cd763d21eaa47524596b56e719e845731b797f6/header.jpg?t=1787329431" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118550/8cd763d21eaa47524596b56e719e845731b797f6/header.jpg?t=1787329431" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5118550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118550/8cd763d21eaa47524596b56e719e845731b797f6/header.jpg?t=1787329431" alt="The Demon Lord&#x27;s Maid Cafe（新規追加）" /></a></p><p>Take my order, brother! The Demon Lord&#x27;s Maid Cafe is a short cafe-themed incremental game about feeding slimes in a Maid Cafe. Buy upgrades, feed slimes, and take your Maid Cafe to the top.</p><p><a href="https://store.steampowered.com/app/5118550/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Larina（新規追加）</title>
-  <link>https://store.steampowered.com/app/5122550/</link>
-  <guid isPermaLink="false">steam-store-published-5122550</guid>
-  <pubDate>Fri, 21 Aug 2026 16:28:46 +0000</pubDate>
-  <description>Larina is a turn-based fantasy RPG focused on character building, dungeon crawling and loot. Master different combat Souls, hunt for Rare, Set, and Unique equipment. Acquire or craft powerful gear, defeat dangerous bosses, and explore repeatable Maps filled with new challenges and rewards.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122550/336572d077dce23afc8341aed4c0fc42b38ffc30/header.jpg?t=1787327863" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122550/336572d077dce23afc8341aed4c0fc42b38ffc30/header.jpg?t=1787327863" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122550/336572d077dce23afc8341aed4c0fc42b38ffc30/header.jpg?t=1787327863" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5122550/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122550/336572d077dce23afc8341aed4c0fc42b38ffc30/header.jpg?t=1787327863" alt="Larina（新規追加）" /></a></p><p>Larina is a turn-based fantasy RPG focused on character building, dungeon crawling and loot. Master different combat Souls, hunt for Rare, Set, and Unique equipment. Acquire or craft powerful gear, defeat dangerous bosses, and explore repeatable Maps filled with new challenges and rewards.</p><p><a href="https://store.steampowered.com/app/5122550/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
