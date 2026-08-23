@@ -5,7 +5,18 @@
 <link>https://store.steampowered.com/</link>
 <description>Games whose Steam store page just went public (detected)</description>
 <language>ja-jp</language>
-<lastBuildDate>Sun, 23 Aug 2026 04:56:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 05:28:30 +0000</lastBuildDate>
+<item>
+  <title>SpellFast（新規追加）</title>
+  <link>https://store.steampowered.com/app/4539990/</link>
+  <guid isPermaLink="false">steam-store-published-4539990</guid>
+  <pubDate>Sun, 23 Aug 2026 05:28:30 +0000</pubDate>
+  <description>A fast-paced multiplayer word game. Chain letters across a shared board, bank coins, and spend them on abilities that swap, change, or shuffle tiles. Race the clock in Bullet, take your time in Rapid, or host a private lobby with friends. In English and Spanish.</description>
+  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539990/7bfa0178a7f88d672a5857240db6d453a780775c/header.jpg?t=1787462136" type="image/jpeg" />
+  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539990/7bfa0178a7f88d672a5857240db6d453a780775c/header.jpg?t=1787462136" type="image/jpeg" />
+  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539990/7bfa0178a7f88d672a5857240db6d453a780775c/header.jpg?t=1787462136" />
+  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/4539990/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539990/7bfa0178a7f88d672a5857240db6d453a780775c/header.jpg?t=1787462136" alt="SpellFast（新規追加）" /></a></p><p>A fast-paced multiplayer word game. Chain letters across a shared board, bank coins, and spend them on abilities that swap, change, or shuffle tiles. Race the clock in Bullet, take your time in Rapid, or host a private lobby with friends. In English and Spanish.</p><p><a href="https://store.steampowered.com/app/4539990/">Steamでページを開く</a></p>]]></content:encoded>
+</item>
 <item>
   <title>PooDaddy（新規追加）</title>
   <link>https://store.steampowered.com/app/5067930/</link>
@@ -3294,17 +3305,6 @@
   <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042870/b5ea4b223f4fc95e890c1e000b501373f3600f53/header.jpg?t=1787326655" type="image/jpeg" />
   <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042870/b5ea4b223f4fc95e890c1e000b501373f3600f53/header.jpg?t=1787326655" />
   <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5042870/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042870/b5ea4b223f4fc95e890c1e000b501373f3600f53/header.jpg?t=1787326655" alt="Random Mix（新規追加）" /></a></p><p>The rhythm game that writes a brand-new song every time you press play. 50 genres synthesized live. Tap it, remix it, or build your own: you are the DJ and the producer, no music knowledge needed. Fully offline.</p><p><a href="https://store.steampowered.com/app/5042870/">Steamでページを開く</a></p>]]></content:encoded>
-</item>
-<item>
-  <title>Marble Mill（新規追加）</title>
-  <link>https://store.steampowered.com/app/5077600/</link>
-  <guid isPermaLink="false">steam-store-published-5077600</guid>
-  <pubDate>Fri, 21 Aug 2026 15:50:28 +0000</pubDate>
-  <description>An idle game where every coin is a real collision. Build a marble mill, watch it grow into a roaring machine — and finish it in one satisfying evening. 100% achievements in ~3 hours, endless sandbox after. An idle game that ends.</description>
-  <enclosure url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077600/7bc968f30784a351a58bfef85c4f9069e00513f6/header.jpg?t=1787324815" type="image/jpeg" />
-  <media:content url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077600/7bc968f30784a351a58bfef85c4f9069e00513f6/header.jpg?t=1787324815" type="image/jpeg" />
-  <media:thumbnail url="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077600/7bc968f30784a351a58bfef85c4f9069e00513f6/header.jpg?t=1787324815" />
-  <content:encoded><![CDATA[<p><a href="https://store.steampowered.com/app/5077600/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077600/7bc968f30784a351a58bfef85c4f9069e00513f6/header.jpg?t=1787324815" alt="Marble Mill（新規追加）" /></a></p><p>An idle game where every coin is a real collision. Build a marble mill, watch it grow into a roaring machine — and finish it in one satisfying evening. 100% achievements in ~3 hours, endless sandbox after. An idle game that ends.</p><p><a href="https://store.steampowered.com/app/5077600/">Steamでページを開く</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
